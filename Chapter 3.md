@@ -6,7 +6,7 @@ She veered away from the main thoroughfare, ducking under the dripping, corrugat
 
 "—officials continue investigating an early morning unauthorized data breach at the Saito Takeda data hub," the anchorwoman’s modulated voice buzzed through a blown-out speaker above the door. "Renewal Agents are conducting authorized sweeps through several lower-city districts. Company representatives insist there is no evidence of self-directed machine intelligence—"
 
-Rin pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *They wouldn't care about stolen routing keys,* she realized. She paused. *They're looking for this.* She pocketed it again securely and stepped back out from under the awning.
+Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *They wouldn't care about stolen routing keys,* she realized. She paused. *They're looking for this.* She pocketed it again securely and stepped back out from under the awning.
 
 As she passed the darkened glass of an adjacent storefront, she caught the reflection of the electronics shop behind her. The dozen vintage screens had simultaneously spasmed. 
 
@@ -91,6 +91,6 @@ Orange muzzle flashes erupted as both agents opened fire. The deafening gunfire 
 
 Without hesitating, Rin abandoned the hallway and sprinted for the emergency stairwell, taking the concrete steps three at a time. 
 
-"Dammit! Gone!" a muffled, modulated voice echoed down the stairwell behind her, barely audible over the ringing in her ears. "Radio it in. Tell them to send drone flyovers. Whoever they are, they won't get far."
+"Dammit! Gone!" a muffled, modulated voice echoed down the stairwell behind her, barely audible over the ringing in her ears. "Radio it in. Tell them to send drone flyovers. Whoever she is, she won't get far."
 
 Rin hit the landing below, holstering her useless pistol and rubbing her throbbing ear before disappearing into the dark alleyway.

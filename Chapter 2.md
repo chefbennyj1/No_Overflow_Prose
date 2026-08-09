@@ -16,9 +16,9 @@ She didn't admire the view. The telemetry data streaming across the glass repres
 
 The terminal awoke, projecting a secure Saito Takeda Corporation login screen in stark text. 
 
-Her fingers flew across the mechanical keyboard. *Hello Company employee RD001, Blackwell.*
+Her fingers flew across the mechanical keyboard. *Hello Company employee: RD001, Blackwell.*
 
-Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled the trojan, initiating a brute-force assault. She deployed her custom decryption worm, its digital signature masked behind her street alias: *Null*. The encryption fought back, a rotating cipher that chewed through her algorithms. She typed furiously, manually guiding the breach until the firewall finally splintered, granting access to the executive files. 
+Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled the trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that chewed through her algorithms. She typed furiously, manually guiding the breach until the firewall finally splintered, granting access to the executive files. 
 
 *Gotcha.* Her eyes locked on the sprawling data.
 
@@ -28,13 +28,11 @@ She bypassed the personal directories, diving straight into the infrastructure s
 
 As the routing keys slowly copied to her drive, a hidden sub-process in Blackwell's directory caught her eye. It was a power consumption log. The numbers didn't make sense. It wasn't a random spike; it was a sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks. 
 
-She opened the file path. The terminal screen flooded with classified schematics for something called the *Mnemosyne Engine*. At the center of the complex data was a wireframe model of a massive, heavily fortified laboratory tower. Rin frowned, her eyes darting from the small screen to the massive window behind the desk. 
+She opened the file path. The screen flooded with classified schematics for something called a *Mnemosyne Engine*. At the center of the complex data was a wireframe of a massive laboratory tower. Rin stopped, her eyes darting from the small screen to the massive window behind her. 
 
-The blue telemetry data cascading across the reinforced glass wasn't just corporate diagnostics. It was a scaled holographic projection of the exact same tower schematic. 
+The blue telemetry data on the glass wasn't just random diagnostics. It was a scaled holographic projection of the exact same tower schematic.  
 
-Rin stepped backward, moving away from the desk until the glowing blue wireframe on the glass perfectly eclipsed a brutalist structure looming in the distant, fog-choked city skyline. The data on the window was monitoring an anomaly localized entirely within that specific building—a hemorrhage tearing at the city's power grid. A *Mnemonic Gravity Well*. 
-
-Rin stared at the distant tower through the wireframe overlay. She suddenly had a target. A direction. 
+Rin stepped backward in the room, moving away from the desk until the glowing wireframe perfectly eclipsed a structure looming in the distant city skyline. It was monitoring an anomaly; localized entirely within that specific building— that had been tearing at the city's power grid for the better part of a month.
 
 Before she could dig deeper, the power routing keys download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
@@ -58,7 +56,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each pr
 
 "We have to intercept Null before Corporate Renewal does," Victor said, his gaze fixed on the landing above. "If Saito Takeda's enforcers find them first, we lose our only lead. And Null loses their life."
 
-Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a massive, augmented revolver that looked like a relic from another century. Its magnetic rails hummed with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
+Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a massive revolver that looked like a relic from another century. Its augmented magnetic rails hummed with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
 
 "Oshima Police Depart—" 
 
@@ -88,7 +86,7 @@ With her free hand, she pulled a low-profile rebreather mask from her collar. It
 
 Rin hooked her finger through the grenade's metal ring.
 
-Out in the hall, Victor tightened his grip on his heavy revolver, stepping toward the ajar doors to breach the office. But before he could, a black canister with a yellow band rolled out from the gap, coming to a dead stop exactly at the tips of his standard-issue dress shoes. 
+Out in the hall, Victor tightened his grip on his heavy revolver, stepping toward the door to breach the office. But before he could, a black canister with a yellow band rolled out from the gap, coming to a dead stop exactly at the tips of his standard-issue dress shoes. 
 
 Victor and Harlan froze. They looked down at the grenade, then slowly looked at each other. 
 
