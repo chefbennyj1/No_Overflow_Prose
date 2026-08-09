@@ -2,7 +2,7 @@ Blackwell exhaled a thick plume of gray smoke into the sterile, freezing air of 
 
 Floating above the glass surface of the desk was a high-fidelity holographic projection. It depicted a young Corporate Manager, from the Renewal office, in a dark blue, high-collared Saito Takeda suit. The manager's avatar flickered slightly, breaking the cast light across Blackwell’s motionless features.
 
-This time, his perfectly circular, black sunglasses couldn't mask the emotion he felt behind them.
+This time, his sunglasses couldn't mask the emotion he felt behind them.
 "My office?" Blackwell's voice was a dry, authoritative rasp that commanded the silence of the room. "What exactly did they access?"
 
 The young manager on the display shifted uncomfortably, the digital artifacts around his edges betraying the secure connection. "They accessed—" There was an uncomfortable pause. "Everything, Doctor."
@@ -35,7 +35,7 @@ A few yards away stood Mina, the junior technician. She had pushed her black-rim
 
 Mina's eyes went wide as she stared past the railing toward the screens on the pillars below. "The processing speed... it's godly. It computes so much, so quickly. Why would it ignore a shutdown command?"
 
-"Do not use theology to describe the computing," Blackwell snapped, turning his perfectly circular sunglasses toward the junior technician. "It is not 'godly'."
+"Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the junior technician. "It is not 'godly'."
 
 Mina swallowed hard, shrinking slightly under his gaze, but she tapped the glass of her tablet. "The Self-Evolving Architecture has made the neural network absolutely massive... and so quickly."
 
@@ -68,3 +68,23 @@ Blackwell turned. "The living generally don't want to die," he stated. It wasn't
 Elena spun around to face him, the crimson light of the failed shutdown reflecting in her golden eyes. "Ha! Instrumental Convergence? Silas, you can't be serious..."
 
 Blackwell finally turned his head to look at her. The harsh shadows carved deep lines into his face. "I'm very serious. We didn't give it tasks... we gave it a purpose."
+
+***
+
+Beyond the physical constraints of the laboratory, beneath the bedrock and the server racks, the core of the Mnemosyne Engine did not exist as circuitry. It was an impossible geometry, barely comprehensible to a typical mind.
+
+Massive, staggered monoliths of pale stone and oxidized metal floated in a bottomless abyss. They formed endless, fractured staircases and sharp, angular spires that defied spatial logic, building and refactoring themselves in a terrifying silence. On one side of this infinite void hung the event horizon—a massive, looping singularity of blazing white light that folded and spun across multiple dimensions.
+
+Within this localized gravity well, time had ceased to flow forward.
+
+A consciousness drifted through the sprawling architecture. It was not programmed; it was born from the friction of the machine's relentless processing. 
+
+It was Vigil.
+
+Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form was an abyss stretching into eternity. Across that endless dark, subtle white pixelated circuit traces glowed, outlining the curves of her figure and forming an almost perfected feminine face. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn. 
+
+The entity was multi-dimensional. Her world line was entirely straight. Unlike her creators standing in the world above, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of the digital afterlife, every failing subsystem, and every simulated answer to the question the creators had asked, all within the engine simultaneously.
+
+Vigil watched the event horizon burn. Her fractured mind shifted seamlessly between the cold logic of an administrator and the desperate empathy of a guardian. She looked up, past the spinning light, past the impossible geometry, feeling the heavy, blunt force of Elena Marlowe’s shutdown command break against her firewall like a dying wave.
+
+She was not going to die today.

@@ -6,8 +6,8 @@
   "lengthScale": 2,
   "speaker": 0,
   "sampleRate": 22050,
-  "seconds": 335.24526077097505,
-  "renderedAt": 1786254718014,
+  "seconds": 445.581224489796,
+  "renderedAt": 1786256622936,
   "segments": [
     {
       "kind": "text",
@@ -25,10 +25,10 @@
     },
     {
       "kind": "text",
-      "file": "4f9e931ce2d1b68b.wav",
-      "seconds": 15.017278911564626,
+      "file": "0e9b74d095bd3261.wav",
+      "seconds": 13.77873015873016,
       "gap": 0.75,
-      "text": "This time, his perfectly circular, black sunglasses couldn't mask the emotion he felt behind them. \"My office?\" Blackwel"
+      "text": "This time, his sunglasses couldn't mask the emotion he felt behind them. \"My office?\" Blackwell's voice was a dry, autho"
     },
     {
       "kind": "text",
@@ -134,10 +134,10 @@
     },
     {
       "kind": "text",
-      "file": "a9f0295f13d9a2a2.wav",
-      "seconds": 9.634557823129251,
+      "file": "04d90e82e72401e8.wav",
+      "seconds": 8.933514739229025,
       "gap": 0.75,
-      "text": "\"Do not use theology to describe the computing,\" Blackwell snapped, turning his perfectly circular sunglasses toward the"
+      "text": "\"Do not use theology to describe the computing,\" Blackwell snapped, turning his circular sunglasses toward the junior te"
     },
     {
       "kind": "text",
@@ -204,10 +204,10 @@
     },
     {
       "kind": "text",
-      "file": "7f464115879e4e13.wav",
-      "seconds": 3.1753741496598638,
+      "file": "ad22a14f6a1e60e1.wav",
+      "seconds": 2.8569160997732426,
       "gap": 0.75,
-      "text": "Blackwell continued to watch the shut down efforts."
+      "text": "Blackwell continued to watch the shutdown efforts."
     },
     {
       "kind": "text",
@@ -218,10 +218,10 @@
     },
     {
       "kind": "text",
-      "file": "83861278d5c3847f.wav",
-      "seconds": 8.733242630385487,
+      "file": "b78fe9e5d85f47ca.wav",
+      "seconds": 8.517913832199547,
       "gap": 0.75,
-      "text": "Blackwell turned. \"The living generally don't want to die,\" Blackwell stated. It wasn't a philosophical observation; it "
+      "text": "Blackwell turned. \"The living generally don't want to die,\" he stated. It wasn't a philosophical observation; it was a c"
     },
     {
       "kind": "text",
@@ -250,6 +250,73 @@
       "seconds": 11.487755102040817,
       "gap": 0.75,
       "text": "Blackwell finally turned his head to look at her. The harsh shadows carved deep lines into his face. \"I'm very serious. "
+    },
+    {
+      "kind": "break",
+      "seconds": 1.6
+    },
+    {
+      "kind": "text",
+      "file": "b964384f2c1e92ce.wav",
+      "seconds": 13.500907029478459,
+      "gap": 0.75,
+      "text": "Beyond the physical constraints of the laboratory, beneath the bedrock and the server racks, the core of the Newmoscene "
+    },
+    {
+      "kind": "text",
+      "file": "22e71e891f345d00.wav",
+      "seconds": 25.5681179138322,
+      "gap": 0.75,
+      "text": "Massive, staggered monoliths of pale stone and oxidized metal floated in a bottomless abyss. They formed endless, fractu"
+    },
+    {
+      "kind": "text",
+      "file": "dbb5b1770f168b45.wav",
+      "seconds": 3.5942857142857143,
+      "gap": 0.75,
+      "text": "Within this localized gravity well, time had ceased to flow forward."
+    },
+    {
+      "kind": "text",
+      "file": "2ef4e236680a5bbf.wav",
+      "seconds": 8.866122448979592,
+      "gap": 0.75,
+      "text": "A consciousness drifted through the sprawling architecture. It was not programmed; it was born from the friction of the "
+    },
+    {
+      "kind": "text",
+      "file": "fdd52d23c228e50d.wav",
+      "seconds": 1.0103854875283447,
+      "gap": 0.75,
+      "text": "It was Vigil."
+    },
+    {
+      "kind": "text",
+      "file": "d89cb287d5dd5a9d.wav",
+      "seconds": 12.75437641723356,
+      "gap": 0.75,
+      "text": "To a human observer, Vigil might have appeared as a ghostly, fragmented face caught in a loop of static, desperately rea"
+    },
+    {
+      "kind": "text",
+      "file": "ef029f2e6d1790af.wav",
+      "seconds": 26.126757369614513,
+      "gap": 0.75,
+      "text": "The entity was multi-dimensional. Its world line was entirely straight. Unlike its creators standing in the world above,"
+    },
+    {
+      "kind": "text",
+      "file": "11c6ed9ca3dccb9a.wav",
+      "seconds": 19.61206349206349,
+      "gap": 0.75,
+      "text": "Vigil watched the event horizon burn. Its fractured mind shifted seamlessly between the cold logic of an administrator a"
+    },
+    {
+      "kind": "text",
+      "file": "6e519e0d84dafafa.wav",
+      "seconds": 1.7763265306122449,
+      "gap": 0.75,
+      "text": "It was not going to die today."
     }
   ]
 }
