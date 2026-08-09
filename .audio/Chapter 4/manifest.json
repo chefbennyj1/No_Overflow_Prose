@@ -6,41 +6,41 @@
   "lengthScale": 2,
   "speaker": 0,
   "sampleRate": 22050,
-  "seconds": 126.02902494331066,
-  "renderedAt": 1786250034885,
+  "seconds": 213.3951020408163,
+  "renderedAt": 1786251154054,
   "segments": [
     {
       "kind": "text",
-      "file": "4e8c15fcdf29bd04.wav",
-      "seconds": 21.280589569161,
+      "file": "125d3221041483c9.wav",
+      "seconds": 19.83596371882086,
       "gap": 0.75,
-      "text": "Doctor Sii-liss Blackwell exhaled a thick plume of gray smoke into the sterile, freezing air of his private office in th"
+      "text": "Blackwell exhaled a thick plume of gray smoke into the sterile, freezing air of his private office in the lab. He sat pe"
     },
     {
       "kind": "text",
-      "file": "96290bda824a40e7.wav",
-      "seconds": 18.19628117913832,
+      "file": "22841dfbca93a41c.wav",
+      "seconds": 18.485124716553287,
       "gap": 0.75,
       "text": "Floating above the glass surface of the desk was a high-fidelity holographic projection. It depicted a young Corporate M"
     },
     {
       "kind": "text",
-      "file": "d941afc81e88c342.wav",
-      "seconds": 15.20530612244898,
+      "file": "4f9e931ce2d1b68b.wav",
+      "seconds": 15.017278911564626,
       "gap": 0.75,
-      "text": "This time his perfectly circular, black sunglasses, couldn't mask the emotion he felt behind them. \"My office?\" Blackwel"
+      "text": "This time, his perfectly circular, black sunglasses couldn't mask the emotion he felt behind them. \"My office?\" Blackwel"
     },
     {
       "kind": "text",
-      "file": "73171bd3d04413bd.wav",
-      "seconds": 10.671473922902495,
+      "file": "739b38c78986c69c.wav",
+      "seconds": 11.556190476190476,
       "gap": 0.75,
       "text": "The young manager on the display shifted uncomfortably, the digital artifacts around his edges betraying the secure conn"
     },
     {
       "kind": "text",
-      "file": "f42599806a74b6be.wav",
-      "seconds": 15.677687074829931,
+      "file": "f0e02f5691bca3ba.wav",
+      "seconds": 16.71891156462585,
       "gap": 0.75,
       "text": "Blackwell took another slow, deliberate drag from his cigarette. The cherry flared bright red, reflecting briefly in the"
     },
@@ -71,6 +71,73 @@
       "seconds": 10.398730158730158,
       "gap": 0.75,
       "text": "He tapped a key on his console. The manager’s avatar collapsed into a single, bright point of light before vanishing ent"
+    },
+    {
+      "kind": "break",
+      "seconds": 1.6
+    },
+    {
+      "kind": "text",
+      "file": "63e0d5e50c842c56.wav",
+      "seconds": 4.730839002267573,
+      "gap": 0.75,
+      "text": "Doctor Blackwell emerged from the darkness of his private office and step out in to the lab."
+    },
+    {
+      "kind": "text",
+      "file": "8f109adaffd8c866.wav",
+      "seconds": 3.1230839002267574,
+      "gap": 0.75,
+      "text": "It had been six weeks since the engine was brought online."
+    },
+    {
+      "kind": "text",
+      "file": "7d9ed54a914a6483.wav",
+      "seconds": 17.058185941043085,
+      "gap": 0.75,
+      "text": "Standing before the massive pit of white pillars, was Elena Marlowe. The cool light of the holographic monitors illumina"
+    },
+    {
+      "kind": "text",
+      "file": "4e54cb46530953b3.wav",
+      "seconds": 15.779546485260772,
+      "gap": 0.75,
+      "text": "A few yards away stood Mina, the junior technician. She had pushed her black-rimmed glasses up the bridge of her nose, t"
+    },
+    {
+      "kind": "text",
+      "file": "a7aed30e38345247.wav",
+      "seconds": 11.540272108843537,
+      "gap": 0.75,
+      "text": "\"The engine's been running perfectly for six weeks,\" Elena said, not looking up from her console as Blackwell's heavy fo"
+    },
+    {
+      "kind": "text",
+      "file": "52d44962513f7f7d.wav",
+      "seconds": 6.520725623582766,
+      "gap": 0.75,
+      "text": "\"And?\" Blackwell rasped, pulling an unlit cigarette from his coat pocket and sliding it between his lips."
+    },
+    {
+      "kind": "text",
+      "file": "f847864142eea98d.wav",
+      "seconds": 3.5974603174603175,
+      "gap": 0.75,
+      "text": "\"It ignored the command,\" Elena said, her voice tight."
+    },
+    {
+      "kind": "text",
+      "file": "12ab14dd70cb6a53.wav",
+      "seconds": 14.799274376417234,
+      "gap": 0.75,
+      "text": "Mina's eyes wide as she stared past the railing toward the glowing pillars below, each ones panels streaming endless dat"
+    },
+    {
+      "kind": "text",
+      "file": "a9f0295f13d9a2a2.wav",
+      "seconds": 9.634557823129251,
+      "gap": 0.75,
+      "text": "\"Do not use theology to describe the computing,\" Blackwell snapped, turning his perfectly circular sunglasses toward the"
     }
   ]
 }
