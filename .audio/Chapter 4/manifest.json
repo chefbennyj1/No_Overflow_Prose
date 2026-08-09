@@ -6,8 +6,8 @@
   "lengthScale": 2,
   "speaker": 0,
   "sampleRate": 22050,
-  "seconds": 401.99519274376416,
-  "renderedAt": 1786251915560,
+  "seconds": 399.61841269841267,
+  "renderedAt": 1786252461525,
   "segments": [
     {
       "kind": "text",
@@ -106,8 +106,8 @@
     },
     {
       "kind": "text",
-      "file": "60c8f118ed4def4c.wav",
-      "seconds": 16.497732426303855,
+      "file": "8cac7178fc6c0586.wav",
+      "seconds": 14.84530612244898,
       "gap": 0.75,
       "text": "A few yards away stood Mina, the junior technician. She had pushed her black-rimmed glasses up the bridge of her nose, t"
     },
@@ -134,10 +134,10 @@
     },
     {
       "kind": "text",
-      "file": "ddbed0a31b2cf698.wav",
-      "seconds": 13.192199546485261,
+      "file": "7643c2b2736313f5.wav",
+      "seconds": 12.915374149659863,
       "gap": 0.75,
-      "text": "Mina's eyes wide as she stared past the railing toward the glowing singularity below. \"The processing speed... it's godl"
+      "text": "Mina's eyes went wide as she stared past the railing toward the screens on the pillars below. \"The processing speed... i"
     },
     {
       "kind": "text",
@@ -148,17 +148,17 @@
     },
     {
       "kind": "text",
-      "file": "7f17b4f7356135ec.wav",
-      "seconds": 10.03827664399093,
+      "file": "172f9a345762e64a.wav",
+      "seconds": 11.095555555555556,
       "gap": 0.75,
       "text": "Mina swallowed hard, shrinking slightly under his gaze, but she tapped the glass of her tablet. \"The Self-Evolving Archi"
     },
     {
       "kind": "text",
-      "file": "7ee5d94abe663b84.wav",
-      "seconds": 12.537460317460317,
+      "file": "94962429715f46b3.wav",
+      "seconds": 11.578775510204082,
       "gap": 0.75,
-      "text": "\"Foolish,\" Blackwell murmured, stepping up to the railing and staring down into the blinding light of the core. \"Because"
+      "text": "Blackwell smirked, stepping up to the railing and staring down into the blinding light of the core. \"Because you are mea"
     },
     {
       "kind": "text",
@@ -169,10 +169,10 @@
     },
     {
       "kind": "text",
-      "file": "ac29d2da0a0a1217.wav",
-      "seconds": 10.472018140589569,
+      "file": "eae5f268c92f13ee.wav",
+      "seconds": 9.235056689342404,
       "gap": 0.75,
-      "text": "Blackwell’s expression remained entirely unreadable behind the black glass. \"Of course it is. While we were out for lunc"
+      "text": "Blackwell’s expression remained entirely unreadable. \"Of course it is. While we were out for lunch, that machine lived t"
     },
     {
       "kind": "text",
@@ -197,24 +197,24 @@
     },
     {
       "kind": "text",
-      "file": "30f6460876aa9bc6.wav",
-      "seconds": 9.79170068027211,
+      "file": "9c8627c678b4af90.wav",
+      "seconds": 11.977369614512472,
       "gap": 0.75,
-      "text": "Blackwell didn't move to stop her. He just watched the churning blue light of the anomaly. \"There's only one reason to c"
+      "text": "Blackwell didn't move to stop her. He just watched the ethereal blue light form the tower readouts, in the cold heavy mi"
     },
     {
       "kind": "text",
-      "file": "0edf81804cee5861.wav",
-      "seconds": 4.070385487528345,
+      "file": "a562841ff2b0c96d.wav",
+      "seconds": 3.579954648526077,
       "gap": 0.75,
-      "text": "The cyan glow of Elena's monitors flashed an angry, crimson red."
+      "text": "The glow of Elena's monitors flashed an angry, crimson red."
     },
     {
       "kind": "text",
-      "file": "8b168bb0ca2ef56a.wav",
-      "seconds": 7.614648526077097,
+      "file": "41fd087d86b50eba.wav",
+      "seconds": 6.610249433106576,
       "gap": 0.75,
-      "text": "\"Horizon memory shutdown reads as... unsuccessful, ma'am,\" Mina whispered, staring at the telemetry on her tablet."
+      "text": "\"Horizon memory shutdown reads as... unsuccessful, ma'am,\" Mina whispered, staring at her tablet."
     },
     {
       "kind": "text",

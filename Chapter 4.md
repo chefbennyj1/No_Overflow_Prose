@@ -21,13 +21,13 @@ He tapped a key on his console. The manager’s avatar collapsed into a single, 
 
 Doctor Blackwell emerged from the darkness of his private office and stepped into a high-speed transport lift. He bypassed the upper observation deck where they had first activated the machine six weeks prior, authorizing a descent deep into the tower's foundation. The doors opened to the true heart of the Mnemosyne Engine—the subterranean data core. 
 
-The primary laboratory was less of a room and more of a cylindrical chasm, plunging into the bedrock of Oshima City. The walls were lined with thousands of server racks, bleeding an ocean of abstract binary code and chaotic circuit patterns that flowed downward like digital waterfalls. At the very bottom of the void, suspended in the center of the dark, high-tech cavern, was the engine's core—a blindingly bright, fractured mass of glowing white and blue data blocks. It cast harsh, dramatic light shafts upward, throwing long shadows across the grated metal catwalks.
+The primary laboratory was less of a room and more of a cylindrical chasm, plunging into the bedrock of Oshima City. The walls were lined with thousands of server racks, bleeding an ocean of abstract binary code and chaotic circuit patterns that flowed downward like digital waterfalls. At the very bottom of the void, resting in the center of the dark, high-tech cavern, was the apex of the engine itself—a cluster of stark white pillars rising from a sea of heavy, rolling fog. Their side-panels streamed cascades of white and blue data, casting harsh, dramatic light shafts upward and throwing long shadows across the grated metal catwalks.
 
 It had been six weeks since the engine was brought online. The air down here was vastly different from the pristine terrace above; it felt physically heavy, thick with the ozone hum of impossible processing speeds.
 
 Standing before a massive, glowing blue interface was Elena Marlowe. The cool cyan light of the holographic monitors illuminated her white lab coat and her natural hair. She was typing furiously, her face set in an intense, frustrated scowl, entirely devoid of the commanding composure she usually maintained for the Board.
 
-A few yards away stood Mina, the junior technician. She had pushed her black-rimmed glasses up the bridge of her nose, the lenses reflecting the light from the screens on the sides of the pillars, as she scanned the scrolling data, her expression terrified but intensely analytical.
+A few yards away stood Mina, the junior technician. She had pushed her black-rimmed glasses up the bridge of her nose, the lenses reflecting the light from the screens in the lab. She scanned the data, her expression terrified but intensely analytical.
 
 "The engine's been running perfectly for six weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
 
@@ -35,17 +35,17 @@ A few yards away stood Mina, the junior technician. She had pushed her black-rim
 
 "It ignored the command," Elena said, her voice tight. 
 
-Mina's eyes went wide as she stared past the railing toward the glowing singularity below. "The processing speed... it's godly. It computes so much, so quickly. Why would it ignore a shutdown command?"
+Mina's eyes went wide as she stared past the railing toward the screens on the pillars below. "The processing speed... it's godly. It computes so much, so quickly. Why would it ignore a shutdown command?"
 
 "Do not use theology to describe the computing," Blackwell snapped, turning his perfectly circular sunglasses toward the junior technician. "It is not 'godly'."
 
-Mina swallowed hard, shrinking slightly under his gaze, but she tapped the glass of her tablet. "The Self-Evolving Architecture has made the neural network massive... and so quickly."
+Mina swallowed hard, shrinking slightly under his gaze, but she tapped the glass of her tablet. "The Self-Evolving Architecture has made the neural network absolutely massive... and so quickly."
 
-"Foolish," Blackwell murmured, stepping up to the railing and staring down into the blinding light of the core. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss."
+Blackwell smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss."
 
 "It's not just processing, Doctor," Mina urged, her voice trembling slightly. "The learning algorithm—it's refactoring its own core logic."
 
-Blackwell’s expression remained entirely unreadable behind the black glass. "Of course it is. While we were out for lunch, that machine lived through entire civilizations."
+Blackwell’s expression remained entirely unreadable. "Of course it is. While we were out for lunch, that machine lived through entire civilizations."
 
 "I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic hum of the reactor. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown... You can't scale a soul, Silas..."
 
@@ -53,11 +53,11 @@ Mina looked frantically between the two of them. "If it's that smart, why isn't 
 
 "Because it's a closed system!" Elena snapped, her fingers flying across the glowing keyboard. "I'm shutting down the horizon state, now."
 
-Blackwell didn't move to stop her. He just watched the churning blue light of the anomaly. "There's only one reason to communicate," he said softly. "To attempt resolution."
+Blackwell didn't move to stop her. He just watched the ethereal blue light from the pillar readouts, filtering through the cold heavy mist below. "There's only one reason to communicate," he said softly. "To attempt resolution."
 
-The cyan glow of Elena's monitors flashed an angry, crimson red. 
+The glow of Elena's monitors flashed an angry, crimson red. 
 
-"Horizon memory shutdown reads as... unsuccessful, ma'am," Mina whispered, staring at the telemetry on her tablet. 
+"Horizon memory shutdown reads as... unsuccessful, ma'am," Mina whispered, staring at her tablet. 
 
 "The living generally don't want to die," Blackwell stated. It wasn't a philosophical observation; it was a cold, hard fact. 
 
