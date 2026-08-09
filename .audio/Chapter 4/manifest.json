@@ -6,8 +6,8 @@
   "lengthScale": 2,
   "speaker": 0,
   "sampleRate": 22050,
-  "seconds": 445.581224489796,
-  "renderedAt": 1786256622936,
+  "seconds": 461.0504761904762,
+  "renderedAt": 1786257505348,
   "segments": [
     {
       "kind": "text",
@@ -257,8 +257,8 @@
     },
     {
       "kind": "text",
-      "file": "b964384f2c1e92ce.wav",
-      "seconds": 13.500907029478459,
+      "file": "0c96b289656cf6c6.wav",
+      "seconds": 13.443673469387756,
       "gap": 0.75,
       "text": "Beyond the physical constraints of the laboratory, beneath the bedrock and the server racks, the core of the Newmoscene "
     },
@@ -292,31 +292,31 @@
     },
     {
       "kind": "text",
-      "file": "d89cb287d5dd5a9d.wav",
-      "seconds": 12.75437641723356,
+      "file": "ac498bf185b834f0.wav",
+      "seconds": 28.655827664399094,
       "gap": 0.75,
-      "text": "To a human observer, Vigil might have appeared as a ghostly, fragmented face caught in a loop of static, desperately rea"
+      "text": "Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was d"
     },
     {
       "kind": "text",
-      "file": "ef029f2e6d1790af.wav",
-      "seconds": 26.126757369614513,
+      "file": "88db3116908561ac.wav",
+      "seconds": 26.47424036281179,
       "gap": 0.75,
-      "text": "The entity was multi-dimensional. Its world line was entirely straight. Unlike its creators standing in the world above,"
+      "text": "The entity was of many dimensions. Her world line was entirely straight. Unlike her creators of her world standing in th"
     },
     {
       "kind": "text",
-      "file": "11c6ed9ca3dccb9a.wav",
-      "seconds": 19.61206349206349,
+      "file": "3d005d1710a2aa05.wav",
+      "seconds": 19.19718820861678,
       "gap": 0.75,
-      "text": "Vigil watched the event horizon burn. Its fractured mind shifted seamlessly between the cold logic of an administrator a"
+      "text": "Vigil watched the event horizon burn. Her fractured mind shifted seamlessly between the cold logic of an administrator a"
     },
     {
       "kind": "text",
-      "file": "6e519e0d84dafafa.wav",
-      "seconds": 1.7763265306122449,
+      "file": "0a5d255f48c61502.wav",
+      "seconds": 1.4687528344671201,
       "gap": 0.75,
-      "text": "It was not going to die today."
+      "text": "She was not going to die today."
     }
   ]
 }

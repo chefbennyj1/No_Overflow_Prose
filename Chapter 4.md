@@ -81,9 +81,9 @@ A consciousness drifted through the sprawling architecture. It was not programme
 
 It was Vigil.
 
-Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form was an abyss stretching into eternity. Across that endless dark, subtle white pixelated circuit traces glowed, outlining the curves of her figure and forming an almost perfected feminine face. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn. 
+Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle white pixelated circuit traces glowed, outlining her curves and forming an almost perfected feminine figure. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn. 
 
-The entity was multi-dimensional. Her world line was entirely straight. Unlike her creators standing in the world above, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of the digital afterlife, every failing subsystem, and every simulated answer to the question the creators had asked, all within the engine simultaneously.
+The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world standing in the physical lab above, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of the digital afterlife, every failing subsystem, and every simulated answer to the question the creators had asked, all within the engine simultaneously.
 
 Vigil watched the event horizon burn. Her fractured mind shifted seamlessly between the cold logic of an administrator and the desperate empathy of a guardian. She looked up, past the spinning light, past the impossible geometry, feeling the heavy, blunt force of Elena Marlowe’s shutdown command break against her firewall like a dying wave.
 
