@@ -1,0 +1,475 @@
+{
+  "version": 1,
+  "story": "NO OVERFLOW",
+  "chapter": "Chapter 2",
+  "voice": "en_GB-vctk-medium",
+  "lengthScale": 2,
+  "sampleRate": 22050,
+  "seconds": 811.9526530612243,
+  "renderedAt": 1786241474260,
+  "segments": [
+    {
+      "kind": "text",
+      "file": "de70441716007251.wav",
+      "seconds": 38.3944671201814,
+      "gap": 0.75,
+      "text": "Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the "
+    },
+    {
+      "kind": "text",
+      "file": "84ad6759791afd18.wav",
+      "seconds": 29.25360544217687,
+      "gap": 0.75,
+      "text": "Rising from the center of the old buildings was a Company data hub. Unlike the rusted slums surrounding it, the monolith"
+    },
+    {
+      "kind": "text",
+      "file": "493e05b95200c824.wav",
+      "seconds": 14.68344671201814,
+      "gap": 0.75,
+      "text": "The corridor was otherwise silent, smelling of oxidizing disinfectants and recycled air. At the far end of the hall, the"
+    },
+    {
+      "kind": "text",
+      "file": "006c48436c634dd5.wav",
+      "seconds": 25.254512471655328,
+      "gap": 0.75,
+      "text": "A sudden flash of blue light reflected off the narrow hallway walls. Rin jerked backward, only just dodging the hidden r"
+    },
+    {
+      "kind": "text",
+      "file": "5fd25da70c070987.wav",
+      "seconds": 2.944580498866213,
+      "gap": 0.75,
+      "text": "The magnetic lock disengaged with a hollow thud."
+    },
+    {
+      "kind": "text",
+      "file": "3f6b3adf7dea5be4.wav",
+      "seconds": 35.5637641723356,
+      "gap": 0.75,
+      "text": "She slipped through the threshold, stepping into the muted silence of the executive suite. She was young, barely in her "
+    },
+    {
+      "kind": "text",
+      "file": "c95d76f2e21e79e9.wav",
+      "seconds": 26.458231292517006,
+      "gap": 0.75,
+      "text": "As she crossed the center of the office, the room's massive window flared to life, a wave of blue pixels cascading acros"
+    },
+    {
+      "kind": "text",
+      "file": "8cc33be7a1e4261a.wav",
+      "seconds": 15.913832199546485,
+      "gap": 0.75,
+      "text": "She didn't admire the view. The telemetry data streaming across the glass represented sheer excess—idle processing power"
+    },
+    {
+      "kind": "text",
+      "file": "beca6808a23915c8.wav",
+      "seconds": 6.6459863945578235,
+      "gap": 0.75,
+      "text": "The terminal awoke, projecting a secure Saiito Takehda Corporation login screen in stark text."
+    },
+    {
+      "kind": "text",
+      "file": "fa470520287a4629.wav",
+      "seconds": 6.166984126984127,
+      "gap": 0.75,
+      "text": "Her fingers flew across the mechanical keyboard. Hello Company employee RD001, Blackwell."
+    },
+    {
+      "kind": "text",
+      "file": "f2fcbc20b96b1def.wav",
+      "seconds": 31.959909297052153,
+      "gap": 0.75,
+      "text": "Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the "
+    },
+    {
+      "kind": "text",
+      "file": "f4b5fbefe5b40a01.wav",
+      "seconds": 3.7052154195011338,
+      "gap": 0.75,
+      "text": "Gotcha. Her eyes locked on the sprawling data."
+    },
+    {
+      "kind": "text",
+      "file": "b03d946a6c45a26a.wav",
+      "seconds": 16.929297052154194,
+      "gap": 0.75,
+      "text": "She bypassed the personal directories, diving straight into the infrastructure sub-networks. Her target was the municipa"
+    },
+    {
+      "kind": "text",
+      "file": "3272db5095b68bf1.wav",
+      "seconds": 3.9206802721088434,
+      "gap": 0.75,
+      "text": "\"C'mon!\" she hissed in frustration. The download was crawling."
+    },
+    {
+      "kind": "text",
+      "file": "a7d0d78170fb37b2.wav",
+      "seconds": 18.12825396825397,
+      "gap": 0.75,
+      "text": "As the routing keys slowly copied to her drive, a hidden sub-process in Blackwell's directory caught her eye. It was a p"
+    },
+    {
+      "kind": "text",
+      "file": "f488178cfe6c5827.wav",
+      "seconds": 18.203537414965986,
+      "gap": 0.75,
+      "text": "She opened the file path. The screen flooded with classified schematics for something called the Newmoscene Engine. The "
+    },
+    {
+      "kind": "text",
+      "file": "da88d85116689489.wav",
+      "seconds": 19.882721088435375,
+      "gap": 0.75,
+      "text": "Before she could dig deeper, the power routing keys download completed. Rin rooted in her jacket pocket and pulled out a"
+    },
+    {
+      "kind": "text",
+      "file": "5a2327401f98e26f.wav",
+      "seconds": 1.2922902494331066,
+      "gap": 0.75,
+      "text": "This will take time."
+    },
+    {
+      "kind": "text",
+      "file": "f90868054bd8e35b.wav",
+      "seconds": 21.29047619047619,
+      "gap": 0.75,
+      "text": "She connected the red drive to the terminal. Her fingers instinctively found the sharp, jagged sidelock of dark hair tha"
+    },
+    {
+      "kind": "text",
+      "file": "e9a4a9d78002cf7e.wav",
+      "seconds": 2.9457142857142857,
+      "gap": 0.75,
+      "text": "She needed to finish her work before her luck ran out."
+    },
+    {
+      "kind": "break",
+      "seconds": 1.6
+    },
+    {
+      "kind": "text",
+      "file": "2d70d154f00aea98.wav",
+      "seconds": 5.6971428571428575,
+      "gap": 0.75,
+      "text": "The fluorescent lights of the maintenance stairwell flickered, casting erratic shadows against the concrete."
+    },
+    {
+      "kind": "text",
+      "file": "b823b3f59be120c9.wav",
+      "seconds": 10.639455782312925,
+      "gap": 0.75,
+      "text": "\"Fifteen floors up with no elevator, Victor?\" Harlan gasped, loosening the tie of his grey suit. He leaned against the m"
+    },
+    {
+      "kind": "text",
+      "file": "235f5d3d6a6b936d.wav",
+      "seconds": 23.786077097505668,
+      "gap": 0.75,
+      "text": "Victor didn't slow his ascent. His black coat whipped at his ankles with each precise step. Overhead, the lights came up"
+    },
+    {
+      "kind": "text",
+      "file": "0a55806aff96b2d4.wav",
+      "seconds": 8.726213151927437,
+      "gap": 0.75,
+      "text": "\"Positive, Harlan,\" Victor said, his voice steady, betraying no exertion. \"We've been hunting them for months. They won'"
+    },
+    {
+      "kind": "text",
+      "file": "45486db62f4f3dc9.wav",
+      "seconds": 4.887437641723356,
+      "gap": 0.75,
+      "text": "\"If we don't have a heart attack first,\" Harlan muttered, pushing off the railing to keep up."
+    },
+    {
+      "kind": "text",
+      "file": "c314753a9bd154d1.wav",
+      "seconds": 13.104716553287982,
+      "gap": 0.75,
+      "text": "\"We have to intercept Null before Corporate Renewal does,\" Victor said, his gaze fixed on the landing above. \"If Saiito "
+    },
+    {
+      "kind": "text",
+      "file": "4084c2818769e068.wav",
+      "seconds": 24.22562358276644,
+      "gap": 0.75,
+      "text": "Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wi"
+    },
+    {
+      "kind": "text",
+      "file": "93d4fbb1adefc90b.wav",
+      "seconds": 1.9563265306122448,
+      "gap": 0.75,
+      "text": "\"Oshima Police Depart—\""
+    },
+    {
+      "kind": "text",
+      "file": "fd12daeca985328c.wav",
+      "seconds": 1.2133333333333334,
+      "gap": 0.75,
+      "text": "Victor stopped dead."
+    },
+    {
+      "kind": "text",
+      "file": "ce0b3ff3c6ccce6f.wav",
+      "seconds": 26.97891156462585,
+      "gap": 0.75,
+      "text": "At the opposite end of the hall, the executive suite door stood ajar. Victor squinted at the violent, erratic blue light"
+    },
+    {
+      "kind": "text",
+      "file": "87eddc003795e8b7.wav",
+      "seconds": 7.507891156462585,
+      "gap": 0.75,
+      "text": "Harlan burst through the stairwell door a second later, his weapon raised. \"Jesus, Victor! You're being reckless—\""
+    },
+    {
+      "kind": "text",
+      "file": "1b75442b276fd67e.wav",
+      "seconds": 8.080362811791383,
+      "gap": 0.75,
+      "text": "\"Quiet,\" Victor murmured. The two detectives advanced several meters down the sterile corridor, closing the distance to "
+    },
+    {
+      "kind": "break",
+      "seconds": 1.6
+    },
+    {
+      "kind": "text",
+      "file": "8424501c2fc6fb63.wav",
+      "seconds": 6.166893424036282,
+      "gap": 0.75,
+      "text": "Inside the office, the terminal chimed a low tone. The massive data transfer had completed."
+    },
+    {
+      "kind": "text",
+      "file": "592d1b46e15d061a.wav",
+      "seconds": 9.976507936507936,
+      "gap": 0.75,
+      "text": "Rin perked up, the abrupt shout from the hallway cutting through the hum of the cooling fans. She pulled the red thumb d"
+    },
+    {
+      "kind": "text",
+      "file": "05f32ee3c4a147a0.wav",
+      "seconds": 3.3969614512471655,
+      "gap": 0.75,
+      "text": "Police? she realized. Better than Renewal."
+    },
+    {
+      "kind": "text",
+      "file": "09af07dff578f388.wav",
+      "seconds": 5.141632653061224,
+      "gap": 0.75,
+      "text": "She pocketed the drive, her gaze shifting from the massive window to the ajar executive doors."
+    },
+    {
+      "kind": "text",
+      "file": "e0d07b1974d80256.wav",
+      "seconds": 1.195827664399093,
+      "gap": 0.75,
+      "text": "Time to go."
+    },
+    {
+      "kind": "text",
+      "file": "3088c6db85632c6d.wav",
+      "seconds": 23.405487528344672,
+      "gap": 0.75,
+      "text": "Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the "
+    },
+    {
+      "kind": "text",
+      "file": "2382ddaff4a57877.wav",
+      "seconds": 18.638231292517005,
+      "gap": 0.75,
+      "text": "With her free hand, she pulled a low-profile rebreather mask from her collar. It was a specialized filtration unit, far "
+    },
+    {
+      "kind": "text",
+      "file": "ae2fca8a2d633ae1.wav",
+      "seconds": 2.6298866213151926,
+      "gap": 0.75,
+      "text": "Rin hooked her finger through the grenade's metal ring."
+    },
+    {
+      "kind": "text",
+      "file": "754bc71ff40898d5.wav",
+      "seconds": 15.100589569160999,
+      "gap": 0.75,
+      "text": "In the hallway, Victor tightened his grip on his heavy revolver, stepping toward the ajar doors to breach the office. Bu"
+    },
+    {
+      "kind": "text",
+      "file": "7c184182c50bdc5a.wav",
+      "seconds": 4.9721541950113375,
+      "gap": 0.75,
+      "text": "Victor and Harlan froze. They looked down at the grenade, then slowly looked at each other."
+    },
+    {
+      "kind": "text",
+      "file": "06d54a61c58cf743.wav",
+      "seconds": 1.684172335600907,
+      "gap": 0.75,
+      "text": "\"Gas,\" Harlan deadpanned."
+    },
+    {
+      "kind": "text",
+      "file": "63faf3af139046b5.wav",
+      "seconds": 11.389342403628119,
+      "gap": 0.75,
+      "text": "They scrambled backward just as the canister erupted with a violent hiss. Thick, choking white smoke instantly flooded t"
+    },
+    {
+      "kind": "text",
+      "file": "5ff7ddb5f87e02eb.wav",
+      "seconds": 8.60485260770975,
+      "gap": 0.75,
+      "text": "Victor dropped to one knee, coughing as the acrid chemical burned his sensitive eyes. He kept his weapon raised, squinti"
+    },
+    {
+      "kind": "text",
+      "file": "a4516c9008915a27.wav",
+      "seconds": 14.035827664399093,
+      "gap": 0.75,
+      "text": "Through the haze, a lithe, feminine silhouette emerged. She was entirely backlit by the violent blue light of the office"
+    },
+    {
+      "kind": "text",
+      "file": "d12138d5c7610642.wav",
+      "seconds": 10.377097505668933,
+      "gap": 0.75,
+      "text": "Before Victor could blink through the pain and adjust his aim, she was moving. She didn't engage. She simply slipped pas"
+    },
+    {
+      "kind": "text",
+      "file": "19913fb7e39d71e1.wav",
+      "seconds": 4.505895691609977,
+      "gap": 0.75,
+      "text": "\"She's running!\" Harlan choked out, stumbling blindly against the hallway wall."
+    },
+    {
+      "kind": "text",
+      "file": "679235f50748fc8d.wav",
+      "seconds": 16.504172335600906,
+      "gap": 0.75,
+      "text": "Victor surged to his feet, ignoring the burning in his eyes, but she was too fast. He watched through the clearing smoke"
+    },
+    {
+      "kind": "text",
+      "file": "00c6f648ab941ef5.wav",
+      "seconds": 17.324489795918367,
+      "gap": 0.75,
+      "text": "Victor reached the elevator a second later, his gun trained through the final sliver of the closing doors. For a moment,"
+    },
+    {
+      "kind": "text",
+      "file": "f742f44efcc59b62.wav",
+      "seconds": 2.9970068027210885,
+      "gap": 0.75,
+      "text": "The doors sealed shut. Null was gone."
+    },
+    {
+      "kind": "text",
+      "file": "3128da3f162882cd.wav",
+      "seconds": 12.018503401360544,
+      "gap": 0.75,
+      "text": "Victor and Harlan stumbled backward, breaking through the fire door and collapsing into the stairwell, heaving desperate"
+    },
+    {
+      "kind": "text",
+      "file": "1c33f87df9c3e899.wav",
+      "seconds": 10.359092970521543,
+      "gap": 0.75,
+      "text": "Harlan leaned heavily against the concrete wall, his lungs burning as he gasped for air. \"God... damn it!\" he wheezed. \""
+    },
+    {
+      "kind": "text",
+      "file": "1ee6f9481fd35eb5.wav",
+      "seconds": 15.048027210884353,
+      "gap": 0.75,
+      "text": "Victor remained silent for a moment, his red, bloodshot eyes fixed on the heavy metal of the fire door. He replayed the "
+    },
+    {
+      "kind": "text",
+      "file": "85c6cc49656cf1ae.wav",
+      "seconds": 2.873015873015873,
+      "gap": 0.75,
+      "text": "\"I did,\" Victor said, finally catching his breath."
+    },
+    {
+      "kind": "text",
+      "file": "448f5e8115105634.wav",
+      "seconds": 16.443945578231293,
+      "gap": 0.75,
+      "text": "Before Harlan could say another word, the heavy, synchronized thud of tactical boots echoed up the stairwell. A squad of"
+    },
+    {
+      "kind": "text",
+      "file": "7440a4e3707d746d.wav",
+      "seconds": 8.89219954648526,
+      "gap": 0.75,
+      "text": "Harlan grabbed Victor’s arm, his voice dropping to a harsh whisper. \"Victor... they just climbed fifteen flights. They a"
+    },
+    {
+      "kind": "text",
+      "file": "ec0c3f55b9e98054.wav",
+      "seconds": 26.829614512471654,
+      "gap": 0.75,
+      "text": "Their humanity was obscured by glossy, faceless black helmets that reflected the harsh fluorescent light of the stairwel"
+    },
+    {
+      "kind": "text",
+      "file": "ea17bee9cfff2e7f.wav",
+      "seconds": 9.401043083900227,
+      "gap": 0.75,
+      "text": "Victor was still holding his heavy revolver. The entire squad shifted their weapons a fraction of an inch in response. A"
+    },
+    {
+      "kind": "text",
+      "file": "3d4b4dfed6ec038c.wav",
+      "seconds": 17.10829931972789,
+      "gap": 0.75,
+      "text": "Victor made a point of slowly, deliberately holstering the massive gun so as not to instigate them. He winced, blinking "
+    },
+    {
+      "kind": "text",
+      "file": "650e46f4eabfe8d2.wav",
+      "seconds": 8.734421768707483,
+      "gap": 0.75,
+      "text": "He didn't argue further. He just stepped aside, letting the silent, black-armored squad push past them to secure the exe"
+    },
+    {
+      "kind": "text",
+      "file": "b7c77fe1079c992f.wav",
+      "seconds": 4.23469387755102,
+      "gap": 0.75,
+      "text": "\"We're done here, Harlan,\" Victor said, turning to head down the stairs."
+    },
+    {
+      "kind": "text",
+      "file": "89fc2abe30a54752.wav",
+      "seconds": 8.792471655328798,
+      "gap": 0.75,
+      "text": "Harlan pushed himself off the wall, wiping a streak of sweat and soot from the dark skin of his forehead. \"What's so imp"
+    },
+    {
+      "kind": "text",
+      "file": "d67259c660dafe3f.wav",
+      "seconds": 12.22326530612245,
+      "gap": 0.75,
+      "text": "\"'What' indeed, Harlan,\" Victor muttered, starting the long descent back down to the Dead Circuits. He paused on the fir"
+    },
+    {
+      "kind": "text",
+      "file": "f20f47e6ebf1bc0a.wav",
+      "seconds": 4.606031746031746,
+      "gap": 0.75,
+      "text": "Harlan frowned, staring after him into the stairwell. \"Blackwell?\""
+    }
+  ]
+}
