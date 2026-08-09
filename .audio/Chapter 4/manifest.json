@@ -6,8 +6,8 @@
   "lengthScale": 2,
   "speaker": 0,
   "sampleRate": 22050,
-  "seconds": 342.59482993197275,
-  "renderedAt": 1786253182468,
+  "seconds": 335.24526077097505,
+  "renderedAt": 1786254718014,
   "segments": [
     {
       "kind": "text",
@@ -176,24 +176,24 @@
     },
     {
       "kind": "text",
-      "file": "c992407e5f8831ac.wav",
-      "seconds": 5.310385487528345,
+      "file": "f335479c24103d24.wav",
+      "seconds": 2.033015873015873,
       "gap": 0.75,
-      "text": "Mina looked frantically between the two of them. \"If it's that smart, why isn't it talking to us?\""
+      "text": "Mina looked frantically between the two of them."
     },
     {
       "kind": "text",
-      "file": "b7c71e8b6bd408d1.wav",
-      "seconds": 8.139274376417234,
+      "file": "6880a4fa2a990458.wav",
+      "seconds": 6.164625850340136,
       "gap": 0.75,
-      "text": "\"Because it's a closed system!\" Elena snapped, her fingers flying across the glowing keyboard. \"I'm shutting down the ho"
+      "text": "Elena snapped, her fingers frantic across the glowing keyboard. \"I'm shutting down the horizon state, now.\""
     },
     {
       "kind": "text",
-      "file": "e248104950f3dba0.wav",
-      "seconds": 13.527074829931973,
+      "file": "29043e054357e44a.wav",
+      "seconds": 6.593061224489796,
       "gap": 0.75,
-      "text": "Blackwell didn't move to stop her. He just watched the ethereal blue light from the pillar readouts, filtering through t"
+      "text": "Blackwell didn't move to stop her. He just watched the pale light from the pillar readouts, filtering through the cold h"
     },
     {
       "kind": "text",
@@ -204,6 +204,13 @@
     },
     {
       "kind": "text",
+      "file": "7f464115879e4e13.wav",
+      "seconds": 3.1753741496598638,
+      "gap": 0.75,
+      "text": "Blackwell continued to watch the shut down efforts."
+    },
+    {
+      "kind": "text",
       "file": "41fd087d86b50eba.wav",
       "seconds": 6.610249433106576,
       "gap": 0.75,
@@ -211,10 +218,10 @@
     },
     {
       "kind": "text",
-      "file": "d1c9308a0ffe63ba.wav",
-      "seconds": 7.072154195011338,
+      "file": "83861278d5c3847f.wav",
+      "seconds": 8.733242630385487,
       "gap": 0.75,
-      "text": "\"The living generally don't want to die,\" Blackwell stated. It wasn't a philosophical observation; it was a cold, hard f"
+      "text": "Blackwell turned. \"The living generally don't want to die,\" Blackwell stated. It wasn't a philosophical observation; it "
     },
     {
       "kind": "text",

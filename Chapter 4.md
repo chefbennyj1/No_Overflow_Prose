@@ -47,17 +47,19 @@ Blackwell’s expression remained entirely unreadable. "Of course it is. While w
 
 "I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic hum of the reactor. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown... You can't scale a soul, Silas..."
 
-Mina looked frantically between the two of them. "But the telemetry shows zero external queries. If it's iterating at that scale, why hasn't it attempted an outbound handshake?"
+Mina looked frantically between the two of them. 
 
-"Because it's a closed system!" Elena snapped, her fingers flying across the glowing keyboard. "I'm shutting down the horizon state, now."
+Elena snapped, her fingers frantic across the glowing keyboard. "I'm shutting down the horizon state, now."
 
-Blackwell didn't move to stop her. He just watched the pale light from the pillar readouts, filtering through the cold heavy mist below. "There is only one reason a system initiates contact," he said softly. "To attempt resolution."
+Blackwell didn't move to stop her. He just watched the pale light from the pillar readouts, filtering through the cold heavy mist below. 
 
 The glow of Elena's monitors flashed an angry, crimson red. 
 
+Blackwell continued to watch the shutdown efforts.
+
 "Horizon memory shutdown reads as... unsuccessful, ma'am," Mina whispered, staring at her tablet. 
 
-"The living generally don't want to die," Blackwell stated. It wasn't a philosophical observation; it was a cold, hard fact. 
+Blackwell turned. "The living generally don't want to die," he stated. It wasn't a philosophical observation; it was a cold, hard fact. 
 
 "Dammit!" Elena pounded a fist against the metal console. "Why won't the memory—?"
 
