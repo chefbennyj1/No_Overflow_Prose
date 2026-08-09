@@ -28,9 +28,15 @@ She bypassed the personal directories, diving straight into the infrastructure s
 
 As the routing keys slowly copied to her drive, a hidden sub-process in Blackwell's directory caught her eye. It was a power consumption log. The numbers didn't make sense. It wasn't a random spike; it was a sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks. 
 
-She opened the file path. The screen flooded with classified schematics for something called the *Mnemosyne Engine*. The telemetry data outside the window wasn't just corporate diagnostics—it was monitoring an anomaly that had been tearing at the city's power grid for the better part of a month. A *Mnemonic Gravity Well*. 
+She opened the file path. The terminal screen flooded with classified schematics for something called the *Mnemosyne Engine*. At the center of the complex data was a wireframe model of a massive, heavily fortified laboratory tower. Rin frowned, her eyes darting from the small screen to the massive window behind the desk. 
 
-Before she could dig deeper, the power routing keys download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols, diagrams and text that filled the display in front of her, contemplating the repercussions of taking more than she had originally come for. 
+The blue telemetry data cascading across the reinforced glass wasn't just corporate diagnostics. It was a scaled holographic projection of the exact same tower schematic. 
+
+Rin stepped backward, moving away from the desk until the glowing blue wireframe on the glass perfectly eclipsed a brutalist structure looming in the distant, fog-choked city skyline. The data on the window was monitoring an anomaly localized entirely within that specific building—a hemorrhage tearing at the city's power grid. A *Mnemonic Gravity Well*. 
+
+Rin stared at the distant tower through the wireframe overlay. She suddenly had a target. A direction. 
+
+Before she could dig deeper, the power routing keys download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
 *This will take time.*
 
@@ -58,7 +64,7 @@ Victor reached the heavy door of the fifteenth-floor landing. The security lock 
 
 Victor stopped dead. 
 
-At the opposite end of the hall, the executive suite door stood ajar. Victor squinted at the violent, erratic blue light bleeding through the gap. Through the opening, he could see a section of the office's massive window. It was consumed by a holographic overlay of the *Mnemosyne Engine*—a projection that perfectly outlined a towering building in the city skyline outside. It was an incomprehensible schematic of a Gravity Well that seemed to warp the very air around it.
+At the opposite end of the hall, the executive suite door stood ajar. Victor squinted at the violent, erratic blue light bleeding through the gap. Through the opening, he could see a section of the office's massive window. It was consumed by a glowing blue wireframe projection that perfectly outlined a towering, brutalist building in the distant city skyline.
 
 Harlan burst through the stairwell door a second later, his weapon raised. "Jesus, Victor! You're being reckless—"
 
