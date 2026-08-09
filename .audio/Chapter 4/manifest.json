@@ -6,8 +6,8 @@
   "lengthScale": 2,
   "speaker": 0,
   "sampleRate": 22050,
-  "seconds": 342.6673469387755,
-  "renderedAt": 1786253041357,
+  "seconds": 342.59482993197275,
+  "renderedAt": 1786253182468,
   "segments": [
     {
       "kind": "text",
@@ -78,10 +78,10 @@
     },
     {
       "kind": "text",
-      "file": "c7a2b0c459af9e41.wav",
-      "seconds": 4.741678004535148,
+      "file": "cec05cbf6004f58b.wav",
+      "seconds": 4.669160997732426,
       "gap": 0.75,
-      "text": "Doctor Blackwell emerged from the darkness of his private office and stepped in the lab."
+      "text": "Doctor Blackwell emerged from the darkness of his private office and stepped into the lab."
     },
     {
       "kind": "text",

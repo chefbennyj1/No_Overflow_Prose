@@ -47,11 +47,11 @@ Blackwell’s expression remained entirely unreadable. "Of course it is. While w
 
 "I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic hum of the reactor. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown... You can't scale a soul, Silas..."
 
-Mina looked frantically between the two of them. "If it's that smart, why isn't it talking to us?"
+Mina looked frantically between the two of them. "But the telemetry shows zero external queries. If it's iterating at that scale, why hasn't it attempted an outbound handshake?"
 
 "Because it's a closed system!" Elena snapped, her fingers flying across the glowing keyboard. "I'm shutting down the horizon state, now."
 
-Blackwell didn't move to stop her. He just watched the ethereal blue light from the pillar readouts, filtering through the cold heavy mist below. "There's only one reason to communicate," he said softly. "To attempt resolution."
+Blackwell didn't move to stop her. He just watched the pale light from the pillar readouts, filtering through the cold heavy mist below. "There is only one reason a system initiates contact," he said softly. "To attempt resolution."
 
 The glow of Elena's monitors flashed an angry, crimson red. 
 
