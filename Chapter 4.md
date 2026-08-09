@@ -27,7 +27,7 @@ It had been six weeks since the engine was brought online. The air down here was
 
 Standing before a massive, glowing blue interface was Elena Marlowe. The cool cyan light of the holographic monitors illuminated her white lab coat and her natural hair. She was typing furiously, her face set in an intense, frustrated scowl, entirely devoid of the commanding composure she usually maintained for the Board.
 
-A few yards away stood Mina, the junior technician. She had pushed her black-rimmed glasses up the bridge of her nose, the lenses reflecting the harsh light from the digital tablet in her hands. The heavy gold hoops swinging from her ears caught the blue light of the core as she scanned the scrolling data, her expression terrified but intensely analytical.
+A few yards away stood Mina, the junior technician. She had pushed her black-rimmed glasses up the bridge of her nose, the lenses reflecting the light from the screens on the sides of the pillars, as she scanned the scrolling data, her expression terrified but intensely analytical.
 
 "The engine's been running perfectly for six weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
 
@@ -35,7 +35,7 @@ A few yards away stood Mina, the junior technician. She had pushed her black-rim
 
 "It ignored the command," Elena said, her voice tight. 
 
-Mina hugged the tablet against her chest, her eyes wide as she stared past the railing toward the glowing singularity below. "The processing speed... it's godly. It computes so much, so quickly. Why would it ignore a shutdown command?"
+Mina's eyes went wide as she stared past the railing toward the glowing singularity below. "The processing speed... it's godly. It computes so much, so quickly. Why would it ignore a shutdown command?"
 
 "Do not use theology to describe the computing," Blackwell snapped, turning his perfectly circular sunglasses toward the junior technician. "It is not 'godly'."
 

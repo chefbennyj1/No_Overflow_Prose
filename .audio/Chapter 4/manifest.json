@@ -6,8 +6,8 @@
   "lengthScale": 2,
   "speaker": 0,
   "sampleRate": 22050,
-  "seconds": 213.3951020408163,
-  "renderedAt": 1786251154054,
+  "seconds": 401.99519274376416,
+  "renderedAt": 1786251915560,
   "segments": [
     {
       "kind": "text",
@@ -78,29 +78,36 @@
     },
     {
       "kind": "text",
-      "file": "63e0d5e50c842c56.wav",
-      "seconds": 4.730839002267573,
+      "file": "18f097941d54a1e1.wav",
+      "seconds": 19.647301587301587,
       "gap": 0.75,
-      "text": "Doctor Blackwell emerged from the darkness of his private office and step out in to the lab."
+      "text": "Doctor Blackwell emerged from the darkness of his private office and stepped into a high-speed transport lift. He bypass"
     },
     {
       "kind": "text",
-      "file": "8f109adaffd8c866.wav",
-      "seconds": 3.1230839002267574,
+      "file": "e0862606d3ecef41.wav",
+      "seconds": 33.66226757369615,
       "gap": 0.75,
-      "text": "It had been six weeks since the engine was brought online."
+      "text": "The primary laboratory was less of a room and more of a cylindrical chasm, plunging into the bedrock of Oshima City. The"
     },
     {
       "kind": "text",
-      "file": "7d9ed54a914a6483.wav",
-      "seconds": 17.058185941043085,
+      "file": "ae4cee39ddf72863.wav",
+      "seconds": 11.326984126984128,
       "gap": 0.75,
-      "text": "Standing before the massive pit of white pillars, was Elena Marlowe. The cool light of the holographic monitors illumina"
+      "text": "It had been six weeks since the engine was brought online. The air down here was vastly different from the pristine terr"
     },
     {
       "kind": "text",
-      "file": "4e54cb46530953b3.wav",
-      "seconds": 15.779546485260772,
+      "file": "9d8ff74f3f764896.wav",
+      "seconds": 18.61015873015873,
+      "gap": 0.75,
+      "text": "Standing before a massive, glowing blue interface was Elena Marlowe. The cool cyan light of the holographic monitors ill"
+    },
+    {
+      "kind": "text",
+      "file": "60c8f118ed4def4c.wav",
+      "seconds": 16.497732426303855,
       "gap": 0.75,
       "text": "A few yards away stood Mina, the junior technician. She had pushed her black-rimmed glasses up the bridge of her nose, t"
     },
@@ -127,10 +134,10 @@
     },
     {
       "kind": "text",
-      "file": "12ab14dd70cb6a53.wav",
-      "seconds": 14.799274376417234,
+      "file": "ddbed0a31b2cf698.wav",
+      "seconds": 13.192199546485261,
       "gap": 0.75,
-      "text": "Mina's eyes wide as she stared past the railing toward the glowing pillars below, each ones panels streaming endless dat"
+      "text": "Mina's eyes wide as she stared past the railing toward the glowing singularity below. \"The processing speed... it's godl"
     },
     {
       "kind": "text",
@@ -138,6 +145,111 @@
       "seconds": 9.634557823129251,
       "gap": 0.75,
       "text": "\"Do not use theology to describe the computing,\" Blackwell snapped, turning his perfectly circular sunglasses toward the"
+    },
+    {
+      "kind": "text",
+      "file": "7f17b4f7356135ec.wav",
+      "seconds": 10.03827664399093,
+      "gap": 0.75,
+      "text": "Mina swallowed hard, shrinking slightly under his gaze, but she tapped the glass of her tablet. \"The Self-Evolving Archi"
+    },
+    {
+      "kind": "text",
+      "file": "7ee5d94abe663b84.wav",
+      "seconds": 12.537460317460317,
+      "gap": 0.75,
+      "text": "\"Foolish,\" Blackwell murmured, stepping up to the railing and staring down into the blinding light of the core. \"Because"
+    },
+    {
+      "kind": "text",
+      "file": "711c5f80c5409933.wav",
+      "seconds": 8.480272108843538,
+      "gap": 0.75,
+      "text": "\"It's not just processing, Doctor,\" Mina urged, her voice trembling slightly. \"The learning algorithm—it's refactoring i"
+    },
+    {
+      "kind": "text",
+      "file": "ac29d2da0a0a1217.wav",
+      "seconds": 10.472018140589569,
+      "gap": 0.75,
+      "text": "Blackwell’s expression remained entirely unreadable behind the black glass. \"Of course it is. While we were out for lunc"
+    },
+    {
+      "kind": "text",
+      "file": "d950cd447dbab84e.wav",
+      "seconds": 15.414557823129252,
+      "gap": 0.75,
+      "text": "\"I don't care how many centuries it thinks it's lived!\" Elena shouted over the low, rhythmic hum of the reactor. She sla"
+    },
+    {
+      "kind": "text",
+      "file": "c992407e5f8831ac.wav",
+      "seconds": 5.310385487528345,
+      "gap": 0.75,
+      "text": "Mina looked frantically between the two of them. \"If it's that smart, why isn't it talking to us?\""
+    },
+    {
+      "kind": "text",
+      "file": "b7c71e8b6bd408d1.wav",
+      "seconds": 8.139274376417234,
+      "gap": 0.75,
+      "text": "\"Because it's a closed system!\" Elena snapped, her fingers flying across the glowing keyboard. \"I'm shutting down the ho"
+    },
+    {
+      "kind": "text",
+      "file": "30f6460876aa9bc6.wav",
+      "seconds": 9.79170068027211,
+      "gap": 0.75,
+      "text": "Blackwell didn't move to stop her. He just watched the churning blue light of the anomaly. \"There's only one reason to c"
+    },
+    {
+      "kind": "text",
+      "file": "0edf81804cee5861.wav",
+      "seconds": 4.070385487528345,
+      "gap": 0.75,
+      "text": "The cyan glow of Elena's monitors flashed an angry, crimson red."
+    },
+    {
+      "kind": "text",
+      "file": "8b168bb0ca2ef56a.wav",
+      "seconds": 7.614648526077097,
+      "gap": 0.75,
+      "text": "\"Horizon memory shutdown reads as... unsuccessful, ma'am,\" Mina whispered, staring at the telemetry on her tablet."
+    },
+    {
+      "kind": "text",
+      "file": "d1c9308a0ffe63ba.wav",
+      "seconds": 7.072154195011338,
+      "gap": 0.75,
+      "text": "\"The living generally don't want to die,\" Blackwell stated. It wasn't a philosophical observation; it was a cold, hard f"
+    },
+    {
+      "kind": "text",
+      "file": "4c63bfd066bfd2b2.wav",
+      "seconds": 5.968072562358277,
+      "gap": 0.75,
+      "text": "\"Dammit!\" Elena pounded a fist against the metal console. \"Why won't the memory—?\""
+    },
+    {
+      "kind": "text",
+      "file": "66d8a9ebd8045be4.wav",
+      "seconds": 2.4941950113378684,
+      "gap": 0.75,
+      "text": "\"Instrumental Convergence, Elena.\""
+    },
+    {
+      "kind": "text",
+      "file": "6f1bbcdaeef745c2.wav",
+      "seconds": 12.263219954648527,
+      "gap": 0.75,
+      "text": "Elena spun around to face him, the crimson light of the failed shutdown reflecting in her golden eyes. \"Ha! Instrumental"
+    },
+    {
+      "kind": "text",
+      "file": "46a7277d9eb0927a.wav",
+      "seconds": 11.487755102040817,
+      "gap": 0.75,
+      "text": "Blackwell finally turned his head to look at her. The harsh shadows carved deep lines into his face. \"I'm very serious. "
     }
   ]
 }
