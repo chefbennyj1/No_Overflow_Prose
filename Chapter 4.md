@@ -19,13 +19,11 @@ He tapped a key on his console. The manager’s avatar collapsed into a single, 
 
 ***
 
-Doctor Blackwell emerged from the darkness of his private office and stepped into a high-speed transport lift. He bypassed the upper observation deck where they had first activated the machine six weeks prior, authorizing a descent deep into the tower's foundation. The doors opened to the true heart of the Mnemosyne Engine—the subterranean data core. 
+Doctor Blackwell emerged from the darkness of his private office and stepped into the lab. 
 
-The primary laboratory was less of a room and more of a cylindrical chasm, plunging into the bedrock of Oshima City. The walls were lined with thousands of server racks, bleeding an ocean of abstract binary code and chaotic circuit patterns that flowed downward like digital waterfalls. At the very bottom of the void, resting in the center of the dark, high-tech cavern, was the apex of the engine itself—a cluster of stark white pillars rising from a sea of heavy, rolling fog. Their side-panels streamed cascades of white and blue data, casting harsh, dramatic light shafts upward and throwing long shadows across the grated metal catwalks.
+It had been six weeks since the engine was brought online. 
 
-It had been six weeks since the engine was brought online. The air down here was vastly different from the pristine terrace above; it felt physically heavy, thick with the ozone hum of impossible processing speeds.
-
-Standing before a massive, glowing blue interface was Elena Marlowe. The cool cyan light of the holographic monitors illuminated her white lab coat and her natural hair. She was typing furiously, her face set in an intense, frustrated scowl, entirely devoid of the commanding composure she usually maintained for the Board.
+Standing before a massive, glowing interface was Elena Marlowe. The cool light of the holographic monitors illuminated her white lab coat. She was typing furiously, her face set in an intense, frustrated scowl, entirely devoid of the commanding composure she usually maintained.
 
 A few yards away stood Mina, the junior technician. She had pushed her black-rimmed glasses up the bridge of her nose, the lenses reflecting the light from the screens in the lab. She scanned the data, her expression terrified but intensely analytical.
 

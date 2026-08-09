@@ -6,8 +6,8 @@
   "lengthScale": 2,
   "speaker": 0,
   "sampleRate": 22050,
-  "seconds": 399.61841269841267,
-  "renderedAt": 1786252461525,
+  "seconds": 342.6673469387755,
+  "renderedAt": 1786253041357,
   "segments": [
     {
       "kind": "text",
@@ -78,31 +78,24 @@
     },
     {
       "kind": "text",
-      "file": "18f097941d54a1e1.wav",
-      "seconds": 19.647301587301587,
+      "file": "c7a2b0c459af9e41.wav",
+      "seconds": 4.741678004535148,
       "gap": 0.75,
-      "text": "Doctor Blackwell emerged from the darkness of his private office and stepped into a high-speed transport lift. He bypass"
+      "text": "Doctor Blackwell emerged from the darkness of his private office and stepped in the lab."
     },
     {
       "kind": "text",
-      "file": "e0862606d3ecef41.wav",
-      "seconds": 33.66226757369615,
+      "file": "8f109adaffd8c866.wav",
+      "seconds": 2.838503401360544,
       "gap": 0.75,
-      "text": "The primary laboratory was less of a room and more of a cylindrical chasm, plunging into the bedrock of Oshima City. The"
+      "text": "It had been six weeks since the engine was brought online."
     },
     {
       "kind": "text",
-      "file": "ae4cee39ddf72863.wav",
-      "seconds": 11.326984126984128,
+      "file": "a1bff61005fabddb.wav",
+      "seconds": 16.937233560090704,
       "gap": 0.75,
-      "text": "It had been six weeks since the engine was brought online. The air down here was vastly different from the pristine terr"
-    },
-    {
-      "kind": "text",
-      "file": "9d8ff74f3f764896.wav",
-      "seconds": 18.61015873015873,
-      "gap": 0.75,
-      "text": "Standing before a massive, glowing blue interface was Elena Marlowe. The cool cyan light of the holographic monitors ill"
+      "text": "Standing before a massive, glowing interface was Elena Marlowe. The cool light of the holographic monitors illuminated h"
     },
     {
       "kind": "text",
@@ -155,10 +148,10 @@
     },
     {
       "kind": "text",
-      "file": "94962429715f46b3.wav",
-      "seconds": 11.578775510204082,
+      "file": "c175ad856b69071b.wav",
+      "seconds": 11.807301587301588,
       "gap": 0.75,
-      "text": "Blackwell smirked, stepping up to the railing and staring down into the blinding light of the core. \"Because you are mea"
+      "text": "Blackwell smirked, stepping up to the railing and staring down into the mist at the base of the pillars. \"Because you ar"
     },
     {
       "kind": "text",
@@ -197,10 +190,10 @@
     },
     {
       "kind": "text",
-      "file": "9c8627c678b4af90.wav",
-      "seconds": 11.977369614512472,
+      "file": "e248104950f3dba0.wav",
+      "seconds": 13.527074829931973,
       "gap": 0.75,
-      "text": "Blackwell didn't move to stop her. He just watched the ethereal blue light form the tower readouts, in the cold heavy mi"
+      "text": "Blackwell didn't move to stop her. He just watched the ethereal blue light from the pillar readouts, filtering through t"
     },
     {
       "kind": "text",
