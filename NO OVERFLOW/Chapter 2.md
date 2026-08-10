@@ -18,13 +18,13 @@ She didn't admire the view. The telemetry data streaming across the glass repres
 
 The terminal awoke, projecting a secure Saito Takeda Corporation login screen in stark text. 
 
-Her fingers crawled across the mechanical keyboard. *Hello Company employee: RD001, S. Blackwell.*
+Her fingers moved across the mechanical keyboard. *Hello Company employee: RD001, S. Blackwell.*
 
 Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled the trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that chewed through her algorithms. She typed furiously, manually guiding the breach until the firewall finally splintered, granting access to the executive files. 
 
 *Gotcha.* Her eyes locked on the sprawling data.
 
-She bypassed the personal directories, diving straight into the infrastructure sub-networks. Her target was the municipal routing keys—the price 'The Filament' demanded to keep the lower grids online. But the network architecture was dense, built like a labyrinth to deliberately slow data extraction. 
+She bypassed the personal directories, diving straight into the infrastructure sub-networks. Her target was the municipal routing keys—the price 'The Filament' demanded to keep the lower grids online. But the network architecture was dense, built to deliberately slow data extraction. 
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
