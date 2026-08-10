@@ -6,8 +6,8 @@
   "lengthScale": 2,
   "speaker": 0,
   "sampleRate": 22050,
-  "seconds": 823.5220408163266,
-  "renderedAt": 1786326486690,
+  "seconds": 811.166439909297,
+  "renderedAt": 1786327153186,
   "segments": [
     {
       "kind": "text",
@@ -39,8 +39,8 @@
     },
     {
       "kind": "text",
-      "file": "9e33e7dae9b143d1.wav",
-      "seconds": 24.912063492063492,
+      "file": "93047c882bbc93ae.wav",
+      "seconds": 25.422403628117912,
       "gap": 0.75,
       "text": "A sudden flash of blue light reflected off the narrow hallway walls. Rin jerked backward, only just dodging the hidden r"
     },
@@ -53,10 +53,10 @@
     },
     {
       "kind": "text",
-      "file": "0f46975f367b5ed3.wav",
-      "seconds": 36.835963718820864,
+      "file": "faa73b66e8110122.wav",
+      "seconds": 23.97002267573696,
       "gap": 0.75,
-      "text": "She slipped through the threshold, stepping into the muted silence of the executive suite. She was young, barely in her "
+      "text": "She ran her fingers along the messy fringe of bangs that hung across her eyes, pulling a length of dark hair behind her "
     },
     {
       "kind": "text",
