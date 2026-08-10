@@ -66,7 +66,7 @@ On the immense display above the floor, the grid of silhouettes leaned forward. 
 
 The hushed voice interrupted the moment. A junior technician scurried up behind them, never once looking up from the glowing datapad in her hands. She was a stark contrast to the sterile perfection of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
 
-"Ma'am, local space-time..." Mina stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. "It's..." She paused, her focus visibly fragmenting for a second, then continued. "...a mass-displacement anomaly. A severe fluctuation in the event horizon. The power dra—"
+"Ma'am, local space-time..." Mina stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. "It's ..." She paused, her focus visibly fragmenting for a second, then continued. "...a mass-displacement anomaly. A severe fluctuation in the event horizon. The power dra—"
 
 Elena spun around. She cast a quick glance up at the Board's display—a fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Mina.
 
