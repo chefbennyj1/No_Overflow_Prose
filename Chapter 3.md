@@ -10,7 +10,7 @@ Rin tuned it out, as she pulled the red drive from her pocket. She turned it ove
 
 As she passed the darkened glass of an adjacent storefront, she caught the reflection of the electronics shop behind her. The dozen vintage screens had simultaneously spasmed. 
 
-The anchorwoman's face fractured into heavy scanlines. Bleeding through the thick static in the reflection, a new visage formed in the cathode-ray fuzz. It was a face devoid of color—a black so dark and absolute it looked as though it formed an abyss stretching into eternity. Across that endless dark, subtle blue and white pixelated circuit traces glowed, outlining the curves to form an almost perfected feminine face. Her eyes burned a blinding, brilliant white, flaring with a subtle blue aura along their lensed edges. She was breathtaking. She was terrifying.
+The anchorwoman's face fractured into heavy scanlines. Bleeding through the thick static in the reflection, a new visage formed in the cathode-ray fuzz. It was a face completely devoid of shadow—a blinding, pure white that looked as though it were molded of porcelain. Across that flawless surface, searing white pixelated circuit traces glowed, outlining the curves to form an almost perfected feminine face. Her eyes burned a blinding, brilliant white, flaring with a subtle blue aura along their lensed edges. She was breathtaking. She was terrifying.
 
 Its expression remained perfectly still, hauntingly focused. The glowing white eyes in the reflection were tracking Rin's every step. Watching her.
 
@@ -18,7 +18,7 @@ Rin stopped cold, and whipped around to face the electronics shop.
 
 But the screens were perfectly normal. The identical, impassive face of the corporate anchorwoman droned on about the data breach, undisturbed. 
 
-Rin stared at the televisions for a long moment, the freezing rain soaking into her collar. Her blood had run completely cold, a chill that had nothing to do with the storm. She let out a shaky breath.
+Rin stared at the televisions for a long moment, the freezing rain soaking into her collar. Her blood had run completely cold, she let out a shaky breath.
 *It's just the exhaustion playing tricks,*  she told herself, though she didn't quite believe it. 
 
 Unable to shake the creeping sensation that she was still being watched, Rin pulled her collar up higher and vanished into the fog.
@@ -63,7 +63,7 @@ Standing directly in front of the open door, waiting for the lift, were two Sait
 
 Rin slammed her hand against the elevator's 'Close Door' button, stepping backward into the car. 
 
-The rusted doors began to slide shut, but an agent jammed a heavy, armored forearm between them. The metal groaned in protest as the agent effortlessly forced the doors back open, stepping into the elevator, and blocked her escape. 
+The rusted doors began to slide shut, but an agent jammed a heavy, armored forearm between them. The metal groaned to a stop as the agent effortlessly forced the doors back open, stepping into the elevator, and blocked her escape. 
 
 "Citizen!" the female agent barked, her voice heavily modulated through the helmet. "State your name, your prior location, and destination!"
 

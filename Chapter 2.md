@@ -1,4 +1,4 @@
-  Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers"—the massive arcologies of the city. Looking up from the flooded streets invited vertigo. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. The atmosphere was bitter, heavy and thick with exhaust. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. 
+  Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers"—the massive arcologies of the city. Looking up from the flooded streets invited vertigo. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. The atmosphere was bitter, and thick with exhaust. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. 
 
   Rising from the center of the old buildings was a Company data hub. Unlike the rusted slums surrounding it, the monolith structure was a pristine slab of mirrored, black glass. A holographic billboard clung to its perfect facade, bleeding blue static into the smog. It advertised: *Saito Takeda*. 
   
@@ -12,19 +12,19 @@ The magnetic lock disengaged with a hollow thud.
 
 She ran her fingers along the messy fringe of bangs that hung across her eyes, pulling a length of dark hair behind her ear. She slipped through the threshold, stepping into the muted silence of the executive suite. Water dripped from her oversized, heavy leather jacket, pooling on the polished floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
 
-As she crossed the center of the office, the room's massive window flared to life, a wave of blue pixels cascading across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic luminescence, as the pixels coalesced into streaming columns of telemetry data. She approached the terminal sitting on the polished black glass inlay of the wooden desk, ignoring the holographic overlay of the Dead Circuits sprawling fifteen floors below.
+As she crossed the center of the office, the room's massive window flared to life, a wave of blue pixels cascading across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of telemetry data. She approached the terminal sitting on the polished black glass inlay of the wooden desk, ignoring the holographic overlay of the Dead Circuits sprawling fifteen floors below.
 
 She didn't admire the view. The telemetry data streaming across the glass represented sheer excess—idle processing power that could keep the Dead Circuits heated through the winter. Rin pulled a black single-board controller from her jacket, jamming its connection wire into the main console. 
 
 The terminal awoke, projecting a secure Saito Takeda Corporation login screen in stark text. 
 
-Her fingers crawled across the mechanical keyboard. *Hello Company employee: RD001, S. Blackwell.*
+Her fingers moved across the mechanical keyboard. *Hello Company employee: RD001, S. Blackwell.*
 
 Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled the trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that chewed through her algorithms. She typed furiously, manually guiding the breach until the firewall finally splintered, granting access to the executive files. 
 
-*Gotcha.* Her eyes locked on the sprawling data.
+*Gotcha.* Her eyes locked on the data.
 
-She bypassed the personal directories, diving straight into the infrastructure sub-networks. Her target was the municipal routing keys—the price 'The Filament' demanded to keep the lower grids online. But the network architecture was dense, built like a labyrinth to deliberately slow data extraction. 
+She bypassed the personal directories, diving straight into the infrastructure sub-networks. Her target was the municipal routing keys—the price 'The Filament' demanded to keep the lower grids online. But the network architecture was dense, built to deliberately slow data extraction. 
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
@@ -40,7 +40,7 @@ Before she could dig deeper, the power routing keys download completed. Rin root
 
 *This will take time.*
 
-She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair that always managed to fall into her face when she worked. She hooked it tightly behind her ear—a familiar, nervous tick that betrayed the calm, professional facade she tried to maintain. Blowing a damp fringe out of her eyeline, she hammered the key to start the copy.
+She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair that always managed to fall into her face when she worked. She hooked it tightly behind her ear—a familiar, nervous tick that betrayed the calm facade she tried to maintain. Blowing a damp fringe out of her eyeline, she hammered the key to start the copy.
 
 She needed to finish her work before her luck ran out. 
 
@@ -50,7 +50,7 @@ The fluorescent lights of the maintenance stairwell flickered, casting erratic s
 
 "Fifteen floors up with no elevator, Victor?" Harlan gasped, loosening the tie of his grey suit. He leaned against the metal railing to catch his breath. "You sure it's Null this time?"
 
-Victor didn't slow his ascent. His black coat whipped at his ankles with each precise step. Overhead, the lights came up hard off the polished concrete of the stairwell. His eyes watered under the glare. He didn't blink it away. He kept climbing. The stark light caught his white hair when he turned at the landing, went through his eyes and came back red. He turned again, and it was gone.
+Victor didn't slow his ascent. His black coat whipped at his ankles with each precise step. Overhead, the lights came up hard off the polished concrete of the stairwell. His eyes watered under the glare. He didn't blink it away. He kept climbing. The stark light caught his white hair when he turned at the landing, went through his Albinotic eyes and came back red. He turned again, and it was gone.
 
 "Positive, Harlan," Victor said, his voice steady, betraying no exertion. "We've been hunting them for months. They won't get past me again."
 
