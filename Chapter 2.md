@@ -1,10 +1,12 @@
-Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers"—the massive arcologies of the city. Looking up from the flooded streets invited vertigo. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. The atmosphere was bitter, heavy and thick with exhaust. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. 
+  Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers"—the massive arcologies of the city. Looking up from the flooded streets invited vertigo. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. The atmosphere was bitter, heavy and thick with exhaust. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. 
 
-Rising from the center of the old buildings was a Company data hub. Unlike the rusted slums surrounding it, the monolith structure was a pristine slab of mirrored, black glass. A holographic billboard clung to its perfect facade, bleeding blue static into the smog. It advertised: *Saito Takeda*. Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, a lone figure stood in the sterile hallway, pulling wires from an office's magnetic lock. 
+  Rising from the center of the old buildings was a Company data hub. Unlike the rusted slums surrounding it, the monolith structure was a pristine slab of mirrored, black glass. A holographic billboard clung to its perfect facade, bleeding blue static into the smog. It advertised: *Saito Takeda*. 
+  
+  Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, a lone figure stood in the sterile hallway, pulling wires from an office's magnetic lock. 
 
 The corridor was otherwise silent, smelling of oxidizing disinfectants and recycled air. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away. 
 
-A sudden flash of blue light reflected off the narrow hallway walls. Rin jerked backward, only just dodging the hidden retinal scanner. Her eyes widened as she watched the sweeping laser beam search for its missing retinal data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scanner and swiped her forged personnel card, illuminating the lock's near-field communication display.
+  A sudden flash of blue light reflected off the narrow hallway walls. Rin jerked backward, only just dodging the hidden retinal scanner. Her eyes widened as she watched the sweeping laser beam search for its missing retinal data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scanner and swiped her forged personnel card, illuminating the lock's near-field communication display.
 
 The magnetic lock disengaged with a hollow thud. 
 
@@ -16,7 +18,7 @@ She didn't admire the view. The telemetry data streaming across the glass repres
 
 The terminal awoke, projecting a secure Saito Takeda Corporation login screen in stark text. 
 
-Her fingers flew across the mechanical keyboard. *Hello Company employee: RD001, Blackwell.*
+Her fingers crawled across the mechanical keyboard. *Hello Company employee: RD001, S. Blackwell.*
 
 Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled the trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that chewed through her algorithms. She typed furiously, manually guiding the breach until the firewall finally splintered, granting access to the executive files. 
 
@@ -38,7 +40,7 @@ Before she could dig deeper, the power routing keys download completed. Rin root
 
 *This will take time.*
 
-She connected the red drive to the terminal. Her fingers instinctively found the sharp, jagged sidelock of dark hair that always managed to fall into her face when she worked. She hooked it tightly behind her ear—a familiar, nervous tick that betrayed the calm, professional facade she tried to maintain. Blowing a damp fringe out of her eyeline, she hammered the key to start the copy.
+She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair that always managed to fall into her face when she worked. She hooked it tightly behind her ear—a familiar, nervous tick that betrayed the calm, professional facade she tried to maintain. Blowing a damp fringe out of her eyeline, she hammered the key to start the copy.
 
 She needed to finish her work before her luck ran out. 
 

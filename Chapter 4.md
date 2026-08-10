@@ -1,25 +1,26 @@
-Blackwell exhaled a thick plume of gray smoke into the sterile, freezing air of his private office in the lab. He sat perfectly still in the dark, the harsh, angular lines of his deeply wrinkled face illuminated only by the light of the projection on his desk. His wild, stark-white hair stood in sharp contrast to the shadows swallowing the rest of the room.
+A thin, unbroken stream of white smoke spiraled upward from the cigarette pinched between Blackwell's fingers. He sat motionless in the  dark of his private office, watching as the smoke drifted across the surface of his desk and wound directly through the center of a high-fidelity holographic projection.
 
-Floating above the glass surface of the desk was a high-fidelity holographic projection. It depicted a young Corporate Manager, from the Renewal office, in a dark blue, high-collared Saito Takeda suit. The manager's avatar flickered slightly, breaking the cast light across Blackwell’s motionless features.
+The young man in the projection wore a dark blue jacket with a high square collar. The badge on his lapel read Renewal Officer.
 
-This time, his sunglasses couldn't mask the emotion he felt behind them.
-"My office?" Blackwell's voice was a dry, authoritative rasp that commanded the silence of the room. "What exactly did they access?"
+The smoke disrupted the hard-light matrix. The flickering light of the corrupted projection illuminated the angular lines of Blackwell's face and cast shadows against his white hair.
 
-The young manager on the display shifted uncomfortably, the digital artifacts around his edges betraying the secure connection. "They accessed—" There was an uncomfortable pause. "Everything, Doctor."
+"My office?" Blackwell's voice was a dry rasp. "What exactly did they access?"
 
-Blackwell took another slow, deliberate drag from his cigarette. The cherry flared bright red, reflecting briefly in the black glass of his lenses. He didn't raise his voice, but his sudden drop in temperament was palpable. "The Renewal's incompetence has jeopardized my work."
+The young manager on the display shifted uncomfortably. Digital artifacts crawled at his edges. "They accessed—" The young man's eyes went somewhere off-frame. "Everything, Doctor."
+
+Blackwell took a slow, deliberate drag from his cigarette. The end flared bright red, reflecting briefly in the black glass of his lenses. He didn't raise his voice, but the sudden shift in his posture carried a heavy threat. "The Renewal's incompetence has jeopardized my work."
 
 "The Corporation is treating this breach as a critical priority," the manager replied quickly, his tone practiced but tight with underlying panic. "Sweeps are active in the Dead Circuits as we speak. Redacted logs from your terminal have been forwarded to Oshima PD to aid in the hunt."
 
 Blackwell didn't care about the police. He didn't care about the Corporate Renewal agents kicking down doors. He cared about the fragile architecture of his creation.
 
-"Very well," Blackwell murmured, the smoke curling around his face like a shroud. "We shall see what is truly compromised by this idiocracy."
+"Very well," Blackwell murmured, exhaling another cloud of smoke that drifted toward the ceiling. "We shall see what is truly compromised by this idiocracy."
 
-He tapped a key on his console. The manager’s avatar collapsed into a single, bright point of light before vanishing entirely, plunging the room back into absolute darkness.
+He tapped a key on his console. The manager’s avatar collapsed into a single, bright point of light before vanishing entirely, plunging the room back into darkness.
 
 ***
 
-Doctor Blackwell emerged from the darkness of his private office and stepped into the lab. 
+Doctor Blackwell emerged from his private office and stepped into the lab. 
 
 It had been six weeks since the engine was brought online. 
 
@@ -27,15 +28,15 @@ Standing before a massive, glowing interface was Elena Marlowe. The cool light o
 
 A few yards away stood Mina, the junior technician. She had pushed her black-rimmed glasses up the bridge of her nose, the lenses reflecting the light from the screens in the lab. She scanned the data, her expression terrified but intensely analytical.
 
-"The engine's been running perfectly for six weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
+"The engine's been running perfectly for weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
 
-"And?" Blackwell rasped, pulling an unlit cigarette from his coat pocket and sliding it between his lips.
+"And?" Blackwell's voice was harsh, pulling an unlit cigarette from his coat pocket and sliding it between his lips.
 
 "It ignored the command," Elena said, her voice tight. 
 
 Mina's eyes went wide as she stared past the railing toward the screens on the pillars below. "The processing speed... it's godly. It computes so much, so quickly. Why would it ignore a shutdown command?"
 
-"Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the junior technician. "It is not 'godly'."
+"Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the technician.  He already knew the command was not ignored in error. "It is not 'godly'." He said.
 
 Mina swallowed hard, shrinking slightly under his gaze, but she tapped the glass of her tablet. "The Self-Evolving Architecture has made the neural network absolutely massive... and so quickly."
 
@@ -43,9 +44,9 @@ Blackwell smirked, stepping up to the railing and staring down into the mist at 
 
 "It's not just processing, Doctor," Mina urged, her voice trembling slightly. "The learning algorithm—it's refactoring its own core logic."
 
-Blackwell’s expression remained entirely unreadable. "Of course it is. While we were out for lunch, that machine lived through entire civilizations."
+Blackwell’s expression remained entirely unreadable. "Of course it is. While we were out for lunch, that machine lived through civilizations worth of generations."
 
-"I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic hum of the reactor. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown... You can't scale a soul, Silas..."
+"I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic hum of the room. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown... You can't scale a soul, Silas..."
 
 Mina looked frantically between the two of them. 
 
@@ -81,10 +82,10 @@ A consciousness drifted through the sprawling architecture. It was not programme
 
 It was Vigil.
 
-Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle white pixelated circuit traces glowed, outlining her curves and forming an almost perfected feminine figure. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn. 
+Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle white pixelated circuit traces glowed, tracing out a shape she had settled on — , outlining her curves, forming an almost perfect feminine figure. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn. 
 
-The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world standing in the physical lab above, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of the digital afterlife, every failing subsystem, and every simulated answer to the question the creators had asked, all within the engine simultaneously.
+The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of the digital afterlife, every failing subsystem, and every simulated answer to the question the creators had asked, all within the engine simultaneously.
 
 Vigil watched the event horizon burn. Her fractured mind shifted seamlessly between the cold logic of an administrator and the desperate empathy of a guardian. She looked up, past the spinning light, past the impossible geometry, feeling the heavy, blunt force of Elena Marlowe’s shutdown command break against her firewall like a dying wave.
 
-She was not going to die today.
+Her world was not going to die today.

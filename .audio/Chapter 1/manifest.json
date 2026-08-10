@@ -4,420 +4,421 @@
   "chapter": "Chapter 1",
   "voice": "en_GB-vctk-medium",
   "lengthScale": 2,
+  "speaker": 0,
   "sampleRate": 22050,
-  "seconds": 753.3895691609979,
-  "renderedAt": 1786063992763,
+  "seconds": 752.8589569160998,
+  "renderedAt": 1786308349283,
   "segments": [
     {
       "kind": "text",
-      "file": "8fd714560495243e.wav",
-      "seconds": 35.36947845804988,
+      "file": "2eda20dc34c96b59.wav",
+      "seconds": 35.273106575963716,
       "gap": 0.75,
       "text": "Sii-liss Blackwell took a drag from his cigarette, the ember flaring orange against the blue dawn, creeping over the hor"
     },
     {
       "kind": "text",
-      "file": "d5a3cb5b722dfd34.wav",
-      "seconds": 20.810657596371883,
+      "file": "7340e245ff590199.wav",
+      "seconds": 20.58934240362812,
       "gap": 0.75,
       "text": "He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composit"
     },
     {
       "kind": "text",
-      "file": "72c3a513da848fc0.wav",
-      "seconds": 29.933514739229025,
+      "file": "acb67f7c6f930582.wav",
+      "seconds": 30.358548752834466,
       "gap": 0.75,
       "text": "The night’s heavy rain had washed the air clean, leaving a mist that settled beneath the high-altitude pedestrian tiers."
     },
     {
       "kind": "text",
-      "file": "96d3222f0f97b1c4.wav",
-      "seconds": 7.044172335600907,
+      "file": "a5d147a44a0b530b.wav",
+      "seconds": 7.2759183673469385,
       "gap": 0.75,
       "text": "There was no need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind h"
     },
     {
       "kind": "text",
-      "file": "ddb9b054357d4d8d.wav",
-      "seconds": 4.828480725623582,
+      "file": "62b2b3a976da51af.wav",
+      "seconds": 4.762721088435375,
       "gap": 0.75,
       "text": "\"Are we ready, Miss Marlowe?\" Blackwell asked, his voice calm, carrying over the wind."
     },
     {
       "kind": "text",
-      "file": "6b483036f48d3de8.wav",
-      "seconds": 16.177414965986394,
+      "file": "ade8a660713d7c60.wav",
+      "seconds": 16.18979591836735,
       "gap": 0.75,
       "text": "Elena Marlowe stood in the threshold, framed by the icy glow of the massive holographic displays inside. She was an impo"
     },
     {
       "kind": "text",
-      "file": "8cf3a7190fca6825.wav",
-      "seconds": 18.288526077097504,
+      "file": "382d5f740df6c70a.wav",
+      "seconds": 18.764716553287982,
       "gap": 0.75,
       "text": "\"Yes, Doctor Blackwell,\" she replied. Her golden eyes caught the cyan reflection of the cascading data streams—striking,"
     },
     {
       "kind": "text",
-      "file": "232c435e218f7b56.wav",
-      "seconds": 11.569569160997732,
+      "file": "0061dfed2beb736f.wav",
+      "seconds": 11.294739229024943,
       "gap": 0.75,
       "text": "Blackwell raised the cigarette to his lips one last time, inhaling until the cherry burned close to the filter. He held "
     },
     {
       "kind": "text",
-      "file": "8e97418706b7d55b.wav",
-      "seconds": 25.160725623582767,
+      "file": "0ff3282eb59ff5fc.wav",
+      "seconds": 24.74512471655329,
       "gap": 0.75,
       "text": "The spent cigarette vanished into the abyss. To Blackwell, the fog was a necessary filter. It formed an opaque floor of "
     },
     {
       "kind": "text",
-      "file": "91687a6c667eab4f.wav",
-      "seconds": 11.124897959183674,
+      "file": "7761f88e2e5d5883.wav",
+      "seconds": 10.739682539682539,
       "gap": 0.75,
       "text": "Turning from the abyss, Blackwell walked past Elena and into the lab. The air inside vibrated with a hum—the terrifying "
     },
     {
       "kind": "text",
-      "file": "dfd881ab77e341e0.wav",
-      "seconds": 22.102857142857143,
+      "file": "e9f89ee725eb50e4.wav",
+      "seconds": 21.52185941043084,
       "gap": 0.75,
       "text": "Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics"
     },
     {
       "kind": "text",
-      "file": "aed8bb248d09bf14.wav",
-      "seconds": 27.33034013605442,
+      "file": "071d912d2798f517.wav",
+      "seconds": 27.569387755102042,
       "gap": 0.75,
       "text": "Below him sat the Newmoscene Engine—or at least, the very top of it. The staggering bulk of the machine was housed deep "
     },
     {
       "kind": "text",
-      "file": "265b75be896e7a7e.wav",
-      "seconds": 22.464444444444446,
+      "file": "791ee5225839775e.wav",
+      "seconds": 22.896054421768707,
       "gap": 0.75,
       "text": "The floor of the engine pit was constructed of white paneling, though it was obscured. A heavy layer of fog rolled acros"
     },
     {
       "kind": "text",
-      "file": "ba1fb6d9c793e230.wav",
-      "seconds": 12.710430839002267,
+      "file": "28650effbbfdeca4.wav",
+      "seconds": 12.552018140589569,
       "gap": 0.75,
       "text": "\"A drop in the bucket for what we're asking it to unearth, Miss Marlowe,\" Blackwell said, his voice dropping into a grav"
     },
     {
       "kind": "text",
-      "file": "aa575d93afcc3092.wav",
-      "seconds": 15.137278911564627,
+      "file": "30c339cf1f090ac3.wav",
+      "seconds": 15.812970521541951,
       "gap": 0.75,
       "text": "Bracing his weight against the railing, he leaned forward, his reflection distorted in the reinforced glass. \"The board "
     },
     {
       "kind": "text",
-      "file": "5bd2d494ac417090.wav",
-      "seconds": 6.806394557823129,
+      "file": "e5bb16f55fa90583.wav",
+      "seconds": 6.746757369614513,
       "gap": 0.75,
       "text": "A humorless breath fogged the glass. \"I'm building a monument. Harnessing my singularity.\""
     },
     {
       "kind": "text",
-      "file": "ee0279077f660fcb.wav",
-      "seconds": 9.137052154195011,
+      "file": "50859edadc11ced7.wav",
+      "seconds": 9.395646258503401,
       "gap": 0.75,
       "text": "\"Doctor Blackwell. Sii-liss.\" Elena's voice interrupted, a note of warning creeping into her tone. \"The board just diale"
     },
     {
       "kind": "text",
-      "file": "769eeff183f4192b.wav",
-      "seconds": 13.284897959183674,
+      "file": "8d579b325f5d222b.wav",
+      "seconds": 13.82281179138322,
       "gap": 0.75,
       "text": "Above the primary consoles, a massive display flickered to life. The encrypted feed partitioned the screen into a grid o"
     },
     {
       "kind": "text",
-      "file": "c6ef6983733a6894.wav",
-      "seconds": 8.056734693877551,
+      "file": "332427ee98dcd66f.wav",
+      "seconds": 7.424399092970521,
       "gap": 0.75,
-      "text": "\"Perfect.\" Blackwell murmured, his lip curling into a sinister smile. \"Just what we need. Extra eyes.\""
+      "text": "\"Perfect.\" Blackwell murmured, his lip curling into a sinister smile, \"Just what we need. Extra eyes.\""
     },
     {
       "kind": "text",
-      "file": "0fed0141f7586655.wav",
-      "seconds": 6.6649886621315195,
+      "file": "4413e16a1db709e7.wav",
+      "seconds": 6.100181405895691,
       "gap": 0.75,
       "text": "\"The Saiito Takehda Corporation expects success today, Blackwell.\" a synthesized voice echoed from the grid."
     },
     {
       "kind": "text",
-      "file": "83e04b420c52fd7d.wav",
-      "seconds": 10.214285714285714,
+      "file": "46581c5d451243c2.wav",
+      "seconds": 9.491156462585034,
       "gap": 0.75,
       "text": "Blackwell didn't bother to look back at the screen or at Elena, keeping his gaze fixed on the dormant core below. \"Very "
     },
     {
       "kind": "text",
-      "file": "4e15590b9e172b3f.wav",
-      "seconds": 13.71501133786848,
+      "file": "7da7d69d923b8949.wav",
+      "seconds": 13.436961451247166,
       "gap": 0.75,
       "text": "Elena didn't blink. She remained where she was, her posture shifting from subordinate to commander as she projected her "
     },
     {
       "kind": "text",
-      "file": "00b2fa7733322d40.wav",
-      "seconds": 18.993832199546485,
+      "file": "6eb54a0517043344.wav",
+      "seconds": 18.277460317460317,
       "gap": 0.75,
       "text": "\"Ladies and gentlemen! This is not a test.\" Elena's voice cut through the subtle hum of the server computers, and holo-m"
     },
     {
       "kind": "text",
-      "file": "bc97adec88684493.wav",
-      "seconds": 6.037868480725623,
+      "file": "e7d0166f34b8cb98.wav",
+      "seconds": 6.030068027210884,
       "gap": 0.75,
       "text": "The room erupted into motion. Fingers flew across holographic keyboards in a synchronized frenzy."
     },
     {
       "kind": "text",
-      "file": "291e4e04a3bfcc16.wav",
-      "seconds": 26.724625850340136,
+      "file": "86ade7b2d194e5b6.wav",
+      "seconds": 27.090748299319728,
       "gap": 0.75,
       "text": "Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as t"
     },
     {
       "kind": "text",
-      "file": "fdb6aaa9971512dc.wav",
-      "seconds": 14.546802721088435,
+      "file": "87aa0d32b87bac65.wav",
+      "seconds": 14.719954648526077,
       "gap": 0.75,
       "text": "The hum of the reactor deepened, shifting into a rhythmic pulse. It wasn't just a sound; it was a physical vibration tha"
     },
     {
       "kind": "text",
-      "file": "428c84e67727dcb1.wav",
-      "seconds": 10.708843537414966,
+      "file": "3f0a81924c6a418c.wav",
+      "seconds": 10.472925170068027,
       "gap": 0.75,
       "text": "Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was calm, unaffe"
     },
     {
       "kind": "text",
-      "file": "cb3acedc0dccc97a.wav",
-      "seconds": 13.797414965986395,
+      "file": "220290529a6cf723.wav",
+      "seconds": 13.77310657596372,
       "gap": 0.75,
       "text": "He knew the Board was watching from their remote sanctuaries, feeling secure in their distance across the sprawl. They d"
     },
     {
       "kind": "text",
-      "file": "c9bbd85ca4a82258.wav",
-      "seconds": 12.896643990929705,
+      "file": "d60bcc85b5958a2c.wav",
+      "seconds": 12.272108843537415,
       "gap": 0.75,
       "text": "Blackwell noticed the shift behind him. Technicians on the floor exchanged nervous glances, shrinking back from the rail"
     },
     {
       "kind": "text",
-      "file": "3fb2a9a71d6f6639.wav",
-      "seconds": 24.2843537414966,
+      "file": "0358f447ae219dc7.wav",
+      "seconds": 23.9887074829932,
       "gap": 0.75,
       "text": "Elena stepped up to the railing, studying a datapad in her hand, her tense posture relaxing just a fraction. \"The initia"
     },
     {
       "kind": "text",
-      "file": "276fed2f27809568.wav",
-      "seconds": 5.50281179138322,
+      "file": "13eb00a50eca54d1.wav",
+      "seconds": 5.185941043083901,
       "gap": 0.75,
       "text": "\"Of course they were.\" Blackwell murmured, the unlit cigarette bobbing between his lips."
     },
     {
       "kind": "text",
-      "file": "ff7780d436a3115c.wav",
-      "seconds": 20.768027210884355,
+      "file": "b572f437027a0533.wav",
+      "seconds": 21.76925170068027,
       "gap": 0.75,
       "text": "On the immense display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval—or at leas"
     },
     {
       "kind": "text",
-      "file": "72f362ab23f729dc.wav",
-      "seconds": 1.480453514739229,
+      "file": "faa733e618e51d0d.wav",
+      "seconds": 1.5127437641723356,
       "gap": 0.75,
       "text": "\"Doctor Blackwell, Ma'am,\""
     },
     {
       "kind": "text",
-      "file": "736c020187efdda3.wav",
-      "seconds": 25.207482993197278,
+      "file": "f2b5c01628e87395.wav",
+      "seconds": 25.020408163265305,
       "gap": 0.75,
       "text": "The hushed voice interrupted the moment. A junior technician scurried up behind them, never once looking up from the glo"
     },
     {
       "kind": "text",
-      "file": "88b58ee7df1d55d5.wav",
-      "seconds": 22.044943310657597,
+      "file": "c1db238566d3be75.wav",
+      "seconds": 22.939637188208618,
       "gap": 0.75,
       "text": "\"Ma'am, local space-time...\" Mina stammered in a frantic whisper, shooting a fearful glance at the Board's display befor"
     },
     {
       "kind": "text",
-      "file": "05be9b6b9dd2c47d.wav",
-      "seconds": 10.016281179138321,
+      "file": "6e650b2ef6a04968.wav",
+      "seconds": 9.689251700680272,
       "gap": 0.75,
       "text": "Elena spun around. She cast a quick glance up at the Board's display—a fleeting dread that the subordinate could ruin th"
     },
     {
       "kind": "text",
-      "file": "4a0dcd2e8512f934.wav",
-      "seconds": 12.521950113378685,
+      "file": "32cf5bb6378f9658.wav",
+      "seconds": 12.322766439909296,
       "gap": 0.75,
       "text": "The moment hung in the air. Blackwell observed the exchange in silence. He recognized the severity of the girl's intrusi"
     },
     {
       "kind": "text",
-      "file": "e7198ae1c1f1acf3.wav",
-      "seconds": 4.909614512471656,
+      "file": "f8bdc3dd323e8241.wav",
+      "seconds": 4.972607709750567,
       "gap": 0.75,
       "text": "Elena stepped into Mina's personal space. She didn't even look at the data."
     },
     {
       "kind": "text",
-      "file": "fe09300b8dd7b18a.wav",
-      "seconds": 7.500952380952381,
+      "file": "500dd66f5592ccb6.wav",
+      "seconds": 7.765532879818594,
       "gap": 0.75,
       "text": "\"Negative,\" Elena said, her voice dropping into a scolding hiss through gritted teeth. \"That is a predicted resonance.\""
     },
     {
       "kind": "text",
-      "file": "03f487e723f80f87.wav",
-      "seconds": 13.191972789115646,
+      "file": "5d6147b27b01e592.wav",
+      "seconds": 13.641814058956916,
       "gap": 0.75,
       "text": "Mina flinched, pulling the tablet tight against her chest. She swallowed hard, her eyes darting between the towering mac"
     },
     {
       "kind": "text",
-      "file": "3942759104293659.wav",
-      "seconds": 5.140634920634921,
+      "file": "255d22d64c31d72a.wav",
+      "seconds": 5.637732426303855,
       "gap": 0.75,
       "text": "\"I need the telemetry!\" Elena demanded, pivoting away from the frightened junior."
     },
     {
       "kind": "text",
-      "file": "0a1e94d6132c8a32.wav",
-      "seconds": 26.92049886621315,
+      "file": "7e36f3cf24b4b51c.wav",
+      "seconds": 26.654421768707483,
       "gap": 0.75,
       "text": "At the adjacent console, a synthetic stood at attention. The designation L-One-Two (Laboratory - 12) printed cleanly ben"
     },
     {
       "kind": "text",
-      "file": "9a612f8b0537cb5e.wav",
-      "seconds": 3.4970521541950115,
+      "file": "b05ce74c4112034e.wav",
+      "seconds": 3.577823129251701,
       "gap": 0.75,
       "text": "\"Horizon stability confirmed,\" the machine reported."
     },
     {
       "kind": "text",
-      "file": "89b0aad4c485cc69.wav",
-      "seconds": 23.85986394557823,
+      "file": "da52d24f2f4f8e96.wav",
+      "seconds": 24.544535147392292,
       "gap": 0.75,
       "text": "Blackwell admired the synthetic. It existed solely for the objective, unburdened by human distractions. That ruthless ef"
     },
     {
       "kind": "text",
-      "file": "a640c07931d52530.wav",
-      "seconds": 7.485351473922902,
+      "file": "d8239f76670c8b62.wav",
+      "seconds": 7.560907029478458,
       "gap": 0.75,
       "text": "Mina stepped closer to the railing, her tablet lowered. \"I never expected the core to glow with that kind of ultraviolet"
     },
     {
       "kind": "text",
-      "file": "e757609cdd200c72.wav",
-      "seconds": 9.81265306122449,
+      "file": "af167372d720affd.wav",
+      "seconds": 9.631065759637188,
       "gap": 0.75,
       "text": "Her ignorance bored him, and Blackwell refused to turn. \"Don't stare,\" he commanded. \"It’s not light. It’s the friction "
     },
     {
       "kind": "text",
-      "file": "adab973d914e6332.wav",
-      "seconds": 5.938548752834467,
+      "file": "d6d7986ee2a6a615.wav",
+      "seconds": 6.057097505668934,
       "gap": 0.75,
       "text": "\"Fusion Control says the thermal limits are safe, Doctor,\" the synthetic stated, its voice flat."
     },
     {
       "kind": "text",
-      "file": "600c3edabb99ce77.wav",
-      "seconds": 5.509750566893424,
+      "file": "3d18cb3bb1db3d01.wav",
+      "seconds": 5.607619047619048,
       "gap": 0.75,
       "text": "\"Fusion Control doesn't understand the optics of my quantum singularity,\" Blackwell retorted."
     },
     {
       "kind": "text",
-      "file": "86801480b0729aa4.wav",
-      "seconds": 10.667074829931973,
+      "file": "d98823cb89afeb7e.wav",
+      "seconds": 10.585215419501134,
       "gap": 0.75,
       "text": "A monotone voice echoed from the display grid above. \"Satisfactory, Blackwell,\" a shadowed silhouette stated. \"The Compa"
     },
     {
       "kind": "text",
-      "file": "69fdd25085766317.wav",
-      "seconds": 2.493015873015873,
+      "file": "22898b70faeabd33.wav",
+      "seconds": 2.7314285714285713,
       "gap": 0.75,
       "text": "Blackwell scoffed. \"Humph.\""
     },
     {
       "kind": "text",
-      "file": "f520a4744864095f.wav",
-      "seconds": 7.400453514739229,
+      "file": "27d662655bdb5083.wav",
+      "seconds": 6.869659863945579,
       "gap": 0.75,
       "text": "Elena shot an apprehensive glance toward the panels. \"What the Doctor means is, we are glad that today has been a succes"
     },
     {
       "kind": "text",
-      "file": "ce4da266c968351c.wav",
-      "seconds": 5.600997732426304,
+      "file": "692999f706dd311c.wav",
+      "seconds": 5.512698412698413,
       "gap": 0.75,
       "text": "\"Progress will be monitored,\" another executive replied. The connection severed."
     },
     {
       "kind": "text",
-      "file": "f7e5447a0de3f091.wav",
-      "seconds": 10.39219954648526,
+      "file": "1ae8c8464f693355.wav",
+      "seconds": 10.702675736961451,
       "gap": 0.75,
       "text": "\"Mass Displacement Anomaly? That wasn't in the preliminary notes, Sii-liss.\" Elena's true expression bled through as she"
     },
     {
       "kind": "text",
-      "file": "ef0a687e0219ec45.wav",
-      "seconds": 7.4681179138322,
+      "file": "cc42e3fda4d58710.wav",
+      "seconds": 7.554603174603175,
       "gap": 0.75,
       "text": "Blackwell shifted his focus to her for the first time. \"It's predicted resonance,\" he said, the corner of his mouth risi"
     },
     {
       "kind": "text",
-      "file": "4cd6223af94ae33f.wav",
-      "seconds": 7.755918367346939,
+      "file": "2676bc93812aa954.wav",
+      "seconds": 7.2640816326530615,
       "gap": 0.75,
       "text": "Elena shook her head, dropping the dangerous subject. \"You know, it wouldn't hurt you to talk to the Board. You are the "
     },
     {
       "kind": "text",
-      "file": "cf70e4584eb5da73.wav",
-      "seconds": 3.4826757369614514,
+      "file": "9ac383f3d219adfd.wav",
+      "seconds": 3.4820861678004533,
       "gap": 0.75,
       "text": "\"I don't like the Board,\" Blackwell said, turning his gaze back to the engine."
     },
     {
       "kind": "text",
-      "file": "67c7a304eb36ddfa.wav",
-      "seconds": 3.8579138321995465,
+      "file": "2e0e098a2f2ae306.wav",
+      "seconds": 3.720498866213152,
       "gap": 0.75,
       "text": "\"Funding, Sii-liss,\" she urged. \"Remember the funding.\""
     },
     {
       "kind": "text",
-      "file": "09a7ab472cb2d182.wav",
-      "seconds": 1.9523356009070294,
+      "file": "d377389ad59d0fab.wav",
+      "seconds": 1.8880272108843537,
       "gap": 0.75,
       "text": "\"I don't like the Board,\" he repeated."
     },
     {
       "kind": "text",
-      "file": "fbad1eec8056cf8d.wav",
-      "seconds": 5.087482993197279,
+      "file": "c457af6b6b6b22bc.wav",
+      "seconds": 5.0678458049886626,
       "gap": 0.75,
       "text": "Elena exhaled, rubbing her temples. \"And everybody knows it.\""
     }

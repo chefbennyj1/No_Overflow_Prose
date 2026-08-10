@@ -6,8 +6,8 @@
   "lengthScale": 2,
   "speaker": 0,
   "sampleRate": 22050,
-  "seconds": 824.8984126984128,
-  "renderedAt": 1786247760459,
+  "seconds": 823.5220408163266,
+  "renderedAt": 1786326486690,
   "segments": [
     {
       "kind": "text",
@@ -18,10 +18,17 @@
     },
     {
       "kind": "text",
-      "file": "2653d1e0840698cf.wav",
-      "seconds": 29.893242630385487,
+      "file": "55ae156b290056f3.wav",
+      "seconds": 18.04580498866213,
       "gap": 0.75,
       "text": "Rising from the center of the old buildings was a Company data hub. Unlike the rusted slums surrounding it, the monolith"
+    },
+    {
+      "kind": "text",
+      "file": "9af7d29fb7b783c0.wav",
+      "seconds": 11.46408163265306,
+      "gap": 0.75,
+      "text": "Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, a lone figure"
     },
     {
       "kind": "text",
@@ -67,17 +74,17 @@
     },
     {
       "kind": "text",
-      "file": "3504a8a7a03f75c6.wav",
-      "seconds": 6.608299319727891,
+      "file": "21d442f98165277d.wav",
+      "seconds": 6.294784580498866,
       "gap": 0.75,
-      "text": "The terminal awoke, projecting a secure Saiito Takehda Corporation login screen in stark text."
+      "text": "The terminal awoke, projecting a secure Saiito Takeda Corporation login screen in stark text."
     },
     {
       "kind": "text",
-      "file": "978068a27bfa5487.wav",
-      "seconds": 6.450748299319728,
+      "file": "93f598d32d89db5e.wav",
+      "seconds": 6.586848072562359,
       "gap": 0.75,
-      "text": "Her fingers flew across the mechanical keyboard. Hello Company employee: RD001, Blackwell."
+      "text": "Her fingers crawled across the mechanical keyboard. Hello Company employee: RD001, S. Blackwell."
     },
     {
       "kind": "text",
@@ -151,10 +158,10 @@
     },
     {
       "kind": "text",
-      "file": "ffb7b907682ca6fa.wav",
-      "seconds": 21.054285714285715,
+      "file": "8be2001c7500de00.wav",
+      "seconds": 20.17061224489796,
       "gap": 0.75,
-      "text": "She connected the red drive to the terminal. Her fingers instinctively found the sharp, jagged sidelock of dark hair tha"
+      "text": "She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair that alway"
     },
     {
       "kind": "text",
@@ -204,8 +211,8 @@
     },
     {
       "kind": "text",
-      "file": "1c5668ee84b0d6a2.wav",
-      "seconds": 12.311972789115647,
+      "file": "ab46b7fec6002038.wav",
+      "seconds": 12.654920634920636,
       "gap": 0.75,
       "text": "\"We have to intercept Null before Corporate Renewal does,\" Victor said, his gaze fixed on the landing above. \"If Saiito "
     },
@@ -418,8 +425,8 @@
     },
     {
       "kind": "text",
-      "file": "f848b5bcab7b6baa.wav",
-      "seconds": 16.371292517006804,
+      "file": "4aaa520b4c401b64.wav",
+      "seconds": 16.09641723356009,
       "gap": 0.75,
       "text": "Before Harlan could say another word, the heavy, synchronized thud of tactical boots echoed up the stairwell. A squad of"
     },

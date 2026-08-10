@@ -6,43 +6,50 @@
   "lengthScale": 2,
   "speaker": 0,
   "sampleRate": 22050,
-  "seconds": 461.0504761904762,
-  "renderedAt": 1786257505348,
+  "seconds": 454.4173696145125,
+  "renderedAt": 1786301387906,
   "segments": [
     {
       "kind": "text",
-      "file": "125d3221041483c9.wav",
-      "seconds": 19.83596371882086,
+      "file": "76b94035fc6727fa.wav",
+      "seconds": 16.71845804988662,
       "gap": 0.75,
-      "text": "Blackwell exhaled a thick plume of gray smoke into the sterile, freezing air of his private office in the lab. He sat pe"
+      "text": "A thin, unbroken stream of white smoke spiraled upward from the cigarette pinched between Blackwell's fingers. He sat mo"
     },
     {
       "kind": "text",
-      "file": "22841dfbca93a41c.wav",
-      "seconds": 18.485124716553287,
+      "file": "8d040209ee436a54.wav",
+      "seconds": 6.649614512471655,
       "gap": 0.75,
-      "text": "Floating above the glass surface of the desk was a high-fidelity holographic projection. It depicted a young Corporate M"
+      "text": "The young man in the projection wore a dark blue jacket with a high square collar. The badge on his lapel read Renewal O"
     },
     {
       "kind": "text",
-      "file": "0e9b74d095bd3261.wav",
-      "seconds": 13.77873015873016,
+      "file": "98065e9ab4fa35d6.wav",
+      "seconds": 10.576417233560091,
       "gap": 0.75,
-      "text": "This time, his sunglasses couldn't mask the emotion he felt behind them. \"My office?\" Blackwell's voice was a dry, autho"
+      "text": "The smoke disrupted the hard-light matrix. The flickering light of the corrupted projection illuminated the angular line"
     },
     {
       "kind": "text",
-      "file": "739b38c78986c69c.wav",
-      "seconds": 11.556190476190476,
+      "file": "25ecbd804b9d3d48.wav",
+      "seconds": 6.589342403628118,
       "gap": 0.75,
-      "text": "The young manager on the display shifted uncomfortably, the digital artifacts around his edges betraying the secure conn"
+      "text": "\"My office?\" Blackwell's voice was a dry rasp. \"What exactly did they access?\""
     },
     {
       "kind": "text",
-      "file": "f0e02f5691bca3ba.wav",
-      "seconds": 16.71891156462585,
+      "file": "a945e226003b82a8.wav",
+      "seconds": 11.017233560090704,
       "gap": 0.75,
-      "text": "Blackwell took another slow, deliberate drag from his cigarette. The cherry flared bright red, reflecting briefly in the"
+      "text": "The young manager on the display shifted uncomfortably. Digital artifacts crawled at his edges. \"They accessed—\" The you"
+    },
+    {
+      "kind": "text",
+      "file": "2eb43cd8a884b9c7.wav",
+      "seconds": 16.69356009070295,
+      "gap": 0.75,
+      "text": "Blackwell took a slow, deliberate drag from his cigarette. The end flared bright red, reflecting briefly in the black gl"
     },
     {
       "kind": "text",
@@ -60,15 +67,15 @@
     },
     {
       "kind": "text",
-      "file": "05c5ef888e468dc0.wav",
-      "seconds": 7.809795918367347,
+      "file": "9a2776d46d4eb566.wav",
+      "seconds": 8.369795918367346,
       "gap": 0.75,
-      "text": "\"Very well,\" Blackwell murmured, the smoke curling around his face like a shroud. \"We shall see what is truly compromise"
+      "text": "\"Very well,\" Blackwell murmured, exhaling another cloud of smoke that drifted toward the ceiling. \"We shall see what is "
     },
     {
       "kind": "text",
-      "file": "a0dd4be4f8ef091b.wav",
-      "seconds": 10.398730158730158,
+      "file": "4fa88e000809c1a8.wav",
+      "seconds": 9.4037641723356,
       "gap": 0.75,
       "text": "He tapped a key on his console. The manager’s avatar collapsed into a single, bright point of light before vanishing ent"
     },
@@ -78,10 +85,10 @@
     },
     {
       "kind": "text",
-      "file": "cec05cbf6004f58b.wav",
-      "seconds": 4.669160997732426,
+      "file": "e37f2bf7799d180b.wav",
+      "seconds": 3.8495691609977323,
       "gap": 0.75,
-      "text": "Doctor Blackwell emerged from the darkness of his private office and stepped into the lab."
+      "text": "Doctor Blackwell emerged from his private office and stepped into the lab."
     },
     {
       "kind": "text",
@@ -106,17 +113,17 @@
     },
     {
       "kind": "text",
-      "file": "a7aed30e38345247.wav",
-      "seconds": 11.540272108843537,
+      "file": "1f7f4c2762c57548.wav",
+      "seconds": 11.791201814058956,
       "gap": 0.75,
-      "text": "\"The engine's been running perfectly for six weeks,\" Elena said, not looking up from her console as Blackwell's heavy fo"
+      "text": "\"The engine's been running perfectly for weeks,\" Elena said, not looking up from her console as Blackwell's heavy footst"
     },
     {
       "kind": "text",
-      "file": "52d44962513f7f7d.wav",
-      "seconds": 6.520725623582766,
+      "file": "6d6c15c843c30617.wav",
+      "seconds": 6.636326530612245,
       "gap": 0.75,
-      "text": "\"And?\" Blackwell rasped, pulling an unlit cigarette from his coat pocket and sliding it between his lips."
+      "text": "\"And?\" Blackwell's voice was harsh, pulling an unlit cigarette from his coat pocket and sliding it between his lips."
     },
     {
       "kind": "text",
@@ -134,10 +141,10 @@
     },
     {
       "kind": "text",
-      "file": "04d90e82e72401e8.wav",
-      "seconds": 8.933514739229025,
+      "file": "8313a552b8b9cad8.wav",
+      "seconds": 13.081179138321996,
       "gap": 0.75,
-      "text": "\"Do not use theology to describe the computing,\" Blackwell snapped, turning his circular sunglasses toward the junior te"
+      "text": "\"Do not use theology to describe the computing,\" Blackwell snapped, turning his circular sunglasses toward the technicia"
     },
     {
       "kind": "text",
@@ -162,17 +169,17 @@
     },
     {
       "kind": "text",
-      "file": "eae5f268c92f13ee.wav",
-      "seconds": 9.235056689342404,
+      "file": "d53921f9f5fcbf28.wav",
+      "seconds": 9.695147392290249,
       "gap": 0.75,
       "text": "Blackwell’s expression remained entirely unreadable. \"Of course it is. While we were out for lunch, that machine lived t"
     },
     {
       "kind": "text",
-      "file": "d950cd447dbab84e.wav",
-      "seconds": 15.414557823129252,
+      "file": "4899a853340e95a0.wav",
+      "seconds": 14.822312925170069,
       "gap": 0.75,
-      "text": "\"I don't care how many centuries it thinks it's lived!\" Elena shouted over the low, rhythmic hum of the reactor. She sla"
+      "text": "\"I don't care how many centuries it thinks it's lived!\" Elena shouted over the low, rhythmic hum of the room. She slamme"
     },
     {
       "kind": "text",
@@ -292,17 +299,17 @@
     },
     {
       "kind": "text",
-      "file": "ac498bf185b834f0.wav",
-      "seconds": 28.655827664399094,
+      "file": "49049f5d3cc26f34.wav",
+      "seconds": 31.976553287981858,
       "gap": 0.75,
       "text": "Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was d"
     },
     {
       "kind": "text",
-      "file": "88db3116908561ac.wav",
-      "seconds": 26.47424036281179,
+      "file": "3f3ab0349d93f336.wav",
+      "seconds": 25.14453514739229,
       "gap": 0.75,
-      "text": "The entity was of many dimensions. Her world line was entirely straight. Unlike her creators of her world standing in th"
+      "text": "The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world, who were forc"
     },
     {
       "kind": "text",
@@ -313,10 +320,10 @@
     },
     {
       "kind": "text",
-      "file": "0a5d255f48c61502.wav",
-      "seconds": 1.4687528344671201,
+      "file": "f0f6d4e2d3259e76.wav",
+      "seconds": 1.847437641723356,
       "gap": 0.75,
-      "text": "She was not going to die today."
+      "text": "Her world was not going to die today."
     }
   ]
 }

@@ -1,6 +1,6 @@
 Silas Blackwell took a drag from his cigarette, the ember flaring orange against the blue dawn, creeping over the horizon. He was an erratic figure; a mop of white hair blew untamed in the morning wind, contrasting with the sharp lines of his dark collared shirt and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. His expression unreadable, behind a pair of circular dark glasses. Despite the calculated perfection required of his station, the cigarette held between his tobacco stained fingers betrayed an obsessive energy. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
-He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company", Saito Takeda Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
+He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Saito Takeda Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
 The night’s heavy rain had washed the air clean, leaving a mist that settled beneath the high-altitude pedestrian tiers. He exhaled, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no sprawling billboards up here; the corporate elite didn't need to be sold. The only illumination came from floating holographic displays, streaming diagnostics in silence. The polished walkways were empty, this early. The peak of Oshima City wasn't a metropolis; it was a sleeping monster, ready to awake.
 
@@ -34,7 +34,7 @@ A humorless breath fogged the glass. "I'm building a monument. Harnessing my sin
 
 Above the primary consoles, a massive display flickered to life. The encrypted feed partitioned the screen into a grid of digital monitors. Each square displayed nothing but the featureless silhouette of a corporate executive.
 
-"Perfect." Blackwell murmured, his lip curling into a sinister smile. "Just what we need. Extra eyes."
+"Perfect." Blackwell murmured, his lip curling into a sinister smile, "Just what we need. Extra eyes."
 
 "The Saito Takeda Corporation expects success today, Blackwell." a synthesized voice echoed from the grid.
 
