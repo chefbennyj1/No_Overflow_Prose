@@ -1,0 +1,15 @@
+# Written by Prose Studio.
+
+# Rendered narration. Uncompressed WAV, tens of megabytes a chapter, and
+# rebuildable from the text in seconds — it does not belong in a manuscript's
+# history and will exhaust a repository's size limits if it gets in.
+.audio/
+*.wav
+*.mp3
+
+# Operating-system and editor noise.
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.tmp
