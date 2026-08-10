@@ -40,7 +40,7 @@ Before she could dig deeper, the power routing keys download completed. Rin root
 
 *This will take time.*
 
-She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair that always managed to fall into her face when she worked. She hooked it tightly behind her ear—a familiar, nervous tick that betrayed the calm, professional facade she tried to maintain. Blowing a damp fringe out of her eyeline, she hammered the key to start the copy.
+She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair that always managed to fall into her face when she worked. She hooked it tightly behind her ear—a familiar, nervous tick that betrayed the calm facade she tried to maintain. Blowing a damp fringe out of her eyeline, she hammered the key to start the copy.
 
 She needed to finish her work before her luck ran out. 
 
