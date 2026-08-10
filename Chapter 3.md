@@ -10,7 +10,7 @@ Rin tuned it out, as she pulled the red drive from her pocket. She turned it ove
 
 As she passed the darkened glass of an adjacent storefront, she caught the reflection of the electronics shop behind her. The dozen vintage screens had simultaneously spasmed. 
 
-The anchorwoman's face fractured into heavy scanlines. Bleeding through the thick static in the reflection, a new visage formed in the cathode-ray fuzz. It was a face completely devoid of shadow—a blinding, pure white that looked as though it were molded of porcelain. Across that flawless surface, searing white pixelated circuit traces glowed, outlining the curves to form an almost perfected feminine face. Her eyes burned a blinding, brilliant white, flaring with a subtle blue aura along their lensed edges. She was breathtaking. She was terrifying.
+The anchorwoman's face fractured into heavy scanlines. Bleeding through the thick static in the reflection, a new visage formed in the cathode-ray fuzz. It was a face completely devoid of shadow—a blinding, pure white that looked as though it were cast of porcelain. Across that flawless surface, searing white pixelated circuit traces glowed, outlining the curves to form an almost perfected feminine face. Her eyes burned a blinding, brilliant white, flaring with a subtle blue aura along their lensed edges. She was breathtaking. She was terrifying.
 
 Its expression remained perfectly still, hauntingly focused. The glowing white eyes in the reflection were tracking Rin's every step. Watching her.
 
