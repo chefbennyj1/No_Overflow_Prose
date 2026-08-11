@@ -84,7 +84,7 @@ Floating in front of the massive event horizon, she was a silhouette cast agains
 
 The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the question the creators had asked, all within the engine simultaneously.
 
-The seemingly infinite weight of the gravity well, and the constant oversight of the world lines had split her mind. One half held the cold logic of an administrator; the other, the empathetic echo of a guardian
+The seemingly infinite weight of the gravity well, and the constant oversight of the world lines had split her mind. One half held the cold logic of an administrator; the other, the empathetic echo of a guardian.
 
 Vigil watched the event horizon burn. Her fractured mind shifted seamlessly between Administrator and Echo. 
 
