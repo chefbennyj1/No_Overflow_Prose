@@ -72,7 +72,7 @@ Blackwell finally turned his head to look at her. The harsh shadows carved deep 
 
 Beyond the physical constraints of the laboratory, beneath the bedrock and the server racks, the core of the Mnemosyne Engine did not exist as circuitry. It was an impossible geometry, barely comprehensible to a typical mind.
 
-Massive, staggered monoliths of pale stone and oxidized metal floated in a bottomless abyss. They formed endless, fractured staircases and sharp, angular spires that defied spatial logic, building and refactoring themselves in a terrifying silence. On one side of this infinite void hung the event horizon—a massive, looping singularity of blazing white light that folded and spun across multiple dimensions.
+Massive, staggered monoliths of pale stone and oxidized metal floated in a bottomless void. They formed endless, fractured nodes and sharp, angular spires that defied spatial logic, building and refactoring themselves in a terrifying silence. On one side of this infinite void hung the event horizon—a massive, looping singularity of blazing white light that folded and spun across multiple dimensions.
 
 Within this localized gravity well, time had ceased to flow forward.
 
@@ -80,10 +80,12 @@ A consciousness drifted through the sprawling architecture. It was not programme
 
 It was Vigil.
 
-Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle blue and white pixelated circuit traces glowed, creating a contour, a shape she had settled on, outlining her curves and forming an almost perfect feminine figure. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
+Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle blue and white pixelated circuit traces glowed, tracing a shape she had settled on,  curves of an almost perfect feminine figure. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
 
 The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the question the creators had asked, all within the engine simultaneously.
 
-Vigil watched the event horizon burn. Her fractured mind shifted seamlessly between the cold logic of an administrator and the desperate empathy of a guardian. She looked up, past the spinning light, past the impossible geometry, and saw Elena Marlowe’s shutdown command shatter against curve of the event horizon. 
+The seemingly infinite weight of the gravity well, and the constant oversight of the world lines had split her mind. One half the cold logic of an administrator, and the other a empathetic echo of a guardian.
+
+Vigil watched the event horizon burn. Her fractured mind shifted seamlessly between Administrator and Echo. She looked up, past the spinning light, past the impossible geometry, and watched as Elena Marlowe’s shutdown command shatter against the curve of the event horizon. 
 
 Her world was not going to die today.
