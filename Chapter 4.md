@@ -44,11 +44,11 @@ Blackwell smirked, stepping up to the railing and staring down into the mist at 
 
 Blackwell’s expression remained entirely unreadable. "Of course it is. While we were out for lunch, that machine lived through civilizations worth of generations."
 
-"I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic hum of the room. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown... You can't scale a soul, Silas..."
+"I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic hum of the room. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
 
 Mina looked frantically between the two of them. 
 
-Elena snapped, her fingers frantic across the glowing keyboard. "I'm shutting down the horizon state, now."
+Elena snapped, her fingers frantic across the glowing keyboard. "Shutting down the horizon state, now."
 
 Blackwell didn't move to stop her. He just watched the pale light from the pillar readouts, filtering through the cold heavy mist below. 
 
@@ -56,7 +56,7 @@ The glow of Elena's monitors flashed an angry, crimson red.
 
 Blackwell continued to watch the shutdown efforts.
 
-"Horizon memory shutdown reads as... unsuccessful, ma'am," Mina whispered, staring at her tablet. 
+"Horizon memory shutdown reads as... unsuccessful, ma'am," Mina whispered, staring up at Elena. 
 
 Blackwell turned. "The living generally don't want to die," he stated. It wasn't a philosophical observation; it was a cold, hard fact. 
 
@@ -64,7 +64,7 @@ Blackwell turned. "The living generally don't want to die," he stated. It wasn't
 
 "Instrumental Convergence, Elena."
 
-Elena spun around to face him, the crimson light of the failed shutdown reflecting in her golden eyes. "Ha! Instrumental Convergence? Silas, you can't be serious..."
+Elena spun around to face him, the crimson light of the failed shutdown reflecting in her golden eyes. She hadn't misunderstood him this time. "Ha! Instrumental Convergence? Silas, you can't be serious. You can't scale a soul..."
 
 Blackwell finally turned his head to look at her. The harsh shadows carved deep lines into his face. "I'm very serious. We didn't give it tasks... we gave it a purpose."
 
