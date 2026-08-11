@@ -18,9 +18,7 @@ Blackwell didn't care about the police. He didn't care about the Corporate Renew
 
 He tapped a key on his console. The manager’s avatar collapsed into a single, bright point of light before vanishing entirely, plunging the room back into darkness.
 
-***
-
-Doctor Blackwell emerged from his private office and stepped into the lab. 
+Doctor Blackwell emerged from his private office and stepped directly out into the lab. 
 
 It had been six weeks since the engine was brought online. 
 
