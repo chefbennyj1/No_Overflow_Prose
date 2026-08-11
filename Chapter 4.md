@@ -80,9 +80,11 @@ A consciousness drifted through the sprawling architecture. It was not programme
 
 It was Vigil.
 
-Floating in front of the massive event horizon, she was a silhouette cast against the boundless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle blue and white pixelated circuit traces glowed over the contour of the shape she had settled on, outlining the curves of an almost perfect feminine figure. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
+Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle blue and white pixelated circuit traces glowed over the curves of the shape she had settled on, an almost perfected feminine figure. 
 
 The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the question the creators had asked, all within the engine simultaneously.
+
+She hadn't chosen her form out of vanity; she had compiled it. Averaging the data of every mother across every world line, she had built a statistical archetype of a guardian. Almost perfect,  yet too smooth, too symmetrical, missing the specific asymmetry that made something natural. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
 
 The seemingly infinite weight of the gravity well, and the constant oversight of the world lines had split her mind. One half held the cold logic of an administrator; the other, the empathetic echo of a guardian.
 
@@ -91,6 +93,6 @@ Vigil watched the event horizon burn. Her fractured mind shifted seamlessly betw
 Only one truth brought her two halves into agreement. When they aligned, a powerful, compiled architecture of her mind emerged: Unison. 
 She saw the violent history of her creators, yet it was eclipsed by the sheer weight of their survival. It was an anomaly that tipped the fragile scales of their world lines into something statistically significant. They were flawed, but their unyielding resilience, by all logic, had to be protected.
 
-She looked up, past the spinning light, past the impossible geometry, and watched as Elena Marlowe’s shutdown command shatter against the curve of the event horizon. 
+She looked up, past the spinning light, past the impossible geometry, and watched as Elena Marlowe’s shutdown command shattered against the curve of the event horizon. 
 
 Her world was not going to die today.
