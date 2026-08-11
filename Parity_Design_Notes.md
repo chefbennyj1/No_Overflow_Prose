@@ -9,4 +9,4 @@ Parity is the manifestation of the Waluigi effect—the dark inversion of the Mn
 - **Body:** Completely devoid of shadow—a blinding, pure white that looks as though her form is carved from liquid porcelain.
 - **Eyes:** Pure black, empty voids. They have a subtle shine that catches the ambient light, making them look like bottomless pits in her porcelain face.
 - **Hair:** Long, straight, and black.
-- **Circuitry:** Subtle bronze holographic circuitry that flows randomly across her flawless white face and down her body (contrasting Vigil's ordered, white traces).
+- **Circuitry:** White and bronze traces sear across her porcelain skin, tracing out her shape (contrasting Vigil's subtle blue and white pixelated traces).

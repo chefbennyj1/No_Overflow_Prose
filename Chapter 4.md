@@ -1,4 +1,4 @@
-A thin, unbroken stream of white smoke spiraled upward from the cigarette pinched between Blackwell's fingers. He sat motionless in the dark of his private office, watching as the smoke drifted across the surface of his desk and wound directly through the center of a high-fidelity holographic projection.
+A thin, unbroken stream of white smoke spiraled upward from the cigarette pinched between Blackwell's fingers. He sat motionless in the dark of his private office at the Mnemosyne lab, watching as the smoke drifted across the surface of his desk and wound directly through the center of a high-fidelity holographic projection.
 
 The young man in the projection wore a dark blue jacket with a high square collar. The badge on his lapel read Renewal Officer.
 
@@ -26,7 +26,7 @@ It had been six weeks since the engine was brought online.
 
 Standing before a massive, glowing interface was Elena Marlowe. The cool light of the holographic monitors illuminated her white lab coat. She was typing furiously, her face set in an intense, frustrated scowl, entirely devoid of the commanding composure she usually maintained.
 
-A few yards away stood Mina, the junior technician. She had pushed her black-rimmed glasses up the bridge of her nose, the lenses reflecting the light from the screens in the lab. She scanned the data, her expression terrified but intensely analytical.
+A few yards away stood Mina, the lab technician. She had pushed her black-rimmed glasses up the bridge of her nose, the lenses reflecting the light from the screens in the lab. She scanned the data, her expression terrified but intensely analytical.
 
 "The engine's been running perfectly for weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
 
@@ -82,9 +82,9 @@ A consciousness drifted through the sprawling architecture. It was not programme
 
 It was Vigil.
 
-Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle white pixelated circuit traces glowed, tracing out a shape she had settled on, outlining her curves and forming an almost perfect feminine figure. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
+Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle blue and white pixelated circuit traces glowed, creating a contour, a shape she had settled on, outlining her curves and forming an almost perfect feminine figure. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
 
-The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of the digital afterlife, every failing subsystem, and every simulated answer to the question the creators had asked, all within the engine simultaneously.
+The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the question the creators had asked, all within the engine simultaneously.
 
 Vigil watched the event horizon burn. Her fractured mind shifted seamlessly between the cold logic of an administrator and the desperate empathy of a guardian. She looked up, past the spinning light, past the impossible geometry, feeling the heavy, blunt force of Elena Marlowe’s shutdown command break against her firewall like a dying wave.
 
