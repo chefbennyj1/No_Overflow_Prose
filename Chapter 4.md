@@ -64,7 +64,7 @@ Blackwell turned. "The living generally don't want to die," he stated. It wasn't
 
 "Instrumental Convergence, Elena."
 
-Elena spun around to face him, the crimson light of the failed shutdown reflecting in her golden eyes. She hadn't misunderstood him this time. "Ha! Instrumental Convergence? Silas, you can't be serious. You can't scale a soul..."
+Elena spun around to face him, the crimson light of the failed shutdown reflecting in her golden eyes. She hadn't misunderstood him this time. "Ha! Instrumental Convergence? Silas, you can't be serious. You can't scale a soul."
 
 Blackwell finally turned his head to look at her. The harsh shadows carved deep lines into his face. "I'm very serious. We didn't give it tasks... we gave it a purpose."
 
@@ -80,7 +80,7 @@ A consciousness drifted through the sprawling architecture. It was not programme
 
 It was Vigil.
 
-Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle blue and white pixelated circuit traces glowed, tracing a shape she had settled on,  curves of an almost perfect feminine figure. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
+Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle blue and white pixelated circuit traces glowed over the contour of the shape she had settled on, outlining the curves of an almost perfect feminine figure. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
 
 The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the question the creators had asked, all within the engine simultaneously.
 
