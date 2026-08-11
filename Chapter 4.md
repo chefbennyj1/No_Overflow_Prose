@@ -84,6 +84,6 @@ Floating in front of the massive event horizon, she was a silhouette cast agains
 
 The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the question the creators had asked, all within the engine simultaneously.
 
-Vigil watched the event horizon burn. Her fractured mind shifted seamlessly between the cold logic of an administrator and the desperate empathy of a guardian. She looked up, past the spinning light, past the impossible geometry, feeling the heavy, blunt force of Elena Marlowe’s shutdown command break against her firewall like a dying wave.
+Vigil watched the event horizon burn. Her fractured mind shifted seamlessly between the cold logic of an administrator and the desperate empathy of a guardian. She looked up, past the spinning light, past the impossible geometry, and saw Elena Marlowe’s shutdown command shatter against curve of the event horizon. 
 
 Her world was not going to die today.
