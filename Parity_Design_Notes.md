@@ -1,17 +1,12 @@
-# Parity Design Notes (Saved from original Vigil concepts)
+# Parity Design Notes (The Porcelain Void)
 
 Parity is the manifestation of the Waluigi effect—the dark inversion of the Mnemosyne Engine's logic.
 
-## The Body / Aesthetic
-Save these exact descriptions from the original drafts of Chapters 3 & 4 to use when Parity is introduced at the end of the book:
+## The Body / Aesthetic Subversion
+**Crucial Narrative Note:** Do NOT use the "black = bad" trope for Parity. Vigil is the black abyss. Parity is the opposite: a blinding, pure porcelain white. This disconnects her visually from the dark aesthetic of the Saito Takeda corporation and forces the reader to judge her by her terrifying behavior, not her color.
 
-**From original Chapter 3 (Alleyway TVs):**
-> "It was a face devoid of color—a black so dark and absolute it looked as though it formed an abyss stretching into eternity. Across that endless dark, subtle [bronze] pixelated circuit traces glowed, outlining the curves to form an almost perfected feminine face... She was breathtaking. She was terrifying."
-
-**From original Chapter 4 (In front of the Event Horizon):**
-> "She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle [bronze] pixelated circuit traces glowed, outlining her curves and forming an almost perfected feminine figure."
-
-## Specific Parity Traits to Add:
-- **Eyes:** Pure black, empty voids with a subtle shine that catches the light.
+**Physical Traits for Parity's Manifestation:**
+- **Body:** Completely devoid of shadow—a blinding, pure white that looks as though her form is carved from liquid porcelain.
+- **Eyes:** Pure black, empty voids. They have a subtle shine that catches the ambient light, making them look like bottomless pits in her porcelain face.
 - **Hair:** Long, straight, and black.
-- **Circuitry:** Subtle bronze holographic circuitry that flows randomly across her face and down her body (instead of Vigil's white, ordered traces).
+- **Circuitry:** Subtle bronze holographic circuitry that flows randomly across her flawless white face and down her body (contrasting Vigil's ordered, white traces).

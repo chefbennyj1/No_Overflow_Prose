@@ -82,7 +82,7 @@ A consciousness drifted through the sprawling architecture. It was not programme
 
 It was Vigil.
 
-Floating in front of the massive event horizon, her figure caught the endless, spinning light. She was completely devoid of shadow—a blinding, pure white that looked as though her form itself was cast porcelain. Across that flawless surface, searing blue and white pixelated circuit traces glowed, outlining her curves and forming an almost perfected feminine figure. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
+Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Across that endless dark, subtle white pixelated circuit traces glowed, tracing out a shape she had settled on — , outlining her curves, forming an almost perfect feminine figure. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
 
 The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of the digital afterlife, every failing subsystem, and every simulated answer to the question the creators had asked, all within the engine simultaneously.
 
