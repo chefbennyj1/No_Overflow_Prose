@@ -14,17 +14,17 @@ Blackwell took a slow, deliberate drag from his cigarette. The end flared bright
 
 Blackwell didn't care about the police. He didn't care about the Corporate Renewal agents kicking down doors. He cared about the fragile architecture of his creation.
 
-"Very well," Blackwell murmured, exhaling another cloud of smoke that drifted toward the ceiling. "We shall see what is truly compromised by this idiocracy."
+"Very well," He exhaled another cloud of smoke that drifted toward the ceiling. "We shall see what is truly compromised by this idiocracy."
 
 He tapped a key on his console. The manager’s avatar collapsed into a single, bright point of light before vanishing entirely, plunging the room back into darkness.
 
 Doctor Blackwell emerged from his private office and stepped directly out into the lab. 
 
-It had been six weeks since the engine was brought online. 
+It had been six weeks since the engine was brought online, and the toll was obvious. Blackwell surveyed the floor with quiet contempt.  Technicians slept in shifts, and the dress code had gone sometime around the fourth week. The synthetics were the only things in the room the engine hadn't changed.
 
 Standing before a massive, glowing interface was Elena Marlowe. The cool light of the holographic monitors illuminated her white lab coat. She was typing furiously, her face set in an intense, frustrated scowl, entirely devoid of the commanding composure she usually maintained.
 
-A few yards away stood Mina, the lab technician. She had pushed her black-rimmed glasses up the bridge of her nose, the lenses reflecting the light from the screens in the lab. She scanned the data, her expression terrified but intensely analytical.
+A few yards away stood Mina, the lab technician. She had pushed her black-rimmed glasses up the bridge of her nose, the lenses reflecting the light from the screens in the lab. Blackwell noticed her watch him walk across the mezzanine. She turned and scanned the data, her expression terrified but intensely analytical.
 
 "The engine's been running perfectly for weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
 
@@ -40,7 +40,7 @@ Mina swallowed hard, shrinking slightly under his gaze, but she tapped the glass
 
 Blackwell smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss."
 
-"It's not just processing, Doctor," Mina urged, her voice trembling slightly. "The learning algorithm—it's refactoring its own core logic."
+"It's not just processing, Doctor," Mina urged, her voice trembling slightly. "The learning algorithm—it's refactoring its own core logic. The synthetics on the floor can't even parse the telemetry anymore; the engine is rewriting its code faster than they can read it."
 
 Blackwell’s expression remained entirely unreadable. "Of course it is. While we were out for lunch, that machine lived through civilizations worth of generations."
 
@@ -52,7 +52,7 @@ Elena snapped, her fingers frantic across the glowing keyboard. "Shutting down t
 
 Blackwell didn't move to stop her. He just watched the pale light from the pillar readouts, filtering through the cold heavy mist below. 
 
-The glow of Elena's monitors flashed an angry, crimson red. 
+The glow of Elena's monitors flashed an angry, crimson red.  Across the floor, every workstation synchronized the same alert. The human technicians moved back from their consoles, while the synthetics simply froze in place.
 
 Blackwell continued to watch the shutdown efforts.
 
