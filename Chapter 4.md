@@ -22,9 +22,9 @@ Doctor Blackwell emerged from his private office and stepped directly out into t
 
 It had been six weeks since the engine was brought online, and the toll was obvious. Blackwell surveyed the floor with quiet contempt.  Technicians slept in shifts, and the dress code had gone sometime around the fourth week. The synthetics were the only things in the room the engine hadn't changed.
 
-Standing before a massive, glowing interface was Elena Marlowe. The cool light of the holographic monitors illuminated her white lab coat. She was typing furiously, her face set in an intense, frustrated scowl, entirely devoid of the commanding composure she usually maintained.
+A few yards away stood Mina, the lab technician. She had pushed her black-rimmed glasses up the bridge of her nose, the lenses reflecting the light from the screens in the lab. Blackwell noticed her watch him walk across the mezzanine. She looked away from him quickly, and  scanned data, her expression terrified but intensely analytical.
 
-A few yards away stood Mina, the lab technician. She had pushed her black-rimmed glasses up the bridge of her nose, the lenses reflecting the light from the screens in the lab. Blackwell noticed her watch him walk across the mezzanine. She turned and scanned the data, her expression terrified but intensely analytical.
+Standing before a massive, glowing interface was Elena Marlowe. The cool light of the holographic monitors illuminated her white lab coat. She was typing furiously, her face set in an intense, frustrated scowl, entirely devoid of the commanding composure she usually maintained.
 
 "The engine's been running perfectly for weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
 
