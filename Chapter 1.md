@@ -1,4 +1,4 @@
-Silas Blackwell took a drag from his cigarette, the ember flaring orange against the blue dawn, creeping over the horizon. He was an erratic figure; a mop of white hair blew untamed in the morning wind, contrasting with the sharp lines of his dark collared shirt and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. His expression unreadable, behind a pair of circular dark glasses. Despite the calculated perfection required of his station, the cigarette held between his tobacco stained fingers betrayed an obsessive energy. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
+Silas Blackwell took a drag from his cigarette, the ember flared against the dawn, creeping over the horizon. He was an erratic figure; a mop of white hair blew untamed in the morning wind, contrasting with the sharp lines of his dark collared shirt and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He kept his expression purposefully unreadable, behind a pair of circular dark glasses. Despite the calculated perfection required of his station, the cigarette held between his tobacco stained fingers betrayed an obsessive energy. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
 He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Saito Takeda Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
@@ -48,7 +48,7 @@ The room erupted into motion. Fingers flew across holographic keyboards in a syn
 
 Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the massive cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the white pillars began to boot. They flickered at first, before stabilizing into cascades of crisp white and blue text, complex readouts began flowing down each pillar, illuminating the swirling fog in a spectral light.
 
-The hum of the reactor deepened, shifting into a rhythmic pulse. It wasn't just a sound; it was a physical vibration that crept up through the concrete floor and resonated deep within their bones. The very air in the lab felt thick with the sheer gravity of it.
+The reactor's hum shifted into a rhythmic pulse—a heavy vibration creeping through the concrete and into their bones. The very air in the lab felt thick with the sheer gravity of it.
 
 Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was calm, unaffected by the bone-rattling force of his creation. 
 

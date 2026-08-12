@@ -18,14 +18,14 @@ Rin stopped cold, and whipped around to face the electronics shop.
 
 But the screens were perfectly normal. The identical, impassive face of the corporate anchorwoman droned on about the data breach, undisturbed. 
 
-Rin stared at the televisions for a long moment, the freezing rain soaking into her collar. Her blood had run completely cold, she let out a shaky breath.
+Rin stared at the televisions for a long moment, the freezing rain soaking into her collar. Her blood had run cold, she let out a shaky breath.
 *It's just the exhaustion playing tricks,*  she told herself, though she didn't quite believe it. 
 
 Unable to shake the creeping sensation that she was still being watched, Rin pulled her collar up higher and vanished into the fog.
 
 ***
 
-Three blocks deep into the slums, a massive, geometric luxury cruiser idled silently, out of place, in the rain. It was a low-slung wedge of highly polished, glossy black panels and completely opaque tinted glass that reflected the city's lights like a dark mirror.  The heavy chassis was suspended inches above the broken pavement on a magnetic cushion. It vibrated with a low frequency that pushed the flooding rainwater away from its undercarriage in a perfect, continuous ripple.
+Three blocks deep into the slums, a massive, geometric luxury cruiser idled silently, out of place, in the rain. It was a low-slung wedge of highly polished, glossy black panels and opaque tinted glass that reflected the city's lights like a dark mirror.  The heavy chassis was suspended inches above the broken pavement on a magnetic cushion. It vibrated with a low frequency that pushed the flooding rainwater away from its undercarriage in a perfect, continuous ripple.
 
 Rin stopped at the mouth of the alley, her hand instinctively resting near the heavy pistol inside her jacket. Sharp angles defined the cruiser's shape, its red taillights bled onto the wet pavement like a warning.
 

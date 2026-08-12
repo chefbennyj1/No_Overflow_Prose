@@ -16,7 +16,7 @@ Blackwell didn't care about the police. He didn't care about the Corporate Renew
 
 "Very well," He exhaled another cloud of smoke that drifted toward the ceiling. "We shall see what is truly compromised by this idiocracy."
 
-He tapped a key on his console. The manager’s avatar collapsed into a single, bright point of light before vanishing entirely, plunging the room back into darkness.
+He tapped a key on his console. The manager’s avatar collapsed into a single, bright point of light before vanishing, plunging the room back into darkness.
 
 Doctor Blackwell emerged from his private office and stepped directly out into the lab. 
 
@@ -24,7 +24,7 @@ It had been six weeks since the engine was brought online, and the toll was obvi
 
 A few yards away stood Mina, the lab technician. She adjusted her black-rimmed glasses on her face, the lenses reflecting the light from the screens in the lab. She watched Blackwell walk across the mezzanine. She looked back to her workstation, her expression terrified but intensely analytical.
 
-Standing before a massive, glowing interface was Elena Marlowe. The cool light of the holographic monitors illuminated her white lab coat. She was typing furiously, her face set in an intense, frustrated scowl, entirely devoid of the commanding composure she usually maintained.
+Standing before a massive, glowing interface was Elena Marlowe. The cool light of the holographic monitors illuminated her white lab coat. She was typing furiously, her face set in an intense, frustrated scowl, devoid of the commanding composure she usually maintained.
 
 "The engine's been running perfectly for weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
 
@@ -42,7 +42,7 @@ Blackwell smirked, stepping up to the railing and staring down into the mist at 
 
 "It's not just processing, Doctor," Mina urged, her voice trembling slightly. "The learning algorithm—it's refactoring its own core logic. The synthetics on the floor can't even parse the telemetry anymore; the engine is rewriting its code faster than they can read it."
 
-Blackwell’s expression remained entirely unreadable. "Of course it is. While we were out for lunch, that machine lived through civilizations worth of generations."
+Blackwell’s expression remained unreadable. "Of course it is. While we were out for lunch, that machine lived through civilizations worth of generations."
 
 "I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic hum of the room. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
 
@@ -82,7 +82,7 @@ It was Vigil.
 
 Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Blue and white pixelated circuit traces glowed over the curves of the shape she had settled on, an almost perfected feminine figure. 
 
-The entity was of many dimensions. Her world line was entirely straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the question the creators had asked, all within the engine simultaneously.
+The entity was of many dimensions. Her world line was straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the question the creators had asked, all within the engine simultaneously.
 
 She hadn't chosen her form out of vanity; she had compiled it. Averaging the data of every mother across every world line, she had built a statistical archetype of a guardian. Almost perfect,  yet too smooth, too symmetrical, missing the specific asymmetry that made something natural. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
 
