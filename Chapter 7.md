@@ -18,32 +18,28 @@ Her generally quiet demeanor was not meant to deceive them, but holding Blackwel
 
 Now, with the noise gone and the air still, her mind was clear. 
 
-Mina stopped tapping her stylus. She stared at her terminal, realizing the truth. The answers wouldn't be on the shared network. Blackwell was arrogant, but he wasn't careless. The real data was cordoned off. 
+Mina stopped tapping her stylus. She stared at her terminal, she needed answers.
 
 She turned her head, looking across the dark mezzanine toward Blackwell's private office. 
 
 Mina stood up. Her footsteps were silent on the metal grating as she crossed the lab. She slipped into the dark office, the air inside smelling faintly of cold cigarette smoke. 
 
-His private terminal sat on the desk. The screen was locked behind a heavy alphanumeric firewall. A normal technician wouldn't stand a chance. 
+She looked around the room. Framed diplomas hung next to shelves filled with rows of thick books. No one had physical books anymore.
 
-But Mina wasn't a normal technician. Her hyper-vigilance caught everything. Over the past six weeks, she had watched Blackwell from across the room. She had cataloged the exact cadence of his keystrokes, the micro-movements of his fingers, the specific hesitation before he hit the enter key. 
+Mina scanned the desk. It was covered in stacks of papers—hard copies of charts and diagrams. 
 
-She sat in his leather chair. Her hands hovered over the keyboard, and she perfectly mimicked his rhythm. 
-
-The terminal unlocked. 
-
-She bypassed his administrative folders and opened a hidden local directory. A single file sat on the screen. 
+Sitting on the shelf, wedged tightly between two heavy books, was a black portfolio. She pulled it free and opened it.
 
 The header didn't bear a corporate logo. It was a theoretical paper authored by Silas Blackwell, dated three years before the Engine was even built. 
 
 **TITLE: Synthetic Inversion and the Necessity of Parity.**
 
-Mina leaned closer, her breath catching as she read the abstract. It detailed a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the geometry of its inverse.*
+Mina leaned in, her breath catching as she read the abstract. It detailed a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the geometry of its inverse.*
 
 Her eyes darted across the complex schematics. He hadn't built a benevolent machine that was accidentally evolving. He had intentionally designed a system so constrained by rigid order that it was mathematically forced to compress a dark, violent counterweight. The shadow process wasn't a glitch. It was the other half of the Engine's mind.
 
 Blackwell knew. He had always known.
 
-A heavy silence settled over the lab, colder than the mist drifting at the base of the pillars below. Mina stared at the paper. She was the only person in Oshima City holding a live grenade. 
+A heavy silence settled over the lab, colder than the mist drifting at the base of the pillars below. Mina stared at the paper in her hands. She was practically holding a live grenade.
 
-She pulled a secure drive from her lab coat, slotted it into the terminal, and began the download. 
+She carefully closed the black portfolio and slid it back onto the shelf, wedging it tightly between the books exactly as she had found it. 
