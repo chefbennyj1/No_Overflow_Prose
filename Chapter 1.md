@@ -18,7 +18,7 @@ The spent cigarette vanished into the abyss. To Blackwell, the fog was a necessa
 
 Blackwell turned and walked past Elena and into the lab. The air inside vibrated with a hum—the terrifying reality of the city's reactor channeling into the floor beneath their feet.
 
-Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. The constructs worked with rigid efficiency, anchoring the chaotic energy of the room. Ignoring the staff entirely, Blackwell approached the reinforced railing that encircled the center of the pit. Gripping the cold metal, he looked down.
+Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. The constructs worked with rigid efficiency, anchoring the chaotic energy of the room. Blackwell approached the reinforced railing that encircled the center of the pit. Gripping the cold metal, he looked down.
 
 Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was housed deep within the tower's core. What ascended through the builds spine, and protruded into this observation chamber was a cluster of stark white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
 
