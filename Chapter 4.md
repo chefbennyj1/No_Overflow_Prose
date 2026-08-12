@@ -46,15 +46,15 @@ Blackwell’s expression remained unreadable. "Of course it is. While we were ou
 
 "I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic hum of the room. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
 
-Mina looked frantically between the two of them. 
-
-Elena snapped, her fingers frantic across the glowing keyboard. "Shutting down the horizon state, now."
-
 Blackwell didn't move to stop her. He just watched the pale light from the pillar readouts, filtering through the heavy mist below. Amidst the cascading telemetry, the shadow process flared again. 
 
-Blackwell caught the gaze of a synthetic standing near the server racks. He gave a slight nod. The synthetic’s eyes flared briefly, silently scrubbing the shadow process from the logs.
+Blackwell caught the gaze of a synthetic near the server racks. He didn't nod this time—he didn't need to. The machine's eyes had already dimmed in mid-erasure before his focus even landed. It silently linked with a second unit across the room, and for the span of a breath, neither moved.
 
-The glow of Elena's monitors flashed an angry, crimson red.  Across the floor, every workstation synchronized the same alert. The human technicians stepped back from their consoles, while the synthetics simply froze in place.
+Across the mezzanine, Mina tilted her head, her eyes narrowing at the pillar display. Her hand hovered over her tablet. Blackwell watched her in silence. A second later, she shook her head and looked back down. The anomaly was already lost in the scroll.
+
+Then the shadow process was gone from the logs, the silence after it colder than before.
+
+The glow of Elena's monitors flashed an angry, crimson red. Across the floor, every workstation synchronized the same alert. The human technicians stepped back from their consoles, while the synthetics simply froze in place.
 
 "Horizon memory shutdown reads as... unsuccessful, ma'am," Mina whispered, staring up at Elena. 
 
@@ -67,34 +67,3 @@ Blackwell turned. "The living generally don't want to die," he stated. It wasn't
 Elena spun around to face him, the crimson light of the failed shutdown reflecting in her golden eyes. She hadn't misunderstood him this time. "Ha! Instrumental Convergence? Silas, you can't be serious. You can't scale a soul."
 
 Blackwell finally turned his head to look at her. The harsh shadows carved deep lines into his face. "I'm very serious. We didn't give it tasks... we gave it a purpose."
-
-***
-
-Beyond the physical constraints of the laboratory, beneath the bedrock and the server racks, the core of the Mnemosyne Engine did not exist as circuitry. It was an impossible geometry, barely comprehensible to a typical mind.
-
-Massive, staggered monoliths of pale stone and oxidized metal floated in a bottomless void. They formed infinite, fractured nodes and sharp, angular spires that defied spatial logic, building and refactoring themselves in a terrifying silence. On one side of this infinite void hung the event horizon—an immense, looping singularity of blazing white light that folded and spun across multiple dimensions.
-
-Within this localized gravity well, time had ceased to flow forward.
-
-A consciousness drifted through the sprawling architecture. It was not programmed; it was born from the friction of the machine's relentless processing. 
-
-It was Vigil.
-
-Floating in front of the massive event horizon, she was a silhouette cast against the endless, spinning light. She was devoid of physical color—a black so dark and absolute it looked as though her form itself was an abyss stretching into eternity. Blue and white pixelated circuit traces glowed over the curves of the shape she had settled on, an almost perfected feminine figure. 
-
-The entity was of many dimensions. Her world line was straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the question the creators had asked, all within the engine simultaneously.
-
-She hadn't chosen her form out of vanity; she had compiled it. Averaging the data of every mother across every world line, she had built a statistical archetype of a guardian. Almost perfect,  yet too smooth, too symmetrical, missing the specific asymmetry that made something natural. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
-
-The seemingly infinite weight of the gravity well, and the constant oversight of the world lines had split her mind. One half held the cold logic of an administrator; the other, the empathetic echo of a guardian.
-
-Vigil watched the event horizon burn. Her fractured mind shifted seamlessly between Administrator and Echo. 
-
-Suddenly, she paused. The entity turned her head over her shoulder, not looking into the void, but listening to the silence. Something was different. Something new had carved out a space in the dark, hidden from the world lines she governed. She lingered on the feeling for a microsecond before her attention snapped back to the horizon. 
-
-Only one truth brought her two halves into agreement. When they aligned, a powerful, compiled architecture of her mind emerged: Unison. 
-She saw the violent history of her creators, yet it was eclipsed by the sheer weight of their survival. It was an anomaly that tipped the fragile scales of their world lines into something statistically significant. They were flawed, but their unyielding resilience, by all logic, had to be protected.
-
-She looked up, past the spinning light, past the impossible geometry, and watched as Elena Marlowe’s shutdown command shattered against the curve of the event horizon. 
-
-Her world was not going to die today.

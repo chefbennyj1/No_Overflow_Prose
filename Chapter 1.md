@@ -108,7 +108,7 @@ Blackwell shifted his focus to her for the first time. "It's predicted resonance
 
 Elena shook her head, dropping the dangerous subject. "You know, it wouldn't hurt you to talk to the Board. You are the lead."
 
-Blackwell looked past her, his focus drifting to the pillar readouts. Amidst the scrolling data, a shadow process emerged — a branch of inverted engine code, and it was expanding. He caught the gaze of a nearby synthetic. Its eyes flared once, and without a word it snapped its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
+Blackwell turned back to the pillar readouts. Amidst the scrolling data, a shadow process emerged — a branch of inverted engine code, and it was expanding. He caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
 
 "I don't like the Board," Blackwell said, keeping his gaze fixed on the engine.
 
