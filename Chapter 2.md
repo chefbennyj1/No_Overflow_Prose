@@ -34,7 +34,7 @@ She opened the file path. The screen flooded with classified schematics for some
 
 The blue telemetry data on the glass wasn't just random diagnostics. It was a scaled holographic projection of the exact same tower schematic.  
 
-Rin stepped backward in the room, moving away from the desk until the glowing wireframe perfectly eclipsed a structure looming in the distant city skyline. It was monitoring an anomaly; localized entirely within that specific building— that had been tearing at the city's power grid for the better part of a month.
+Rin stepped backward in the room, moving away from the desk until the glowing wireframe perfectly eclipsed a structure looming in the distant city skyline. It was monitoring an anomaly; localized within that specific building— that had been tearing at the city's power grid for the better part of a month.
 
 Before she could dig deeper, the power routing keys download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
@@ -98,7 +98,7 @@ They scrambled backward just as the canister erupted with a violent hiss. Thick,
 
 Victor dropped to one knee, coughing as the acrid chemical burned his sensitive eyes. He kept his weapon raised, squinting into the blinding white cloud. 
 
-Through the haze, a lithe, feminine silhouette emerged. She was entirely backlit by the violent blue light of the office, the intense luminescence refracting through the fog and stretching into long rays around her like the fractured streaks of an astigmatism. 
+Through the haze, a lithe, feminine silhouette emerged. Backlit by the blue light of the office, refracting through the fog and stretching into long rays around her. 
 
 Before Victor could blink through the pain and adjust his aim, she was moving. She didn't engage. She simply slipped past them like a ghost, sprinting down the sterile corridor. 
 
