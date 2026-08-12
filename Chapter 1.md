@@ -62,7 +62,7 @@ Elena stepped up to the railing, studying a datapad in her hand, her tense postu
 
 On the immense display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval—or at least, predatory interest—emanated from the feed. The Saito Takeda Corporation was watching their investment come to life. Beside him, Elena stiffened under the executive gaze. To her, this was just a performance.
 
-"Doctor Blackwell, Ma'am," 
+"Doctor Blackwell. Ma'am." 
 
 The hushed voice interrupted the moment. A junior technician scurried up behind them, never once looking up from the glowing datapad in her hands. She was a stark contrast to the sterile perfection of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
 
@@ -78,9 +78,9 @@ Elena stepped into Mina's personal space. She didn't even look at the data.
 
 Mina flinched, pulling the tablet tight against her chest. She swallowed hard, her eyes darting between the towering machine and her supervisor. "Yes, ma'am. Of course. All systems nominal."
 
-"I need the telemetry!" Elena demanded, pivoting away from the frightened junior.
+"I need the telemetry!" Elena demanded, pivoting away.
 
-At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory - 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie luminescence as they processed the influx. The construct shifted its gaze toward him, the motion disturbing the white fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
+At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory - 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie luminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the white fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
 
 "Horizon stability confirmed," the machine reported.
 
@@ -108,7 +108,7 @@ Blackwell shifted his focus to her for the first time. "It's predicted resonance
 
 Elena shook her head, dropping the dangerous subject. "You know, it wouldn't hurt you to talk to the Board. You are the lead."
 
-Blackwell looked past her, his focus drifting to the pillar readouts. Amidst the scrolling data, a shadow process flared—an inverted reflection of the engine's code, and it was expanding. He caught the gaze of a nearby synthetic. With a slight nod from Blackwell, the machine’s eyes flared briefly. It snapped its focus across the room to a second synthetic, and together they silently scrubbed the shadow process from the logs, hiding it before Elena could turn around.
+Blackwell looked past her, his focus drifting to the pillar readouts. Amidst the scrolling data, a shadow process emerged — a branch of inverted engine code, and it was expanding. He caught the gaze of a nearby synthetic. Its eyes flared once, and without a word it snapped its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
 
 "I don't like the Board," Blackwell said, keeping his gaze fixed on the engine.
 
