@@ -50,7 +50,7 @@ The fluorescent lights of the maintenance stairwell flickered, casting erratic s
 
 "Fifteen floors up with no elevator, Victor?" Harlan gasped, loosening the tie of his grey suit. He leaned against the metal railing to catch his breath. "You sure it's Null this time?"
 
-Victor didn't slow his ascent. His black coat whipped at his ankles with each precise step. Overhead, the lights came up hard off the polished concrete of the stairwell. His eyes watered under the glare. He didn't blink it away. He kept climbing. The stark light caught his white hair when he turned at the landing, went through his Albinotic eyes and came back red. He turned again, and it was gone.
+Victor didn't slow his ascent. His black coat whipped at his ankles with each precise step. Overhead, the lights came up hard off the polished concrete of the stairwell. His eyes watered under the glare. He didn't blink it away. He kept climbing. The stark light caught his white hair when he turned at the landing, went through his Albinotic eyes and came back a red. He turned again, and it was gone.
 
 "Positive, Harlan," Victor said, his voice steady, betraying no exertion. "We've been hunting them for months. They won't get past me again."
 
@@ -106,7 +106,7 @@ Before Victor could blink through the pain and adjust his aim, she was moving. S
 
 Victor surged to his feet, ignoring the burning in his eyes, but she was too fast. He watched through the clearing smoke as she reached the end of the hall, sliding seamlessly into the elevator car. She kicked the heavy wrench from the floor track with her boot, freeing the doors from their open state. 
 
-Victor reached the elevator a second later, his gun trained through the final sliver of the closing doors. For a moment, Victor and Rin's eyes met for the first time. Rin startled at the stern, focused glare of Victor's stark colorless eyes, his expression unyielding despite the tearing pain from the smoke. 
+Victor reached the elevator a second later, his gun trained through the final sliver of the closing doors. For a moment, Victor and Rin's eyes met for the first time. Rin startled at the stern, focused glare of Victor's eyes, his expression unyielding despite the tearing pain from the smoke. 
 
 The doors sealed shut. Null was gone. 
 
