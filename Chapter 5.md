@@ -4,7 +4,7 @@ Victor rolled his thumb across the striker of his lighter, sparking a flame agai
 
 Harlan leaned forward, resting his elbows on the metal desk. "I told you to buy your jacket off the rack, not the bin," he said with a slight smirk.
 
-Victor leaned back in his chair, ignoring the joke. He crossed his arms, letting the smoke spiral across his vision. "Null's M.O... It doesn't make sense." He reached forward and crushed the half-smoked cigarette into the overflowing ashtray, adding to the dense atmosphere of the precinct. 
+Victor leaned back in his chair, ignoring the joke. He crossed his arms, letting the smoke spiral across his vision. "Null's M.O... It doesn't make sense." He reached forward and crushed the half-smoked cigarette into the overflowing ashtray, adding to the atmosphere of the precinct. 
 
 Leaning his chin against his hand, Victor stared at the cluttered desk. "Null usually doesn't linger." 
 
@@ -24,7 +24,7 @@ Victor knew the name. He knew her contributions had revolutionized the current g
 
 "Because the Company buried her down there to build... whatever this thing is," Victor replied.
 
-Harlan shifted in his seat, his posture relaxing. "Well, there's our answer. Saito Takeda's private data... That's a Renewal Agent's job. Let them deal with the headache." 
+Harlan shifted in his seat, his posture relaxing. "Well, there's our answer. Saito Takeda private data... That's a Renewal Agent's job. Let them deal with the headache." 
 
 A second later, Harlan tensed, visibly realizing what he had just suggested to his partner.
 

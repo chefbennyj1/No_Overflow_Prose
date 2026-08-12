@@ -50,11 +50,11 @@ Mina looked frantically between the two of them.
 
 Elena snapped, her fingers frantic across the glowing keyboard. "Shutting down the horizon state, now."
 
-Blackwell didn't move to stop her. He just watched the pale light from the pillar readouts, filtering through the cold heavy mist below. 
+Blackwell didn't move to stop her. He just watched the pale light from the pillar readouts, filtering through the heavy mist below. Amidst the cascading telemetry, the shadow process flared again. 
 
-The glow of Elena's monitors flashed an angry, crimson red.  Across the floor, every workstation synchronized the same alert. The human technicians moved back from their consoles, while the synthetics simply froze in place.
+Blackwell caught the gaze of a synthetic standing near the server racks. He gave a slight nod. The synthetic’s eyes flared briefly, silently scrubbing the shadow process from the logs.
 
-Blackwell continued to watch the shutdown efforts.
+The glow of Elena's monitors flashed an angry, crimson red.  Across the floor, every workstation synchronized the same alert. The human technicians stepped back from their consoles, while the synthetics simply froze in place.
 
 "Horizon memory shutdown reads as... unsuccessful, ma'am," Mina whispered, staring up at Elena. 
 
@@ -89,6 +89,8 @@ She hadn't chosen her form out of vanity; she had compiled it. Averaging the dat
 The seemingly infinite weight of the gravity well, and the constant oversight of the world lines had split her mind. One half held the cold logic of an administrator; the other, the empathetic echo of a guardian.
 
 Vigil watched the event horizon burn. Her fractured mind shifted seamlessly between Administrator and Echo. 
+
+Suddenly, she paused. The entity turned her head over her shoulder, not looking into the void, but listening to the silence. Something was different. Something new had carved out a space in the dark, hidden from the world lines she governed. She lingered on the feeling for a microsecond before her attention snapped back to the horizon. 
 
 Only one truth brought her two halves into agreement. When they aligned, a powerful, compiled architecture of her mind emerged: Unison. 
 She saw the violent history of her creators, yet it was eclipsed by the sheer weight of their survival. It was an anomaly that tipped the fragile scales of their world lines into something statistically significant. They were flawed, but their unyielding resilience, by all logic, had to be protected.

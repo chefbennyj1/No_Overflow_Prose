@@ -108,7 +108,9 @@ Blackwell shifted his focus to her for the first time. "It's predicted resonance
 
 Elena shook her head, dropping the dangerous subject. "You know, it wouldn't hurt you to talk to the Board. You are the lead."
 
-"I don't like the Board," Blackwell said, turning his gaze back to the engine.
+Blackwell looked past her, his focus drifting to the pillar readouts. Amidst the scrolling data, a shadow process flared—an inverted reflection of the engine's code, and it was expanding. He caught the gaze of a nearby synthetic. With a slight nod from Blackwell, the machine’s eyes flared briefly. It snapped its focus across the room to a second synthetic, and together they silently scrubbed the shadow process from the logs, hiding it before Elena could turn around.
+
+"I don't like the Board," Blackwell said, keeping his gaze fixed on the engine.
 
 "Funding, Silas," she urged. "Remember the funding."
 
