@@ -82,7 +82,7 @@ She pocketed the drive, her gaze shifting from the massive window to the ajar ex
 
 *Time to go.*
 
-Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte black with a faded yellow band painted around it. She held it in her palm. Rin ran her thumb over the rusted safety pin, staring at the small explosive for a fraction of a second as she calculated what she was about to do. 
+Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte black with a faded yellow band painted around it. She held it in her palm. Rin ran her thumb over the rusted safety pin, staring at the small explosive for a fraction of a second as she calculated what she was about to do. It was always going to end like this.
 
 With her free hand, she pulled a low-profile rebreather mask from her collar. It was a specialized filtration unit, far more advanced than the stained surgical masks worn by the crowds in the Dead Circuits below. She pulled the thick straps over her dark hair, the rubber sealing tightly around her nose and mouth with a faint hiss of pressurized air. 
 
