@@ -86,7 +86,7 @@ The junior technician was tapping a stylus against her glass desk.
 
 "You're in early, Iris," Elena called out, her voice echoing off the cooling towers. 
 
-Up on the mezzanine, Iris didn't look down. She just nodded once, her eyes glued to her screen, her stylus never breaking its perfect rhythm. 
+Up on the mezzanine, Iris didn't look down. She just nodded once, her eyes glued to her screen, her stylus keeping its perfect rhythm. 
 
 Elena shook her head and logged into her terminal, dismissing the strange behavior. 
 

@@ -1,6 +1,6 @@
   Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers"—the massive arcologies of the city. Looking up from the flooded streets invited vertigo. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. The atmosphere was bitter, and thick with exhaust. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. Only the canners walked barefaced. The freezing rain beaded off their synthetic skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
 
-  Rising from the center of the old buildings was a Company data hub. Unlike the rusted slums surrounding it, the monolith structure was a pristine slab of mirrored, black glass. A holographic billboard clung to its perfect facade, bleeding blue static into the smog. It advertised: *Saito Takeda*. 
+  Rising from the center of the old buildings was a Company data hub. Unlike the rusted slums surrounding it, the monolith structure was a pristine slab of mirrored, black glass. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Saito Takeda*. 
   
   Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, a lone figure stood in the sterile hallway, pulling wires from an office's magnetic lock. 
 
@@ -34,13 +34,13 @@ She opened the file path. The screen flooded with classified schematics for some
 
 The blue telemetry data on the glass wasn't just random diagnostics. It was a scaled holographic projection of the exact same tower schematic.  
 
-Rin stepped backward in the room, moving away from the desk until the glowing wireframe perfectly eclipsed a structure looming in the distant city skyline. It was monitoring an anomaly; localized within that specific building— that had been tearing at the city's power grid for the better part of a month.
+Rin stepped backward in the room, moving away from the desk until the glowing wireframe  eclipsed a structure looming in the distant city skyline. It was monitoring an anomaly; localized within that specific building— that had been tearing at the city's power grid for the better part of a month.
 
 Before she could dig deeper, the power routing keys download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
 *This will take time.*
 
-She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair that always managed to fall into her face when she worked. She hooked it tightly behind her ear—a familiar, nervous tick that betrayed the calm facade she tried to maintain. Blowing a damp fringe out of her eyeline, she hammered the key to start the copy.
+She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair that managed to fall into her face when she worked. She hooked it tightly behind her ear—a familiar, nervous tick that betrayed the calm facade she tried to maintain. Blowing a damp fringe out of her eyeline, she hammered the key to start the copy.
 
 She needed to finish her work before her luck ran out. 
 
@@ -64,7 +64,7 @@ Victor reached the heavy door of the fifteenth-floor landing. The security lock 
 
 Victor stopped dead. 
 
-At the opposite end of the hall, the executive suite door stood ajar. Victor squinted at the violent, erratic blue light bleeding through the gap. Through the opening, he could see a section of the office's massive window. It was consumed by a glowing blue wireframe projection that perfectly outlined a towering, brutalist building in the distant city skyline.
+At the opposite end of the hall, the executive suite door stood ajar. Victor squinted at the violent, erratic blue light bleeding through the gap. Through the opening, he could see a section of the office's massive window. It was consumed by a glowing blue wireframe projection that  outlined a towering, brutalist building in the distant city skyline.
 
 Harlan burst through the stairwell door a second later, his weapon raised. "Jesus, Victor! You're being reckless—"
 

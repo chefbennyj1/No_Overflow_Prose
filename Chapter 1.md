@@ -1,8 +1,8 @@
-Silas Blackwell took a drag from his cigarette, the ember flared against the dawn, creeping over the horizon. He was an erratic figure; a mop of white hair blew untamed in the morning wind, contrasting with the sharp lines of his dark collared shirt and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He kept his expression purposefully unreadable, behind a pair of circular dark glasses. Despite the calculated perfection required of his station, the cigarette held between his tobacco stained fingers betrayed an obsessive energy. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
+Silas Blackwell took a drag from his cigarette, the ember flared against the dawn, creeping over the horizon. He was an erratic figure; a mop of white hair blew untamed in the morning wind, contrasting with the sharp lines of his dark collared shirt and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He kept his expression purposefully unreadable, behind a pair of circular dark glasses. Despite the calculated perfection required of his station, the cigarette held between his tobacco stained fingers betrayed an obsessive energy. From the wind-swept terrace of the Mnemosyne Lab; he watched his world.
 
 He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Saito Takeda Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The night’s heavy rain had washed the air clean, leaving a mist that settled beneath the high-altitude pedestrian tiers. He exhaled, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no sprawling billboards up here; the corporate elite didn't need to be sold. The only illumination came from floating holographic displays, streaming diagnostics in silence. The polished walkways were empty, this early. The peak of Oshima City wasn't a metropolis; it was a sleeping monster, ready to awake.
+The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He exhaled, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no sprawling billboards up here; the corporate elite didn't need to be sold. The only illumination came from floating holographic displays, streaming diagnostics in silence. The polished walkways were empty, this early. The peak of Oshima City wasn't a metropolis; it was a sleeping monster, ready to awake.
 
 There was no need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
@@ -14,7 +14,7 @@ Elena Marlowe stood in the threshold, framed by the cool glow of the massive hol
 
 Blackwell raised the cigarette to his lips one last time, inhaling until the cherry burned close to the filter. He held the smoke in his lungs for a long second, then exhaled and dropped the butt over the edge of the railing.
 
-The spent cigarette vanished into the abyss. To Blackwell, the fog was a necessary filter. It formed an opaque floor of vapor that swallowed the Dead Circuits below, hiding the rusted scaffolding and the corroded foundations of the lower world. He knew what lived down there amongst the ruin, beneath the mist: a tangle of failing grids, and the millions scurrying amongst the decrepit buildings. Just noise beneath the system.
+The spent cigarette vanished into the abyss. To Blackwell, the fog was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the Dead Circuts. He knew what lived down there amongst the ruin, beneath the mist: a tangle of failing grids, and the millions scurrying amongst the decrepit buildings. Noise beneath the system.
 
 Blackwell turned and walked past Elena and into the lab. The air inside vibrated with a hum—the terrifying reality of the city's reactor channeling into the floor beneath their feet.
 
@@ -34,7 +34,7 @@ A humorless breath fogged the glass. "I'm building a monument. Harnessing my sin
 
 Above the primary consoles, a massive display flickered to life. The encrypted feed partitioned the screen into a grid of digital monitors. Each square displayed nothing but the featureless silhouette of a corporate executive.
 
-"Perfect." Blackwell murmured, his lip curling into a sinister smile, "Just what we need. Extra eyes."
+"Perfect," Blackwell murmured, his lip curling into a sinister smile, "Just what we need. Extra eyes."
 
 "The Saito Takeda Corporation expects success today, Blackwell." a synthesized voice echoed from the grid.
 
@@ -46,31 +46,31 @@ Elena didn't blink. She remained where she was, her posture shifting from subord
 
 The room erupted into motion. Fingers flew across holographic keyboards in a synchronized frenzy.
 
-Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the massive cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the white pillars began to boot. They flickered at first, before stabilizing into cascades of crisp white and blue text, complex readouts began flowing down each pillar, illuminating the swirling fog in a spectral light.
+Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the massive cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the white pillars displayed the boot sequence. They flickered at first, before stabilizing into cascades of crisp white and blue text, flowing down each pillar, illuminating the swirling fog in a spectral light.
 
 The reactor's hum shifted into a rhythmic pulse—a heavy vibration creeping through the concrete and into their bones. The very air in the lab felt thick with the sheer gravity of it.
 
 Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was calm, unaffected by the bone-rattling force of his creation. 
 
-He knew the Board was watching from their remote sanctuaries, feeling secure in their distance across the sprawl. They didn't understand the physics. If the containment failed, the resulting rupture would swallow them just as easily as the lab. 
+The Board was watching from their remote sanctuaries, feeling secure in their distance across the sprawl. They didn't understand the physics. If the containment failed, the resulting rupture would swallow them just as easily as the lab. 
 
-Blackwell noticed the shift behind him. Technicians on the floor exchanged nervous glances, shrinking back from the railing. They seemed uneasy by the sheer physical presence of the machine, but Blackwell remained unbothered. 
+Behind him, technicians on the floor exchanged nervous glances, shrinking back from the railing. They seemed uneasy by the sheer physical presence of the machine, but Blackwell remained unbothered. 
 
 Elena stepped up to the railing, studying a datapad in her hand, her tense posture relaxing just a fraction. "The initialization sequence is holding steady," she said, a rare note of satisfaction bleeding into her voice. She stepped closer to him, so only he could hear, "The containment calculations were flawless, Silas. You calculated activation. Congratulations."
 
-"Of course they were." Blackwell murmured, the unlit cigarette bobbing between his lips.
+"Of course they were," Blackwell murmured, the unlit cigarette bobbing between his lips.
 
 On the immense display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval—or at least, predatory interest—emanated from the feed. The Saito Takeda Corporation was watching their investment come to life. Beside him, Elena stiffened under the executive gaze. To her, this was just a performance.
 
 "Doctor Blackwell. Ma'am." 
 
-The hushed voice interrupted the moment. A junior technician scurried up behind them, never once looking up from the glowing datapad in her hands. She was a stark contrast to the sterile perfection of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
+The hushed voice interrupted the moment. A junior technician scurried up behind them, not looking up from the glowing datapad in her hands. She was a stark contrast to the sterile perfection of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
 
-"Ma'am, local space-time..." Iris stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. "It's ..." She paused, her focus visibly fragmenting for a second, then continued. "...a mass-displacement anomaly. A severe fluctuation in the event horizon. The power dra—"
+"Ma'am, local space-time..," Iris stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. "It's ..." She paused, her focus visibly fragmenting for a second, then continued. "...a mass-displacement anomaly. A severe fluctuation in the event horizon. The power dra—"
 
 Elena spun around. She cast a quick glance up at the Board's display—a fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
 
-The moment hung in the air. Blackwell observed the exchange in silence. He recognized the severity of the girl's intrusion, yet he felt no anxiety. He merely watched to see how Elena would discipline the disruption.
+The moment hung in the air. Blackwell observed the exchange in silence, recognizing the severity of the girl's intrusion without anxiety, curious to see how Elena would discipline the disruption.
 
 Elena stepped into Iris's personal space. She didn't even look at the data.
 

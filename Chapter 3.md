@@ -25,7 +25,7 @@ Unable to shake the creeping sensation that she was still being watched, Rin pul
 
 ***
 
-Three blocks deep into the slums, a massive, geometric luxury cruiser idled silently, out of place, in the rain. It was a low-slung wedge of highly polished, glossy black panels and opaque tinted glass that reflected the city's lights like a dark mirror.  The heavy chassis was suspended inches above the broken pavement on a magnetic cushion. It vibrated with a low frequency that pushed the flooding rainwater away from its undercarriage in a perfect, continuous ripple.
+Three blocks deep into the slums, a massive, geometric luxury cruiser idled silently, out of place, in the rain. It was a low-slung wedge of highly polished, glossy black panels and opaque tinted glass that reflected the city's lights like a dark mirror.  The heavy chassis was suspended inches above the broken pavement on a magnetic cushion. It vibrated with a low frequency that pushed the flooding rainwater away from its undercarriage in a continuous ripple.
 
 Rin stopped at the mouth of the alley, her hand instinctively resting near the heavy pistol inside her jacket. Sharp angles defined the cruiser's shape, its red taillights bled onto the wet pavement like a warning.
 
