@@ -28,7 +28,7 @@ Harper let the rest of the smoke go slow, her eyes dropping to the floor. The he
 
 "You always did pick the worst fights." Harper stepped closer, her fingers brushing the wet fabric of Rin's sleeve before she caught herself and pulled her hand back — the same hand drifting up to rest against her own collarbone instead, thumb settling into the old line of the scar. "Never change, do you?"
 
-Rin's eyes tracked the motion, Harper's fingers drawn slow along her collarbone, tracing the edge of the scar toward the base of her throat — until she caught herself watching and looked away first.
+Rin's eyes tracked the motion, Harper's fingers drawn slow along her collarbone, tracing the edge of the scar toward the base of her throat — until she caught herself watching and looked away.
 
 "I wouldn't be here if I had another choice."
 
