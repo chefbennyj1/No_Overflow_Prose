@@ -10,9 +10,9 @@ The heavy deadbolt threw with a sharp, mechanical clank. The door swung inward j
 
 Harper stood in the doorway, a lit cigarette dangling from the corner of her mouth. She wore a faded red tank top and low-riding denim, looking exactly as chaotic as the day Rin had walked out. Her dark natural roots had grown halfway down her head before giving way to frayed, electric-blue ends that fell messily around her face. 
 
-She leaned against the doorframe, her warm, whiskey-brown eyes raking over Rin’s soaked leather jacket and defensive posture. 
+She leaned against the doorframe, her brown eyes raking over Rin’s soaked leather jacket and defensive posture. 
 
-"You've got a lot of nerve showing up here, sugar," Harper said. Her voice carried a slow, Southern drawl that had no business existing in the neon chokehold of Oshima City. 
+"You've got a lot of nerve showing up here, sugar," Harper said. Her voice carried a raspy, Southern drawl that cracked, and had no business existing in the neon chokehold of Oshima City. 
 
 "I need you to look at something," Rin said, pushing past her into the apartment without waiting for an invitation. 
 
@@ -44,7 +44,7 @@ The three monitors above her desk flared to life, casting a harsh, pale light ov
 
 "I got the keys. But while I was inside Doctor Silas Blackwell's private terminal, I found something else. It was moving too much power. I copied the directories before the system flagged me." 
 
-Harper didn't answer. The reflection of the scrolling code danced in her whiskey-brown eyes. Her casual, laid-back demeanor vanished, replaced by the terrifying, predatory focus of a master slicer. 
+Harper didn't answer. The reflection of the scrolling code danced in her brown eyes. Her casual, laid-back demeanor vanished, replaced by the terrifying, predatory focus of a master slicer. 
 
 "This isn't standard ICE," Harper muttered, leaning closer to the screens. "The encryption handshake... it's brutal. It's written by Marlowe. Elena Marlowe."
 

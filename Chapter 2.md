@@ -10,7 +10,7 @@ The corridor was otherwise silent, smelling of oxidizing disinfectants and recyc
 
 The magnetic lock disengaged with a hollow thud. 
 
-She ran her fingers along the messy fringe of bangs that hung across her eyes, pulling a length of dark hair behind her ear. She slipped through the threshold, stepping into the muted silence of the executive suite. Water dripped from her oversized, heavy leather jacket, pooling on the polished floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
+She ran her fingers along the messy fringe of bangs that hung across her eyes, tucking the sharp, jagged sidelock of her black hime-cut bob behind her ear. She slipped through the threshold, stepping into the muted silence of the executive suite. Water dripped from her oversized, heavy leather jacket, pooling on the polished floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
 
 As she crossed the center of the office, the room's massive window flared to life, a wave of blue pixels cascading across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of telemetry data. She approached the terminal sitting on the polished black glass inlay of the wooden desk, ignoring the holographic overlay of the Dead Circuits sprawling fifteen floors below.
 
