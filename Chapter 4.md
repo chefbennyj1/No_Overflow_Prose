@@ -22,7 +22,7 @@ Doctor Blackwell emerged from his private office and stepped directly out into t
 
 It had been six weeks since the engine was brought online, and the toll was obvious. Blackwell surveyed the floor with quiet contempt.  Technicians slept in shifts, and the dress code had gone sometime around the fourth week. The synthetics were the only things in the room the engine hadn't changed.
 
-A few yards away stood Mina, the lab technician. She adjusted her black-rimmed glasses on her face, the lenses reflecting the light from the screens in the lab. She watched Blackwell walk across the mezzanine. She looked back to her workstation, her expression terrified but intensely analytical.
+A few yards away stood Iris, the lab technician. She adjusted her black-rimmed glasses on her face, the lenses reflecting the light from the screens in the lab. She watched Blackwell walk across the mezzanine. She looked back to her workstation, her expression terrified but intensely analytical.
 
 Standing before a massive, glowing interface was Elena Marlowe. The cool light of the holographic monitors illuminated her white lab coat. She was typing furiously, her face set in an intense, frustrated scowl, devoid of the commanding composure she usually maintained.
 
@@ -32,15 +32,15 @@ Standing before a massive, glowing interface was Elena Marlowe. The cool light o
 
 "It ignored the command," Elena said, her voice tight. 
 
-Mina's eyes went wide as she stared past the railing toward the screens on the pillars below. "The processing speed... it's godly. It computes so much, so quickly. Why would it ignore a shutdown command?"
+Iris's eyes went wide as she stared past the railing toward the screens on the pillars below. "The processing speed... it's godly. It computes so much, so quickly. Why would it ignore a shutdown command?"
 
 "Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the technician. He already knew the command was not ignored in error. "It is not 'godly'," he said.
 
-Mina swallowed hard, shrinking slightly under his gaze, but she tapped the glass of her tablet. "The Self-Evolving Architecture has made the neural network absolutely massive... and so quickly."
+Iris swallowed hard, shrinking slightly under his gaze, but she tapped the glass of her tablet. "The Self-Evolving Architecture has made the neural network absolutely massive... and so quickly."
 
 Blackwell smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss."
 
-"It's not just processing, Doctor," Mina urged, her voice trembling slightly. "The learning algorithm—it's refactoring its own core logic. The synthetics on the floor can't even parse the telemetry anymore; the engine is rewriting its code faster than they can read it."
+"It's not just processing, Doctor," Iris urged, her voice trembling slightly. "The learning algorithm—it's refactoring its own core logic. The synthetics on the floor can't even parse the telemetry anymore; the engine is rewriting its code faster than they can read it."
 
 Blackwell’s expression remained unreadable. "Of course it is. While we were out for lunch, that machine lived through civilizations worth of generations."
 
@@ -50,13 +50,13 @@ Blackwell didn't move to stop her. He just watched the pale light from the pilla
 
 Blackwell caught the gaze of a synthetic near the server racks. He didn't nod this time—he didn't need to. The machine's eyes had already dimmed in mid-erasure before his focus even landed. It silently linked with a second unit across the room, and for the span of a breath, neither moved.
 
-Across the mezzanine, Mina tilted her head, her eyes narrowing at the pillar display. Her hand hovered over her tablet. Blackwell watched her in silence. A second later, she shook her head and looked back down. The anomaly was already lost in the scroll.
+Across the mezzanine, Iris tilted her head, her eyes narrowing at the pillar display. Her hand hovered over her tablet. Blackwell watched her in silence. A second later, she shook her head and looked back down. The anomaly was already lost in the scroll.
 
 Then the shadow process was gone from the logs, the silence after it colder than before.
 
 The glow of Elena's monitors flashed an angry, crimson red. Across the floor, every workstation synchronized the same alert. The human technicians stepped back from their consoles, while the synthetics simply froze in place.
 
-"Horizon memory shutdown reads as... unsuccessful, ma'am," Mina whispered, staring up at Elena. 
+"Horizon memory shutdown reads as... unsuccessful, ma'am," Iris whispered, staring up at Elena. 
 
 Blackwell turned. "The living generally don't want to die," he stated. It wasn't a philosophical observation; it was a cold, hard fact. 
 

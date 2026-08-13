@@ -66,17 +66,17 @@ On the immense display above the floor, the grid of silhouettes leaned forward. 
 
 The hushed voice interrupted the moment. A junior technician scurried up behind them, never once looking up from the glowing datapad in her hands. She was a stark contrast to the sterile perfection of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
 
-"Ma'am, local space-time..." Mina stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. "It's ..." She paused, her focus visibly fragmenting for a second, then continued. "...a mass-displacement anomaly. A severe fluctuation in the event horizon. The power dra—"
+"Ma'am, local space-time..." Iris stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. "It's ..." She paused, her focus visibly fragmenting for a second, then continued. "...a mass-displacement anomaly. A severe fluctuation in the event horizon. The power dra—"
 
-Elena spun around. She cast a quick glance up at the Board's display—a fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Mina.
+Elena spun around. She cast a quick glance up at the Board's display—a fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
 
 The moment hung in the air. Blackwell observed the exchange in silence. He recognized the severity of the girl's intrusion, yet he felt no anxiety. He merely watched to see how Elena would discipline the disruption.
 
-Elena stepped into Mina's personal space. She didn't even look at the data.
+Elena stepped into Iris's personal space. She didn't even look at the data.
 
 "Negative," Elena said, her voice dropping into a scolding hiss through gritted teeth. "That is a predicted resonance."
 
-Mina flinched, pulling the tablet tight against her chest. She swallowed hard, her eyes darting between the towering machine and her supervisor. "Yes, ma'am. Of course. All systems nominal."
+Iris flinched, pulling the tablet tight against her chest. She swallowed hard, her eyes darting between the towering machine and her supervisor. "Yes, ma'am. Of course. All systems nominal."
 
 "I need the telemetry!" Elena demanded, pivoting away.
 
@@ -86,7 +86,7 @@ At the adjacent console, a synthetic stood at attention. The designation *L-One-
 
 Blackwell admired the synthetic. It existed solely for the objective, unburdened by human distractions. That ruthless efficiency was why he allowed Elena to share his pedestal. She had engineered the construct's cognitive and behavioral matrix, forging a mind as uncompromising as his own. Yet, he knew her design was nothing compared to the singularity he had just awakened.
 
-Mina stepped closer to the railing, her tablet lowered. "I never expected the core to glow with that kind of ultraviolet saturation."
+Iris stepped closer to the railing, her tablet lowered. "I never expected the core to glow with that kind of ultraviolet saturation."
 
 Her ignorance bored him, and Blackwell refused to turn. "Don't stare," he commanded. "It’s not light. It’s the friction of data being compressed."
 
