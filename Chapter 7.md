@@ -10,7 +10,7 @@ But withdrawing didn't mean she stopped seeing.
 
 When the shadow process had appeared in the readout, her brain hadn't filtered it out as background noise. It absorbed the raw data with excruciating clarity. She had seen the exact moment the inversion was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
 
-Iris looked at the lifeless synths down on the main floor. They stood motionless across the polished plating, their optical sensors dark. They weren't just executing maintenance cycles; they were active accomplices in Blackwell's lie. They lie.
+Iris looked at the lifeless synths down on the main floor. They stood motionless across the polished plating, their optical sensors dark. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. They weren't just executing maintenance cycles; they were active accomplices in Blackwell's lie. They lie.
 
 Doctor Blackwell, and Marlowe assumed her silence was incompetence. They saw a fragile, easily confused junior technician. They didn't understand that her hyper-vigilance caught every micro-fluctuation and missing data packet they overlooked in their arrogance. It was why she was in the room at all.
 
@@ -34,7 +34,7 @@ Elena turned away from the glass and approached the main concourse.
 
 The Saito Takeda corporate annex was a masterclass in sterile intimidation. Elena exited the sky-bridge at her levels tower entrance, and stepped out onto a suspended walkway midway up a cavernous, forty-story atrium. Sharp, geometric angles of polished concrete soared above and plunged below her, lined with endless tiers of glass-fronted corporate offices. 
 
-The only movement in the vast space came from heavily armored Renewal agents patrolling the lower levels, and the polished synthetics standing like statues at the security checkpoints. Elena didn't look at them, her gaze passing right over the crisp, black serial numbers printed beneath their optical sensors—*S-33*. Security classification. A synthetic dressed in a concierge uniform, the designation *HR-22* glowing softly beneath its eye, greeted her by name as she passed. She ignored it, moving through the turnstiles with practiced authority, her heels clicking sharply against the polished concrete. 
+The only movement in the vast space came from heavily armored Renewal agents patrolling the lower levels, and the polished synthetics standing like statues at the security checkpoints. Elena didn't look at them, her gaze passing right over the crisp, black serial numbers printed beneath their optical sensors—*S-33*. Security classification. A synthetic dressed in a concierge uniform, the designation *HR-22* glowing softly beneath its eye and traces of blue light shimmering through its fiber-optic hair, greeted her by name as she passed. She ignored it, moving through the turnstiles with practiced authority, her heels clicking sharply against the polished concrete. 
 
 She was early. She hadn't slept well. The memory of the inability to shut down the horizon memory the day before still nagged at the back of her mind, despite Blackwell's confident dismissals. She stepped into the private executive elevator, pressing her thumb to the biometric scanner for the lab level. The descent was smooth, and silent.
 

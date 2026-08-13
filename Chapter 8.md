@@ -1,61 +1,110 @@
-Rin pressed her back against the rusted iron door, breathing heavy. The rain in the Dead Circuits was unrelenting, washing the grime of the lower sectors down the corrugated steel walls of the alley. She checked the stairwell. Empty. For now. 
+Rin pressed her back against the rusted iron door, breathing hard. Rain hammered the alley around her, washing the grime of the lower sectors down the corrugated steel in black rivulets. She checked the stairwell. Empty. For now.
 
-She turned and hammered her fist against the heavy metal door. 
+She turned and hammered her fist against the heavy metal door.
 
-"Harper, open up," Rin muttered, water running down her face, plastering her black hime-cut bob against her cheeks. 
+"Harper, open up." Water ran down her face, plastering her black hime-cut bob against her cheeks.
 
-She banged the metal again, harder. 
+She banged the metal again.
 
-The heavy deadbolt threw with a sharp, mechanical clank. The door swung inward just enough to reveal Harper. 
+The deadbolt threw with a sharp mechanical clank. The door swung inward just enough to reveal Harper.
 
-Harper stood in the doorway, a lit cigarette dangling from the corner of her mouth. She wore a faded red tank top and low-riding denim, looking exactly as chaotic as the day Rin had walked out. Her dark natural roots had grown halfway down her head before giving way to frayed, electric-blue ends that fell messily around her face. 
+Smoke curled out through the gap before she did, thick against the cold rain. Harper stood in the doorway, a cigarette burning low between two fingers. She wore a faded red tank top and low-riding denim, the collar cut low enough to show a thin scar tracing her collarbone — old, pale, left bare like she'd never once considered covering it. Her dark roots had grown halfway down her scalp before surrendering to frayed, electric-blue ends that fell loose around her face.
 
-She leaned against the doorframe, her brown eyes raking over Rin’s soaked leather jacket and defensive posture. 
+She leaned into the frame, brown eyes tracking down the length of Rin's soaked jacket and back up again.
 
-"You've got a lot of nerve showing up here, sugar," Harper said. Her voice carried a raspy, Southern drawl that cracked, and had no business existing in the neon chokehold of Oshima City. 
+"You've got a lot of nerve showing up here, sugar." Her voice carried a slow, raspy Southern drawl that had no business existing in the chokehold of Oshima City.
 
-"I need you to look at something," Rin said, pushing past her into the apartment without waiting for an invitation. 
+"I need you to look at something." Rin pushed past her into the apartment without waiting for an invitation.
 
-Harper didn't stop her. She shut the heavy door, locking the deadbolt, the chain, and the biometric scanner in rapid succession. "I told you to lose this address."
+Harper didn't stop her. She shut the door, working the three deadbolts, the chain, and pushed a heavy metal door stop into the base of the door, all in rapid succession. "I told you to lose this address."
 
-"It's corporate, Harper." 
+"It's corporate, Harper."
 
-Harper paused, her hand lingering on the chain. She turned around, taking the cigarette from her lips. "How corporate are we talking?"
+Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a beat before it left her in a thin stream. "How corporate are we talking?"
 
-"Saito Takeda Renewal Agents," Rin said, stripping off her soaking leather jacket and throwing it over a humming server rack. "They were waiting at my apartment."
+"Saito Takeda Renewal Agents." Rin stripped off her soaked jacket and threw it over the arm of a beaten green sofa. "They were waiting at my apartment."
 
-Harper let out a slow exhale of smoke, her eyes dropping to the floor. The tension in the small, sweltering apartment thickened. The air smelled of burnt flux, stale tobacco, and hot copper. Jury-rigged server towers lined the peeling walls, bleeding excessive heat into the room. Cables snaked across the floor like exposed veins. It was a chaotic mess, but to Harper, it was an impenetrable fortress. 
+Harper let the rest of the smoke go slow, her eyes dropping to the floor. The heat of the room pressed in, a close warmth that had nowhere to go — the opposite of the rain outside. The air smelled of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in black coils. It was a wreck, but Rin knew to Harper it was a fortress.
 
-"You always did pick the worst fights," Harper murmured, stepping closer. She reached out, her fingers lightly brushing the wet fabric of Rin's sleeve before she caught herself and pulled her hand back. "Never change, do you?"
+"You always did pick the worst fights." Harper stepped closer, her fingers brushing the wet fabric of Rin's sleeve before she caught herself and pulled her hand back — the same hand drifting up to rest against her own collarbone instead, thumb settling into the old line of the scar. "Never change, do you?"
 
-"I wouldn't be here if I had another choice," Rin said, avoiding her gaze. 
+Rin's eyes tracked the motion, Harper's fingers drawn slow along her collarbone, tracing the edge of the scar toward the base of her throat — until she caught herself watching and looked away first.
 
-Harper studied her for a long moment. "Fine. Leaving is one thing, darlin', but I'm not gonna let you bleed out in the rain. Show me what you've gotten yourself into."
+"I wouldn't be here if I had another choice."
 
-Rin reached into her glossy bodysuit and pulled out a heavy, red-and-silver USB drive. She held it out. 
+Harper studied her for a long moment, the cigarette burning forgotten between her fingers. "Fine. Leaving's one thing, darlin', but I'm not gonna let you bleed out in the rain. Show me what you've gotten yourself into."
 
-Harper took the drive, her fingers brushing Rin's palm. She carried it over to her primary workstation—a massive, air-gapped rig built from stolen corporate hardware and liquid-cooled by a roaring radiator. She dropped into her chair, pulled the keyboard onto her lap, and slotted the drive into a modified port. 
+Rin reached into her bodysuit and pulled out a red-and-silver USB drive. She held it out.
 
-The three monitors above her desk flared to life, casting a harsh, pale light over her face. 
+Harper took it, her fingers brushing Rin's palm. She crossed to her primary workstation — a massive air-gapped rig built from stolen corporate hardware, liquid-cooled by a radiator loud enough to rattle the shelf above it. She dropped into her chair, pulled the keyboard onto her lap, and slotted the drive into a modified port.
 
-"I went in for the sector routing keys," Rin explained, standing behind Harper's chair. "The Filament needed them to keep the pirate grids online for the winter." 
+The three monitors above her desk flared to life, washing her face pale.
 
-"And?" Harper asked, her fingers flying across the keys with blinding speed. 
+"I went in for the sector routing keys." Rin stood behind the chair. "The Filament needed them to keep the electricity on for the Dead Circuts."
 
-"I got the keys. But while I was inside Doctor Silas Blackwell's private terminal, I found something else. It was moving too much power. I copied the directories before the system flagged me." 
+"The Filament? Jesus, Rin, they're practically terrorists." Harper opened the file structure one-handed, the cigarette climbing to her lips and back down between keystrokes without her ever looking away from the screen.
 
-Harper didn't answer. The reflection of the scrolling code danced in her brown eyes. Her casual, laid-back demeanor vanished, replaced by the terrifying, predatory focus of a master slicer. 
+"I got the keys. But while I was inside the terminal, I found something. It was pulling too much power. I copied the directories before the system flagged me."
 
-"This isn't standard ICE," Harper muttered, leaning closer to the screens. "The encryption handshake... it's brutal. It's written by Marlowe. Elena Marlowe."
+Harper didn't answer. Scrolling code reflected in her eyes. The lazy warmth in her face was gone, replaced by the flat focus.
+
+"This isn't standard encryption." She leaned closer to the screens. "They think they're gonna keep me out. Well, bless their hearts."
 
 "Can you crack it?"
 
-"I can crack anything," Harper shot back, a flash of defensive pride in her voice. "But you didn't just steal power routing keys, Rin. Look at the file sizes on these sub-directories." 
+"Hold your horses, peaches, I can crack anything." A flash of defensive pride cut through her voice. "This account has R-and-D level access, Rin." She glanced back over her shoulder. "Whose account did you hack?"
 
-Rin looked at the numbers scrolling past. "What is it?"
+Her hand lifted off the keyboard. "Whoa." A cascade of files spilled open across the screen.
 
-"It's a blueprint," Harper said softly. The blue light from the monitors washed out the warmth in her face. "A structural map for an artificial neural network. But the sheer mass of it... this isn't just a smart calculator. This is a singularity."
+Rin heard her muttering to herself as she read.
 
-Harper stopped typing. She looked back over her shoulder at Rin, the gravity of the situation settling heavily between them. 
+"Just a little more than power routing keys, Rin." Something shifted in Harper's face.
 
-"The project file is called *Mnemosyne*," Harper said. "And whoever built it just realized you have the keys to the front door."
+"I know. The terminal was rendering a wireframe of a Saito Takeda tower. It matched a building right out—"
+
+"Sugar, this isn't a building." The blue glow of the monitors leached the warmth out of her. "It's a map of an artificial neural network, scaled to the size of a skyscraper. The sheer mass of it... this isn't just a... Jesus, look at this. It's a singularity."
+
+Harper stopped typing. She turned in her chair to face Rin, her cigarette burning, forgotten, between her fingers. Her free hand rose to her collarbone, fingers tracing the length of the scar once before she spoke again.
+
+"The project file is called Mnemosyne."
+
+"They knew I had it."
+
+Harper laughed, short and humorless. "They don't know it was you, sweet-pea. Something huge leaked. They're tearing up the Circuits trying to put a lid on it."
+
+She paused. "It won't take long before they find you." Her eyes sharpened. "And anyone you're with. Aw, hell."
+
+An alert flashed across her screen. "What in the hotwired hell?"
+
+Rin moved closer. The alert read:
+
+**[Critical system alert]**
+**[Unexpected syscall]**
+**[VIGIL_CLIENT]**
+
+Harper frowned, pulling up the network log. "That shouldn't be happening. That's not normal."
+
+"What's not normal, Harper?"
+
+"The system just queried us back."
+
+"Why would you open those files on a connected rig?"
+
+Harper looked at her, startled. "Rin, sugar, this rig is air-gapped."
+
+The readout kept scrolling:
+
+**[NovOS Kernel] CRITICAL SECURITY ALERT**
+
+**[NovOS Kernel] Unexpected syscall from PID 0x1A4F**  
+
+**[VIGIL_CLIENT]**
+
+"Vigil client?" Harper's hand didn't move to her collarbone. It stayed flat against the desk, knuckles pale against the black glass. "It just messaged us."
+
+Rin leaned in, a nervous laugh catching in her throat. "What?"
+
+She read the terminal:
+
+**[VIGIL_CLIENT] Hello Rin.**
+**[VIGIL_CLIENT] Hello Harper.**
