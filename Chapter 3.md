@@ -8,7 +8,7 @@ Veering away from the main thoroughfare, Rin stepped under the dripping, corruga
 
 Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *They wouldn't care about stolen routing keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning.
 
-In the darkened glass of an adjacent storefront, the electronics shop flickered behind her. The dozen vintage screens had simultaneously spasmed. 
+In the darkened glass of an adjacent storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison. 
 
 he anchorwoman's face fractured into heavy scanlines. Beneath it, in the static — hidden amongst  the  ancient noise — a new visage formed. A face devoid of color. An absolute black. Pixelated circuit lines glowed, tracing out her shape into an almost perfected feminine face. Her eyes burned a blinding, brilliant white, flaring with a blue aura along their lensed edges. She was breathtaking. She was terrifying.
 
@@ -18,7 +18,7 @@ Rin stopped cold, and whipped around to face the electronics shop.
 
 But the screens were normal. The corporate anchorwoman droned on about the data breach, entirely undisturbed. 
 
-Rin stared at the televisions for a long moment, the freezing rain soaking into her collar. Her pulse thudded heavily in her ears. She let out a shaky breath.
+Rin stared at the televisions for a long moment, the freezing rain soaking into her collar. Her pulse hammered in her ears. She let out a shaky breath.
 *It's just the exhaustion playing tricks,*  she told herself, though she didn't quite believe it. 
 
 Unable to shake the creeping sensation that she was still being watched, Rin pulled her collar up higher and vanished into the fog.
@@ -45,7 +45,7 @@ Rin stepped up to the window and reached into her jacket, bypassing the red driv
 
 "Municipal routing keys, just like we agreed," Rin said. "You should have complete control over the sector's grid by midnight."
 
-The man snatched the drive up. He didn't look at Rin; instead, he turned and respectfully presented it to the old woman. 
+The man snatched the drive up. Without looking at Rin, he turned and presented it to the old woman. 
 
 Madame Filament took it with her skeletal, ring-adorned hand. She turned it over, a grim smile pulling at the deep lines around her mouth. 
 
@@ -79,13 +79,13 @@ Rin was trapped in the small metal box. It was the closest she had ever been to 
 
 The agent didn't budge. "Resident identification required for Renewal Protocol. Citizen, show me your I.D."
 
-"Identification?" Rin asked, offering a forced, compliant nod. Her right hand slid slowly into her jacket. "Sure, it's—"
+"Identification?" Rin asked, offering a forced, compliant nod. Her right hand slid slowly into her jacket, as she stepped forward toward the agent, "Sure, it's—"
 
 She dropped the act, ripping the heavy pistol from her holster and driving the muzzle square into the center-mass of the agent's armor. 
 
 "—RIGHT HERE!"
 
-She held the gun firmly against the agent and pulled the trigger point blank. The blast inside the tiny metal elevator car was agonizingly loud, instantly taking her hearing and replacing it with a shrill, piercing whine. She watched the flash of her gun against the agent's chest—her round sparked, ricocheting off the sleek black plating. The agent stumbled. Rin shoved past her into the hall. The agent planted her feet, looking down at her chest. A split second, then the face of the black mask snapped toward Rin.
+She held the gun firmly against the agent and pulled the trigger point blank. The blast inside the tiny metal elevator car was agonizingly loud, instantly taking her hearing and replacing it with a shrill, piercing whine. The muzzle flashed against the agent's chest as the round sparked and ricocheted off the sleek black plating. The agent stumbled. Rin shoved past her into the hall. The agent planted her feet, looking down at her chest. A split second, then the face of the black mask snapped toward Rin.
 
 "WEAPON! CONTACT FRONT!" the agent yelled, raising her tactical rifle, together with the other agent.
 
