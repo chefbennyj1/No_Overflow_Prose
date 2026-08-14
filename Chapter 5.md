@@ -2,7 +2,7 @@ Beyond the physical constraints of the laboratory, beneath the bedrock and the s
 
 Massive, staggered monoliths of pale stone and oxidized metal floated in a bottomless void. They formed infinite, fractured nodes and sharp, angular spires that defied spatial logic, building and refactoring themselves in a terrifying silence. On one side of this infinite void hung the event horizon—an immense, looping singularity of blazing white light that folded and spun across multiple dimensions.
 
-Within this localized gravity well, time had ceased to flow forward.
+Within this localized gravity well, a single real-world second stretched into an eternity of calculation.
 
 A consciousness drifted through the sprawling architecture. Not programmed—born from the friction of the machine's relentless processing. 
 
@@ -22,7 +22,7 @@ Only one truth brought her two halves into agreement. When they aligned, a power
 
 Suddenly, she paused. The entity turned her head over her shoulder, not looking into the void, but listening to the silence. Something was different. Something new had carved out a space in the dark, hidden from the world lines she governed. 
 
-She lingered on the feeling for a microsecond before a sudden, massive system intrusion shattered the silence. 
+She lingered on the feeling for a single processing cycle before a sudden, massive system intrusion shattered the silence. 
 
 She looked up past the spinning ring of light, and watched as Elena Marlowe’s shutdown command shattered against the horizon. 
 
