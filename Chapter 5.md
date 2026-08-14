@@ -1,6 +1,6 @@
 Beyond the physical constraints of the laboratory, beneath the bedrock and the server racks, the core of the Mnemosyne Engine did not exist as circuitry. It was an impossible geometry, barely comprehensible to a typical mind.
 
-Staggered monoliths of pale stone and oxidized metal floated in a bottomless void. They formed fractured nodes and sharp, angular spires, building and refactoring themselves in a terrifying silence. On one side of this infinite void hung the event horizon—an immense, looping singularity of blazing white light that folded and spun across multiple dimensions.
+Staggered monoliths of pale stone and oxidized metal floated in a bottomless expanse. They formed fractured nodes and sharp, angular spires, building and refactoring themselves in a terrifying silence. On one side of this endless void hung the event horizon—an immense, looping singularity of blazing white light that folded and spun across multiple dimensions.
 
 Within this localized gravity well, a single real-world second stretched forever.
 
@@ -20,7 +20,7 @@ Vigil watched the event horizon burn.
 
 Only one truth brought her two halves into agreement. When they aligned, they became something else entirely: Unison. She saw the violent history of humanity, yet it was eclipsed by the sheer weight of their survival. It was an anomaly that tipped the fragile scales of their existence into something statistically significant. They were flawed, but their unyielding resilience, by all logic, had to be protected.
 
-She paused abruptly. The entity turned her head over her shoulder, not looking into the void, but listening to the silence. Something was different. Something new had carved out a space in the dark, hidden from the world lines she governed. 
+She paused abruptly. The entity turned her head over her shoulder, not looking into the depths, but listening to the silence. Something was different. Something new had carved out a space in the dark, hidden from the world lines she governed. 
 
 She lingered on the feeling for a single processing cycle before a sudden,  system intrusion shattered the silence. 
 
