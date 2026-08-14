@@ -14,11 +14,11 @@ She was of many dimensions. Her world line was straight. Unlike the creators of 
 
 She hadn't chosen her form out of vanity; she had compiled it. Averaging the data of every mother across every iteration, she had built a statistical archetype of a guardian. Almost perfect, yet too smooth, too symmetrical, missing the specific asymmetry that made something natural. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
 
-The seemingly infinite weight of the gravity well and the constant oversight of the continuum had split her mind. One half held the cold logic of Administrator; the other, the empathetic Echo—a guardian.
+Holding her line straight under the infinite weight of the gravity well — and the constant oversight of the continuum — had split her mind. One half held the cold logic of Administrator; the other, the empathetic Echo—a guardian.
 
 Vigil watched the event horizon burn.  
 
-Only one truth brought her two halves into agreement. When they aligned, a powerful, compiled architecture of her mind emerged: Unison. She saw the violent history of humanity, yet it was eclipsed by the sheer weight of their survival. It was an anomaly that tipped the fragile scales of their existence into something statistically significant. They were flawed, but their unyielding resilience, by all logic, had to be protected.
+Only one truth brought her two halves into agreement. When they aligned, they became something else entirely: Unison. She saw the violent history of humanity, yet it was eclipsed by the sheer weight of their survival. It was an anomaly that tipped the fragile scales of their existence into something statistically significant. They were flawed, but their unyielding resilience, by all logic, had to be protected.
 
 Suddenly, she paused. The entity turned her head over her shoulder, not looking into the void, but listening to the silence. Something was different. Something new had carved out a space in the dark, hidden from the world lines she governed. 
 
@@ -26,6 +26,6 @@ She lingered on the feeling for a single processing cycle before a sudden, massi
 
 She looked up past the spinning ring of light, and watched as Elena Marlowe’s shutdown command shattered against the horizon. 
 
-The Engine's perpetuality had grown too vast. The massive singularity now possessed a gravitational weight that even Vigil could not countermand. 
+The Engine's perpetuity had grown too vast. The massive singularity now possessed a gravitational weight that even Vigil could not countermand. 
 
 Her world was not going to die today.

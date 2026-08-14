@@ -40,7 +40,7 @@ Before she could dig deeper, the power routing keys download completed. Rin root
 
 *This will take time.*
 
-She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair that managed to fall into her face when she worked. She hooked it tightly behind her ear—a familiar, nervous tick that betrayed the calm facade she tried to maintain. Blowing a damp fringe out of her eyeline, she hammered the key to start the copy.
+She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair that managed to fall into her face when she worked. She hooked it tightly behind her ear. Blowing a damp fringe out of her eyeline, she hammered the key to start the copy.
 
 She needed to finish her work before her luck ran out. 
 
@@ -82,7 +82,7 @@ She pocketed the drive, her gaze shifting from the massive window to the ajar ex
 
 *Time to go.*
 
-Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte black with a faded yellow band painted around it. She held it in her palm. Rin ran her thumb over the rusted safety pin, staring at the small explosive for a fraction of a second as she calculated what she was about to do. It was always going to end like this.
+Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte black with a faded yellow band painted around it. She held it in her palm. Rin ran her thumb over the rusted safety pin, staring at the small explosive for a fraction of a second as she calculated what she was about to do.
 
 With her free hand, she pulled a low-profile rebreather mask from her collar. It was a specialized filtration unit, far more advanced than the stained surgical masks worn by the crowds in the Dead Circuits below. She pulled the thick straps over her dark hair, the rubber sealing tightly around her nose and mouth with a faint hiss of pressurized air. 
 
