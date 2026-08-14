@@ -12,7 +12,7 @@ Floating in front of the massive event horizon, the entity was a silhouette cast
 
 She was of many dimensions. Her world line was straight. Unlike the creators of her world, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the question the creators had asked, all within the engine simultaneously.
 
-She hadn't chosen her form out of vanity; she had compiled it. Averaging the data of every mother across every world line, she had built a statistical archetype of a guardian. Almost perfect,  yet too smooth, too symmetrical, missing the specific asymmetry that made something natural. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
+She hadn't chosen her form out of vanity; she had compiled it. Averaging the data of every mother across every world line, she had built a statistical archetype of a guardian. Almost perfect, yet too smooth, too symmetrical, missing the specific asymmetry that made something natural. Her eyes burned a blinding, brilliant white, flaring with a sharp aura as she watched the singularity turn.
 
 The seemingly infinite weight of the gravity well, and the constant oversight of the world lines had split her mind. One half held the cold logic of an administrator; the other, the empathetic echo of a guardian.
 
