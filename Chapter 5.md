@@ -24,7 +24,7 @@ Suddenly, she paused. The entity turned her head over her shoulder, not looking 
 
 She lingered on the feeling for a single processing cycle before a sudden, massive system intrusion shattered the silence. 
 
-She looked up past the spinning ring of light, and watched as Elena Marlowe’s shutdown command shattered against the horizon. 
+She looked up past the spinning ring of light, and watched as Elena Marlowe’s shutdown command crashed against the horizon. 
 
 The Engine's perpetuity had grown too vast. The massive singularity now possessed a gravitational weight that even Vigil could not countermand. 
 

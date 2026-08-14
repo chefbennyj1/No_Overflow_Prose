@@ -56,7 +56,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each pr
 
 "If we don't have a heart attack first," Harlan muttered, pushing off the railing to keep up. 
 
-"We have to intercept Null before Corporate Renewal does," Victor said, his gaze fixed on the landing above. "If Saito Takeda's enforcers find them first, we lose our only lead. And Null loses their life."
+"We have to intercept Null before Corporate Renewal does," Victor said, his gaze fixed on the landing above. "If Saito Takeda finds them first, months of work will have been for nothing. "
 
 Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a massive revolver that looked like a relic from another century. Its augmented magnetic rails hummed with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
 

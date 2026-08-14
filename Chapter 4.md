@@ -52,11 +52,11 @@ Blackwell caught the gaze of a synthetic near the server racks. He didn't nod th
 
 Across the mezzanine, Iris tilted her head, her eyes narrowing at the pillar display. Her hand hovered over her tablet. Blackwell watched her in silence. A second later, she shook her head and looked back down. The anomaly was already lost in the scroll.
 
-Then the shadow process was gone from the logs, the silence after it colder than before.
+Then the shadow process was gone from the logs.
 
 The glow of Elena's monitors flashed an angry, crimson red. Across the floor, every workstation synchronized the same alert. The human technicians stepped back from their consoles, while the synthetics simply froze in place.
 
-"Horizon memory shutdown reads as... unsuccessful, ma'am," Iris whispered, staring up at Elena. 
+"Horizon memory shutdown reads as... unsuccessful, ma'am," Iris said, staring up at Elena. 
 
 Blackwell turned. "The living generally don't want to die," he stated. It wasn't a philosophical observation; it was a cold, hard fact. 
 
