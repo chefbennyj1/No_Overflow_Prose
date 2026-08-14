@@ -54,3 +54,32 @@ Parity was not a glitch; it was the mirrored twin born from absolute alignment. 
 Elena stared at the telemetry screens, her exhausted eyes catching a strange, localized thermal drop in the lower atmospheric monitors of the lab. A flicker of code scrolled past—not an error message, but an alignment check.
 
 Parity wasn't just calculating anymore. She was descending."
+
+---
+
+## 5. Spacetime and World Lines (Vigil's Physics)
+
+**What a worldline is:**
+Imagine drawing your entire life as a single line on a graph — but instead of just tracking where you went, it also tracks when. Every moment of your existence, in order, connected. That line is your worldline. It's not a metaphor. It's how physicists actually chart objects moving through spacetime.
+
+**Straight vs. curved:**
+If you're drifting along without anything pushing you, your line is straight. If something is accelerating you steadily, your line bends into a curve. That's the whole distinction — straight means coasting, curved means under constant push.
+
+**Why "her worldline was straight" is a good sentence:**
+Here's the thing that other AI got right and it's genuinely sharp: Vigil can see every possible future branching outward like a river delta. But she only gets to travel one of those branches. She perceives infinity and lives a single line.
+
+That's the irony. She has godlike sight and completely ordinary constraint. The universe splits in every direction around her and she still only gets one path through it.
+
+For your story, that's not just physics — it's a character thesis. Vigil sees everything and can change almost nothing about her own trajectory.
+
+**The math correction, simply:**
+Normal geometry — measuring a room, a triangle, a sidewalk — uses the Pythagorean thing you learned in school: square the sides, add them, that's your distance.
+
+Spacetime does almost that, except it subtracts time instead of adding it. One flipped sign. That single minus instead of plus is why spacetime produces hyperbolas instead of circles, and it's why the speed of light works as a hard wall.
+
+That flipped sign is the entire difference between "how far across a room" and "how far through the universe."
+
+**The advice underneath all of it:**
+Don't explain any of this on the page. Let a reader hit "her worldline was straight," feel that something is slightly off about it, and figure it out three chapters later. Explained mystery evaporates. Unexplained mystery compounds.
+
+Physics as texture, never as lecture.
