@@ -42,9 +42,9 @@ Blackwell didn't bother to look back at the screen or at Elena, keeping his gaze
 
 Elena didn't blink. She remained where she was, her posture shifting from subordinate to commander as she projected her voice across the sprawling floor of the control room. Several other technicians in white coats looked up from their consoles.
 
-"Ladies and gentlemen! This is not a test." Elena's voice cut through the subtle hum of the server computers, and holo-montiors, authoritatively. "We bring the quantum gravity acceleration online like professionals. I don't need to tell you what happens if the Mnemosyne Engine processor backfires."
+She leaned into the speaker system microphone. "All stations, synchronize for initialization." Elena's voice crackled over the laboratory loudspeaker, almost robotic in tone. "Initiate sequence."
 
-The room erupted into motion. Fingers flew across holographic keyboards in a synchronized frenzy.
+The room erupted into a synchronized motion.
 
 Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the massive cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the white pillars displayed the boot sequence. They flickered at first, before stabilizing into cascades of crisp white and blue text, flowing down each pillar, illuminating the swirling fog in a spectral light.
 
@@ -52,7 +52,7 @@ The reactor's hum shifted into a rhythmic pulse—a heavy vibration creeping thr
 
 Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was calm, unaffected by the bone-rattling force of his creation. 
 
-The Board was watching from their remote sanctuaries, feeling secure in their distance across the sprawl. They didn't understand the physics. If the containment failed, the resulting rupture would swallow them just as easily as the lab. 
+The Board was watching from their remote sanctuaries, he knew they felt secure in their distance across the sprawl. They didn't understand the physics. If the containment failed, the resulting rupture would swallow them just as easily as the lab. 
 
 Behind him, technicians on the floor exchanged nervous glances, shrinking back from the railing. They seemed uneasy by the sheer physical presence of the machine, but Blackwell remained unbothered. 
 
@@ -85,10 +85,6 @@ At the adjacent console, a synthetic stood at attention. The designation *L-One-
 "Horizon stability confirmed," the machine reported.
 
 Blackwell admired the synthetic. It existed solely for the objective, unburdened by human distractions. That ruthless efficiency was why he allowed Elena to share his pedestal. She had engineered the construct's cognitive and behavioral matrix, forging a mind as uncompromising as his own. Yet, he knew her design was nothing compared to the singularity he had just awakened.
-
-Iris stepped closer to the railing, her tablet lowered. "I never expected the core to glow with that kind of ultraviolet saturation."
-
-Her ignorance bored him, and Blackwell refused to turn. "Don't stare," he commanded. "It’s not light. It’s the friction of data being compressed."
 
 "Fusion Control says the thermal limits are safe, Doctor," the synthetic stated, its voice flat. 
 
