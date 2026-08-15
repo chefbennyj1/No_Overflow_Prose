@@ -40,9 +40,9 @@ Above the primary consoles, a massive display flickered to life. The encrypted f
 
 Blackwell didn't bother to look back at the screen or at Elena, keeping his gaze fixed on the dormant core below. "Very well, Miss Marlowe," he murmured. "Give them a show."
 
-Elena didn't blink. She remained where she was, her posture shifting from subordinate to commander as she leaned into microphone of the control room.  There was a quick succession of two tones  over the speaker system. Several other technicians in white coats looked up from their consoles.
+Elena didn't blink. She remained where she was, her posture shifting from subordinate to commander as she leaned into the microphone of the control room.  There was a quick succession of two tones over the speaker system. Several technicians in white coats looked up from their consoles.
 
-"All stations, synchronize for initialization." Elena's voice crackled over the laboratory loudspeaker, almost robotic. "Initiate sequence."
+"All stations, synchronize for initialization." Elena's voice reverberated in a  crackle over the laboratory loudspeaker, almost robotic. "Initiate sequence."
 
 The room erupted into a synchronized motion.
 
