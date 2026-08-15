@@ -22,7 +22,7 @@ Harper didn't stop her. She shut the door, working the three deadbolts, a heavy 
 
 Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a beat before it left her in a thin stream. "How corporate are we talkin'?"
 
-"Saito Takeda Renewal Agents." Rin stripped off her soaked jacket, revealing a black tank and an arm's length of faded black ink. She threw the jacket over the arm of a beaten green sofa. "They were waiting at my apartment."
+"Takeda-Holden Renewal Agents." Rin stripped off her soaked jacket, revealing a black tank and an arm's length of faded black ink. She threw the jacket over the arm of a beaten green sofa. "They were waiting at my apartment."
 
 Harper let the rest of the smoke go slow, her eyes dropping to the floor. The heat of the room pressed in, a close warmth that had nowhere to go. The air smelled of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in black coils. It was a wreck, but Rin knew to Harper it was a fortress.
 
@@ -64,7 +64,7 @@ Rin heard her muttering to herself as she read.
 
 "Just a little more than power routing keys, Rin." Something shifted in Harper's face.
 
-"I know. The terminal was rendering a wireframe of a Saito Takeda tower. It matched a building right out—"
+"I know. The terminal was rendering a wireframe of a Takeda-Holden tower. It matched a building right out—"
 
 "This isn't a building." The blue glow of the monitors leached the warmth out of her. "It's a map of an artificial neural network, scaled to the size of a skyscraper. The sheer mass of it... this isn't just a... Jesus, look at this. It's a singularity."
 

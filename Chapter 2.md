@@ -1,6 +1,6 @@
   Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers"—the massive arcologies of the city. Looking up from the flooded streets invited vertigo. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. The atmosphere was bitter, and thick with exhaust. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. Only the canners walked barefaced. The freezing rain beaded off their synthetic skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
 
-  Rising from the center of the old buildings was a Company data hub. Unlike the rusted slums surrounding it, the monolith structure was a pristine slab of mirrored, black glass. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Saito Takeda*. 
+  Rising from the center of the old buildings was a Company data hub. Unlike the rusted slums surrounding it, the monolith structure was a pristine slab of mirrored, black glass. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*. 
   
   Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, a lone figure stood in the sterile hallway, pulling wires from an office's magnetic lock. 
 
@@ -16,7 +16,7 @@ As she crossed the center of the office, the room's massive window flared to lif
 
 She didn't admire the view. The telemetry data streaming across the glass represented sheer excess—idle processing power that could keep the Dead Circuits heated through the winter. Rin pulled a black single-board controller from her jacket, jamming its connection wire into the main console. 
 
-The terminal awoke, projecting a secure Saito Takeda Corporation login screen in stark text. 
+The terminal awoke, projecting a secure Takeda-Holden Corporation login screen in stark text. 
 
 Her fingers moved across the mechanical keyboard. *Hello Company employee: RD001, S. Blackwell.*
 
@@ -56,7 +56,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each pr
 
 "If we don't have a heart attack first," Harlan muttered, pushing off the railing to keep up. 
 
-"We have to intercept Null before Corporate Renewal does," Victor said, his gaze fixed on the landing above. "If Saito Takeda finds them first, months of work will have been for nothing. "
+"We have to intercept Null before Corporate Renewal does," Victor said, his gaze fixed on the landing above. "If Takeda-Holden finds them first, months of work will have been for nothing. "
 
 Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a massive revolver that looked like a relic from another century. Its augmented magnetic rails hummed with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
 
@@ -118,7 +118,7 @@ Victor remained silent for a moment, his red, bloodshot eyes fixed on the heavy 
 
 "I did," Victor said, finally catching his breath.
 
-Before Harlan could say another word, the heavy, synchronized thud of tactical boots echoed up the stairwell. A squad of Saito Takeda Renewal Agents marched onto the landing. They moved with terrifying, mechanical precision, clad in sleek, form-fitting black tactical armor. 
+Before Harlan could say another word, the heavy, synchronized thud of tactical boots echoed up the stairwell. A squad of Takeda-Holden Renewal Agents marched onto the landing. They moved with terrifying, mechanical precision, clad in sleek, form-fitting black tactical armor. 
 
 Harlan grabbed Victor’s arm, his voice dropping to a harsh whisper. "Victor... they just climbed fifteen flights. They aren't even breathing."
 

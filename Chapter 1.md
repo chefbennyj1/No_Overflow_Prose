@@ -1,8 +1,8 @@
 Silas Blackwell took a drag from his cigarette, the ember flaring against the dawn. He was an erratic figure; a mop of white hair blew untamed in the morning wind, contrasting with the sharp lines of his dark collared shirt and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He kept his expression purposefully unreadable behind a pair of circular dark glasses. Despite the calculated perfection required of his station, the cigarette held between his tobacco-stained fingers betrayed an obsessive energy. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
-He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Saito Takeda Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
+He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He exhaled, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no sprawling billboards up here; the corporate elite didn't need to be sold. The only illumination came from floating holographic displays, streaming diagnostics in silence. The polished walkways were empty, this early. The peak of Oshima City wasn't a metropolis; it was a sleeping monster, ready to awake.
+The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He exhaled, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no sprawling billboards up here; the corporate elite didn't need to be sold. The only illumination came from floating holographic displays, streaming diagnostics in silence. The polished walkways were empty, this early. The peak of New Veridia wasn't a metropolis; it was a sleeping monster, ready to awake.
 
 There was no need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
@@ -14,7 +14,7 @@ Elena Marlowe stood in the threshold, framed by the cool glow of the massive hol
 
 Blackwell raised the cigarette to his lips one last time, inhaling until the cherry burned close to the filter. He held the smoke in his lungs for a long second, then exhaled and dropped the butt over the edge of the railing.
 
-The spent cigarette vanished into the abyss. To Blackwell, the fog was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the Dead Circuts. He knew what lived down there amongst the ruin, beneath the mist: a tangle of failing grids, and the millions scurrying amongst the decrepit buildings. Noise beneath the system.
+The spent cigarette vanished into the abyss. To Blackwell, the fog was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the Dead Circuits—the crushed remains of Oshima. Decades ago, Takeda-Holden hadn't bothered to demolish the slums; they simply poured the concrete for New Veridia directly on top of them. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the monster.
 
 Blackwell turned and walked past Elena and into the lab. The air inside vibrated with a hum—the terrifying reality of the city's reactor channeling into the floor beneath their feet.
 
@@ -36,7 +36,7 @@ Above the primary consoles, a massive display flickered to life. The encrypted f
 
 "Perfect," Blackwell murmured, his lip curling into a sinister smile, "Just what we need. Extra eyes."
 
-"The Saito Takeda Corporation expects success today, Blackwell." a synthesized voice echoed from the grid.
+"The Takeda-Holden Corporation expects success today, Blackwell." a synthesized voice echoed from the grid.
 
 Blackwell didn't bother to look back at the screen or at Elena, keeping his gaze fixed on the dormant core below. "Very well, Miss Marlowe," he murmured. "Give them a show."
 
@@ -60,7 +60,7 @@ Elena stepped up to the railing, studying a datapad in her hand, her tense postu
 
 "Of course they were," Blackwell murmured, the unlit cigarette bobbing between his lips.
 
-On the immense display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval—or at least, predatory interest—emanated from the feed. The Saito Takeda Corporation was watching their investment come to life. Beside him, Elena stiffened under the executive gaze. To her, this was just a performance.
+On the immense display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval—or at least, predatory interest—emanated from the feed. The Takeda-Holden Corporation was watching their investment come to life. Beside him, Elena stiffened under the executive gaze. To her, this was just a performance.
 
 "Doctor Blackwell. Ma'am." 
 

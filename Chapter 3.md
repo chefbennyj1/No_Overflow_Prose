@@ -4,7 +4,7 @@ Rin walked with her head down, the collar of her heavy leather jacket pulled up 
 
 Veering away from the main thoroughfare, Rin stepped under the dripping, corrugated awning of a derelict electronics shop to escape the downpour. The storefront was heavily barred, an iron cage protecting a graveyard of obsolete technology. Behind the rain-streaked glass, a dozen vintage, bulky television sets were stacked haphazardly atop one another. They were all tuned to the same channel, illuminating the slick street a flickering, sickly blue. On every screen, the identical, impassive face of a corporate anchorwoman delivered the evening broadcast. 
 
-"—officials continue investigating an early morning unauthorized data breach at the Saito Takeda data hub," the anchorwoman’s modulated voice buzzed through a blown-out speaker above the door. "Renewal Agents are conducting authorized sweeps through several lower-city districts —"
+"—officials continue investigating an early morning unauthorized data breach at the Takeda-Holden data hub," the anchorwoman’s modulated voice buzzed through a blown-out speaker above the door. "Renewal Agents are conducting authorized sweeps through several lower-city districts —"
 
 Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *They wouldn't care about stolen routing keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning.
 
@@ -49,7 +49,7 @@ The man snatched the drive up. Without looking at Rin, he turned and presented i
 
 Madame Filament took it with her skeletal, ring-adorned hand. She turned it over, a grim smile pulling at the deep lines around her mouth. 
 
-"It seems you have a small issue of the Renewal following you down here, Rin," the old woman rasped, her voice like grinding stones, exhaling a thin stream of smoke. "When I control the routing, the district stops paying Saito Takeda for the privilege of freezing in the dark."
+"It seems you have a small issue of the Renewal following you down here, Rin," the old woman rasped, her voice like grinding stones, exhaling a thin stream of smoke. "When I control the routing, the district stops paying Takeda-Holden for the privilege of freezing in the dark."
 
 "I hope so," Rin said aloud.
 
@@ -67,7 +67,7 @@ The light on the elevator panel hit her floor. The doors parted.
 
 Rin started to step out, and froze. 
 
-Standing directly in front of the open door, waiting for the lift, were two Saito Takeda Renewal Agents in their black tactical armor. Down the hall behind them, a frail old man was zip-tied and kneeling on the dirty floor outside his apartment, his face bruised as his meager belongings were tossed into the corridor. 
+Standing directly in front of the open door, waiting for the lift, were two Takeda-Holden Renewal Agents in their black tactical armor. Down the hall behind them, a frail old man was zip-tied and kneeling on the dirty floor outside his apartment, his face bruised as his meager belongings were tossed into the corridor. 
 
 Rin slammed her hand against the elevator's 'Close Door' button, stepping backward into the car. 
 

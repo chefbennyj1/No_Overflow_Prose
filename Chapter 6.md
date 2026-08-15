@@ -24,7 +24,7 @@ Victor knew the name. He knew her contributions had revolutionized the current g
 
 "Because the Company buried her down there to build... whatever this thing is," Victor replied.
 
-Harlan shifted in his seat, his posture relaxing. "Well, there's our answer. Saito Takeda private data... That's a Renewal Agent's job. Let them deal with the headache." 
+Harlan shifted in his seat, his posture relaxing. "Well, there's our answer. Takeda-Holden private data... That's a Renewal Agent's job. Let them deal with the headache." 
 
 A second later, Harlan tensed, visibly realizing what he had just suggested to his partner.
 

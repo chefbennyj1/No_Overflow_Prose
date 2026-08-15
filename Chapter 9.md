@@ -1,4 +1,4 @@
-The Saito Takeda annex was an imposing monument to corporate wealth, a forty-story Brutalist atrium of polished concrete and sheer glass that made the Upper Grid feel like the center of the universe. 
+The Takeda-Holden annex was an imposing monument to corporate wealth, a forty-story Brutalist atrium of polished concrete and sheer glass that made the Upper Grid feel like the center of the universe. 
 
 Victor Graves hated it. 
 
@@ -10,7 +10,7 @@ He pushed through the heavy glass doors, his wet trench coat dripping onto the p
 
 Heavily armored Renewal agents stood like statues near the turnstiles, their glossy black helmets reflecting the cold light of the atrium. Behind the polished mahogany desk sat an HR-22 synthetic. It wore a crisp concierge uniform, its posture flawlessly straight. As Victor approached, the faint traces of blue light shimmering through its fiber-optic hair caught his attention. 
 
-"Good morning, gentlemen," the synthetic said. Its voice was smooth, engineered to be disarming. "Welcome to the Saito Takeda Corporation. How may I direct your inquiry?"
+"Good morning, gentlemen," the synthetic said. Its voice was smooth, engineered to be disarming. "Welcome to the Takeda-Holden Corporation. How may I direct your inquiry?"
 
 Victor didn't slow down. He pulled his Oshima Police Department badge from his coat and slammed it flat against the mahogany wood. 
 

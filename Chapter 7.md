@@ -34,7 +34,7 @@ She glanced out through the glass. Unlike the lower terraces where Blackwell pre
 
 Elena turned away from the glass and approached the main concourse. 
 
-The Saito Takeda corporate annex was a masterclass in sterile intimidation. Elena exited the sky-bridge, stepping out onto a suspended walkway midway up a cavernous, forty-story atrium. Sharp, geometric angles of polished concrete soared above and plunged below her, lined with endless tiers of glass-fronted corporate offices. 
+The Takeda-Holden corporate annex was a masterclass in sterile intimidation. Elena exited the sky-bridge, stepping out onto a suspended walkway midway up a cavernous, forty-story atrium. Sharp, geometric angles of polished concrete soared above and plunged below her, lined with endless tiers of glass-fronted corporate offices. 
 
 Heavily armored Renewal agents patrolled the lower levels while silent synthetics stood at the security checkpoints, watching without moving. A synthetic dressed in a concierge uniform—traces of blue light shimmering through its optic hair—greeted her by name as she passed. Elena didn't break stride, moving through the turnstiles with practiced authority, her heels clicking sharply against the polished concrete. 
 
