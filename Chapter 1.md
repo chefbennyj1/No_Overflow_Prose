@@ -52,7 +52,7 @@ The reactor's hum shifted into a rhythmic pulse—a heavy vibration creeping thr
 
 Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was calm, unaffected by the bone-rattling force of his creation. 
 
-The Board was watching from their remote sanctuaries, he knew they felt secure in their distance across the sprawl. They didn't understand the physics. If the containment failed, the resulting rupture would swallow them just as easily as the lab. 
+The Board watched from their remote sanctuaries, confident that distance would protect them. They didn't understand the physics. If the containment failed, the resulting rupture would swallow them just as easily as the lab. 
 
 Behind him, technicians on the floor exchanged nervous glances, shrinking back from the railing. They seemed uneasy by the sheer physical presence of the machine, but Blackwell remained unbothered. 
 
