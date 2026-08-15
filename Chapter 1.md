@@ -12,15 +12,15 @@ Elena Marlowe stood in the threshold, framed by the cool glow of the massive hol
 
 "Yes, Doctor Blackwell," she replied. Her golden eyes caught the reflection of the cascading data streams—striking, but Blackwell viewed them as precision corporate engineering. "The Mnemosyne Engine is connected to the city's main fusion reactor. You have three hundred and twenty terawatts at your disposal."
 
-Blackwell raised the cigarette to his lips one last time, inhaling until the cherry burned close to the filter. He held the smoke in his lungs for a long second, then exhaled and dropped the butt over the edge of the railing.
+Blackwell raised the cigarette to his lips one last time, inhaling until the end burned close to the filter. He held the smoke in his lungs for a long second, then exhaled and dropped the butt over the edge of the railing.
 
-The spent cigarette vanished into the abyss. To Blackwell, the fog was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the Dead Circuits—the crushed remains of Oshima. Decades ago, Takeda-Holden hadn't bothered to demolish the slums; they simply poured the concrete for New Veridia directly on top of them. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the monster.
+The spent cigarette vanished into the abyss. To Blackwell, the fog was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the Dead Circuits—the crushed remains of Oshima. Decades ago, Takeda-Holden hadn't bothered to demolish the slums; they simply poured the concrete for New Veridia directly on top of them. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
 Blackwell turned and walked past Elena and into the lab. The air inside vibrated with a hum—the terrifying reality of the city's reactor channeling into the floor beneath their feet.
 
 Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. The constructs worked with rigid efficiency, anchoring the chaotic energy of the room. Blackwell approached the reinforced railing that encircled the center of the pit. Gripping the cold metal, he looked down.
 
-Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was housed deep within the tower's core. What ascended through the builds spine, and protruded into this observation chamber was a cluster of stark white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
+Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was housed deep within the tower's core. What ascended through the building's spine, and protruded into this observation chamber was a cluster of stark white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
 
 The floor of the engine pit was constructed of white paneling, though it was obscured. A heavy layer of fog rolled across the base of the pillars, breaking against the stark geometry like silent rapids before cascading over the edges like a waterfall. The air at the center of the array was bitter cold, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
 
@@ -40,9 +40,9 @@ Above the primary consoles, a massive display flickered to life. The encrypted f
 
 Blackwell didn't bother to look back at the screen or at Elena, keeping his gaze fixed on the dormant core below. "Very well, Miss Marlowe," he murmured. "Give them a show."
 
-Elena didn't blink. She remained where she was, her posture shifting from subordinate to commander as she projected her voice across the sprawling floor of the control room. Several other technicians in white coats looked up from their consoles.
+Elena didn't blink. She remained where she was, her posture shifting from subordinate to commander as she leaned into microphone of the control room.  There was a quick succession of two tones  over the speaker system. Several other technicians in white coats looked up from their consoles.
 
-She leaned into the speaker system microphone. "All stations, synchronize for initialization." Elena's voice crackled over the laboratory loudspeaker, almost robotic. "Initiate sequence."
+"All stations, synchronize for initialization." Elena's voice crackled over the laboratory loudspeaker, almost robotic. "Initiate sequence."
 
 The room erupted into a synchronized motion.
 
@@ -54,7 +54,7 @@ Blackwell’s smile widened. He watched the data stream, entranced by the magnit
 
 The Board watched from their remote sanctuaries, confident that distance would protect them. They didn't understand the physics. If the containment failed, the resulting rupture would swallow them as easily as the lab. 
 
-Behind him, technicians on the floor exchanged nervous glances, shrinking back from the railing. They seemed uneasy by the sheer physical presence of the machine, but Blackwell remained unbothered. 
+Behind him, technicians on the floor exchanged nervous glances, shrinking back from the railing. They seemed unnerved by the sheer physical presence of the machine, but Blackwell remained unbothered. 
 
 Elena stepped up to the railing, studying a datapad in her hand, her tense posture relaxing just a fraction. "The initialization sequence is holding steady," she said, a rare note of satisfaction bleeding into her voice. She stepped closer to him, so only he could hear, "The containment calculations were flawless, Silas. You calculated activation. Congratulations."
 
@@ -64,9 +64,9 @@ On the immense display above the floor, the grid of silhouettes leaned forward. 
 
 "Doctor Blackwell. Ma'am." 
 
-The hushed voice interrupted the moment. A junior technician scurried up behind them, not looking up from the glowing datapad in her hands. She was a stark contrast to the sterile perfection of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
+The hushed voice interrupted the moment. Iris, a junior technician, scurried up behind them, not looking up from the glowing datapad in her hands. She was a stark contrast to the sterile perfection of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
 
-"Ma'am, local space-time..," Iris stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. "It's ..." She paused, her focus visibly fragmenting for a second, then continued. "...a mass-displacement anomaly. A severe fluctuation in the event horizon. The power dra—"
+"Ma'am, local space-time..," Iris stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. "It's ..." She paused, her focus visibly fragmenting for a second, then continued. "...a mass-displacement anomaly. A severe fluctuation in the event horizon."
 
 Elena spun around. She cast a quick glance up at the Board's display—a fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
 
