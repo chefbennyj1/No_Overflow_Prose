@@ -30,7 +30,7 @@ Bracing his weight against the railing, he leaned forward, his reflection distor
 
 A humorless breath fogged the glass. "I'm building a monument. Harnessing my singularity."
 
-"Doctor Blackwell. Silas." Elena's voice interrupted, a note of warning creeping into her tone. "The board just dialed in."
+"Doctor Blackwell. Silas." Elena's voice interrupted, a note of warning creeping into her tone. "The board dialed in."
 
 Above the primary consoles, a massive display flickered to life. The encrypted feed partitioned the screen into a grid of digital monitors. Each square displayed nothing but the featureless silhouette of a corporate executive.
 
@@ -42,7 +42,7 @@ Blackwell didn't bother to look back at the screen or at Elena, keeping his gaze
 
 Elena didn't blink. She remained where she was, her posture shifting from subordinate to commander as she projected her voice across the sprawling floor of the control room. Several other technicians in white coats looked up from their consoles.
 
-She leaned into the speaker system microphone. "All stations, synchronize for initialization." Elena's voice crackled over the laboratory loudspeaker, almost robotic in tone. "Initiate sequence."
+She leaned into the speaker system microphone. "All stations, synchronize for initialization." Elena's voice crackled over the laboratory loudspeaker, almost robotic. "Initiate sequence."
 
 The room erupted into a synchronized motion.
 
@@ -52,7 +52,7 @@ The reactor's hum shifted into a rhythmic pulse—a heavy vibration creeping thr
 
 Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was calm, unaffected by the bone-rattling force of his creation. 
 
-The Board watched from their remote sanctuaries, confident that distance would protect them. They didn't understand the physics. If the containment failed, the resulting rupture would swallow them just as easily as the lab. 
+The Board watched from their remote sanctuaries, confident that distance would protect them. They didn't understand the physics. If the containment failed, the resulting rupture would swallow them as easily as the lab. 
 
 Behind him, technicians on the floor exchanged nervous glances, shrinking back from the railing. They seemed uneasy by the sheer physical presence of the machine, but Blackwell remained unbothered. 
 
