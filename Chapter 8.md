@@ -92,7 +92,7 @@ Rin leaned closer. The terminal was scrolling:
 **[NovOS Kernel] Unexpected syscall from PID 0x1A4F**
 **[VIGIL_CLIENT]**
 
-"Vigil client?" Harper didn't reach for her collarbone. Her hand stayed flat against the desk, knuckles pale against the black glass. "It's messaging us."
+"Vigil client?" Harper didn't reach for her collarbone. Her hand stayed flat against the desk. "It's messaging us."
 
 Rin felt a nervous laugh catch in her throat as new text printed across the black screen:
 
