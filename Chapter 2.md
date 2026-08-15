@@ -100,7 +100,7 @@ Victor dropped to one knee, coughing as the acrid chemical burned his sensitive 
 
 Through the haze, a lithe, feminine silhouette emerged. Backlit by the blue light of the office, refracting through the fog and stretching into long rays around her. 
 
-Before Victor could blink through the pain and adjust his aim, she was moving. She didn't engage. She simply slipped past them like a ghost, sprinting down the sterile corridor. 
+Before Victor could blink through the pain and adjust his aim, she was moving. She didn't engage. Slipping past them like a ghost, sprinting down the sterile corridor. 
 
 "She's running!" Harlan choked out, stumbling blindly against the hallway wall. 
 
