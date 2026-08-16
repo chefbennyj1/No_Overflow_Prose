@@ -8,7 +8,7 @@ There was no need to turn around to know he was no longer alone. The faint hiss 
 
 "Are we ready, Miss Marlowe?" Blackwell asked, his voice calm, carrying over the wind.
 
-Elena Marlowe stood in the threshold, framed by the cool glow of the massive holographic displays inside. She was an imposing presence, her lab coat a stark contrast against the dark server racks of the control room. Her natural hair framed a face set in unyielding focus. 
+Elena Marlowe stood in the threshold, framed by the cool glow of the massive holographic displays inside. She was an imposing presence, her lab coat a stark contrast against the dark atrium behind her. Her natural hair framed a face set in unyielding focus. 
 
 "Yes, Doctor Blackwell," she replied. Her golden eyes caught the reflection of the cascading data streams—striking, but Blackwell viewed them as precision corporate engineering. "The Mnemosyne Engine is connected to the city's main fusion reactor. You have three hundred and twenty terawatts at your disposal."
 
@@ -16,11 +16,13 @@ Blackwell raised the cigarette to his lips one last time, inhaling until the end
 
 The spent cigarette vanished into the abyss. To Blackwell, the fog was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the Dead Circuits—the crushed remains of Oshima. Decades ago, Takeda-Holden hadn't bothered to demolish the slums; they simply poured the concrete for New Veridia directly on top of them. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
-Blackwell turned and walked past Elena and into the lab. The air inside vibrated with a hum—the terrifying reality of the city's reactor channeling into the floor beneath their feet.
+Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The cavernous annex was a masterclass in sterile intimidation. Sharp, geometric angles of polished concrete soared above and plunged below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping them dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
+
+When the doors parted, the air inside the lab vibrated with a hum—the terrifying reality of the city's reactor channeling into the floor beneath their feet.
 
 Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. The constructs worked with rigid efficiency, anchoring the chaotic energy of the room. Blackwell approached the reinforced railing that encircled the center of the pit. Gripping the cold metal, he looked down.
 
-Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was housed deep within the tower's core. What ascended through the building's spine, and protruded into this observation chamber was a cluster of stark white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
+Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep within the earth. What ascended through the facility's foundation, and protruded into this observation chamber was a cluster of stark white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
 
 The floor of the engine pit was constructed of white paneling, though it was obscured. A heavy layer of fog rolled across the base of the pillars, breaking against the stark geometry like silent rapids before cascading over the edges like a waterfall. The air at the center of the array was bitter cold, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
 

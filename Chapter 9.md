@@ -10,42 +10,70 @@ Harlan gripped the door handle, knuckles pale. "You know they make cars that don
 
 "So... you expect to just walk into a corporate tower, flash a badge, and talk to Takeda-Holden's top researcher?"
 
-"Yeah." Victor banked onto the elevated approach feeding into the spires. "That's the plan."
+"Yeah." Victor banked onto the elevated approach feeding into the Towers. "That's the plan."
 
 The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed. Victor brought it to rest outside the tower's entrance, the headlights dimming to black, the hum settling into silence.
 
 The Takeda-Holden annex was an imposing monument to corporate wealth, a forty-story Brutalist atrium of polished concrete and sheer glass that made the Upper Grid feel like the center of the universe. 
 
-Victor Graves hated it. 
+Victor Graves hated it. He pushed through the heavy glass doors, his wet trench coat dripping onto the pristine marble floor. 
 
-He pushed through the heavy glass doors, his wet trench coat dripping onto the pristine marble floor. Harlan walked a half-step behind him, his eyes scanning the cavernous space. Above them, suspended walkways crisscrossed the atrium, connecting tiers of glowing offices. 
+***
 
-"I feel underdressed," Harlan muttered, adjusting the collar of his suit. 
+Three floors up, Iris gripped the steel railing of a suspended walkway so hard her knuckles turned white. 
 
-"You look fine," Victor said, his red eyes locked on the security checkpoint ahead. 
+Her heart hammered against her ribs, a frantic rhythm that hadn't slowed since Doctor Blackwell initiated the Mnemosyne Engine. She clutched a glowing datapad to her chest, the screen locked on the encrypted, copied terminal logs. The physics were breaking down in the lab. The machine was doing something impossible, and no one was stopping it. 
 
-Heavily armored Renewal agents stood like statues near the turnstiles, their glossy black helmets reflecting the cold light of the atrium. Behind the polished mahogany desk sat an HR-22 synthetic. It wore a crisp concierge uniform, its posture flawlessly straight. As Victor approached, the faint traces of blue light shimmering through its fiber-optic hair caught his attention. 
+She needed to get the data out. But she couldn't just walk out the front door. The atrium below was crawling with armored Renewal Agents, their black helmets reflecting the sterile light. If they searched her, she would disappear.
 
-"Good morning, gentlemen," the synthetic said. Its voice was smooth, engineered to be disarming. "Welcome to the Takeda-Holden Corporation. How may I direct your inquiry?"
+Then, the heavy glass doors on the ground floor slid open. 
 
-Victor didn't slow down. He pulled his Oshima Police Department badge from his coat and slammed it flat against the mahogany wood. 
+Iris looked down. Two men walked into the cavernous atrium, instantly disrupting the sterile corporate aesthetic. One wore a soaked trench coat; the other, a slightly rumpled charcoal suit. They didn't move like corporate executives. They moved like predators entering hostile territory.
 
-"Detectives Graves and Harlan," Victor said. His voice was hard, carrying none of the synthetic's programmed warmth. "We're here to see Doctor Silas Blackwell."
+The acoustics of the Brutalist atrium carried their voices upward.
 
-The synthetic’s optical sensor whirred softly, a ring of blue light expanding as it scanned the badge. "I apologize, Detective Graves, but Doctor Blackwell does not have any scheduled appointments today. If you would like, I can leave a message with his administrative—"
+"Oh look… a corporate canner," the man in the suit muttered, adjusting his collar. "Why do they make them look so human?"
 
-"This isn't an appointment," Victor interrupted, leaning over the desk. "This is an active investigation into a breach of municipal infrastructure. Now, you can either page him and tell him we're coming down, or I can start arresting Renewal agents for obstruction. Your choice."
+"Don't know, Harlan," the man in the trench coat replied, his voice a low, hard rasp. "Never trusted them."
 
-The synthetic stared at him, its processor silently weighing the threat against corporate protocol. A second later, the turnstiles chimed, the heavy glass gates sliding open. 
+Iris's breath caught. Oshima Police. Cops, from the lower grid. 
 
-"Doctor Blackwell is in the subterranean Mnemosyne Laboratory," the synthetic said smoothly, betraying no frustration. "Please use the executive elevator."
+She looked at the datapad in her hands, then back down at the two detectives marching toward the security checkpoint. It was her only chance. 
 
-Victor snatched his badge off the desk. "Appreciate the hospitality."
+Iris broke into a sprint toward the executive elevator.
 
-Harlan let out a low whistle as they walked through the gates. "You really know how to make friends, Vic."
+***
 
-"I'm not here to make friends," Victor said, pressing the call button for the elevator. "Null breached Blackwell's terminal fifteen floors up, bypassed military-grade ICE, and stole highly classified data. Blackwell knows why he was targeted. He's just hoping the police are too stupid to put the pieces together."
+Harlan walked a half-step behind Victor, his eyes scanning the cavernous space. Heavily armored Renewal agents stood like statues near the turnstiles. Behind a polished mahogany desk sat an HR-33 synthetic. It wore a crisp concierge uniform, its posture flawlessly straight. Faint traces of blue light shimmered through its fiber-optic hair.
 
-The elevator doors parted silently. Victor stepped inside, his jaw set tight. 
+The synthetic’s optical sensor whirred softly, a ring of blue light expanding rapidly to map their faces. Before Victor even reached the desk, the synthetic was staring. 
 
-"Let's see how smart Doctor Blackwell really is."
+"Good morning, Detective Graves. Officer Harlan," it said, its voice smooth and engineered to be disarming. "Welcome to the Takeda-Holden Corporation."
+
+Harlan froze, shooting a sideways glance at Victor. The synthetic had scanned and identified them through the glass doors.
+
+Victor didn't slow down. He pulled his Oshima Police Department badge from his coat and slammed it flat against the wood anyway. 
+
+"We're here to speak with Doctor Silas Blackwell," Victor said. His voice was hard, carrying none of the machine's programmed warmth. "We have reason to believe he has information relevant to an ongoing investigation."
+
+The synthetic's expression didn't waver. "Doctor Blackwell? I'm sorry... there's no one by that name on the current employee registry."
+
+"Nice try, Logic-Gate. Your script is showing," Victor interrupted, leaning over the desk. "We pulled terminal records from the night of the breach. Blackwell's name is all over them."
+
+"Jesus, Victor," Harlan muttered, nervously eyeing the armed guards by the turnstiles. "Don't antagonize the synthetic."
+
+"I'm not playing games," Victor said. "Where's Blackwell? I know he's got a lab in this building, and an office downtown. Page him."
+
+The synthetic stared at him, processing. "Terminal logs? I see... there have been errors in our redaction department." Its eyes flashed. "Detective, there is a Doctor Blackwell on staff. However, Doctor Blackwell doesn't take personal meetings."
+
+"Save it, Canner."
+
+"I am a Synthetic, Detective. Designation Human Relations dash 33, not a 'Canner'," the receptionist replied, the warmth finally dropping from its tone. "Perhaps one of our Renewal Agents could help escort you back to your vehicle now?"
+
+The synthetic's eyes flared an icy blue as it tapped into the internal comms. "HR-33, Entrance 001 please send Renewa—"
+
+"That won't be necessary, 33." 
+
+The voice cut the synthetic off mid-sentence. Victor turned to see a young woman stepping out of an executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. 
+
+"The detectives are with me," she said, holding up a glowing datapad. She didn't look at the Renewal Agents, who remained statuesque at their posts. She looked directly at Victor, her eyes wide with a poorly concealed terror. "This way, gentlemen. We don't have much time."

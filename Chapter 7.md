@@ -32,9 +32,7 @@ Thirty floors above, Elena Marlowe walked alone across a high-altitude pedestria
 
 She glanced out through the glass. Unlike the lower terraces where Blackwell preferred to break, this sector was a marvel of pristine order. Sprawling towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
 
-Elena turned away from the glass and approached the main concourse. 
-
-The Takeda-Holden corporate annex was a masterclass in sterile intimidation. Elena exited the sky-bridge, stepping out onto a suspended walkway midway up a cavernous, forty-story atrium. Sharp, geometric angles of polished concrete soared above and plunged below her, lined with endless tiers of glass-fronted corporate offices. 
+Elena turned away from the glass and approached the main concourse, exiting the sky-bridge to step out onto a suspended walkway midway up the Takeda-Holden corporate atrium. 
 
 Heavily armored Renewal agents patrolled the lower levels while silent synthetics stood at the security checkpoints, watching without moving. A synthetic dressed in a concierge uniform—traces of blue light shimmering through its optic hair—greeted her by name as she passed. Elena didn't break stride, moving through the turnstiles with practiced authority, her heels clicking sharply against the polished concrete. 
 
