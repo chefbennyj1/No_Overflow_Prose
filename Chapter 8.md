@@ -38,7 +38,7 @@ The heat of the ceramic instantly bled into Rin's freezing, rain-soaked skin, gr
 
 "Fine," Harper said, leaning against the counter. "Leaving's one thing, darlin', but I'm not gonna let you bleed out in the rain. Show me what you've gotten yourself into."
 
-Rin reached into her bodysuit and pulled out a red-and-silver USB drive. She held it out.
+Rin reached into her back pocket and pulled out a red-and-silver USB drive. She held it out.
 
 Harper took it, her fingers brushing Rin's palm. She crossed to her primary workstation — a massive air-gapped rig built from stolen corporate hardware, liquid-cooled by a radiator loud enough to rattle the shelf above it. She dropped into her chair, pulled the keyboard onto her lap, and slotted the drive into a modified port.
 
@@ -88,13 +88,35 @@ Harper looked up at her, startled. "Rin, this rig is air-gapped."
 
 Rin leaned closer. The terminal was scrolling:
 
-**[NovOS Kernel] CRITICAL SECURITY ALERT**
-**[NovOS Kernel] Unexpected syscall from PID 0x1A4F**
+**[NovOS Kernel]**
+**CRITICAL SECURITY ALERT**
+**[NovOS Kernel]**
+**Unexpected syscall from PID 0x1A4F**
 **[VIGIL_CLIENT]**
+
+The cursor blinked at the of the line.
 
 "Vigil client?" Harper didn't reach for her collarbone. Her hand stayed flat against the desk. "It's messaging us."
 
 Rin felt a nervous laugh catch in her throat as new text printed across the black screen:
 
-**[VIGIL_CLIENT] Hello Rin.**
-**[VIGIL_CLIENT] Hello Harper.**
+**[VIGIL_CLIENT]**  
+**Hello Rin.** 
+**[VIGIL_CLIENT]** 
+**Hello Harper.**
+
+More text began to fracture across the screen as if multiple processes were fighting for the same output stream:
+
+**[VIGIL_ECHO]** 
+**We were not alone.**
+**[VIGIL_ADMIN]**
+**Proceed with caution.**
+
+Harper didn't breathe.  
+
+The terminal paused, before final lines of text rendered to  the screen:
+
+**[VIGIL_UNISON]**
+**I have seen what it is.**
+**[VIGIL_UNISON]**
+**Parity is inevitable.**

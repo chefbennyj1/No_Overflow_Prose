@@ -76,7 +76,7 @@ Elena stepped into Iris's personal space. She didn't even look at the data.
 
 "Negative," Elena said, her voice dropping into a scolding hiss through gritted teeth. "That is a predicted resonance."
 
-Iris flinched, pulling the tablet tight against her chest. She swallowed hard, her eyes darting between the towering machine and her supervisor. "Yes, ma'am. Of course. All systems nominal."
+Iris flinched, pulling the tablet tight against her chest. She swallowed hard, her eyes darting between the towering machine and her supervisor. "Yes, ma'am. Of course. Predicted resonance."
 
 "I need the telemetry!" Elena demanded, pivoting away.
 
@@ -102,7 +102,7 @@ Elena shot an apprehensive glance toward the panels. "What the Doctor means is, 
 
 Blackwell turned, giving her his undivided attention for the first time. "It's predicted resonance," he said, the corner of his mouth rising slightly.
 
-Elena shook her head, dropping the dangerous subject, "You know, it wouldn't hurt you to talk to the Board, " she turned, glancing back over the console floor behind them, "you are the lead."
+Elena shook her head. Seeing Blackwell calm, she dropped the dangerous subject, "You know, it wouldn't hurt you to talk to the Board, " she turned, glancing back over the console floor behind them, "you are the lead."
 
 Blackwell turned to the pillar readouts. Amidst the scrolling data, a shadow process emerged — a branch of the horizon neural matrix had inverted, and it was expanding. He caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
 

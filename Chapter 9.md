@@ -1,3 +1,19 @@
+Victor's car cut through the rain like it had somewhere better to be — a sleek, white hull humming low over the flooded street, twin headlights flaring blue against the downpour. No tires, no drag against the asphalt, just the quiet howl of the mag-cushion holding it a hand's width above the water, fast enough that the rain never had time to land.
+
+Harlan gripped the door handle, knuckles pale. "You know they make cars that don't try to kill the passenger."
+
+"Where's the fun in that?" Victor didn't slow down.
+
+"So, this Blackwell," Harlan said, bracing against the dash as the car swung hard around a corner. "You got a face to face?"
+
+"Face to face? ... No." Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "This is our only lead on Null, and Blackwell has answers. I need to know what he knows."
+
+"So... you expect to just walk into a corporate tower, flash a badge, and talk to Takeda-Holden's top researcher?"
+
+"Yeah." Victor banked onto the elevated approach feeding into the spires. "That's the plan."
+
+The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed. Victor brought it to rest outside the tower's entrance, the headlights dimming to black, the hum settling into silence.
+
 The Takeda-Holden annex was an imposing monument to corporate wealth, a forty-story Brutalist atrium of polished concrete and sheer glass that made the Upper Grid feel like the center of the universe. 
 
 Victor Graves hated it. 

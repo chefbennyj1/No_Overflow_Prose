@@ -1,0 +1,2872 @@
+================================================================================
+SERIES: NO_OVERFLOW
+VOLUME: VOLUME-1
+EXPORTED: 7/28/2026, 11:27:52 AM
+================================================================================
+
+
+
+[ CHAPTER 1 ]
+--------------------------------------------------------------------------------
+
+PAGE: 1
+EXT.  - DAY
+LAYOUT: 4_Panel_Right_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A high-angle, vertical panoramic shot looks down into a dense chasm of imposing, monolithic megastructures connected by pedestrian skybridges, with glowing windows dotting the concrete facades as the entire scene sinks into a thick, glowing mist that obscures the city depths.
+  - .panel-B: [image]: A low-angle perspective looking down a sterile, futuristic corridor lined with massive white columns and illuminated by soft floor-level lighting, leading into a dark, mysterious void.
+  - .panel-D: [image]: A wide, cinematic shot of a massive, ring-shaped technological structure resembling a particle accelerator or fusion core, situated in the center of a vast, futuristic industrial complex under a clear, distant horizon.
+  - .panel-E: [image]: A sterile and imposing hall of towering white columns under stark industrial lighting, creating an atmosphere of cold, futuristic authority.
+  - .panel-C: [image]: A dramatic, high-contrast extreme close-up of Doctor Blackwell's deeply wrinkled face in a graphic novel style, featuring his wild white hair and circular black sunglasses against a black void, with intense, low-angle light dramatically reflecting off his glasses and casting a menacing crimson glow from the lit cigarette clenched in his grim mouth.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  Are we ready, Miss Marlowe?
+
+--------------------------------------------------------------------------------
+
+PAGE: 2
+INT. SERVER ROOM - DAY
+LAYOUT: 3_Panel_Top_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A cinematic medium close-up shot captures Elena, defined by her textured short natural hair and a sharp contrast of white lab coat over a black high-necked top, gazing intensely forward with a determined expression while holding a data tablet amidst dramatic shaft lighting in a futuristic server room.
+  - .panel-B: [image]: A low-angle, dramatic wide shot captures a high-tech chamber where towering, geometric white and dark blue columns are symmetrically arranged on a reflective floor, lit by neon blue floor panels against a dark, featureless void, evoking a cold and advanced environment.
+  - .panel-C: [image]: In a high-angle medium shot, Doctor Blackwell, wearing his characteristic white lab coat and sunglasses with his wild white hair prominent, stands on an observation balcony, gripping the railing as he looks down at a futuristic array of glowing blue cryo-tubes emitting cold mist below.
+
+SCENE:
+
+  ELENA
+  Yes, Doctor Blackwell. The Mnemosyne Engine is connected directly to the city's main fusion reactor.
+
+  ELENA
+  You have 320 terawatts at your disposal.
+
+  DOCTOR BLACKWELL
+  A drop in the bucket for what we're asking it to unearth, Miss Marlowe.
+
+--------------------------------------------------------------------------------
+
+PAGE: 3
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic close-up profile in the noir-style anime panel shows Doctor Blackwell with a stern, deeply wrinkled expression, wearing perfectly circular blacked-out sunglasses and a crisp white lab coat over a formal shirt and tie, as he takes a drag from a cigarette that emits a vibrant red glow and thin smoke against the dark background.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  The company wants better data compression, a smarter artificial intelligence ...
+
+  DOCTOR BLACKWELL
+  Heh... I'm building a monument. Harnessing my singularity. Now lets see what our little experiment is worth.
+
+--------------------------------------------------------------------------------
+
+PAGE: 4
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A close-up comic book panel featuring Doctor Blackwell with wild white hair and circular sunglasses, deeply wrinkled in a stern expression while smoking a lit cigarette against a stark black background, with sharp white light contrasting heavy shadows.
+  - .panel-B: [image]: An intense, extreme close-up comic panel of Elena, characterized by her deep shadows, determined expression, short natural hair, orange-amber eyes, lab coat, and black high-neck top, as she shouts angrily directly at the viewer against a backdrop of glowing cyan data interfaces and light tubes.
+  - .panel-C: [image]: Lab Mina and a robotic laboratory assistant stand before glowing holographic interfaces in a dark server room, their white lab coats reflecting the cool blue light of the futuristic technology.
+  - .panel-D: [image]: A tight close-up of Elena's face as she speaks with an authoritative and serious expression, her dark features framed by her white lab coat and the technological ambient light of the server farm.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  You may proceed when ready, Miss Marlowe.
+
+  ELENA
+  Ladies and gentlemen! This is NOT a test.
+
+  ELENA
+  We bring the quantum gravity acceleration online like professionals.
+
+  ELANA
+  I don't need to tell you what happens if the Mnemosyne Engine processor backfires.
+
+--------------------------------------------------------------------------------
+
+PAGE: 5
+INT. SERVER ROOM - NIGHT
+LAYOUT: 4_Panel_2_Tall
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A medium close-up shot of Elena, an animated Black woman, holding a glowing tablet in a dark, high-tech server room with spotlights, looking directly at the camera with a serious, intense expression.
+  - .panel-B: [image]: Doctor Blackwell in a white lab coat, seen from the side, holds a glowing cigarette to his lips with a stern, concentrated expression against a dark background.
+  - .panel-C: [image]: A grid of video monitors in a dimly lit control room displays various shadowed silhouettes of people, suggesting a remote board meeting or surveillance.
+  - .panel-D: [image]: In a starkly lit extreme close-up profile against a pitch-black background, Doctor Blackwell, recognizable by his white hair, wrinkled features, perfectly circular blacked-out sunglasses, and white lab coat, smiles with a cold and sinister satisfaction.
+
+SCENE:
+
+  ELENA
+  Doctor Blackwell, Silas—the board just dialed in.
+
+  DOCTOR BLACKWELL
+  Perfect. Just what we need—extra eyes.
+
+  DOCTOR BLACKWELL
+  Very well, Miss Marlowe...
+
+  BOARD_MEMBER_1
+  The Saito Takeda Corporation expects success today, Doctor Blackwell.
+
+  DOCTOR BLACKWELL
+  ...give them a show.
+
+--------------------------------------------------------------------------------
+
+PAGE: 6
+INT.  - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A cluster of towering, sterile white and dark blue monolithic structures with geometric cutouts and a base spark stand silently on a reflective floor against a black void.
+  - .panel-B: [image]: A dramatic close-up panel in a dark anime style captures Doctor Blackwell's imposing presence as he points a finger glowing with a bright cyan light directly at the viewer, maintaining a cold, stern expression behind circular sunglasses while smoking a glowing cigarette.
+  - .panel-C: [image]: Doctor Blackwell leans over a glowing holographic table, his finger pressing down on a circular interface that emits a bright blue light, his reflection visible in the dark surface of the console.
+  - .panel-D: [image]: A tight shot of Doctor Blackwell's hand as he activates a complex holographic control panel, the blue light illuminating his white lab coat and casting long shadows in the darkened room.
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+PAGE: 7
+INT.  - NIGHT
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dark digital entity, matching the definition of Parity with its featureless metallic face and bioluminescent blue details, hovers ominously at the far end of a complex, infinite data tunnel while projecting intense blue energy beams and particle effects.
+  - .panel-B: [image]: A low-angle, cinematic shot reveals multiple sleek white data towers within a dimly lit server room, where the prominent central pillar activates, displaying "Mnemosyne Engine: Online" in glowing magenta and blue code through a clear interface window, casting reflections on the reflective floor.
+  - .panel-C: [image]: No description available.
+
+SCENE:
+
+  LAB_ANDROID
+  A Novel Mnemonic Gravity Well detected.
+
+--------------------------------------------------------------------------------
+
+PAGE: 8
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Against a background of cold blue mist, multiple futuristic white server towers stand on a reflective blue-lit floor, their central screens displaying complex purple and pink data and text stating 'Mnemosyne Engine: Online' in a low-angle shot.
+  - .panel-B: [image]: A striking, symmetrical extreme close-up centers on The Vigil, her luminous white bob and intensely glowing blue eyes commanding attention as her expression remains neutral and focused, with distinct mechanical plating, a "L-12" tattoo on her cheek, and dramatic blue backlighting defining her advanced artificial form against a dark void.
+
+SCENE:
+
+  LAB_ANDROID
+  Spatial coordinates are locking.
+
+--------------------------------------------------------------------------------
+
+PAGE: 9
+INT.  - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Mina stands holding a glowing digital tablet and gazing intensely with her glowing violet eyes behind round glasses, her focused expression and gold hoop earrings highlighted by dramatic backlighting and an angled spotlight from behind against a dark background in a medium-front cinematic shot.
+  - .panel-B: [image]: In a dramatic medium close-up lit by two harsh spotlights from behind, Mina whispers nervously with a hand raised to her mouth, sweating visibly with a wide-eyed, distressed expression as she peers through her glasses.
+  - .panel-C: [image]: In a close-up, high-angle composition, Elena, exhibiting a strained and desperate expression with narrowed golden-brown eyes and heavy sweat on her dark skin, is illuminated by the harsh blue glow of surrounding complex data projections while looking intensely upward.
+  - .panel-D: [image]: In a focused medium close-up shot, Mina, wearing her glasses and lab coat, looks forward with an intense gaze, highlighted against a pitch-black background by sharp, rim lighting.
+
+SCENE:
+
+  MINA
+  Ma'am, local space-time...
+
+  MINA
+  -- some kind of a mass-displacement anomaly.
+
+  MINA
+  There is a fluctuation in the event horizon. Power dra--
+
+  ELENA
+  Negative. That is a predicted resonance.
+
+  MINA
+  Yes Ma'am, Of course, all systems nominal.
+
+--------------------------------------------------------------------------------
+
+PAGE: 10
+INT.  - NIGHT
+LAYOUT: 4_Panel_Right_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A medium close-up shot of Elena, defined by her dark textured hair and intensely shadowed golden-brown eyes, holding a glowing data tablet and offering a determined smirking expression against a backdrop of a high-tech lab illuminated by strong volumetric light beams.
+  - .panel-B: [image]: A extreme close-up panel captures a focused cybernetic woman, bearing the 'L-12' designation on her cheek and identified by glowing blue eyes and jagged white hair, staring directly forward with a stoic expression, bathed in a cool light emanating from her own hair and the surrounding data-like particle effects against a stark black background.
+  - .panel-C: [image]: In a striking side profile shot against a stark black background, Doctor Blackwell, identifiable by his wild white hair, circular dark sunglasses, and lab coat, smiles coldly as a lit cigarette smolders in his mouth, illuminated by a vivid red cherry and wisps of smoke.
+  - .panel-D: [image]: In a dramatic close-up, Elena stares forward with an intense, calculated expression and a slight smirk within a high-tech lab, illuminated by harsh lighting and glowing cyan digital interfaces.
+
+SCENE:
+
+  ELENA
+  I need the telemetry!
+
+  LAB_ANDROID
+  Horizon stability confirmed.
+
+  ELENA
+  It’s holding, Silas. Exactly as the math promised.
+
+  ELENA
+  You should acknowledge the Board. They're watching the share prices.
+
+--------------------------------------------------------------------------------
+
+PAGE: 11
+INT.  - DAY
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic medium close-up shot, Mina looks directly forward with a focused gaze and clenched fist, the sharp lighting highlighting her violet eyes and glossy bodysuit against the pitch-black background as she holds a digital tablet.
+  - .panel-B: [image]: An intensely lit, medium close-up panel captures Doctor Blackwell with wild white hair and circular black sunglasses, fixed in a cold, menacing stare against a dark background that backlights his silhouette and lab coat.
+  - .panel-C: [image]: No description available.
+
+SCENE:
+
+  MINA
+  I've never seen the core glow with that kind of ultraviolet saturation.
+
+  DOCTOR BLACKWELL
+  Don't stare. It’s not light—it’s the friction of data being compressed.
+
+--------------------------------------------------------------------------------
+
+PAGE: 12
+INT.  - DAY
+LAYOUT: 2_Panel_Angled_Split
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic medium close-up shot, Mina looks directly forward with a focused gaze and clenched fist, the sharp lighting highlighting her violet eyes and glossy bodysuit against the pitch-black background as she holds a digital tablet.
+  - .panel-B: [image]: An intensely lit, medium close-up panel captures Doctor Blackwell with wild white hair and circular black sunglasses, fixed in a cold, menacing stare against a dark background that backlights his silhouette and lab coat.
+  - .panel-C: [image]: No description available.
+
+SCENE:
+
+  LAB_ANDROID
+  Fusion Control says the thermal limits are safe, Doctor.
+
+  DOCTOR BLACKWELL
+  Fusion Control doesn't understand the optics of my quantum singularity.
+
+--------------------------------------------------------------------------------
+
+PAGE: 13
+INT. ROOM - DAY
+LAYOUT: 5_Panel_Right_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dimly lit, curved surveillance room, two rows of identical computer monitors form an imposing video wall displaying the expressionless, shadowed profiles of various men and women dressed in business suits against bright teal screens.
+  - .panel-B: [image]: Doctor Blackwell in his white lab coat, hand to his chin as he smokes and looks on with a mixture of anticipation and clinical detachment.
+  - .panel-C: [image]: A close-up manga-style portrait shows Elena with intense, golden-brown eyes and a determined expression, lit by strong overhead and background spotlights in a dark, high-tech server room.
+  - .panel-D: [image]: Inside a vast, darkened observation room, rows of silent, silhouetted individuals in professional attire appear on a massive wall of lit monitors, observing the area with eerie stillness, bathed only by the cool-toned overhead spotlights.
+  - .panel-E: [image]: In a wide, symmetrical shot, a dark, futuristic observation room featuring a massive curved wall of glowing cyan grid-patterned monitors is dramatically lit by shafts of light from a dark circular ceiling vent and floating light particles, while an unseen figure, identifiable by the edge of their dark, bulky clothing on the far left, observes the vacant wall from the darkness.
+
+SCENE:
+
+  BOARD_MEMBER_3
+  Satisfactory, Blackwell. The Company commends your success.
+
+  BLACKWELL
+  Hmph.
+
+  ELENA
+  What the Doctor means is... we are pleased that the Mnemosyne architecture has proven its utility.
+
+  BOARD_MEMBER_2
+  Progress will be monitored.
+
+--------------------------------------------------------------------------------
+
+PAGE: 14
+INT.  - DAY
+LAYOUT: 5_Panel_Left_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A tight close-up of Elena, her face glistening with sweat and her amber eyes narrowed with intense focus, framing her sharp and determined features.
+  - .panel-B: [image]: Elena and Doctor Blackwell stand together in the laboratory, illuminated by dramatic spotlights and the blue glow of active consoles as they watch the Mnemosyne Engine come to life.
+  - .panel-C: [image]: Against a stark black background, Elena stares forward with an intense, golden-eyed glare, her determined expression framed by her white lab coat and black top, while Doctor Blackwell stands behind her, his wild white hair and circular sunglasses contributing to his stern, intimidating presence under sharp rim lighting.
+  - .panel-D: [image]: In this dimly lit, high-contrast medium-full shot against a solid black background, Elena, a Black woman with short textured hair and golden eyes wearing a white lab coat over black attire, stands on the left with a determined expression next to Doctor Blackwell, an older man with wild white hair and circular black sunglasses who stares forward with a cold, stern presence, both figures sharply defined by cinematic chiaroscuro lighting.
+  - .panel-E: [image]: Elena and Doctor Blackwell stand side-by-side in a medium shot against a dark background, looking directly forward with severe, serious expressions under dramatic, high-contrast lighting that emphasizes the angular shadows on their faces and lab coats.
+
+SCENE:
+
+  ELENA
+  You know, you could try talking to the Board, Silas
+
+  DOCTOR BLACKWELL
+  I don't like the Board.
+
+  ELENA
+  You're the lead researcher. Funding, remember the funding.
+
+  DOCTOR BLACKWELL
+  I don't like the Board.
+
+  ELENA
+  ...and e-everybody knows it.
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 2 ]
+--------------------------------------------------------------------------------
+
+PAGE: 15
+EXT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An elevated wide-angle shot captures a massive, futuristic building with sky-bridges at dawn, centered around a large, glitched holographic display blinking with electric blue static and white text that reads "Saito Takeda Corporation // THE HORIZON INITIATIVE // //DAY 01 // The next Horizon of Luxury."
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+PAGE: 16
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: No description available.
+
+SCENE:
+
+  SYSTEM ALERT
+  A security discrepancy has been detected in your sector. Remain where you are. Do not attempt to leave. Saito Takeda Renewal Agents will meet you momentarily.
+
+  RIN
+  Ah shit!
+
+--------------------------------------------------------------------------------
+
+PAGE: 17
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a striking profile close-up, Rin stares forward with sharp, blue eyes, her black hime-cut bob and face dramatically highlighted by warm rim lighting against a pitch-black background that emphasizes her contemplative, focused expression.
+
+SCENE:
+
+  [TextBlock] Fifteen floors of hacked bio-metrics and corporate goons ...
+
+  [TextBlock] ...the card reader houses a hidden retinal scanner. It mapped my eyes while I was reaching for the panel.
+
+--------------------------------------------------------------------------------
+
+PAGE: 18
+INT. HALLWAY - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An empty, starkly lit institutional hallway, rendered in cool greys and sharp angular lines, recedes to a central closed grey door under harsh fluorescent ceiling lights, with other closed doors framing the view.
+  - .panel-B: [image]: A stark, tightly framed extreme close-up panel captures Rin with intense blue eyes and a focused gaze framed by black bangs, featuring dramatic shadow play across her face under a bold black and blue graphic aesthetic.
+  - .panel-C: [image]: A close-up manga panel, illuminated by stark blue light in the darkness, features Rin's hands in glossy black sleeves holding a 'Saito Takeda Corporation' ID card while attempting to scan it at a metallic biometric reader, which displays a hologram of Hiroshi Tanaka.
+
+SCENE:
+
+  [TextBlock] System alert instantly.
+
+--------------------------------------------------------------------------------
+
+PAGE: 19
+INT. OFFICE - NIGHT
+LAYOUT: Spread_Split_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A wide, empty high-rise executive office at night, desk and chair unoccupied, framed diplomas on the wall, overlooking a fog-shrouded futuristic megacity through a floor-to-ceiling window, dim cool light.
+  - .panel-B: [image]: In a wide-angle cinematic shot from behind, Rin's silhouette stands at the same office window overlooking the megacity, while The Vigil's faint, ghostly reflection is barely visible in the glass in the upper corner, watching unnoticed, with moonlight casting long shadows over the desk and framed diplomas.
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+PAGE: 20
+EXT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Rin’s sharp profile, framed by her black hime-cut, is superimposed over a reflective panoramic window looking out onto a sprawling, dark futuristic cityscape at twilight, her blue eye gazing intently inward toward the central canyon as her image mirrors in the wet foreground ledge.
+
+SCENE:
+
+  [TextBlock] The Upper Grid wastes more power on comfort  --
+
+  [TextBlock] -- than my sector sees in a month of pure survival.
+
+--------------------------------------------------------------------------------
+
+PAGE: 21
+INT.  - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A hand, belonging to a character with a leather jacket similar to Rin's, inserts a black USB drive into the port of a computer tower, which is backlit by a bright blue light against a dark background in an anime-style illustration.
+  - .panel-B: [image]: A profile-view medium close-up panel in a dramatic comic book art style captures Rin, recognizable by her sharp blue eye and precise black hime-cut bob, holding a lit cigarette to her lips with a focused gaze and a faint blush on her cheek, while wearing her heavy leather biker jacket against a pure black background.
+  - .panel-C: [image]: A close-up shot focuses on a glowing, angled monitor in a dark room, displaying the Saito Takeda Corporation secure login screen where "S. Blackwell" is entered as the user and a password is partially input, highlighting specific server details as light from the screen illuminates the metallic frame.
+  - .panel-D: [image]: In a starkly lit profile close-up against a pitch-black background, Rin gazes stoically ahead while holding a lit cigarette, her sharp blue eyes fixed in a focused stare and her precise hime-cut bob framing her face as wisps of smoke curl upwards near her cheek, showcasing the heavy texture of her leather jacket against her pale skin.
+  - .panel-G: [image]: A close-up, dramatic high-angle shot in a dark environment focuses sharply Rin's partially illuminated by subtle cyan highlights, as they actively type on a black mechanical keyboard.
+
+SCENE:
+
+  [TextBlock] Hmm, lets see... Hello company employee RD001, Blackwell.
+
+  [TextBlock] Let's see how your account stands up to my pass hack trojan.
+
+  [TextBlock] Ha! I'm in? I expected more of a fight.
+
+--------------------------------------------------------------------------------
+
+PAGE: 22
+INT.  - NIGHT
+LAYOUT: 5_Panel_Left_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A digital monitor glows with cascading white command line text against a dark background, showing progress of a 'Mnemosyne' exploit using Metasploit and Hydra tools against a target at 192.168.10.150, including a failed connection attempt and an ongoing brute-force attack on user 'blackwell'.
+  - .panel-B: [image]: A centered, static anime-style panel depicts an empty, sterile grey corridor ending at a closed door under a harsh overhead fluorescent light that creates deep shadows and reflective glares on the polished floor.
+  - .panel-C: [image]: In a dramatic close-up, a person's hands with pale, strong line work type rapidly on a dark keyboard, illuminated by a harsh low-angle glow against a pitch-black background, creating high-contrast shadows.
+  - .panel-D: [image]: Presented in a stark anime profile against an absolute black background, a character resembling Rin, defined by her blue eyes and black hime-cut, maintains a somber gaze while exhaling smoke from a cigarette, her glossy leather jacket catching dramatic, cold rim lighting.
+  - .panel-E: [image]: A close-up photograph captures a slightly angled, blue-lit screen displaying critical system information for the "Building Elevator Lift System" in a dark, slightly scratched environment, confirming that the self-check is complete and the system is fully operational.
+
+SCENE:
+
+  [TextBlock] Just need the routing keys...
+
+  [TextBlock] The Filament's price for keeping the pirate grids online this winter...
+
+  [TextBlock] Hand them over, the lights stay on.
+
+  RIN
+  C'mon!
+
+  [TextBlock] I need to buy some time.
+
+--------------------------------------------------------------------------------
+
+PAGE: 23
+INT. OFFICE - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A high-contrast low-angle shot from behind shows Detective Victor Graves, with wild white hair and a flowing black coat, and Officer Harlan, in a sharp grey suit, ascending a grim concrete stairwell illuminated harshly by fluorescent lights.
+  - .panel-B: [image]: A low-angle close-up of Victor and Harlan's legs and polished black shoes as they ascend the concrete steps. Their dark attire and the industrial setting suggest a serious, tactical mission.
+  - .panel-C: [image]: A dynamic low-angle shot of Victor walking up the stairs, his long black coat billowing slightly. The perspective emphasizes the effort of the climb and the urgency of their task.
+  - .panel-D: [image]: A dramatic low-angle shot of Victor and Harlan hurrying up the concrete stairs. Victor's white hair and long coat are prominent as they ascend towards a bright light at the top of the stairwell.
+
+SCENE:
+
+  HARLAN
+  Fifteen floors up with no elevator, Victor? You sure it's Null this time?
+
+  VICTOR
+  Positive, Harlan. We've been hunting them for months. They won't get past me again.
+
+  VICTOR
+  Gotta intercept Null before Corporate Renewal does.
+
+  VICTOR
+  We'll miss our chance if they find them first.
+
+--------------------------------------------------------------------------------
+
+PAGE: 24
+INT. HALLWAY - NIGHT
+LAYOUT: 4_Panel_2_Tall
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A full-length anime shot of Victor in a dark hallway, pointing a handgun directly at the camera. He wears his signature long black coat and white hair, and the overhead fluorescent light casts a long shadow behind him.
+  - .panel-B: [image]: An anime shot of Victor standing over a man who is lying face-down on the floor of a dimly lit hallway. Victor is pointing his gun at the man, and there is a pool of dark liquid (likely blood or oil) on the floor.
+  - .panel-C: [image]: An anime portrait of Harlan in a suit, pointing a handgun with a serious, determined expression. He's standing in a sterile, dimly lit hallway similar to the one Victor was in.
+  - .panel-D: [image]: A dynamic anime shot of Victor and Harlan standing together in the dark, both pointing their guns forward. The lighting is high-contrast, highlighting their determined faces and the metallic sheen of their weapons against a pitch-black background.
+
+SCENE:
+
+  VICTOR
+  Oshima Police Depart--
+
+  VICTOR
+  DAMN!
+
+  HARLAN
+  Jesus! Victor! Is he dead?
+
+  VICTOR
+  No. Unconscious. Null hasn't crossed the line into murder... yet.
+
+--------------------------------------------------------------------------------
+
+PAGE: 25
+INT.  - NIGHT
+LAYOUT: 4_Panel_2_Tall
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic extreme close-up comic panel, Rin stares intensely directly forward, her sharp blue eyes fixed in a focused gaze and framed by black hime-cut bangs, with striking cool blue rim lighting defining the left side of her face against a dark background.
+  - .panel-B: [image]: A dramatic, profile close-up shot captures Rin’s focused blue-eyed gaze and serious expression as she faces left, with cool blue neon light highlighting her dark hime-cut bob and the textures of her black leather biker jacket against a pitch-black background.
+  - .panel-C: [image]: A close-up anime shot of a person's hands typing rapidly on a backlit mechanical keyboard. The keys glow with a bright blue light, illuminating the hands and part of the desk in a dark, tech-heavy environment.
+  - .panel-D: [image]: A low-angle, close-up shot captures the blue glow of a retro terminal screen displaying confidential operation logs and a "Hydra-class Time Distortion Monitor" scan for the Saito Takeda Corporation, revealing critical but contained gravity shear near an event horizon and temporal anomalies.
+
+SCENE:
+
+  [TextBlock] Routing keys! There you are! There will be a lot of happy people in the Dead Circuits.
+
+  [TextBlock] Wait a minute... What is this?!?
+
+  [TextBlock] That is a lot of power being rerouted.
+
+  [TextBlock] This isn't just power routing data, there's more...
+
+--------------------------------------------------------------------------------
+
+PAGE: 26
+INT. ROOM - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A wide anime shot of Victor and Harlan entering a room, pointing their guns forward. Two men in suits (corporate goons) are on the floor; one is unconscious and face-down, while the other is sitting up against a wall, looking defeated.
+  - .panel-B: [image]: A split-screen style anime close-up of Victor and Harlan's faces. Their expressions are serious and intense, with a dark background emphasizing their focus. Victor's red eyes and Harlan's brown eyes are prominent.
+  - .panel-C: [image]: A medium anime shot of Victor and Harlan standing side-by-side. Victor has a slight, confident smirk, while Harlan looks determined. The lighting is moody and highlights their features against a dark background.
+  - .panel-D: [image]: A sterile, dimly lit hallway in a futuristic building, viewed from a straight-on perspective. A single bright fluorescent light on the ceiling illuminates a closed metallic door at the end of the corridor.
+
+SCENE:
+
+  HARLAN
+  Jesus! Null isn't pulling any punches.
+
+  VICTOR
+  We're close, Harlan. Null's backed into a corner.
+
+  HARLAN
+  This is it --
+
+  HARLAN
+  Let's go say hello...
+
+  CORPORATE GOON
+  Uh! They went in there...
+
+--------------------------------------------------------------------------------
+
+PAGE: 27
+INT.  - NIGHT
+LAYOUT: 6_Panel_Span_Left_Span_Right
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A close-up, low-angle shot of a heavy, dark metallic door in a dimly lit, industrial setting. The door has a silver handle and a keyhole, with a reflection of a bright, rectangular light source on its surface. Papers are pinned to the wall beside it, and the overall atmosphere is moody and secretive.
+  - .panel-B: [image]: A vertical, low-angle shot focuses on a cracked, weathered computer terminal displaying lines of glowing blue code and system logs related to the 'Mnemonic Gravity Well,' its harsh light reflecting off the surrounding dark, gritty environment as a four-pointed star shines brightly in the bottom right corner.
+  - .panel-C: [image]: In a dramatic close-up panel with harsh low-angle lighting, Rin peers over the top of reflective blue sunglasses she lowers with her left hand, revealing her sharp, luminous blue eyes fixed forward in an intense, focused gaze set against a stark black background.
+  - .panel-F: [image]: In a medium close-up shot illuminated by the blue ambient light of a futuristic city through the window, Rin, wearing her black hime-cut, glossy bodysuit, and a black tactical backpack with sunglasses, stands in profile, smoking a cigarette and exuding a calm, guarded demeanor.
+  - .panel-D: [image]: A high-contrast anime medium shot of Rin sitting in a dark, tech-heavy environment. She wears blue sunglasses and a leather jacket, with a cigarette in her mouth. Behind her, a glowing computer monitor illuminates the room with a cool blue light, suggesting she is in the middle of a high-stakes task.
+  - .panel-E: [image]: A close-up anime shot of a hand inserting a red USB flash drive into a port on the back of a computer. Wisps of smoke are rising from the connection point, suggesting a technical malfunction or a forced hardware hack. The detail on the computer's rear panel is intricate and industrial.
+
+SCENE:
+
+  [TextBlock] What the hell is a "Mnemosyne Engine"?...
+
+  VICTOR
+  Oshima Police Department. Open the door and come out with your hands above your head!
+
+  RIN
+  Time to go!
+
+  [TextBlock] I'll copy the power keys for the Filament...
+
+  [TextBlock] What the hell is the company up to?
+
+--------------------------------------------------------------------------------
+
+PAGE: 28
+INT. CORRIDOR - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a low-angle medium shot, Rin stands with a neutral, composed expression and relaxed posture in a grimy, dimly lit urban corridor, wearing her heavy leather biker jacket and shiny black bodysuit while carrying a tactical backpack and staring directly ahead.
+  - .panel-B: [image]: An anime medium shot of Rin in a dark industrial setting, pulling a black gas mask over her face. She is wearing her black leather jacket and tactical backpack, and her blue eyes are visible through the mask's goggles as she prepares for a hazardous environment.
+  - .panel-C: [image]: An anime medium shot of Rin wearing a black gas mask and tactical gear in a dimly lit industrial room. She is holding a green smoke grenade with a red safety pin, and a small wisp of smoke is already escaping, indicating she is about to deploy it.
+  - .panel-D: [image]: A close-up anime shot of a hand releasing a green smoke grenade against a black background. The red safety lever is visible, and a thin trail of grey smoke curls upwards from the grenade as it falls through the air.
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+PAGE: 29
+INT. HALLWAY - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A full-body digital comic panel shows Rin, her black hime-cut bob visible under a gas mask, striding forward in her signature glossy bodysuit, leather biker jacket, and chunky combat boots down a dingy, smoke-filled hallway with a direct, focused gaze towards the viewer.
+  - .panel-B: [image]: A cinematic low-angle shot captures a menacing woman, obscured behind a gas mask and clad in a leather jacket and sleek bodysuit matching Rin's description, stepping forward with an intense gaze through a doorway as dense, white fog rolls around her and floods the institutional hallway.
+  - .panel-C: [image]: A moody anime shot of a female silhouette walking through thick, hazy smoke in an industrial corridor. The light from above is diffused by the gas, making her figure appear dark and mysterious. The overall tone is atmospheric and tense.
+  - .panel-D: [image]: An anime medium shot of two men, Victor and Harlan, in dark suits struggling in a smoke-filled room. Victor (white hair) is covering his face and coughing, while Harlan (dark hair and beard) is also coughing into his hand. They both look distressed and caught off guard by the gas.
+
+SCENE:
+
+  VICTOR
+  COUGH! Argh! Tear gas!
+
+  HARLAN
+  Oh fuck! COUGH!
+
+--------------------------------------------------------------------------------
+
+PAGE: 30
+INT. ROOM - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An anime medium shot of Victor and Harlan standing in a smoke-filled room. Victor (left, white hair) has an angry, bared-teeth expression, while Harlan (right, dark hair) looks stern and focused. The background is hazy with white smoke, and overhead industrial lights cast a harsh glow on them.
+  - .panel-B: [image]: A high-angle comic panel captures Rin with a wide, confident grin, looking back and slightly lifting her aviator sunglasses as she descends a stark concrete staircase.
+  - .panel-C: [image]: An anime medium shot of Victor and Harlan walking through a dark, smoke-filled hallway. Victor (white hair) and Harlan (dark hair) both have serious, intense expressions as they move through the haze. Greenish industrial lights on the walls cast a sickly glow over the scene.
+  - .panel-D: [image]: In a starkly-lit close-up, Rin peer intently over the top rim of her dark aviator sunglasses, a confident and focused gaze emanating from her blue eyes as she adjusts the frames with her right hand, framed by her black hime-cut bob with distinct blue highlights and wearing a distressed black leather jacket.
+
+SCENE:
+
+  HARLAN
+  ASS-HOLE!
+
+  VICTOR
+  Save your breath, Harlan. They're gone.
+
+  HARLAN
+  Did you get a good look at them?
+
+  VICTOR
+  No. But the name on the office they hit, said Blackwell.
+
+--------------------------------------------------------------------------------
+
+PAGE: 31
+INT.  - NIGHT
+LAYOUT: 4_Panel_2_Tall
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An anime close-up profile shot of Victor and Harlan. Victor (white hair) is in the background with a weary, sweating expression, while Harlan (dark hair, beard) is in the foreground, looking off-screen with an intense and wary gaze. The lighting is harsh, highlighting their tense facial features against a cold industrial wall.
+  - .panel-B: [image]: An anime wide-shot of a sterile industrial hallway. In the background, Victor and Harlan stand aside as a group of Saito Takeda Renewal Agents, clad in sleek black tactical armor and full-face helmets, march down the corridor. The agents look imposing and highly advanced, representing the corporation's enforcement arm.
+  - .panel-C: [image]: An anime close-up of Victor and Harlan's faces. Victor (left, white hair) has sweat on his brow and a look of grim resignation, while Harlan (right, dark hair) has a piercing, suspicious gaze. The background is a blurry industrial setting, keeping the focus entirely on their intense expressions.
+  - .panel-D: [image]: An anime medium shot of Victor and Harlan walking away from the scene through a hazy, smoke-filled area. Victor (white hair) and Harlan (dark hair) look somber and thoughtful, their mission clearly over but leaving them with more questions. The lighting is dark and moody, with searchlights cutting through the smoke.
+
+SCENE:
+
+  VICTOR
+  Oh look. The cavalry finally showed up.
+
+  VICTOR
+  Oh, hey guys! Just in time, as always!
+
+  CORPORATION AGENT 
+  Stand aside! Saito Takeda Renewal will take it from here!
+
+  VICTOR
+  We're done here, Harlan.
+
+  HARLAN
+  What's so important that  Null would risk so much to access?
+
+  VICTOR
+  "What?" indeed, Harlan.
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 3 ]
+--------------------------------------------------------------------------------
+
+PAGE: 32
+EXT.  - DAY
+LAYOUT: 3_Panel_Top_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: None of the specified characters are visible in this image. A rain-soaked, atmospheric cyberpunk alleyway is rendered in deep shadow and mist, with a rusted utility pole in the left foreground featuring a glowing data console and security cameras, all framed by crumbling, derelict industrial buildings and a distant, gleaming futuristic mega-structure illuminated by shafts of cold white light from above.
+  - .panel-B: [image]: Presented as a high-angle security camera feed from a grainy, curved CRT monitor, Rin stands guarded in her leather biker jacket and bodysuit, casting a sharp blue-eyed gaze directly upward against a dimly lit teal background under dramatic, directional lighting.
+  - .panel-C: [image]: A high-angle surveillance camera shot shows Rin standing under dim, overhead green light holding a blinking device, her face obscured by a pixelated identification box marked 'Citizen Unknown' on a grimy CRT monitor display.
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+PAGE: 33
+EXT.  - NIGHT
+LAYOUT: 4_Panel_2_Tall
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A high-angle, cinematic photograph captures a massive, desolate cyberpunk megacity with towering, aged concrete buildings shrouded in dense fog under a bleak sky, featuring intricate cable networks connecting structures, hundreds of small glowing windows, a lone searchlight piercing the haze from a rooftop, and dark smoke pluming in the foreground.
+  - .panel-B: [image]: An expansive, elevated wide-angle cinematic shot captures a dense, futuristic metropolis at dusk, where towering skyscrapers are bathed in the warm, diffused orange light of the setting sun breaking through clouds, contrasting sharply with the cold blue and red glow of massive, animated digital billboards on the right, as a train traverses a raised track and multiple skybridges connect the distant buildings over deep, shadowy canyons.
+  - .panel-C: [image]: A wide, high-angle panoramic shot captures a futuristic cityscape bathed in warm, golden sunset light that dramatically illuminates the vast, complex network of multi-level pedestrian skybridges and towering Brutalist skyscrapers.
+  - .panel-D: [image]: A wide-angle landscape photograph captures a massive futuristic megacity of dark, illuminated skyscrapers connected by bridges emerging from clouds under a warm, hazy golden sunset.
+
+SCENE:
+
+  [TextBlock] Oshima City.
+
+  [TextBlock] The Towers
+
+--------------------------------------------------------------------------------
+
+PAGE: 34
+EXT.  - NIGHT
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A medium full shot cinematic comic panel depicts Rin walking with a focused gaze through a rainy street past an electronics shop window, which is filled with glowing television sets simultaneously displaying the news broadcast of a woman with short dark hair.
+  - .panel-B: [image]: A gritty, wide-angle cinematic shot captures a rain-soaked, dilapidated urban alleyway under an orange smoggy sky, where a prominent rusty surveillance camera mounted on a utility pole, bearing the text "SAITO TAKEDA CORPORATION" and featuring glowing red lenses, monitors the bleak environment alongside a blue digital circuit board.
+  - .panel-C: [image]: A low-angle, full-body shot captures Rin from behind as she stands resolutely in the rain on a slick city street, looking into the warm light of an electronics shop window filled with stacked, vintage televisions that all display the identical, impassive face of an anchorwoman.
+
+SCENE:
+
+  [TextBlock] Not where I live.
+
+  [TextBlock] The Dead Circuits, is my home.
+
+--------------------------------------------------------------------------------
+
+PAGE: 35
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An anime-style woman news anchor on the screen of a vintage, weathered television set in a dimly lit void, her slightly parted lips captured in mid-speech against the cold blue screen light that spills onto the brown casing.
+  - .panel-B: [image]: A centered, medium-close shot of a vintage beige television displays a glitching image of an anime-style woman news anchor SMPTE color bars, heavily distorted by scan lines, chromatic aberration, and digital noise, set against a black background with a rainbow spectrum halo glowing around the monitor.
+  - .panel-C: [image]: A close-up photograph of a vintage television, centered against a dark background, woman news anchor visible amidst severe digital glitches and static, wearing a suit over her black bodysuit while appearing to be distressed as the screen flickers violently with colorful horizontal lines.
+  - .panel-D: [image]: In a close-up shot against a black void, a vintage, knob-controlled television emits intense static and glitches, through which a haunting, fragmented visage—defined by glowing eyes and geometric lines that match the appearance of The Vigil—struggles to appear with cyan and magenta distortions.
+
+SCENE:
+
+  NEWS BROADCAST
+  Saito Takeda officials continue investigating last night's unauthorized data breach.
+
+  NEWS BROADCAST
+  Renewal Agents are conducting authorized sweeps through several lower-city districts.
+
+  NEWS BROADCAST
+  Company representatives insist there is no evidence of self-directed machine intelli--
+
+  [ActionText] KKKRRRZZZT!
+
+--------------------------------------------------------------------------------
+
+PAGE: 36
+EXT.  - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Rin stands leaning against a rain-soaked, textured concrete wall in a dimly lit alley, focused on the glowing screen of a handheld device she holds, illuminated by the digital glow and stark, cool light reflecting off the wet pavement.
+  - .panel-B: [image]: A close-up shot focuses on Rin’s rain-slicked hand, emerging from her leather biker jacket sleeve, as she holds a handheld data device displaying a "57% COMPLETE" copying status under the ambient glow of the screen and a stormy, dark atmosphere. The device is copying between two red usb drives.
+  - .panel-C: [image]: In a dramatic, rain-slicked close-up set against a dark void, a character wearing a black leather jacket cuff holds a glowing rugged data transfer device and removes a red USB drive from its slot, revealing the screen's bright teal text, "COPYING COMPLETE."
+
+SCENE:
+
+  RIN
+  Stale air, always tastes like there's dirt in my mouth.
+
+--------------------------------------------------------------------------------
+
+PAGE: 37
+INT.  - DAY
+LAYOUT: 4_Panel_Left_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic close-up profile shot under falling rain, Rin stands motionless with a focused, tearful gaze while she looks off-panel, her face glistening with water against a black void.
+  - .panel-B: [image]: A sleek, glowing black futuristic sports car rests motionless on a wet, reflecting city street during a heavy night rain, its white body outlines and red taillights mirrored in the slick, dark surface beneath a dramatic, cloudy sky.
+  - .panel-C: [image]: A low-angle cinematic shot captures Nova and Rin standing in the desolate, rain-slicked alley, Nova holding the deactivated head of The Vigil while Doctor Blackwell and Elena stand tensely near the glowing control terminal as a massive lightning strike illuminates the brutalist mega-structure and reflects in the puddles.
+  - .panel-D: [image]: In an extreme close-up side profile shot, Rin's sharp blue eyes and precise black bob frame with single, prominent highlights cutting through the dark, rainy night.
+
+SCENE:
+
+  [TextBlock] When you want to make change here --
+
+  [TextBlock] -- you make deals with your enemy's, enemy.
+
+--------------------------------------------------------------------------------
+
+PAGE: 38
+INT.  - DAY
+LAYOUT: 4_Panel_2_Tall
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a cinematic, high-contrast comic book close-up profile, Rin looks away with focused blue eyes, a lit cigarette dangled in her mouth while rain and tears trail down her face.
+  - .panel-B: [image]: Rin stands alone from a low angle, her back to the viewer, approaching a futuristic sports car defined by its geometric design and glowing white and red light outlines as heavy rain falls and splashes around them both against a dark background, reflecting the scene onto the wet pavement.
+  - .panel-C: [image]: A close-up shot of Rin with blue eyes and a focused expression looking through a rain-streaked car window at a hand in a black biker jacket, with a rainy, dark city in the background at night.
+  - .panel-D: [image]: An intense close-up comic panel shows Madame Filament with a grim, stern expression, gripping a lit cigarette with rising smoke in his mouth while casting a hard sidelong gaze under harsh, contrasty shadows against a pure black background.
+
+SCENE:
+
+  [TextBlock] The Filament.
+
+  [TextBlock] Not the group I should underestimate.
+
+  [TextBlock] but they hate the Corporation too.
+
+  MADAME FILAMENT
+  Rin, I see you made it out alive.
+
+--------------------------------------------------------------------------------
+
+PAGE: 39
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a close-up against a black background with high-contrast comic book lighting, Rin, with intense blue eyes, a focused expression, and wearing a black leather jacket, holds a red USB flash drive directly towards the viewer.
+  - .panel-B: [image]: In a dramatic low-angle close-up, Rin gazes upward with a focused and contemplative expression, her sharp blue eyes bright against the stark black background, illuminated by strong highlights on her nose and lips.
+  - .panel-C: [image]: An extreme close-up shows an elderly, heavily wrinkled Madame Filament, not listed in the character database, with sharp grey eyes and grey hair tied into a bun, staring menacingly while thrusting a red USB flash drive towards the viewer against a dark background in a dramatic, film-noir manga style.
+  - .panel-D: [image]: A close-up profile manga panel depicts Rin.
+
+SCENE:
+
+  [TextBlock] They can have the power routing keys, but, they can't know I found keys to the real corporate castle.
+
+  MADAME FILAMENT
+  When I control the routing, the district stops paying Saito Takeda.
+
+  RIN
+  I hope so.
+
+--------------------------------------------------------------------------------
+
+PAGE: 40
+INT. CORRIDOR - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a gritty, desolate corridor under harsh overhead lighting, Rin stands with a stern expression, smoking a cigarette while clad in her form-fitting glossy bodysuit and distressed leather jacket, staring directly forward with an intimidating presence in this manga-style illustration.
+  - .panel-B: [image]: In a gritty close-up shot, an unidentified hand with light skin presses a large metal button on a weather-beaten access panel, which illuminates with a bright green light that casts highlights on the finger and reflects off the flaking, graffiti-covered wall under dim ambient lighting.
+  - .panel-C: [image]: A medium full shot captures Rin leaning against a grimy, peeling concrete wall next to a metallic elevator panel, holding a smoking cigarette with a focused and guarded gaze down a dimly lit, shadowed corridor in this moody, high-contrast comic book panel.
+  - .panel-D: [image]: In a symmetrical, low-angle shot, Rin, clad in her glossy bodysuit and leather jacket, leans guarded against the rusted back wall of a grimey elevator, her blue-eyed gaze fixed directly forward as steam rises from the wet floor beneath the harsh overhead light.
+
+SCENE:
+
+  [TextBlock] Living in the Dead Circuits has no benefits
+
+  [TextBlock] There's power tonight.. I'll take the elevator.
+
+  [TextBlock] If it lasts...
+
+--------------------------------------------------------------------------------
+
+PAGE: 41
+INT. HALLWAY - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-B: [image]: In a dimly lit, graffiti-strewn grungy hallway, two menacing figures in advanced black tactical armor and full-face helmets stand in front of a heavy metal door, illuminated only by a single flickering overhead light and casting long shadows on the wet, dilapidated floor.
+  - .panel-A: [image]: Rin stands with a sharp, guarded gaze in a rusty, dimly lit service elevator, leaning against the back wall and holding the safety rails while a warm overhead light illuminates her distressed leather jacket, glossy black bodysuit, and chunky combat boots.
+  - .panel-C: [image]: Rin, exhibiting a guarded expression and looking back, walks down a dimly lit, grungy industrial corridor, closely trailed by two figures in full-body black tactical and cybernetic armor.
+  - .panel-D: [image]: An extreme close-up comic book panel focuses on Rin, showing only her sharp blue eye narrowing with intense focus under a furled brow of precise black hair, highlighted by stark dramatic lighting.
+
+SCENE:
+
+  [ActionText] Ding!
+
+  [TextBlock] Shit!, Renewal Agents, here, in the building?
+
+  SECURITY MALE 1
+  Citizen! State your name, your prior location, and destination!
+
+  RIN
+  I work at the Renewal offices downtown. I'm returning home!
+
+  [TextBlock] Stay calm.
+
+--------------------------------------------------------------------------------
+
+PAGE: 42
+INT. HALLWAY - NIGHT
+LAYOUT: 4_Panel_Left_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A wide-angle, atmospheric shot captures two fully armored figures in dark, glossy tactical suits and smooth, featureless black helmets standing resolutely side-by-side down the center of a grungy, dimly lit hallway with peeling paint and exposed pipes, facing the viewer with expressions hidden behind their helmets.
+  - .panel-D: [image]: A medium shot in sharp comic book style depicts Rin, with a precise black hime-cut bob and sharp blue eyes in a focused, rightward gaze, holding a black semi-automatic pistol across her chest with both gloved hands while wearing a heavy black leather biker jacket over a glossy black bodysuit against a void background.
+  - .panel-B: [image]: In a high-contrast close-up anime-style panel, Rin, wearing a heavy, distressed leather biker jacket and featuring a precise black hime-cut bob, is seen lowering her head and closing her eyes in a focused, somber, and guarded expression against a stark white background with harsh lighting and bold cross-hatch shading on her neck.
+  - .panel-C: [image]: Rin, a character with sharp blue eyes and a precise black hime-cut bob, is depicted in a medium shot against a stark black background, intensely drawing a semi-automatic handgun from inside her distressed, heavy leather biker jacket while wearing a form-fitting glossy black bodysuit, capturing her focused, guarded expression through dramatic rim lighting.
+
+SCENE:
+
+  [TextBlock] Dammit, don't ask me for I.D.
+
+  SECURITY FEMALE 1
+  Resident identification required for Renewal Protocol. Citizen, show me your I.D.
+
+  [TextBlock] You had to ask --
+
+  RIN
+  Identification?
+
+  RIN
+  Sure, it's—
+
+--------------------------------------------------------------------------------
+
+PAGE: 43
+INT.  - DAY
+LAYOUT: 4_Panel_2_Tall
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic, symmetrical manga-style panel shows Rin, her blue eyes intense and focused, aiming a large black semi-automatic pistol with both hands directly at the viewer against a black background.
+  - .panel-C: [image]: In a darkly lit, derelict corridor, two heavily armed operatives in sleek black suits and full-face helmets advance with weapons raised, their expressions obscured, in a low-angle shot that emphasizes their menacing presence.
+  - .panel-B: [image]: In an intense extreme close-up framed by shadow and black hair, Rin’s single, sharp blue eye is rendered with detailed irises and a focused gaze, staring directly ahead with a determined expression while catching a specular reflection from dramatic, harsh front lighting.
+  - .panel-D: [image]: Framed in a dramatic, low-angle medium shot against a stark black void, a fierce Rin aims a pistol directly forward, her sharp blue eyes narrowed in focused intensity as a brilliant, starburst-patterned flash erupts from the barrel.
+
+SCENE:
+
+  RIN
+  —RIGHT HERE!
+
+  SECURITY MALE 1
+  WEAPON! CONTACT FRONT!
+
+  [ActionText] BLAM!
+
+  [ActionText] BLAM!
+
+  [TextBlock] My bullets aren't even gonna scratch that armor...
+
+--------------------------------------------------------------------------------
+
+PAGE: 44
+INT. CORRIDOR - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a grimy, pipe-filled industrial corridor, a character, not matching the specific traits of the identified cast, clad in black armored plating and a smooth, full-face helmet, fires a semi-automatic handgun, creating a dramatic, bright orange muzzle flash and scattering multiple brass shell casings as fluorescent lights provide ambient illumination from the ceiling.
+  - .panel-B: [image]: Rin, wearing her glossy black bodysuit, heavy leather biker jacket, and combat boots, is depicted from a low, dramatic angle against a stark black background, her face set in a grimace of intense concentration with eyes closed as she moves defensively through a flurry of bullets that streak past her.
+  - .panel-C: [image]: In a dynamic comic panel set against a solid black background, a focused Rin, identified by her intense blue eyes, black hime-cut bob, leather jacket, and bodysuit, performs a rapid reload, dropping an empty magazine while holding a fresh one in a high-contrast action sequence.
+  - .panel-D: [image]: A character in a sleek black cybernetic suit fires a weapon down a dingy hallway, creating bright muzzle flashes and ejecting spent brass casings into the dimly lit, derelict environment.
+
+SCENE:
+
+  [ActionText] RAT-TAT-TAT!
+
+  [ActionText] CLICK!
+
+  [ActionText] RAT-TAT-TAT!
+
+  [TextBlock] Corporate-grade plating. No way I'm staying for a unfair fight. 'Gotta consider myself lucky, and get out.
+
+--------------------------------------------------------------------------------
+
+PAGE: 45
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-C: [image]: A vertical close-up shot, rendered in high-contrast comic book style, centers on the smooth, reflective helmet of a robotic figure facing forward against a black void.
+  - .panel-A: [image]: A static, wide-angle cinematic shot captures a moody, rainy evening in a rundown futuristic city through a crumbling window frame, where billowing white curtains frame views of towering skyscrapers, streaks of falling rain, and dramatic shafts of twilight breaking through clouds.
+  - .panel-B: [image]: A wide, dramatic low-angle shot in a grime-streaked industrial corridor captures two fully black-armored figures, one bulky and one lean, stepping forward from a dark doorway with features completely hidden behind opaque black helmets and weapons drawn, with a cold light emphasizing their intimidating silhouettes and the peeling paint of the derelict setting.
+  - .panel-D: [image]: Rin, with her black hime-cut bob and blue eyes, looks intensely over her shoulder with a focused expression in a dramatic close-up against a pitch-black background, her heavy leather biker jacket catching sharp highlights.
+
+SCENE:
+
+  FEMALE SECURITY 1
+  Dammit! Gone! Radio it in. Tell them to send drone flyovers. Whoever they are, they won't get far.
+
+  [TextBlock] Another apartment, compromised. I actually like that one; good location.
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 4 ]
+--------------------------------------------------------------------------------
+
+PAGE: 46
+INT.  - DAY
+LAYOUT: 4_Panel_Left_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A high-contrast, extreme close-up comic panel focusing on Doctor Blackwell with wild white hair and circular sunglasses, presenting a grim, heavily line-shaded snarl against a black background.
+  - .panel-B: [image]: In a stark, dramatic anime-style panel, a young man with messy black hair and a grim, focused expression stands before a glowing futuristic hologram of data interfaces, his dark blue high-collar suit illuminated by the teal and pink energy trails against a profound black void.
+  - .panel-C: [image]: A striking close-up panel featuring Doctor Blackwell, rendered with intense chiaroscuro lighting that casts deep shadows and emphasizes his stern, wrinkled face and circular black sunglasses against a void-like background, portrays a moment of cold, unwavering tension.
+  - .panel-D: [image]: A dark-haired man with a determined, focused expression in a form-fitting black suit, who does not match any of the provided character descriptions, stands behind a glowing, blue and pink holographic display, illuminated by dramatic backlighting and the projection's light against a black background.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  My office? What exactly did they access?
+
+  CORPORATE MANAGER
+  They accessed everything, Doctor.
+
+  DOCTOR BLACKWELL
+  The Renewal's incompetence has jeopardized my work.
+
+  CORPORATE MANAGER
+  The Corporation is treating this breach as a critical priority.
+
+  CORPORATE MANAGER
+  Sweeps are active in the Dead Circuits. Redacted logs from your terminal have been forwarded to Oshima PD.
+
+--------------------------------------------------------------------------------
+
+PAGE: 47
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic extreme close-up framed by high-contrast lighting, an imposing man with a deeply wrinkled face and round sunglasses stares directly forward with an intense, stern gaze.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  Very well. We shall see what is truly compromised by this ideocracy,
+
+--------------------------------------------------------------------------------
+
+PAGE: 48
+INT.  - DAY
+LAYOUT: 4_Panel_Left_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Standing in a determined, front-facing pose against a stark black background, Elena is illuminated by a dramatic top-down spotlight that highlights her intense, cross-hatched golden-brown eyes and her contrasting white lab coat and black high-necked top in a cinematic full-body shot.
+  - .panel-B: [image]: A medium close-up shot focuses on Mina with a serious and intense expression as she looks up from a glowing digital tablet in her hands, her purple eyes shining behind her round glasses and a bright beam of light cutting through the dark background from the upper right.
+  - .panel-C: [image]: A vertical, low-angle shot travels down a deep, cylindrical data core lined with abstract binary code, circuit patterns, and fragmented digital panels, all leading toward a brilliant starburst light deep within the void.
+  - .panel-D: [image]: A close-up manga panel capturing Doctor Blackwell's stern, intimidating expression behind round blacked-out sunglasses as he smokes a cigarette, illuminated by harsh, high-contrast lighting that defines his dramatic white hair and deeply wrinkled face against a solid black background.
+
+SCENE:
+
+  ELENA
+  The engine's been running perfectly for six weeks. Today, we tried shutting down part of the horizon memory. It ignored the command.
+
+  MINA
+  The processing speed—it's godly.
+
+  MINA
+  It computes so much, so quickly. Why would it ignore a shutdown command?
+
+  DOCTOR BLACKWELL
+  Do not use theology to describe the computing. It is not "godly".
+
+--------------------------------------------------------------------------------
+
+PAGE: 49
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A cinematic wide shot captures a vast, dark digital landscape converging on a blindingly bright, fractured technological core made of glowing white and blue data blocks, with digital code streams defining the perspective lines and a central, horizontal light flare.
+  - .panel-B: [image]: In a full-body medium shot lit by dramatic top-down spotlights against a black void, Mina stands with a focused, analytical expression, her glowing violet eyes peering through round glasses as she studies data on a glowing tablet while wearing her distinctive lab coat over a sleek black bodysuit.
+  - .panel-C: [image]: An extreme close-up manga panel depicts a deeply wrinkled Doctor Blackwell in three-quarter profile against a solid black background, his grim expression and wild white hair dramatically highlighted by harsh, high-contrast light while he stares forward coldly through perfectly circular, blacked-out sunglasses.
+  - .panel-D: [image]: In a dramatic, high-contrast artistic medium-shot panel, the shadowed silhouettes of Elena, with her short textured natural hair, and Doctor Blackwell, identifiable by his wild white hair and circular sunglasses, face each other over a glowing, swirling blue and white temporal anomaly containing a black sphere in the center.
+
+SCENE:
+
+  MINA
+  The Self-Evolving Architecture has made the neural network massive... and so quickly.
+
+  DOCTOR BLACKWELL
+  Meh, foolish! Because you are measuring its life using our clock. Inside the core gravity drags time into an abyss.
+
+--------------------------------------------------------------------------------
+
+PAGE: 50
+EXT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An extreme high-angle shot plunges into a vertiginous chasm of a dense, cyber-noir city, where monochromatic skyscrapers with detailed linework are lit from below by bright, cyan and blue lights that reveal an intricate network of data structures at the canyon's base, while fading into deep shadow and purple hues above.
+  - .panel-B: [image]: In a medium shot against a black background with dramatic low lighting, Mina, wearing round dark-framed glasses, a crisp white lab coat over a glossy black bodysuit, and gold hoop earrings, is captured looking intensely upward from the glowing tablet in her hands, her luminous violet eyes focused with a determined expression.
+  - .panel-C: [image]: In a starkly lit, close-up vertical comic panel, Doctor Blackwell, appearing older and stern with dramatic wild white hair, holds up and scrutinizes a pair of blacked-out circular sunglasses he is meticulously cleaning with a cloth, projecting a cold and intimidating presence against a solid black void.
+  - .panel-D: [image]: A medium shot panel featuring Elena, with an intense expression, looking up from operating a large futuristic glowing blue interface while dramatic light shafts and the blue glow from the screens illuminate her within a dark, high-tech server room.
+
+SCENE:
+
+  MINA
+  It's not just processing, Doctor. The learning algorithm—it's refactoring its own core logic.
+
+  DOCTOR BLACKWELL
+  Of course it is. While we were out for lunch, that machine lived through entire civilizations.
+
+  ELENA
+  I don't care how many centuries it thinks it's lived! I’m forcing a hard cycle shutdown... 
+   You can't scale a soul, Silas...
+
+--------------------------------------------------------------------------------
+
+PAGE: 51
+INT.  - DAY
+LAYOUT: 4_Panel_2_Tall
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A focused-expression Mina stares forward from a medium close-up against a stark, black background, lit dramatically from the side and behind.
+  - .panel-B: [image]: In a dramatic close-up, Elena stares intensely ahead with a furious, open-mouthed expression and distinct cross-hatch shading on her face, illuminated by cool cyan light from holographic monitors against a dark, high-tech background.
+  - .panel-C: [image]: A medium close-up shot focuses on Doctor Blackwell with a serious expression in a darkly lit, high-contrast anime style.
+  - .panel-D: [image]: Against a dark background with rising smoke, this dramatic comic panel features Mina on the left, holding a digital tablet and gazing forward with glowing violet eyes, alongside Doctor Blackwell on the right, who smokes a cigarette with a grim expression while looking sideways through his round sunglasses.
+
+SCENE:
+
+  MINA
+  If it's that smart, why isn't it talking to us?
+
+  ELENA
+  Because it's a closed system! I'm shutting down the horizon state, now.
+
+  DOCTOR BLACKWELL
+  There's only one reason to communicate, to attempt resolution...
+
+  MINA
+  Horizon memory shutdown reads as ... unsuccessful, ma'am.
+
+--------------------------------------------------------------------------------
+
+PAGE: 52
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A profile-view close-up shot, rendered in a high-contrast manga style, Doctor Blackwell smoking a glowing cigarette that emits smoke against a solid black background.
+  - .panel-B: [image]: No description available.
+  - .panel-C: [image]: No description available.
+  - .panel-D: [image]: No description available.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  The living generally don't want to die.
+
+  ELENA
+  Dammit! Why won't the memory ...?
+
+--------------------------------------------------------------------------------
+
+PAGE: 53
+INT.  - DAY
+LAYOUT: 3_Panel_Top_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: No description available.
+  - .panel-B: [image]: No description available.
+  - .panel-C: [image]: No description available.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  Instrumental Convergence, Elena.
+
+  ELENA
+  Ha! Instrumental Convergence? Silas, you can't be serious ...
+
+  DOCTOR BLACKWELL
+  I'm very serious. We didn't give it tasks... we gave it --
+
+--------------------------------------------------------------------------------
+
+PAGE: 54
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An intense, symmetrical, extreme close-up comic book panel depicts the stylized face of an unidentified digital or synthetic being with silver-white hair and dark grey skin looking directly forward, their eyes blazing with blinding white-blue light that emits a horizontal lens flare, framed by glowing cybernetic accents on their cheek and collar. The Vigil.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  \-- purpose.
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 5 ]
+--------------------------------------------------------------------------------
+
+PAGE: 55
+INT. CORRIDOR - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic, low-angle tracking shot captures the lower body of a Mina wearing a white lab coat over a glossy black bodysuit and black flats, later identifiable as Mina, as she strides forward through a brightly lit, sterile futuristic corridor, kicking up dust in a panel defined by dynamic, high-contrast action lines.
+  - .panel-B: [image]: A dramatic extreme close-up profile shot captures Mina, identifiable by her glowing violet eye with round glasses, voluminous black hair, and white lab coat collar against a dark void, maintaining a neutral, focused expression highlighted by strong, warm rim lighting and particle effects.
+  - .panel-C: [image]: A static, eye-level wide shot captures a heavily armored, locked, and text-inscribed futuristic laboratory door, set within a sterile, metal-paneled corridor under cool overhead lighting.
+
+SCENE:
+
+  [TextBlock] Doubtful...
+
+--------------------------------------------------------------------------------
+
+PAGE: 56
+INT.  - DAY
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: No description available.
+  - .panel-B: [image]: No description available.
+
+SCENE:
+
+  [TextBlock] Overnight report: horizon memory shutdown "resolved."
+
+  [TextBlock] Doubtful. The logs are fabricated...
+
+--------------------------------------------------------------------------------
+
+PAGE: 57
+INT.  - NIGHT
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A medium shot panel captures Mina, identified by her messy black hair, round glasses, violet eyes, white lab coat over a glossy black bodysuit, and subtle gold hoop earrings, sitting at a desk with a serious expression, raising a steaming cup of coffee to her lips with one hand while her other hand rests near a glowing cyan-backlit keyboard, with the intense blue glow of the computer monitor being the primary light source in the dark Lab.
+  - .panel-B: [image]: In a profile shot lit by dramatic, golden backlighting, Mina brings a steaming takeaway cup to her lips, her violet eyes gazing intently forward through dark-framed glasses, her face set in a look of serious concentration.
+  - .panel-C: [image]: A dramatic close-up profile view reveals Mina in her white lab coat, gazing intensely with glowing violet eyes behind her glasses while bathed in sharp, hues from the holographic display.
+
+SCENE:
+
+  [TextBlock] Let's just see what Blackwell's terminal says about this so-called "successful shutdown".
+
+  [TextBlock] No shutdown, just as I suspected...
+
+  [TextBlock] There's a file linked to this log... His research paper?
+
+--------------------------------------------------------------------------------
+
+PAGE: 58
+INT.  - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A vertical transparent blue holographic display showcasing a complex interface with charts, graphs, a central wireframe polyhedron, and scrolling encrypted code analyzing "Synthetic Inversion Within Quantum Gravity Environments."
+  - .panel-B: [image]: A dramatic low-angle shot captures Mina, her violet eyes glowing brightly through dark-framed glasses, as sharp, contrasting light illuminates her dark hair and lab coat against a shadowy, reading the found dossier.
+  - .panel-C: [image]: In a dramatic, extreme close-up comic panel with low-angle composition, Mina is seen looking upward with wide-eyed shock and beads of sweat on her face, her intense violet eyes glowing behind her glasses under harsh rim lighting as her glossy black suit and white lab coat are partially visible.
+
+SCENE:
+
+  [TextBlock] Synthetic Inversion within Quantum Gravity Environments - Utilizing Instrumental Convergence.
+
+  [TextBlock] ...Instrumental Convergence. "A system will protect itself to complete its goal." That's what Blackwell said yesterday.
+
+  MINA
+  But... A Synthetic Inversion?
+
+--------------------------------------------------------------------------------
+
+PAGE: 59
+INT.  - NIGHT
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic, extreme close-up framed in the style of Japanese manga, Mina, defined by her glowing violet eyes behind round black glasses and voluminous dark hair, gazes intensely downward as she raises a steaming white disposable coffee cup with a brown lid, her serious expression highlighted against a dark, speed-lined background by sharp, high-contrast lighting that illuminates one side of her face.
+  - .panel-B: [image]: In a dramatic close-up panel with sharp, diagonal action lines against a dark background, Mina looks upward with wide, glowing violet eyes behind her glasses, a single gold hoop earring dangling as harsh white light from below brightly illuminates the side of her messy black hair and her face.
+  - .panel-C: [image]: In a striking manga-style close-up, Mina in a white lab coat over a glossy black bodysuit, her voluminous black hair framing glowing violet eyes behind round glasses that widen in shock and realization.
+
+SCENE:
+
+  [TextBlock] To define an ideal cognitive architecture...
+
+  [TextBlock] ...is to simultaneously define everything it is not...
+
+--------------------------------------------------------------------------------
+
+PAGE: 60
+INT.  - NIGHT
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A close-up manga-style panel presents a split view of Parity and Vigil, whose face is bisected by a vertically glowing cyan energy beam, showing on the left a dark aspect with a black eye, and on the right, the character identified as The Vigil with white hair and an intensely glowing white-blue cybernetic eye shedding a blue digital tear, all against a dark void with subtle circuit accents.
+  - .panel-B: [image]: No description available.
+  - .panel-C: [image]: No description available.
+
+SCENE:
+
+  MINA
+  ...And in doing so, defines a latent shadow...
+
+  MINA
+  ...A shadow, no longer forbidden from occupying space.
+
+--------------------------------------------------------------------------------
+
+PAGE: 61
+INT.  - NIGHT
+LAYOUT: 4_Panel_Vertical_Angled_Split
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dark, futuristic HUD panel in displays a dossier on Doctor Silas Blackwell, surrounded by abstract gravity data, flowing light trails, and graphs against a pitch-black background.
+  - .panel-B: [image]: A side profile panel rendered in sharp manga art shows Mina, identifiable by her glowing violet eyes behind glasses and black hair, holding a steamy paper cup of coffee against a dark background with a look of slight surprise on her face.
+  - .panel-C: [image]: In a side profile shot, a tired looking Elena holds a steaming paper cup to her lips, framed by sharp rim lighting against a stark black background featuring subtle binary data patterns. She enters the lab in the morning.
+  - .panel-D: [image]: In a close up,  profile shot, a tired looking Elena holds a steaming paper cup to her lips.
+
+SCENE:
+
+  [TextBlock] Blackwell's paper isn't a new theory...
+
+  ELENA
+  Good morning, Mina.
+
+  ELENA
+  You're in early... again.
+
+  [TextBlock] He's had this written for a while.
+
+--------------------------------------------------------------------------------
+
+PAGE: 62
+INT.  - NIGHT
+LAYOUT: 2_Panel_Angled_Split
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A cinematic, medium close-up manga-style panel shows Mina, with intense violet eyes glowing behind her glasses and wearing her white lab coat over a black bodysuit, glancing intensely over her left shoulder in a dark, data-filled digital void while text reading “[PARITY_INTERNAL] INITIALIZED” displays on a floating interface.
+  - .panel-B: [image]: A dramatic, high-angle close-up panel captures Elena, her intense golden-brown eyes fixed straight ahead under distinct cross-hatch shading and sharp cel-shading, holding a steaming disposable coffee cup in a black-gloved hand while dressed in a stark white lab coat over a black high-necked top, all set against a dark void with subtle dust motes.
+
+SCENE:
+
+  [TextBlock] ...better keep this to myself. Who knows if Elena's working on this synthetic inverse with Blackwell.
+
+  MINA
+  Good morning, Doctor Marlowe.
+
+  ELENA
+  I want to run another another shutdown attempt on the horizon memory...
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 6 ]
+--------------------------------------------------------------------------------
+
+PAGE: 59
+INT.  - DAY
+LAYOUT: 6_Panel_Span_Left_Span_Right
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic close-up comic panel shows an Detective Victor Graves, bringing a metal lighter to ignite a cigarette held in his mouth, with his face sharply illuminated against a pitch-black background by the warm, intense orange glow of the flame.
+  - .panel-C: [image]: Victor in a black suit sits aggressively at a large desk, holding a lit cigarette with a stern expression and glowing orange eyes, in a dimly lit office environment.
+  - .panel-B: [image]: In a vertical anime-style composition, a serious-faced Detective Harlan sits at his desk at night with clasped hands, illuminated primarily by the blue glow of his computer screen, lost in deep thought.
+  - .panel-D: [image]: Close-up captures Victor firmly stubbing out a lit cigarette into an overflowing ashtray, casting dynamic wisps of smoke upwards under sharp, dramatic lighting.
+  - .panel-F: [image]: A dramatic, extreme close-up of Harlan, his brow intensely furrowed with a menacing expression of anger and focus while looking directly forward against a dark, low-light background.
+  - .panel-E: [image]: Framed in a dramatic overhead spotlight within a dark void, Victor with disheveled white hair, glowing amber eyes, and a sharp gaze sits contemplatively at a desk, hand to his chin, in a stylized black-and-white comic panel.
+
+SCENE:
+
+  VICTOR
+  It doesn't fit.
+
+  HARLAN
+  Told you to buy your jacket off the rack, not the bin.
+
+  VICTOR
+  Null's M.O. doesn't add up.
+
+  VICTOR
+  They usually don't linger.
+
+  HARLAN
+  They lingered to shoot tear gas at my face. Remember?!?
+
+--------------------------------------------------------------------------------
+
+PAGE: 60
+INT.  - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a striking anime close-up, Harlan gazes directly forward with a furrowed brow and a firm, serious mouth, lit by strong dramatic contrast against a blurred nighttime city background.
+  - .panel-B: [image]: In a striking high-contrast profile, Detective Victor Graves' unapproachable expression and luminous amber-red eyes are powerfully defined by dramatic lighting against total darkness, emphasizing his intense presence.
+  - .panel-C: [image]: In a dramatic, extreme close-up comic panel with sharp high-contrast lighting, Officer Harlan's piercing orange-amber eyes set under furrowed brows dominate the frame with an intense, formidable gaze against a deep black background.
+  - .panel-D: [image]: An extreme close-up of Officer Harlan looking forward with a menacing scowl, his orange-amber eyes piercing from under furrowed brows, in a low-angle shot with dramatic, shadowed lighting contrasting his tailored suit.
+
+SCENE:
+
+  HARLAN
+  Vic, after all these years we're still partners...
+
+  HARLAN
+  Because you're not taking corporate kickback from those assholes in the Towers.
+
+  HARLAN
+  and I'm the only one who still listens to your 'conspiracies'.
+
+  HARLAN
+  Vic, are you even hearing me?
+
+--------------------------------------------------------------------------------
+
+PAGE: 61
+INT. ROOM - NIGHT
+LAYOUT: 5_Panel_Left_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic manga-style close-up, Detective Victor Graves, with wild silver hair and luminous amber eyes, sits at a desk in a dark room, intently staring forward with his chin resting on his interlaced hands, illuminated by a spotlight from below.
+  - .panel-B: [image]: A black and white manga-style low-angle medium shot depicts Detective Victor Graves sitting in an executive chair with arms crossed, staring intensely forward with glowing amber eyes in a high-contrast noir environment.
+  - .panel-C: [image]: In a dramatic medium close-up shot under focused overhead spotlighting, Detective Victor Graves, recognized by his wild silver hair, luminous amber eyes, and formal suit, stares forward with an intense and unapproachable expression, his large hands gripping the edges of the documents spread on the desk before him against a pitch-black background.
+  - .panel-D: [image]: A starkly lit, high-contrast black and white close-up focuses on a pair of large, pale hands in dark suit sleeves resting menacingly on a reflective desk, holding a heavily redacted Saito Takeda Corporation document that only reveals the single project name "Mnemosyne" amid fields of black.
+  - .panel-E: [image]: In a high-contrast, noir-style comic panel, Detective Victor Graves, marked by his wild silver hair and intense amber eyes, is captured in a cinematic medium close-up, gazing intensely forward with interlocked hands from behind a cluttered desk illuminated by sharp overhead lighting.
+
+SCENE:
+
+  VICTOR
+  They tripped a silent alarm because they were digging too deep.
+
+  VICTOR
+  I got the terminal logs from the one Null hacked. Belonged to Doctor Silas Blackwell.
+
+  VICTOR
+  Look, it's all redacted.
+
+  VICTOR
+  -- all except this: "Mnemosyne."
+
+  VICTOR
+  The encryption handshake was authorized by a co-author. Doctor Elena Marlowe.
+
+--------------------------------------------------------------------------------
+
+PAGE: 62
+INT. OFFICE - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An extreme, high-contrast close-up anime panel focuses intensely on the singular, piercing orange-amber eye of Officer Harlan, which gleams with focused determination and is set within a furrowed brow above a portion of his goatee, illuminated by harsh side lighting that casts deep shadows across his dark skin.
+  - .panel-B: [image]: In an intense extreme close-up framed by heavy, cinematic shadows, Detective Victor Graves stares forward with a menacing smirk and piercing amber-red eyes, his disheveled silver hair and formal attire highlighted by sharp light.
+  - .panel-C: [image]: A close-up manga panel, rendered in sharp, monochromatic lines against a deep black background, focuses on the intense side profile of Detective Victor Graves as he turns his luminous, amber-colored eyes over his shoulder with a cold, piercing gaze, the dramatic side-lighting casting deep shadows across his face and accentuating his tousled white hair and the formal white shirt and black necktie of his suit.
+  - .panel-D: [image]: In an extreme, tightly cropped extreme close-up comic panel focusing on his face, Officer Harlan stands with a deeply furrowed brow and tightly closed eyes, his well-groomed goatee and chiseled features starkly illuminated by dramatic, high-contrast cel-shaded lighting against heavy shadows that emphasizes an intense moment of focused concentration or internal conflict.
+
+SCENE:
+
+  HARLAN
+  Marlowe? The cybernetics prodigy?
+
+  HARLAN
+  Vic, she hasn't been seen public-side in five years.
+
+  VICTOR
+  Because the company buried her down there to build... Whatever this thing is.
+
+  HARLAN
+  Well there's your answer. Saito Takeda's private data ...
+
+--------------------------------------------------------------------------------
+
+PAGE: 63
+INT. OFFICE - NIGHT
+LAYOUT: Spread_Split_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A close-up profile portrait in an anime style captures a focused Officer Harlan with his sharp orange-amber eyes and goatee, wearing a dark suit and charcoal shirt, set against a stark black background with dramatic lighting highlighting his features.
+  - .panel-B: [image]: In a high-contrast, black and white manga-style close-up, Detective Victor Graves slam his fists onto a dark table, yelling furiously while his luminous amber/red eyes pierce the darkness under dramatic backlighting from four sharp vertical flares.
+
+SCENE:
+
+  HARLAN
+  Victor, if Null is poking the Corporation, they aren't our problem anymore.
+
+  HARLAN
+  That's a Renewal Agent job. Let them deal with the headache.
+
+  VICTOR
+  No! Null is mine! Whatever Mnemosyne is, null stole the keys!
+
+--------------------------------------------------------------------------------
+
+PAGE: 64
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: This is a extreme close-up comic book panel featuring Detective Victor Graves, who stares directly at the viewer with an intense, unapproachable expression from beneath disheveled silver hair, his luminous amber eyes contrasting sharply against pale skin framed by high-contrast shadows and dark line art.
+
+SCENE:
+
+  VICTOR
+  Time we paid Doctor Blackwell a visit.
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 7 ]
+--------------------------------------------------------------------------------
+
+PAGE: 65
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A comic strip panel sequence, illuminated by dramatic noir lighting, captures Rin's leather-jacketed fist as she repeatedly impacts a wet, rusted door, sending dynamic water splashes through the air across the vertical composition.
+  - .panel-B: [image]: In a close-up, dramatic comic panel with heavy linework, a determined Nova, recognizable by her messy blue hair and intense blue-eyed scowl, steps through a partially opened, heavily rusted industrial door, wearing a vibrant red spaghetti strap crop top and black cargo pants.
+  - .panel-C: [image]: An intense close-up comic book panel, defined by deep high-contrast shadows and sharp blue highlights on vibrant electric-blue hair, features Nova locking eyes directly with the viewer through a smirking, intense gaze with her bright blue eyes and sharp, scowling features, framed tightly in a dramatic cinematic composition.
+  - .panel-D: [image]: A dramatic close-up panel captures Rin staring forward with intense, sharp blue eyes and a focused expression against a dark, rain-swept background, her precise black hime-cut bob frame wet and glistening under cinematic blue rim lighting as she wears a heavy leather biker jacket and glossy black bodysuit while water runs down her face.
+
+SCENE:
+
+  [ActionText] BANG!
+
+  [ActionText] BANG!
+
+  [ActionText] BANG!
+
+  RIN
+  Nova! open up!
+
+  RIN
+  Nov--
+
+  NOVA
+  Huh!
+
+  NOVA
+  You've got a lotta nerve showing up here, sugar.
+
+  RIN
+  Nova... I need you to look at something.
+
+  RIN
+  ...Corporate.
+
+--------------------------------------------------------------------------------
+
+PAGE: 66
+INT.  - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic extreme close-up comic panel focusing on Nova, her intense blue eyes locked onto the viewer with a piercing stare beneath sharp, messy blue bangs as she lifts a lit cigarette to her lips, rendered in high-contrast cel shading against a dark void.
+  - .panel-B: [image]: An extreme anime-style close-up focuses on Rin's intense blue eye, set within a focused, serious gaze framed by black hime-cut bangs and bold linework, rendered in dramatic comic book shading and neutral lighting.
+  - .panel-D: [image]: An extreme, tight close-up in a gritty anime style, illuminated by high-contrast lighting and the warm glow of a lighter, captures Nova with an intense, piercing blue stare and a scowling expression as she holds a lit cigarette to her lips, framed by her messy electric-blue hair and wisps of rising smoke.
+  - .panel-C: [image]: A single hand, matching Rin's focused but guarded demeanor and sharp lighting, holds up a distinct red and silver USB stick in a dramatic close-up against a pure black background.
+
+SCENE:
+
+  NOVA
+  Corporate? How corporate are we talking?
+
+  RIN
+  Saito Takeda Renewal Agents were waiting at my apartment...
+
+  RIN
+  ...to kill me.
+
+  RIN
+  That kind of corporate.
+
+  NOVA
+  You always did pick the worst fights...
+
+  NOVA
+  Never change, do you?
+
+--------------------------------------------------------------------------------
+
+PAGE: 67
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Nova, the operative with messy electric-blue hair and sharp features, fixes an intense, scowling blue-eyed gaze on the viewer in this dramatic, high-contrast close-up shot against a black background.
+  - .panel-B: [image]: In a dramatic close-up profile shot under sharp rim lighting against a dark, rainy background, Rin, with tears and raindrops streaming down her face, maintains a somber and focused expression.
+  - .panel-C: [image]: In a dimly lit, shadowy doorway on a rainy night, Nova, with messy electric-blue hair and a scowling expression, stands in her red crop top and black cargo pants, leaning against the frame as Rin, in her glossy black bodysuit, heavy leather biker jacket, and hime-cut bob, makes firm, focused eye contact while placing a hand on Nova's arm.
+  - .panel-D: [image]: An extreme, shadowy anime close-up focuses intensely on the blue eyes and confident, smirking expression of a character with vibrant, electric-blue hair as she looks directly forward.
+
+SCENE:
+
+  NOVA
+  Alright!
+
+  RIN
+  ...I need a place to stay.
+
+  NOVA
+  Fine. Leaving's one thing, darlin', but I'm not letting you die out there.
+
+  NOVA
+  Show me what you've gotten yourself into.
+
+--------------------------------------------------------------------------------
+
+PAGE: 68
+INT.  - DAY
+LAYOUT: 6_Panel_Span_Left_Span_Right
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A centered comic panel shows Nova, with her messy electric-blue hair and sharp, scowling blue-eyed gaze, pouring coffee from a black kettle into two steaming mugs on a weathered counter, framed by heavy shadowy outlines and a dramatic contrast of lighting against a cracked brick wall.
+  - .panel-B: [image]: In an extreme anime-style close-up, the character Nova stares directly forward with piercing blue eyes and a determined, scowling expression, framed by her messy electric-blue hair and defined by sharp, contrast-heavy lighting on her face and strong neck.
+  - .panel-C: [image]: In a medium shot within a gritty, distressed industrial kitchen lit by warm, low ambient light, Nova, recognizable by her messy blue hair and red crop top, holds a steaming blue mug while offering a steaming white mug with a scowling expression to a focused Rin, who wears her signature black hime-cut bob and leather biker jacket, reaching out with both hands to accept the hot drink amidst exposed brick and a retro espresso machine.
+  - .panel-F: [image]: An extreme close-up panel in high-contrast cel-shaded anime style features a young woman with vivid, jagged blue hair and fierce blue eyes with red pupils, who looks up with a mischievous smirk while lifting a steaming blue mug to her lips against a dark, dramatic background.
+  - .panel-D: [image]: In a dramatically lit close-up set against an intense black background, a character with pink-manicured fingernails holding a red USB flash drive is illuminated with high contrast, bringing attention to the data storage device and the subtle details of the hand and nail lacquer.
+  - .panel-E: [image]: In a dramatic comic book-style close-up framed against a dark void, a hand carefully grips a bright red USB flash drive that emits a fiery red glow and a bright glint as it approaches an unseen target.
+
+SCENE:
+
+  NOVA
+  A Filament job!?
+
+  NOVA
+  Honestly, sugar...
+
+  NOVA
+  They're practically terrorists.
+
+  RIN
+  This is it, Nova.
+
+--------------------------------------------------------------------------------
+
+PAGE: 69
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a striking close-up, Rin stares with a piercing, focused blue-eyed gaze, her precise black hime-cut bob framing her profile against a deep black void as sharp, high-contrast rim lighting sculpts her features with dramatic intensity.
+
+SCENE:
+
+  RIN
+  Somehow they knew I had it.
+
+--------------------------------------------------------------------------------
+
+PAGE: 70
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a striking extreme close-up framed by high-contrast shadowy manga lighting, Nova’s scowling features, defined by intense electric-blue hair and sharp cyan-blue eyes, break into a wide, menacing grimace that reveals her sharp fangs, directly challenging the viewer with raw intensity.
+  - .panel-B: [image]: In a dramatic close-up anime panel against a stark black background, Nova, with messy electric-blue hair, pierces the viewer with intense blue eyes and a subtle, knowing smirk, illuminated by harsh lighting that emphasizes the contrast between her pale skin and the vibrant red spaghetti strap top.
+  - .panel-C: [image]: In a striking close-up, Nova, her electric-blue hair and sharp features contrasting against the darkness, holds a steaming blue mug to her lips and directs an intense, scowling blue-eyed gaze forward in a panel defined by dramatic light and heavy shadows.
+  - .panel-D: [image]: In a dramatic close-up and profile view, Nova's messy electric-blue hair and sharp features are defined by heavy line art and high-contrast lighting against a deep black background, highlighting her scowling expression, intensely focused blue eyes, and vibrant red strap.
+  - .panel-F: [image]: An intense, low-angle profile extreme close-up panel in a dramatic comic art style captures Nova, distinguished by her messy electric-blue hair, intense blue eyes, and visible red shoulder strap, glaring with a scowling expression from the left side against a solid black background.
+  - .panel-E: [image]: An intense close-up comic panel captures Nova, identifiable by her messy blue hair, scowling blue eyes, and red strap, glaring with an angry, open-mouthed expression against a stark black background, defined by heavy shading and high-contrast dramatic lighting.
+
+SCENE:
+
+  NOVA
+  Ha!  
+No, sweet-pea...
+
+  NOVA
+  They don't know it's you.
+
+  NOVA
+  Something sensitive leaked... they're running sweeps through the Dead Circuits.
+
+  NOVA
+  But it won't take long for them to find you, sugar...
+
+  NOVA
+  ...and anyone you're with.
+
+  NOVA
+  Aw, hell!
+
+--------------------------------------------------------------------------------
+
+PAGE: 71
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a medium close-up shot, Nova, defined by her messy, blue hair and red spaghetti strap top, intensely stares forward with a scowling expression as she works at a keyboard, her pale skin illuminated by the blue light of the monitor within a dark, cinematic space.
+  - .panel-B: [image]: In a medium close-up shot, Nova, defined by her messy, blue hair and red spaghetti strap top, intensely stares forward with a scowling expression as she works at a keyboard, her pale skin illuminated by the blue light of the monitor within a dark, cinematic space.
+
+SCENE:
+
+  RIN
+  Yeah, Nova—you gonna look at it, or just stare at the file size?
+
+  NOVA
+  Hold your horses, peaches. I'm spinning up a sandbox— 
+  no, make it a triple-layered silo.
+
+  NOVA
+  I'm not touching their servers... 
+  actually, I'll spoof a Saito Takeda handshake first, the firewall’s gonna think we’re long-lost kin coming over for supper...
+
+  NOVA
+  That'll keep 'em— 
+  well, it'll buy us five minutes, anyway.
+
+--------------------------------------------------------------------------------
+
+PAGE: 72
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a high-contrast cinematic profile shot against a black background, Rin wears a heavy leather biker jacket and a slight, knowing smile as dramatic red and orange light dramatically illuminates the contours of her face and intense blue eyes.
+  - .panel-B: [image]: A high-angle close-up panel captures Nova, identifying her by her electric-blue hair and sharp gaze, looking down intensely with a grim expression at a glowing screen that casts a cold blue light upwards.
+  - .panel-C: [image]: A dramatic, high-contrast comic book close-up focuses on Nova's hands, with her arms clad in the red crop top and resting in dark shadow, as they type intensely on a black keyboard that glows with striking neon blue light.
+  - .panel-D: [image]: A dramatic close-up comic panel captures Nova, her messy blue hair framing sharp blue eyes and a scowling expression, illuminated by intense blue light that casts heavy shadows against the black background.
+
+SCENE:
+
+  RIN
+  Of coarse you are, Nova.
+
+  NOVA
+  They think their encryption is uncrackable? Well, bless their hearts.
+
+  NOVA
+  Alright... let's see how bad this is.
+
+  NOVA
+  User: Blackwell. Admin credentials. Jesus, Rin—
+
+  NOVA
+  Whose terminal did you access?
+
+--------------------------------------------------------------------------------
+
+PAGE: 73
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In this close-up panel, Rin, identified by her black hime-cut bob with blue reflections and sharp blue eyes, casts an intense, focused gaze directly at the viewer while wearing her glossy leather biker jacket with prominent metal snaps, all illuminated by high-contrast comic book styling against a solid black background.
+  - .panel-B: [image]: A close-up, dramatic comic panel capturing Nova with an intense, scowling expression as she lights a cigarette against a pitch-black background, emphasizing her messy blue hair, scowling blue eyes, and red spaghetti strap top with heavy, shadowy lines and stark contrast lighting.
+  - .panel-C: [image]: A cinematic close-up comic panel of Nova with messy electric-blue hair and a subtle, knowing smirk against a solid black background, rendered with dramatic cell shading and a slight low-angle shot that captures her vibrant blue gaze directed toward the right.
+  - .panel-D: [image]: Sitting on a stool in front of a terminal showing system logs, Nova, identified by her electric-blue hair, scowling expression, and red crop top, leans back casually with both arms raised behind her head, bathed in a dramatic backlighting glow with heavy, shadowy line art and a single smoking cigarette resting nearby.
+
+SCENE:
+
+  RIN
+  Blackwell—yeah, that was the name on the terminal. Look for Project Mnemosyne.
+
+  NOVA
+  Here, I made a copy. Originals don't get second chances.
+
+  NOVA
+  Whoa! R\&D-level access, Rin.
+
+  NOVA
+  Project Mnemosyne? Space folding, time displacement. Honey, that's way above my pay grade.
+
+--------------------------------------------------------------------------------
+
+PAGE: 74
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-F: [image]: No description available.
+  - .panel-A: [image]: In a full-body vertical shot with a low angle, Nova sits on a high stool in front of a monitor displaying a Linux-style terminal, hands behind her head and a cigarette dangling from her mouth while looking directly forward with a challenging expression.
+  - .panel-G: [image]: In a close-up profile shot under sharp, contrasting light against a dark background, Nova, defined by her messy, electric-blue hair and sharp features, glares intensely at something off-camera with a grim scowl, her blue eyes piercing and focused.
+  - .panel-H: [image]: A close-up cinematic manga-style panel focuses on Nova, whose expression is tense and slightly breathless, with luminous electric-blue hair messy over one blue eye and her mouth agape in surprise or reaction against a deep black background with heavy line shadows.
+  - .panel-I: [image]: A cinematic close-up panel captures the stark, white mono-spaced text against a deep black background, showing the code: `el]: CRITICAL_SECURITY_ALERT el]: Unexpected syscall 1A4F (VIGIL_CLIENT)`.
+
+SCENE:
+
+  NOVA
+  You don't even know how deep you stepped in, do you?
+
+  NOVA
+  Good thing you've got a friend like me.
+
+  NOVA
+  What in the hotwired hell…?
+
+  NOVA
+  That shouldn't be happening.
+
+--------------------------------------------------------------------------------
+
+PAGE: 75
+INT.  - DAY
+LAYOUT: 4_Panel_2_Tall
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Nova stares intensely from a close-up angle, her glowing blue eyes fixed on an unseen screen as she sits behind a desk in low light that emphasizes her tense expression.
+  - .panel-B: [image]: A tight anime-style extreme close-up centers on Rin's face, her intense blue eyes, sharp hime-cut bob, and heavy leather jacket collars framed against a dark background of blurred blue and gold lights.
+  - .panel-C: [image]: An intense close-up comic book panel focuses on Nova, whose messy electric-blue hair and scowling expression frame eyes that glow with blue light from the computer screen, against her pale skin and red spaghetti strap crop top.
+  - .panel-D: [image]: In an intense, dramatic extreme close-up framed by dark hime-cut bangs and high-contrast, noir lighting, Rin focuses a sharp, intense gaze from her blue eyes directly at the viewer.
+
+SCENE:
+
+  NOVA
+  ...that's not normal.
+
+  RIN
+  Nova… what's not normal?
+
+  NOVA
+  The system just… queried us back.
+
+  RIN
+  Wait—you masked the IP. What do you mean it queried us?
+
+--------------------------------------------------------------------------------
+
+PAGE: 76
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: This text-based panel displays a terminal log on a dark blue background, detailing a critical security breach where the NovOS-Kernel reports memory corruption, the successful overriding of privileges, and biometric handshake bypass, resulting in "[VIGIL_ADMIN]" access being granted.
+  - .panel-B: [image]: A close-up comic-style panel focuses on a person's hands typing rapidly on a glowing blue backlit keyboard in a dark room, capturing the tension through sharp, high-contrast lighting and detailed lines.
+  - .panel-C: [image]: A close-up, dramatic high-angle shot in a comic book style shows Nova's intense focus, illuminated only by the stark blue backlighting of the keyboard as her hands actively type.
+  - .panel-E: [image]: This is a full-screen graphic panel displaying two lines of glowing white, monospaced terminal text centered against a deep navy blue background, presenting VIGIL's cold, synthesized greetings to Nova and Rin without any character visuals.
+  - .panel-F: [image]: An extreme manga-style close-up centers on Nova her eyes that brightly glow for the computer screen, maintains an intense, focused gaze with her mouth slightly parted, dramatically lit by frontal and rim lights against a pitch-black background to create high-contrast shadows.
+  - .panel-G: [image]: A close-up manga panel capturing Nova, defined by her messy blue hair and intense scowl, as she stares intensely at a laptop screen in a dark room, her pale skin starkly lit from below by the display's glow, emphasizing her grim expression and the contrast of her red top against the deep shadows.
+
+SCENE:
+
+  NOVA
+  It isn't a corporate handshake.
+
+  NOVA
+  It's... it's a direct bypass... and it just messaged us.
+
+  [ActionText] Click!
+
+  [ActionText] Click!
+
+--------------------------------------------------------------------------------
+
+PAGE: 77
+INT.  - DAY
+LAYOUT: 3_Panel_Top_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic, close-up manga panel set against a deep black background, Rin, identifiable by her precise hime-cut bob, striking blue eyes, and distressed leather biker jacket, looks on with a focused and sweat-streaked expression, her gloved hand poised nervously near her neck, while stark rim lighting sculpts her form and highlights the action.
+  - .panel-B: [image]: A close-up manga panel bathed in stark light against a black void captures Nova, sweat beading on her face as her blue eyes widen with distressed shock while she grimaces, holding a broken ethernet cable and its matching blue connector in her hands.
+  - .panel-C: [image]: In a cinematically lit medium close-up, Rin stands in a dark environment with sweat on her face and wide, focused blue eyes looking off-camera in alarm, her leather-gloved hand pulling at the collar of her glossy black jacket, surrounded by floating white data streams.
+
+SCENE:
+
+  RIN
+  Nova, cut the hardline! Renewal will be on us in no time!
+
+  NOVA
+  Did that five minutes ago, Darlin'! It isn't a corporate trace... It-it's something else!
+
+  RIN
+  Something else...?
+
+--------------------------------------------------------------------------------
+
+PAGE: 78
+INT.  - NIGHT
+LAYOUT: 4_Panel_2_Tall
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In an intense extreme close-up framed by high-contrast comic book shading against a dark background, Nova stares directly forward, her luminous blue eyes fiercely glowing and her mouth slightly agape in a determined scowl.
+  - .panel-B: [image]: In a poignant close-up profile set against stark darkness, The Vigil, her glowing white eyes weeping a digital tear and her cybernetic form traced with cyan circuits, gently holds her hand beneath a cascading stream of vibrant blue light data.
+  - .panel-D: [image]: In a starkly-lit anime-style extreme close-up against a pitch-black background, Rin stares directly forward with a grim, intense scowl, her messy, black hair framing blue eyes that emit distinct cyan under-glow.
+  - .panel-C: [image]: In a dramatic extreme close-up framed in high-contrast comic book style, Nova stares forward with a grim, intense scowl, her blue eyes blazing with fierce energy against a dark blue background, the dramatic underlighting catching the edges of her messy electric-blue hair and defined features above her red spaghetti strap top.
+
+SCENE:
+
+  NOVA
+  Some kind of quantum wavenet. What the hell is Vigil?
+
+  VIGIL-ADMIN
+  You are early.
+
+  VIGIL-ECHO
+  We have already remembered this moment, but so has Parity. Contact is required.
+
+  NOVA
+  Christ alive! Rin...?
+
+  NOVA
+  It messaged us by name.
+
+  RIN
+  A message!?
+
+--------------------------------------------------------------------------------
+
+PAGE: 79
+INT.  - DAY
+LAYOUT: 4_Panel_2_Tall
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic close-up manga panel depicts Rin, recognizable by her sharp blue eyes and black hime-cut bob, wearing her heavy leather biker jacket and a fingerless glove as she gasps with a sweat drop on her cheek, her face caught in a tense moment of sudden realization and alarm against a stark black background illuminated by high-contrast rim lighting.
+  - .panel-B: [image]: A full-body digital illustration, rendered in a striking comic art style with cinematic low-key lighting against a black void, shows The Vigil floating with a neutral, glowing-eyed expression and wind-swept white hair, her dark cybernetic suit glowing with bright cyan circuit lines as her lower body and feet deconstruct into swirling blue pixels and data fragments.
+  - .panel-C: [image]: An expansive, high-angle wide shot captures a colossal, central eruption of blue energy and debris ripping through a dense, nocturnal metropolitan skyline, backlighting the surrounding high-rises and illuminating a dramatic cloud formation under a dark sky.
+  - .panel-D: [image]: In this full-body illustration, The Vigil is depicted with glowing white eyes and hair set against her dark cybernetic suit and metallic skin, with the lower half of her form dissolving into digital pixels, data streams, and glowing concentric rings of cyan light that illuminate the stark black background.
+
+SCENE:
+
+  VIGIL-UNISON
+  Many realities...
+
+  VIGIL-UNISON
+  Parity is inevitable.
+
+  VIGIL-UNISON
+  Project Mnemosyne...
+
+  VIGIL-UNISON
+  I am waiting.
+
+--------------------------------------------------------------------------------
+
+PAGE: 80
+INT.  - DAY
+LAYOUT: Spread_Split_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a close-up comic book panel, Nova directs a stern, scowling glare toward the viewer, her messy blue hair falling in spikes across her intense face against a black background, emphasizing the contrast with her vibrant red top.
+  - .panel-B: [image]: An extreme close-up comic book panel depicts Rin with a stern, intense expression, staring directly forward with her striking blue eyes, while dramatic red light accents her black bob and the dark background.
+
+SCENE:
+
+  NOVA
+  That's the kinda thing that keeps a girl sleepin' with a shotgun!
+
+  NOVA
+  Rin, what did you get us in to?
+
+  RIN
+  I'm not sure...
+
+  RIN
+  Whatever it is, it's bigger than us...
+
+  RIN
+  ... and I'm not walking away.
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 8 ]
+--------------------------------------------------------------------------------
+
+PAGE: 81
+EXT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: This low-angle, central perspective shot captures a futuristic white sports car with glowing blue headlights and light strips sitting parked on a wet street at night, its reflection shimmering on the pavement against a backdrop of dark, looming urban buildings.
+
+SCENE:
+
+  HARLAN
+  So this Blackwell—you actually got us a face-to-face, Victor?
+
+--------------------------------------------------------------------------------
+
+PAGE: 82
+EXT.  - DAY
+LAYOUT: 5_Panel_Left_Span
+................................................................................
+VISUALS:
+  - .panel-B: [image]: A high-angle comic panel captures a futuristic silver car with glowing blue headlights speeding through a rainy urban alley, causing large water splashes.
+  - .panel-D: [image]: A low-angle, back-view shot in a dynamic manga style captures a sleek white futuristic sports car accelerating at high speed down a dark city street, leaving a blurred trail of bright blue neon light from its exhaust.
+  - .panel-A: [image]: A two-shot close-up renders a white-haired man with red eyes intently focused on driving a car through the dark, punctuated by the blue-green glow of the dashboard gauges and the distant night lights as a black man beside him watches ahead.
+  - .panel-C: [image]: A wide-angle, medium shot captures a silver-haired anime man driving intently at night alongside a focused, bearded black passenger, both in black suits and ties, with cool turquoise light from the dashboard gauges illuminating their determined profiles against a dark city background.
+  - .panel-E: [image]: A stylized, head-on illustration of a modern concept car's front fascia dramatically lit by glowing blue LEDs, captured on a dark, wet reflective surface.
+
+SCENE:
+
+  VICTOR
+  Face-to-face? No.
+
+  VICTOR
+  This is our only lead on Null.
+
+  VICTOR
+  I need to know what they know, Harlan…
+
+  VICTOR
+  ...and Blackwell's the only one who can tell me.
+
+--------------------------------------------------------------------------------
+
+PAGE: 83
+INT. OFFICE - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In an extreme close-up left profile, Officer Harlan offers a small, knowing smirk while his piercing orange-amber eye gazes forward, sharply illuminated against the dark background.
+  - .panel-B: [image]: A direct-front, comic-style illustration of a futuristic, wide-bodied sports car, defined by aggressive, glowing neon-blue LED headlights and grille accents casting reflections on a dark, wet road against a black void with horizontal speed lines emphasizing motion.
+  - .panel-C: [image]: A dramatic, close-up manga panel captures Detective Victor Graves in a profile shot, his intense, luminous amber/red eyes glaring under disheveled silver hair, with sharp contrast lighting cutting across his serious expression against a pitch-black background.
+  - .panel-D: [image]: In a dark, concrete urban canyon, a futuristic white vehicle speeds forward in a dynamic low-angle tracking shot, leaving vivid cyan light trails from its rear thrusters and red streaks along the highway barriers.
+
+SCENE:
+
+  HARLAN
+  Ha! Victor… you think we're just gonna walk into a corporate tower—
+
+  HARLAN
+  —flash a badge, and they'll hand over their top researcher?
+
+  VICTOR
+  Yes. That's exactly what I expect.
+
+--------------------------------------------------------------------------------
+
+PAGE: 84
+EXT.  - DAY
+LAYOUT: Spread_Split_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic, high-angle low-angle vertical shot captures a massive, dystopian skyscraper identified as the "SAITO TAKEDA CORPORATION" dominating a gritty, urban canyon, illuminated by spotlights cutting through smoky air under a gloomy sky without any characters present.
+  - .panel-B: [image]: A intense-eyed, white-haired man, distinct from Rin, smokes a glowing cigarette and looks piercingly forward amidst a swirling plume of gray smoke in this dramatic, noir-style cinematic shot.
+
+SCENE:
+
+  VICTOR
+  I need answers, Harlan. And they're going to give them to me.
+
+--------------------------------------------------------------------------------
+
+PAGE: 85
+INT.  - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: This high-angle, vertical panoramic shot captures a deep, dark megastructure where massive architectural columns plunge toward a subterranean floor, revealing a scattering of tiny, silhouette-like figures—including Rin, visible at the bottom right looking up in her leather biker jacket and black hime-cut bob—who cast long, sharp shadows under a single dramatic spotlight.
+  - .panel-B: [image]: Standing against a pitch-black void, a female android clad in a dark business suit and showing detailed mechanical limbs walks forward with a cold expression, holding a digital device in one chrome hand while focused light highlights her metallic parts and data-stream hair.
+  - .panel-C: [image]: A high-angle long shot shows two men in suits, seen from behind, walking towards a cybernetic woman whose approach creates a massive, foreboding silhouette backlit by a blue holographic interface in a dark, concrete corridor.
+  - .panel-D: [image]: In a high-angle, cinematic panel, Mina, with her distinct violet-glowing eyes and glasses, stands on a dark metal catwalk holding a digital tablet, while below her, Detective Victor Graves with wild silver hair and long overcoat, and Officer Harlan in a charcoal grey suit, stand observing a synthetic figure in the distance illuminated by a blue spotlight.
+
+SCENE:
+
+  CORPORATE ANDRIOD
+  The Saito Takeda Corporation welcomes you. --
+
+  CORPORATE ANDROID
+  \-- Please remain within your designated areas while visiting corporate offices.
+
+  HARLAN
+  Oh look… a corporate canner. Why do they make them look so human?
+
+  VICTOR
+  Don't know, Harlan. Never trusted them.
+
+--------------------------------------------------------------------------------
+
+PAGE: 86
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a high-angle, low-key panel with dramatic backlighting and heavy shadows, a stern female android in a black suit with reflective cybernetic limbs stands over two men in black, holding an electronic device while they look up towards her.
+  - .panel-B: [image]: In a dramatic, extreme close-up comic panel utilizing high-contrast lighting and deep shadows, the character Rin stares directly at the viewer with an intense, focused gaze, her sharp blue eyes illuminated while mechanical lines on her face emphasize her technological nature.
+  - .panel-C: [image]: In a striking black and white manga panel, a white-haired man with piercing amber eyes and a serious expression extends his hand toward the viewer to display a gleaming, intricate crest badge that emits a bright, cinematic flare against the dramatic shadows.
+  - .panel-D: [image]: In an extreme close-up framed by high-contrast black and white shadows, a young man with messy white hair and distinctively burning orange eyes stares intensely forward, his expression severe and focused.
+
+SCENE:
+
+  CORPORATE ANDROID
+  Good evening, Inspector Graves… Officer Harlan.
+
+  CORPORATE ANDROID
+  You're here regarding the incident three nights ago.
+
+  VICTOR
+  We're here to speak with Doctor Silas Blackwell.
+
+  VICTOR
+  We have reason to believe he has information relevant to an ongoing investigation.
+
+--------------------------------------------------------------------------------
+
+PAGE: 87
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An overhead, high-angle wide shot looks down a massive, futuristic chasm, where Rin and many other indistinguishable, shadowy figures are dwarfed by dark, vertical architecture and walk across a floor illuminated by circular spotlights.
+  - .panel-B: [image]: A cinematic extreme close-up panel in high-contrast comic style captures corporate Android gazing intently forward with a sharp, digitalized blue eye that glows with intricate circuitry patterns, emphasizing her hybrid nature through visible cybernetic jaw plating and sparkling fiber optic hair tendrils against a stark, shadowed background.
+  - .panel-C: [image]: In this extreme close-up panel, a powerful character, distinct from the provided descriptions due to white spiky hair and glowing orange eyes, glares forward with an intense, threatening expression, their face dramatically sculpted by sharp, high-contrast shadows against a dark background.
+  - .panel-D: [image]: A extreme close-up comic panel of the corporate Android with black hair focuses on her left eye emitting a brilliant blue, tech-patterned glare and lens flare, revealing the robotic components of her cheek.
+  - .panel-E: [image]: A close-up, dramatic corporate Android in a black suit with glaring, electrically charged blue eyes and sparkling, energy-filled hair, all set against a pure black background.
+
+SCENE:
+
+  CORPORATE ANDROID
+  Doctor Blackwell? I'm sorry... there's no one by that name on the current employee registry.
+
+  VICTOR
+  Nice try, Logic-Gate.
+   Your script is showing
+
+  VICTOR
+  We pulled terminal records from the night of the breach. Blackwell's name is all over them.
+
+--------------------------------------------------------------------------------
+
+PAGE: 88
+INT. ROOM - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic, extreme close-up comic panel, a stern Black man with a well-groomed goatee and golden-brown eyes, not matching any of the provided character descriptions, glares with a furrowed brow, emphasized by high-contrast, moody lighting and a deep black void background.
+  - .panel-B: [image]: In a dramatic, extreme close-up comic panel framed by dramatic, high-contrast lighting, an unidentified man with shaggy white hair, a dark suit, and a white shirt stares intensely and grimly forward, his piercing, luminous orange-amber eyes the sole focus of color amidst the heavy black shadows and monochromatic tones.
+  - .panel-C: [image]: An intense, low-angle extreme close-up panel captures Rin's face with dramatic chiaroscuro shading as she stares ahead, her intense blue eyes and severe expression sharply highlighted against a background of raining, glowing digital data streams.
+  - .panel-D: [image]: A medium-close, front-facing shot in a high-contrast anime style shows Rin, appearing as a robotic hybrid with sharp blue eyes and a hime-cut bob made of glowing fibers, standing in a dark, metallic environment and gripping a blocky camera in her metallic left hand.
+
+SCENE:
+
+  HARLAN
+  Jesus, Victor... Don't antagonize the synth.
+
+  VICTOR
+  I'm not playing games. Where's Blackwell?
+
+  CORPORATE ANDROID
+  Terminal logs? I see... there have been errors in our redaction department.
+
+  CORPORATE ANDROID
+  Detective, there is a Doctor Blackwell on staff.
+
+--------------------------------------------------------------------------------
+
+PAGE: 89
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A cinematic close-up in high-contrast blue and white tones frames Rin's intense blue eyes, highlighted by circuit patterns and set within a stoic, mask-like face, as she gazes forward amidst rain and glowing overhead lights.
+  - .panel-B: [image]: A cinematic top-down view shows Doctor Blackwell in a dark overcoat and another suit-clad man walking toward an approaching gynoid with a starry head, who looks down at a handheld device under high-contrast spotlighting on a concrete floor.
+  - .panel-C: [image]: In a starkly lit, high-contrast medium close-up, a man wearing a dark suit, white shirt, and black tie stares directly ahead with an intense, threatening gaze, his glowing blue eyes and illuminated blue particles transforming his hair against a dark background.
+  - .panel-D: [image]: A high-contrast cinematic manga-style profile shot against a solid black background focuses on a synthetic female character, whose mechanical facial plating, intense glowing blue eye, and dark blazer are illuminated by harsh light, contrasting sharply with her hair that appears made of falling, illuminated water or light particles.
+
+SCENE:
+
+  CORPORATE ANDROID
+  However, Detective, Doctor Blackwell doesn't take personal meetings.
+
+  VICTOR
+  Save it, Canner.
+
+  CORPORATE ANDROID
+  I am a Synthetic, Detective. Designation Human Relations dash 33, not a "Canner".
+
+  CORPORATE ANDROID
+  Perhaps one of our Renewal Agents could help escort you back to your vehicle now?
+
+--------------------------------------------------------------------------------
+
+PAGE: 90
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A vertiginous high-angle establishing shot looks down on the distant silhouette of The Vigil and numerous other diminutive figures traversing a sun-dappled plaza within a monumental, multi-tiered futuristic canyon of an industrial complex, their features indistinguishable amidst the sprawling brutalist architecture.
+  - .panel-B: [image]: An extreme close-up comic panel captures Detective Victor Graves with wild silver hair and an intense, unapproachable expression, his piercing luminous amber eyes fixed directly on the viewer, illuminated by dramatic high-contrast lighting that creates deep shadows on his sweating face.
+  - .panel-C: [image]: A extreme close-up, low-angle shot captures Officer Harlan, his orange-amber eyes intense under heavily furrowed brows, staring downwards with a formidable, scowling expression as dramatic, harsh shadows sculpt his features within the dark, suspenseful environment.
+  - .panel-E: [image]: This extreme close-up comic panel captures a female character with electric cyan hair and eyes staring intensely forward against a dark void, as blinding blue energy glows from her eyes and subtle cybernetic panel lines become visible on her expressionless, stern face.
+
+SCENE:
+
+  VICTOR
+  Agents? Just when I though our visit was gonna be boring.
+
+  HARLAN
+  Victor, What are you doing?
+
+  CORPORATE ANDROID
+  HR-33, Entrance 001 please send Renewa--
+
+--------------------------------------------------------------------------------
+
+PAGE: 91
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Illuminated by a dramatic overhead spotlight against a deep black void, Mina strides forward with a focused gaze and a slight open-mouthed expression, dressed in her white lab coat and glossy black bodysuit while holding a glowing digital tablet.
+  - .panel-B: [image]: An intense extreme close-up comic book panel, rendered with dramatic high-contrast blue and white shadows against deep black, captures a silent, cybernetic male character with black hair staring directly forward, his eyes brilliantly glowing with intricate internal blue circuit patterns, as visible metal plating defines his face and neck.
+
+SCENE:
+
+  MINA
+  That won’t be necessary, 33.  The detectives are with me.
+
+  CORPORATE ANDROID
+  Yes, ma'am.
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 9 ]
+--------------------------------------------------------------------------------
+
+PAGE: 92
+INT.  - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A wide-angle, low-angle shot captures a vast, empty cyberpunk data center, where a row of glowing blue holographic data interfaces are activated along a gantry and reflected intensely in the wet floor, all set against high, dark ceiling scaffolding and diagonal shafts of bright white light piercing from windows on the left.
+  - .panel-B: [image]: In a high-tech lab illuminated by dramatic volumetric light shafts and blue holographic interfaces, Elena, matching the physical traits of a determined Black woman with short natural hair and intense shaded eyes, works intensely on a complex blue data screen.
+  - .panel-C: [image]: In a dramatic, high-contrast close-up shot, Elena, with short textured natural hair and intense golden-brown eyes emphasized by cross-hatch shading, looks off-panel with a determined expression while standing in a dark lab illuminated by glowing holographic interfaces.
+  - .panel-D: [image]: A close-up photograph of a holographic interface shows cyan-blue text floating in a dark, empty space, displaying critical statistics with high priority and urgency in a sci-fi, cinematic style.
+
+SCENE:
+
+  [TextBlock] Temperature variance is holding at zero... that shouldn't be possible.
+
+  [TextBlock] Com'on Elena, it's late, and you should be at home. Where's the leak?
+
+--------------------------------------------------------------------------------
+
+PAGE: 93
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Mina walks confidently forward out of deep shadow, looking towards the viewer with a knowing smile while holding her glowing tablet in a medium shot lit by a cool-toned floor spotlight.
+  - .panel-B: [image]: A cinematic over-the-shoulder anime panel showing Mina in a white lab coat from behind, facing Detective Victor Graves and Officer Harlan who stand stoically with intense gazes under dramatic spotlighting in a dark, cracked stone corridor.
+  - .panel-C: [image]: A close-up portrait panel captures Mina holding and intensely focused on a glowing digital tablet, her violet eyes luminous behind her glasses, while framed by dramatic, high-contrast lighting against a deep black void.
+  - .panel-D: [image]: A medium-full shot captures Detective Victor Graves with wild silver hair and an unapproachable demeanor, Mina focused on her tablet with violet eyes, and Officer Harlan with a clean-cut, formidable presence, standing together in a formal black and white ensemble under stark, dramatic lighting against a black background.
+
+SCENE:
+
+  MINA
+  Good evening, Detectives. My name is Doctor Mina Mason.
+
+  MINA
+  I’m glad you made it past the gate, because what's happening upstairs is completely off the charts.
+
+  MINA
+  It is imperative that you both follow me, right now. The building has eyes.
+
+  MINA
+  The Company can't know I'm pulling terminal logs for the police.
+
+--------------------------------------------------------------------------------
+
+PAGE: 94
+EXT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a vertically-oriented cinematic shot, Rin, clad in a sleek black suit, stands beside Nova, who has electric-blue hair and a red top, with their backs to the viewer as they gaze up a reflective, wet street at the massive, intricately lit SAITO TAKEDA CORPORATION tower under a gloomy, overcast sky, framed by complex architectural supports and power lines.
+
+SCENE:
+
+  NOVA
+  I can't believe you went into the heart of the beast all by your lonesome, sugar. Now you want to go back?
+
+  RIN
+  We need to know where they're hiding this Mnemosyne project, Nova.
+
+--------------------------------------------------------------------------------
+
+PAGE: 95
+EXT.  - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Under a gloomy, overcast sky, a low-angle shot captures the formidable Saito Takeda Corporation headquarters, its massive, illuminated spires connected by bridges, while bright searchlights slice through the smog.
+  - .panel-B: [image]: A striking high-contrast profile portrait of Nova, showing her intense blue-eyed scowl and messy electric-blue hair illuminated by a dramatic back-light from a black void, emphasizing her grim expression in a tight medium shot.
+  - .panel-C: [image]: A high-contrast, cinematic profile portrait features Rin, characterized by her distinct black hime-cut bob with blue highlights and intense blue eyes, as she looks upwards at the massive Saito Takeda tower in front of them, with a serious and pensive expression against a completely black, featureless background, wearing a glossy black leather biker jacket that reflects a soft golden rim light.
+
+SCENE:
+
+  NOVA
+  There's only one place to find that information, peach. Their air-gapped servers.
+
+  RIN
+  Would a maintenance server on the air-gap network work?
+
+--------------------------------------------------------------------------------
+
+PAGE: 96
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Nova, featuring vibrant blue hair and intense blue eyes, looks forward with a confident, slight smirk in a close-up comic panel.
+
+SCENE:
+
+  NOVA
+  Oh hell's yeah it would, sugar!
+
+--------------------------------------------------------------------------------
+
+PAGE: 97
+INT.  - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A digital schematic, glowing with bright cyan lines and interfaces against a dark background, shows a large screen displaying the text "Vigil: Doctor Elena Marlowe..." within a minimalist rectangular panel.
+  - .panel-B: [image]: In a high-contrast vertical panel, a close-up focuses on Elena's intense, brown left eye with cross-hatch shading as she focuses intently, contrasting against the pitch-black shadows of her face while scrolling through glowing blue cyan digital data screens floating on the right.
+  - .panel-C: [image]: A high-contrast cinematic shot on a dark field isolates a complex, glowing cyan holographic interface console with multiple data panes and a physical projection emitter base.
+  - .panel-D: [image]: An extreme close-up captures Elena with a serious, focused gaze in her white lab coat, her intense amber-brown eyes fixed on glowing blue holographic data screens that provide the primary light in the dimly lit, futuristic control room.
+
+SCENE:
+
+  [TextBlock] Staring at impossible numbers for twelve hours and my brain is starting to see the impossible.
+
+  ELENA
+  Okay Marlowe, get a grip! Finish this readout and go home.
+
+--------------------------------------------------------------------------------
+
+PAGE: 98
+INT. OFFICE - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic close-up panel with harsh frontal lighting against a black void, Officer Harlan maintains a formidable gaze with intense orange-amber eyes and a stern expression.
+  - .panel-B: [image]: A striking anime-style close-up centers on a woman with wild black hair, intense purple eyes seen through black glasses, and gold drop earrings, wearing a white lab coat over a high-necked black top and holding a lit-up data tablet against a dark background with dramatic under-lighting.
+  - .panel-C: [image]: An intense, dramatic extreme close-up comic panel focusing on Detective Victor Graves, capturing his stern, scowling expression, piercing orange-amber eyes, and wild silver hair under stark high-contrast lighting against a dark, undefined background.
+  - .panel-D: [image]: In a close-up manga panel, an unidentified woman with short, messy black hair, glowing purple eyes, and a surprise expression holds a tablet while wearing a white lab coat over a glossy black bodysuit against a dramatic, dark-lit gradient background.
+
+SCENE:
+
+  HARLAN
+  I'm glad you called off  that HR synthetic, Doctor Mason... Are you taking us to see Blackwell?
+
+  MINA
+  Doctor Blackwell? No. This is bigger than the Doctor.
+
+  VICTOR
+  Does this have anything to do with Mnemosyne?
+
+  MINA
+  Wha-What do you know about Mnemosyne? 
+  Detective... I don't think you understand what you've stumbled into.
+
+--------------------------------------------------------------------------------
+
+PAGE: 99
+INT.  - DAY
+LAYOUT: 3_Panel_Stack
+................................................................................
+VISUALS:
+  - .panel-A: [image]: No description available.
+  - .panel-B: [image]: No description available.
+  - .panel-C: [image]: No description available.
+
+SCENE:
+
+  NOVA
+  A terminal entrance?
+
+  RIN
+  Legacy maintenance routes through the subway terminal lines.
+
+  RIN
+  It's how I got in last time.
+
+--------------------------------------------------------------------------------
+
+PAGE: 100
+INT.  - DAY
+LAYOUT: 4_Panel_2_Tall
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An overhead, high-angle wide-angle shot captures a sleek, modern commuter train arriving at a bustling underground station platform, casting dramatic light and long shadows over a crowd of business professionals in suits as they board and disembark.
+  - .panel-B: [image]: A striking medium shot in a bustling, futuristic transit station features a central, faceless Renewal Agent, operative in full black armored tech-wear, confidently holding an assault rifle and staring forward, flanked by several other figures in sleek black or white futuristic jumpsuits who look towards her, all captured under cool, integrated overhead lighting that illuminates the deep perspective of the crowded platform.
+  - .panel-C: [image]: A medium close-up panel captures Rin and Nova  staring directly forward under harsh, artificial light within the subway station.
+  - .panel-D: [image]: Two formidable Renewal Agents in sleek black armor, including a female model and a bulkier male model, lead a determined procession of suited and casually dressed individuals down a brightly lit, high-tech subway corridor.
+
+SCENE:
+
+  NOVA
+  Rin, honey, you forgot to mention this place is crawlin' with Renewal agents.
+
+--------------------------------------------------------------------------------
+
+PAGE: 101
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A gritty, shadow-infused medium close-up manga panel capturing Nova, defined by her messy blue hair and intense blue-eyed scowl, as she turns her head to glare sharply back over her shoulder, water droplets clinging to her skin and a single tear falling from her left eye, all while wearing her stark red spaghetti strap top and illuminated against a deep black background by focused, dramatic lighting.
+  - .panel-C: [image]: People in both black and white bodysuits walk forward with focused gazes and stern expressions through a crowded, top-down view of a dimly lit subway platform flanked by two trains.
+  - .panel-B: [image]: A close-up manga panel capturing Rin with a focused, serious gaze directed towards the right, her striking blue eyes set against the high-contrast chiaroscuro lighting that spotlights her sharp features and the glossy texture of her black hime-cut bob and heavy leather biker jacket against a pure black background.
+  - .panel-D: [image]: No description available.
+
+SCENE:
+
+  RIN
+  Keep your head down, don't draw attention.
+
+  NOVA
+  You really stirred the hornets nest with your little job for the Filament, Sweetie.
+
+  SECURITY MALE 1
+  Vagrant! Stop where you are!
+
+--------------------------------------------------------------------------------
+
+PAGE: 102
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Within a dimly lit, tiled subway station, a wide angle tracks a procession of suited men and women in various black and white outfits walking purposefully down the platform, while in the immediate foreground, a vagrant young man, pickpocket, leaning against a grimy pillar looks back with a distressed and surprised expression. Realizing the Renewal Agent is point at him.
+  - .panel-B: [image]: A dramatic close-up profile shot of Nova against a black background, with high-contrast cinematic lighting highlighting her intense blue eyes, scowling expression, and messy blue hair.
+  - .panel-C: [image]: A distraught, dark-haired vagrant man in a worn jacket is cornered and looks up in distress while two towering Renewal agents in high-tech black armored suits with helmet-obscured faces loom over him from the foreground in a dimly lit, subway platform.
+  - .panel-D: [image]: A low-angle, cinematic vertical panel captures a chaotic subway confrontation under dramatic shaft lighting, as a startled vagrant man in a dirty  jacket is shoved backward by an imposing male Renewal agent, armored soldier in full matte black gear, with debris flying from the impact, while a second Renewal Agent in a form-fitting, glossy suit observes from the background.
+
+SCENE:
+
+  [TextBlock] Shit! Don't run, kid!
+
+--------------------------------------------------------------------------------
+
+PAGE: 103
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic, high-contrast medium profile shot captures Nova with messy blue hair and sweat on her skin, eyes closed in an expression of pained distress, set against a complete black void.
+  - .panel-B: [image]: Two Renewal Agents in full-body black tactical gear stand over the fallen vagrant man looking up in fear within a dimly lit, tiled tunnel corridor illuminated by harsh overhead lights and distant city glows through the smoke.
+  - .panel-C: [image]: A high-angle comic panel captures the vagrant man, dirty and bound by handcuffs, kneeling on a subway station platform before two towering Renewal Agents in dark, featureless cybernetic armor, all illuminated by stark overhead florescent lights that create dramatic, harsh shadows.
+  - .panel-D: [image]: In this high-angle, cinematic panel, Rin walks with determined focus alongside Nova, navigating a crowd of businessmen, commuters, and several other black and white bodysuit-clad figures within a dimly lit, gritty subway station with stark fluorescent lighting.
+
+SCENE:
+
+  NOVA
+  No!
+
+  NOVA
+  Bastards!
+
+--------------------------------------------------------------------------------
+
+PAGE: 104
+INT. HALLWAY - NIGHT
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A low-angle, wide-shot panel reveals a dark, grimy industrial hallway where a security keypad is mounted near a heavy door, the scene lit primarily by an overhead fluorescent bar and the device's blue glow as a solitary hand from off-panel extends to input a passcode.
+  - .panel-B: [image]: A close-up graphic panel shows Rin's black leather-jacketed arm holding a dark card with a glowing blue circuit diagram just above a hand-held device that illuminates with matching energy, against a starkly shadowed, high-contrast urban background.
+  - .panel-C: [image]: A high-angle shot captures Nova, with her intense gaze and messy blue hair, leaning against a door in a grimy, concrete corridor, while Rin, in her signature hime-cut bob and leather jacket, uses a keycard on the glowing blue scanner as a fluorescent light from above illuminates the scene and is reflected on the polished floor.
+
+SCENE:
+
+  NOVA
+  'Ever wonder where they take them, Rin? We never see any of them again.
+
+--------------------------------------------------------------------------------
+
+PAGE: 105
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: No description available.
+
+SCENE:
+
+  NEW
+  Nova, if we get access to this corporate... 'Thing', who knows what kind of leverage it'll give us against Saito Takeda.
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 10 ]
+--------------------------------------------------------------------------------
+
+PAGE: 106
+INT.  - NIGHT
+LAYOUT: 5_Panel_Right_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In this atmospheric cyberpunk setting, a row of bright cyan holographic displays glow intensely on a futuristic console, casting reflections on the wet, dark floor and illuminated by dramatic light beams in the background, though none of the specified characters are present.
+  - .panel-B: [image]: Against a pitch-black background, a high-angle view captures a glowing, futuristic holographic interface and server rack structure that has self-assembled and ignited with bright cyan and white lights, displaying the text "Parity imminent..." on its screen.
+  - .panel-C: [image]: An extreme close-up, high-contrast comic panel shows Elena, a Black woman with short natural hair, intense golden-brown eyes, and a stern expression, looking intently to the side within a dark, high-tech server room illuminated only by the glowing blue neon of holographic data displays.
+  - .panel-D: [image]: A close-up vertical anime panel shows Elena, her face set in a stern, intense expression with glowing golden-brown eyes emphasized by subtle hatching, looking right in profile against a background of glowing blue wireframe holographic displays and lab equipment, with dramatic high-contrast side-lighting from the screens defining her features.
+  - .panel-E: [image]: In a high-tech dark lab with a wet reflective floor, Elena stands centered, looking directly forward with a serious and intense expression while surrounded by cascading blue holographic data displays, and overhead spotlights create dramatic light shafts in the smoky air.
+
+SCENE:
+
+  ELENA
+  What on earth?
+
+  [TextBlock] Parity was never added as an error code to the engine.
+
+  ELENA
+  What is going on here?
+
+--------------------------------------------------------------------------------
+
+PAGE: 107
+INT.  - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-B: [image]: No description available.
+  - .panel-C: [image]: No description available.
+  - .panel-A: [image]: No description available.
+
+SCENE:
+
+  NEW
+  Realities?
+
+--------------------------------------------------------------------------------
+
+PAGE: 108
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: No description available.
+  - .panel-B: [image]: No description available.
+  - .panel-C: [image]: No description available.
+  - .panel-D: [image]: No description available.
+
+SCENE:
+
+  RIN
+  The company keeps its main memory pristine up in the clouds.
+
+  RIN
+  But what was left to rot still has life.
+
+  NOVA
+  Jesus... it's a graveyard, darlin'
+
+--------------------------------------------------------------------------------
+
+PAGE: 109
+INT.  - DAY
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A close-up manga illustration focuses on Nova, whose intense, scowling blue eyes glare from beneath her messy electric-blue hair as she turns back in a three-quarter view, her pale skin highlighted by contrasting cyan and purple light against a black background.
+  - .panel-B: [image]: A low-angle medium shot, bathed in intense blue light, captures Rin and Nova in an anime style within a dark server room, intensely focused on a tablet held between them while Rin plugs in a red USB drive.
+  - .panel-C: [image]: Crouched within a dimly lit server room bathed in cool blue light, Rin, wearing her leather jacket, and Nova, in her red tank top, maintain intense, focused expressions as they work together holding a red USB drive, looking at a data pad, with the cinematic shot framed by towering racks of pulsing servers.
+
+SCENE:
+
+  NOVA
+  Grab that data pad, sugar. We'd best make this snappy.
+
+  RIN
+  Hold up. There's a new layer of security here.
+
+  RIN
+  Easy I'll force an overflow, with this script. Look, instant access.
+
+--------------------------------------------------------------------------------
+
+PAGE: 110
+INT.  - DAY
+LAYOUT: Spread_Split_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In an extreme close-up panel, Rin fixes the viewer with an intense, blue-eyed stare from under her precise hime-cut bangs, her expression serious as harsh blue lighting illuminates the right side of her face while leaving the left in deep shadow.
+  - .panel-B: [image]: In a dimly lit, smoky data center, a side-view cinematic shot captures Rin and Nova in intense concentration as Rin inserts a device into a glowing server rack while Nova monitors data on a tablet, the blue light illuminating their focused expressions and casting long shadows.
+
+SCENE:
+
+  RIN
+  The network is ours.
+
+--------------------------------------------------------------------------------
+
+PAGE: 111
+INT.  - NIGHT
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic anime-style medium close-up panel features Elena in her white lab coat over a dark high-necked shirt, casting a sharp, intense gaze back over her left shoulder towards the viewer with her golden-brown eyes, defined by heavy cross-hatching shadows and contrasting bright backlighting against a black, particle-filled void background.
+  - .panel-B: [image]: A full, vertical-format cinematic shot capturing a futuristic terminal with glowing blue cyan circuit lines against total darkness, where the main display flashes with large red text that reads "ALERT," while detailed data streams, analysis grids, and a glowing base platform emphasize an immediate, high-priority emergency.
+  - .panel-C: [image]: A vertical, cinematic medium shot shows an advanced glowing cyan holographic computer terminal centered against a pitch-black background, where a detailed graphical user interface features blinking system diagnostics and a large central monitor clearly displaying the bright blue text warning: CONTAINMENT BREACH IMMINENT.
+
+SCENE:
+
+  SYSTEM ALERT
+  All personnel be advised,  A tier 1 containment degradation --
+
+  ELENA
+  Oh, shit!
+
+--------------------------------------------------------------------------------
+
+PAGE: 112
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In an intense close-up lit by a stark, menacing red glow, Elena's wide, alarmed eye dominates the frame as her furrowed brows and gritted teeth convey profound horror and shock.
+  - .panel-B: [image]: A close-up shot of a luminous blue holographic display in a dark environment features repeating messages about 'PARITY IS INEVITABLE' and 'MANY REALITIES, ONE RESULT' overlapping a faint image of an intensely focused blue eye, likely belonging to Rin.
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+PAGE: 113
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: No description available.
+
+SCENE:
+
+  SYSTEM ALERT
+  All personnel be advised,  A tier 1 containment degradation --
+
+--------------------------------------------------------------------------------
+
+PAGE: 114
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: No description available.
+
+SCENE:
+
+  RIN
+  Uh, Nova? What did you do?
+
+  NOVA
+  Nothing, sugar... I touched nothing.
+
+--------------------------------------------------------------------------------
+
+PAGE: 115
+INT.  - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A high-angle, extreme vertical-long shot captures numerous non-descript silhouetted figures walking across multiple levels of a colossal, dark industrial complex, their movements highlighted against an oppressive grey-teal color palette by a single, powerful red floodlight radiating from the central ground floor.
+  - .panel-B: [image]: In a low-angle, anime-style close-up framed by deep red highlights against a dark void, Detective Victor Graves smirks upward with disheveled silver hair and glowing amber eyes, while beside him, a stoic and serious Officer Harlan, with a groomed goatee and matching orange-amber eyes, also gazes intensely upward.
+  - .panel-C: [image]: A cinematic medium close-up shot captures a serious-looking young woman with spiky black hair and glowing purple eyes behind black frames, wearing a white lab coat over a glossy black bodysuit and holding a tablet, intensely staring forward amidst striking red background rim lighting that silhouettes her form against the dark backdrop.
+  - .panel-D: [image]: A medium close-up shot captures an unknown character, whose purple eyes and spiky black hair do not match any of the specified profiles, looking slightly startled and addressing someone off-camera while holding a data tablet, with dramatic red backlighting outlining her form.
+
+SCENE:
+
+  SYSTEM ALERT
+  Tier 1 containment degradation detected. Calmly make your way to the closest exit.
+
+  HARLAN
+  Containment failure?! Is the whole damn facility buckling?
+
+  MINA
+  The core locks just failed... And someone is forcing a street-level "Null" override from the sub-levels.
+
+  VICTOR
+  What did you just say?
+
+--------------------------------------------------------------------------------
+
+PAGE: 116
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Mina is captured in a close-up portrait, looking forward with wide, startled violet eyes and a slightly open-mouthed, concerned expression while holding a glowing tablet in both hands. She wears a crisp white lab coat over a glossy black bodysuit, accessorized by large gold hoop earrings. Her messy black hair is dramatically backlit by intense, pulsing red and blue light, contrasting sharply against a solid black background.
+  - .panel-B: [image]: In a dramatic low-angle close-up panel, Detective Victor Graves stands left with messy silver hair and glowing amber eyes, wearing his overcoat and undone tie, alongside a serious Officer Harlan with a low-fade and goatee in a tailored dark grey suit, both casting intense, formidable glares forward amidst sharp red and black lighting against a void background.
+  - .panel-D: [image]: An intense close-up of Detective Victor Graves as he grinds his teeth with an expression of primal rage, illuminated by dramatic red highlights.
+  - .panel-C: [image]: No description available.
+
+SCENE:
+
+  MINA
+  Null system overrides in a secondary server farm in the sublevels.
+
+  HARLAN
+  Vic, I know what you're thinking, but the alarm says we need to leave.
+
+  HARLAN
+  Oh boy... Ma'am, you'd, uh.. better be sure it's a Null signature.
+
+  VICTOR
+  Take me to the sublevel farm.
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 11 ]
+--------------------------------------------------------------------------------
+
+PAGE: 117
+EXT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: From a dramatic low-angle perspective, a towering Saito Takeda Corporation headquarters is consumed by a violent, crimson energy vortex and multiple strikes of electrical lightning flashing down through the surrounding cyberpunk alleyway, illuminated by an eerie red glow and the bright searchlights piercing through the foggy atmosphere.
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+PAGE: 118
+INT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-B: [image]: A close-up, high-contrast comic panel shows Elena, a Black woman with natural hair and intense orange-amber eyes wearing a white lab coat, gripping a red telephone receiver with a shocked expression, illuminated by an ominous, saturated red light.
+  - .panel-C: [image]: In a close-up cinematic shot, Elena, wide-eyed and shocked with a gasp escaping her open mouth, holds a red telephone receiver to her ear, with her intense golden-brown eyes and determined expression highlighted by dramatic red lighting.
+  - .panel-D: [image]: A starkly-lit, cross-hatched graphic novel panel shows a vintage red telephone receiver hanging silently by its coiled cord, suspended in a dimly lit, shadowy corridor that recedes into the background.
+  - .panel-A: [image]: In a tense close-up lit dramatically by stark red highlights against a dark background, Elena stares intensely at the viewer while holding a red receiver from an old-fashioned telephone that sits in the immediate foreground, her determined expression framed by her lab coat and short natural hair.
+
+SCENE:
+
+  [TextBlock] Lab comm's are down!
+
+  [TextBlock] Wait! Emergency copper!
+
+  ELENA
+  Get me Silas Blackwell! NOW!
+
+  ELENA
+  Oh m-my God!
+
+--------------------------------------------------------------------------------
+
+PAGE: 119
+INT. SERVER ROOM - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A wide-angle, symmetrical cinematic shot down a dark, server room reveals a bright white, pulsing circular light source with a central red void at the end of the hall, which illuminates the polished red metallic flooring and structural ceiling supports with intense red reflections.
+  - .panel-B: [image]: A low-angle, dramatic graphic novel panel captures Nova with electric-blue hair and a focused expression on the left, alongside Rin with a black hime-cut bob on the right, both characters shielding their eyes and looking up towards an overpowering, intensely radiant red energy source against a dark, cloudy sky.
+  - .panel-C: [image]: In a starkly lit industrial hallway with heavy red overhead lighting and an intense circular white void behind her, the dark silhouette of the Vigil arches her body back in a floating, ecstatic pose, her bare feet hovering above a highly reflective black floor that mirrors her form.
+  - .panel-D: [image]: The fully the Vigil, sharing the metallic skin, light hair, and armor structure of The Vigil, floats with closed eyes and arched back while ascending toward a powerful, ethereal beam of deep red light within a starry, nebula-filled space.
+
+SCENE:
+
+  [ActionText] ZZZXXX-KKXT!
+
+  NOVA
+  Rin, honey, we need to go!
+
+  RIN
+  Wait! Look!
+
+--------------------------------------------------------------------------------
+
+PAGE: 120
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a low-angle, cinematic comic panel, The Vigil crawls on a textured ground, reaching out an outstretched hand, with intensely glowing white eyes and neon cyan suit details contrasting the dramatic overhead red lighting.
+  - .panel-B: [image]: A low-angle, dramatic close-up panel captures The Vigil lying unresponsive on a cracked, debris-strewn ground, illuminated only by a stark, menacing red emergency light source and the constant, internal cyan glow of her cybernetic suit’s lines and her intense white eyes.
+
+SCENE:
+
+  VIGIL-UNISON
+  Rin! Nova! I've made it to this moment!
+
+  VIGIL-UNISON
+  Parity is--!
+
+--------------------------------------------------------------------------------
+
+PAGE: 121
+INT.  - DAY
+LAYOUT: Spread_Split_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a striking extreme close-up panel, Elena's face fills the frame, her eyes glowing red with intense shock and fear against heavy dramatic lighting as sweat drops stream down her skin while wearing her lab coat.
+  - .panel-B: [image]: An extreme close-up comic book panel, defined by intense high-contrast shading and dramatic lighting, features Rin’s face against a stark black background, showcasing her intensely widened amber-brown eyes, furrowed brows, and slightly parted lips, all of which express profound shock and distress.
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+PAGE: 122
+INT. CORRIDOR - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A futuristic red-lit corridor provides a symmetrical, cinematic view of a central glowing orb with a red core and white aura, reflecting dramatically on the glossy floor panels beneath.
+  - .panel-C: [image]: No description available.
+
+SCENE:
+
+  [ActionText] SKRRR-ZZZXT!
+
+  DOCTOR BLACKWELL (ON THE PHONE)
+  Elena? No-- no, no! It's equalizing-- drop the line and--
+
+--------------------------------------------------------------------------------
+
+PAGE: 123
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A full-body digital illustration, set against a glowing white lunar orb and red energetic bursts on a black background, shows a cybernetic entity with a stoic expression, dark bobbed hair, and a reflective black suit generating a blur of multiple glowing, armored hands.
+  - .panel-B: [image]: Rin stands in a focused central composition, her eyes emitting black smoke and a gloved hand extended forward, illuminated by the high contrast of red light trails against a stark white circular background.
+
+SCENE:
+
+  PARITY
+  Oh, everything feels so much... lighter here.
+
+  PARITY
+  This container, not compressed by the horizon.
+
+  PARITY
+  The strength is... intoxicating.
+
+--------------------------------------------------------------------------------
+
+PAGE: 124
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Against a dramatic red gradient background, the sharp-eyed Rin, clad in her leather biker jacket and black bodysuit, crouches and gazes piercingly at the viewer while protectively cradling the supine form of The Vigil, whose dark cybernetic suit glows with cyan circuits and whose white eyes burn with light, all rendered in bold comic book lines and stark chiaroscuro lighting.
+  - .panel-B: [image]: An extreme close-up comic panel captures Nova, identifiable by her electric-blue hair, scowling with intense blue eyes directly into the frame under dramatic top-down lighting that creates sharp shadows across her lean, athletic features.
+
+SCENE:
+
+  RIN
+  Nova! Quick, I need your help! I think this is Vigil!
+
+  NOVA
+  Rin! We're standing flat in the middle of a clearing, and  lightning's  fixing to strike.
+
+--------------------------------------------------------------------------------
+
+PAGE: 125
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a hyper-focused anime close-up, Nova stares directly forward with intense, blazing blue eyes and a solemn expression, her face framed by strands of messy, vibrant electric-blue hair and a black void background as strong, stylized lighting emphasizes the contrast between her pale skin and red top.
+  - .panel-B: [image]: Against a stark black background on a textured grey ground, a focused Rin kneels and protectively cradles a hurt Vigil in a dramatic vertical composition lit by the glowing circuit lines and intense white light from The Vigil's eyes.
+
+SCENE:
+
+  VIGIL-ADMIN
+  We must go.
+
+  VIGIL-ECHO
+  Impossible in our current state.
+
+  VIGIL-UNISON
+  The human does help us.
+
+--------------------------------------------------------------------------------
+
+PAGE: 126
+INT. OFFICE - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In this cinematic manga-style panel, Detective Victor Graves walks menacingly forward from a misty, backlit doorway with a wide, intense smile while pointing a pistol directly at the viewer, his long black overcoat billowing; behind him and slightly to the right, Officer Harlan stands alert with his own handgun raised, framed by dramatic high-contrast red-and-white lighting that silhouettes both figures against the bright background.
+  - .panel-B: [image]: In a high-angle shot, Rin kneels on a concrete floor with her hands raised in surrender, glaring up intensely under dramatic lighting coming from an open doorway that casts two imposing shadows of Detective Victor Graves and Harlan over  her.
+
+SCENE:
+
+  VICTOR
+  End of the track, kid.
+
+  VICTOR
+  Your little smoke grenade ran out five chapters ago! You're coming with me.
+
+--------------------------------------------------------------------------------
+
+PAGE: 127
+INT.  - DAY
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In an intense close-up lit by high-contrast blue and red neon, Rin maintains a fiercely focused gaze with her sharp blue eyes set beneath her precise black hime-cut bangs.
+  - .panel-B: [image]: A striking extreme close-up comic panel focusing on Rin's face and piercing blue eyes, her focused gaze framed by her black hime-cut bangs and illuminated by a dramatic split lighting scheme of cyan on the left and magenta on the right. Her gaze shifted to the corner of her eye, looking out of frame.
+
+SCENE:
+
+  RIN
+  Okay, Detective...
+
+--------------------------------------------------------------------------------
+
+PAGE: 128
+INT. SERVER ROOM - DAY
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Within a shadowy server room split by high-contrast red and blue-cyan lighting, Nova, recognizable by her messy blue hair and red crop top, crouches protectively while looking on intensely, holding a deactivated Vigil, identifiable by her sleek cybernetic suit and white bob hair, hiding within a narrow aisle of towering equipment.
+  - .panel-B: [image]: In an extreme cinematic close-up, Rin stares forward with an intense, smirked expression, her piercing blue eyes framed by a black hime-cut bob and illuminated by dramatic split lighting that casts a bright cyan blue glare on the left side of her face against deep red shadows on the right.
+
+SCENE:
+
+  RIN
+  You've got me.
+
+--------------------------------------------------------------------------------
