@@ -8,7 +8,7 @@ There was no need to turn around to know he was no longer alone. The faint hiss 
 
 "Are we ready, Miss Marlowe?" Blackwell asked, his voice calm, carrying over the wind.
 
-Elena Marlowe stood in the threshold, framed by the cool glow of the massive holographic displays inside. She was an imposing presence, her lab coat a stark contrast against the dark atrium behind her. Her natural hair framed a face set in unyielding focus. 
+Elena Marlowe stood in the threshold, framed by the cool glow of the  holographic displays inside. She was an imposing presence, her lab coat a stark contrast against the dark atrium behind her. Her natural hair framed a face set in unyielding focus. 
 
 "Yes, Doctor Blackwell," she replied. Her golden eyes caught the reflection of the cascading data streams—striking, but Blackwell viewed them as precision corporate engineering. "The Mnemosyne Engine is connected to the city's main fusion reactor. You have three hundred and twenty terawatts at your disposal."
 
