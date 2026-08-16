@@ -102,9 +102,9 @@ Elena shot an apprehensive glance toward the panels. "What the Doctor means is, 
 
 Blackwell shifted his focus to her for the first time. "It's predicted resonance," he said, the corner of his mouth rising slightly.
 
-Elena shook her head, dropping the dangerous subject. "You know, it wouldn't hurt you to talk to the Board. You are the lead."
+Elena shook her head, dropping the dangerous subject, "You know, it wouldn't hurt you to talk to the Board, " she turned, glancing back over the console floor behind them, "you are the lead."
 
-Blackwell turned back to the pillar readouts. Amidst the scrolling data, a shadow process emerged — a branch of inverted engine code, and it was expanding. He caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
+Blackwell turned to the pillar readouts. Amidst the scrolling data, a shadow process emerged — a branch of the horizon neural matrix had inverted, and it was expanding. He caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
 
 "I don't like the Board," Blackwell said, keeping his gaze fixed on the engine.
 
