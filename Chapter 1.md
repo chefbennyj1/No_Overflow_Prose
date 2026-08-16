@@ -2,7 +2,7 @@ Silas Blackwell took a drag from his cigarette, the ember flaring against the da
 
 He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He exhaled, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no sprawling billboards up here; the corporate elite didn't need to be sold. The only illumination came from floating holographic displays, streaming diagnostics in silence. The polished walkways were empty, this early. The peak of New Veridia wasn't a metropolis; it was a sleeping monster, ready to awake.
+The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He exhaled, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no sprawling billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia wasn't a metropolis; it was a sleeping monster, ready to awake.
 
 There was no need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
