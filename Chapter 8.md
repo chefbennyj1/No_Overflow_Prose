@@ -16,7 +16,7 @@ She leaned into the frame, brown eyes tracking down the length of Rin's soaked j
 
 "I need you to look at something." Rin pushed past her into the apartment without waiting for an invitation.
 
-Harper didn't stop her. She shut the door, working the three deadbolts, a heavy metal door stop, and the chain, all in rapid succession. " 'Told ya to lose this address."
+Harper didn't stop her. She shut the door, working the deadbolt, and the chain, in rapid succession. " 'Told ya to lose this address."
 
 "It's corporate, Harper."
 
@@ -38,7 +38,7 @@ The heat of the ceramic instantly bled into Rin's freezing, rain-soaked skin, gr
 
 "Fine," Harper said, leaning against the counter. "Leaving's one thing, darlin', but I'm not gonna let you bleed out in the rain. Show me what you've gotten yourself into."
 
-Rin reached into her back pocket and pulled out a red-and-silver USB drive. She held it out.
+Rin took a sip from the mug. With her free hand, she reached into her back pocket and pulled out a red-and-silver USB drive. She held it out.
 
 Harper took it, her fingers brushing Rin's palm. She crossed to her primary workstation — a massive air-gapped rig built from stolen corporate hardware, liquid-cooled by a radiator loud enough to rattle the shelf above it. She dropped into her chair, pulled the keyboard onto her lap, and slotted the drive into a modified port.
 
@@ -94,7 +94,7 @@ Rin leaned closer. The terminal was scrolling:
 **Unexpected syscall from PID 0x1A4F**
 **[VIGIL_CLIENT]**
 
-The cursor blinked at the of the line.
+The cursor blinked at the end of the line.
 
 "Vigil client?" Harper didn't reach for her collarbone. Her hand stayed flat against the desk. "It's messaging us."
 
@@ -114,7 +114,7 @@ More text began to fracture across the screen as if multiple processes were figh
 
 Harper didn't breathe.  
 
-The terminal paused, before final lines of text rendered to  the screen:
+The terminal paused, before final lines of text rendered to the screen:
 
 **[VIGIL_UNISON]**
 **I have seen what it is.**
