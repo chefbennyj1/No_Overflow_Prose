@@ -22,7 +22,7 @@ Harper didn't stop her. She shut the door, working the deadbolt, and the chain, 
 
 Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a beat before it left her in a thin stream. "How corporate are we talkin'?"
 
-"Takeda-Holden Renewal Agents." Rin stripped off her soaked jacket, revealing a black tank and an arm's length of faded black ink. She threw the jacket over the arm of a beaten green sofa. "They were waiting at my apartment."
+"Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a black tank and an arm's length of faded black ink. She threw the jacket over the arm of a beaten green sofa.
 
 Harper let the rest of the smoke go slow, her eyes dropping to the floor. The heat of the room pressed in, a close warmth that had nowhere to go. The air smelled of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in black coils. It was a wreck, but Rin knew to Harper it was a fortress.
 
@@ -32,7 +32,7 @@ Rin's eyes tracked the motion until she caught herself staring and looked away.
 
 "I wouldn't be here if I had another choice."
 
-Harper studied her for a long moment, the cigarette burning forgotten between her fingers. She sighed, turning away to a cramped kitchenette built into the wall. She poured thick, black coffee from a battered French press into a ceramic mug and shoved it into Rin's hands without looking at her.
+Harper studied her for a long moment, the cigarette burning forgotten between her fingers. She sighed, turning away to a cramped kitchenette built into the wall. She poured thick, black coffee from a battered French press into two ceramic mugs and shoved one into Rin's hands without looking at her.
 
 The heat of the ceramic instantly bled into Rin's freezing, rain-soaked skin, grounding her.
 
@@ -66,13 +66,13 @@ Rin heard her muttering to herself as she read.
 
 "I know. The terminal was rendering a wireframe of a Takeda-Holden tower. It matched a building right out—"
 
-"This isn't a building." The blue glow of the monitors leached the warmth out of her. "It's a map of an artificial neural network, scaled to the size of a skyscraper. The sheer mass of it... this isn't just a... Jesus, look at this. It's a singularity."
+"This isn't a building," Harper interrupted. The blue glow of the monitors leached the warmth out of her face. "It's a map of an artificial neural network, training on a processor scaled to the size of a skyscraper. The sheer mass of it... wait... this isn't just a... Jesus," she stopped short.
 
-Harper stopped typing. She turned in her chair to face Rin, staring in silence before she spoke again.
+"What?" Rin didn't like it when Harper lost focus.
 
-"The project file is called Mnemosyne."
+She turned her chair to face Rin, staring in silence before she spoke again. "It's a singularity." Harper took a sip of her coffee. "The project file is called Mnemosyne."
 
-"They knew I had it."
+"They must know I have it." 
 
 Harper laughed, short and humorless. "They don't know it was you, sweet-pea. Something huge leaked. They're tearing up the Circuits trying to put a lid on it."
 
