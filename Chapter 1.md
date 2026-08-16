@@ -10,7 +10,7 @@ There was no need to turn around to know he was no longer alone. The faint hiss 
 
 Elena Marlowe stood in the threshold, framed by the cool glow of the  holographic environmental data embedded in the glass of the door she had opened. She was an imposing presence, her lab coat a stark contrast against the dark atrium behind her. Her natural hair framed a face set in unyielding focus. 
 
-"Yes, Doctor Blackwell," she replied. Her golden eyes caught the reflection of the cascading data streams—striking, but Blackwell viewed them as precision corporate engineering. "The Mnemosyne Engine is connected to the city's main fusion reactor. You have three hundred and twenty terawatts at your disposal."
+"Yes, Doctor Blackwell," she replied. Her golden eyes caught the reflection of the data streams—striking, but Blackwell viewed them as precision corporate engineering. "The Mnemosyne Engine is connected to the city's main fusion reactor. You have three hundred and twenty terawatts at your disposal."
 
 Blackwell raised the cigarette to his lips one last time, inhaling until the end burned close to the filter. He held the smoke in his lungs for a long second, then exhaled and dropped the butt over the edge of the railing.
 
