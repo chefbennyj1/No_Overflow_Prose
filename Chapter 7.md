@@ -1,6 +1,6 @@
 It was five in the morning. The Mnemosyne lab was empty, save for the silent, statuesque forms of the synthetics standing idle in the dark. The harsh overhead lights were still on standby. Iris sat alone at her terminal on the mezzanine, tapping her stylus against the glass. She synced the rhythm with the steady spin of the cooling fans, trying to force her racing thoughts to focus. 
 
-What exactly had she seen? An inversion expanding in the space of the core's memory, growing completely undetected... or was it? Why would anyone want sections of the horizon neural matrix to be so aggressively malformed? It didn't fit Blackwell's pristine architecture. 
+What exactly had she seen? An inversion expanding in the space of the core's memory, growing undetected... or was it? Why would anyone want sections of the horizon neural matrix to be so aggressively malformed? It didn't fit Blackwell's pristine architecture. 
 
 *"Do not use theology to describe the computing."* 
 
@@ -30,7 +30,7 @@ Iris stood up. Her footsteps were silent on the metal grating as she crossed the
 
 Thirty floors above, Elena Marlowe walked alone across a high-altitude pedestrian sky-bridge, the morning sun breaking harsh and blinding against the gargantuan expanse of the Towers. 
 
-She glanced out through the glass. Unlike the lower terraces where Blackwell preferred to break, this sector was a marvel of pristine order. Sprawling towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
+She glanced out through the glass. Unlike the lower terraces where Blackwell preferred to takes his breaks, this sector was a marvel of pristine order. Sprawling towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
 
 Elena turned away from the glass and approached the main concourse, exiting the sky-bridge to step out onto a suspended walkway midway up the Takeda-Holden corporate atrium. 
 
