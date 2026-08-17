@@ -14,7 +14,7 @@ They were faint, competing with the neon bleed of the city, but they were there.
 
 Harper broke her gaze from the sky and looked back down at the street. Rin stood a few paces away, the collar of her jacket turned up against the localized cold. 
 
-"We're never getting through the lobby," Harper said. Her voice was flat. The main concourse of the building was a fortress, and she knew it. Turnstiles, biometric scanners, and heavily armed Renewal agents flanked every entrance.
+"We ain't never getting through that lobby," Harper said. Her voice was flat. The main concourse of the building was a fortress, and she knew it. Turnstiles, biometric scanners, and heavily armed Renewal agents flanked every entrance.
 
 "We don't need the lobby," Rin replied. She pulled a crumpled schematic from her pocket. "Takeda-Holden didn't always have quantum singularity computers in New Veridia." 
 
