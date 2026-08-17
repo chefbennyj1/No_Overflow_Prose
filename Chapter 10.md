@@ -24,32 +24,68 @@ She paused, waiting to see if the sheer absurdity of the sentence would lighten 
 
 Harper looked at the map. "Access tunnels?"
 
-"Subway," Rin confirmed. "There's an old maintenance hatch off the secondary mag-rail line. It drops right into the old data basement."
+"Subway," Rin confirmed. "There's an old maintenance access doors throughout the city,  off the secondary mag-rail line. They open right into the tunnels in one of their old data basements."
 
 Harper smiled. "That's my girl. Always got a plan."
 
-Rin felt Harper's eyes lingering on her. She held the look for a fraction of a second too long before turning away. "Okay. Let's go."
+Rin felt Harper's eyes lingering on her. "Let's go."
 
-"Yeah," Harper said, her smile fading as she lowered her gaze. "Let's go."
+"Okay," Harper said, her smile fading as she lowered her gaze. "Let's go."
 
-They left the frozen plaza and descended into the Takeda-Holden Transit Hub.
+Concrete steps lowered into the Takeda-Holden Transit Terminal.
 
-It didn't look like a subway. It looked like a cathedral. 
+The terminal might have been down i the Dead Circuits, but it didn't look like a subway. It looked like a cathedral. 
 
-The subterranean concourse vaulted upward, supported by massive arches of polished white stone and chrome. The floors were black marble, gleaming like spilled ink under banks of recessed lighting. Silent magnetic trains slid through glass-walled tubes, arriving and departing with nothing more than a faint rush of displaced air.
+The subterranean concourse vaulted upward, supported by massive arches of polished white stone and chrome. The floors were black marble, they extended like spilled ink under banks of recessed lighting. 
 
-The station was flooded with the upper city's elite. Corporate executives in tailored suits. Aristocrats draped in high-end synthetics. The commuters moved with practiced arrogance, their faces bathed in the glow of personal holo-screens.
+Silent magnetic trains slid through tubes, reaching far into New Veridia.
 
-But the real threat wasn't the commuters. It was the security.
+The station was crowded with the upper city's elite. Corporate executives, and high-end synthetics. The commuters moved quickly across the platforms, racing to get out of Oshima as quickly as possible.
 
-Renewal agents were everywhere. They wore heavy armor, their faces obscured by black visors. They patrolled the marble floors in pairs. Synthetics stood at the turnstiles, their optical sensors sweeping the crowd. 
+Rin and Harper stepped down into the terminal. Most of the commuters were to busy to notice them, they didn't belong there, and it showed.
+
+They wore the grime of the Dead Circuits on their boots. Harper's brown suede jacket was frayed. Rin's heavy boots scuffed. The wealthy commuters actively parted around them. Once in a while a commuter would look up from their hand-held device, and cast disgusted glances at the two girls dirtying the transit hub.
 
 Harper and Rin stuck out. Badly. 
 
-They wore the grime of the Dead Circuits on their boots. Harper's jacket was frayed. Rin's heavy boots scuffed loudly against the pristine marble. The wealthy commuters actively parted around them, casting disgusted glances at the two girls dirtying their transit hub.
+Rin scanned the platform, as she look to Harper. Harper looked nervously towards the far end of the plateform.
 
-Harper’s hand drifted up to her collarbone. Her fingers found the jagged edge of her scar, tracing it compulsively. She swallowed hard, her heart hammering against her ribs.
+"Oh Rin, darlin'. You didn't say it'd be crawlin' with Renewal agents," Harpers voice cracked under the sudden tension.
 
-"Rin," Harper whispered, keeping her eyes fixed on the floor. "I think we are in the wrong place. This is a bad idea."
+Renewal agents were everywhere. Their heavy black armor, faces obscured, as they patrolled the marble floors in pairs. 
 
-Rin leaned in close. "Hey," she muttered, her voice tight but steady. "Stay calm. Try to blend in."
+Harper’s hand drifted up to her collarbone. Her fingers found the jagged edge of her scar. She swallowed hard, her heart hammering against her chest.
+
+"We are in the wrong place. This is a bad idea." Harper whispered, fixing her eyes to the floor.
+
+Rin leaned in close. "Hey," she said, her voice steady. "Stay calm. Try to blend in."
+
+A fast moving mag-train raced into the terminal, sending a massive gust of air along the platform.  Commuters dresses, and long coats flapped against their legs. Rin and Harpers  hair flew in a tangled mess.
+
+As the doors opened on the train, and the switch of commuters began on and off the train, an amplified voice cut through the low hum of the station. 
+
+"You. Vagrant. Halt."
+
+Across the polished black marble, two Renewal agents were advancing through the crowd. Rin looked to see the agents moving towards a young man. He was dressed like Harper and Rin—frayed clothes, scuffed shoes, he was just as out of place. He looked terrified.
+
+"No, no," Harper breathed, her voice barely a whisper. "Don't run."
+
+The boy panicked. He bolted. 
+
+The agents didn't shout a second warning. They moved with terrifying speed, armored boots pounding against the stone. One of them closed the distance in seconds, driving a heavy shoulder into the boy's spine. The crack of his skull against the marble echoed sharply. 
+
+Before the boy could even groan, the agent’s knee dropped onto his neck, pinning his face to the floor. The second agent grabbed his wrists and cinched a heavy zip-tie around them, pulling it tight enough to cut circulation. It was ruthless, practiced violence.
+
+Harper couldn't look away, she had seen this many times. It never got easier.
+
+The crowd of wealthy commuters didn't scream. They didn't even pause. Corporate executives stepped neatly around the bleeding boy's legs without taking their eyes off their devices. To the upper city, it wasn't brutality. It was an obstacle on the morning commute.
+
+"C'mon," Rin said. She hooked her arm through Harper's, pulling her forward. "We go now."
+
+Harper stumbled, unable to tear her eyes away from the boy on the floor. The agents hauled him up by his bound wrists. One of them tapped his visor. His armored head swiveled toward the rest of the crowd. Scanning. 
+
+"Rin—" Harper choked out.
+
+"Don't look at them. Look at the train." Rin's grip on her arm tightened like a vice. They moved fast, cutting through the sea of tailored suits as the agents began sweeping the platform behind them.
+
+The terminal ended exactly as it started, a set of concrete stairs, leading up and out to the rainy streets above. Rin looked to the side of the stairs, a corridor of green doors ran along the side of the train tube.  
