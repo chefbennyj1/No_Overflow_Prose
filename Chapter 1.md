@@ -18,7 +18,7 @@ The spent cigarette vanished into the abyss. To Blackwell, the fog was a necessa
 
 Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The cavernous annex was an imposing expanse of sleek, featureless architecture. Sharp, geometric angles of polished concrete soared above and plunged below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping them dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
 
-When the doors parted, the air inside the lab vibrated. It was the terrifying reality of the city's reactor channeling into the floor beneath their feet.
+When the doors parted, the air inside the lab moved with a low vibration. It was the terrifying reality of the city's reactor channeling into the floor beneath their feet.
 
 Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. They worked diligently checking the data on their screens. Blackwell approached the reinforced railing that encircled the center of the pit. Gripping the cold metal railing, he looked down.
 
