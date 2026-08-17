@@ -58,9 +58,9 @@ Harper’s hand drifted up to her collarbone. Her fingers found the jagged edge 
 
 Rin leaned in close. "Hey," she said, her voice steady. "Stay calm. Try to blend in."
 
-There was a sudden pressure drop in the terminal, their ears popping as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. Then came the shrieking whine., as the trains breaks clamped against the track. 
+There was a sudden pressure drop in the terminal, their ears popping as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. 
 
-The train tore into the terminal, arriving with a massive gust of returning air. The pressure blasted across the platform. It whipped tat he tailored, long coats, and dresses of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess, blinding them for a split second.
+The massive machine tore into the terminal, reversing its magnetic polarity to kill its momentum. It came to a dead stop with a terrifying, unnatural silence. The only impact was physical—a massive gust of returning air. The pressure blasted across the platform. It whipped at the tailored long coats and dresses of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess, blinding them for a split second.
 
 As the doors opened on the train, and the switch of commuters began on and off, an amplified voice cut through the low hum of the station. 
 
@@ -80,14 +80,14 @@ The agent’s knee dropped onto his neck, pinning his face to the floor. The sec
 
 Harper couldn't look away, she had seen this many times. It never got easier.
 
-The crowd of wealthy commuters didn't even pause. Corporate executives stepped around the boy without taking their eyes off their devices. To the upper city, it wasn't brutality. It was an obstacle on the morning commute.
+The crowd of wealthy commuters didn't pause. Corporate executives stepped around the boy without taking their eyes off their devices. To the upper city, it wasn't brutality. It was an obstacle on the morning commute.
 
-"C'mon," Rin said. She hooked her arm through Harper's, pulling her forward. "We go now."
+"C'mon," Rin said. She hooked her arm through Harper's, pulling her forward. "Now's our chance."
 
 Harper stumbled, unable to tear her eyes away from the boy on the floor. The agents hauled him up by his bound wrists. One of them tapped the side of his helmet. His head swiveled toward the rest of the crowd. Scanning. 
 
 "Rin—" Harper choked out.
 
-"Don't look at them. Look at the train." Rin's grip on her arm tightened like a vice. They moved fast, cutting through the sea of tailored suits as the agents began sweeping the platform behind them.
+"Don't look at them. Look at the train." Rin's grip on her arm tightened. They moved fast, cutting through the commuters as the agents began sweeping the platform behind them.
 
-The terminal ended exactly as it started, a set of concrete stairs, leading up and out to the rainy streets above. Rin looked to the side of the stairs, a corridor of green doors ran along the side of the train tube.  
+The terminal ended exactly as it started: a set of concrete stairs leading up and out to the streets above. Rin looked to the side of the stairs. A corridor of green doors ran along the side of the train tube.
