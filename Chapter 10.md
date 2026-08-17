@@ -34,7 +34,7 @@ Rin felt Harper's eyes lingering on her. "Let's go."
 
 Concrete steps lowered into the Takeda-Holden Transit Terminal.
 
-The terminal might have been down i the Dead Circuits, but it didn't look like a subway. It looked like a cathedral. 
+The terminal might have been down in the Dead Circuits, but it didn't look like a subway. It looked like a cathedral.
 
 The subterranean concourse vaulted upward, supported by massive arches of polished white stone and chrome. The floors were black marble, they extended like spilled ink under banks of recessed lighting. 
 
@@ -42,15 +42,15 @@ Silent magnetic trains slid through tubes, reaching far into New Veridia.
 
 The station was crowded with the upper city's elite. Corporate executives, and high-end synthetics. The commuters moved quickly across the platforms, racing to get out of Oshima as quickly as possible.
 
-Rin and Harper stepped down into the terminal. Most of the commuters were to busy to notice them, they didn't belong there, and it showed.
+Rin and Harper stepped down into the terminal. Most of the commuters were too busy to notice them, but they didn't belong there, and it showed.
 
 They wore the grime of the Dead Circuits on their boots. Harper's brown suede jacket was frayed. Rin's heavy boots scuffed. The wealthy commuters actively parted around them. Once in a while a commuter would look up from their hand-held device, and cast disgusted glances at the two girls dirtying the transit hub.
 
 Harper and Rin stuck out. Badly. 
 
-Rin scanned the platform, as she look to Harper. Harper looked nervously towards the far end of the plateform.
+Rin scanned the platform, as she looked to Harper. Harper looked nervously towards the far end of the platform.
 
-"Oh Rin, darlin'. You didn't say it'd be crawlin' with Renewal agents," Harpers voice cracked under the sudden tension.
+"Oh Rin, darlin'. You didn't say it'd be crawlin' with Renewal agents," Harper's voice cracked under the sudden tension.
 
 Renewal agents were everywhere. Their heavy black armor, faces obscured, as they patrolled the marble floors in pairs. 
 
@@ -60,15 +60,19 @@ Harper’s hand drifted up to her collarbone. Her fingers found the jagged edge 
 
 Rin leaned in close. "Hey," she said, her voice steady. "Stay calm. Try to blend in."
 
-A fast moving mag-train raced into the terminal, sending a massive gust of air along the platform.  Commuters dresses, and long coats flapped against their legs. Rin and Harpers  hair flew in a tangled mess.
+Rin felt the sudden pressure drop in the terminal, her ears popping as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. Then came the shrieking whine., as the trains breaks clamped against the track. 
 
-As the doors opened on the train, and the switch of commuters began on and off the train, an amplified voice cut through the low hum of the station. 
+The train tore into the terminal, arriving with a massive gust of returning air. The pressure front blasted across the platform. It whipped the tailored coats of the commuters. Harper and Rin hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess, blinding them for a split second.
+
+As the doors opened on the train, and the switch of commuters began on and off, an amplified voice cut through the low hum of the station. 
 
 "You. Vagrant. Halt."
 
-Across the polished black marble, two Renewal agents were advancing through the crowd. Rin looked to see the agents moving towards a young man. He was dressed like Harper and Rin—frayed clothes, scuffed shoes, he was just as out of place. He looked terrified.
+Across the polished black marble, two Renewal agents were advancing through the crowd. Rin looked, the agents were moving towards a young man. He was dressed like Harper and Rin—frayed clothes, scuffed shoes,  just as out of place. He looked terrified.
 
-"No, no," Harper breathed, her voice barely a whisper. "Don't run."
+Rin whispered, "Okay, Harper. Now's our chance."
+
+"No, no," Harper breathed, staring at the young man across the terminal floor. "Don't run."
 
 The boy panicked. He bolted. 
 
