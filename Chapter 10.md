@@ -1,6 +1,4 @@
-The concrete beneath Harper's boots was freezing. 
-
-The ambient temperature of The Dead Circuits was a humid, warm, but standing at the base of the Takeda-Holden tower, the chill biting through the soles of her shoes felt deep and unnatural. Like standing on a glacier. 
+The ambient temperature of the Dead Circuits was typically a humid, trapped heat, but standing at the base of the Takeda-Holden tower, the concrete beneath Harper's boots felt like a glacier.
 
 She tipped her head back, looking straight up the monolithic building. 
 
@@ -28,11 +26,11 @@ Rin smile fading as she lowered her gaze.
 
 They descended the concrete steps into the Takeda-Holden Transit Terminal. 
 
-It might have been buried in the Dead Circuits, but it didn't look like a subway. The terminal vaulted upward, supported by massive arches of polished white stone and chrome. The floors were black marble, extending like spilled ink under banks of recessed lighting. 
+The terminal vaulted upward, supported by massive arches of polished white stone and chrome. The floors were black marble, extending like spilled ink under banks of recessed lighting.
 
-The temperature plummeted the moment they stepped off the stairs. It was colder than Harper had felt at street level. Takeda-Holden was venting the massive chill of the engine directly into the rail system, super-cooling the magnetic rails. The station was freezing. The commuters didn't seem to notice—after all, most subway stations in the city were cold. But as Harper watched their breath plume under the harsh lights, she knew this was a different cold: dry and biting.
+As they reached the platform, the temperature plummeted further. Takeda-Holden was venting the subterranean chill of the engine directly into the rail system to super-cool the tracks. The elite commuters didn't seem to notice, but as Harper watched their breath plume under the harsh lights, the dry, biting air stiffened her joints.
 
-Frictionless magnetic trains surged out of the terminal through the frozen tunnels, pulling the super-cooled air, reaching far into New Veridia, before it settled back into the terminal.
+Frictionless magnetic trains surged through the tunnels, pulling the super-cooled air deep into New Veridia before it settled back into the terminal.
 
 The station was crowded with the upper city's elite—corporate executives, Renewal office workers, and high-end synthetics. The commuters moved quickly across the platforms, racing to get out of Oshima as fast as possible. Some waited for trains, while others moved toward the tower's massive executive lifts, speeding up to the pedestrian sky-bridges hundreds of stories above them.
 
@@ -60,7 +58,7 @@ As the doors opened on the train, and the switch of commuters began on and off, 
 
 "You. Vagrant. Halt."
 
-Across the polished black marble, two Renewal agents were advancing through the crowd. Harper followed their trajectory. They were moving towards a young man. He was dressed like Harper and Rin—frayed clothes, scuffed shoes, just as out of place. He looked terrified.
+Across the polished black marble, two Renewal agents were advancing through the crowd. Harper followed their trajectory. They were moving towards a young man. He was dressed like Harper and Rin—frayed clothes, scuffed shoes, equally out of place. He looked terrified.
 
 "No, no," Harper breathed, staring at the young man across the terminal floor. "Don't run."
 

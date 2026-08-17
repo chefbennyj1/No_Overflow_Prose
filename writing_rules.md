@@ -9,6 +9,8 @@
 7. **Workflow Safety:** The user frequently makes manual edits via their "Prose Engine." To prevent desyncs and accidental overwrites, ALWAYS use `view_file` to read the current state of a document before executing any text replacements. 
 8. **Project Status Tracker:** Chapters 1 through 4 are fully polished and locked in. The worldbuilding regarding Parity, the Swarm Era, and Blackwell's betrayal is stored in `Lore_Bible.md`. Character design subversions (black vs white) are stored in `Parity_Design_Notes.md`.
 9. **No Hedging in Description:** Never use uncertainty words ("probably," "could have," "seemed to," "must have," "maybe") in descriptive prose. Strict close-third POV means the focal character reports what they observe as fact, not as authorial guesswork.
+10. **Banish "Just":** Never use the word "just" (e.g., "just out of place," "just looked"). It is a weak filler word that softens impact and weakens prose.
+11. **Avoid Contrast Framing:** Do not rely on structural contrasts to describe things (e.g., "The city was X, but the room was Y", "It might have been A, but it looked like B"). State what things are directly with absolute authority.
 
 ## Character Physical Tics
 Recurring, involuntary gestures that signal a character's interior state without narrating it directly (required by the strict-POV rule). Established so far:

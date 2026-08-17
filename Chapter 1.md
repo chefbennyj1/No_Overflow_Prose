@@ -2,7 +2,7 @@ Silas Blackwell took a drag from his cigarette, the ember flaring against the da
 
 He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He exhaled, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no sprawling billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia wasn't a metropolis; it was a sleeping monster, ready to awake.
+The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He exhaled, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no sprawling billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
 
 There was no need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
@@ -16,7 +16,7 @@ Blackwell raised the cigarette to his lips one last time, inhaling until the end
 
 The spent cigarette vanished into the abyss. To Blackwell, the fog was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the Dead Circuits—the crushed remains of Oshima. Decades ago, Takeda-Holden hadn't bothered to demolish the slums; they simply poured the concrete for New Veridia directly on top of them. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
-Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The cavernous annex was imposing, despite being sleek and featureless. Sharp, geometric angles of polished concrete soared above and plunged below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping them dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
+Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The cavernous annex was an imposing expanse of sleek, featureless architecture. Sharp, geometric angles of polished concrete soared above and plunged below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping them dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
 
 When the doors parted, the air inside the lab vibrated with a hum—the terrifying reality of the city's reactor channeling into the floor beneath their feet.
 
@@ -24,7 +24,7 @@ Past the primary control consoles, the floor was manned by a mix of human techni
 
 Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock. What ascended through the facility's foundation, and protruded into this observation chamber was a cluster of stark white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
 
-The floor of the engine pit was constructed of white paneling, though it was obscured. A heavy layer of fog rolled across the base of the pillars, breaking against the stark topology like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was bitter cold, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
+A heavy layer of fog rolled across the engine pit, obscuring the white paneled floor beneath. It broke against the stark topology of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was bitter cold, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
 
 "A drop in the bucket for what we're asking it to unearth, Miss Marlowe," Blackwell said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
 
@@ -66,7 +66,7 @@ On the immense display above the floor, the grid of silhouettes leaned forward. 
 
 "Doctor Blackwell. Ma'am." 
 
-The hushed voice interrupted the moment. Iris, a junior technician, scurried up behind them, not looking up from the glowing datapad in her hands. She was a stark contrast to the professionalism of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
+The hushed voice interrupted the moment. Iris, a junior technician, scurried up behind them, not looking up from the glowing datapad in her hands. She was in contrast to the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
 
 "Ma'am, local space-time..," Iris stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. "It's ..." She paused, her focus visibly fragmenting for a second, then continued. "...a mass-displacement anomaly. A severe fluctuation in the event horizon."
 
