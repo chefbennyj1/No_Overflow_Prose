@@ -28,19 +28,17 @@ Harper looked at the map. "We talkin' tunnels?"
 
 Harper smiled. "That's my girl. Always gotta plan," her eyes lingering on Rin. "Let's go."
 
-"Okay," Rin said, her smile fading as she lowered her gaze. "Let's go."
+Rin smile fading as she lowered her gaze. 
 
-Concrete steps lowered into the Takeda-Holden Transit Terminal.
+They descended the concrete steps into the Takeda-Holden Transit Terminal. 
 
-The terminal might have been down in the Dead Circuits, but it didn't look like a subway. It looked like a cathedral.
+It might have been buried in the Dead Circuits, but it didn't look like a subway. The terminal vaulted upward, supported by massive arches of polished white stone and chrome. The floors were black marble, extending like spilled ink under banks of recessed lighting. 
 
-The terminal concourse vaulted upward, supported by massive arches of polished white stone and chrome. The floors were black marble, they extended like spilled ink under banks of recessed lighting. 
+The temperature plummeted the moment they stepped off the stairs. It was colder than Harper had felt at street level. Takeda-Holden was venting the massive chill of the engine directly into the rail system, super-cooling the magnetic rails. The station was freezing. The commuters didn't seem to notice—after all, most subway stations in the city were cold. But as Harper watched their breath plume under the harsh lights, she knew this was a different cold: dry and biting.
 
-Frictionless magnetic trains shot through the glass-walled tubes, reaching far into New Veridia.
+Frictionless magnetic trains surged out of the terminal through the frozen tunnels, pulling the super-cooled air, reaching far into New Veridia, before it settled back into the terminal.
 
-The station was crowded with the upper city's elite. Corporate executives, and high-end synthetics. The commuters moved quickly across the platforms, racing to get out of Oshima as quickly as possible.
-
-Rin and Harper stepped down into the terminal. 
+The station was crowded with the upper city's elite—corporate executives, Renewal office workers, and high-end synthetics. The commuters moved quickly across the platforms, racing to get out of Oshima as fast as possible. Some waited for trains, while others moved toward the tower's massive executive lifts, speeding up to the pedestrian sky-bridges hundreds of stories above them.
 
 They wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. Rin's heavy boots scuffed against the marble. The wealthy commuters actively parted around them, casting disgusted glances over their hand-held devices at the two girls dirtying the transit hub.
 
