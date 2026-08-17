@@ -14,13 +14,9 @@ They were faint, competing with the polluted light of the city, but they were th
 
 Harper broke her gaze from the sky and looked back down at the street. Rin stood a few paces away, the collar of her jacket turned up against the localized cold. 
 
-"We ain't never getting through that lobby," Harper said. Her voice was flat. The main concourse of the building was a fortress, and she knew it. Turnstiles, biometric scanners, and heavily armed Renewal agents flanked every entrance.
+"We're never getting through that lobby," Harper said. Her voice was flat. The main concourse of the building was a fortress, and she knew it. Turnstiles, biometric scanners, and heavily armed Renewal agents flanked every entrance.
 
-"We don't need the lobby," Rin replied. She pulled a crumpled schematic from her pocket. "Takeda-Holden didn't always have quantum singularity computers in New Veridia." 
-
-She paused, waiting to see if the sheer absurdity of the sentence would lighten the mood. It didn't. 
-
-"During their rise to power," Rin pushed on, "they stored data the old-fashioned way. Server farms. Deep basement storage. It's severed from the upper floors now, but the connections to their network are still viable."
+"We don't need the lobby," Rin replied. She pulled a crumpled schematic from her pocket. "Before the engine, Takeda stored data the old-fashioned way. Server farms. Deep basement storage. It's physically severed from the upper floors now, but the hardlines to their network are still viable."
 
 Harper looked at the map. "We talkin' tunnels?"
 
@@ -46,13 +42,13 @@ They both stuck out. Badly.
 
 Harper looked nervously toward the far end of the platform. Beside her, Rin was scanning the crowd.
 
-"Oh Rin, darlin'. You didn't say it'd be crawlin' with Renewal agents," Harper's voice cracked under the sudden tension.
+"Oh, Rin, darlin'. You didn't say it'd be crawling with Renewal agents," Harper's voice cracked under the sudden tension.
 
 Renewal agents were everywhere. Their heavy black armor, faces obscured, as they patrolled the marble floors in pairs. 
 
 Harper’s hand drifted up to her collarbone. Her fingers found the jagged edge of her scar. She swallowed hard, her heart hammering against her chest.
 
-"We're in the wrong place. This is goin' sideways." Harper whispered, fixing her eyes to the floor.
+"We're in the wrong place. This is going sideways." Harper whispered, fixing her eyes to the floor.
 
 Rin leaned in close. "Hey," she said, her voice steady. "Stay calm. Try to blend in."
 
