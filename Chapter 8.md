@@ -8,7 +8,7 @@ She banged the metal again.
 
 The deadbolt threw with a sharp mechanical clank. The door swung inward just enough to reveal Harper.
 
-Smoke curled out through the gap before she did, thick against the cold rain. Harper stood in the doorway, a cigarette burning low between two fingers. She wore a faded red tank top and low-riding denim, the collar cut low enough to show a thin scar tracing her collarbone — old, pale, left bare like she'd never once considered covering it. Her dark roots had grown halfway down her scalp before surrendering to frayed, electric-blue ends that fell loose around her face.
+Smoke curled out through the gap before she did. Harper stood in the doorway, a cigarette burning low between two fingers. She wore a faded red tank top and low-riding denim. A thin scar tracing her collarbone — old, pale, left bare like she'd never once considered covering it. Her dark roots had grown halfway down her scalp before surrendering to frayed, electric-blue ends that fell loose around her face.
 
 She leaned into the frame, brown eyes tracking down the length of Rin's soaked jacket and back up again.
 
