@@ -66,8 +66,6 @@ As the doors opened on the train, and the switch of commuters began on and off, 
 
 Across the polished black marble, two Renewal agents were advancing through the crowd. Harper followed their trajectory. They were moving towards a young man. He was dressed like Harper and Rin—frayed clothes, scuffed shoes, just as out of place. He looked terrified.
 
-Rin whispered, "Okay, Harper. Now's our chance."
-
 "No, no," Harper breathed, staring at the young man across the terminal floor. "Don't run."
 
 The boy panicked. He bolted. 
@@ -86,6 +84,6 @@ Harper stumbled, unable to tear her eyes away from the boy on the floor. The age
 
 "Rin—" Harper choked out.
 
-"Don't look at them. Look at the train." Rin's grip on her arm tightened. They moved fast, cutting through the commuters as the agents began sweeping the platform behind them.
+"Don't look at them. Keep your head down." Rin's grip on her arm tightened. They moved fast, cutting through the commuters and pushing toward the far end of the platform while the agents began sweeping the crowd behind them.
 
-The terminal ended exactly as it started: a set of concrete stairs leading up and out to the streets above. Rin looked to the side of the stairs. A corridor of green doors ran along the side of the train tube.
+The terminal ended exactly as it had started: a set of concrete stairs leading up and out to the streets above. But Rin didn't take the stairs. She veered toward the wall, where a corridor of green doors ran along the side of the train tube.
