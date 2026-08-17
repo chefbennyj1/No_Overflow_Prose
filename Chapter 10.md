@@ -1,14 +1,14 @@
 The concrete beneath Harper's boots was freezing. 
 
-The ambient temperature of The Dead Circuits was a humid, warm, trapped beneath the city's perpetual smog layer. But standing at the base of the Takeda-Holden tower, the chill biting through the soles of her shoes felt deep and unnatural. Like standing on a glacier. 
+The ambient temperature of The Dead Circuits was a humid, warm, but standing at the base of the Takeda-Holden tower, the chill biting through the soles of her shoes felt deep and unnatural. Like standing on a glacier. 
 
 She tipped her head back, looking straight up the monolithic building. 
 
-The smog didn't touch it. The dense, toxic fog that choked the rest of the upper city seemed to actively break around the Takeda-Holden tower, repelled by an invisible force. It created a massive, sheer column of clear air rising hundreds of floors into the sky. It was the only building in the entire grid where you could stand at the street level and see the top. 
+The smog didn't touch it. The dense, toxic fog that choked the rest of the upper city seemed to actively break around the Takeda-Holden tower, repelled by an invisible force. It created a massive, sheer column of clear air rising to the top of the building, and beyond. It was the only building in the entire area where you could stand at the street level and see the blinking red, air-craft warning lights of the network arrays at the top. 
 
 Harper stared up through that clear atmospheric cylinder. For the first time in years, she saw stars. 
 
-They were faint, competing with the neon bleed of the city, but they were there. Small,  pinholes of light in the black. Framing the patch of clear sky, the tips of the surrounding corporate skyscrapers poking through the top of the smog layer. Their lower halves were swallowed by the fog, but forced perspective drew their illuminated peaks together around the Takeda-Holden tower's clear airspace. 
+They were faint, competing with the polluted light of the city, but they were there. Small,  pinholes of light in the black. Framing the patch of clear sky, the tips of the surrounding corporate skyscrapers poking through the top of the smog layer. Their lower halves were swallowed by the fog, but forced perspective drew their illuminated peaks together around the Takeda-Holden tower's clear airspace. 
 
 "You're staring," Rin said. 
 
@@ -22,11 +22,11 @@ She paused, waiting to see if the sheer absurdity of the sentence would lighten 
 
 "During their rise to power," Rin pushed on, "they stored data the old-fashioned way. Server farms. Deep basement storage. It's severed from the upper floors now, but the connections to their network are still viable."
 
-Harper looked at the map. "Access tunnels?"
+Harper looked at the map. "We talkin' tunnels?"
 
 "Subway," Rin confirmed. "There's old maintenance access doors throughout the city,  off the mag-rail line. They open right into the tunnels."
 
-Harper smiled. "That's my girl. Always got a plan," her eyes lingering on Rin. "Let's go."
+Harper smiled. "That's my girl. Always gotta plan," her eyes lingering on Rin. "Let's go."
 
 "Okay," Rin said, her smile fading as she lowered her gaze. "Let's go."
 
@@ -40,13 +40,13 @@ Frictionless magnetic trains shot through the glass-walled tubes, reaching far i
 
 The station was crowded with the upper city's elite. Corporate executives, and high-end synthetics. The commuters moved quickly across the platforms, racing to get out of Oshima as quickly as possible.
 
-Rin and Harper stepped down into the terminal. Most of the commuters were too busy to notice them, but they didn't belong there, and it showed.
+Rin and Harper stepped down into the terminal. 
 
-They wore the grime of the Dead Circuits. Harper's brown suede jacket was frayed. Rin's heavy boots scuffed. The wealthy commuters actively parted around them. Once in a while a commuter would look up from their hand-held device, and cast disgusted glances at the two girls dirtying the transit hub.
+They wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. Rin's heavy boots scuffed against the marble. The wealthy commuters actively parted around them, casting disgusted glances over their hand-held devices at the two girls dirtying the transit hub.
 
-Harper and Rin stuck out. Badly. 
+They both stuck out. Badly.
 
-Rin scanned the platform, as she looked to Harper. Harper looked nervously towards the far end of the platform.
+Harper looked nervously toward the far end of the platform. Beside her, Rin was scanning the crowd.
 
 "Oh Rin, darlin'. You didn't say it'd be crawlin' with Renewal agents," Harper's voice cracked under the sudden tension.
 
@@ -54,7 +54,7 @@ Renewal agents were everywhere. Their heavy black armor, faces obscured, as they
 
 Harper’s hand drifted up to her collarbone. Her fingers found the jagged edge of her scar. She swallowed hard, her heart hammering against her chest.
 
-"We are in the wrong place. This is a bad idea." Harper whispered, fixing her eyes to the floor.
+"We're in the wrong place. This is goin' sideways." Harper whispered, fixing her eyes to the floor.
 
 Rin leaned in close. "Hey," she said, her voice steady. "Stay calm. Try to blend in."
 
@@ -66,7 +66,7 @@ As the doors opened on the train, and the switch of commuters began on and off, 
 
 "You. Vagrant. Halt."
 
-Across the polished black marble, two Renewal agents were advancing through the crowd. Rin looked, the agents were moving towards a young man. He was dressed like Harper and Rin—frayed clothes, scuffed shoes,  just as out of place. He looked terrified.
+Across the polished black marble, two Renewal agents were advancing through the crowd. Harper followed their trajectory. They were moving towards a young man. He was dressed like Harper and Rin—frayed clothes, scuffed shoes, just as out of place. He looked terrified.
 
 Rin whispered, "Okay, Harper. Now's our chance."
 
