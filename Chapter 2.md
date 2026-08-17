@@ -1,12 +1,12 @@
   Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers"—the massive arcologies of the city. Looking up from the flooded streets invited vertigo. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. The atmosphere was bitter, and thick with exhaust. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. Only the canners walked barefaced. The freezing rain beaded off their synthetic skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
 
-  Rising from the center of the old buildings was a Company data hub. Unlike the rusted slums surrounding it, the monolith structure was a pristine slab of mirrored, black glass. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*. 
+  Rising from the center of the old buildings was a Company data hub. The monolith structure was a pristine slab of mirrored, black glass towering over the rusted slums. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*. 
   
   Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, a lone figure stood in the sterile hallway, pulling wires from an office's magnetic lock. 
 
 The corridor was otherwise silent, smelling of oxidizing disinfectants and recycled air. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away. 
 
-  A sudden flash of blue light reflected off the narrow hallway walls. Rin jerked backward, only just dodging the hidden retinal scanner. Her eyes widened as she watched the sweeping laser beam search for its missing retinal data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scanner and swiped her forged personnel card, illuminating the lock's near-field communication display.
+  A sudden flash of blue light reflected off the narrow hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as she watched the sweeping laser beam search for its missing retinal data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scanner and swiped her forged personnel card, illuminating the lock's near-field communication display.
 
 The magnetic lock disengaged with a hollow thud. 
 
@@ -28,11 +28,11 @@ She bypassed the personal directories, diving straight into the infrastructure s
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
-As the routing keys slowly copied to her drive, a hidden sub-process in Blackwell's directory caught her eye. It was a power consumption log. The numbers didn't make sense. It wasn't a random spike; it was a sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks. 
+As the routing keys slowly copied to her drive, a hidden sub-process in Blackwell's directory caught her eye. It was a power consumption log. The numbers revealed a massive, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
 
 She opened the file path. The screen flooded with classified schematics for something called a *Mnemosyne Engine*. At the center of the complex data was a wireframe of a massive laboratory tower. Rin stopped, her eyes darting from the small screen to the massive window behind her. 
 
-The blue telemetry data on the glass wasn't just random diagnostics. It was a scaled holographic projection of the exact same tower schematic.  
+The blue telemetry data on the glass was a scaled holographic projection of the exact same tower schematic.
 
 Rin stepped backward in the room, moving away from the desk until the glowing wireframe  eclipsed a structure looming in the distant city skyline. It was monitoring an anomaly; localized within that specific building— that had been tearing at the city's power grid for the better part of a month.
 
@@ -106,7 +106,7 @@ Before Victor could blink through the pain and adjust his aim, she was moving. S
 
 Victor surged to his feet, ignoring the burning in his eyes, but she was too fast. He watched through the clearing smoke as she reached the end of the hall, sliding seamlessly into the elevator car. She kicked the heavy wrench from the floor track with her boot, freeing the doors from their open state. 
 
-Victor reached the elevator a second later, his gun trained through the final sliver of the closing doors. For a moment, Victor and Rin's eyes met for the first time. Rin startled at the stern, focused glare of Victor's eyes, his expression unyielding despite the tearing pain from the smoke. 
+Victor reached the elevator a second later, his gun trained through the final sliver of the closing doors. For a moment, Victor and Rin's eyes met for the first time. Rin startled at the stern, focused glare of Victor's eyes, his expression unyielding against the tearing pain of the smoke.
 
 The doors sealed shut. Null was gone. 
 
@@ -128,7 +128,7 @@ Victor was still holding his heavy revolver. The entire squad shifted their weap
 
 Victor made a point of slowly, deliberately holstering the massive gun so as not to instigate them. He winced, blinking through the blinding light. "Oh, look," he muttered, his sarcastic tone masking a spike of genuine adrenaline. "The cavalry finally showed up. Just in time, as always."
 
-He didn't argue further. He just stepped aside, letting the silent, black-armored squad push past them to secure the executive suite. 
+He didn't argue further. He stepped aside, letting the silent, black-armored squad push past them to secure the executive suite.
 
 "We're done here, Harlan," Victor said, turning to head down the stairs. 
 
