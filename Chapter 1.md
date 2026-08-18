@@ -1,4 +1,4 @@
-Silas Blackwell took a drag from his cigarette, the ember flaring against the dawn. He was an erratic figure; a mop of white hair blew untamed in the morning wind, contrasting with the sharp lines of his dark collared shirt and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He kept his expression purposefully unreadable behind a pair of circular dark glasses. Despite the calculated perfection required of his station, the cigarette held between his tobacco-stained fingers betrayed an obsessive energy. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
+Silas Blackwell took a drag from his cigarette, the ember flaring against the dawn. He was an erratic figure; a mop of white hair blew untamed in the morning wind. The sharp lines of his dark vest, collared shirt, and tie gave a sense of reverence, despite his otherwise unruly nature. Over it all, he wore a lab coat that whipped around his legs in the cold air. He kept his expression purposefully unreadable behind a pair of circular dark glasses. Despite the calculated perfection required of his station, the cigarette held between his tobacco-stained fingers betrayed an obsessive energy. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
 He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
@@ -8,7 +8,7 @@ There was no need to turn around to know he was no longer alone. The faint hiss 
 
 "Are we ready, Miss Marlowe?" Blackwell asked, his voice calm, carrying over the wind.
 
-Elena Marlowe stood in the threshold, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. She was an imposing presence, her lab coat standing out against the dark atrium behind her. Her natural, shoulder-length hair framed her face. She stood looking at Blackwell, a hint of terrified excitement in her eyes.
+Elena Marlowe stood in the threshold, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the dark atrium behind her. Her natural, shoulder-length hair framed her face. She stood looking at Blackwell, a hint of terrified excitement in her eyes.
 
 "Yes, Doctor Blackwell," she replied. Her golden eyes caught the reflection of the data streams—striking, but Blackwell viewed them as precision corporate engineering. "The Mnemosyne Engine is connected to the city's main fusion reactor. You have three hundred and twenty terawatts at your disposal."
 
