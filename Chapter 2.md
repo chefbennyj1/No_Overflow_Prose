@@ -1,10 +1,12 @@
-  Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers", the massive arcologies of the city. Looking up from the flooded streets invited vertigo. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. 
+  Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers", the massive arcologies of the city. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. 
   
-  The atmosphere was bitter, and thick with exhaust. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. Only the canners walked barefaced. The freezing rain beaded off their synthetic skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
+  The atmosphere was bitter, and thick with exhaust. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. Only the synthetics walked barefaced. The freezing rain beaded off their vinyl skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
 
-  Rising from the center of the old buildings was a Company data hub. The monolith structure was a pristine slab of mirrored, black glass towering over the rusted slums. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*. 
+  Rising from the center of the old buildings was a Company data hub. The monolith structure was a pristine slab of mirrored, black glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*. 
   
-  Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, a lone figure stood in the sterile hallway, pulling wires from an office's magnetic lock. Rin.
+  Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, a lone figure stood in the sterile hallway, pulling wires from an office's magnetic lock. 
+  
+  This was Rin.
 
 The corridor was otherwise silent, smelling of oxidizing disinfectants and recycled air. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away. 
 
@@ -52,7 +54,7 @@ The fluorescent lights of the maintenance stairwell flickered, casting erratic s
 
 "Fifteen floors up with no elevator, Victor?" Harlan gasped, loosening the tie of his grey suit. He leaned against the metal railing to catch his breath. "You sure it's Null this time?"
 
-Victor didn't slow his ascent. His black coat whipped at his ankles with each precise step. Overhead, the lights came up hard off the polished concrete of the stairwell. His eyes watered under the glare. He didn't blink it away. He kept climbing. The stark light caught his white hair when he turned at the landing, went through his Albinotic eyes and came back a red. He turned again, and it was gone.
+Victor didn't slow his ascent. His black coat whipped at his ankles with each quick step. Overhead, the lights came up hard off the polished concrete of the stairwell. His eyes watered under the glare. He didn't blink it away. He kept climbing. The stark light caught his white hair when he turned at the landing, went through his Albinotic eyes and came back a red. 
 
 "Positive, Harlan," Victor said, his voice steady, betraying no exertion. "We've been hunting them for months. They won't get past me again."
 
@@ -74,7 +76,7 @@ Harlan burst through the stairwell door a second later, his weapon raised. "Jesu
 
 ***
 
-Inside the office, the terminal chimed a low tone. The massive data transfer had completed. 
+Inside the office, the terminal chimed a low tone. The data transfer had completed. 
 
 Rin perked up, the abrupt shout from the hallway cutting through the hum of the cooling fans. She pulled the red thumb drive from the console, her fingers closing tightly around the warm metal. 
 

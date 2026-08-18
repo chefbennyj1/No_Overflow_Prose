@@ -10,7 +10,7 @@ Rin tuned it out, as she pulled the red drive from her pocket. She turned it ove
 
 In the darkened glass of an adjacent storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison. 
 
-he anchorwoman's face fractured into heavy scanlines. Beneath it, in the static — hidden amongst  the  ancient noise — a new visage formed. A face devoid of color. An absolute black. Pixelated circuit lines glowed, tracing out her shape into an almost perfected feminine face. Her eyes burned a blinding, brilliant white, flaring with a blue aura along their lensed edges. She was breathtaking. She was terrifying.
+The anchorwoman's face fractured into heavy scanlines. Beneath it, in the static — hidden amongst  the  ancient noise — a new visage formed. A face devoid of color. An absolute black. Pixelated circuit lines glowed, tracing out the shape of a face. Eyes burned a blinding, brilliant white, flaring with a blue aura along their lensed edges. She was breathtaking. She was terrifying.
 
 Its expression remained still, hauntingly focused. The glowing white eyes in the reflection were tracking Rin's every step.
 
@@ -35,7 +35,7 @@ Rin crossed.
 
 A man leaned forward from the plush darkness, broad shoulders blocking the rear-facing seat, and most of the interior. His suit was sharp. Everything else about him wasn't. One eye brown, the other blue, shifting to the street, to the rain, and back —  as though he'd learned not to look at anything directly.
 
-Across from him sat a woman almost skeletal beneath an impeccably tailored silk dress.  Skin the color of paper left in a drawer. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go, and the diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' seemed to belong to her.  
+Across from him sat a woman almost skeletal beneath an impeccably tailored silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go, and the diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' seemed to belong to her.  
 
 "I see you made it out alive," the man said, his voice flat. 
 
@@ -49,7 +49,7 @@ The man snatched the drive up. Without looking at Rin, he turned and presented i
 
 Madame Filament took it with her skeletal, ring-adorned hand. She turned it over, a grim smile pulling at the deep lines around her mouth. 
 
-"It seems you have a small issue of the Renewal following you down here, Rin," the old woman rasped, her voice like grinding stones, exhaling a thin stream of smoke. "When I control the routing, the district stops paying Takeda-Holden for the privilege of freezing in the dark."
+"It seems you have a small issue of the Renewal following you down here, Rin," the old woman rasped, exhaling a thin stream of smoke. "When I control the routing, the district stops paying Takeda-Holden for the privilege of freezing in the dark."
 
 "I hope so," Rin said aloud.
 

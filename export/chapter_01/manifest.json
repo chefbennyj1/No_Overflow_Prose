@@ -1,0 +1,431 @@
+{
+  "version": 1,
+  "engine": "gemini",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice": "Zephyr",
+  "style": "Read aloud in a warm tone. book narrator. dramatic. noir, cyberpunk, English accent, not drawn out.",
+  "story": "NO OVERFLOW",
+  "chapter": "Chapter 1",
+  "folder": "chapter_01",
+  "sampleRate": 24000,
+  "complete": false,
+  "rendered": 31,
+  "tokens": 22464,
+  "seconds": null,
+  "renderedAt": 1787025996391,
+  "segments": [
+    {
+      "kind": "text",
+      "file": "parts/8740447f9468a8a4.wav",
+      "seconds": 46.36,
+      "gap": 0.75,
+      "text": "Sii-liss Blackwell took a drag from his cigarette, the ember flaring against the dawn. He was an erratic figure; a mop o"
+    },
+    {
+      "kind": "text",
+      "file": "parts/d9efcb9974af1a6f.wav",
+      "seconds": 25.2,
+      "gap": 0.75,
+      "text": "He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composit"
+    },
+    {
+      "kind": "text",
+      "file": "parts/51dad2f72ac9e4b3.wav",
+      "seconds": 31.28,
+      "gap": 0.75,
+      "text": "The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He e"
+    },
+    {
+      "kind": "text",
+      "file": "parts/19460bbb7f890271.wav",
+      "seconds": 11.76,
+      "gap": 0.75,
+      "text": "There was no need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind h"
+    },
+    {
+      "kind": "text",
+      "file": "parts/492a21bb0e29a701.wav",
+      "seconds": 7.12,
+      "gap": 0.75,
+      "text": "\"Are we ready, Miss Marlowe?\" Blackwell asked, his voice calm, carrying over the wind."
+    },
+    {
+      "kind": "text",
+      "file": "parts/a77662d862b52ade.wav",
+      "seconds": 24.88,
+      "gap": 0.75,
+      "text": "Elena Marlowe stood in the threshold, framed by the cool glow of the holographic environmental data embedded in the glas"
+    },
+    {
+      "kind": "text",
+      "file": "parts/6b749c5a09b533a7.wav",
+      "seconds": 21.12,
+      "gap": 0.75,
+      "text": "\"Yes, Doctor Blackwell,\" she replied. Her golden eyes caught the reflection of the data streams—striking, but Blackwell "
+    },
+    {
+      "kind": "text",
+      "file": "parts/27b810bd361a01dc.wav",
+      "seconds": 16.64,
+      "gap": 0.75,
+      "text": "Blackwell raised the cigarette to his lips one last time, inhaling until the end burned close to the filter. He held the"
+    },
+    {
+      "kind": "text",
+      "file": "parts/3c9120a31a6ca6f6.wav",
+      "seconds": 41.88,
+      "gap": 0.75,
+      "text": "The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a necessary filter. It formed an opaque flo"
+    },
+    {
+      "kind": "text",
+      "file": "parts/b97a91258935a917.wav",
+      "seconds": 39.76,
+      "gap": 0.75,
+      "text": "Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Tahkehh-da Holden corporate at"
+    },
+    {
+      "kind": "text",
+      "file": "parts/6dac411f3cdd6e87.wav",
+      "seconds": 12.52,
+      "gap": 0.75,
+      "text": "When the doors parted, the air inside the lab moved with a low vibration. It was the terrifying reality of the city's re"
+    },
+    {
+      "kind": "text",
+      "file": "parts/48ec473f54a26bf7.wav",
+      "seconds": 21.88,
+      "gap": 0.75,
+      "text": "Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics"
+    },
+    {
+      "kind": "text",
+      "file": "parts/0df51e4e9d7150a3.wav",
+      "seconds": 34.12,
+      "gap": 0.75,
+      "text": "Below him sat the Newmoscene Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep "
+    },
+    {
+      "kind": "text",
+      "file": "parts/26a50beb20256b9d.wav",
+      "seconds": 30.96,
+      "gap": 0.75,
+      "text": "A heavy layer of white gas rolled across the engine pit, obscuring the white paneled floor beneath. It broke against the"
+    },
+    {
+      "kind": "text",
+      "file": "parts/54a76a4a0a2191ce.wav",
+      "seconds": 15,
+      "gap": 0.75,
+      "text": "\"A drop in the bucket for what we're asking it to unearth, Miss Marlowe,\" Blackwell said, his voice dropping into a grav"
+    },
+    {
+      "kind": "text",
+      "file": "parts/9e04e009e3457fc9.wav",
+      "seconds": 19.2,
+      "gap": 0.75,
+      "text": "Bracing his weight against the railing, he leaned forward, his reflection distorted in the reinforced glass. \"The board "
+    },
+    {
+      "kind": "text",
+      "file": "parts/eb4ce51f928df2c0.wav",
+      "seconds": 8.48,
+      "gap": 0.75,
+      "text": "A humorless breath fogged the glass. \"I'm building a monument. Harnessing my singularity.\""
+    },
+    {
+      "kind": "text",
+      "file": "parts/98765770ad27333e.wav",
+      "seconds": 9.48,
+      "gap": 0.75,
+      "text": "\"Doctor Blackwell. Sii-liss.\" Elena's voice interrupted, a note of warning creeping into her tone. \"The board dialed in."
+    },
+    {
+      "kind": "text",
+      "file": "parts/9eead17068ebfebb.wav",
+      "seconds": 16.56,
+      "gap": 0.75,
+      "text": "Above the primary consoles, a wall sized display flickered to life. The encrypted feed partitioned the screen into a gri"
+    },
+    {
+      "kind": "text",
+      "file": "parts/d06bfae4e3b4e9ce.wav",
+      "seconds": 11.64,
+      "gap": 0.75,
+      "text": "\"Perfect,\" Blackwell said, his lip curling into a sinister smile, \"Just in time,\" his tone layered with passive sarcasm."
+    },
+    {
+      "kind": "text",
+      "file": "parts/9c3aa7ca9df4612b.wav",
+      "seconds": 7.8,
+      "gap": 0.75,
+      "text": "\"The Tahkehh-da Holden Corporation expects success today, Blackwell.\" a voice echoed from the grid."
+    },
+    {
+      "kind": "text",
+      "file": "parts/3071aba1d05795de.wav",
+      "seconds": 14.08,
+      "gap": 0.75,
+      "text": "Blackwell didn't bother to look back at the screen or at Elena, keeping his gaze fixed on the dormant core below. \"Very "
+    },
+    {
+      "kind": "text",
+      "file": "parts/12ecebefd5db4685.wav",
+      "seconds": 19.08,
+      "gap": 0.75,
+      "text": "Elena didn't blink. She remained where she was, her posture shifting from subordinate to commander as she leaned into th"
+    },
+    {
+      "kind": "text",
+      "file": "parts/97a848961308eae2.wav",
+      "seconds": 13.28,
+      "gap": 0.75,
+      "text": "\"All stations, synchronize for initialization.\" Elena's voice reverberated in a crackle over the laboratory loudspeaker,"
+    },
+    {
+      "kind": "text",
+      "file": "parts/67a74cd435529a8e.wav",
+      "seconds": 3.92,
+      "gap": 0.75,
+      "text": "The room erupted into a synchronized motion."
+    },
+    {
+      "kind": "text",
+      "file": "parts/25e8c5d6703fbee5.wav",
+      "seconds": 32.72,
+      "gap": 0.75,
+      "text": "Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as t"
+    },
+    {
+      "kind": "text",
+      "file": "parts/163813bd949ffedc.wav",
+      "seconds": 13.92,
+      "gap": 0.75,
+      "text": "The reactor's hum shifted into a rhythmic pulse—a heavy vibration creeping through the concrete and into their bones. Th"
+    },
+    {
+      "kind": "text",
+      "file": "parts/6db129c4b1a5f690.wav",
+      "seconds": 13.6,
+      "gap": 0.75,
+      "text": "Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was calm, unaffe"
+    },
+    {
+      "kind": "text",
+      "file": "parts/1a784be3fc1da31a.wav",
+      "seconds": 15.48,
+      "gap": 0.75,
+      "text": "The Board watched from their remote sanctuaries, confident that distance would protect them. They didn't understand the "
+    },
+    {
+      "kind": "text",
+      "file": "parts/21de78d39cd177e3.wav",
+      "seconds": 15.12,
+      "gap": 0.75,
+      "text": "Behind him, technicians on the floor exchanged nervous glances, shrinking back from the railing. They seemed unnerved by"
+    },
+    {
+      "kind": "text",
+      "file": "parts/d2b772439e91580e.wav",
+      "seconds": 29.92,
+      "gap": 0.75,
+      "text": "Elena stepped up to the railing, studying a datapad in her hand, her tense posture relaxing a fraction. \"The initializat"
+    },
+    {
+      "kind": "text",
+      "file": "parts/44a6f61632d74018.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"Of course they were,\" Blackwell said, the unlit cigarette bobbing between his lips."
+    },
+    {
+      "kind": "text",
+      "file": "parts/3ecb2bfe87612a43.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "On the executive display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval. Predato"
+    },
+    {
+      "kind": "text",
+      "file": "parts/6f215c97221a9b88.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"Doctor Blackwell, Ma'am.\""
+    },
+    {
+      "kind": "text",
+      "file": "parts/326d1bf65ecd74ed.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "The hushed voice interrupted the moment. Iris, a junior technician, scurried up behind them, not looking up from the glo"
+    },
+    {
+      "kind": "text",
+      "file": "parts/34a2fd781db785ef.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"Ma'am, local space-time..,\" Iris stammered in a frantic whisper, shooting a fearful glance at the Board's display befor"
+    },
+    {
+      "kind": "text",
+      "file": "parts/cc020c1a33305c6c.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "Elena spun around. She cast a quick glance up at the Board's display—a fleeting dread that the subordinate could ruin th"
+    },
+    {
+      "kind": "text",
+      "file": "parts/0318c463f73b4a00.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "The moment hung in the air. Blackwell observed the exchange in silence, recognizing the severity of the girl's intrusion"
+    },
+    {
+      "kind": "text",
+      "file": "parts/257c9aae8e1e06e3.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "Elena stepped into Iris's personal space. She didn't even look at the data."
+    },
+    {
+      "kind": "text",
+      "file": "parts/9c8451c7782f23f1.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"Negative,\" Elena said, her voice dropping into a scolding hiss through gritted teeth. \"That is a predicted resonance.\""
+    },
+    {
+      "kind": "text",
+      "file": "parts/ef75f121afd067c3.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "Iris flinched, pulling the tablet tight against her chest. She swallowed hard, her eyes darting between the towering mac"
+    },
+    {
+      "kind": "text",
+      "file": "parts/1a4553d37f32345c.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"I need the telemetry!\" Elena demanded, pivoting away."
+    },
+    {
+      "kind": "text",
+      "file": "parts/13ad5a3e8bd3c755.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "At the adjacent console, a synthetic stood at attention. The designation L-One-Two (Laboratory - 12) printed cleanly ben"
+    },
+    {
+      "kind": "text",
+      "file": "parts/449af726134c4861.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"Horizon stability confirmed,\" the machine reported."
+    },
+    {
+      "kind": "text",
+      "file": "parts/ac106b23055860cd.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "Blackwell admired the synthetic. It existed solely for the objective, unburdened by human distractions. That ruthless ef"
+    },
+    {
+      "kind": "text",
+      "file": "parts/101c7b07978218ca.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"Fusion Control says the thermal limits are safe, Doctor,\" the synthetic stated, its voice flat."
+    },
+    {
+      "kind": "text",
+      "file": "parts/a50fa4b1dd26c861.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"Fusion Control doesn't understand the optics of my quantum singularity,\" Blackwell retorted."
+    },
+    {
+      "kind": "text",
+      "file": "parts/a13cce4841684543.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "A monotone voice echoed from the display grid above. \"Satisfactory, Blackwell,\" a shadowed silhouette stated. \"The Compa"
+    },
+    {
+      "kind": "text",
+      "file": "parts/75e4e02790a295cf.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "Blackwell scoffed. \"Humph.\""
+    },
+    {
+      "kind": "text",
+      "file": "parts/75737fedd7a5c7bb.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "Elena shot an apprehensive glance toward the panels. \"What the Doctor means is, we are glad that today has been a succes"
+    },
+    {
+      "kind": "text",
+      "file": "parts/b708e66cf0c9a463.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"Progress will be monitored,\" another executive replied. The connection severed."
+    },
+    {
+      "kind": "text",
+      "file": "parts/b2f9c567ec129cb2.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"Mass Displacement Anomaly? That wasn't in the preliminary notes, Sii-liss.\" Elena's true expression bled through as she"
+    },
+    {
+      "kind": "text",
+      "file": "parts/09e97d922ad0a211.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "Blackwell turned, giving her his undivided attention for the first time. \"It's predicted resonance,\" he said, the corner"
+    },
+    {
+      "kind": "text",
+      "file": "parts/fac69d5f535778c1.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "Elena shook her head. Seeing Blackwell calm, she dropped the dangerous subject, \"You know, it wouldn't hurt you to talk "
+    },
+    {
+      "kind": "text",
+      "file": "parts/f59854cd41f00fdc.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "Blackwell returned to the pillar readouts. The displacement anomaly was a necessary distraction. While Elena and the tec"
+    },
+    {
+      "kind": "text",
+      "file": "parts/d1db6735a7d036b4.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"I don't like the Board,\" Blackwell said, keeping his gaze fixed on the engine."
+    },
+    {
+      "kind": "text",
+      "file": "parts/0cb08e50ac74c986.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"Funding, Sii-liss,\" she urged. \"Remember the funding.\""
+    },
+    {
+      "kind": "text",
+      "file": "parts/540cde8ff506344c.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "\"I don't like the Board,\" he repeated."
+    },
+    {
+      "kind": "text",
+      "file": "parts/147e482370d4f5f1.wav",
+      "seconds": null,
+      "gap": 0.75,
+      "text": "Elena exhaled, rubbing her temples. \"And everybody knows it.\""
+    }
+  ]
+}
