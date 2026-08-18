@@ -1,4 +1,4 @@
-  Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers", the massive arcologies of the city. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. 
+  Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers", the daunting arcologies of the city. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. 
   
   The atmosphere was bitter, and thick with exhaust. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. Only the synthetics walked barefaced. The freezing rain beaded off their vinyl skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
 
@@ -16,7 +16,7 @@ The magnetic lock disengaged with a hollow thud.
 
 She ran her fingers along the messy fringe of bangs that hung across her eyes, tucking the sharp, jagged sidelock of her black hime-cut bob behind her ear. She slipped through the threshold, stepping into the muted silence of the executive suite. Water dripped from her oversized, heavy leather jacket, pooling on the polished floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
 
-As she crossed the center of the office, the room's massive window flared to life, a wave of blue pixels flowed across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of telemetry data. She approached the terminal sitting on the polished black glass inlay of the wooden desk, ignoring the holographic overlay of the Dead Circuits sprawling fifteen floors below.
+As she crossed the center of the office, the room's seamless window flared to life, a wave of blue pixels flowed across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of telemetry data. She approached the terminal sitting on the polished black glass inlay of the wooden desk, ignoring the holographic overlay of the Dead Circuits sprawling fifteen floors below.
 
 She didn't admire the view. The telemetry data streaming across the glass represented sheer excess—idle processing power that could keep the Dead Circuits heated through the winter. Rin pulled a black single-board controller from her jacket, jamming its connection wire into the main console. 
 
@@ -34,7 +34,7 @@ She bypassed the personal directories, diving straight into the infrastructure s
 
 As the routing keys slowly copied to her drive, a hidden sub-process in Blackwell's directory caught her eye. It was a power consumption log. The numbers revealed a massive, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
 
-She opened the file path. The screen flooded with classified schematics for something called a *Mnemosyne Engine*. At the center of the complex data was a wireframe of a massive laboratory tower. Rin stopped, her eyes darting from the small screen to the massive window behind her. 
+She opened the file path. The screen flooded with classified schematics for something called a *Mnemosyne Engine*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
 
 The blue telemetry data on the glass was a scaled holographic projection of the exact same tower schematic.
 
@@ -62,13 +62,13 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 "We have to intercept Null before Corporate Renewal does," Victor said, his gaze fixed on the landing above. "If Takeda-Holden finds them first, months of work will have been for nothing. "
 
-Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a massive revolver that looked like a relic from another century. Its augmented magnetic rails hummed with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
+Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a heavy revolver that looked like a relic from another century. Its augmented magnetic rails hummed with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
 
 "Oshima Police Depart—" 
 
 Victor stopped dead. 
 
-At the opposite end of the hall, the executive suite door stood ajar. Victor squinted at the violent, erratic blue light bleeding through the gap. Through the opening, he could see a section of the office's massive window. It was consumed by a glowing blue wireframe projection that  outlined a towering, brutalist building in the distant city skyline.
+At the opposite end of the hall, the executive suite door stood ajar. Victor squinted at the violent, erratic blue light bleeding through the gap. Through the opening, he could see a section of the office's picture window. It was consumed by a glowing blue wireframe projection that  outlined a towering, brutalist building in the distant city skyline.
 
 Harlan burst through the stairwell door a second later, his weapon raised. "Jesus, Victor! You're being reckless—"
 
@@ -82,7 +82,7 @@ Rin perked up, the abrupt shout from the hallway cutting through the hum of the 
 
 *Police?* she realized. *Better than Renewal.*
 
-She pocketed the drive, her gaze shifting from the massive window to the ajar executive doors. 
+She pocketed the drive, her gaze shifting from the window to the ajar executive doors. 
 
 *Time to go.*
 
@@ -128,9 +128,9 @@ Harlan grabbed Victor’s arm, his voice dropping to a harsh whisper. "Victor...
 
 Their humanity was obscured by glossy, faceless black helmets that reflected the harsh fluorescent light of the stairwell. The lead agent didn't speak. It simply stepped directly into Victor's personal space, towering over him. Victor could see his own pale reflection in the black glass. The agent shone a deliberately bright tactical light, scanning Harlan's upheld Oshima police badge before snapping the light, to burn directly into Victor's sensitive eyes.
 
-Victor was still holding his heavy revolver. The entire squad shifted their weapons a fraction of an inch in response. A silent, lethal threat.
+Victor was still holding his heavy revolver. The entire squad shifted towards him in response. A silent, lethal threat.
 
-Victor made a point of slowly, deliberately holstering the massive gun so as not to instigate them. He winced, blinking through the blinding light. "Oh, look," he muttered, his sarcastic tone masking a spike of genuine adrenaline. "The cavalry finally showed up. Just in time, as always."
+Victor made a point of slowly, deliberately holstering the gun so as not to instigate them. He winced, blinking through the blinding light. "Oh, look," he muttered, his sarcastic tone masking a spike of genuine adrenaline. "The cavalry finally showed up. Just in time, as always."
 
 He didn't argue further. He stepped aside, letting the silent, black-armored squad push past them to secure the executive suite.
 

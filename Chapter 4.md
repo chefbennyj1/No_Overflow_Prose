@@ -24,7 +24,7 @@ It had been six weeks since the engine was brought online, and the toll was obvi
 
 A few yards away stood Iris, the lab technician. She adjusted her black-rimmed glasses on her face, the lenses reflecting the light from the screens in the lab. She watched Blackwell walk across the mezzanine. She looked back to her workstation, her expression terrified but intensely analytical.
 
-Standing before a massive, glowing interface was Elena Marlowe. The cool light of the holographic monitors illuminated her white lab coat. She was typing furiously, her face set in an intense, frustrated scowl, devoid of the commanding composure she usually maintained.
+Standing before a glowing interface was Elena Marlowe. The cool light of the monitors shone against her white lab coat. She was typing furiously, her face set in an intense, and frustrated, devoid of the commanding composure she usually maintained.
 
 "The engine's been running perfectly for weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
 
