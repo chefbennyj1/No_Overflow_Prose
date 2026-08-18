@@ -14,17 +14,17 @@ Elena Marlowe stood in the threshold, framed by the cool glow of the holographic
 
 Blackwell raised the cigarette to his lips one last time, inhaling until the end burned close to the filter. He held the smoke in his lungs for a long second, then exhaled and dropped the butt over the edge of the railing.
 
-The spent cigarette vanished into the abyss. To Blackwell, the fog was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the Dead Circuits—the crushed remains of Oshima. Decades ago, Takeda-Holden hadn't bothered to demolish the slums; they poured the concrete for New Veridia directly on top of them. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
+The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the lower city. The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima, they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
-Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The cavernous annex was an imposing expanse of sleek, featureless architecture. Sharp, geometric angles of polished concrete soared above and plunged below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping them dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
+Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The cavernous annex was an imposing expanse of sleek, featureless architecture. Sharp, geometric angles of polished concrete soared above and plunged below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping  dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
 
 When the doors parted, the air inside the lab moved with a low vibration. It was the terrifying reality of the city's reactor channeling into the floor beneath their feet.
 
-Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. They worked diligently checking the data on their screens. Blackwell approached the reinforced railing that encircled the center of the pit. Gripping the cold metal railing, he looked down.
+Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. They worked diligently checking the data on their screens. Blackwell approached the reinforced railing that encircled the center of the pit. Gripping the cold metal, he looked down.
 
 Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock. What ascended through the facility's foundation, and protruded into this observation chamber was a cluster of stark white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
 
-A heavy layer of fog rolled across the engine pit, obscuring the white paneled floor beneath. It broke against the stark topology of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was bitter cold, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
+A heavy layer of white gas rolled across the engine pit, obscuring the white paneled floor beneath. It broke against the stark topology of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was bitter cold, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
 
 "A drop in the bucket for what we're asking it to unearth, Miss Marlowe," Blackwell said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
 
@@ -34,9 +34,9 @@ A humorless breath fogged the glass. "I'm building a monument. Harnessing my sin
 
 "Doctor Blackwell. Silas." Elena's voice interrupted, a note of warning creeping into her tone. "The board dialed in."
 
-Above the primary consoles, a massive display flickered to life. The encrypted feed partitioned the screen into a grid of digital monitors. Each square displayed nothing but the featureless silhouette of a corporate executive.
+Above the primary consoles, a wall sized display flickered to life. The encrypted feed partitioned the screen into a grid of digital monitors. Each square displayed nothing but the featureless silhouette of a corporate executive.
 
-"Perfect," Blackwell murmured, his lip curling into a sinister smile, "Just what we need. Extra eyes."
+"Perfect," Blackwell said, his lip curling into a sinister smile, "Just in time," his tone layered with passive sarcasm.
 
 "The Takeda-Holden Corporation expects success today, Blackwell." a  voice echoed from the grid.
 
@@ -62,7 +62,7 @@ Elena stepped up to the railing, studying a datapad in her hand, her tense postu
 
 "Of course they were," Blackwell said, the unlit cigarette bobbing between his lips.
 
-On the immense display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval—or at least, predatory interest—emanated from the feed. The Takeda-Holden Corporation was watching their investment come to life. Beside him, Elena stiffened under the executive gaze. To her, this was a performance.
+On the executive display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval. Predatory interest. The Takeda-Holden Corporation was watching their investment come to life. Beside him, Elena stiffened under the executive gaze. To her, this was a performance.
 
 "Doctor Blackwell, Ma'am." 
 
@@ -106,7 +106,7 @@ Blackwell turned, giving her his undivided attention for the first time. "It's p
 
 Elena shook her head. Seeing Blackwell calm, she dropped the dangerous subject, "You know, it wouldn't hurt you to talk to the Board, " she turned, glancing back over the console floor behind them, "you are the lead."
 
-Blackwell returned to the pillar readouts. Amidst the scrolling data, the displacement anomaly flared again along the singularity's horizon. But this time, a shadow process was attached to it—a branch of the neural matrix had inverted, and it was expanding. He caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
+Blackwell returned to the pillar readouts. The displacement anomaly was a necessary distraction. While Elena and the technicians panicked over the fluctuating event horizon, Blackwell watched the real experiment begin. Deep in the logs, a shadow process was quietly expanding. It was an inverted branch of the neural matrix. He caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
 
 "I don't like the Board," Blackwell said, keeping his gaze fixed on the engine.
 
