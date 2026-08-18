@@ -10,7 +10,7 @@
 
 The corridor was otherwise silent, smelling of oxidizing disinfectants and recycled air. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away. 
 
-  A sudden flash of blue light reflected off the narrow hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as she watched the sweeping laser beam search for its missing retinal data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scanner and swiped her forged personnel card, illuminating the lock's near-field communication display.
+  A sudden flash of blue light reflected off the narrow hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam search for its missing retinal data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scanner and swiped her forged personnel card, illuminating the lock's near-field communication display.
 
 The magnetic lock disengaged with a hollow thud. 
 
