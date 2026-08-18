@@ -10,7 +10,7 @@ There was no need to turn around to know he was no longer alone. The faint hiss 
 
 Elena Marlowe stood in the threshold, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the dark atrium behind her. Her natural, shoulder-length hair framed her face. She stood looking at Blackwell, a hint of terrified excitement in her eyes.
 
-"Yes, Doctor Blackwell," she replied. Her golden eyes caught the reflection of the data streams—striking, but Blackwell viewed them as precision corporate engineering. "The Mnemosyne Engine is connected to the city's main fusion reactor. You have three hundred and twenty terawatts at your disposal."
+"Yes, Doctor Blackwell," she replied. Her golden eyes caught the reflection of the doors holographics—striking, but Blackwell viewed them as precision corporate engineering. "The Mnemosyne Engine is connected to the city's main fusion reactor. You have three hundred and twenty terawatts at your disposal."
 
 Blackwell raised the cigarette to his lips one last time, inhaling until the end burned close to the filter. He held the smoke in his lungs for a long second, then exhaled and dropped the butt over the edge of the railing.
 
@@ -44,7 +44,7 @@ Blackwell didn't bother to look back at the screen or at Elena, keeping his gaze
 
 Elena didn't blink. She remained where she was, her posture shifting from subordinate to commander as she leaned into the microphone of the control room.  There was a quick succession of two tones over the speaker system. Technicians in white coats looked up from their consoles.
 
-"All stations, synchronize for initialization." Elena's voice reverberated in a  crackle over the laboratory loudspeaker, almost robotic. "Initiate sequence."
+"All stations, ready for initialization." Elena's voice reverberated in a  crackle over the laboratory loudspeaker, almost robotic. "Initiate sequence."
 
 The room erupted into a synchronized motion.
 
@@ -78,11 +78,11 @@ Elena stepped into Iris's personal space. She didn't even look at the data.
 
 "Negative," Elena said, her voice dropping into a scolding hiss through gritted teeth. "That is a predicted resonance."
 
-Iris flinched, pulling the tablet tight against her chest. She swallowed hard, her eyes darting between the towering machine and her supervisor. "Yes, ma'am. Of course. Predicted resonance."
+Iris flinched, pulling the tablet tight against her chest. She swallowed hard, her eyes darting between the  machine and her supervisor. "Yes, ma'am. Of course. Predicted resonance."
 
 "I need the telemetry!" Elena demanded, pivoting away.
 
-At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory - 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie luminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the white fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
+At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie luminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the white fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
 
 "Horizon stability confirmed," the machine reported.
 
