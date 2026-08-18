@@ -6,7 +6,7 @@ The night’s heavy rain had washed the air clean, leaving a settled mist beneat
 
 There was no need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
-"Are we ready, Miss Marlowe?" Blackwell asked, his voice calm, carrying over the wind.
+Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
 Elena Marlowe stood in the threshold, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the dark atrium behind her. Her natural, shoulder-length hair framed her face. She stood looking at Blackwell, a hint of terrified excitement in her eyes.
 

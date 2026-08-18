@@ -10,9 +10,9 @@
   "sampleRate": 24000,
   "complete": true,
   "rendered": 1,
-  "tokens": 1944,
-  "seconds": 1157.14,
-  "renderedAt": 1787068074429,
+  "tokens": 325,
+  "seconds": 1150.8600000000001,
+  "renderedAt": 1787069456768,
   "segments": [
     {
       "kind": "text",
@@ -44,24 +44,24 @@
     },
     {
       "kind": "text",
-      "file": "parts/f3bec8732a4f2e68.wav",
-      "seconds": 8.72,
+      "file": "parts/de63d64459cdce25.wav",
+      "seconds": 8.04,
       "gap": 0.75,
-      "text": "\"Are we ready, Miss Marlowe?\" Blackwell asked, his voice calm, carrying over the wind."
+      "text": "Blackwell's voice was calm, carrying over the wind, \"Are we ready, Miss Marlowe?\""
     },
     {
       "kind": "text",
-      "file": "parts/ce9dc3bd7f2d1a49.wav",
-      "seconds": 30.96,
+      "file": "parts/7568351631f3f8eb.wav",
+      "seconds": 26.56,
       "gap": 0.75,
       "text": "Elena Marlowe stood in the threshold, framed by the cool glow of the holographic environmental data embedded in the glas"
     },
     {
       "kind": "text",
-      "file": "parts/5016265cae3f1b36.wav",
-      "seconds": 22.44,
+      "file": "parts/d3d46e2c55de4865.wav",
+      "seconds": 23.88,
       "gap": 0.75,
-      "text": "\"Yes, Doctor Blackwell,\" she replied. Her golden eyes caught the reflection of the data streams—striking, but Blackwell "
+      "text": "\"Yes, Doctor Blackwell,\" she replied. Her golden eyes caught the reflection of the doors holographics—striking, but Blac"
     },
     {
       "kind": "text",
@@ -177,10 +177,10 @@
     },
     {
       "kind": "text",
-      "file": "parts/4dc35bd513474bcc.wav",
-      "seconds": 16,
+      "file": "parts/d7fcc92d5e27ec88.wav",
+      "seconds": 13.76,
       "gap": 0.75,
-      "text": "\"All stations, synchronize for initialization.\" Elena's voice reverberated in a crackle over the laboratory loudspeaker,"
+      "text": "\"All stations, ready for initialization.\" Elena's voice reverberated in a crackle over the laboratory loudspeaker, almos"
     },
     {
       "kind": "text",
@@ -296,10 +296,10 @@
     },
     {
       "kind": "text",
-      "file": "parts/f4373ce3f651feef.wav",
-      "seconds": 16.6,
+      "file": "parts/71dec17902be1e0c.wav",
+      "seconds": 16.08,
       "gap": 0.75,
-      "text": "Iris flinched, pulling the tablet tight against her chest. She swallowed hard, her eyes darting between the towering mac"
+      "text": "Iris flinched, pulling the tablet tight against her chest. She swallowed hard, her eyes darting between the machine and "
     },
     {
       "kind": "text",
@@ -310,10 +310,10 @@
     },
     {
       "kind": "text",
-      "file": "parts/13a6ba57cc67bc4c.wav",
-      "seconds": 37.52,
+      "file": "parts/5f86e7d5fe01fe2a.wav",
+      "seconds": 37.64,
       "gap": 0.75,
-      "text": "At the adjacent console, a synthetic stood at attention. The designation L-One-Two (Laboratory - 12) printed cleanly ben"
+      "text": "At the adjacent console, a synthetic stood at attention. The designation L-One-Two (Laboratory 12) printed cleanly benea"
     },
     {
       "kind": "text",
