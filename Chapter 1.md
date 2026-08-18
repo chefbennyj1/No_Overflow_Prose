@@ -106,7 +106,7 @@ Blackwell turned, giving her his undivided attention for the first time. "It's p
 
 Elena shook her head. Seeing Blackwell calm, she dropped the dangerous subject, "You know, it wouldn't hurt you to talk to the Board, " she turned, glancing back over the console floor behind them, "you are the lead."
 
-Blackwell returned to the pillar readouts. The displacement anomaly was a necessary distraction. While Elena and the technicians panicked over the fluctuating event horizon, Blackwell watched the real experiment begin. Deep in the logs, a shadow process was quietly expanding. It was an inverted branch of the neural matrix. He caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
+Blackwell returned to the pillar readouts. The displacement anomaly was a necessary distraction. While Elena and the technicians panicked over the fluctuating event horizon, Blackwell watched the real experiment begin. He more than understood the Boundary Paradox—the way randomness and chaos grew unpredictably inside the structured borders of the universe he built within the horizon memory. Deep in the logs, a shadow process was quietly expanding. It was an inverted branch of the neural matrix. He caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
 
 "I don't like the Board," Blackwell said, keeping his gaze fixed on the engine.
 
