@@ -13,6 +13,7 @@
 11. **Avoid Contrast Framing:** Do not rely on structural contrasts to describe things (e.g., "The city was X, but the room was Y", "It might have been A, but it looked like B"). State what things are directly with absolute authority.
 12. **Post-Positive Adjectives (Use Sparingly):** Occasionally place adjectives after the noun (e.g., "a system, alien and indifferent") to break up standard SVO rhythms. This spikes perplexity/burstiness and evades AI detectors by mimicking jagged, intentional human style. Use sparingly so the prose doesn't sound backwards or overly poetic.
 13. **Banish "Mutter" / "Muttered":** Never use the words "mutter" or "muttered." Find sharper, more physical ways to describe quiet or under-the-breath dialogue.
+14. **Banish "Make Sense":** Never use phrases like "It doesn't make sense" or "Didn't make sense." Instead of having characters state their confusion, describe exactly what physical anomaly or contradiction is breaking their understanding.
 
 ## Character Physical Tics
 Recurring, involuntary gestures that signal a character's interior state without narrating it directly (required by the strict-POV rule). Established so far:
