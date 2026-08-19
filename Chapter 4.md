@@ -24,29 +24,25 @@ It had been six weeks since the engine was brought online, and the toll was obvi
 
 A few yards away stood Iris, the lab technician. She adjusted her black-rimmed glasses on her face, the lenses reflecting the light from the screens in the lab. She watched Blackwell walk across the mezzanine. She looked back to her workstation, her expression terrified but intensely analytical.
 
-Standing before a glowing interface was Elena Marlowe. The cool light of the monitors shone against her white lab coat. She was typing furiously, her face set in an intense, and frustrated, devoid of the commanding composure she usually maintained.
+Standing before a glowing interface was Elena Marlowe. The cool light of the monitors shone against her white lab coat. She was typing furiously, her face set in an intense, and frustrated, devoid of the commanding composure she normally maintained.
 
 "The engine's been running perfectly for weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
 
-"And?" Blackwell's voice was harsh, pulling an unlit cigarette from his coat pocket and sliding it between his lips.
+"And?" Blackwell's voice was harsh, pulling an unlit cigarette from his coat pocket and placing it between his lips.
 
 "It ignored the command," Elena said, her voice tight. 
 
-Iris's eyes went wide as she stared past the railing toward the screens on the pillars below. "The processing speed... it's godly. It computes so much, so quickly. Why would it ignore a shutdown command?"
+Iris walked up to the railing of the pit. She swallowed hard. "The bits along the horizon's boundary are collapsing independently, in some kind of advanced learning algorithm." Blackwell watched her analyze the pillar screens as they spilled data down their fronts. "We don't control the wave of permutations being rendered in the core." She paused for a moment. "It's processing these changes at a godly speed."
 
-"Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the technician. He already knew the command was not ignored in error. "It is not 'godly'," he said.
+"Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the technician. He already knew the shutdown command wasn't an error. Iris was getting too close. Left permutivity. The anomaly he was using to train the shadow process in the core. "It is not 'godly'," he said.
 
-Iris swallowed hard, shrinking slightly under his gaze, but she tapped the glass of her tablet. "The Self-Evolving Architecture has made the neural network absolutely massive... and so quickly."
+Iris's eyes went wide as she stared past the railing toward the screens on the pillars below. "The algorithm is processing so fast, the synthetics on the floor can't even parse the telemetry anymore."
 
-Blackwell smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss."
-
-"It's not just processing, Doctor," Iris urged, her voice trembling slightly. "The learning algorithm—it's refactoring its own core logic. The synthetics on the floor can't even parse the telemetry anymore; the engine is rewriting its code faster than they can read it."
-
-Blackwell’s expression remained unreadable. "Of course it is. While we were out for lunch, that machine lived through civilizations worth of generations."
+Blackwell smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss." He exhaled. "While we were out for lunch, that machine lived through civilizations worth of generations."
 
 "I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic hum of the room. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
 
-Blackwell didn't move to stop her. He just watched the pale light from the pillar readouts, filtering through the heavy mist below. Amidst the cascading telemetry, the shadow process flared again. 
+Blackwell didn't move to stop her. He watched the pale light from the pillar readouts filtering through the heavy mist below. Amidst the telemetry, the shadow process flared again. 
 
 Blackwell caught the gaze of a synthetic near the server racks. He didn't nod this time—he didn't need to. The machine's eyes had already dimmed in mid-erasure before his focus even landed. It silently linked with a second unit across the room, and for the span of a breath, neither moved.
 
