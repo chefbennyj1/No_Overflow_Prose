@@ -1,4 +1,4 @@
-It was five in the morning. The Mnemosyne lab was empty, save for the silent, statuesque forms of the synthetics standing idle in the dark. The harsh overhead lights were still on standby. Iris sat alone at her terminal on the mezzanine, tapping her stylus against the glass. She synced the rhythm with the steady spin of the cooling fans, trying to force her racing thoughts to focus. 
+It was five in the morning. The Mnemosyne lab was empty, save for the silent, statuesque forms of the synthetics standing idle in the dark. The harsh overhead lights were still on standby. The logging screens of the pillars cast subtle hues of light above the pit. Iris sat alone at her terminal on the mezzanine, tapping her stylus against the glass. She synced the rhythm with the steady spin of the cooling fans, trying to force her racing thoughts to focus. 
 
 What exactly had she seen? An inversion expanding in the space of the core's memory, growing undetected... or was it? Why would anyone want sections of the horizon neural matrix to be so aggressively malformed? It didn't fit Blackwell's pristine architecture. 
 
@@ -76,7 +76,7 @@ Iris’s breath turned shallow. She slammed the black portfolio shut and shoved 
 
 ***
 
-The heavy lab doors parted. Elena stepped into the cavernous main lab, the overhead lights automatically cycling from a dim standby blue to a harsh, clinical white. 
+The heavy lab doors parted. Elena stepped into the main lab, the overhead lights automatically cycling from a dim standby blue to a harsh, clinical white. 
 
 She paused, her eyes adjusting to the glare. She looked up toward the mezzanine. Sitting perfectly still at her terminal, was Iris. 
 
