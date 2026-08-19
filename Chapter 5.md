@@ -1,6 +1,10 @@
-Beyond the physical constraints of the laboratory, beneath the bedrock and the server racks, the core of the Mnemosyne Engine did not exist as circuitry. It was an impossible geometry, barely comprehensible to a typical mind.
+Beyond the physical constraints of the laboratory, beneath the bedrock and the server racks, the core of the Mnemosyne Engine did not exist as circuitry. 
 
-Staggered monoliths of pale stone and oxidized metal floated in a bottomless expanse. They formed fractured nodes and sharp, corbelled spires, building and refactoring themselves in a terrifying silence. On one side of this endless void hung the event horizon—an immense, looping singularity of blazing white light that folded and spun across multiple dimensions.
+It was a system, alien and indifferent to the organic minds that created it.
+
+Staggered monoliths of pale stone and oxidized metal floated in a bottomless expanse. They formed fractured nodes and corbelled spires, repeating despite never being quite uniform. The structures built and refactored themselves in a terrifying silence. 
+
+On one side of this endless void hung the event horizon—an immense, looping singularity of blazing white light that folded and spun across multiple dimensions.
 
 Within this localized gravity well, a single real-world second stretched forever.
 
