@@ -32,7 +32,7 @@ Iris looked down. Two men walked into the cavernous atrium, instantly disrupting
 
 The acoustics of the Brutalist atrium carried their voices upward.
 
-"Oh look… a corporate canner," the man in the suit muttered, adjusting his collar. "Why do they make them look so human?"
+"Oh look… a corporate canner," the man in the suit said, adjusting his collar. "Why do they make them look so human?"
 
 "Don't know, Harlan," the man in the trench coat replied, his voice a low, hard rasp. "Never trusted them."
 
@@ -60,7 +60,7 @@ The synthetic's expression didn't waver. "Doctor Blackwell? I'm sorry... there's
 
 "Nice try, Logic-Gate. Your script is showing," Victor interrupted, leaning over the desk. "We pulled terminal records from the night of the breach. Blackwell's name is all over them."
 
-"Jesus, Victor," Harlan muttered, nervously eyeing the armed guards by the turnstiles. "Don't antagonize the synthetic."
+"Jesus, Victor," Harlan nervously eyed the armed guards by the turnstiles. "Don't antagonize the synthetic."
 
 "I'm not playing games," Victor said. "Where's Blackwell? I know he's got a lab in this building, and an office downtown. Page him."
 

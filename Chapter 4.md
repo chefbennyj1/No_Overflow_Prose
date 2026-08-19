@@ -50,7 +50,7 @@ From her workstation, Iris tilted her head, her eyes narrowing at the pillar dis
 
 Then the shadow process was gone from the logs.
 
-The glow of Elena's monitors flashed an angry, crimson red. Across the floor, every workstation synchronized the same alert. The human technicians stepped back from their consoles, while the synthetics simply froze in place.
+The glow of Elena's monitors flashed an angry, crimson red. Across the floor, every workstation synchronized the same alert. The human technicians stepped back from their consoles, while the synthetics froze in place.
 
 "Horizon memory shutdown reads as... unsuccessful, ma'am," Iris said, staring up at Elena. 
 

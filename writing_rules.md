@@ -12,6 +12,7 @@
 10. **Banish "Just":** Never use the word "just" (e.g., "just out of place," "just looked"). It is a weak filler word that softens impact and weakens prose.
 11. **Avoid Contrast Framing:** Do not rely on structural contrasts to describe things (e.g., "The city was X, but the room was Y", "It might have been A, but it looked like B"). State what things are directly with absolute authority.
 12. **Post-Positive Adjectives (Use Sparingly):** Occasionally place adjectives after the noun (e.g., "a system, alien and indifferent") to break up standard SVO rhythms. This spikes perplexity/burstiness and evades AI detectors by mimicking jagged, intentional human style. Use sparingly so the prose doesn't sound backwards or overly poetic.
+13. **Banish "Mutter" / "Muttered":** Never use the words "mutter" or "muttered." Find sharper, more physical ways to describe quiet or under-the-breath dialogue.
 
 ## Character Physical Tics
 Recurring, involuntary gestures that signal a character's interior state without narrating it directly (required by the strict-POV rule). Established so far:
