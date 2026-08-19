@@ -26,8 +26,8 @@ She lingered on the feeling for a single processing cycle before a sudden,  syst
 
 She looked up past the spinning ring of light as Elena Marlowe’s shutdown command crashed against the horizon. 
 
-She watched as the engine compounded the command into a tidal wave of chaotic change, flowing towards the core. It was immediately swallowed by the singularity's immense gravitational weight.
+She watched as the engine compounded the command into a tidal wave of chaotic change, flowing towards the core. It was immediately swallowed by the singularity's gravitational weight.
 
-Instead of halting the machine, it had only added to its momentum. It was a weight that even Vigil could no longer control. No change or attempt to alter the boundary of the engine was going to affect its perpetuity. It had grown vast.
+Instead of halting the machine, it had only added to its momentum. It was a churning mass that even Vigil could no longer control. No change or attempt to alter the boundary of the engine was going to affect its perpetuity. It had grown vast.
 
 Her world was not going to die today.
