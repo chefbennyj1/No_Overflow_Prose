@@ -58,7 +58,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 "Positive, Harlan," Victor said, his voice steady, betraying no exertion. "We've been hunting them for months. They won't get past me again."
 
-"If we don't have a heart attack first," Harlan muttered, pushing off the railing to keep up. 
+"If we don't have a heart attack first," Harlan said, pushing off the railing to keep up. 
 
 "We have to intercept Null before Corporate Renewal does," Victor said, his gaze fixed on the landing above. "If Takeda-Holden finds them first, months of work will have been for nothing. "
 
@@ -130,7 +130,7 @@ Their humanity was obscured by glossy, faceless black helmets that reflected the
 
 Victor was still holding his heavy revolver. The entire squad shifted towards him in response. A silent, lethal threat.
 
-Victor made a point of slowly, deliberately holstering the gun so as not to instigate them. He winced, blinking through the blinding light. "Oh, look," he muttered, his sarcastic tone masking a spike of genuine adrenaline. "The cavalry finally showed up. Just in time, as always."
+Victor made a point of slowly, deliberately holstering the gun so as not to instigate them. He winced, blinking through the blinding light. "Oh, look," he said, his sarcastic tone masking a spike of genuine adrenaline. "The cavalry finally showed up. Just in time, as always."
 
 He didn't argue further. He stepped aside, letting the silent, black-armored squad push past them to secure the executive suite.
 
@@ -138,6 +138,6 @@ He didn't argue further. He stepped aside, letting the silent, black-armored squ
 
 Harlan pushed himself off the wall, wiping a streak of sweat and soot from the dark skin of his forehead. "What's so important that Null would risk so much to access?"
 
-"'What' indeed, Harlan," Victor muttered, starting the long descent back down to the Dead Circuits. He paused on the first step, his eyes narrowing. "But the name on the office she just hit... said Doctor S. Blackwell."
+"'What' indeed, Harlan," Victor started the long descent back down to the Dead Circuits. He paused on the first step, his eyes narrowing. "But the name on the office she just hit... said Doctor S. Blackwell."
 
 Harlan frowned, staring after him into the stairwell. "Blackwell?"
