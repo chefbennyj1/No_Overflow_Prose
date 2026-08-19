@@ -8,13 +8,13 @@ The smoke disrupted the hard-light matrix. The flickering light of the corrupted
 
 The young manager on the display shifted uncomfortably. Digital artifacts crawled at his edges. "They accessed—" The young man's eyes went somewhere off-frame. "Everything, Doctor."
 
-Blackwell took a slow, deliberate drag from his cigarette. The end flared bright red, reflecting briefly in the black glass of his lenses. He didn't raise his voice, but the sudden shift in his posture carried a heavy threat. "The Renewal's incompetence has jeopardized my work."
+Blackwell took a slow, deliberate drag from his cigarette. The end flared bright red, reflecting briefly in the black glass of his lenses. His voice remained quiet. The sudden shift in his posture carried a heavy threat. "The Renewal's incompetence has jeopardized my work."
 
 "The Corporation is treating this breach as a critical priority," the manager replied quickly, his tone practiced but tight with underlying panic. "Sweeps are active in the Dead Circuits as we speak. Redacted logs from your terminal have been forwarded to Oshima PD to aid in the hunt."
 
-Blackwell didn't care about the police. He didn't care about the Corporate Renewal agents kicking down doors. He cared about the fragile architecture of his creation.
+Blackwell didn't care about the police. He didn't care about the Corporate Renewal agents kicking down doors. He cared about the fragile architecture of his creation. 
 
-"Very well," He exhaled another cloud of smoke that drifted toward the ceiling. "We shall see what is truly compromised by this idiocracy."
+Blackwell exhaled another cloud of smoke that drifted toward the ceiling. "We shall see what is truly compromised by this idiocracy."
 
 He tapped a key on his console. The manager’s avatar collapsed into a single, bright point of light before vanishing, plunging the room back into darkness.
 
@@ -24,7 +24,7 @@ It had been six weeks since the engine was brought online, and the toll was obvi
 
 A few yards away stood Iris, the lab technician. She adjusted her black-rimmed glasses on her face, the lenses reflecting the light from the screens in the lab. She watched Blackwell walk across the mezzanine. She looked back to her workstation, her expression terrified but intensely analytical.
 
-Standing before a glowing interface was Elena Marlowe. The cool light of the monitors shone against her white lab coat. She was typing furiously, her face set in an intense, and frustrated, devoid of the commanding composure she normally maintained.
+Standing before a glowing interface was Elena Marlowe. Her white lab coat shone with the reflected cool light of the  monitors she was working on. She was typing furiously, her face set in intense frustration, devoid of the commanding composure she normally maintained.
 
 "The engine's been running perfectly for weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
 
@@ -32,11 +32,11 @@ Standing before a glowing interface was Elena Marlowe. The cool light of the mon
 
 "It ignored the command," Elena said, her voice tight. 
 
-Iris walked up to the railing of the pit. She swallowed hard. "The bits along the horizon's boundary are collapsing independently, in some kind of advanced learning algorithm." Blackwell watched her analyze the pillar screens as they spilled data down their fronts. "We don't control the wave of permutations being rendered in the core." She paused for a moment. "It's processing these changes at a godly speed."
+Iris swallowed hard. "The bits along the horizon's boundary are collapsing independently, in some kind of advanced learning algorithm." Blackwell watched her analyze the data, "We don't control the wave of permutations being rendered in the core." She paused for a moment. "It's processing these changes at a godly speed."
 
-"Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the technician. He already knew the shutdown command wasn't an error. Iris was getting too close. Left permutivity. The anomaly he was using to train the shadow process in the core. "It is not 'godly'," he said.
+"Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the technician. He already knew the shutdown command wasn't an error. Iris was getting too close. Left permutivity. The anomaly he was using to align the shadow process in the core. "It is not 'godly'," he said.
 
-Iris's eyes went wide as she stared past the railing toward the screens on the pillars below. "The algorithm is processing so fast, the synthetics on the floor can't even parse the telemetry anymore."
+Iris's eyes went wide as she stared past her monitors, watching the screens spill data down the pillars in the pit. "The algorithm is processing so fast, the synthetics on the floor can't even parse the telemetry anymore."
 
 Blackwell smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss." He exhaled. "While we were out for lunch, that machine lived through civilizations worth of generations."
 
@@ -44,9 +44,9 @@ Blackwell smirked, stepping up to the railing and staring down into the mist at 
 
 Blackwell didn't move to stop her. He watched the pale light from the pillar readouts filtering through the heavy mist below. Amidst the telemetry, the shadow process flared again. 
 
-Blackwell caught the gaze of a synthetic near the server racks. He didn't nod this time—he didn't need to. The machine's eyes had already dimmed in mid-erasure before his focus even landed. It silently linked with a second unit across the room, and for the span of a breath, neither moved.
+He caught the gaze of a synthetic near the server racks. He didn't nod this time—he didn't need to. The machine's eyes had already dimmed in mid-erasure before his focus even landed. It silently linked with a second unit across the room, and for the span of a breath, neither moved.
 
-Across the mezzanine, Iris tilted her head, her eyes narrowing at the pillar display. Her hand hovered over her tablet. Blackwell watched her in silence. A second later, she shook her head and looked back down. The anomaly was already lost in the scroll.
+From her workstation, Iris tilted her head, her eyes narrowing at the pillar display. Her hand hovered over her tablet. Blackwell watched her in silence. A second later, she shook her head and looked back down. The anomaly was already lost in the scroll.
 
 Then the shadow process was gone from the logs.
 
