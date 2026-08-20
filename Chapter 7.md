@@ -36,7 +36,7 @@ Elena turned away from the glass and approached the main concourse, exiting the 
 
 Heavily armored Renewal agents patrolled the lower levels while silent synthetics stood at the security checkpoints, watching without moving. A synthetic dressed in a concierge uniform—traces of blue light shimmering through its optic hair—greeted her by name as she passed. Elena didn't break stride, moving through the turnstiles with practiced authority, her heels clicking sharply against the polished concrete. 
 
-She was early. She hadn't slept well. The inability to shut down the horizon memory the day before still nagged at the back of her mind, despite Blackwell's confident dismissals. She stepped into the private executive elevator, pressing her thumb to the biometric scanner for the lab level. The descent was smooth, and silent.
+She was early. She hadn't slept well. The inability to shut down the horizon memory the day before still nagged at the back of her mind, despite Blackwell's confident dismissals. She stepped into the private executive elevator, pressing her thumb to the button for the lab level. The descent was smooth, and silent.
 
 ***
 
@@ -46,9 +46,9 @@ Iris approached the shelf, reaching out. Her fingertips brushed the textured spi
 
 It tipped. 
 
-Iris lunged, catching the glass a fraction of an inch before it toppled over onto the desk. Her heart slammed against her ribs. 
+Iris lunged, catching the glass an inch before it toppled over onto the desk. She gripped the award, staring at the etched glass: Von Neumann Prize for Multidimensional Topology. Her heart slammed against her ribs. 
 
-Out on the lab floor, the blue optical sensor of a dormant synthetic flickered to life. The machine’s head twitched slightly toward the dark office. Iris froze in a half-crouch, barely breathing. 
+Out on the lab floor, the blue optical sensor of a dormant synthetic flickered to life. The machine’s head twitched toward the dark office. Iris froze in a half-crouch, barely breathing. 
 
 A long, agonizing second passed. The synthetic's sensor finally dimmed back to a dull standby glow. 
 
@@ -80,7 +80,7 @@ The heavy lab doors parted. Elena stepped into the main lab, the overhead lights
 
 She paused, her eyes adjusting to the glare. She looked up toward the mezzanine. Sitting perfectly still at her terminal, was Iris. 
 
-The junior technician was tapping a stylus against her glass desk. 
+The boundary analyst was tapping a stylus against her glass desk. 
 
 "You're in early, Iris," Elena called out, her voice echoing off the cooling towers. 
 
