@@ -1,4 +1,4 @@
-It was five in the morning. The Mnemosyne lab was empty, save for the silent, statuesque forms of the synthetics standing idle in the dark, their eyes pulsing, lowly out of rhythm. The harsh overhead lights were still on standby. The logging screens of the pillars cast subtle hues of light above the pit. Iris sat alone at her terminal on the mezzanine, tapping her stylus against the glass. She synced the rhythm with the steady spin of the cooling fans, trying to force her racing thoughts to focus. 
+It was five in the morning. The Mnemosyne lab was empty, save for the silent, statuesque forms of the synthetics standing idle in the dark. The harsh overhead lights were still on standby. The logging screens of the pillars cast subtle hues of light above the pit. Iris sat alone at her terminal on the mezzanine, tapping her stylus against the glass. She synced the rhythm with the steady spin of the cooling fans, trying to force her racing thoughts to focus. 
 
 What exactly had she seen? An inversion expanding in the space of the core's memory, growing undetected. No—not undetected. Erased. 
 
@@ -12,7 +12,7 @@ But withdrawing didn't mean she stopped seeing.
 
 When the shadow process had appeared in the readout, her brain hadn't filtered it out. She had seen the exact moment the inversion was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
 
-Iris looked at the lifeless synths down on the main floor. Their optical sensors were dark against the vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
+Iris looked at the lifeless synths down on the main floor. Their optical sensors pulsing, lowly out of rhythm against the vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
 
 The synthetics weren't just executing maintenance cycles; they were active accomplices in Blackwell's lie. 
 
@@ -30,13 +30,13 @@ Iris stood up. Her footsteps were silent on the metal grating as she crossed the
 
 ***
 
-Thirty floors above, Elena Marlowe walked alone across a high-altitude pedestrian sky-bridge, the morning sun breaking harsh and blinding against the gargantuan expanse of the Towers. 
+Thirty floors above, Elena Marlowe walked alone across a high-altitude pedestrian sky-bridge, the morning sun breaking harsh and blinding against the expanse of the Towers. 
 
 She glanced out through the glass. Unlike the lower terraces where Blackwell preferred to takes his breaks, this sector was a marvel of pristine order. Sprawling towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
 
 Elena turned away from the glass and approached the main concourse, exiting the sky-bridge to step out onto a suspended walkway midway up the Takeda-Holden corporate atrium. 
 
-Heavily armored Renewal agents patrolled the lower levels while silent synthetics stood at the security checkpoints, watching without moving. A synthetic dressed in a concierge uniform—traces of blue light shimmering through its optic hair—greeted her by name as she passed. Elena didn't break stride, moving through the turnstiles with practiced authority, her heels clicking sharply against the polished concrete. 
+Heavily armored Renewal agents patrolled the lower levels while silent synthetics stood at the security checkpoints, watching without moving. A synthetic dressed in a concierge uniform, it's hair traces of blue light shimmering through its optic strands. The synthetic  greeted her by name as she passed. Elena didn't break stride, moving through the turnstiles with practiced authority, her heels clicking sharply against the polished concrete. 
 
 She was early. She hadn't slept well. The inability to shut down the horizon memory the day before still nagged at the back of her mind, despite Blackwell's confident dismissals. She stepped into the private executive elevator, pressing her thumb to the button for the lab level. The descent was smooth, and silent.
 
