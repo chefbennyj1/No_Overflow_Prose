@@ -1,12 +1,12 @@
 The ambient temperature of the Dead Circuits was typically a humid, trapped heat, but standing at the base of the Takeda-Holden tower, the concrete beneath Harper's boots felt like a glacier.
 
-She tipped her head back, looking straight up the monolithic building. 
+The smog didn't touch the Takeda-Holden tower. The dense, toxic fog that choked the rest of the upper city actively broke around it, creating a massive, sheer cylinder of clear air rising endlessly upward. 
 
-The smog didn't touch it. The dense, toxic fog that choked the rest of the upper city seemed to actively break around the Takeda-Holden tower, repelled by an invisible force. It created a massive, sheer column of clear air rising to the top of the building, and beyond. It was the only building in the entire area where you could stand at the street level and see the blinking red, air-craft warning lights of the network arrays at the top. 
+Harper tipped her head back. She couldn't see the actual top from street level. The forced perspective drew the tower's sheer walls together, vanishing into a point in the night sky. The illuminated peaks of the surrounding skyscrapers poked through the smog, almost merging at a point far above her.
 
-Harper stared up through that clear atmospheric cylinder. For the first time in years, she saw stars. 
+She stared up through the clearing. For the first time in years, she saw stars.
 
-They were faint, competing with the polluted light of the city, but they were there. Small,  pinholes of light in the black. Framing the patch of clear sky, the tips of the surrounding corporate skyscrapers poking through the top of the smog layer. Their lower halves were swallowed by the fog, but forced perspective drew their illuminated peaks together around the Takeda-Holden tower's clear airspace. 
+They were faint, competing with the polluted light of the city, but they were there. Small pinholes of light in the black.
 
 "You're staring," Rin said. 
 
@@ -20,9 +20,9 @@ Harper looked at the map. "We talkin' tunnels?"
 
 "Subway," Rin confirmed. "There's old maintenance access doors throughout the city,  off the mag-rail line. They open right into the tunnels."
 
-Harper smiled. "That's my girl. Always gotta plan," her eyes lingering on Rin. "Let's go."
+Harper smiled. "That's my girl. Always gotta plan," she said, her eyes lingering on Rin. "Let's go."
 
-Rin smile fading as she lowered her gaze. 
+Rin's smile faded. She lowered her gaze. 
 
 They descended the concrete steps into the Takeda-Holden Transit Terminal. 
 
@@ -38,7 +38,7 @@ They wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. 
 
 They both stuck out. Badly.
 
-Harper looked nervously toward the far end of the platform. Beside her, Rin was scanning the crowd.
+Harper's eyes darted toward the far end of the platform. Beside her, Rin was scanning the crowd.
 
 "Oh, Rin, darlin'. You didn't say it'd be crawling with Renewal agents," Harper's voice cracked under the sudden tension.
 
@@ -68,7 +68,7 @@ The agents didn't shout a second warning. They moved with terrifying speed, armo
 
 The agent’s knee dropped onto his neck, pinning his face to the floor. The second agent grabbed his wrists and cinched a heavy zip-tie around them, pulling it tight enough to cut circulation. It was ruthless, practiced violence.
 
-Harper couldn't look away, she had seen this many times. It never got easier.
+Harper couldn't look away. She had seen this many times, but it never got easier.
 
 The crowd of wealthy commuters didn't pause. Corporate executives stepped around the boy without taking their eyes off their devices. To the upper city, it wasn't brutality. It was an obstacle on the morning commute.
 
