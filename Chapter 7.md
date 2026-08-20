@@ -48,7 +48,7 @@ It tipped.
 
 Iris lunged, catching the glass an inch before it toppled over onto the desk. She gripped the award, staring at the etched glass: Von Neumann Prize for Multidimensional Topology. Her heart slammed against her ribs. 
 
-Out on the lab floor, the blue optical sensor of a dormant synthetic flickered to life. The machine’s head twitched toward the dark office. Iris froze in a half-crouch, barely breathing. 
+Out on the lab floor, the blue optical sensor of a dormant synthetic's iris flickered to life, it's fractaled striations slowly turning into position. The machine’s pupil dilated before focusing. It's head twitched toward the dark office. Iris froze in a half-crouch, barely breathing. 
 
 A long, agonizing second passed. The synthetic's sensor finally dimmed back to a dull standby glow. 
 
