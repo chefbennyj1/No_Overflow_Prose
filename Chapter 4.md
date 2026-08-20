@@ -22,9 +22,9 @@ Doctor Blackwell emerged from his private office and stepped directly out into t
 
 It had been six weeks since the engine was brought online, and the toll was obvious. Blackwell surveyed the floor with quiet contempt.  Technicians slept in shifts, and the dress code had gone sometime around the fourth week. The synthetics were the only things in the room the engine hadn't changed.
 
-A few yards away stood Iris, the lab technician. She adjusted her black-rimmed glasses on her face, the lenses reflecting the light from the screens in the lab. She watched Blackwell walk across the mezzanine. She looked back to her workstation, her expression terrified but intensely analytical.
+A few yards away stood Iris, the Horizon Boundary Analyst. She adjusted her black-rimmed glasses on her face, the lenses reflecting the light from the screens in the lab. She watched Blackwell walk across the mezzanine. She looked back to her workstation, her expression terrified but intensely analytical.
 
-Standing before a glowing interface was Elena Marlowe. Her white lab coat shone with the reflected cool light of the  monitors she was working on. She was typing furiously, her face set in intense frustration, devoid of the commanding composure she normally maintained.
+Standing before a glowing interface was Elena Marlowe. The cool light of the monitors shone against her white lab coat. She was typing furiously, her face set in intense frustration, devoid of the commanding composure she normally maintained.
 
 "The engine's been running perfectly for weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
 
@@ -34,7 +34,7 @@ Standing before a glowing interface was Elena Marlowe. Her white lab coat shone 
 
 Iris swallowed hard. "The bits along the horizon's boundary are collapsing independently, in some kind of advanced learning algorithm." Blackwell watched her analyze the data, "We don't control the wave of permutations being rendered in the core." She paused for a moment. "It's processing these changes at a godly speed."
 
-"Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the technician. He already knew the shutdown command wasn't an error. Iris was getting too close. Left permutivity. The anomaly he was using to align the shadow process in the core. "It is not 'godly'," he said.
+"Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the analyst. He already knew the shutdown command wasn't an error. Iris was getting too close. Left permutivity. The anomaly he was using to train the shadow process in the core. "It is not 'godly'," he said.
 
 Iris's eyes went wide as she stared past her monitors, watching the screens spill data down the pillars in the pit. "The algorithm is processing so fast, the synthetics on the floor can't even parse the telemetry anymore."
 

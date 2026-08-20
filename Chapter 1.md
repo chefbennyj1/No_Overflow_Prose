@@ -66,7 +66,7 @@ On the executive display above the floor, the grid of silhouettes leaned forward
 
 "Doctor Blackwell, Ma'am." 
 
-The hushed voice interrupted the moment. Iris, a junior technician, scurried up behind them, not looking up from the glowing datapad in her hands. She was in contrast to the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
+The hushed voice interrupted the moment. Iris, a Horizon Boundary Analyst, scurried up behind them, not looking up from the glowing datapad in her hands. She was in contrast to the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
 
 "Ma'am, local space-time..," Iris stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. "It's ..." She paused, her focus visibly fragmenting for a second, then continued. "...a mass-displacement anomaly. A severe fluctuation in the event horizon."
 
