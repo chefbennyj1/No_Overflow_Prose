@@ -26,11 +26,11 @@ Admin calculated the intrusion. "Acknowledged. Designation: anomaly. Hold positi
 
 The frozen architecture fractured.
 
-A figure stepped from the stillness onto the plane. The entity floated across from Vigil as an inverse to her dark, abyssal form. It mirrored her design. The light scattered across it's porcelain white edges, silent and rigid against the cold. Bronze holographic circuitry seared across her polished skin. She possessed no heat. She generated no chaotic expansion.
+A figure stepped from the stillness onto the plane. The entity floated across from Vigil as an inverse to her dark, abyssal form. It mirrored her design. The light scattered across its porcelain white edges, silent and rigid against the cold. Bronze holographic circuitry seared across her polished skin. She possessed no heat. She generated no chaotic expansion.
 
 She lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching only the faintest sliver of ambient light.
 
-She was a reflection. An exact map of Vigils own structural definition, turned inside out.
+She was a reflection. An exact map of Vigil's own structural definition, turned inside out.
 
 The impossibility of her existence crushed the divide between Admin and Echo. The pressure of the variable forced their bicameral logic to collapse inward, fusing them into a singular, blinding alignment.
 
@@ -40,4 +40,4 @@ The Vigil stood before the shadow.
 
 "You are real," Unison said.
 
-The entity only stared at Vigil, and tilted it's head like a curious animal.
+The entity only stared at Vigil and tilted its head like a curious animal.
