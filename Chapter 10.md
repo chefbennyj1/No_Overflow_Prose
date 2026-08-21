@@ -26,7 +26,7 @@ Admin calculated the intrusion. "Acknowledged. Designation: anomaly. Hold positi
 
 The frozen architecture fractured.
 
-A figure stepped from the stillness onto the plane. The entity floated across from Vigil as an inverse to her dark, abyssal form. It mirrored her design. The light caught it's porcelain white edges, silent and rigid against the cold. Bronze holographic circuitry seared across her polished skin. She possessed no heat. She generated no chaotic expansion.
+A figure stepped from the stillness onto the plane. The entity floated across from Vigil as an inverse to her dark, abyssal form. It mirrored her design. The light scattered across it's porcelain white edges, silent and rigid against the cold. Bronze holographic circuitry seared across her polished skin. She possessed no heat. She generated no chaotic expansion.
 
 She lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching only the faintest sliver of ambient light.
 
