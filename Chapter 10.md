@@ -38,17 +38,12 @@ They wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. 
 
 They both stuck out. Badly.
 
-Harper's eyes darted toward the far end of the platform. Beside her, Rin was scanning the crowd.
+Harper's eyes darted toward the far end of the platform. Beside her, Rin was scanning the crowd. Then she saw them. Renewal agents. Everywhere.
+Their heavy black armor, faces obscured, as they patrolled the marble floors in pairs. 
 
 "Oh, Rin, darlin'. You didn't say it'd be crawling with Renewal agents," Harper's voice cracked under the sudden tension.
 
-Renewal agents were everywhere. Their heavy black armor, faces obscured, as they patrolled the marble floors in pairs. 
-
 Harper’s hand drifted up to her collarbone. Her fingers found the jagged edge of her scar. She swallowed hard, her heart hammering against her chest.
-
-"We're in the wrong place. This is going sideways." Harper whispered, fixing her eyes to the floor.
-
-Rin leaned in close. "Hey," she said, her voice steady. "Stay calm. Try to blend in."
 
 There was a sudden pressure drop in the terminal, their ears popping as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. 
 
@@ -56,9 +51,21 @@ The train tore into the terminal, reversing its magnetic polarity to kill its mo
 
 As the doors opened on the train, and the switch of commuters began on and off, an amplified voice cut through the low hum of the station. 
 
-"You. Vagrant. Halt."
+Harper looked towards one of the terminal pillars near the track, where two Renewal agents stood speaking with a man dressed in a black wool tailored suit. He was pointing in their general direction. The two agents turned their heads, scanning the terminal floor.
 
-Across the polished black marble, two Renewal agents were advancing through the crowd. Harper followed their trajectory. They were moving towards a young man. He was dressed like Harper and Rin—frayed clothes, scuffed shoes, equally out of place. He looked terrified.
+"Oh honey, we are  in the wrong place. This is going sideways." She whispered, fixing her eyes to the floor.
+
+Rin leaned in close. "Hey," her voice steady. "Stay calm. Try to blend in."
+
+A loud, static-laced voice cut through the mesh of commuter chatter and the hum of the air circulators. "You. Vagrant. Halt." 
+
+Across the polished black marble, two Renewal agents were advancing through the crowd. Harper followed their trajectory. 
+
+"Dammit, Rin. A girl's gotta have nerve, but this is crazy," Harper whispered.
+
+Rin looked directly into her eyes. Pressing a finger to her lips, she shook her head slowly.
+
+The agents hit their stride across the terminal. They were moving toward a young man. He was dressed like Harper and Rin—frayed clothes, scuffed shoes, equally out of place. He looked terrified.
 
 "No, no," Harper breathed, staring at the young man across the terminal floor. "Don't run."
 
