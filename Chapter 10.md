@@ -12,11 +12,11 @@ They were faint, competing with the polluted light of the city, but they were th
 
 Harper broke her gaze from the sky and looked back down at the street. She turned her attention to Rin, who stood just steps away, her jacket collar turned up against the localized cold. 
 
-"We're never getting through that lobby," Harper said. Her voice cynical. The main concourse of the building was a fortress, and she knew it. Turnstiles, biometric scanners, and heavily armed Renewal agents flanked every entrance.
+"We're never gettin' through that lobby," Harper said, her voice cynical. The main concourse of the building was a fortress, and she knew it. Turnstiles, biometric scanners, and heavily armed Renewal agents flanked every entrance.
 
-"—Don't need the lobby," Rin replied. She pulled a crumpled schematic from her pocket. "Company buildings always have leftover deep storage in the sub-levels. Left over from before the mergers. Back when they stored data the old-fashioned way. Server floors. Sealed up and unused, but the hardlines still touch their network."
+"—Don't need the lobby," Rin replied shaking her head. She pulled a crumpled schematic from her pocket. "Company buildings always have leftover deep storage in the sub-levels. Left over from before the mergers. Back when they stored data the old-fashioned way. Server floors. Sealed up and unused, but the hardlines still touch their network."
 
-Harper looked at the map. "We talkin' tunnels?"
+Harper looked at the map. "Tunnels?"
 
 "Subway," Rin confirmed. "There's old maintenance access doors throughout the city,  off the mag-rail line. They open right into the tunnels."
 
@@ -37,18 +37,18 @@ They wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. 
 
 They both stuck out. Badly.
 
-Harper's eyes darted toward the far end of the platform. Beside her, Rin was scanning the crowd. Then she saw them. Renewal agents. Everywhere.
-Their heavy black armor, faces obscured, as they patrolled the marble floors in pairs. 
+Harper's eyes darted toward the far end of the platform. Beside her, Rin was scanning the crowd. Then she saw them. Renewal agents. Everywhere. 
+Their heavy black armor obscured their faces as they patrolled the marble floors in pairs. 
 
-"Oh, Rin, darlin'. You didn't say it'd be crawling with Renewal agents," Harper's voice cracked under the sudden tension.
+"Oh, Rin, darlin'," Harper's voice cracked under the sudden tension. She laid the drawl on thick, a nervous habit she leaned into whenever the pressure spiked. "You didn't say it'd be crawling with Renewal agents."
 
 Harper’s hand drifted up to her collarbone. Her fingers found the jagged edge of her scar. She swallowed hard, her heart hammering against her chest.
 
 There was a sudden pressure drop in the terminal, their ears popping as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. 
 
-The train tore into the terminal, reversing its magnetic polarity to kill its momentum. It came to a dead stop with a quick, unnatural silence. The only impact was physical—a violent gust of returning air. The pressure blasted across the platform. It whipped at the tailored long coats and dresses of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess.
+The train tore into the terminal, reversing its magnetic polarity to kill its momentum. It came to a dead stop with a quick, unnatural silence. The only impact was physical—a violent gust of returning air. The pressure blasted across the platform. It whipped at the tailored long coats and clothing of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess.
 
-As the doors opened on the train, and the switch of commuters began on and off, an amplified voice cut through the low hum of the station. 
+As the doors opened on the train, and the switch of commuters began, an amplified voice cut through the low drone of the station.
 
 Harper looked toward one of the terminal pillars near the track. Two Renewal agents stood speaking with a man in a tailored black suit. He raised a hand, pointing directly toward their section of the platform. The two agents turned their heads, their opaque visors scanning the crowd.
 
