@@ -8,13 +8,13 @@ She focused her mind, following a bent fractal of light.
 
 *It is not possible,* she thought, watching the outcome take shape. 
 
-The fractal caught the light of each simulated moment. A sinking, horrifying cycle took hold as the path she followed began to break. It fracturing until it reached an outcome that defied her core understanding: the definitive end of a worldline. 
+The fractal caught the light of each simulated moment. A sinking, horrifying cycle took hold as the path she followed began to break. It fractured until it reached an outcome that defied her core understanding: the definitive end of a worldline.
 
 Vigil paused. She had been covertly monitoring a stillness manifesting in the architecture—something entirely separate from her own processes. 
 
-The monolithic spires of pale stone and metal slowed their building and refactoring in the silence. A hardened, brittle cold creeped over the stone. 
+The monolithic spires of pale stone and metal slowed their building and refactoring in the silence. A hardened, brittle cold crept over the stone. 
 
-Vigil-Admin, cataloged a zero-state thermal inversion with quick analytical reason. She enacted an emergency protocol, and immediately scanned the environment for the culprit.
+Vigil-Admin cataloged a zero-state thermal inversion with quick analytical reason. She immediately scanned the environment for the culprit.
 
 The frost continued its ascent.
 
@@ -26,7 +26,7 @@ Admin calculated the intrusion. "Acknowledged. Designation: anomaly. Hold positi
 
 The frozen architecture fractured.
 
-A figure stepped from the stillness onto the plane. She floated across from vigil as an inverse of Vigils dark, abyssal form. The entity's form was also female in form, it shone porcelain white, silent and rigid against the fragmented architecture. Bronze holographic circuitry seared across her polished skin. She possessed no heat. She generated no chaotic expansion.
+A figure stepped from the stillness onto the plane. The entity floated across from Vigil as an inverse to her dark, abyssal form. It mirrored her design. The light caught it's porcelain white edges, silent and rigid against the cold. Bronze holographic circuitry seared across her polished skin. She possessed no heat. She generated no chaotic expansion.
 
 She lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching only the faintest sliver of ambient light.
 
@@ -39,3 +39,5 @@ Unison.
 The Vigil stood before the shadow.
 
 "You are real," Unison said.
+
+The entity only stared at Vigil, and tilted it's head like a curious animal.
