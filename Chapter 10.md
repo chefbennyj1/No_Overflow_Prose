@@ -1,6 +1,6 @@
 On any given day, the ambient temperature of the Dead Circuits was a humid, trapped heat. However, standing at the base of the Takeda-Holden tower, the concrete beneath Harper's boots felt like a glacier.
 
-The smog didn't touch the Takeda-Holden tower. The dense, fog that choked the rest of the upper city broke around it, creating a cylinder of clear, cool air rising endlessly upward. 
+The smog didn't touch the tower. The dense, fog that choked the rest of the upper city broke around it, creating a cylinder of clear, cool air rising endlessly upward. 
 
 Harper tipped her head back. She couldn't see the actual top of the building from street level. The forced perspective drew the tower's sheer walls together, vanishing into a dull point in the night sky. The illuminated peaks of the surrounding skyscrapers poked through the smog, in a merging perspective, far above her.
 
