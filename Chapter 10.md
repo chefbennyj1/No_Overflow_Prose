@@ -1,8 +1,8 @@
 On any given day, the ambient temperature of the Dead Circuits was a humid, trapped heat. However, standing at the base of the Takeda-Holden tower, the concrete beneath Harper's boots felt like a glacier.
 
-The smog didn't touch the Takeda-Holden tower. The dense, fog that choked the rest of the upper city actively broke around it, creating a massive, sheer cylinder of clear air rising endlessly upward. 
+The smog didn't touch the Takeda-Holden tower. The dense, fog that choked the rest of the upper city broke around it, creating a cylinder of clear, cool air rising endlessly upward. 
 
-Harper tipped her head back. She couldn't see the actual top from street level. The forced perspective drew the tower's sheer walls together, vanishing into a point in the night sky. The illuminated peaks of the surrounding skyscrapers poked through the smog, almost merging at a point far above her.
+Harper tipped her head back. She couldn't see the actual top of the building from street level. The forced perspective drew the tower's sheer walls together, vanishing into a dull point in the night sky. The illuminated peaks of the surrounding skyscrapers poked through the smog, in a merging perspective, far above her.
 
 She stared up through the clearing. For the first time in years, she saw stars.
 
@@ -12,9 +12,9 @@ They were faint, competing with the polluted light of the city, but they were th
 
 Harper broke her gaze from the sky and looked back down at the street. Rin stood a few paces away, the collar of her jacket turned up against the localized cold. 
 
-"We're never getting through that lobby," Harper said. Her voice was flat. The main concourse of the building was a fortress, and she knew it. Turnstiles, biometric scanners, and heavily armed Renewal agents flanked every entrance.
+"We're never getting through that lobby," Harper said. Her voice clinical. The main concourse of the building was a fortress, and she knew it. Turnstiles, biometric scanners, and heavily armed Renewal agents flanked every entrance.
 
-"We don't need the lobby," Rin replied. She pulled a crumpled schematic from her pocket. "Before the engine, Takeda stored data the old-fashioned way. Server farms. Deep basement storage. It's physically severed from the upper floors now, but the hardlines to their network are still viable."
+"—Don't need the lobby," Rin replied. She pulled a crumpled schematic from her pocket. "Takeda buildings always have leftover deep storage in the sub-levels. Left over from before the mergers. Back when they stored data the old-fashioned way. Server floors. Sealed up and unused, but the hardlines still touch their network.
 
 Harper looked at the map. "We talkin' tunnels?"
 
