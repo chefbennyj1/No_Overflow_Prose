@@ -57,7 +57,7 @@ Harper looked toward one of the terminal pillars near the track. Two Renewal age
 
 Rin leaned in close. "Hey," her voice was steady. "Stay calm. Try to blend in."
 
-A loud, static-laced voice cut through the mesh of commuter chatter and the underlying sound of the air circulators. "You. Vagrant. Halt." 
+A loud, static-laced voice cut through the mesh of commuter chatter and the low underlying sound of the air circulators. "You. Vagrant. Halt." 
 
 Across the glassy black marble, the two agents began advancing through the crowd. Harper braced herself, her hand tightening on the strap of her top near her scar. 
 
