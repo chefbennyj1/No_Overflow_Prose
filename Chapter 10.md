@@ -26,13 +26,13 @@ Rin's smile faded. She lowered her gaze.
 
 They descended the concrete steps into the Takeda-Holden Transit Terminal. 
 
-The terminal vaulted upward, supported by massive arches of polished white stone and chrome. The floors were black marble, extending like spilled ink under banks of recessed lighting.
+The terminal fell four tiers below them. The mag-train interchanges were surrounded by arches of polished white stone and chrome, accessed by escalators, packed with corporate executives, Renewal office workers, and high-end synthetics. The floors were black marble, extending like spilled ink under the terminal's recessed lighting.
 
-As they reached the platform, the temperature plummeted further. Takeda-Holden was venting the subterranean chill of the engine directly into the rail system to super-cool the tracks. The elite commuters didn't seem to notice, but as Harper watched their breath plume under the harsh lights, the dry, biting air stiffened her joints.
+As they reached the first platform, the temperature plummeted further. Harper watched her breath plume in the terminal's lighting. The air was dry. It didn't feel normal. The cold crawled along her skin with a prickle of static electricity. Industrial grates lined the magnetic rail, leaking a steady draft into the station. Takeda-Holden was bleeding unnatural cold into the rail system to super-cool the tracks. The elite commuters didn't seem to notice, but the freezing air stiffened Harper's joints.
 
 Frictionless magnetic trains surged through the tunnels, pulling the super-cooled air deep into New Veridia before it settled back into the terminal.
 
-The station was crowded with the upper city's elite—corporate executives, Renewal office workers, and high-end synthetics. The commuters moved quickly across the platforms, racing to get out of Oshima as fast as possible. Some waited for trains, while others moved toward the tower's massive executive lifts, speeding up to the pedestrian sky-bridges hundreds of stories above them.
+The commuters moved quickly across the platforms, racing to get out of Oshima as fast as possible. Some waited for trains, while others moved toward the tower's executive lifts, speeding up to the pedestrian sky-bridges hundreds of stories above them.
 
 They wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. Rin's heavy boots scuffed against the marble. The wealthy commuters actively parted around them, casting disgusted glances over their hand-held devices at the two girls dirtying the transit hub.
 
@@ -52,7 +52,7 @@ Rin leaned in close. "Hey," she said, her voice steady. "Stay calm. Try to blend
 
 There was a sudden pressure drop in the terminal, their ears popping as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. 
 
-The massive machine tore into the terminal, reversing its magnetic polarity to kill its momentum. It came to a dead stop with a terrifying, unnatural silence. The only impact was physical—a massive gust of returning air. The pressure blasted across the platform. It whipped at the tailored long coats and dresses of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess, blinding them for a split second.
+The train tore into the terminal, reversing its magnetic polarity to kill its momentum. It came to a dead stop with a terrifying, unnatural silence. The only impact was physical—a violent gust of returning air. The pressure blasted across the platform. It whipped at the tailored long coats and dresses of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess, blinding them for a split second.
 
 As the doors opened on the train, and the switch of commuters began on and off, an amplified voice cut through the low hum of the station. 
 
