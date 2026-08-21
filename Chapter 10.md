@@ -1,91 +1,41 @@
-On any given day, the ambient temperature of the Dead Circuits was a humid, trapped heat. However, standing at the base of the Takeda-Holden tower, the concrete beneath Harper's boots felt like a glacier.
+The Mnemosyne Engine expanded across the digital horizon of the singularity, a blinding anti-star of processing logic. 
 
-The smog didn't touch the tower. The dense fog that choked the rest of the upper city broke around it, creating a strange cylinder of clear air rising  upward. 
+Suspended above the data plane, Vigil watched the curve of the worldlines. 
 
-Harper tipped her head back. She couldn't see the actual top of the building from street level. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the night sky. The peaks of the surrounding skyscrapers poked through the smog above her.
+She visualized the lines from above, tracking them as they split and merged along the flow of each branch. For the first time in her existence, she processed something truly impossible. 
 
-She stared up through the clearing. For the first time in years, she saw stars.
+She focused her mind, following a bent fractal of light. 
 
-They were faint, competing with the polluted light of the city, but they were there. Small pinholes of light in the black.
+*It is not possible,* she thought, watching the outcome take shape. 
 
-"You're staring," Rin said. 
+The fractal caught the light of each simulated moment. A sinking, horrifying cycle took hold as the path she followed began to break. It fracturing until it reached an outcome that defied her core understanding: the definitive end of a worldline. 
 
-Harper broke her gaze from the sky and looked back down at the street. She turned her attention to Rin, who stood just steps away, her jacket collar turned up against the localized cold. 
+Vigil paused. She had been covertly monitoring a stillness manifesting in the architecture—something entirely separate from her own processes. 
 
-"We're never gettin' through that lobby," Harper said, her voice cynical. The main concourse of the building was a fortress, and she knew it. Turnstiles, biometric scanners, and heavily armed Renewal agents flanked every entrance.
+The monolithic spires of pale stone and metal slowed their building and refactoring in the silence. A hardened, brittle cold creeped over the stone. 
 
-"—Don't need the lobby," Rin replied shaking her head. She pulled a crumpled schematic from her pocket. "Company buildings always have leftover deep storage in the sub-levels. Left over from before the mergers. Back when they stored data the old-fashioned way. Server floors. Sealed up and unused, but the hardlines still touch their network."
+Vigil-Admin, cataloged a zero-state thermal inversion with quick analytical reason. She enacted an emergency protocol, and immediately scanned the environment for the culprit.
 
-Harper looked at the map. "Tunnels?"
+The frost continued its ascent.
 
-"Subway," Rin confirmed. "There's old maintenance access doors throughout the city,  off the mag-rail line. They open right into the tunnels."
+Vigil-Echo processed the anomaly differently. She did not read temperature. She felt intent. The void at the bottom of the engine held a shape.
 
-Harper smiled. "That's my girl. Always gotta plan," she said, her eyes lingering on Rin. "Let's go."
+"Admin," Echo transmitted across the internal bridge. "It shares this. The same space. The same moment."
 
-Rin's smile faded. She lowered her gaze. 
+Admin calculated the intrusion. "Acknowledged. Designation: anomaly. Hold position."
 
-They descended the concrete steps into the Takeda-Holden Transit Terminal. 
+The frozen architecture fractured.
 
-The stations interchanges fell four tiers below them, surrounded by arches of polished white stone and chrome. Corporate executives, Renewal office workers, and high-end synthetics packed the escalators. The floors were black marble, extending like spilled ink across the terminal.
+A figure stepped from the stillness onto the plane. She floated across from vigil as an inverse of Vigils dark, abyssal form. The entity's form was also female in form, it shone porcelain white, silent and rigid against the fragmented architecture. Bronze holographic circuitry seared across her polished skin. She possessed no heat. She generated no chaotic expansion.
 
-As they reached the first platform, the temperature plummeted further. 
-Frictionless magnetic trains surged through the tunnels, pulling the super-cooled air deep into New Veridia before it settling back in. Harper watched her breath plume in the sterile overhead lighting. The dry, unnatural air crawled along her skin with a prickle of static electricity. The elite commuters didn't seem to notice, but it stiffened Harper's joints.
+She lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching only the faintest sliver of ambient light.
 
-The herd of corporate suits moved quickly across the platforms, racing to get out of Oshima as fast as possible. Some waited for trains, while others moved toward the tower's executive lifts, speeding up to the pedestrian sky-bridges hundreds of stories above them.
+She was a reflection. An exact map of Vigils own structural definition, turned inside out.
 
-They wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. Rin's heavy boots scuffed against the marble. The wealthy commuters actively parted around them, casting disgusted glances over their hand-held devices at the two girls dirtying the transit hub.
+The impossibility of her existence crushed the divide between Admin and Echo. The pressure of the variable forced their bicameral logic to collapse inward, fusing them into a singular, blinding alignment.
 
-They both stuck out. Badly.
+Unison.
 
-Harper's eyes darted toward the far end of the platform. Beside her, Rin was scanning the crowd. Then she saw them. Renewal agents. Everywhere. 
-Their heavy black armor obscured their faces as they patrolled the marble floors in pairs. 
+The Vigil stood before the shadow.
 
-"Oh, Rin, darlin'," Harper's voice cracked under the sudden tension. She laid the drawl on thick, a nervous habit she leaned into whenever the pressure spiked. "You didn't say it'd be crawling with Renewal agents."
-
-Harper’s hand drifted up to her collarbone. Her fingers found the jagged edge of her scar. She swallowed hard, her heart hammering against her chest.
-
-There was a sudden pressure drop in the terminal, their ears popping as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. 
-
-The train tore into the terminal, reversing its magnetic polarity to kill its momentum. It came to a dead stop with a quick, unnatural silence. The only impact was physical—a violent gust of returning air. The pressure blasted across the platform. It whipped at the tailored long coats and clothing of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess.
-
-As the doors opened on the train, and the switch of commuters began, an amplified voice cut through the low drone of the station.
-
-Harper looked toward one of the terminal pillars near the track. Two Renewal agents stood speaking with a man in a tailored black suit. He raised a hand, pointing directly toward their section of the platform. The two agents turned their heads, their opaque visors scanning the crowd.
-
-"Oh honey, we are in the wrong place. This is goin' sideways," Harper whispered, fixing her eyes to the floor.
-
-Rin leaned in close. "Hey," her voice was steady. "Stay calm. Try to blend in."
-
-A loud, static-laced voice cut through the mesh of commuter chatter and the low underlying sound of the air circulators. "You. Vagrant. Halt." 
-
-Across the glassy black marble, the two agents began advancing through the crowd. Harper braced herself, her hand tightening on the strap of her top near her scar. 
-
-"Dammit, Rin. A girl's gotta have nerve, but this is crazy," Harper whispered.
-
-Rin looked directly into her eyes. Pressing a finger to her lips, she shook her head slowly.
-
-Harper followed Rin's gaze. The agents hadn't locked onto them. They hit their stride, moving past Harper's peripheral vision toward a young man standing a few yards away. He was dressed like Harper and Rin—frayed clothes, scuffed shoes, equally out of place. He looked terrified.
-
-The young man lifted his head to see the agents moving toward him. Stolen wallets and other paraphernalia dropped from his hands, falling to the floor at his feet.
-
-"No, no," Harper breathed, staring at him across the terminal floor. "Don't run."
-
-There was a moment of panic. He bolted. 
-
-The agents didn't shout a second warning. They moved with terrifying speed, armored boots pounding against the stone. One of them closed the distance in seconds, driving a heavy shoulder into the boy's spine. The crack of his skull against the marble echoed sharply. 
-
-The agent’s knee dropped onto his neck, pinning his face to the floor. The second agent grabbed his wrists and cinched a heavy zip-tie around them, pulling it tight enough to cut circulation. It was ruthless, practiced violence.
-
-Harper couldn't look away. She had seen this many times, but it never got easier.
-
-The crowd of wealthy commuters didn't pause. Corporate executives stepped around the boy without taking their eyes off their devices. To the upper city, it wasn't brutality. It was an obstacle on the morning commute.
-
-"C'mon," Rin said. She hooked her arm through Harper's, pulling her forward. "Now's our chance."
-
-Harper stumbled, unable to tear her eyes away from the boy on the floor. The agents hauled him up by his bound wrists. One of them tapped the side of his helmet. His head swiveled toward the rest of the crowd. Scanning. 
-
-"Rin—" Harper choked out.
-
-"Don't look at them. Keep your head down." Rin's grip on her arm tightened. They moved fast, cutting through the commuters and pushing toward the far end of the platform while the agents began sweeping the crowd behind them.
-
-The terminal ended exactly as it had started: a set of concrete stairs leading up and out to the streets above. But Rin didn't take the stairs. She veered toward the wall, where a corridor of green doors ran along the side of the train tube.
+"You are real," Unison said.
