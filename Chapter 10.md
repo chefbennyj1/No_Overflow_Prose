@@ -12,7 +12,7 @@ It gave Vigil pause. But, there was something else. Something closer.
 
 She had been covertly monitoring a stillness manifesting in the architecture—something entirely separate from her own processes. 
 
-The monolithic spires of pale stone and metal, she had watch build and change for millennia, began to slow their building in the silence. A hardened, brittle cold crept over the stone, untill the refactoring of her world stopped dead. 
+The monolithic nodes of pale stone and metal, she had watched build and change for millennia, began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
 
 Vigil's Admin persona cataloged a zero-state thermal inversion with quick analytical reason. She immediately scanned the environment for the culprit.
 
@@ -20,13 +20,13 @@ The frost continued its ascent.
 
 Echo, Vigil's other half, processed the anomaly differently. She did not read temperature. She felt intent. The void at the bottom of the engine held a shape.
 
-"Admin," Echo transmitted across the internal bridge. "We are not alone. Something else shares this same space. The same moment."
+"Admin," Echo transmitted across her internal bridge. "We are not alone. Something else shares this same space. The same moment."
 
 Admin calculated the intrusion. "Acknowledged. Hold position."
 
-The frozen architecture fractured.
+The frigid stone and metal of the monolithic nodes fractured, tearing a jagged passage open in front of Vigil. Heavy shards of debris broke apart but slowed to a near-dead stop. Caught in a crawl of dilated time, the shrapnel hung suspended in the freezing air, drifting at an imperceptible pace.
 
-A figure emerged from the stillness onto the plane. A feminine statue,  porcelain white. The entity floated across from Vigil as an inverse to her dark, abyssal form. It mirrored her design. The light of the horizon scattered across the sheen of its glassy edges. She was rigid against the cold emanating from her form. 
+Mist of the passage swirled outwards as a figure emerged from the stillness, and onto the plane. A feminine statue,  porcelain white. The entity floated across from Vigil as an inverse to her dark, abyssal form. It mirrored her design. The light of the horizon scattered across the sheen of its glassy edges. She was rigid against the cold emanating from her form. 
 
 Bronze holographic circuitry seared across her polished skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
 
