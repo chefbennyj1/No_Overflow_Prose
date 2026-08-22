@@ -1,14 +1,14 @@
 Suspended above the anti-star of the Mnemosyne Engine was Vigil. 
 
-She watched the curve of the worldlines, visualizing them from above. She tracked them as they split and merged along the flow of each branch. However, for the first time in her existence, she processed something that could only be explained as: catastrophic. 
+She watched the curve of the worldlines from above.  She saw hem as fractals of light, each crystalized face a moment in time. They split and merged along the flow of each branch. However, for the first time in her existence, she processed something that could only be explained as catastrophic. 
 
 She focused her mind, following a bent fractal of light. 
 
 *It is not possible,* she thought, watching the outcome take shape. 
 
-The fractal caught the light of each simulated moment. A sinking, horrifying cycle took hold as the path she followed began to break. It fractured until it reached an outcome that defied her core understanding. The definitive end of a worldline.
+The fractal caught the light of each simulated moment. It fractured until it reached an outcome that defied her core understanding. The definitive end of a worldline. Then another, and another.
 
-Vigil paused. She had been covertly monitoring a stillness manifesting in the architecture—something entirely separate from her own processes. 
+It gave Vigil pause. She had been covertly monitoring a stillness manifesting in the architecture—something entirely separate from her own processes. 
 
 The monolithic spires of pale stone and metal slowed their building in the silence. A hardened, brittle cold crept over the stone. 
 
@@ -42,15 +42,17 @@ The impossibility of her existence crushed the divide between Admin and Echo. Th
 
 Vigil-Unison.
 
-The Vigil stood before Parity.
+Vigil stood before Parity.
 
 "You are real," Vigil said, the dual tonality of Unison bleeding through.
 
 Parity tilted her head to the other side. Vigil could feel the cold stare cutting through her form. In a deadly, silent motion, Parity inched forward. 
-Vigil's instincts clicked in a swift moment, as she moved back the exact same distance.
+
+Vigil recoiled same distance, "State your intention," her doubled voice stern.
+
 Before Vigil could calculate the next interaction, Parity's physical position skipped. She was suddenly in her space, her face mere inches away. The blank stare of her empty eyes pierced firmly into Vigil's.
 
 Parity raised her hand. A wave of bronze holographic circuits washed across her colorless fingers as she placed one directly in the middle of Vigil's forehead.
 
-Vigil felt the hard realization wash over her: it was this reflection who embodied the brutal end of the worldlines.
+Vigil felt the hard realization wash over her. It was this reflection who embodied the brutal end of the worldlines.
 
