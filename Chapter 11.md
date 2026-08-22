@@ -93,3 +93,55 @@ Harper stumbled, unable to tear her eyes away from the thief on the floor. The a
 "Don't look at them. Keep your head down." Rin's grip on her arm tightened. They moved fast, cutting through the commuters and pushing toward the far end of the platform while the agents began sweeping the crowd behind them.
 
 The terminal ended exactly as it had started: a set of concrete stairs leading up and out to the streets above. But Rin didn't take the stairs. She veered toward the wall, where a corridor of green doors ran along the side of the train tube.
+
+Rin hit the first green door in the corridor, her hand already moving. She pulled a crude, wire-wrapped single-board computer from her pocket. A blank magnetic card dangled from it by a thin ribbon cable. 
+
+Harper checked over her shoulder. One of the agents shoved the bound thief toward the trains, while the second turned his opaque visor directly toward their end of the platform. 
+
+Rin swiped the blank card through the door's reader. The lock flashed red. The bare circuit board in Rin's hand flickered with raw data, running a brute-force decryption against the terminal's handshake protocol. 
+
+"Hurry," Harper said, her eyes locked on the armored agents. 
+
+A sharp beep chirped from the exposed motherboard. The decryption caught the sequence. 
+
+Rin dragged the card upward through the reader a second time. The magnetic lock disengaged with a heavy, mechanical clack. Rin shoved her shoulder against the steel door, forcing it open wide enough to slip through. She grabbed Harper by the jacket sleeve and yanked her into the dark. 
+
+The heavy door slammed shut, severing the bright lights of the transit terminal. They stood hidden in the freezing shadows of the maintenance tunnels.
+
+The air was thick with condensation and the smell of standing water. Flickering incandescent bulbs cast long, jaundiced shadows against the curved concrete walls. Heavy pipes lined the ceiling, weeping moisture onto the cracked floor. 
+
+Harper kept her hands tucked into her jacket pockets, shivering as they moved deeper into the underbelly of the Takeda-Holden tower. They passed a series of unmarked, rusted doors until the tunnel widened into a small antechamber. 
+
+At the far end stood a heavy blast door, marked with faded corporate caution stripes. A thick magnetic lock sealed it shut. 
+
+Rin pulled her single-board computer back out, stepping up to the keypad. "Deep storage," she said, her voice echoing faintly in the damp space. 
+
+Harper watched her wire the card. "How long?"
+
+Rin raised the magnetic card toward the reader. "Give me a minute. This is corporate-grade encryption, it's going to fight back." 
+
+Before the plastic even touched the slot, a heavy, concussive *clack* echoed through the antechamber. The red indicator on the mag-lock snapped to a pristine, glowing green. 
+
+The blast door groaned on its tracks, sliding open on its own. 
+
+Rin froze, her hand still suspended in the air. 
+
+Harper stepped back, her fingers instinctively brushing the scar at her collarbone. The air spilling out of the server room was freezing. 
+
+"Rin," Harper whispered, staring into the pitch-black server farm. "Tell me you did that."
+
+Harper followed Rin into the dark. Rows of towering server racks stretched into the shadows, smelling of oxidized metal and dead dust. Rin found a primary maintenance terminal near the center. She wiped a layer of grime from the screen and stepped aside. 
+
+"Okay, you're up," Rin said. 
+
+Harper took the console. Her fingers flew across the heavy mechanical keyboard, bypassing the decayed security protocols. Lines of archived corporate data scrolled rapidly down the monitor. "It's all old executive logs," Harper said, her eyes tracking the code. "Budget approvals. Project pitches. I'm pulling the files on the Mnemosyne Engine."
+
+Rin leaned in close. The data compiled into a dense, heavily classified document. 
+
+"Look at the architecture," Harper said, her voice dropping. "It's a cellular automaton. It's designed to escalate."
+
+Rin traced a finger over the glowing text. "He didn't pitch them a defense system." She read the highlighted executive summary. "Blackwell promised them an absolute erasure protocol."
+
+Harper hit another keystroke, pulling up the final project designation. "Parity," she read. "He built the engine to breed it. Vigil is the containment vessel."
+
+Harper stared at the glowing blue text, the scale of the betrayal settling heavily into her chest.
