@@ -26,11 +26,11 @@ Admin calculated the intrusion. "Acknowledged. Hold position."
 
 The frigid stone and metal of the monolithic nodes fractured, tearing a jagged passage open in front of Vigil. Heavy shards of debris broke apart but slowed to a near-dead stop. Caught in a crawl of dilated time, the shrapnel hung suspended in the freezing air, drifting at an imperceptible pace.
 
-Mist of the passage swirled outwards as a figure emerged from the stillness, and onto the plane. A feminine statue,  porcelain white. The entity floated across from Vigil as an inverse to her dark, abyssal form. It mirrored her design. The light of the horizon scattered across the sheen of its glassy edges. She was rigid against the cold emanating from her form. 
+Mist swirled outwards as a figure emerged from the stillness, onto the plane. A feminine statue,  porcelain white. The entity floated across from Vigil as an inverse to her dark, abyssal form. It mirrored her design. The light of the horizon scattered across the sheen of its glassy edges. She was rigid against the cold emanating from her form. 
 
 Bronze holographic circuitry seared across her polished skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
 
-Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing. She ran a physical scan of the entity to compare the being to the shadow process she had been monitoring. This time a null return. Admin's voice transmitted across the internal bridge, "She does not exist in any branch. I cannot predict her."
+Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing. She ran a physical scan of the entity to compare the being to the shadow process she had been monitoring. This time a null return. Admin's voice transmitted across her internal bridge, "She does not exist in any branch. I cannot predict her."
 
 The entity lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching only the faintest sliver of ambient light.
 
