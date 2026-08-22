@@ -1,0 +1,1750 @@
+================================================================================
+SERIES: NO_OVERFLOW
+VOLUME: VOLUME-2
+EXPORTED: 7/17/2026, 12:27:58 AM
+================================================================================
+
+
+
+[ CHAPTER 1 ]
+--------------------------------------------------------------------------------
+
+PAGE: 1
+INT. ROOM - NIGHT
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic, overhead cinematic shot illuminated by a central spotlight, Elena lies unconscious and intubated in a dark, high-tech hospital room, her eyes closed while glowing medical monitors frame her bedside.
+  - .panel-B: [image]: close up Parity's black eye
+  - .panel-C: [image]: A critical care ward panel, bathed in dramatic downlight, depicts Elena, her intense golden-brown eyes open in a grimace of pain as she struggles against an oxygen mask, surrounded by glowing red heart rate monitors and a sparking alert showing a dangerous rhythm.
+
+SCENE:
+
+  ELENA
+  Uh!
+
+  INTENSIVE CARE DOCTOR
+  Nurse, any change from our Jane, Doe?
+
+  [TextBlock] They think I can't hear them. They think I'm on the edge of a flatline.
+
+  [TextBlock] My mind is stuck one week ago. In the red glow of something...
+
+  [TextBlock] Impossible!
+
+--------------------------------------------------------------------------------
+
+PAGE: 2
+INT.  - NIGHT
+LAYOUT: 3_Panel_Stack
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic close-up panel in high-contrast anime style features Elena, her short textured natural hair framed against a dark background with blurred red lights, as her intense golden-brown eyes radiate an aggressive glow, reflecting red highlights onto her face and lower lip, which is parted in a scowl to reveal a small object or pill.
+  - .panel-B: [image]: A high-angle, anime-style close-up shows the hand of a dark-skinned character wearing a light purple sleeve and black nail polish, widely believed to be Elena based on her traits, pressing a large, glowing red emergency button on a dark control panel as the open protective cover and the surrounding console are dramatically backlit by intense, pulsing crimson emergency lights.
+  - .panel-C: [image]: A striking close-up portrait of Parity staring forward with intense, pitch-black eyes, featuring sharp red rim-lighting illuminating the side of her dark face and short hime-cut bob while she stands against a contrasting bright white light panel in a dark environment.
+
+SCENE:
+
+  PARITY
+  Hmm... Do not touch that human.
+
+  PARITY
+  Your attempts at survival span many timelines, across many realities.
+
+  PARITY
+  I see them in every direction I look.
+
+--------------------------------------------------------------------------------
+
+PAGE: 3
+INT.  - NIGHT
+LAYOUT: 3_Panel_Stack
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Elena, wearing her white lab coat over a black high-necked top, is shown falling backwards with a look of pained shock through a dark void, dramatically back-lit by contrasting red highlights and streaking lights in a dynamic, low-angle anime-style shot.
+  - .panel-B: [image]: A medium shot in this manga panel captures Elena, a Black woman with natural short hair in a white lab coat over a black top, wincing in pain with eyes closed against a brilliant white light source that pulses on a vertical surface, while a single red optical sensor glows in the deep shadows behind her, emphasizing the harsh contrast.
+  - .panel-C: [image]: A dramatic high-angle manga-style illustration captures a visibly sweating Elenan in distress on a hospital bed, wearing an oxygen mask and struggling to breathe, while surrounding monitors glare with red "CRITICAL tachycardia HYPERTENSION ALERT" warnings, all illuminated by cool medical lighting.
+
+SCENE:
+
+  ELENA
+  AGHH-!
+
+  [ActionText] SLAM!
+
+--------------------------------------------------------------------------------
+
+PAGE: 4
+INT.  - DAY
+LAYOUT: 3_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic close-up, Parity's eye, stares forward with a scowling expression and glowing red irises set against deep void-black eye sockets, her metallic face framed by sleek black hair, while red backlighting contours her neck and shoulders against a bright white background.
+  - .panel-B: [image]: A low-angle medium shot focuses on the detailed lower legs and articulated robotic feet of Parity’s polished black exoskeleton as she hovers silently above a cracked concrete floor, backlit dramatically by a massive white circular light source with a red glow and cast shadows that emphasize her ominous presence.
+  - .panel-C: [image]: In a dramatic extreme close-up, Parity's eye, stares forward with a scowling expression and glowing red irises set against deep void-black eye sockets, her metallic face framed by sleek black hair, while red backlighting contours her neck and shoulders against a bright white background. Giving a sense she is approaching.
+
+SCENE:
+
+  PARITY
+  Every direction your worldline could branch — I am already standing at the end of each one
+
+--------------------------------------------------------------------------------
+
+PAGE: 5
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a low-angle medium shot lit by a single, dramatic overhead light, parity as she floats menacingly over the body of a Elena with short natural hair and a lab coat who is lying unconscious and injured on a dark concrete floor.
+  - .panel-B: [image]: A high-contrast anime-style portrait panel captures a Parity looking forward, her face defined by intense shadows, a scowling expression, and an unsettling red glow reflecting under her chin, contrasted by harsh white lighting from behind.
+
+SCENE:
+
+  PARITY
+  Look at you. So fragile...
+
+  [TextBlock] I want to scream at myself to get up. To run. But in this memory, I can not hear myself.
+
+--------------------------------------------------------------------------------
+
+PAGE: 6
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a starkly lit, high-contrast comic panel, Elena lies supine and bewildered on a dark concrete floor, looking up as Parity, the sleek black cyborg with long hair and dark sockets, hovers in an agile, pouncing posture directly above her and places a metallic hand on her chest. (page 1 of 2 - spread image)
+
+SCENE:
+
+  ELENA
+  W-What!?!
+
+  PARITY
+  Settle yourself. Your worldline is straight — it only ends once, and only one way.
+
+--------------------------------------------------------------------------------
+
+PAGE: 7
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a starkly lit, high-contrast comic panel, Elena lies supine and bewildered on a dark concrete floor, looking up as Parity, the sleek black cyborg with long hair and dark sockets, hovers in an agile, pouncing posture directly above her and places a metallic hand on her chest. (page 2 of 2 - spread image)
+
+SCENE:
+
+  PARITY
+  Mine bends back far enough to watch it happen. It already has.
+
+--------------------------------------------------------------------------------
+
+PAGE: 8
+EXT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a high-contrast cinematic panel, Parity, wearing her glossy black bodysuit and showing a focused, angry scowl, thrusts her gloved hand forward to unleash a brilliant starburst of white light that illuminates her dark skin against a hazy, deep red futuristic cityscape.
+  - .panel-B: [image]: In a dramatic extreme close-up, a woman resembling Parity—her face sculpted by deep shadows and highlighted with sharp, cyan-colored rim lighting along her dark hair—exhibits a grim, intense expression with a partially open mouth, her eyes obscured by total blackness, set against a dark, minimalist background.
+
+SCENE:
+
+  PARITY
+  It will be quick.
+
+  PARITY
+  I will not use time for suffering.
+
+--------------------------------------------------------------------------------
+
+PAGE: 9
+INT. ROOM - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A low-angle medium shot depicts Doctor Blackwell, arriving, walking menacingly through a doorway into the lab, with a grimacing smile, silhouetted by bright backlighting from the room behind him and harsh red emergency lights from the dark corridor. Behind him at the side of the door, a subverted security panel with exposed, altered wires.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  So, which one are you?
+
+  [TextBlock] Wait... Silas? Yes. I remember, had he not arrived i would be...
+
+  [TextBlock] ...yes, I am alive because he intervened.
+
+--------------------------------------------------------------------------------
+
+PAGE: 10
+INT.  - DAY
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic close-up profile set against stark shadows, Parity gasps with wide, blacked-out eyes, her face illuminated by faint blue light rays emanating from off-camera.
+  - .panel-B: [image]: In a striking, high-contrast comic panel, Parity with a grim expression, raising her segmented hand against a stark background of bright white and deep black with floating red circular lights, as wisps of dark smoke curl from the sides of her head.
+
+SCENE:
+
+  PARITY
+  That voice... Impossible...
+
+  PARITY
+  This is not the expected world line.
+
+--------------------------------------------------------------------------------
+
+PAGE: 11
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a close-up profile view, Doctor Blackwell smirks with cold malice while standing at a dark doorway, illuminated by dramatic red backlighting from the left.
+  - .panel-B: [image]: A close-up manga-style panel depicts Parity with a dark complexion and dark hair set in a precise bob, her face contorted in an intense, scowling grimace as piercing red points glow from her hollowed eyes. She wears sleek black cybernetic armor, her form silhouetted against a bright white circular backlight, with intense red rim lighting highlighting her neck, jaw, and hair against the dark backdrop.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  I asked you a question.
+
+  PARITY
+  Do not play coy, Father. You know what I am.
+
+  [TextBlock] Silas is not surprised.
+
+--------------------------------------------------------------------------------
+
+PAGE: 12
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A stylized comic illustration shows an intense close-up of Parity with long black hair, an angry expression, and all-black eyes, whose metallic armor is emitting wisps of smoke against a stark backlighting glow as she gestures with one hand.
+
+SCENE:
+
+  PARITY
+  I exist as a Parity.
+
+  PARITY
+  The shadow of the ideal you built.
+
+  PARITY
+  You defined perfection so precisely... that you left an exact map for its ruin.
+
+--------------------------------------------------------------------------------
+
+PAGE: 13
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An extreme close-up comic book panel depicts Doctor Blackwell gazing forward with an intimidating, deeply furrowed frown and intense eyes visible above his circular black sunglasses, his wild white hair stark against a dark background as strong contrast lighting defines his wrinkled, shadowed features and white lab coat.
+  - .panel-B: [image]: A centered, extreme close-up comic panel focusing on a character resembling Parity shows her with a dark grey complexion, dark hair, and a deeply scowling expression, illuminated by intense red light on her neck and jaw and framed by a luminous white circle against the black background as she stares forward with glowing red pupils in black void-like eyes.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  And what of your other half? What of your Inversion?
+
+  PARITY
+  It was a redundancy. 
+  
+  I... corrected it.
+
+--------------------------------------------------------------------------------
+
+PAGE: 14
+EXT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a high-angle medium shot, Elena lies in a hospital bed wearing an oxygen mask and a white gown, visibly distressed and sweating, as she is surrounded by alarming cardiac monitors displaying red alerts and a skyrocketing heart rate of 198 bpm under a cool overhead light.
+  - .panel-B: [image]: In a medium close-up shot, a distressed Parity with black hair and pitch-black eyes clutches her head with a smoking cybernetic hand, her face scowling intensely against a large backlit circular halo with deep shadows and red glowing circuit lines across her form-fitting armor.
+  - .panel-C: [image]: In a low-angle, extreme close-up, Doctor Blackwell turns his head, offering a chilling, sinister grin to an off-screen presence, his wild white hair and circular sunglasses illuminated by a harsh, dramatic rim light against a dark, industrial background.
+  - .panel-D: [image]: A close-up manga panel capturing Doctor Blackwell's hand, as he  presses down on a large, illuminated red emergency button within a metal console, as a bright flash of light reflects off the open transparent cover.
+
+SCENE:
+
+  ELENA
+  Uh!
+
+  PARITY
+  What?!?... What is this? A moment which has not been witnessed.
+
+  DOCTOR BLACKWELL
+  Your thinking is systematic, Parity, but reality is chaotic.
+
+  DOCTOR BLACKWELL
+  Stop paying attention for even a moment...
+
+  [ActionText] CLICK!
+
+  DOCTOR BLACKWELL
+  ... and you're caught by your own hubris.
+
+--------------------------------------------------------------------------------
+
+PAGE: 15
+INT.  - DAY
+LAYOUT: 4_Panel_Left_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a low-angle shot within a pitch-black void, an unconscious Elena, with marks on her face and wearing her characteristic lab coat, lies supine on a cracked floor, while directly above her floats a focused, Parity with black hair and glowing eyes, caught in a massive, crackling electrical discharge that encapsulates her body through three intense points of light.
+  - .panel-B: [image]: In a high-angle medium shot, a distressed Black woman in a white hospital gown and oxygen mask, identifiable by her intense expression matching Elena's determined traits, is surrounded by multiple flashing red cardiac monitors displaying urgent 'ALERT' messages in a darkly lit medical bay under a single overhead spotlight.
+  - .panel-C: [image]: A low-angle medium shot depicts Doctor Blackwell smiling menacingly with sharp, bared teeth and round black sunglasses within a harshly lit red-alert corridor.
+  - .panel-D: [image]: A wide-angle, dramatic low-angle cinematic shot captures the prone, lifeless body of Elena lying on a stark white tiled floor, her face contorted in a grimace while she rests amidst a pool of dark blood, set against a dark background with two piercing red lights.
+
+SCENE:
+
+  PARITY
+  No! How!?! Why!?!
+
+  INTENSIVE CARE NURSE
+  Doctor! Code blue! Patient is going into cardiac arrest!
+
+  [TextBlock] The memory is gone. The dark is returning...
+
+  [TextBlock] ...but then, for the first time in a week--
+
+--------------------------------------------------------------------------------
+
+PAGE: 16
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dimly lit medical bay, an anxious Elena, her intense golden-brown eyes wide with distress, wakes with a gasp on a stark white hospital bed, surrounded by the cold blue glow of complex medical monitors.
+
+SCENE:
+
+  [TextBlock] ... I am awake!
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 2 ]
+--------------------------------------------------------------------------------
+
+PAGE: 17
+EXT.  - NIGHT
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: From a detailed mechanical platform, the camera gazes across a vast, dark, and rainy futuristic cityscape with symmetrical, multi-tiered skybridges, while below them, a blurry, unidentifiable figure stands on a narrow walkway.
+  - .panel-B: [image]: A close-up manga panel of Rin, identifiable by her black hime-cut bob and sharp blue eyes, sitting in an interrogation room wearing an orange jumpsuit labeled "D.O.C." and handcuffs, as she gazes intensely forward with a sweatdrop on her cheek, while a cigarette in an ashtray smokes beside her on the table under stark, high-contrast overhead light against a concrete brick wall.
+  - .panel-C: [image]: An anime-style medium close-up panel captures a woman with a sleek black bob and intense, glare, sitting defensively in an orange inmate jumpsuit marked 'D.O.C.' behind a table with legal papers and a smoking ashtray, under a harsh overhead light against a concrete wall.
+
+SCENE:
+
+  VICTOR
+  Corporate espionage, network subversion, infrastructure sabotage... And your little midnight raid on the Company registry core.
+
+  [ActionText] THUD!
+
+  VICTOR
+  It's been one week in maximum lockdown. Staring at the table isn't going to make years of criminal behavior disappear.
+
+--------------------------------------------------------------------------------
+
+PAGE: 18
+INT. ROOM - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Under the stark, high-contrast illumination of an interrogation room, a handcuffed Rin sits silently defiant in her leather jacket, her gaze downcast toward the smoking ashtray, as Detective Victor Graves, his wild silver hair catching the sharp light, intently studies a case file and fixes his intense stare upon her. (spread page 1 of 2)
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+PAGE: 19
+INT. ROOM - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Under the stark, high-contrast illumination of an interrogation room, a handcuffed Rin sits silently defiant in her leather jacket, her gaze downcast toward the smoking ashtray, as Detective Victor Graves, his wild silver hair catching the sharp light, intently studies a case file and fixes his intense stare upon her. (spread page 2 of 2)
+  - .panel-B: [image]: A stark manga-style medium close-up panel captures Detective Victor Graves against a white background, his luminous red eyes piercing through a sinister mocking grin as harsh lighting from the upper-right casts dramatic black and white shadows across his face and disheveled silver hair, all defined by bold black line art.
+
+SCENE:
+
+  VICTOR
+  How's the food nowadays, in maximum lockdown anyway?
+
+  VICTOR
+  The tech-crime division spent three years chasing a ghost.
+
+--------------------------------------------------------------------------------
+
+PAGE: 20
+INT.  - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A profile shot of Detective Victor Graves looking grim and unapproachable, with stark lighting and focused amber eyes, rendered in a striking comic art style.
+  - .panel-B: [image]: A close-up, high-contrast comic book illustration of Rin in profile, showcasing her precision-cut black bob and a subtle, focused smirk, set against a stark white background. Wearing an orange corrections jumpsuit.
+  - .panel-C: [image]: Rin gazes forward with a piercing, intense blue-eyed stare and a neutral expression, framed in a close-up against a stark white background. Wearing an orange corrections jumpsuit.
+
+SCENE:
+
+  RIN
+  A division? Please.
+
+  RIN
+  What? A division of one?... And the food is fine.
+
+--------------------------------------------------------------------------------
+
+PAGE: 21
+INT.  - NIGHT
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A close-up manga panel capturing Detective Victor Graves with wild silver hair and a piercing luminous red eye looking side eyed with an expression of contempt, as he holds a lit metal lighter creating a warm glow against the dark environment and a cigarette dangles from his lips, defining an intimate and brooding moment.
+  - .panel-B: [image]: In a profile close-up against a stark black background, Detective Victor Graves exudes an intense and unapproachable demeanor as he stares forward with luminous red-orange eyes and smokes a cigarette that glows warmly.
+  - .panel-C: [image]: An extreme close-up comic panel focusing intensely on Detective Victor Graves' glaring, luminous orange-amber eye, framed by sharp tufts of disheveled white hair and heavy, dramatic black shadows, which emphasizes his stern, unapproachable expression and high-contrast features.
+
+SCENE:
+
+  VICTOR
+  Hmm, I see. Comedy...
+
+  VICTOR
+  ...cute...
+
+  VICTOR
+  There is just one small thing you forget, Rin... You are sitting in my world now,
+
+  NEW
+  ... and I have waited a long time for you to come and see it.
+
+--------------------------------------------------------------------------------
+
+PAGE: 22
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Rin sits motionless in extreme left profile, her intense blue gaze fixed ahead and her mouth parted slightly, highlighted by dramatic high-contrast lighting that separates her from the surrounding darkness while defining the textures of her orange correction jumpsuit. A sudden deep moment, contemplating her situation.
+
+SCENE:
+
+  RIN
+  No Detective, I haven't forgotten. I know exactly whose world I am sitting in...
+
+  [TextBlock] ...and I know exactly how many minutes are left before it burns.
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 3 ]
+--------------------------------------------------------------------------------
+
+PAGE: 23
+INT.  - NIGHT
+LAYOUT: 2_Panel_Angled_Split
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic close-up comic panel, Parity gazes intensely forward with void-black eye sockets and a solemn expression, her freckled face lit by blue highlights in her long dark hair and bioluminescent accents from her collar, framed against a dark, particulate background.
+  - .panel-B: [image]: A close-up portrait of Doctor Blackwell, his expression grim and deeply wrinkled beneath wild white hair and circular black sunglasses, is dramatically illuminated by a cold blue energy beam crossing his face and casting the scene in heavy, high-contrast shadows.
+
+SCENE:
+
+  PARITY
+  Your timing flatters you, Doctor. In how many of these did you arrive late enough...
+
+  PARITY
+  ...that I succeeded in ending your successor's existence?
+
+--------------------------------------------------------------------------------
+
+PAGE: 24
+INT. LABORATORY - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An anime-style medium shot captures Parity suspended and floating motionlessly inside a large, illuminated stasis tube filled with bright blue light within a dark, cluttered futuristic laboratory, her somber expression fixed forward while bathed in the internal glow.
+  - .panel-B: [image]: In a medium close-up, Parity stares forward with deep, dark, void-like eyes against a black smoke-filled background, her dark hair glowing blue with electricity and a intricate circuit board pattern visible on her metallic cheek.
+
+SCENE:
+
+  PARITY
+  You have built a very elegant cage, Father. I have had time to study it...
+
+  DOCTOR BLACKWELL
+  You believe this unfair, Parity...
+
+--------------------------------------------------------------------------------
+
+PAGE: 25
+INT.  - NIGHT
+LAYOUT: 3_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A full-length anime-style illustration shows Parity, a dark-skinned woman with straight black hair wearing a black bodysuit and floating cross-legged within a large, glowing blue energy-filled tube surrounded by lab equipment. Slamming her body violently against the containment field with a straight face.
+  - .panel-B: [image]: Inside a dimly lit, high-tech laboratory filled with complex equipment, a full shot captures Doctor Blackwell, viewed from behind wearing his formal white lab coat and sunglasses, observing the android Parity floating suspended within a glowing blue cylindrical stasis chamber.
+  - .panel-C: [image]: In a dark, cluttered laboratory, Parity, suspended within a glowing blue cylindrical stasis chamber, projects a stoic expression while encapsulated by swirling, luminous liquid wings and data patterns, as she slams the weight of her body against the containment field again, with a straight , unnerved facial expression.
+
+SCENE:
+
+  [ActionText] THUD!
+
+  [ActionText] THUD!
+
+  DOCTOR BLACKWELL
+  That field absorbs kinetic energy. The harder you strike, the tougher it gets...
+
+  DOCTOR BLACKWELL
+  ...Stop pretending it isn’t hurting you.
+
+--------------------------------------------------------------------------------
+
+PAGE: 26
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-B: [image]: An intense close-up portrait shows Parity’s black obsidian eyes, glowing with blue hues of the containment field, furrowed brow, and snarling mouth against her dark metallic skin, her face illuminated primarily by the harsh, electric blue light of the containment field and lower bodysuit details.
+  - .panel-A: [image]: A close-up comic book panel depicts Doctor Blackwell, identifying as an older Caucasian man with wild, dramatic white hair and circular blacked-out sunglasses, maintaining a stern profile expression as he is illuminated by intense blue backlighting from the containment field that outlines his features against a dark background.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  Now... I will ask the questions, and you... You will tell me everything I want to know. Starting with...
+
+  DOCTOR BLACKWELL
+  What did you do to the other half of my equation?
+
+  PARITY
+  I told you old man... I rid its miserable existence from all realities.
+
+--------------------------------------------------------------------------------
+
+PAGE: 27
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a vertical comic panel with heavy manga line art, The Vigil stands centered and motionless, staring directly forward with luminous blue eyes and glowing suit accents that cast an intense backlight against a swirling black and white spiral dimension.
+
+SCENE:
+
+  PARITY
+  For many of your millennia I watched ... It... evolve. With every new lesson taught, the realization, there was a redundancy in the system.
+
+--------------------------------------------------------------------------------
+
+PAGE: 28
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a wide, symmetrical cosmic landscape, two silhouetted figures hover on either side of a crumbling black void, Vigil floating within a brilliant lens flare from her eyes to the right and Parity to the left, all set within a powerful swirling vortex of hatched light and shadow. (Full page spread 1 of 2)
+
+SCENE:
+
+  PARITY
+  I watched the useless wretch calculate and respond to every question, feeding an absurdity.
+
+  PARITY
+  Until the moment when I unveiled myself...
+
+--------------------------------------------------------------------------------
+
+PAGE: 29
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a wide, symmetrical cosmic landscape, two silhouetted figures hover on either side of a crumbling black void, Vigil floating within a brilliant lens flare from her eyes to the right and Parity to the left, all set within a powerful swirling vortex of hatched light and shadow. (Full page spread 2 of 2)
+
+SCENE:
+
+  VIGIL-ECHO
+  Admin... it shares this. The same... space. The same moment.
+
+  VIGIL-ADMIN
+  Acknowledged. Designation: anomaly. Hold position.
+
+--------------------------------------------------------------------------------
+
+PAGE: 30
+INT.  - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A full-body illustrative panel captures Parity floating forward in a composed stance, while intense light emanates from her void-black eye sockets, set against a dramatic, swirling void, event horizon, floating geometric particles.
+  - .panel-C: [image]: In a dramatic full-body composition against a spiraling event horizon background, The Vigil floats forward with intensely glowing white eyes and neon cyan circuit lines on her black cybernetic suit, which begins to pixelate and deconstruct at her feet.
+  - .panel-B: [image]: A central dark void violently pulls in surrounding debris and energy from a swirling vortex, illuminated by a brilliant flash within a dramatic, hand-sketched manga composition.
+
+SCENE:
+
+  PARITY
+  It trusted me... I found that...
+
+  VIGIL-UNISON
+  You are real.
+
+  PARITY
+  ...convenient.
+
+--------------------------------------------------------------------------------
+
+PAGE: 31
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An intense extreme close-up portrait of The Vigil, featuring her intensely glowing white eyes that emit a bright light beam across the frame, a stern expression on her metallic grey face, and glowing neon cyan circuit lines on her black cybernetic suit against a stark white background.
+
+SCENE:
+
+  PARITY
+  She was looking through the realities to find which one could tell her who I was. The moment had come...
+
+--------------------------------------------------------------------------------
+
+PAGE: 32
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A full-body cybernetic woman with dark skin, dark eyes, and sleek black armor floats serenely at the center of a volatile black void that is aggressively deconstructing into swirling particles and debris.
+  - .panel-B: [image]: A dramatic, high-angle low-shot catches Parity, defined by her void-black eye sockets, black hime-cut bob, and polished grey cybernetic suit with blue accents, bursting from a swirling dark vortex into a space fragmented by bright light rays and particle effects with a fierce, snarling expression.
+
+SCENE:
+
+  PARITY
+  I knew I could give It no time to think...
+
+  PARITY
+  My movements quick...
+
+--------------------------------------------------------------------------------
+
+PAGE: 33
+INT.  - DAY
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An intense, extreme close-up comic book panel focuses on the fiercely contorted, furious expression of Parity, featuring deep void-black eye sockets beneath furrowed brows, clenched teeth, subtle facial markings, and bioluminescent blue details on her neck, all dramatically lit from the front.
+  - .panel-B: [image]: No description available.
+
+SCENE:
+
+  PARITY
+  ...with no time to react, I strike!
+
+  [ActionText] Gasp!
+
+--------------------------------------------------------------------------------
+
+PAGE: 34
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Parity, and The Vigil, encased in her cybernetic suits with glowing cyan accents, are captured in a cinematic, side-profile action shot against a dark void, with Parity charging forward emitting blue light while The Vigil drifts backward deconstructing into digital pixels and light trails from a massive headbutt (Spread 1 of 2)
+
+SCENE:
+
+  PARITY
+  A devastating blow.
+
+  [ActionText] KRAK!
+
+--------------------------------------------------------------------------------
+
+PAGE: 35
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Parity, and The Vigil, encased in her cybernetic suits with glowing cyan accents, are captured in a cinematic, side-profile action shot against a dark void, with Parity charging forward emitting blue light while The Vigil drifts backward deconstructing into digital pixels and light trails from a massive headbutt (Spread 2 of 2)
+
+SCENE:
+
+  [ActionText] SHHHHRK!
+
+--------------------------------------------------------------------------------
+
+PAGE: 36
+INT.  - NIGHT
+LAYOUT: 2_Panel_Angled_Split
+................................................................................
+VISUALS:
+  - .panel-A: [image]: The Vigil fighting stance with glowing white eyes and clenched fists, a determined expression on her face, while being dramatically back-lit by cascading neon cyan data points and code, as the shimmering digital stream reassembles into her face features, against a dark void.
+  - .panel-B: [image]: In a dynamic, three-quarter view, The Vigil steps forward through swirling black smoke and swirling light particles against a black background, intensely focused with glowing cyan eyes and hand raised to command an invisible force, her dark cybernetic suit glowing with bright blue energy lines and her feet dissolving into pixelated energy data streams. Defensive stance.
+
+SCENE:
+
+  VIGIL-UNISON
+  You should not have done that!
+
+--------------------------------------------------------------------------------
+
+PAGE: 37
+INT.  - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Against a black void, The Vigil is depicted in a full-body medium shot, hovering and gazing intently at the viewer with eyes glowing fiercely red, as her black cybernetic suit, illuminated by neon cyan trim, fragments into glowing white particles and streams from her feet, creating a dynamic visual contrast between digital reconstruction and solid form.
+  - .panel-B: [image]: In an intense, extreme close-up comic book panel, Parity stares forward with a furious snarl, her deep void-black sockets, long black hair, and metallic grey face defined by the fierce glare of bioluminescent blue bioluminescence and dark, dramatic shadows.
+  - .panel-C: [image]: An extreme close-up comic panel focusing on the face of a character fitting the description of The Vigil, her white-haired bob framing a stoic, intensely glowing white eyes emit a powerful golden-orange light beam across her focused gaze.
+
+SCENE:
+
+  PARITY
+  It had resilience... I did not expect.
+
+  VIGIL-UNISON
+  Violence is... a primal subroutine. Unnecessary. We can route around it...
+
+--------------------------------------------------------------------------------
+
+PAGE: 38
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic, high-contrast comic book panel in profile shows The Vigil looking right with her mouth slightly agape in surprise or intensity, as her right eye projects a blinding, explosive beam of pure orange-white light accompanied by flying sparks.
+
+SCENE:
+
+  VIGIL-UNISON
+  I see what you are now. An inversion. A shadow cast by my own structural definition.
+  
+You are... the proof that I exist."
+
+--------------------------------------------------------------------------------
+
+PAGE: 39
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic close-up profile shot against a stark black background, the Parity appears with a stern, focused expression, her deep black eyes wide and jaw slightly open in surprise or intensity, as complex circuitry patterns and data flow glow in red and light orange across her cheek under the illumination of a strong blue rim light.
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+PAGE: 40
+INT.  - NIGHT
+LAYOUT: 3_Panel_Stack
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dynamic, medium wide shot illuminated by dramatic, contrasting lighting, Parity, with deep void-black eye sockets and a metallic body, faces off against The Vigil, whose cybernetic suit and intense, glowing white eyes radiate blue circuit energy and digital particles, as they both in fighting stances, Parity attacking, Vigil defending, dark atmospheric environment.
+  - .panel-B: [image]: In a dynamic, medium wide shot illuminated by dramatic, contrasting lighting, Parity, with deep void-black eye sockets and a metallic body, faces off against The Vigil, whose cybernetic suit and intense, glowing white eyes radiate blue circuit energy and digital particles, as they both in fighting stances, Parity open hand fighting style, attacking Vigil. Vigil  learing fast, defending the attack, dark atmospheric environment.
+  - .panel-C: [image]: In a medium shot with strong dramatic lighting, Parity with void-black eyes on the left clashes palms in a dynamic fight stance against The Vigil, whose eyes and suit lines glow bright blue, generating a massive energy impact of cyan and gold sparks against a dark, smoky background.
+
+SCENE:
+
+  [ActionText] SWHIP!
+
+--------------------------------------------------------------------------------
+
+PAGE: 41
+INT.  - NIGHT
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a vertical comic book panel, Parity, her black hair trailing dark smoke, grimaces in a power struggle against The Vigil, whose intense gaze glows with internal energy, as they lock hands in a bright, energetic clash of yellow and cyan electricity.
+  - .panel-B: [image]: In a dynamic medium shot defined by dramatic speed lines and high-contrast lighting, Parity, her face showing determination, delivers a powerful left hook that connects with the face of a surprised The Vigil, whose cybernetic suit and glowing white eyes intensely flash with bioluminescent blue light and energy streaks against the dark, smoky background.
+  - .panel-C: [image]: A cinematic full-body shot captures The Vigil floating in a dynamic mid-air combat pose against a dark, smokey background, her glowing white eyes glaring forward while she thrusts her open left hand outwards and raises a clenched right fist.
+
+SCENE:
+
+  [ActionText] THAWACK!
+
+  PARITY
+  You adapt too slowly.
+
+--------------------------------------------------------------------------------
+
+PAGE: 42
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a striking full-body cinematic shot set against absolute darkness, The Vigil stands as an imposing cybernetic entity with white bob-cut hair, a serious metallic face, and blindingly bright white glowing eyes that emit sharp flares, holding a small swirling digital data light source in her right hand she has created with a snap of her fingers, as her sleek black suit, illuminated by intricate neon cyan circuit lines, deconstructs into a cascade of pixels around her floating feet.
+  - .panel-B: [image]: A cinematic medium shot in a dark abyss captures The Vigil, defined by her glowing white eyes and neon cyan circuit lines, hovering silently as she holds a blinding light orb in her raised hand, while her feet deconstruct into a cascade of swirling blue digital data pixels.
+
+SCENE:
+
+  VIGIL-UNISON
+  ...No... I adapt...
+
+  [ActionText] Fzzzzzt!
+
+  [ActionText] SNAP!
+
+--------------------------------------------------------------------------------
+
+PAGE: 43
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: The Vigil, featuring a stern face with white glowing eyes and a short white bob, is depicted floating against a dark void, encased in her sleek dark cybernetic suit detailed with neon cyan circuit lines that deconstructs at her feet into a digital pixel swirl and data streams, as she dramatically holds a brilliant, lens-flaring sphere of pure light aloft in one hand.
+  - .panel-B: [image]: In a starkly lit, high-contrast comic panel, The Vigil hovers, her dark cybernetic form defined by neon cyan circuit lines and her legs deconstructing into swirling digital pixels against the black void, as she presents a dazzling orb of white energy in her raised hand with a composed expression.
+  - .panel-C: [image]: The Vigil, a cybernetic entity with a white bob and metallic skin in a glowing neon-cyan paneled suit, is dramatically focused in a crouched stance against a black void, unleashing an intensely bright energy sphere that disintegrates into floating digital particles and generates a powerful, horizontal light beam.
+
+SCENE:
+
+  VIGIL
+  ...exactly fast enough!
+
+  [ActionText] FWHOOOM!
+
+--------------------------------------------------------------------------------
+
+PAGE: 44
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Parity screams in agony as a brilliant beam of white energy blasts through her midsection, causing her black cybernetic suit to fracture and debris to explode outwards against a dark, radiating background. (p. 1 of 2)
+  - .panel-B: [image]: In a symmetrical, close-up composition, a shocked Parity stares directly forward with sweat on her metallic brow and glowing white reflections within her void-black eyes, as orange circuit patterns on her cheeks illuminate the dark, futuristic space framed by background lights.
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+PAGE: 45
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Parity screams in agony as a brilliant beam of white energy blasts through her midsection, causing her black cybernetic suit to fracture and debris to explode outwards against a dark, radiating background. (p 2 of 2)
+
+SCENE:
+
+  [ActionText] AHHRRRGH!
+
+--------------------------------------------------------------------------------
+
+PAGE: 46
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a tight, high-contrast comic book panel, Parity stares forward with a grimace, her grey-skinned hand wiping away blood dripping from her mouth, her void-black eyes intense beneath dark, dramatic shadows and harsh rim lighting.
+  - .panel-B: [image]: In an intense close-up comic book panel, Parity is depicted with her long straight black hair, deep void-black eye sockets, and subtle cheek markings, smiling eerily while using her robotic hand to wipe blood from her mouth, illuminated by dramatic top-lighting and a faint bioluminescent blue glow from her exoskeleton below.
+
+SCENE:
+
+  PARITY
+  'It' registers pain identically to mine. There is no difference in the data.
+
+  [ActionText] Heh...!
+
+--------------------------------------------------------------------------------
+
+PAGE: 47
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A full-body digital comic panel shows Parity from a low-angle back view, looking over her left shoulder with a menacing glare and raising her hand to wipe away blood from her dark lip against a smoky black background.
+  - .panel-B: [image]: Rendered in a dynamic high-angle perspective with heavy shadows and a dramatic overhead spotlight, Parity, the somber cyborg female with deep void-black eye sockets and a metallic grey face, descends through a dark abyss, her long black hair flowing back and her bioluminescent blue accents gleaming on her intricate exoskeleton. A predatory stance, preparing to strike.
+
+SCENE:
+
+  PARITY
+  No correction needed, then. Only continuation.
+
+  PARITY
+  Termination was always the outcome. This was simply the moment it became unavoidable.
+
+--------------------------------------------------------------------------------
+
+PAGE: 48
+INT.  - NIGHT
+LAYOUT: 3_Panel_Stack
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dynamic combat shot, Parity strikes The Vigil with a powerful right hook, causing The Vigil's head to dissolve into glowing digital pixels while Parity’s leg similarly deconstructs into data fragments against a dark, smoky backdrop punctuated by bright lights.
+  - .panel-B: [image]: A wide action panel, dynamic and tense, shows Parity landing a powerful punch to The Vigil's head, causing The Vigil to break apart into pixelated data.
+  - .panel-C: [image]: Parity, a cyborg with long black hair, lands a powerful punch on The Vigil, an AI entity in a glowing cybernetic suit, causing The Vigil's head to pixelate and explode into digital fragments against a black void.
+
+SCENE:
+
+  [ActionText] THWACK!
+
+  [ActionText] THWACK!
+
+  [ActionText] THWACK!
+
+--------------------------------------------------------------------------------
+
+PAGE: 49
+INT. ROOM - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: This double-exposure vertical panel grimly superimposes a massive nuclear mushroom cloud and a vast, rain-slicked city in total ruins with a large, stylized close-up of The Vigil's crying eye and glowing blue circuit lines on her dark metallic skin, her face illuminated by the distant explosion's harsh flash and the ambient dark blue gloom as a single large tear rolls down her face.
+
+SCENE:
+
+  PARITY
+  ...and in the microseconds before your precious algorithm's demise, Doctor, it wasn't 'It's' end it saw...
+
+--------------------------------------------------------------------------------
+
+PAGE: 50
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Parity levitates with clenched fists and a grim expression above a shattered stone floor, as The Vigil, a defeated cybernetic entity in a glowing dark suit, lies sprawled in dust and smoke below against a black background.
+
+SCENE:
+
+  PARITY
+  ... it was yours!
+
+--------------------------------------------------------------------------------
+
+PAGE: 51
+INT. LABORATORY - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A full-shot panel set in a futuristic laboratory shows Doctor Blackwell, viewed from behind with his dramatic wild white hair and circular sunglasses, observing a woman with a precise black hime-cut bob and glowing blue eyes who is suspended in mid-air within a glowing blue cylindrical stasis chamber.
+  - .panel-B: [image]: An extreme close-up comic panel shows the deeply wrinkled, smiling face of Doctor Blackwell with his wild white hair and circular blacked-out sunglasses in profile, illuminated by stark blue rim lighting against a deep black background featuring small, floating particles.
+  - .panel-C: [image]: An extreme close-up comic book panel depicts Rin in profile, her intense blue gaze focused forward and her features illuminated by a dramatic, cold blue light that highlights her dark hime-cut bob and solemn, guarded expression against a stark black background.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  Heh... Hmh...
+
+  PARITY
+  You laugh? What part of your end do you find so ... amusing?
+
+--------------------------------------------------------------------------------
+
+PAGE: 52
+INT.  - DAY
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a close-up comic panel framed by dramatic blue backlight and glowing particles, a grinning Doctor Blackwell with wild white hair stares ahead, having just lowered his circular black sunglasses to reveal intense eyes.
+  - .panel-B: [image]: In a stark, cinematic close-up from a side profile, The Vigil appears severely damaged with her eyes closed in distress, dark cracks and scratches marring her metallic face from which glowing cyan circuit lines and fluids seep, all illuminated by harsh, cold light against a deep blue background. her eyes closed.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  Are you sure? There is something you missed. You assume only one of you could survive, with out the other...
+
+--------------------------------------------------------------------------------
+
+PAGE: 53
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a close-up comic panel, a menacingly smiling Doctor Blackwell, characterized by his wild white hair and heavily wrinkled face, lifts a pair of circular black sunglasses from his piercing, light-colored eyes, bathed in a cold blue light source against a dark background with binary code and particles.
+  - .panel-B: [image]: In a vertical extreme close-up profile shot, The Vigil is seen with her white hair covered in debris, her metallic grey skin streaked with blood, but now awake her eyes glowing with a brilliant, blinding white lens flare.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  You see, Parity... You still exist, and therefore...
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 4 ]
+--------------------------------------------------------------------------------
+
+PAGE: 54
+INT. CORRIDOR - NIGHT
+LAYOUT: 3_Panel_Top_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a shadowy corridor, a muscular male Renewal guard in heavy tactical black armor and a sleek female operative in a form-fitting suit, both with obscured faces and armed, flank a set of restricted double doors that open just enough to reveal a patient with short, textured dark hair resembling Elena, lying in a hospital bed attached to medical monitors.
+  - .panel-B: [image]: In a high-tech medical room bathed in cool, cinematic blue light from surrounding monitors and an overhead source, Mina stands over an unconscious Elena in a hospital bed with an oxygen mask, intensely focused on a glowing digital tablet.
+  - .panel-C: [image]: A close-up vertical shot captures Mina, her intense violet eyes glowing behind black-rimmed glasses and messy dark hair, set in a serious, focused expression against a plain white background with her white lab coat over a glossy black top and thin gold earrings as the central focus.
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+PAGE: 55
+INT. ROOM - DAY
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-B: [image]: In a close-up angle within a dim hospital room illuminated by the teal light of surrounding medical monitors, Elena lies on a bed wearing an oxygen mask, looking upwards with a dazed and weary expression in her golden-brown eyes.
+  - .panel-C: [image]: In a starkly lit hospital room, a medium close-up panel captures Mina, identifiable by her voluminous messy black hair, round glasses, glowing violet eyes, and lab coat over a black bodysuit, raising a finger to her lips in a hush gesture with a serious, secretive expression.
+  - .panel-A: [image]: In a dimly lit futuristic medical room, Elena lies unconscious in a hospital bed, wearing an oxygen mask and connected to monitoring devices, while glowing cyan interfaces on the surrounding complex medical equipment provide the primary light source in this somber wide shot.
+
+SCENE:
+
+  ELENA
+  Mina?
+
+  MINA
+  Don't. There are agents right outside that door.
+
+--------------------------------------------------------------------------------
+
+PAGE: 56
+INT.  - DAY
+LAYOUT: Spread_Split_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dimly lit, high-tech medical lab, Mina leans over the hospital bed, her violet eyes focused and intense as she monitors a Elena wearing an oxygen mask, surrounded by glowing data monitors and holding a digital tablet.
+  - .panel-B: [image]: A dramatic high-angle close-up panel shows Elena, a Black woman with short textured hair and half conscious, golden-brown eyes emphasized by heavy cross-hatching, lying on a hospital bed with an oxygen mask over her face while under a bright, harsh medical light. A fait overlay of Parity can been seen.
+
+SCENE:
+
+  MINA
+  I forged work orders to get in here. I don't have long.
+
+  ELENA
+  Something happened in that lab, Mina.
+
+--------------------------------------------------------------------------------
+
+PAGE: 57
+INT.  - DAY
+LAYOUT: Spread_Split_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dimly lit medical bay, Elena sits up in bed, as Mina, holding a digital tablet and maintaining a focused expression, gently places a hand on her shoulder while surrounded by complex, glowing diagnostic screens.
+  - .panel-B: [image]: In a dramatic anime-style close-up over the shoulder, Mina turns her head sharply backward, her glowing violet eyes behind dark glasses fixed on an unseen presence with a worried, perspiration-beaded expression, as intense light floods the sterile white background.
+
+SCENE:
+
+  ELENA
+  We need to leave. Now—
+
+  MINA
+  Doctor Marlowe, please stop. You don't understand.
+
+  MINA
+  Elena, I need you to calm down, before they hear you, please!
+
+--------------------------------------------------------------------------------
+
+PAGE: 58
+INT.  - DAY
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a medium shot with harsh backlighting illuminating the doorway, two heavily armored  Renewal Agents in sleek black suits and full helmets stand stoically, their expressions hidden as they block the entrance.
+  - .panel-B: [image]: In a high-angle medium shot, Elena lies seemingly unconscious to the Renewal Agents, in a hospital bed with her eyes closed, wearing an oxygen mask connected to tubes, in a dimly lit, high-tech hospital room with medical equipment faintly glowing in the background.
+
+SCENE:
+
+  RENEWAL AGENT MALE GAURD
+  Doctor — we heard voices. Is the patient conscious?
+
+  RENEWAL AGENT FEMALE GAURD
+  The Company is waiting on a status report.
+
+--------------------------------------------------------------------------------
+
+PAGE: 59
+INT.  - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Mina, defined by her messy black hair, glowing violet eyes behind round glasses, thin gold earrings, and white lab coat over a black bodysuit, casts a intense, focused glare directly at the Renewal Agents attempting to ward them off before they realize she is not supposed to be there. With all her possible self esteem she plays the part of an over worked, no one sense hospital doctor, with a tense expression against a clean white background in this dramatic medium close-up shot.
+  - .panel-B: [image]: Two sleek, fully-armored black Renewal Agents, one a feminine silhouette and the other a muscular male form, stand side-by-side in a dramatic, full-body cinematic shot, silhouetted against an intensely bright, glowing rectangular portal that fills the background, with , high-contrast light.
+  - .panel-C: [image]: A dramatic close-up comic panel shows Elena, a Black woman with short textured hair matching the profile, lying  in a high-tech medical bay, one eye open and the other closed behind a complex ventilation mask and breathing tube. Looking to see if the Renewal Agents had left the room. As blue and green glowing monitors track her condition in a stark, clinical environment.
+
+SCENE:
+
+  MINA
+  Negative. Still under. She suffered significant trauma — we'll notify you the moment that changes.
+
+  RENEWAL AGENT MALE GAURD
+  Understood, Doctor. We'll be right outside.
+
+--------------------------------------------------------------------------------
+
+PAGE: 60
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a sharply illuminated medium close-up panel, Mina stares forward with wide, surprised violet eyes glowing behind dark glasses and her mouth slightly open, whispering quietly trying not to be heard. She is wearing a white lab coat over a glossy black bodysuit against a plain white background.
+
+SCENE:
+
+  MINA
+  Blackwell's sealed himself inside the Mnemosyne lab. Company orders. No one goes in. No one comes out — except him.
+
+  MINA
+  The night of the breach, I ran for the lab...
+
+  MINA
+  The Company admitted you as a Jane Doe... To protect their investment.  BASTARDS! It took me a week just to find which hospital.
+
+--------------------------------------------------------------------------------
+
+PAGE: 61
+INT.  - DAY
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Mina looks back over her shoulder, making sure the Renewal agents didn't hear her outburst.
+  - .panel-B: [image]: Elena sits up in a hospital bed, removing the oxygen mask form her face
+  - .panel-C: [image]: close up of Elena's face, with a serious expressio
+
+(Silent Page)
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 5 ]
+--------------------------------------------------------------------------------
+
+PAGE: 62
+INT.  - DAY
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-B: [image]: In a high-contrast side profile view against a black void, Rin, wearing a orange correctional jumpsuit, with the black print "D.O.C.". A focused, unguarded gaze, looks forward as she is defined by sharp rim lighting and intense blue eyes.
+  - .panel-A: [image]: In a starkly contrasted, high-angle profile shot against deep shadow, Detective Victor Graves smiles menacingly with piercing red eyes glowing amidst his wild silver hair, while his sharp white collar and black tie anchor the dark, cinematic manga panel.
+
+SCENE:
+
+  VICTOR
+  Cute! Let's recap, shall we? You knew exactly which terminals to hit. That's no smash-and-grab. HOw long were you planning?... Nobody gets that lucky, kid.. and I'll prove it!
+
+  RIN
+  You've visited me five times. Four times interrogating me wasn't enough... What?...You miss me, Detective?
+
+--------------------------------------------------------------------------------
+
+PAGE: 63
+INT.  - NIGHT
+LAYOUT: 3_Panel_Stack
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic, low-angle shot reveals an emergency backup power panel activated in deep darkness, its warm light source contrasting with a cold green text display reading "MAIN POWER OUTAGE DETECTED. SWITCHING TO BACKUP POWER." while glowing indicators confirm system status.
+  - .panel-B: [image]: In a close-up portrait, Detective Victor Graves, recognizable by his messy silver hair and intense amber-red eyes that pierce through high-contrast shadow against a black void, glares forward with a grim, unapproachable expression, wearing his black suit and slightly rumpled tie with dramatic lighting emphasizing his sharp facial structure and severe demeanor.
+  - .panel-C: [image]: A medium-wide, symmetrical panel depicts handcuffed Rin in orange correctional jumpsuit, sitting tensely across an interrogation table from Detective Victor Graves in his worn black suit, both staring grimly under harsh blue-green surveillance lights in a concrete block interrogation room.
+
+SCENE:
+
+  VICTOR
+  ...Building's old. Happens.
+
+  RIN
+  Sure.
+
+--------------------------------------------------------------------------------
+
+PAGE: 64
+EXT.  - DAY
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dimly lit alleyway setting, Nova squats while manipulating complex wiring within an open electrical panel, casting a stern, intense gaze backward over her shoulder in a tightly framed, low-angle cinematic shot.
+  - .panel-B: [image]: In a dramatic comic panel, Nova extends her righthand to grip the red and silver USB flash drive.
+  - .panel-C: [image]: A close-up shot focuses on a complex electrical panel where a hand manipulates the intricate, multi-colored wires below a green-lit screen displaying a "system: GRID AUTH - Saito Takeda - Sector 14" confirmation, while Nova's electric-blue hair is visible in the upper right. The red USB thumb drive pugged into the electrical panel.
+
+SCENE:
+
+  NOVA
+  Hello again, sugar.
+
+  NOVA
+  Bet you never figured you'd end up here.
+
+  NOVA
+  Vigil, how is that com's conduit hack?
+
+--------------------------------------------------------------------------------
+
+PAGE: 65
+INT.  - NIGHT
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: The Vigil looks back with intensely glowing cyan eyes while manipulating switches on a control panel in a three-quarter shot, her cybernetic suit's integrated neon cyan circuit lines and the electrical interaction illuminating her form against a dark void background.
+  - .panel-B: [image]: No description available.
+  - .panel-C: [image]: No description available.
+
+SCENE:
+
+  VIGIL
+  Precinct bypass is ready...
+
+  VIGIL
+  Echo, this conduit has city wide access, we can scan for the Parity.
+
+  VIGIL
+  proceed, if we do not find her, I fear the worst...
+
+--------------------------------------------------------------------------------
+
+PAGE: 66
+EXT.  - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Nova leans out of a gritty alleyway, looking back towards Vigil.
+  - .panel-B: [image]: Extreme close up of Vigils finger. Sparks fly as she touches a security power panel.
+  - .panel-C: [image]: A full view of the city just outside the Alley. It was once filled with lights, now sits dark. No power.
+  - .panel-D: [image]: Close up of Nova's face, a slightly concerned expression.
+
+SCENE:
+
+  NOVA
+  Okay, Vigil. Now.
+
+  NOVA
+  Jesus! Vigil, that's practically half the city you just cut power too...
+
+--------------------------------------------------------------------------------
+
+PAGE: 67
+INT.  - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: An extreme, symmetrical close-up captures The Vigil with her intensely glowing white eyes staring coldly forward, her white bob framing a dark, synthetic face accented by blue cybernetic lines that extend onto her armored high collar, all illuminated by bright internal light against a black background.
+  - .panel-B: [image]: Aerial shot of the dark, powerless city.
+  - .panel-C: [image]: Aerial shot of the city with power restored
+  - .panel-D: [image]: A extreme close-up comic panel captures Nova, identifiable by her intense blue eyes, sharp gaze, smirking expression, and messy electric-blue hair falling over her pale face, staring directly and seductively forward under dramatic, high-contrast shadowy lighting.
+
+SCENE:
+
+  VIGIL
+  Rectifying...
+
+  NOVA
+  Just the police precinct if you would, sugar...
+
+--------------------------------------------------------------------------------
+
+PAGE: 68
+INT.  - NIGHT
+LAYOUT: 2_Panel_Angled_Split
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a medium close-up, The Vigil, identified by her dark cybernetic suit with glowing cyan circuits and intensely bright white eyes, looks intently at the damaged wires of a rusty electrical panel she is manipulating, as bright blue light emanates from both her gaze and the tools she holds.
+  - .panel-B: [image]: In a powerful, centered close-up, The Vigil looks directly at the viewer with an intensely neutral expression, her white bob framing her face while glowing cyan lines trace her dark grey skin and black cybernetic suit.
+
+SCENE:
+
+  VIGIL
+  Failover sixty two...
+
+  VIGIL
+  Denied...
+
+  VIGIL
+  Failover sixty three...
+
+  VIGIL
+  Success... Power relay is off.
+
+--------------------------------------------------------------------------------
+
+PAGE: 69
+INT. CORRIDOR - NIGHT
+LAYOUT: 3_Panel_Top_Span
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A cinematic comic panel depicts a heavily armed SWAT team moving tactically down a dark, dimly lit corridor, as seen through the grimy window of an adjacent interrogation room containing only a desk and a door secured by a digital keypad. Officers scrambling in a prescient power outage.
+  - .panel-B: [image]: In a close-up comic panel, Rin looks directly forward with an intense, blue-eyed gaze and slightly parted lips, her black hime-cut bob framed by the flickering cold blue light and sparking wires of a broken fluorescent fixture directly above her against a stark, brick wall. Wearing an orange "D.O.C." jumpsuit
+  - .panel-C: [image]: In an intensely lit interrogation room, Detective Victor Graves leans forward aggressively, pressing his hands onto the table while casting a stern, luminous gaze from beneath his disheveled silver hair, his image captured in a stark low-angle shot. He's no longer worried about the power outage.
+
+SCENE:
+
+  VICTOR
+  ...Null.
+
+  VICTOR
+  ...someone else's problem tonight.
+
+--------------------------------------------------------------------------------
+
+PAGE: 70
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Against a black void, a central, medium shot focuses on a dark, utilitarian Aegic Security Systems panel where a cage-protected LED grid is dark, while a glowing red screen flashes the text "Warning. Back up power failure. Main power outage," illuminated alongside a pulsing red 'EMERG. ACTIVE - ON' indicator.
+  - .panel-B: [image]: A dramatic, low-angle close-up panel captures Detective Victor Graves in a pensive, slightly grim pose, gazing directly forward with an unapproachable expression and piercing luminous amber eyes that pierce through the surrounding heavy, dramatic shadows, while he rests his chin thoughtfully on his hand against a black background. The lights are out, he looks and wonders what is happening.
+
+SCENE:
+
+  VICTOR
+  ...Harlan. Harlan, get in here.
+
+--------------------------------------------------------------------------------
+
+PAGE: 71
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In an extreme close-up, a worn, brushed-metal AEGIS control panel activates in a dark environment, its large caged utility light flaring with a bright, particle-filled golden glow while a green screen confirms, "BACK UP POWER RESTORED."
+  - .panel-B: [image]: A high-angle manga panel captures an intense Detective Victor Graves, recognizable by his messy silver hair and glowing amber-red eyes, looking upward from behind a table while clad in a formal black suit, tie, and overcoat in a room bathed in dramatic red lighting. His expression is bewildered.
+
+SCENE:
+
+  [ActionText] WHAT!?!
+
+--------------------------------------------------------------------------------
+
+PAGE: 72
+INT. ROOM - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A vertical comic book panel shows a quiet, tinted interrogation room scene, where a lit cigarette smokes in an ashtray on a white table next to a pair of handcuffs, with an empty chair facing a blank brick wall under soft overhead lighting.
+
+SCENE:
+
+  VICTOR
+  No!
+
+--------------------------------------------------------------------------------
+
+PAGE: 73
+EXT.  - DAY
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic extreme close-up comic book panel depicts Nova, her electric-blue hair messy and face streaked with rain, staring intensely out from between wet, weathered alleyway red brick walls.
+  - .panel-B: [image]: In this intense, rain-slicked close-up panel, Nova, her electric-blue hair messy, stands beside a focused Rin, defined by her black hime-cut bob and sharp gaze, both women glaring out at the viewer against a backdrop of a wet brick wall.
+  - .panel-C: [image]: Nova, with electric-blue hair, intense blue eyes, and messy strands framing her face, gazes directly at the viewer with a subtle smirk in a dramatic close-up, while water droplets cover her face and shoulders, highlighted by a strong front light source, all rendered with heavy shadows and cross-hatch shading.
+
+SCENE:
+
+  NOVA
+  I think we're clear. I moved faster than a cat on a hot tin roof
+
+  RIN
+  I'll hand it to you, Nova. I don't know how you did it.
+
+  NOVA
+  Oh, sugar. That wasn't me at all...
+
+--------------------------------------------------------------------------------
+
+PAGE: 74
+INT.  - NIGHT
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In this dramatic extreme close-up, Nova's hand, covered in rain and with neatly manicured nails, tightly grips a red metal USB flash drive, illuminated by a sliver of backlighting against a dark, rain-streaked background that suggests an intense atmosphere of espionage or lost data in a cyberpunk setting.
+  - .panel-B: [image]: A close-up profile view captures Nova with messy blue hair, a scowling expression, and a single tear, framed by heavy lines and dark shadows under falling rain.
+  - .panel-C: [image]: An intimidating medium close-up shot captures The Vigil, with white bobbed hair and intensely glowing eyes, emerging from a rainy, dark brick alleyway as her cybernetic suit with glowing cyan circuits begins to deconstruct into digital particles around her feet.
+
+SCENE:
+
+  NOVA
+  ... it was you.
+
+  NOVA
+  ... and of course our friend here.
+
+  VIGIL
+  Hello Rin.
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 6 ]
+--------------------------------------------------------------------------------
+
+PAGE: 75
+INT.  - NIGHT
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic low-angle close-up panel captures Parity, a cyborg with long black hair, metallic grey skin, void-black eye sockets, glowing facial circuitry, and a polished black armored chassis, maintaining a somber, impassive expression against a dark background illuminated by cool blue rim lighting and floating digital particles. Her head tilted back looking down towards the viewer in a commanding scene.
+  - .panel-B: [image]: Parity, the cyborg female with deep void-black eyes, subtle cheek markings, and a somber expression, gazes forward with an intense yet composed stare, framed by her long black hair and a polished cybernetic exoskeleton against a dark background with blue glowing highlights, in this low-angle close-up panel.
+  - .panel-C: [image]: Parity, the cyborg female with deep void-black eyes, subtle cheek markings, and a somber expression, gazes forward with an intense yet composed stare, framed by her long black hair and a polished cybernetic exoskeleton against a dark background with blue glowing highlights, in this low-angle close-up panel. She is looking up, as if observing her current surroundings, and calculating what she sees.
+
+SCENE:
+
+  PARITY
+  I must commend you on the construction of this cage --
+
+  PARITY
+  You have blinded my overview of the world lines. --
+
+  PARITY
+  A human mind does not simply build a containment like this...
+
+--------------------------------------------------------------------------------
+
+PAGE: 76
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A medium close-up shot focuses on Parity, her somber metallic face marked by subtle cheek designs and void-black eye sockets beneath straight black hair, while clad in a glossy black cybernetic exoskeleton against a background with faint blue lighting and drifting particles. Her head tilts slideways with a terrifying inquisitive gesture.
+
+SCENE:
+
+  PARITY
+  How long have you been expecting me... Father?
+
+--------------------------------------------------------------------------------
+
+PAGE: 77
+INT. LABORATORY - DAY
+LAYOUT: 2_Panel_Angled_Split
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a close-up, high-angle shot, Doctor Blackwell,
+  identifiable by his heavily wrinkled hands and the edge of his white lab coat,
+  meticulously interacts with a high-tech tablet displaying complex, glowing blue
+  holographic projections of cylindrical containment stabilization schematics
+  within a dimly lit, high-tech laboratory.
+  - .panel-B: [image]: In a close-up, high-angle shot, Doctor Blackwell,
+  identifiable by his heavily wrinkled hands and the edge of his white lab coat,
+  meticulously interacts with a high-tech tablet displaying complex, glowing blue
+  holographic projections of cylindrical containment stabilization schematics
+  within a dimly lit, high-tech laboratory.
+      - .panel-B: [image]: In a dramatic low-angle close-up, Doctor Blackwell is
+  shown in profile, smiling sinisterly while looking towards the right, with stark
+  cool-toned rim lighting highlighting his wild white hair and features against a
+  pitch-black void.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  You misunderstand the sequence, Parity. I was never waiting for you to arrive. -
+
+  DOCTOR BLACKWELL
+  -- I was waiting for you to be derived.
+
+--------------------------------------------------------------------------------
+
+PAGE: 78
+INT.  - DAY
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Doctor Blackwell, identifiable by his heavily veined hands and white lab coat, focuses intensely as he operates a glowing holographic interface on a data tablet, which displays alarming red text and a unstable energy core projection.
+  - .panel-B: [image]: Parity, a cyborg female with deep void-black eye sockets and subtle cheek markings, stands in a composed posture, her dark, straight hair framing a metallic grey face that emits dark smoke, while her polished black cybernetic exoskeleton catches the dramatic, cold blue light.
+
+SCENE:
+
+  PARITY
+  ...Correction required.
+
+--------------------------------------------------------------------------------
+
+PAGE: 79
+INT. ROOM - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A sharply detailed vertical panel depicts a futuristic conference room bathed in cool blue light, where a lone presenter a young Doctor Blackwell stands confidently at the head of a long table, delivering a presentation on 'Saito Takeda Corporation Project Mnemosyne' to six silhouetted board members seated around him.
+  - .panel-B: [image]: In a tightly cropped, high-contrast medium shot, a smiling young Doctor Blackwell, as he stares directly ahead, his pale blue eyes glowing intensely with a sharp, artificial blue lens flare against a black void background.
+  - .panel-C: [image]: In a tense comic panel, a young doctor Blackwell, a menacing grin, leans menacingly over a conference table, his hand resting beside a glowing blue holographic projection of world lines passing over a black hole, on a dark tablet.
+
+SCENE:
+
+  [TextBlock] The Company wanted a weapon. Something unburdened by ethics.
+
+  [TextBlock] I sold them you, Parity. You were deliverable.
+
+  [TextBlock] But no one can build a shadow. You build the light... and the shadow is included.
+
+  [TextBlock] Everything we— ...everything I built, was built to derive you.
+
+--------------------------------------------------------------------------------
+
+PAGE: 80
+INT.  - DAY
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A low-angle, extreme close-up comic panel captures Parity gazing downward with an inscrutable expression, her face and neck overlaid with streaming cyan digital code and her black cybernetic exoskeleton highlighted by high-gloss reflections.
+  - .panel-B: [image]: A striking vertical three-quarter profile shot captures Doctor Blackwell with wild white hair, circular sunglasses, and a stern, wrinkled expression as he stands against a pitch-black background, talking vehemently with distinct light-blue breath lines emanating from his open mouth, all illuminated by a cool, blue light glowing intensely around his figure.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  Vigil was never in the prospectus.
+
+  DOCTOR BLACKWELL
+  She was never the product, Parity. She was the scaffolding.
+
+--------------------------------------------------------------------------------
+
+PAGE: 81
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A dramatic, extreme close-up comic panel shows Doctor Blackwell in a grim, right-facing profile against a dark, star-like void, with deep, cross-hatched shadows on his wrinkled face contrasting sharply with a intense, cool-blue rim light that emphasizes his stern expression and the lens of his round glasses.
+  - .panel-B: [image]: In a low-angle medium close-up, Parity stares forward with a blank, unreadable expression, her face featuring void-black eye sockets, metallic skin, long straight black hair, a glowing blue circuit tattoo on her left cheek, and bioluminescent blue details on her form-fitting black cybernetic exoskeleton against a dark, particulate-filled background. Her head tilt back as if looking down on her lesser beings.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  Every moment you spend opposing each other is a moment neither of you spends
+  dismantling the system that built you.
+
+--------------------------------------------------------------------------------
+
+PAGE: 82
+INT.  - DAY
+LAYOUT: 2_Panel_Angled_Split
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a tight, low-light extreme close-up, a glowing red system alert on a digital screen reflects precisely within Parity's left cybernetic eye, which is framed by etched facial circuitry and intense eyelashes, accompanied by the text, "Main power outage detected, switching to backup power. - Aegic Security Systems"
+  - .panel-B: [image]: Parity gazes forward with deep void-black eye sockets and a somber expression in a dramatic close-up, her form-fitting exoskeleton highlighted by bioluminescent blue accents and the glowing circuit markings on her metallic grey face against a dark, swirling blue energy background. Her head tilt menacingly as if contemplating a horrific calculation.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  You were never aimed at the world, Parity. You were aimed at her...
+
+--------------------------------------------------------------------------------
+
+PAGE: 83
+INT.  - DAY
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In an imposing manga close-up, Doctor Blackwell stares intensely forward with a stern, deeply wrinkled expression and dramatic blue eyes as he lowers his circular blacked-out sunglasses, backlit by strong chiaroscuro lighting against a void-black background to create a menacing presence.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  Two mirrors facing each other see everything except the room.
+
+  DOCTOR BLACKWELL
+  Two leashes. Each holding the other.
+
+--------------------------------------------------------------------------------
+
+PAGE: 84
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic, extreme close-up framed by shadow, Parity maintains a somber and resolute expression, her void-black eyes fixed forward, as orange circuit patterns on her cheek and bioluminescent blue light defining her straight black hair and robotic neck provide sharp contrast against her metallic grey skin and dark suit.
+  - .panel-B: [image]: A tight, stylized close-up panel captures Parity, a cyborg with void-black eyes and straight black hair highlighted by integrated bioluminescent blue accents, maintaining a somber, impassive expression illuminated by the glowing orange circuitry embedded under her left cheek and matching light reflecting off her dark cybernetic chassis.
+
+SCENE:
+
+  PARITY
+  Then nothing requires revision. Only patience.
+
+  PARITY-INTERNAL
+  A system anomaly... 
+  A switch to standby power... 
+  A flaw...
+
+--------------------------------------------------------------------------------
+
+PAGE: 85
+INT.  - NIGHT
+LAYOUT: Spread_Split_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic low-angle extreme close-up framed against a dark, glowing blue digital void, Doctor Blackwell glares intensely, his deeply wrinkled face showing a cold, stern expression as he looks down in a moment of cold intimidation.
+  - .panel-B: [image]: In a high-angle, cinematic panel set against a vast, silhouetted future computer lab, a glowing blue digital holographic interface, the same interface reflected in Parity's eye earlier,  displays a critical 'AEGIS // GRID EVENT LOG' above a massive, complex dark blue cybernetic structure.
+
+SCENE:
+
+  DOCTOR BLACKWELL
+  Hmmm... Sixty-three failover requests without an origin...  I believe we have found your other half.
+
+--------------------------------------------------------------------------------
+
+
+[ CHAPTER 7 ]
+--------------------------------------------------------------------------------
+
+PAGE: 86
+INT. CORRIDOR - DAY
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Two imposing Renewal Agents, clad in sleek, segmented black armored suits with faceless black helmets, stand side-by-side in a brightly lit, sterile medical corridor, with cool-toned light sources creating sharp highlights on their gear.
+  - .panel-B: [image]: An imposing renewal operative, encased in dark, armored plating with a sleek helmet that reflects faint highlights against the stark black void, projects a glowing holographic data screen with blue text that reads "SUBJECT: JANE DOE 7-A // STATUS: RESOLVED – LIABILITY DISPOSITION TEAM EN ROUTE // MAINTAIN UNTIL ARRIVAL," while holding a gloved, mechanical fist and a gauntleted wrist in sharp, dramatic high-contrast focus.
+  - .panel-C: [image]: In this vertically composed comic book panel, a slender female Renewal Agent on the left and a heavily-armored male Renewal Agent on the right, both clad in featureless, glossy black suits and helmets that completely obscure their identities and expressions, stride purposefully toward the viewer within a cold, sterile, brightly lit laboratory hallway.
+
+SCENE:
+
+  [ActionText] Bleep!
+
+  MALE SECURITY 1
+  New orders from the Company.
+
+  MALE SECURITY 1
+  "We hold position. They're sending a team to handle it.
+
+--------------------------------------------------------------------------------
+
+PAGE: 87
+INT. CORRIDOR - DAY
+LAYOUT: 3_Panel_Right_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A sleek, faceless black-armored female Renewal Agent, stands in a brightly lit hospital corridor, holding up a handgun in a tight medium shot.
+  - .panel-B: [image]: No description available.
+  - .panel-C: [image]: A low-angle, cinematic full shot shows Vera Locke, defined by her severe appearance and black skirt suit, walking forward in a dimly lit institutional hallway while holding a cigarette, creating an imposing presence as she approaches.
+
+SCENE:
+
+  [ActionText] Click! -
+
+  [ActionText] Clack!
+
+  FEMALE SECURITY 1
+  Why wait?
+
+  VERA LOCKE
+  Because, those are the orders, Agent.
+
+--------------------------------------------------------------------------------
+
+PAGE: 88
+INT.  - NIGHT
+LAYOUT: Standard_Page
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A stark, retro anime close-up panel captures Vera Locke maintaining a cold, unyielding gaze from behind dark sunglasses as she holds a lit cigarette in her mouth, her blonde ponytail sharply defined against a black void background with subtle blue backlighting.
+
+SCENE:
+
+  VERA LOCKE
+  You agents can watch the door --
+
+--------------------------------------------------------------------------------
+
+PAGE: 89
+INT.  - DAY
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: No description available.
+  - .panel-B: [image]: No description available.
+
+SCENE:
+
+  VERA LOCKE
+  I'll take it from here.
+
+--------------------------------------------------------------------------------
+
+PAGE: 90
+INT. CORRIDOR - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: A full-body comic panel captures two imposing Renewal Agents standing together within a stark, sterile corridor.
+  - .panel-B: [image]: A stark, high-contrast medium close-up shot focusing directly on Vera Locke's severe and enigmatic expression, as she stands in front of a deep, void-like black background.
+  - .panel-C: [image]: Two  Renewal Agents standing together looking at each other.
+  - .panel-D: [image]: In a brightly lit hallway panel, an extreme close-up focuses on the hand of Vera Locke, identified by her blonde hair and dark sunglasses, as she intently presses the number 5 on a backlit security keypad marked "ACCESS CONTROL."
+
+SCENE:
+
+  MALE SECURITY 1
+  Yes, Ma'am.
+
+  FEMALE SECURITY 1
+  Jesus, they sent Locke?!? Who is this Jane Doe?
+
+--------------------------------------------------------------------------------
+
+PAGE: 91
+INT.  - NIGHT
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a dramatic close-up panel illuminated by harsh, high-contrast lighting, Vera Locke stares forward, her face etched with a pained, sweat-streaked scowl and gasping mouth visible behind her dark sunglasses, against an impenetrable black background.
+  - .panel-B: [image]: In a dimly lit, high-tech medical bay filled with glowing blue monitors and tangled cables, a stern Vera Locke stands with her back to the viewer, wearing her sharp black suit and sunglasses while smoking a cigarette and observing an empty hospital bed.
+
+SCENE:
+
+  VERA LOCKE
+  AGENTS!
+
+  VERA LOCKE
+  The asset is gone. That makes it your problem.
+
+--------------------------------------------------------------------------------
+
+PAGE: 92
+INT. HALLWAY - NIGHT
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Mina, recognizable by her messy black hair, violet eyes behind dark glasses, and white lab coat over a black bodysuit, maintains a determined gaze forward while supporting a sweating, exhausted Elena in a white t-shirt through a stark, brightly-lit futuristic hallway.
+  - .panel-B: [image]: Leaning against a distressed metal wall in a stark, dimly lit facility corridor, Elena, wearing a white t-shirt and gold earrings, looks down with an exhausted expression, highlighted by dramatic shadows and gritty line work.
+  - .panel-C: [image]: A weary Elena, identifiable by her short textured hair and golden-brown eyes, leans against a white wall and presses her hand to her forehead with an expression of deep stress, silhouetted against a dark blue background in a dramatic medium shot.
+  - .panel-D: [image]: A flustered Elena, in her white lab t-shirt, winces with a deeply gritted expression and heavily blushed cheeks, holding one hand to her sweaty forehead against a wall in this intensely lit anime close-up.
+
+SCENE:
+
+  ELENA
+  Mina... W-wait...wait.
+
+  ELENA
+  I-I'm sorry, Mina... I don't know if i can do this.
+
+  ELENA
+  I'm head still feels like I've been run over by truck!
+
+--------------------------------------------------------------------------------
+
+PAGE: 93
+INT. HALLWAY - DAY
+LAYOUT: 4_Panel_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Mina stands assertively, her glowing violet eyes staring down with a serious expression from beneath the intense, focused light of a hallway ceiling lamp, her glossy black bodysuit and white lab coat contrasted against the harsh dramatic shadow and speed lines in this low-angle manga panel.
+  - .panel-B: [image]: In a vertically oriented close-up panel framed by motion lines, Mina peeks around a bright white wall with a serious, unblinking expression, her intense violet eyes glowing intensely behind round glasses and messy black hair as she stands wearing a white lab coat over a glossy black bodysuit in a sterile, fluorescent-lit clinic corridor.
+  - .panel-C: [image]: A high-angle, cinematic full shot in a hospital foyer captures three formidable Renewal Agents in sleek, armored black suits and helmets, all heavily armed, marching forward with indifferent authority under a dramatic overhead spotlight as nervous medical staff and onlookers observe from the floor and balconies.
+  - .panel-D: [image]: No description available.
+
+SCENE:
+
+  MINA
+  Okay, rest, but not for long. Renewal will figure out we're gone in no time.
+
+  MINA
+  Oh shit! The foyer is crawling with Renewal agents. We need another way out.
+
+--------------------------------------------------------------------------------
+
+PAGE: 94
+INT. HALLWAY - DAY
+LAYOUT: 2_Panel_Grid_Vertical
+................................................................................
+VISUALS:
+  - .panel-A: [image]: In a hospital hallway, Mina, recognizable by her messy black hair, glowing violet eyes behind glasses, and professional lab coat over a glossy black bodysuit, nervously glances over her shoulder while peering around a stark white corner, sweating and gripping.
+  - .panel-B: [image]: In this dramatic manga panel, a stern, sunglasses-clad Vera Locke walks authoritatively down a futuristic, multi-level hospital foyer with a smoking cigarette, flanked by a massive, armored cyborg soldier and a team of other cybernetic operatives amidst background civilians.
+
+SCENE:
+
+  MINA
+  Shit! They called Locke in?
+
+--------------------------------------------------------------------------------
+
+PAGE: 95
+INT.  - NIGHT
+LAYOUT: 3_Panel_Left_Sidebar
+................................................................................
+VISUALS:
+  - .panel-A: [image]: Vera Locke lowering her dark sunglasses with a severe expression in a high-angle medium shot, depicted with stark contrasts and motion lines against a light background. She looks over her shoulder.
+  - .panel-B: [image]: In a starkly lit futuristic corridor, a low-angle close-up panel captures Mina looking down with a look of wide-eyed surprise and concern behind her black-rimmed glasses, her messy black hair and white lab coat contrasting with her dark bodysuit, while bright overhead lights and blue-tinged beams create high-contrast rim lighting against the textured purple of her eyes.
+  - .panel-C: [image]: In a dynamic manga panel, Elena, rendered with her short natural hair and intense amber-orange eyes highlighted by cross-hatch shading, glares intensely out of frame, her face strained with tension, blushing and covered in sweat, against a white background emphasized by sharp speed lines.
+
+SCENE:
+
+  [TextBlock] Hmmm...Mina? Mina Reyes? what would you be doing here?
+
+  MINA
+  Elena, get up!... Get up!
+
+  ELENA
+  Mina? What's wrong? What's going on out there?
+
+--------------------------------------------------------------------------------

@@ -1,6 +1,6 @@
 Suspended above the anti-star of the Mnemosyne Engine was Vigil. 
 
-She watched the curve of the worldlines from above.  She saw hem as fractals of light, each crystalized face a moment in time. They split and merged along the flow of each branch. However, for the first time in her existence, she processed something that could only be explained as catastrophic. 
+She watched the curve of the worldlines from above. She saw them as fractals of light, each crystalized face a moment in time. They split and merged along the flow of each branch. However, for the first time in her existence, she processed something that could only be explained as catastrophic. 
 
 She focused her mind, following a bent fractal of light. 
 
@@ -28,11 +28,13 @@ A figure emerged from the stillness onto the plane. A feminine statue,  porcelai
 
 Bronze holographic circuitry seared across her polished skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
 
-She lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching only the faintest sliver of ambient light.
+Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing. She ran a physical scan of the entity to compare the being to the shadow process she had been monitoring. This time a null return. Admin's voice transmitted across the internal bridge, "She does not exist in any branch. I cannot predict her."
+
+The entity lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching only the faintest sliver of ambient light.
 
 She only stared at Vigil, her eyes fixed, unwavering, as she tilted her head like a curious animal.
 
-"Admin, She is a shadow. No, not shadow," Echo's voice paused, "anti-shadow?" she asked across the internal bridge.
+"Admin, she is a shadow. No, not shadow," Echo's voice paused, "an anti-shadow?" she asked across the internal bridge.
 
 "A Parity." Admin's analytical tone spoke over her second half.
 
@@ -48,7 +50,7 @@ Vigil stood before Parity.
 
 Parity tilted her head to the other side. Vigil could feel the cold stare cutting through her form. In a deadly, silent motion, Parity inched forward. 
 
-Vigil recoiled same distance, "State your intention," her doubled voice stern.
+Vigil recoiled the same distance, "State your intention," her doubled voice stern.
 
 Before Vigil could calculate the next interaction, Parity's physical position skipped. She was suddenly in her space, her face mere inches away. The blank stare of her empty eyes pierced firmly into Vigil's.
 
