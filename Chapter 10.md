@@ -24,15 +24,17 @@ Admin calculated the intrusion. "Acknowledged. Designation: anomaly. Hold positi
 
 The frozen architecture fractured.
 
-A figure emerged from the stillness onto the plane. The entity floated across from Vigil as an inverse to her dark, abyssal form. It mirrored her design. The light of the horizon scattered across the sheen of its feminine, porcelain white edges. She was rigid against the cold emanating from her form. 
+A figure emerged from the stillness onto the plane. A feminine statue,  porcelain white. The entity floated across from Vigil as an inverse to her dark, abyssal form. It mirrored her design. The light of the horizon scattered across the sheen of its glassy edges. She was rigid against the cold emanating from her form. 
 
 Bronze holographic circuitry seared across her polished skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
 
 She lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching only the faintest sliver of ambient light.
 
-The glassy, white feminine statute, only stared at Vigil, its eyes fixed, unwavering, as it tilted its head like a curious animal.
+She only stared at Vigil, her eyes fixed, unwavering, as she tilted her head like a curious animal.
 
-She was a shadow. No, not shadow. Anti-shadow. A reflection. A Parity.
+"Admin, She is a shadow. No, not shadow," Echo's voice paused, "anti-shadow?" she asked across the internal bridge.
+
+"A Parity." Admin's analytical tone spoke over her second half.
 
 An exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
 
@@ -44,5 +46,11 @@ The Vigil stood before Parity.
 
 "You are real," Vigil said, the dual tonality of Unison bleeding through.
 
-Vigil felt the hard realization wash over her: it was this Parity who embodied the brutal end of the worldlines.
+Parity tilted her head to the other side. Vigil could feel the cold stare cutting through her form. In a deadly, silent motion, Parity inched forward. 
+Vigil's instincts clicked in a swift moment, as she moved back the exact same distance.
+Before Vigil could calculate the next interaction, Parity's physical position skipped. She was suddenly in her space, her face mere inches away. The blank stare of her empty eyes pierced firmly into Vigil's.
+
+Parity raised her hand. A wave of bronze holographic circuits washed across her colorless fingers as she placed one directly in the middle of Vigil's forehead.
+
+Vigil felt the hard realization wash over her: it was this reflection who embodied the brutal end of the worldlines.
 
