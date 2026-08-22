@@ -50,7 +50,7 @@ Vigil stood before Parity.
 
 "You are real," Vigil said, the dual tonality of Unison bleeding through.
 
-Parity tilted her head to the other side. Vigil could feel the cold stare cutting through her form. In a deadly, silent motion, Parity inched forward. 
+Parity didn't avert her wide, methodical stare. Her black eyes only blinked slowly. Vigil could feel the cold stare cutting through her form. In a deadly, silent motion, Parity inched forward.
 
 Vigil recoiled the same distance, "State your intention," her doubled voice stern.
 
