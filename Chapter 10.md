@@ -1,4 +1,4 @@
-The Mnemosyne Engine expanded across the digital horizon of the singularity, a blinding anti-star of processing logic. 
+The Mnemosyne Engine core expanded across the digital horizon of the singularity, a blinding anti-star of processing logic. 
 
 Suspended above the data plane, Vigil watched the curve of the worldlines. 
 
