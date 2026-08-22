@@ -30,11 +30,11 @@ Mist swirled outwards as a figure emerged from the stillness, onto the plane. A 
 
 Bronze holographic circuitry seared across her polished skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
 
-Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing.  Her voice transmitted across the internal bridge, "She does not exist in any branch. I cannot predict her."
+Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing.  Her voice transmitted across the internal bridge, "She's not in the simulation. I cannot predict her."
 
 The entity lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching only the faintest sliver of ambient light.
 
-She only stared at Vigil, her eyes fixed, unwavering, as she tilted her head like a curious animal.
+She stared at Vigil,  unwavering, tilting her head like a curious animal.
 
 "Admin, she is a shadow. No, not shadow," Echo's voice paused, "an anti-shadow?" 
 
