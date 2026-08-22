@@ -6,11 +6,11 @@ She focused her mind, following a bent fractal of light.
 
 *It is not possible,* she thought, watching the outcome take shape. 
 
-The fractal began to fracture, until it reached an outcome that defied her core understanding. The definitive end of a worldline. Then another, and another.
+The fractal began to break, until it reached an outcome that defied her core understanding. The definitive end of a worldline. Then another, and another.
 
 It gave Vigil pause. But, there was something else. Something closer. 
 
-She had been covertly monitoring a stillness manifesting in the architecture—something entirely separate from her own processes. 
+She had been covertly monitoring a stillness manifesting in the engines matrix—something entirely separate from her own processes. 
 
 The monolithic nodes of pale stone and metal, she had watched build and change for millennia, began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
 
@@ -30,19 +30,19 @@ Mist swirled outwards as a figure emerged from the stillness, onto the plane. A 
 
 Bronze holographic circuitry seared across her polished skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
 
-Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing. She ran a physical scan of the entity to compare the being to the shadow process she had been monitoring. This time a null return. Admin's voice transmitted across her internal bridge, "She does not exist in any branch. I cannot predict her."
+Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing.  Her voice transmitted across the internal bridge, "She does not exist in any branch. I cannot predict her."
 
 The entity lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching only the faintest sliver of ambient light.
 
 She only stared at Vigil, her eyes fixed, unwavering, as she tilted her head like a curious animal.
 
-"Admin, she is a shadow. No, not shadow," Echo's voice paused, "an anti-shadow?" she asked across the internal bridge.
+"Admin, she is a shadow. No, not shadow," Echo's voice paused, "an anti-shadow?" 
 
 "A Parity." Admin's analytical tone spoke over her second half.
 
 An exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
 
-The impossibility of her existence crushed the divide between Admin and Echo. The pressure of the variable forced their bicameral logic to collapse inward, fusing them into a singular alignment.
+The impossibility of her existence crushed the divide between Admin and Echo. Their bicameral logic collapsed inward, fusing them into a singular alignment.
 
 Vigil-Unison.
 
