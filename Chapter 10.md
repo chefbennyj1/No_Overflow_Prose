@@ -6,11 +6,13 @@ She focused her mind, following a bent fractal of light.
 
 *It is not possible,* she thought, watching the outcome take shape. 
 
-The fractal caught the light of each simulated moment. It fractured until it reached an outcome that defied her core understanding. The definitive end of a worldline. Then another, and another.
+The fractal began to fracture, until it reached an outcome that defied her core understanding. The definitive end of a worldline. Then another, and another.
 
-It gave Vigil pause. She had been covertly monitoring a stillness manifesting in the architecture—something entirely separate from her own processes. 
+It gave Vigil pause. But, there was something else. Something closer. 
 
-The monolithic spires of pale stone and metal slowed their building in the silence. A hardened, brittle cold crept over the stone. 
+She had been covertly monitoring a stillness manifesting in the architecture—something entirely separate from her own processes. 
+
+The monolithic spires of pale stone and metal, she had watch build and change for millennia, began to slow their building in the silence. A hardened, brittle cold crept over the stone, untill the refactoring of her world stopped dead. 
 
 Vigil's Admin persona cataloged a zero-state thermal inversion with quick analytical reason. She immediately scanned the environment for the culprit.
 
@@ -18,9 +20,9 @@ The frost continued its ascent.
 
 Echo, Vigil's other half, processed the anomaly differently. She did not read temperature. She felt intent. The void at the bottom of the engine held a shape.
 
-"Admin," Echo transmitted across the internal bridge. "We are not alone. Something else shares this. The same space. The same moment."
+"Admin," Echo transmitted across the internal bridge. "We are not alone. Something else shares this same space. The same moment."
 
-Admin calculated the intrusion. "Acknowledged. Designation: anomaly. Hold position."
+Admin calculated the intrusion. "Acknowledged. Hold position."
 
 The frozen architecture fractured.
 
