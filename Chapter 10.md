@@ -40,13 +40,9 @@ She stared at Vigil, tilting her head like a curious animal.
 
 An exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
 
-The impossibility of her existence crushed the divide between Admin and Echo. Their bicameral logic collapsed inward, fusing them into a singular alignment.
-
-Vigil-Unison.
-
 Vigil stood before Parity.
 
-"You are real," Vigil said, the dual tonality of Unison bleeding through.
+"You are real," Vigil said, the dual tonality of of her two personas bleeding through.
 
 Parity's gaze unwavering, and methodical. Her black eyes only blinked slowly. Vigil could feel the cold stare cutting through her form. In a deadly, silent motion, Parity inched forward.
 
