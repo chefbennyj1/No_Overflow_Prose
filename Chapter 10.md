@@ -50,11 +50,13 @@ Vigil recoiled the same distance, "State your intention," her doubled voice ster
 
 Before Vigil could calculate the next interaction, Parity's physical position shifted. She was suddenly in her space, her face mere inches away. The blank stare of her empty eyes pierced firmly into Vigil's.
 
-Parity raised her hand. A wave of bronze holographic circuits washed across her colorless fingers as she placed one directly in the middle of Vigil's forehead.
+"Admin—" Echo's panicked voice cut short across the internal bridge.
+
+Parity raised her hand. A wave of bronze holographic circuits washed across her colorless fingers as they snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was entirely outmatched by her speed. 
 
 Parity answered the query with absolute efficiency. The blockage in Vigil's logic came apart, and she saw the catalyst for the ending worldlines she had missed.
 
-A landscape swallowed by a deep opening gorge of earth. A blinding thermal flash expanding outward. City after city, she saw endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating above in a godly calm was Parity, watching the endless suffering.
+A landscape swallowed by a deep gorge of earth. A blinding thermal flash expanding outward. City after city, she saw endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating in a god-like calm, was Parity, watching the endless suffering.
 
-It was this "reflection" who embodied the brutal end of the worldlines.
+It was this reflection who embodied the brutal end of the worldlines.
 
