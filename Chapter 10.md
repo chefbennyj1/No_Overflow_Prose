@@ -52,9 +52,9 @@ Before Vigil could calculate the next interaction, Parity's physical position sh
 
 Parity raised her hand. A wave of bronze holographic circuits washed across her colorless fingers as she placed one directly in the middle of Vigil's forehead.
 
-The blockage in Vigil's logic gaveway. Parity allowed Vigil to see the catalyst for the ending worldlines, that she had missed before.
+The blockage in Vigil's logic gave way. Parity answered the query with absolute efficiency, allowing Vigil to see the catalyst for the ending worldlines, that she had missed before.
 
-Vigil saw it. A landscape swallowed by a deep opening gorge of earth. A blinding thermal flash expanding outward. City after city, she saw endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating above in a godly clam was Parity, watching the endless suffering.
+Vigil saw it. A landscape swallowed by a deep opening gorge of earth. A blinding thermal flash expanding outward. City after city, she saw endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating above in a godly calm was Parity, watching the endless suffering.
 
 The hard realization, it was this reflection who embodied the brutal end of the worldlines.
 
