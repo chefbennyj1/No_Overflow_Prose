@@ -2,7 +2,7 @@ Victor's car cut through the rain like it had somewhere better to be — a sleek
 
 Harlan gripped the door handle, knuckles pale. "You know they make cars that don't try to kill the passenger."
 
-"Where's the fun in that?" Victor didn't slow down.
+Victor didn't slow down.
 
 "So, this Blackwell," Harlan said, bracing against the dash as the car swung hard around a corner. "You got a face to face?"
 
@@ -14,33 +14,33 @@ Harlan gripped the door handle, knuckles pale. "You know they make cars that don
 
 The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed. Victor brought it to rest outside the tower's entrance, the headlights dimming to black, the hum settling into silence.
 
-The Takeda-Holden annex was an imposing monument to corporate wealth, a forty-story Brutalist atrium of polished concrete and sheer glass that made the Upper Grid feel like the center of the universe. 
+The plaza in front of the imposing Takeda-Holden tower was lined with polished concrete and black statues of roman gods and goddesses. At the end of a long walk way s that snaked through the landscape, the sheer glass entrance to the towers New Veridia level annex was very different from the Oshima entrance twenty stories below. It made the Upper Grid feel like the center of the universe. 
 
 Victor Graves hated it. He pushed through the heavy glass doors, his wet trench coat dripping onto the pristine marble floor. 
 
 ***
 
-Three floors up, Iris gripped the steel railing of a suspended walkway so hard her knuckles turned white. 
+Three floors up, Iris gripped the steel railing of a suspended walkway, leaned over to look down at the building entrance. 
 
-Her heart hammered against her ribs, a frantic rhythm that hadn't slowed since Doctor Blackwell initiated the Mnemosyne Engine. She clutched a glowing datapad to her chest, the screen locked on the encrypted, copied terminal logs. The physics were breaking down in the lab. The machine was doing something impossible, and no one was stopping it. 
+Her heart hammered against her ribs, a frantic rhythm that hadn't slowed since she found the thesis paper that explained Doctor Blackwell true intension of the Mnemosyne Engine. The physics were breaking down in the lab, and Blackwell had allowed it all to happen, right under everyone's nose. The machine was doing something dangerous, and no one was stopping it. 
 
-She needed to get the data out. But she couldn't just walk out the front door. The atrium below was crawling with armored Renewal Agents, their black helmets reflecting the sterile light. If they searched her, she would disappear.
+She needed to get the information out. But she couldn't just walk out the front door. The atrium below was crawling with armored Renewal Agents, their black helmets reflecting the sterile light. If they searched her, she would disappear.
 
 Then, the heavy glass doors on the ground floor slid open. 
 
 Iris looked down. Two men walked into the cavernous atrium, instantly disrupting the sterile corporate aesthetic. One wore a soaked trench coat; the other, a slightly rumpled charcoal suit. They didn't move like corporate executives. They moved like predators entering hostile territory.
 
-The acoustics of the Brutalist atrium carried their voices upward.
+The acoustics of the atrium carried their voices upward.
 
 "Oh look… a corporate canner," the man in the suit said, adjusting his collar. "Why do they make them look so human?"
 
 "Don't know, Harlan," the man in the trench coat replied, his voice a low, hard rasp. "Never trusted them."
 
-Iris's breath caught. Oshima Police. Cops, from the lower grid. 
+*Oshima Police. Cops, from the lower grid.* 
 
 She looked at the datapad in her hands, then back down at the two detectives marching toward the security checkpoint. It was her only chance. 
 
-Iris broke into a sprint toward the executive elevator.
+Iris walked quickly toward the executive elevator.
 
 ***
 

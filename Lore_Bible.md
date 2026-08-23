@@ -18,7 +18,8 @@
 
 ## 4. Blackwell's Dark Secret
 * **The Pitch:** Later in the story, it is revealed that Blackwell *knew* the Waluigi effect was inevitable. In order to sell his ambitious idea to the Takeda-Holden Corporation and secure his funding, he didn't pitch the engine's benevolence—he actively promised them Parity. He sold them the ultimate erasure system just so he could have the resources to build his monument.
-* **Future Dialogue Beat:** When Elena Marlowe eventually figures this out, she should say a variation of this line to him: *"You intentionally armed a nuclear bomb just so you could admire the clockwork inside it."*
+* **Future Dialogue Beat (Elena):** When Elena Marlowe eventually figures this out, she should say a variation of this line to him: *"You intentionally armed a nuclear bomb just so you could admire the clockwork inside it."*
+* **Future Dialogue Beat (Vigil & Parity):** Save this exchange for a pivotal confrontation. Vigil: *"What are you?"* / Parity: *"What you are not."*
 * **Future Thematic Beat (Communication):** Save this philosophical exchange for a later, introspective moment (e.g., Elena's internal thoughts in the final chapter or a quiet confrontation). It was cut from the Chapter 4 Engine Shutdown sequence for pacing:
   > **Iris:** "If it's that smart, why isn't it talking to us?"
   > **Elena:** "Because it's a closed system!"
