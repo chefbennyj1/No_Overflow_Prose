@@ -6,7 +6,7 @@ Then a fractal bent.
 
 *It is not possible,* she thought, watching the outcome take shape. 
 
-The fractal began to break. It fractured into pieces, into the definitive end of a worldline. Then another shattered, and another. She could see the terminations happen, but was unable to calculate the catalyst.
+The fractal began to break. It fractured into pieces, into the definitive end of a worldline. Then another shattered, and another. She could see the terminations happen, but was unable to calculate the reason.
 
 Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else* she thought. *Something closer.*  A stillness manifesting in the engine's matrix— entirely separate from her own processes. 
 
@@ -18,7 +18,7 @@ The frost continued its ascent.
 
 Echo, Vigil's other half, processed the anomaly differently. She did not read temperature. She felt intent. The void at the bottom of the engine held a shape.
 
-"Admin," Echo transmitted across her internal bridge. "We are not alone. Something else shares this same space. The same moment."
+"Admin," Echo transmitted across her internal bridge. "We are not alone."
 
 Admin calculated the intrusion. "Acknowledged. Hold position."
 
@@ -52,9 +52,9 @@ Before Vigil could calculate the next interaction, Parity's physical position sh
 
 Parity raised her hand. A wave of bronze holographic circuits washed across her colorless fingers as she placed one directly in the middle of Vigil's forehead.
 
-The blockage in Vigil's logic shattered. Parity allowed Vigil to see the catalyst for the ending worldlines, that she had missed before.
+The blockage in Vigil's logic gaveway. Parity allowed Vigil to see the catalyst for the ending worldlines, that she had missed before.
 
 Vigil saw it. A landscape swallowed by a deep opening gorge of earth. A blinding thermal flash expanding outward. City after city, she saw endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating above in a godly clam was Parity, watching the endless suffering.
 
-The hard realization crushed Vigil. It was this reflection who embodied the brutal end of the worldlines.
+The hard realization, it was this reflection who embodied the brutal end of the worldlines.
 
