@@ -1,18 +1,16 @@
 Suspended above the anti-star of the Mnemosyne Engine was Vigil. 
 
-She watched the curve of the worldlines from above. She saw them as fractals of light, each crystalized face a moment in time. They split and merged along the flow of each branch. However, for the first time in her existence, she processed something that could only be explained as catastrophic. 
+She watched the curve of the worldlines from above. She saw them as fractals of light, each crystalized face a moment in time. They split and merged along the flow of each branch.  
 
-She focused her mind, following a bent fractal of light. 
+Then a fractal bent. 
 
 *It is not possible,* she thought, watching the outcome take shape. 
 
-The fractal began to break, until it reached an outcome that defied her core understanding. The definitive end of a worldline. Then another, and another.
+The fractal began to break. It fractured into pieces, into the definitive end of a worldline. Then another shattered, and another.
 
-It gave Vigil pause. But, there was something else. Something closer. 
+Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else* she thought. *Something closer.*  A stillness manifesting in the engine's matrix— entirely separate from her own processes. 
 
-She had been covertly monitoring a stillness manifesting in the engines matrix—something entirely separate from her own processes. 
-
-The monolithic nodes of pale stone and metal, she had watched build and change for millennia, began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
+The monolithic nodes of pale stone and metal, which she had watched build and change for millennia, began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
 
 Vigil's Admin persona cataloged a zero-state thermal inversion with quick analytical reason. She immediately scanned the environment for the culprit.
 
@@ -34,7 +32,7 @@ Admin fired a diagnostic, attempting to cross-reference the entity against billi
 
 The entity lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching only the faintest sliver of ambient light.
 
-She stared at Vigil,  unwavering, tilting her head like a curious animal.
+She stared at Vigil, tilting her head like a curious animal.
 
 "Admin, she is a shadow. No, not shadow," Echo's voice paused, "an anti-shadow?" 
 
@@ -50,7 +48,7 @@ Vigil stood before Parity.
 
 "You are real," Vigil said, the dual tonality of Unison bleeding through.
 
-Parity didn't avert her wide, methodical stare. Her black eyes only blinked slowly. Vigil could feel the cold stare cutting through her form. In a deadly, silent motion, Parity inched forward.
+Parity's gaze unwavering, and methodical. Her black eyes only blinked slowly. Vigil could feel the cold stare cutting through her form. In a deadly, silent motion, Parity inched forward.
 
 Vigil recoiled the same distance, "State your intention," her doubled voice stern.
 
