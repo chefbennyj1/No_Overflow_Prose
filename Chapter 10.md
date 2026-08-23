@@ -32,7 +32,7 @@ Bronze holographic circuitry seared across her skin. She possessed an unreadable
 
 Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing.  Her voice transmitted across the internal bridge, "She's not in the simulation. We cannot predict her."
 
-The entity lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching only the faintest sliver of ambient light.
+The entity lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light.
 
 She stared at Vigil, tilting her head like a curious animal.
 
@@ -46,7 +46,7 @@ Vigil stood before Parity.
 
 "You are real," Vigil said, the dual tonality of her two personas bleeding through.
 
-Vigil studied Parity's unwavering, and methodical gaze. The cold stare cut through her form. Parity's black eyes blinked slowly.
+Vigil studied her unwavering, and methodical gaze. The cold stare cut through her form. Parity's black eyes blinked slowly.
 
 In a deadly, silent motion, Parity inched forward.
 
@@ -64,9 +64,9 @@ A landscape swallowed by a deep gorge of earth. A blinding thermal flash expandi
 
 It was this reflection who embodied the brutal end of the worldlines.
 
-Vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. Parity locked a stare on the singularity's event horizon.
+Vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. Parity turned her head and locked a stare on the singularity's event horizon.
 
-"Cease your current action," Vigil said, her parallel voice sharp. "The horizon is not—" She paused as Parity raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
+"Cease your current action," Vigil said, her parallel voice sharp. "The horizon is not—," She paused as Parity raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
 
 Vigil knew the recursive energy of the singularity was unalterable. She had witnessed the outside world's feeble shutdown commands fail against it. She herself could not control it.
 
