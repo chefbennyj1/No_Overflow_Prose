@@ -38,7 +38,7 @@ She stared at Vigil, tilting her head like a curious animal.
 
 "A Parity." Admin's analytical tone spoke over her second half.
 
-An exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
+The engine that had produced Vigil also produced the conditions for her inverse. An exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
 
 Vigil stood before Parity.
 
