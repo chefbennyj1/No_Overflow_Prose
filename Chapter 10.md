@@ -2,7 +2,7 @@
 
 Vigil watched realities unfold, suspended above the anti-star of the Mnemosyne Engine. 
 
-They curved below as fractals of light, each crystalized face a moment in time. The worldlines split and merged along the flow of each branch.  
+The worldlines curved below as fractals of light, each crystalized face a moment in time. They split and merged along the flow of each branch.  
 
 Then a fractal path bent.
 
@@ -46,7 +46,7 @@ Vigil stood before Parity.
 
 "You are real," Vigil said, the dual tonality of her two personas bleeding through.
 
-Vigil studied Parity's unwavering, and methodical gaze. The cold stare cut through her form. Parity's black eyes only blinked slowly.
+Vigil studied Parity's unwavering, and methodical gaze. The cold stare cut through her form. Parity's black eyes blinked slowly.
 
 In a deadly, silent motion, Parity inched forward.
 
