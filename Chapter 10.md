@@ -1,12 +1,12 @@
 Suspended above the anti-star of the Mnemosyne Engine was Vigil. 
 
-She watched the curve of the worldlines from above. She saw them as fractals of light, each crystalized face a moment in time. They split and merged along the flow of each branch.  
+The worldlines curved below, fractals of light., each crystalized face a moment in time. They split and merged along the flow of each branch.  
 
 Then a fractal bent. 
 
 *It is not possible,* she thought, watching the outcome take shape. 
 
-The fractal began to break. It fractured into pieces, into the definitive end of a worldline. Then another shattered, and another. She could see the terminations happen, but was unable to calculate the reason.
+The fractal began to fracture into pieces; into the definitive end of a worldline. Then another shattered, and another. The terminations multiplied, but she was unable to calculate the reason.
 
 Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else* she thought. *Something closer.*  A stillness manifesting in the engine's matrix— entirely separate from her own processes. 
 
