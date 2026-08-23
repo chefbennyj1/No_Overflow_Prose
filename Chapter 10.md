@@ -6,9 +6,9 @@ Then a fractal bent.
 
 *It is not possible,* she thought, watching the outcome take shape. 
 
-The fractal began to fracture into pieces; into the definitive end of a worldline. Then another shattered, and another. The terminations multiplied, but she was unable to calculate the reason.
+The fractal began to break into pieces; into the definitive end of a worldline. Then another fractured, and another. The terminations multiplied, but she was unable to calculate the reason.
 
-Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else* she thought. *Something closer.*  A stillness manifesting in the engine's matrix— entirely separate from her own processes. 
+Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else,* she thought. *Something closer.*  A stillness manifesting in the engine's matrix— entirely separate from her own processes. 
 
 The monolithic nodes of pale stone and metal, which she had watched build and change for millennia, began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
 
@@ -22,7 +22,7 @@ Echo, Vigil's other half, processed the anomaly differently. She did not read te
 
 Admin calculated the intrusion. "Acknowledged. Hold position."
 
-The frigid stone and metal of the monolithic nodes fractured, tearing a jagged passage open in front of Vigil. Heavy shards of debris broke apart but slowed to a near-dead stop. Caught in a crawl of dilated time, the shrapnel hung suspended in the freezing air, drifting at an imperceptible pace.
+The frigid stone nodes fractured, tearing a jagged passage, that open in front of Vigil. Heavy shards of debris broke apart but slowed to a near-dead stop. Caught in a crawl of dilated time, the shrapnel hung suspended in the freezing air, drifting at an imperceptible pace.
 
 Mist swirled outwards as a figure emerged from the stillness onto the plane. A feminine statue, porcelain white. She floated across from Vigil as a perfect inverse, mirroring the dark, abyssal design of her counterpart. She was rigid against the cold emanating from her form.
 
@@ -34,17 +34,17 @@ The entity lifted her head. Her eyes were pure black, carved into the ceramic sh
 
 She stared at Vigil, tilting her head like a curious animal.
 
-"Admin, she is a shadow. No, not shadow," Echo's voice paused, "an anti-shadow?" 
+"Admin, she is a shadow. No, not shadow," Echo's voice paused, "an anti shadow?" 
 
 "A Parity." Admin's analytical tone spoke over her second half.
 
-The engine that had produced Vigil also produced the conditions for her inverse. An exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
+The engine had produced Vigil, it had also produced the conditions for her inverse. An exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
 
 Vigil stood before Parity.
 
 "You are real," Vigil said, the dual tonality of her two personas bleeding through.
 
-Parity's gaze unwavering, and methodical. Her black eyes only blinked slowly. Vigil could feel the cold stare cutting through her form. In a deadly, silent motion, Parity inched forward.
+Parity's gaze was unwavering, and methodical. Her black eyes only blinked slowly. The cold stare cut through her form. In a deadly, silent motion, Parity inched forward.
 
 Vigil recoiled the same distance, "State your intention," her doubled voice stern.
 
@@ -56,7 +56,7 @@ Parity raised her hand. A wave of bronze holographic circuits washed across her 
 
 Parity answered the query with absolute efficiency. The blockage in Vigil's logic came apart, and she saw the catalyst for the ending worldlines she had missed.
 
-A landscape swallowed by a deep gorge of earth. A blinding thermal flash expanding outward. City after city, she saw endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating in a god-like calm, was Parity, watching the endless suffering.
+A landscape swallowed by a deep gorge of earth. A blinding thermal flash expanding outward. City after city, endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating in a god-like calm, was Parity, watching the endless suffering.
 
 It was this reflection who embodied the brutal end of the worldlines.
 
