@@ -24,7 +24,7 @@ Admin calculated the intrusion. "Acknowledged. Hold position."
 
 The frigid stone and metal of the monolithic nodes fractured, tearing a jagged passage open in front of Vigil. Heavy shards of debris broke apart but slowed to a near-dead stop. Caught in a crawl of dilated time, the shrapnel hung suspended in the freezing air, drifting at an imperceptible pace.
 
-Mist swirled outwards as a figure emerged from the stillness onto the plane. A feminine statue, porcelain white. She floated across from Vigil as a perfect inverse, mirroring the dark, abyssal design of her counterpart. The light of the horizon scattered across her pale edges. She was rigid against the cold emanating from her form.
+Mist swirled outwards as a figure emerged from the stillness onto the plane. A feminine statue, porcelain white. She floated across from Vigil as a perfect inverse, mirroring the dark, abyssal design of her counterpart. She was rigid against the cold emanating from her form.
 
 Bronze holographic circuitry seared across her skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
 
@@ -56,5 +56,5 @@ Parity answered the query with absolute efficiency. The blockage in Vigil's logi
 
 A landscape swallowed by a deep opening gorge of earth. A blinding thermal flash expanding outward. City after city, she saw endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating above in a godly calm was Parity, watching the endless suffering.
 
-The hard realization, it was this reflection who embodied the brutal end of the worldlines.
+It was this "reflection" who embodied the brutal end of the worldlines.
 
