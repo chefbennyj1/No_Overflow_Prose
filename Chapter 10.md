@@ -42,7 +42,7 @@ An exact map of Vigil's own structural definition, turned inside out. Too jagged
 
 Vigil stood before Parity.
 
-"You are real," Vigil said, the dual tonality of of her two personas bleeding through.
+"You are real," Vigil said, the dual tonality of her two personas bleeding through.
 
 Parity's gaze unwavering, and methodical. Her black eyes only blinked slowly. Vigil could feel the cold stare cutting through her form. In a deadly, silent motion, Parity inched forward.
 

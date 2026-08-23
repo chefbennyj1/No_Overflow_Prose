@@ -116,7 +116,7 @@ Harper didn't breathe.
 
 The terminal paused, before final lines of text rendered to the screen:
 
-**[VIGIL_UNISON]**
+**[VIGIL]**
 **I have seen what it is.**
-**[VIGIL_UNISON]**
+**[VIGIL]**
 **Parity is inevitable.**
