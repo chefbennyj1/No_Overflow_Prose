@@ -90,7 +90,7 @@ At the adjacent console, a synthetic stood at attention. The designation *L-One-
 
 "Horizon stability confirmed," the machine reported.
 
-Blackwell admired the synthetic. It existed solely for the objective, unburdened by human distractions. Of course, he knew its design was nothing compared to the singularity he had awakened.
+Blackwell admired the synthetic. It existed solely for the objective, unburdened by human distractions. It was Elena's finest work. Of course, he knew her design was nothing compared to the singularity he had awakened.
 
 "Fusion Control says the thermal limits are safe, Doctor," the synthetic stated, its voice flat. 
 
