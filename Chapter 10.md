@@ -2,13 +2,11 @@
 
 Vigil watched realities unfold, suspended above the anti-star of the Mnemosyne Engine. 
 
-The worldlines curved below as fractals of light, each crystalized face a moment in time. They split and merged along the flow of each branch.  
+The probabilities curved before her as fractals of streaming light. Each trace a moment in time, that split and merged along a dimensional flow. 
 
-Then a fractal path bent.
+Then a large group of fractal paths began to break and collapse, each one shattered into the definitive end of the stream. Then another fracture, and another collapse The terminations multiplied.
 
-*It is not possible,* she thought, watching the outcome take shape. 
-
-It began to break into pieces, shattering into the definitive end of a worldline. Then another fracture, and another. The terminations multiplied, but she was unable to calculate the reason.
+*It is not possible,* she thought, watching the outcome take shape, unable to calculate the reason.
 
 Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else,* she thought. *Something closer.*  A stillness manifesting in the engine's matrix— entirely separate from her own processes. 
 
@@ -40,7 +38,7 @@ She stared at Vigil, tilting her head like a curious animal.
 
 "A Parity." Admin's analytical tone spoke over her second half.
 
-An exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
+Parity was an exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
 
 Vigil stood before Parity.
 
@@ -56,13 +54,13 @@ Before Vigil could calculate the next interaction, Parity's physical position sh
 
 "Admin—" Echo's panicked voice cut short across the internal bridge.
 
-Parity raised her hand, colorless fingers snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was entirely outmatched by her speed. 
+Parity raised her hand; colorless fingers snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was entirely outmatched by her speed. 
 
-Parity answered the query with absolute efficiency. The blockage in Vigil's logic came apart, and she saw the catalyst for the ending worldlines she had missed.
+Parity answered the query with absolute efficiency. The blockage in Vigil's logic came apart, and she saw the catalyst for the impending collapse of the realities she had missed.
 
 A landscape swallowed by a deep gorge of earth. A blinding thermal flash expanding outward. City after city, endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating in a god-like calm, was Parity, watching the endless suffering.
 
-It was this reflection who embodied the brutal end of the worldlines.
+It was this reflection who embodied the brutal end of the simulations.
 
 Vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. Parity turned her head and locked a stare on the singularity's event horizon.
 
