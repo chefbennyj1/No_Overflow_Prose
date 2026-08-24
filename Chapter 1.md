@@ -8,11 +8,11 @@ There was no need to turn around to know he was no longer alone. The faint hiss 
 
 Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
-Elena Marlowe stood in the threshold, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the dark atrium behind her. Her natural, shoulder-length hair framed her face. She stood looking at Blackwell, her hands tightly gripping her data-pad.
+Elena Marlowe stood in the terrace enterance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the dark atrium behind her. Her natural, shoulder-length hair framed her face. She stood looking at Blackwell, her hands tightly gripping her data-pad.
 
 "Yes, Doctor Blackwell," she replied. Her golden eyes wide as they caught the reflection of the doors holographics.
 
-*Nervous*,  Blackwell thought, *and she should be*.  They were about to attempt something that hadn't been done in the history of modern quantum engineering. 
+*Nervous*,  Blackwell thought, *and she should be*.  They were about to succeed in something  never before attempted in the history of modern quantum engineering.
 
 "The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But, you've got the three hundred and twenty terawatts," She said.
 
@@ -90,7 +90,7 @@ At the adjacent console, a synthetic stood at attention. The designation *L-One-
 
 "Horizon stability confirmed," the machine reported.
 
-Blackwell admired the synthetic. It existed solely for the objective, unburdened by human distractions. That ruthless efficiency was why he allowed Elena to share his pedestal. She had engineered the construct's cognitive and behavioral matrix, forging a mind as uncompromising as his own. Of course, he knew her design was nothing compared to the singularity he had awakened.
+Blackwell admired the synthetic. It existed solely for the objective, unburdened by human distractions. Elena's finest work, of course, he knew her design was nothing compared to the singularity he had awakened.
 
 "Fusion Control says the thermal limits are safe, Doctor," the synthetic stated, its voice flat. 
 
