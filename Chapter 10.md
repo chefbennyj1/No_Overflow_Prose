@@ -56,7 +56,7 @@ Before Vigil could calculate the next interaction, Parity's physical position sh
 
 "Admin—" Echo's panicked voice cut short across the internal bridge.
 
-Parity raised her hand. A wave of bronze holographic circuits washed across her colorless fingers as they snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was entirely outmatched by her speed. 
+Parity raised her hand, colorless fingers snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was entirely outmatched by her speed. 
 
 Parity answered the query with absolute efficiency. The blockage in Vigil's logic came apart, and she saw the catalyst for the ending worldlines she had missed.
 
@@ -66,7 +66,7 @@ It was this reflection who embodied the brutal end of the worldlines.
 
 Vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. Parity turned her head and locked a stare on the singularity's event horizon.
 
-"Cease your current action," Vigil said, her parallel voice sharp. "The horizon is not—," She paused as Parity raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
+"Cease your current action," Vigil said, the parallel voices of Admin and Echo, sharp. "The horizon is not—," She paused as Parity raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
 
 Vigil knew the recursive energy of the singularity was unalterable. She had witnessed the outside world's feeble shutdown commands fail against it. She herself could not control it.
 
