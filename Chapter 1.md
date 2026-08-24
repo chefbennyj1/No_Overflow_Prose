@@ -1,4 +1,4 @@
-Silas Blackwell took a drag from his cigarette, the ember flaring against the yellow-tinged blues and ivory of the early morning sky. He was an erratic figure; a mop of white hair blew untamed in the morning wind. The sharp lines of his dark vest, collared shirt, and tie gave a sense of reverence, despite his otherwise unruly nature. Over it all, he wore a lab coat that whipped around his legs in the cold air. He kept his expression purposefully unreadable behind a pair of circular dark glasses. Despite the calculated perfection required of his station, the cigarette held between his tobacco-stained fingers betrayed an obsessive energy. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
+Silas Blackwell took a drag from his cigarette, the ember flaring against the blues and ivory of the early morning sky. A mop of white hair blew untamed in the morning wind, contrasting the sharp, reverent lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He stood behind a pair of circular dark glasses, breathing a thin stream of smoke back into the wind. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
 He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
@@ -8,11 +8,15 @@ There was no need to turn around to know he was no longer alone. The faint hiss 
 
 Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
-Elena Marlowe stood in the threshold, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the dark atrium behind her. Her natural, shoulder-length hair framed her face. She stood looking at Blackwell, a hint of terrified excitement in her eyes.
+Elena Marlowe stood in the threshold, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the dark atrium behind her. Her natural, shoulder-length hair framed her face. She stood looking at Blackwell, her hands tightly gripping her data-pad.
 
-"Yes, Doctor Blackwell," she replied. Her golden eyes caught the reflection of the doors holographics—striking, but Blackwell viewed them as precision corporate engineering. "The Mnemosyne Engine is connected to the city's main fusion reactor. You have three hundred and twenty terawatts at your disposal."
+"Yes, Doctor Blackwell," she replied. Her golden eyes wide as they caught the reflection of the doors holographics.
 
-Blackwell raised the cigarette to his lips one last time, inhaling until the end burned close to the filter. He held the smoke in his lungs for a long second, then exhaled and dropped the butt over the edge of the railing.
+*Nervous*,  Blackwell thought, *and she should be*.  They were about to attempt something that hadn't been done in the history of modern quantum engineering. 
+
+"The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But, you've got the three hundred and twenty terawatts," She said.
+
+Blackwell raised the cigarette to his lips one last time, inhaling until the end burned close to the filter. He held the smoke in his lungs for another long second, then exhaled and dropped the butt over the edge of the railing.
 
 The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the lower city. The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima, they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
