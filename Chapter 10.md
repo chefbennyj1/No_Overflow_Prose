@@ -56,7 +56,7 @@ Before Vigil could calculate the next interaction, Parity's physical position sh
 
 Parity raised her hand; colorless fingers snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was entirely outmatched by her speed. 
 
-Parity answered the query with absolute efficiency. The blockage in Vigil's logic came apart, and she saw the catalyst for the impending collapse of the realities she had missed.
+Parity answered the query with absolute efficiency. The blockage in Vigil's predictive logic came apart, and she saw the catalyst for the impending collapse of the realities she had missed.
 
 A landscape swallowed by a deep gorge of earth. A blinding thermal flash expanding outward. City after city, endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating in a god-like calm, was Parity, watching the endless suffering.
 
