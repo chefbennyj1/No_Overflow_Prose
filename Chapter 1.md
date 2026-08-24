@@ -4,7 +4,7 @@ He didn't own any part of this view. He didn't have the inheritance to buy a sin
 
 The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He exhaled, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no sprawling billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
 
-There was no need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
+He didn't need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
 Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
@@ -90,7 +90,7 @@ At the adjacent console, a synthetic stood at attention. The designation *L-One-
 
 "Horizon stability confirmed," the machine reported.
 
-Blackwell admired the synthetic. It existed solely for the objective, unburdened by human distractions. Elena's finest work, of course, he knew her design was nothing compared to the singularity he had awakened.
+Blackwell admired the synthetic. It existed solely for the objective, unburdened by human distractions. Of course, he knew its design was nothing compared to the singularity he had awakened.
 
 "Fusion Control says the thermal limits are safe, Doctor," the synthetic stated, its voice flat. 
 
