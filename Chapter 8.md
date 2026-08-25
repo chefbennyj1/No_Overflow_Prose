@@ -86,19 +86,14 @@ She frowned, pulling up the network log. "The system just queried us back."
 
 Harper looked up at her, startled. "Rin, this rig is air-gapped."
 
-Rin leaned closer. The terminal was scrolling:
-
-**[NovOS Kernel]**
-**CRITICAL SECURITY ALERT**
-**[NovOS Kernel]**
-**Unexpected syscall from PID 0x1A4F**
-**[VIGIL]**
+Rin leaned closer. The terminal was scrolling: security alerts, burying the  log under waves of unexpected system calls. Then the scrolling stopped.
+A single new string printed at the end of the screen: **[VIGIL]**
 
 The cursor blinked at the end of the line.
 
 "Vigil?" Harper didn't reach for her collarbone. Her hand stayed flat against the desk. "It's messaging us."
 
-Rin felt a nervous laugh catch in her throat as new text printed across the black screen:
+Rin felt a nervous laugh catch in her throat as new text rendered across the black screen:
 
 **[VIGIL]**  
 **Hello Rin.** 
@@ -120,3 +115,4 @@ The terminal paused, before final lines of text rendered to the screen:
 **I have seen what it is.**
 **[VIGIL]**
 **Parity is inevitable.**
+
