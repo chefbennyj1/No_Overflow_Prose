@@ -2,7 +2,7 @@ On any given day, the ambient temperature of the Dead Circuits was a humid, trap
 
 The smog didn't touch the tower. The dense fog that choked the rest of the upper city broke around it, creating a strange cylinder of clear air rising  upward. 
 
-Harper tipped her head back. She couldn't see the actual top of the building from street level. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the night sky. The peaks of the surrounding skyscrapers poked through the smog above her.
+Harper tipped her head back. She couldn't see the actual top of the building from street level. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the night sky. The peaks of the surrounding skyscrapers lost in the smog above her.
 
 She stared up through the clearing. For the first time in years, she saw stars.
 
@@ -22,8 +22,6 @@ Harper looked at the map. "Tunnels?"
 
 Harper smiled. "That's my girl. Always gotta plan," she said, her eyes lingering on Rin. "Let's go."
 
-Rin's smile faded. She lowered her gaze. 
-
 They descended the concrete steps into the Takeda-Holden Transit Terminal. 
 
 The stations interchanges fell four tiers below them, surrounded by arches of polished white stone and chrome. Corporate executives, Renewal office workers, and high-end synthetics packed the escalators. The floors were black marble, extending like spilled ink across the terminal.
@@ -35,18 +33,18 @@ The herd of corporate suits moved quickly across the platforms, racing to get ou
 
 They wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. Rin's heavy boots scuffed against the marble. The wealthy commuters actively parted around them, casting disgusted glances over their hand-held devices at the two girls dirtying the transit hub.
 
-They both stuck out. Badly.
+They both stuck out. Badly. And worse, neither of them carried the New Veridia IDs required to legally stand on the upper-grid platform.
 
 Harper's eyes darted toward the far end of the platform. Beside her, Rin was scanning the crowd. Then she saw them. Renewal agents. Everywhere. 
 Their heavy black armor obscured their faces as they patrolled the marble floors in pairs. 
 
 "Oh, Rin, darlin'," Harper's voice cracked under the sudden tension. She laid the drawl on thick, a nervous habit she leaned into whenever the pressure spiked. "You didn't say it'd be crawling with Renewal agents."
 
-Harper’s hand drifted up to her collarbone. Her fingers found the jagged edge of her scar. She swallowed hard, her heart hammering against her chest.
+Harper’s hand drifted up to her collarbone. Her fingers found the jagged edge of her scar. She swallowed hard.
 
 There was a sudden pressure drop in the terminal, their ears popping as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. 
 
-The train tore into the terminal, reversing its magnetic polarity to kill its momentum. It came to a dead stop with a quick, unnatural silence. The only impact was physical—a violent gust of returning air. The pressure blasted across the platform. It whipped at the tailored long coats and clothing of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess.
+The train tore into the terminal, reversing its magnetic polarity to kill its momentum. It came to a dead stop, quick and silence. The only impact was physical—a violent gust of returning air. The pressure blasted across the platform. It whipped at the tailored long coats and clothing of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess.
 
 As the doors opened on the train, and the switch of commuters began, an amplified voice cut through the sound of the station.
 
@@ -56,7 +54,7 @@ Renewal Agent.
 
 Against one of the terminal pillars near the track, two agents stood speaking with a man in a tailored black suit. He raised a hand, pointing directly toward their section of the platform. The two agents turned their heads, their opaque visors scanning the crowd.
 
-"Oh honey, we are in the wrong place. This is goin' sideways," Harper whispered, fixing her eyes to the floor.
+"Oh, we are in the wrong place. This is goin' sideways," Harper whispered, fixing her eyes to the floor.
 
 Rin leaned in close. "Hey," her voice was steady. "Stay calm. Try to blend in."
 
@@ -68,9 +66,9 @@ Across the glassy black marble, the two agents began advancing through the crowd
 
 Rin looked directly into her eyes. Pressing a finger to her lips, she shook her head slowly.
 
-Harper followed Rin's gaze. The agents hadn't locked onto them. They hit their stride, moving past Harper's peripheral vision toward a young man standing a few yards away. He was dressed like Harper and Rin—frayed clothes, scuffed shoes, equally out of place. He looked terrified.
+Harper followed Rin's gaze. The agents hadn't locked onto them. They hit their stride, moving past Harper's peripheral vision toward a young man standing a few yards away. He was dressed like Harper and Rin—frayed clothes, scuffed shoes, equally out of place. 
 
-The young man lifted his head to see the agents moving toward him. Stolen wallets and other paraphernalia dropped from his hands, falling to the floor at his feet.
+The young man lifted his head to see the agents moving toward him. He looked terrified. Stolen wallets and other paraphernalia dropped from his hands, falling to the floor at his feet.
 
 "No, no," Harper breathed, staring at him across the terminal floor. "Don't run."
 
