@@ -12,7 +12,7 @@ They were faint, competing with the polluted light of the city, but they were th
 
 Harper broke her gaze from the sky and looked back down at the street. She turned her attention to Rin, who stood just steps away, her jacket collar turned up against the localized cold. 
 
-"We're never gettin' through that lobby," Harper said, her voice cynical. The main concourse of the building was a fortress, and she knew it. Turnstiles, biometric scanners, and heavily armed Renewal agents flanked every entrance.
+"We're never gettin' through that lobby," Harper said, her voice cynical. The main concourse of the building was a fortress, and she knew it. Turnstiles, scanners, and heavily armed Renewal agents flanked every entrance.
 
 "—Don't need the lobby," Rin replied shaking her head. She pulled a crumpled schematic from her pocket. "Company buildings always have leftover deep storage in the sub-levels. Left over from before the mergers. Back when they stored data the old-fashioned way. Server floors. Sealed up and unused, but the hardlines still touch their network."
 
@@ -38,11 +38,9 @@ They both stuck out. Badly. And worse, neither of them carried the New Veridia I
 Harper's eyes darted toward the far end of the platform. Beside her, Rin was scanning the crowd. Then she saw them. Renewal agents. Everywhere. 
 Their heavy black armor obscured their faces as they patrolled the marble floors in pairs. 
 
-"Oh, Rin, darlin'," Harper's voice cracked under the sudden tension. She laid the drawl on thick, a nervous habit she leaned into whenever the pressure spiked. "You didn't say it'd be crawling with Renewal agents."
+"Oh, Rin, darlin'," Harper's voice cracked under the sudden tension. Her fingers found the jagged edge of her scar on her collarbone. She swallowed hard. "You didn't say it'd be crawling with Renewal agents."
 
-Harper’s hand drifted up to her collarbone. Her fingers found the jagged edge of her scar. She swallowed hard.
-
-There was a sudden pressure drop in the terminal, their ears popping as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. 
+There was a sudden pressure drop in the terminal, their ears popped as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. 
 
 The train tore into the terminal, reversing its magnetic polarity to kill its momentum. It came to a dead stop, quick and silence. The only impact was physical—a violent gust of returning air. The pressure blasted across the platform. It whipped at the tailored long coats and clothing of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess.
 
