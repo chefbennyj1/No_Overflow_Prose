@@ -98,7 +98,7 @@ Rin swiped the blank card through the door's reader. The lock flashed red. The b
 
 "Hurry," Harper said, her eyes locked on the armored agents. 
 
-A sharp beep chirped from the exposed motherboard. The decryption caught the sequence. 
+A sharp beep chirped from the SBC, the small green crystal display read a series of hashed numbers and letters. 
 
 Rin dragged the card upward through the reader a second time. The magnetic lock disengaged with a heavy, mechanical clack. Rin shoved her shoulder against the steel door, forcing it open wide enough to slip through. She grabbed Harper by the jacket sleeve and yanked her into the dark. 
 
