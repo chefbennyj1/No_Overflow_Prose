@@ -50,13 +50,13 @@ Harper looked in the direction of the voice. It was a voice she new all to well.
 
 Renewal Agent. 
 
-Against one of the terminal pillars near the track, two agents stood speaking with a man in a tailored black suit. He raised a hand, pointing directly toward their section of the platform. The two agents turned their heads, their opaque visors scanning the crowd.
+Against one of the terminal pillars near the track, two agents stood speaking with a man in a tailored black suit. He raised a hand, pointing directly toward their section of the platform. The two agents turned their heads, touching the side of their opaque helmets as they scanned the crowd.
 
 "Oh, we are in the wrong place. This is goin' sideways," Harper whispered, fixing her eyes to the floor.
 
 Rin leaned in close. "Hey," her voice was steady. "Stay calm. Try to blend in."
 
-A loud, static-laced voice cut through the mesh of commuter chatter and the low underlying sound of the air circulators. "You. Vagrant. Halt." 
+A loud, static voice cut through the mesh of commuter chatter and the low underlying sound of the air circulators. "You. Vagrant. Halt." 
 
 Across the glassy black marble, the two agents began advancing through the crowd. Harper braced herself, her hand tightening on the strap of her top near her scar. 
 
@@ -72,13 +72,13 @@ The young man lifted his head to see the agents moving toward him. He looked ter
 
 There was a moment of panic. He bolted. 
 
-The agents didn't shout a second warning. They moved with terrifying speed, armored boots pounding against the stone. One of them closed the distance in seconds, driving a heavy shoulder into the thief's spine. The crack of his skull against the marble echoed sharply.
+The agents didn't shout a second warning. They moved with terrifying speed, armored boots pounding against the terminal floor. One of them closed the distance in seconds, driving a heavy shoulder into the thief's spine. The crack of his skull against the marble echoed sharply.
 
 The agent’s knee dropped onto his neck, pinning his face to the floor. The second agent grabbed his wrists and cinched a heavy zip-tie around them, pulling it tight enough to cut circulation. It was ruthless, practiced violence.
 
 Harper couldn't look away. She had seen this many times, but it never got easier.
 
-The crowd of wealthy commuters didn't pause. Corporate executives stepped around the young man without taking their eyes off their devices. To the upper city, it wasn't brutality. It was an obstacle on the morning commute.
+The crowd of wealthy commuters didn't pause. Corporate executives stepped around the young man without taking their eyes off their devices. The brutality lost to the upper city, replaced as an obstacle on the morning commute.
 
 "C'mon," Rin said. She hooked her arm through Harper's, pulling her forward. "Now's our chance."
 
