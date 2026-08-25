@@ -8,7 +8,7 @@ She banged the metal again.
 
 The deadbolt threw with a sharp mechanical clank. The door swung inward just enough to reveal Harper.
 
-Smoke curled out through the gap before she did. Harper stood in the doorway, a cigarette burning low between two fingers. She wore a faded red tank top and low-riding denim. A thin scar tracing her collarbone — old, pale, left bare like she'd never once considered covering it. Her dark roots had grown halfway down her scalp before surrendering to frayed, electric-blue ends that fell loose around her face.
+Smoke curled out through the gap before she did. Harper stood in the doorway, a cigarette burning between two fingers. She wore a faded red tank top and low-riding denim. A thin scar tracing her collarbone — old, pale, left bare like she'd never once considered covering it. Her dark roots had grown halfway down her scalp before frayed, electric-blue ends that fell loose around her face.
 
 She leaned into the frame, brown eyes tracking down the length of Rin's soaked jacket and back up again.
 
@@ -58,7 +58,7 @@ Harper didn't answer. Scrolling code reflected in her eyes. The lazy warmth in h
 
 "Hold your horses, I can crack anything." A flash of defensive pride cut through her voice. "This account has R-and-D level access, Rin." She glanced back over her shoulder. "Whose account did you hack?"
 
-Her hand lifted off the keyboard. "Whoa." A cascade of files spilled open across the screen.
+Her hand lifted off the keyboard. "Whoa." A wave of files spilled open across the screen.
 
 Rin heard her muttering to herself as she read.
 
@@ -70,7 +70,7 @@ Rin heard her muttering to herself as she read.
 
 "What?" Rin didn't like it when Harper lost focus.
 
-She turned her chair to face Rin, staring in silence before she spoke again. "A singularity, Rin." Harper took a slow long sip of her coffee, looking directly into Rin's eyes. "This project Mnemosyne. They've built a fucking singularity in the middle of the city." she said.
+She turned her chair to face Rin, staring in silence before she spoke again. "A singularity, Rin." Harper took a slow long sip of her coffee, looking directly into Rin's eyes. "This project Mnemosyne. They've built a fucking black hole in the middle of the city." she said.
 
 "They must know I have it." 
 
@@ -78,7 +78,7 @@ Harper laughed, short and humorless. "They don't know it was you, sweet-pea. Som
 
 She paused. "It won't take long before they find you." Her eyes sharpened. "And anyone you're with. Aw, hell."
 
-An alert flashed across her screen, Harper turned back to her screen, her face washed in the terminal light. "What in the hotwired hell?"
+An alert flashed across her screen, Harper turned back to it, her face washed in the terminal light. "What in the hotwired hell?"
 
 She frowned, pulling up the network log. "The system just queried us back."
 
