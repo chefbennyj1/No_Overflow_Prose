@@ -62,15 +62,15 @@ Her hand lifted off the keyboard. "Whoa." A cascade of files spilled open across
 
 Rin heard her muttering to herself as she read.
 
-"Just a little more than power routing keys, Rin." Something shifted in Harper's face.
+"— a little more than power routing keys, Rin." Something shifted in Harper's face.
 
-"I know. The terminal was rendering a wireframe of a Takeda-Holden tower. It matched a building right out—"
+"I know. It was a company tower. It matched a building right out—"
 
-"This isn't a building," Harper interrupted. The blue glow of the monitors leached the warmth out of her face. "It's a map of an artificial neural network, training on a processor scaled to the size of a skyscraper. The sheer mass of it... wait... this isn't just a... Jesus," she stopped short.
+"This isn't a building," Harper interrupted. The blue glow of the monitors leached the warmth out of her face. "It's a training processor. Look at the size of it! Wait—," she stopped short, "This isn't just a—," her eyes wandered the screen, "Jesus." 
 
 "What?" Rin didn't like it when Harper lost focus.
 
-She turned her chair to face Rin, staring in silence before she spoke again. "It's a singularity." Harper took a sip of her coffee. "The project file is called Mnemosyne."
+She turned her chair to face Rin, staring in silence before she spoke again. "A singularity, Rin." Harper took a slow long sip of her coffee, looking directly into Rin's eyes. "This project Mnemosyne. They've built a fucking singularity in the middle of the city." she said.
 
 "They must know I have it." 
 
@@ -78,9 +78,9 @@ Harper laughed, short and humorless. "They don't know it was you, sweet-pea. Som
 
 She paused. "It won't take long before they find you." Her eyes sharpened. "And anyone you're with. Aw, hell."
 
-An alert flashed across her screen, washing Harper's face in stark red light. "What in the hotwired hell?"
+An alert flashed across her screen, Harper turned back to her screen, her face washed in the terminal light. "What in the hotwired hell?"
 
-Harper frowned, pulling up the network log. "The system just queried us back."
+She frowned, pulling up the network log. "The system just queried us back."
 
 "Why would you open those files on a connected rig?" Rin demanded.
 
@@ -92,24 +92,24 @@ Rin leaned closer. The terminal was scrolling:
 **CRITICAL SECURITY ALERT**
 **[NovOS Kernel]**
 **Unexpected syscall from PID 0x1A4F**
-**[VIGIL_CLIENT]**
+**[VIGIL]**
 
 The cursor blinked at the end of the line.
 
-"Vigil client?" Harper didn't reach for her collarbone. Her hand stayed flat against the desk. "It's messaging us."
+"Vigil?" Harper didn't reach for her collarbone. Her hand stayed flat against the desk. "It's messaging us."
 
 Rin felt a nervous laugh catch in her throat as new text printed across the black screen:
 
-**[VIGIL_CLIENT]**  
+**[VIGIL]**  
 **Hello Rin.** 
-**[VIGIL_CLIENT]** 
+**[VIGIL]** 
 **Hello Harper.**
 
-More text began to fracture across the screen as if multiple processes were fighting for the same output stream:
+More text began to fracture across the screen, dual strings of code fighting to render the exact same thought:
 
-**[VIGIL_ECHO]** 
+**[VIGIL]** 
 **We were not alone.**
-**[VIGIL_ADMIN]**
+**[VIGIL]**
 **Proceed with caution.**
 
 Harper didn't breathe.  
