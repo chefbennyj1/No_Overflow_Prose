@@ -22,11 +22,15 @@ Victor raised the car door open, his breath instantly pluming white in the air. 
 
 The plaza in front of the imposing Takeda-Holden tower was lined with polished, black, concrete statues of mythic gods and goddesses. 
 
-Harlan walked to the edge of the plaza and looked over the railing. He looked down. The thick, choking smog that blanketed Oshima — entirely gone. A towering, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all twenty stories to the lower grid.
+Harlan walked to the edge of the plaza and looked over the railing. 
 
-"Victor," Harlan breathed, his grip tightening on steel rail.
+"Victor, what in the hell is going on? Look," Harlan's voice had the tone that always drew Victors attention.
 
-Victor Graves wasn't going to waste time on the view,  he hated the Upper Grid. He pulled a crushed cigarette from his pocket and lit it, blowing a plume of cheap smoke into the freezing air. He pushed through the heavy glass doors, his damp trench coat dripping onto the pristine marble floor.
+Victor leaned on the rail. He looked down. The thick, choking smog that blanketed Oshima — entirely gone. A towering, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all twenty stories to the lower grid.
+
+Victor Graves wasn't going to waste time on the view,  he hated the Upper Grid. He pulled a crushed cigarette from his pocket and lit it, blowing a plume of cheap smoke into the freezing air. 
+
+He pushed through the heavy glass doors, his damp trench coat dripping onto the pristine marble floor.
 
 ***
 
