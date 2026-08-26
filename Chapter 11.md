@@ -1,4 +1,4 @@
-Victor's car cut through the rain, water droplets beading along the side of the sleek, white paneling.  It howled low over the flooded street, pure white headlights flaring blue against the downpour. No tires, no drag against the asphalt, the quiet whistle of the mag-cushion holding it inches above the road, moving fast.
+Victor's car cut through the thick fog, the damp air beading water along the side of the sleek, white paneling. It howled low over the wet street, pure white headlights flaring blue against the smog. No tires, no drag against the asphalt, the quiet whistle of the mag-cushion holding it inches above the road, moving fast.
 
 Harlan gripped the door handle, knuckles white. "You know driving doesn't have to try and kill the passenger."
 
@@ -12,11 +12,17 @@ Victor didn't slow down.
 
 "Yeah." Victor banked onto the elevated approach feeding into the Towers. "That's the plan."
 
-The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed. Victor brought it to rest outside the tower's entrance, the headlights dimming to black, the hum settling into silence.
+The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Beside the highway, the seamless streak of white alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. All across the skyline, the architectural lighting of the corporate towers were flashing on and off in random sequences. The city grid was buckling under an invisible weight. 
 
-The plaza in front of the imposing Takeda-Holden tower was lined with polished concrete and black statues of roman gods and goddesses. At the end of a long walk way s that snaked through the landscape, the sheer glass entrance to the towers New Veridia level annex was very different from the Oshima entrance twenty stories below. It made the Upper Grid feel like the center of the universe. 
+Victor ignored the abnormalities, bringing the car to rest outside the tower's entrance. The headlights dimmed to black, the car settling into silence.
 
-Victor Graves hated it. He pushed through the heavy glass doors, his wet trench coat dripping onto the pristine marble floor. 
+Harlan stepped out of the passenger side, his breath instantly pluming white in the air. The plaza in front of the imposing Takeda-Holden tower was lined with polished, black, concrete statues of Roman gods and goddesses. 
+
+Harlan walked to the edge of the plaza and looked over the railing. He froze. The thick, choking smog that usually blanketed Oshima was entirely gone. A massive, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all twenty stories to the lower grid.
+
+"Victor," Harlan breathed, his grip tightening on steel rail.
+
+Victor Graves wasn't going to waste time on the view,  he hated the Upper Grid. He pulled a crushed cigarette from his pocket and lit it, blowing a plume of cheap smoke into the freezing, unnaturally clear air. He pushed through the heavy glass doors, his damp trench coat dripping onto the pristine marble floor.
 
 ***
 
@@ -48,11 +54,11 @@ Harlan walked a half-step behind Victor, his eyes scanning the cavernous space. 
 
 The synthetic’s optical sensor whirred softly, a ring of blue light expanding rapidly to map their faces. Before Victor even reached the desk, the synthetic was staring. 
 
-"Good morning, Detective Graves. Officer Harlan," it said, its voice smooth and engineered to be disarming. "Welcome to the Takeda-Holden Corporation."
+"Good morning, Detective Graves. Officer Harlan," it said, its voice smooth and engineered to be disarming. "Welcome to the Takeda-Holden Corporation. Please be advised, this is a clean-air facility. Smoking is strictly prohibited."
 
 Harlan froze, shooting a sideways glance at Victor. The synthetic had scanned and identified them through the glass doors.
 
-Victor didn't slow down. He pulled his Oshima Police Department badge from his coat and slammed it flat against the wood anyway. 
+Victor didn't slow down. He took a long drag, exhaled a cloud of gray smoke over the polished mahogany, and slammed his Oshima Police Department badge flat against the wood. 
 
 "We're here to speak with Doctor Silas Blackwell," Victor said. His voice was hard, carrying none of the machine's programmed warmth. "We have reason to believe he has information relevant to an ongoing investigation."
 

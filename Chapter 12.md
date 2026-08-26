@@ -42,7 +42,7 @@ Their heavy black armor obscured their faces as they patrolled the marble floors
 
 There was a sudden pressure drop in the terminal, their ears popped as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. 
 
-The train tore into the terminal, reversing its magnetic polarity to kill its momentum. It came to a dead stop, quick and silent. The pressure blasted across the platform in a violent gust of returning air.  It whipped at the tailored long coats and clothing of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess.
+The train tore into the terminal, reversing its magnetic polarity to kill its momentum. Sublimated mist hissed and rose from the super-cooled mag-rails as it came to a dead stop, quick and silent. The pressure blasted across the platform in a violent gust of returning air. It whipped at the tailored long coats and clothing of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess.
 
 As the doors opened on the train, and the switch of commuters began, an amplified voice cut through the sound of the station.
 
