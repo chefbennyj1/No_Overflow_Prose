@@ -16,11 +16,11 @@ The rusted scaffolding of the lower grid gave way to clean alloy and glass as th
 
 Victor ignored the abnormalities, bringing the car to rest outside the tower's entrance. The headlights dimmed to black, the car settling into silence.
 
-Victor raised the car door open, his breath instantly pluming white in the air. He stopped for a moment, and letting another breath and analyzing the plumb in the unorthodox cold . Harlan stepped out of the passenger side, his breath instantly fogging white in front of his face. 
+Victor raised the car door open, his breath instantly pluming white in the air. He stopped for a moment, exhaling slowly, analyzing the crystallizing heat in the unorthodox cold. Harlan stepped out of the passenger side, his breath instantly fogging white in front of his face. 
 
-"That hell is it so cold up here for?" Harlan's voice sounded choked in the cool air.
+"—The hell is it so cold up here for?" Harlan's voice sounded choked in the cool air.
 
-The plaza in front of the imposing Takeda-Holden tower was lined with polished, black, concrete statues of Roman gods and goddesses. 
+The plaza in front of the imposing Takeda-Holden tower was lined with polished, black, concrete statues of mythic gods and goddesses. 
 
 Harlan walked to the edge of the plaza and looked over the railing. He looked down. The thick, choking smog that blanketed Oshima — entirely gone. A towering, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all twenty stories to the lower grid.
 
