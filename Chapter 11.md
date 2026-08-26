@@ -1,6 +1,6 @@
-Victor's car cut through the rain like it had somewhere better to be — a sleek, white hull humming low over the flooded street, twin headlights flaring blue against the downpour. No tires, no drag against the asphalt, the quiet howl of the mag-cushion holding it a hand's width above the water, fast enough that the rain never had time to land.
+Victor's car cut through the rain, water droplets beading along the side of the sleek, white paneling.  It howled low over the flooded street, pure white headlights flaring blue against the downpour. No tires, no drag against the asphalt, the quiet whistle of the mag-cushion holding it inches above the road, moving fast.
 
-Harlan gripped the door handle, knuckles pale. "You know they make cars that don't try to kill the passenger."
+Harlan gripped the door handle, knuckles white. "You know driving doesn't have to try and kill the passenger."
 
 Victor didn't slow down.
 
