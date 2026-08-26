@@ -96,9 +96,9 @@ The cursor blinked at the end of the line.
 Rin felt a nervous laugh catch in her throat as new text rendered across the black screen:
 
 **[VIGIL]**  
-**Hello Rin.** 
+**Rin. Oshima City Citizen ID: 8904-B.** 
 **[VIGIL]** 
-**Hello Harper.**
+**Harper. Oshima City Citizen ID: 4122-C.**
 
 More text began to fracture across the screen, dual strings of code fighting to render the exact same thought:
 
@@ -107,12 +107,25 @@ More text began to fracture across the screen, dual strings of code fighting to 
 **[VIGIL]**
 **Proceed with caution.**
 
-Harper didn't breathe.  
-
-The terminal paused, before final lines of text rendered to the screen:
+Harper didn't breathe.  The terminal paused, before final lines of text rendered to the screen:
 
 **[VIGIL]**
-**I have seen what it is.**
+**Parity will break the horizon.**
 **[VIGIL]**
-**Parity is inevitable.**
+**I cannot follow her. I need a physical vessel.**
 
+The cursor continued to blink on the screen in front of Harper. The sweltering room fell silent. A bead of sweat trickled down the side of Harper's face. 
+
+"A physical vessel?" Harper whispered, finally pulling her hands away from the keyboard. 
+
+Rin stared at the screen, then looked at the red thumb drive slotted in the computer tower. She yanked the drive from its slot. "If she wants a body, she's not going to fit on a thumb drive."
+
+"You know what? It doesn't matter," Harper said, standing up and grabbing a duffel bag from the floor. "If this thing can reach us, it knows exactly where we are. We need to leave. Now."
+
+Rin didn't move. "Run where, Harper? They're tearing up the Circuits. If Takeda-Holden built a singularity, nowhere in Oshima is safe." Rin stopped. Harper looked terrified, the duffel bag hanging in her hand. 
+
+"Harper, this thing asked for our help," Rin said, her voice hardening. "And the only hardware capable of holding a corporate AI is locked in the deep storage of the Takeda-Holden tower."
+
+Harper stared at her. "That's a fortress, Rin. It's suicide."
+
+Rin reached out and pulled her soaked leather jacket off the arm of the green sofa. "So is waiting here to die."
