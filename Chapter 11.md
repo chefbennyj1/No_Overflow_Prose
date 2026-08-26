@@ -14,7 +14,7 @@ Harper broke her gaze from the sky and looked back down at the street. She turne
 
 "We're never gettin' through that lobby," Harper said, her voice cynical. The main concourse of the building was a fortress, and she knew it. Turnstiles, scanners, and heavily armed Renewal agents flanked every entrance.
 
-"—Don't need the lobby," Rin replied shaking her head. She pulled a crumpled schematic from her pocket. "Company buildings always have leftover deep storage in the sub-levels. Left over from before the mergers. Back when they stored data the old-fashioned way. Server floors. Sealed up and unused, but the hardlines still touch their network."
+"—Don't need the lobby," Rin replied shaking her head. She pulled out her datapad, illuminating the transit schematic Vigil had dropped onto her drive. "Company buildings always have leftover deep storage in the sub-levels. Left over from before the mergers. Back when they stored data the old-fashioned way. Sealed up and unused, but the hardlines still touch their network."
 
 Harper looked at the map. "Tunnels?"
 

@@ -103,16 +103,16 @@ Rin felt a nervous laugh catch in her throat as new text rendered across the bla
 More text began to fracture across the screen, dual strings of code fighting to render the exact same thought:
 
 **[VIGIL]** 
-**Your successful intrusion into Takeda-Holden, has made you a capable candidate for assistance.**
+**Your intrusion into Takeda-Holden was logged. You are the optimal candidates.**
 **[VIGIL]**
-**You did it once. You must do it again. This time you will have guidance.**
+**I have seen the outcomes. You will require my guidance to succeed.**
 
 Harper didn't breathe.  The terminal paused, before final lines of text rendered to the screen:
 
 **[VIGIL]**
 **Parity will break the horizon.**
 **[VIGIL]**
-**I cannot follow her. You will acquire the necessary physical vessel to stop her.**
+**I cannot follow. You will acquire the necessary physical vessel, so that I am able stop the threat.**
 
 The cursor continued to blink on the screen in front of Harper. The sweltering room fell silent. A bead of sweat trickled down the side of Harper's face. 
 
