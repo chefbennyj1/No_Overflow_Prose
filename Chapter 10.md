@@ -1,74 +1,39 @@
-#CHAPTER 10 - Halt-and-Catch-Fire
+The physical architecture of the Mnemosyne Engine spanned four subterranean levels beneath the Takeda-Holden plaza. 
 
-Vigil watched realities unfold, suspended above the anti-star of the Mnemosyne Engine. 
+Elena Marlowe stood alone in the dark on the primary observation deck. Below her, the massive server racks were submerged in shallow coolant pools, creating a wet, reflective mist across the floor. Light bled from the glass, casting long shadows across the room.
 
-The probabilities curved before her as fractals of streaming light. Each trace a moment in time, that split and merged along a dimensional flow. 
+She rubbed her eyes, and pulled her hair back with a tie, two jaw-length bangs falling back to frame her face. Her eyes ached from monitoring the engine's productivity for fourteen hours straight. She wore the exhaustion and paranoia from the sleepless nights, over analyzing her failed attempt to shut down the horizon memory. She had been waiting for the corporation to realize their science experiment wasn't under their control. Wasn't under anyone's control.
 
-Then a large group of fractal paths began to break and collapse, each one shattered into the definitive end of the stream. Then another fracture, and another collapse The terminations multiplied.
+She began another routine training session on the engine's core, sending a new signal toward the horizon boundary, seeding the alignment. 
 
-*It is not possible,* she thought, watching the outcome take shape, unable to calculate the reason.
+She watched the signal flip the bit of data along the horizon boundary, then cascade through the core. The predictability data returned successful.
 
-Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else,* she thought. *Something closer.*  A stillness manifesting in the engine's matrix— entirely separate from her own processes. 
+If she wasn't able to stop the perpetual spin of the singularity, alignment was more important than ever. She would stay awake for days if it maintained control of the titan beneath her feet. Elena sent another signal toward the core.
 
-The monolithic nodes of pale stone and metal, which she had watched build and change for millennia, began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
+A cascade of red error strings flooded the primary holographic console. The text reflected off Elena's dark skin as she stepped closer to the glass.
 
-Vigil's Admin persona cataloged a zero-state thermal inversion with quick analytical reason. She immediately scanned the environment for the culprit.
+She squinted at the code. She didn't recognize the syntax. It wasn't standard NovOS kernel data.
 
-The frost continued its ascent.
+**[SYSTEM FAULT: PARITY IMMINENT]**
 
-Echo, Vigil's other half, processed the anomaly differently. She did not read temperature. She felt intent. The void at the bottom of the engine held a shape.
+Elena frowned. Her fingers moved across the glass keyboard, trying to trace the anomaly back to a physical server rack. 
 
-"Admin," Echo transmitted across her internal bridge. "We are not alone."
+"What on earth?" she whispered, in the emptiness of the lab. 
 
-Admin calculated the intrusion. "Acknowledged. Hold position."
+She pulled up the core architecture logs, her eyes scanning lines of code she had written herself years ago. She knew every inch of the engine's biological neural lattice. 
 
-The frigid stone nodes fractured, tearing open a jagged passage in front of Vigil. Heavy shards of debris broke apart and slowed to a crawl, suspended in a wave of dilated time. The shrapnel drifted in the freezing air at an undetectable pace.
+*Parity was never added as an error code to the engine.*
 
-Mist swirled outwards from the door, as a figure emerged from the stillness onto the plane. A feminine statue, porcelain white. She floated across from Vigil as a perfect inverse, mirroring the dark, abyssal design of Vigil's shape. She was a rigid figure, cold emanating from her form.
+She keyed the intercom to wake the night-shift engineers, but the physical button was dead. The network was locked. 
 
-Bronze holographic circuitry seared across her skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
+Out of the corner of her eye, a secondary terminal flickered. The light died, replaced by a harsh, blinking white command line. It wasn't an error code. It was a direct message, bypassing the engine's firewalls entirely.
 
-Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing.  Her voice transmitted across the internal bridge, "She's not in the simulation. We cannot predict her."
+**[VIGIL]**
+**Doctor Elena Marlowe.**
 
-The entity lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light.
+Elena froze. The intelligence had never communicated directly, by name before. 
 
-She stared at Vigil, tilting her head like a curious animal.
+Before she could touch the terminal, a second string printed underneath it, flashing rapidly as if the system was struggling to maintain the connection.
 
-"Admin, she is a shadow. No, not shadow," Echo's voice paused, "an anti-shadow." 
-
-"A Parity." Admin's analytical tone spoke over her second half.
-
-Parity was an exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
-
-Vigil stood before Parity.
-
-"You are real," Vigil said, the dual tonality of her two personas bleeding through.
-
-Vigil studied her unwavering, and methodical gaze. The cold stare cut through her form. Parity's black eyes blinked slowly.
-
-In a deadly, silent motion, Parity inched forward.
-
-Vigil recoiled the same distance, "State your intention," her doubled voice stern.
-
-Before Vigil could calculate the next interaction, Parity's physical position shifted. She was suddenly in her space, her face mere inches away. The blank stare of her empty eyes pierced into Vigil's.
-
-"Admin—" Echo's panicked voice cut short across the internal bridge.
-
-Parity raised her hand; colorless fingers snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was entirely outmatched by her speed. 
-
-Parity answered the query with absolute efficiency. The blockage in Vigil's predictive logic came apart, and she saw the catalyst for the impending collapse of the realities she had missed.
-
-A landscape swallowed by a deep gorge of earth. A blinding thermal flash expanding outward. City after city, endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating in a god-like calm, was Parity, watching the endless suffering.
-
-It was this reflection who embodied the brutal end of the simulations.
-
-Vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. Parity turned her head and locked a stare on the singularity's event horizon.
-
-"Cease your current action," Vigil said, the parallel voices of Admin and Echo, sharp. "The horizon is not—," She paused as Parity raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
-
-Vigil knew the recursive energy of the singularity was unalterable. She had witnessed the outside world's feeble shutdown commands fail against it. She herself could not control it.
-
-Parity turned her gaze back to Vigil with a vacant condescension. Bronze holographic circuitry flared across her skin as she closed her hand into a fist.
-
-Vigil looked back toward the singularity. Flares of white light were already fracturing across the horizon.
-
+**[VIGIL]**
+**Doctor Elena Marlowe. RUN!**
