@@ -36,7 +36,7 @@ He pushed through the heavy glass doors, his damp trench coat dripping onto the 
 
 Three floors up, Iris stood on a suspended walkway in the bulding atrium, leaning over to look down at the tall tinted glass of the entrance. 
 
-Her the frantic rhythm of her heart beat hadn't slowed since she found the thesis paper that explained Doctor Blackwell true intension of the Mnemosyne Engine. The physics were breaking down in the lab, and Blackwell had allowed it all to happen, right under everyone's nose. The machine was doing something dangerous, and no one was stopping it. 
+The frantic rhythm of her heart beat hadn't slowed since she found the thesis paper that explained Doctor Blackwell true intension of the Mnemosyne Engine. The physics were breaking down in the lab, and Blackwell had allowed it all to happen, right under everyone's nose. The machine was doing something dangerous, and no one was stopping it. 
 
 She needed to get the information out. But she couldn't just walk out the front door. The atrium below was crawling with armored Renewal Agents, their black helmets reflecting the sterile light. If they searched her, she would disappear.
 
