@@ -1,4 +1,10 @@
-Victor's car cut through the thick fog, the damp air beading water along the side of the sleek, white paneling. It howled low over the wet street, pure white headlights flaring blue against the smog. No tires, no drag against the asphalt, the quiet whistle of the mag-cushion holding it inches above the road, moving fast.
+Victor's mag-car idled at a transit intersection in the lower grid. The thick, fog swirling across the windshield glowing a harsh, red from the traffic lights above. Weary pedestrians shuffled through the damp crosswalk, heads down, hidden beneath black umbrellas and blue surgical masks.
+
+The fog flared green. 
+
+Victor hit the accelerator. 
+
+The car cut through the heavy smog, the damp air beading water along the side of the sleek, white paneling. It howled low over the wet street, pure white headlights flaring blue against the fog. No tires, no drag against the asphalt, the quiet whistle of the mag-cushion holding it inches above the road, moving fast.
 
 Harlan gripped the door handle, knuckles white. "You know driving doesn't have to try and kill the passenger."
 
@@ -20,7 +26,7 @@ Victor raised the car door open, his breath instantly pluming white in the air. 
 
 "—The hell is it so cold up here for?" Harlan's voice sounded choked in the cool air.
 
-The plaza in front of the imposing Takeda-Holden tower was lined with polished, black, concrete statues of mythic gods and goddesses. 
+The plaza in front of the imposing Takeda-Holden tower was lined with polished, black, concrete statues of mythic gods and goddesses, their features glittering with an unnatural layer of fresh frost.
 
 Harlan walked to the edge of the plaza and looked over the railing. 
 
@@ -30,13 +36,13 @@ Victor leaned on the rail. He looked down. The thick, choking smog that blankete
 
 Victor Graves wasn't going to waste time on the view,  he hated the Upper Grid. He pulled a crushed cigarette from his pocket and lit it, blowing a plume of cheap smoke into the freezing air. 
 
-He pushed through the heavy glass doors, his damp trench coat dripping onto the pristine marble floor.
+They walked through the plaza, and pushed through the heavy glass doors of the building enterance, his damp trench coat dripping onto the pristine marble floor.
 
 ***
 
 Three floors up, Iris stood on a suspended walkway in the bulding atrium, leaning over to look down at the tall tinted glass of the entrance. 
 
-The frantic rhythm of her heart beat hadn't slowed since she found the thesis paper that explained Doctor Blackwell true intension of the Mnemosyne Engine. The physics were breaking down in the lab, and Blackwell had allowed it all to happen, right under everyone's nose. The machine was doing something dangerous, and no one was stopping it. 
+A cold spike of adrenaline was still burning through her system. It hadn't faded since she fled the sub-level laboratories. The physics were actively breaking down. She had seen the 'Parity' error strings flooding Elena's monitors. The machine was tearing the city grid apart, and Blackwell was doing nothing to stop it. 
 
 She needed to get the information out. But she couldn't just walk out the front door. The atrium below was crawling with armored Renewal Agents, their black helmets reflecting the sterile light. If they searched her, she would disappear.
 
