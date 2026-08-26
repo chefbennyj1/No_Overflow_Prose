@@ -16,19 +16,23 @@ The rusted scaffolding of the lower grid gave way to clean alloy and glass as th
 
 Victor ignored the abnormalities, bringing the car to rest outside the tower's entrance. The headlights dimmed to black, the car settling into silence.
 
-Harlan stepped out of the passenger side, his breath instantly pluming white in the air. The plaza in front of the imposing Takeda-Holden tower was lined with polished, black, concrete statues of Roman gods and goddesses. 
+Victor raised the car door open, his breath instantly pluming white in the air. He stopped for a moment, and letting another breath and analyzing the plumb in the unorthodox cold . Harlan stepped out of the passenger side, his breath instantly fogging white in front of his face. 
 
-Harlan walked to the edge of the plaza and looked over the railing. He froze. The thick, choking smog that usually blanketed Oshima was entirely gone. A massive, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all twenty stories to the lower grid.
+"That hell is it so cold up here for?" Harlan's voice sounded choked in the cool air.
+
+The plaza in front of the imposing Takeda-Holden tower was lined with polished, black, concrete statues of Roman gods and goddesses. 
+
+Harlan walked to the edge of the plaza and looked over the railing. He looked down. The thick, choking smog that blanketed Oshima — entirely gone. A towering, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all twenty stories to the lower grid.
 
 "Victor," Harlan breathed, his grip tightening on steel rail.
 
-Victor Graves wasn't going to waste time on the view,  he hated the Upper Grid. He pulled a crushed cigarette from his pocket and lit it, blowing a plume of cheap smoke into the freezing, unnaturally clear air. He pushed through the heavy glass doors, his damp trench coat dripping onto the pristine marble floor.
+Victor Graves wasn't going to waste time on the view,  he hated the Upper Grid. He pulled a crushed cigarette from his pocket and lit it, blowing a plume of cheap smoke into the freezing air. He pushed through the heavy glass doors, his damp trench coat dripping onto the pristine marble floor.
 
 ***
 
-Three floors up, Iris gripped the steel railing of a suspended walkway, leaned over to look down at the building entrance. 
+Three floors up, Iris stood on a suspended walkway in the bulding atrium, leaning over to look down at the tall tinted glass of the entrance. 
 
-Her heart hammered against her ribs, a frantic rhythm that hadn't slowed since she found the thesis paper that explained Doctor Blackwell true intension of the Mnemosyne Engine. The physics were breaking down in the lab, and Blackwell had allowed it all to happen, right under everyone's nose. The machine was doing something dangerous, and no one was stopping it. 
+Her the frantic rhythm of her heart beat hadn't slowed since she found the thesis paper that explained Doctor Blackwell true intension of the Mnemosyne Engine. The physics were breaking down in the lab, and Blackwell had allowed it all to happen, right under everyone's nose. The machine was doing something dangerous, and no one was stopping it. 
 
 She needed to get the information out. But she couldn't just walk out the front door. The atrium below was crawling with armored Renewal Agents, their black helmets reflecting the sterile light. If they searched her, she would disappear.
 
