@@ -1,4 +1,4 @@
-Victor's mag-car idled at a transit intersection in the lower grid. The thick, fog swirling across the windshield glowing a harsh, red from the traffic lights above. Weary pedestrians shuffled through the damp crosswalk, heads down, hidden beneath black umbrellas and blue surgical masks.
+Victor's mag-car idled at a transit intersection in the lower grid. The thick, fog swirling across the windshield glowing a harsh, red from the traffic lights above. Weary pedestrians shuffled through the damp crosswalk, heads down, hidden beneath black umbrellas and their dirty cotton masks.
 
 The fog flared green. 
 
