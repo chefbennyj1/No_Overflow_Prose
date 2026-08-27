@@ -10,15 +10,23 @@ Wedged between two heavy volumes was a black portfolio containing his original t
 
 He stepped closer, pulling the portfolio from the shelf. He turned it over in his hands. The pristine matte finish bore the faint, oily smudge of a fingerprint near the edge.
 
-Blackwell closed his eyes, his eidetic memory hinking back through the week's events. *What was out of place? Did Elena finally find the shadow process?* He isolated moment after moment. 
+Someone had been in his office. 
 
-He saw Iris, the boundary analyst, sitting at her terminal on the mezzanine. He remembered the annoying tapping of her stylus. It was what made him take note of her. He remembered the exact moment the shadow process had appeared in the readout,  the synthetics scrubbing the logs. 
+Blackwell set the portfolio back on the shelf, aligning it perfectly. He turned and walked back to the doorway, looking down at the lab floor. 
 
-Iris's demeanor change. He saw her subtle stagger of  breath. The shift in her eyes as she looked away. Yes, Iris clock the synthetics as they scrubbed the logs. 
+"Elena," Blackwell called out, his voice perfectly level. "Has anyone else been on this floor off-schedule this week?"
+
+Elena didn't look up from her telemetry. "Just Iris. She was here early on Tuesday before my shift."
+
+Blackwell didn't react. He closed his eyes, his eidetic memory rewinding to Tuesday morning with perfect clarity. 
+
+He saw Iris, the boundary analyst, sitting at her terminal on the mezzanine. He remembered the annoying tapping of her stylus. It was what made him take note of her. He remembered the exact moment the shadow process had appeared in the readout, the synthetics scrubbing the errors. 
+
+He watched Iris's demeanor change. He saw the subtle stagger of her breath. The shift in her eyes as she looked away. Yes, Iris had clocked the synthetics as they scrubbed the logs. She hadn't just come in early. 
 
 *She knows,* Blackwell realized. She had come looking for answers.
 
-He opened his eyes. He could feel his heart rate slow. He set the portfolio back on the shelf, aligning it perfectly. 
+He opened his eyes. The thud of his pulse slowed to a calm, steady rhythm.
 
 He walked out of the office and down the metal stairs, his heavy footsteps ringing out across the lab floor. 
 
