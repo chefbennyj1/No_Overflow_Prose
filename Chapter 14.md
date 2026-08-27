@@ -37,6 +37,6 @@ Each body was draped in a loose, thin sheet of transparent plastic. Beside every
 
 "Oh my god," Harper breathed, staring at the plastic-draped army.
 
-Rin pulled her SBC from her pocket, looking down at the string of text Vigil had given her. A new coordinate flashed on the small green screen, pointing toward the far end of the grid. 
+Rin  looked down at the SBC in her hand, finding the string of text Vigil had given her. A new coordinate flashed on the small green screen, pointing toward the far end of the grid. 
 
 "It didn't send us down here for data," Rin said, her voice echoing off the white tile. She looked back up at the terrifying, sleeping army. "It wants us to wake one up."
