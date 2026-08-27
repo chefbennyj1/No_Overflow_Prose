@@ -1,39 +1,35 @@
-The physical architecture of the Mnemosyne Engine spanned four subterranean levels beneath the Takeda-Holden plaza. 
+Doctor Silas Blackwell stood on the mezzanine overlooking the Mnemosyne Engine, his hands clasped behind his back. The main floor of the lab was quiet, the cooling fans spinning in a steady rhythm. Below him, Elena Marlowe was seated at her terminal, her eyes looked heavy, like she hadn't slept well in days.
 
-Elena Marlowe stood alone in the dark on the primary observation deck. Below her, the massive server racks were submerged in shallow coolant pools, creating a wet, reflective mist across the floor. Light bled from the glass, casting long shadows across the room.
+"The alignment is holding," Elena said, her voice echoing faintly. "For now."
 
-She rubbed her eyes, and pulled her hair back with a tie, two jaw-length bangs falling back to frame her face. Her eyes ached from monitoring the engine's productivity for fourteen hours straight. She wore the exhaustion and paranoia from the sleepless nights, over analyzing her failed attempt to shut down the horizon memory. She had been waiting for the corporation to realize their science experiment wasn't under their control. Wasn't under anyone's control.
+Blackwell didn't reply. He turned away from the railing and walked into his private office. He didn't turn on the lights. He walked toward the heavy wooden desk, but stopped halfway across the carpet.
 
-She began another routine training session on the engine's core, sending a new signal toward the horizon boundary, seeding the alignment. 
+His eyes locked onto the bookshelf.
 
-She watched the signal flip the bit of data along the horizon boundary, then cascade through the core. The predictability data returned successful.
+Wedged between two heavy volumes was a black portfolio containing his original thesis paper on the necessity of Parity. The spine was usually flush with the leather books beside it. Now, it was jutting out of place.
 
-If she wasn't able to stop the perpetual spin of the singularity, alignment was more important than ever. She would stay awake for days if it maintained control of the titan beneath her feet. Elena sent another signal toward the core.
+He stepped closer, pulling the portfolio from the shelf. He turned it over in his hands. The pristine matte finish bore the faint, oily smudge of a fingerprint near the edge. It had been handled.
 
-A cascade of red error strings flooded the primary holographic console. The text reflected off Elena's dark skin as she stepped closer to the glass.
+Someone had read it. 
 
-She squinted at the code. She didn't recognize the syntax. It wasn't standard NovOS kernel data.
+Blackwell closed his eyes, thinking back through the week's events. His eidetic memory rewound the lab with perfect clarity. *What was out of place? Did Elena finally see the shadow process he so urgently attempted to hide?* He thought backward through the days, isolating moment after moment. 
 
-**[SYSTEM FAULT: PARITY IMMINENT]**
+He saw Iris, the boundary analyst, sitting at her terminal on the mezzanine. He remembered her annoying tapping of her stylus. It's what made him take note of her. He remembered the exact moment the shadow process had appeared in the readout—the moment the synthetics had scrubbed the anomaly. 
 
-Elena frowned. Her fingers moved across the glass keyboard, trying to trace the anomaly back to a physical server rack. 
+In his memory, he watched Iris's demeanor change. He saw the subtle stagger of her breath. The shift in her eyes as she looked away. Yes, that was it! Blackwell could see Iris clock the synthetics as they scrubbed the logs. 
 
-"What on earth?" she whispered, in the emptiness of the lab. 
+*She knows,* Blackwell realized. 
 
-She pulled up the core architecture logs, her eyes scanning lines of code she had written herself years ago. She knew every inch of the engine's biological neural lattice. 
+She hadn't missed the anomaly. She had seen it. And she had come looking for answers. 
 
-*Parity was never added as an error code to the engine.*
+He opened his eyes. He could feel his heart rate slow. He set the portfolio back on the shelf, aligning it perfectly. 
 
-She keyed the intercom to wake the night-shift engineers, but the physical button was dead. The network was locked. 
+He walked out of the office and down the metal stairs, his heavy footsteps ringing out across the lab floor. 
 
-Out of the corner of her eye, a secondary terminal flickered. The light died, replaced by a harsh, blinking white command line. It wasn't an error code. It was a direct message, bypassing the engine's firewalls entirely.
+Elena looked up from her terminal as he passed. "Doctor? Is something wrong?"
 
-**[VIGIL]**
-**Doctor Elena Marlowe.**
+Blackwell didn't break stride, marching straight toward the heavy hydraulic doors. 
 
-Elena froze. The intelligence had never communicated directly, by name before. 
+"Something important has come up," Blackwell said, his voice cold and absolute. "Continue to monitor the singularity engine until I return."
 
-Before she could touch the terminal, a second string printed underneath it, flashing rapidly as if the system was struggling to maintain the connection.
-
-**[VIGIL]**
-**Doctor Elena Marlowe. RUN!**
+He stepped through the doors, the heavy steel sealing shut behind him.
