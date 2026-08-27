@@ -1,4 +1,3 @@
-The physical architecture of the Mnemosyne Engine spanned four subterranean levels beneath the Takeda-Holden plaza. 
 
 Elena Marlowe stood alone in the dark on the primary observation deck. Below her, the massive server racks were submerged in shallow coolant pools, creating a wet, reflective mist across the floor. Light bled from the glass, casting long shadows across the room.
 
