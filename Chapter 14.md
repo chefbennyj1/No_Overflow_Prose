@@ -29,14 +29,14 @@ Overhead, motion sensors triggered.
 
 A sequence of harsh white floodlights snapped on, firing down the length of the room in blinding succession.
 
-The room was a sprawling, hollow expanse of pristine white paneling. Oversized steel air ducts ran the length of the ceiling, scrubbing the air of dust.
+Standing rigid across the pristine white paneling, arranged in a flawless grid like a dormant army, were hundreds of previous-generation Synthetics. 
 
-Standing rigid in the center of the white tiles, arranged in a flawless grid like a dormant army, were hundreds of previous-generation Synthetics. 
-
-Each body was draped in a loose, thin sheet of transparent plastic. Beside every synthetic stood a medical-style monitor mounted on a five-caster pole. Braided silicone tubes fed directly into the backs of the synthetics, pumping a translucent blue bio-compute fluid into their wetware to keep their neural lattices stable in the long sleep.
+Each body was draped in a loose, thin sheet of transparent plastic. Beside every synthetic stood a medical-style monitor mounted on a five-caster pole. Braided silicone tubes fed directly into the backs of their necks, pulsing with a translucent blue fluid.
 
 "Oh my god," Harper breathed.
 
-Rin  looked down at the SBC in her hand, finding the string of text Vigil had given her. A new coordinate flashed on the small green screen, pointing toward the far end of the grid. 
+Rin stepped up to the nearest medical monitor, reading the scrolling data. "Bio-compute fluid," she murmured. "It's keeping their neural lattices stable for the long sleep."
+
+She looked down at the SBC in her hand, finding the string of text Vigil had given her. A new coordinate flashed on the small green screen, pointing toward the far end of the grid. 
 
 "It didn't send us down here for data," Rin said, her words carrying across the stark white tile. She looked back up at the terrifying, sleeping army. "It wants us to wake one up."
