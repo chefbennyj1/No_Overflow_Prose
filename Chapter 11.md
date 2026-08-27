@@ -35,9 +35,9 @@ They wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. 
 
 They both stuck out. Badly. And worse, neither of them carried the New Veridia IDs required to legally stand on the platform.
 
-Harper's eyes darted toward the far end of the platform. "Where is it?"
+Harper's eyes darted toward the far end. "Where is it?"
 
-"End of the line," Rin said, pulling SBC from her pocket. She veered away from the tracks, cutting toward a secluded corridor of rusted green maintenance doors running along the side of the train tube. 
+"End of the line," Rin said, pulling her SBC from her pocket. She veered away from the tracks, cutting toward a secluded corridor of rusted green maintenance doors running along the side of the train tube. 
 
 They found it hidden in the freezing shadows. Faded white stenciling on the rusted, green steel read: **4002**. 
 
@@ -47,7 +47,7 @@ Rin didn't hesitate. A blank magnetic card dangled from the SBC by a thin ribbon
 
 Harper stepped back, scanning the platform. Corporate executives flowed past. 
 
-The crowd parted, as two Renewal agents,  made their way through the terminal platform, patrolling the marble floors. They turned the corner, their opaque visors sweeping the corridor. 
+The crowd parted as two Renewal agents made their way through the terminal platform, patrolling the marble floors. They turned the corner, their opaque visors sweeping the corridor. 
 
 "Rin," Harper breathed. "We have a problem."
 
