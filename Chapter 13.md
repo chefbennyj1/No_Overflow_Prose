@@ -92,8 +92,10 @@ The synthetic stared at him, processing. "Terminal logs? I see... there have bee
 
 The synthetic's eyes flared an icy blue as it tapped into the internal comms. "HR-33, Entrance 001 please send Renewa—"
 
-"That won't be necessary, 33." 
+"That won't be necessary, 33. Override authorization: Alpha-Seven." 
 
 The voice cut the synthetic off mid-sentence. Victor turned to see a young woman stepping out of an executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. 
 
-"The detectives are with me," she said, holding up a glowing datapad. She didn't look at the Renewal Agents, who remained statuesque at their posts. She looked directly at Victor, her eyes wide with a poorly concealed terror. "This way, gentlemen. We don't have much time."
+She slammed a glowing red security badge against the desk's scanner. The synthetic's eyes flickered from icy blue back to a neutral white as the system authenticated her top-tier clearance. The Renewal Agents, who had already begun moving toward the desk, saw the green flash of the override and settled back into their passive stances.
+
+"The detectives are with me," she said. She didn't look at the guards. She looked directly at Victor, her eyes wide with a poorly concealed terror. "This way, gentlemen. We don't have much time."
