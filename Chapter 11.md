@@ -98,8 +98,12 @@ Rin swiped the blank card through the door's reader. The lock flashed red. The b
 
 "Hurry," Harper said, her eyes locked on the armored agents. 
 
-A sharp beep chirped from the SBC, the small green crystal display read a series of hashed numbers and letters. 
+The agent's opaque visor locked onto them. He raised a heavy, riot-control baton, his voice booming over the noise of the terminal. "Hey! Stop right there!" 
+
+A sharp beep chirped from the SBC, the small green crystal display reading a series of hashed numbers and letters. 
+
+"Rin!" Harper gasped as the agent broke into a heavy sprint down the platform. 
 
 Rin dragged the card upward through the reader a second time. The magnetic lock disengaged with a heavy, mechanical clack. Rin shoved her shoulder against the steel door, forcing it open wide enough to slip through. She grabbed Harper by the jacket sleeve and yanked her into the dark. 
 
-The heavy door slammed shut, severing the bright lights of the transit terminal. They stood hidden in the freezing shadows of the maintenance tunnels. 
+The heavy door slammed shut, severing the bright lights of the transit terminal. They stood in the pitch-black, freezing shadows. A second later, a heavy fist hammered against the outside of the steel frame.
