@@ -2,7 +2,7 @@ Doctor Silas Blackwell stood on the mezzanine overlooking the Mnemosyne Engine, 
 
 "The alignment is holding," Elena said, her voice echoing faintly. "For now."
 
-Blackwell didn't reply. He turned away from the railing and walked into his private office. He didn't turn on the lights. He walked toward the heavy wooden desk, but stopped halfway across the carpet.
+Blackwell didn't reply. He turned away from the railing and walked into his private office. He stopped at his heavy wooden desk.
 
 His eyes locked onto the bookshelf.
 
@@ -16,7 +16,7 @@ Blackwell set the portfolio back on the shelf, aligning it perfectly. He turned 
 
 "Elena," Blackwell called out, his voice perfectly level. "Has anyone else been on this floor off-schedule this week?"
 
-Elena didn't look up from her telemetry. "Just Iris. She was here early on Tuesday before my shift."
+Elena didn't look up. "Just Iris. She was here early on Tuesday before my shift."
 
 Blackwell didn't react. He closed his eyes, his eidetic memory rewinding to Tuesday morning with perfect clarity. 
 
