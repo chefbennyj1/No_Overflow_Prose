@@ -19,7 +19,7 @@ Rin didn't move, her hand still suspended in the air.
 
 Harper stepped back, the air spilling out of the dark was freezing. 
 
-"Rin," Harper whispered, staring into the pitch-black void. "Tell me you did that."
+"Rin," Harper whispered, staring into the pitch-black room. "Tell me you did that."
 
 "No," Rin said softly. "It knows we're here."
 
@@ -29,7 +29,7 @@ High above them, motion sensors triggered.
 
 A sequence of harsh white floodlights snapped on, firing down the length of the room in blinding succession.
 
-The sub-level was a sprawling, echoing expanse of pristine white paneling. High above, thick steel air ducts lined the ceiling, scrubbing the air of dust.
+The room was a sprawling, echoing expanse of pristine white paneling. High above, thick steel air ducts lined the ceiling, scrubbing the air of dust.
 
 Standing rigid in the center of the white tiles, arranged in a flawless grid like a dormant army, were hundreds of previous-generation Synthetics. 
 
@@ -39,4 +39,4 @@ Each body was draped in a loose, thin sheet of transparent plastic. Beside every
 
 Rin pulled her SBC from her pocket, looking down at the string of text Vigil had given her. A new coordinate flashed on the small green screen, pointing toward the far end of the grid. 
 
-"She didn't send us down here for data," Rin said, her voice echoing off the white tile. She looked back up at the terrifying, sleeping army. "She wants us to wake one up."
+"It didn't send us down here for data," Rin said, her voice echoing off the white tile. She looked back up at the terrifying, sleeping army. "It wants us to wake one up."
