@@ -2,7 +2,7 @@ On any given day, the ambient temperature of the Dead Circuits was a humid, trap
 
 The smog didn't touch the tower. The dense fog that choked the rest of the upper city broke around it, creating a strange cylinder of clear air rising  upward. 
 
-Harper tipped her head back. She couldn't see the actual top of the building from street level. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the night sky. The peaks of the surrounding skyscrapers lost in the smog above her.
+Harper tipped her head back. She couldn't see the actual top of the building from street level. Far above, the underbellies of New Veridia's pedestrian sky-bridges and suspended transit walkways crisscrossed the gap between the skyscrapers. She could even see the underside of the sprawling corporate plaza built around the tower's midsection—a heavy shelf of steel and concrete casting its shadow over the lower grid. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the night sky. The peaks of the surrounding skyscrapers lost in the smog.
 
 She stared up through the clearing. For the first time in years, she saw stars.
 
@@ -40,9 +40,9 @@ Their heavy black armor obscured their faces as they patrolled the marble floors
 
 "Rin," Harper muttered, her voice dropping. She didn't point, her eyes tracking the patrol routes. "You didn't say it'd be crawling with Renewal agents. I've got two pairs on the escalators, and another sweeping the platform."
 
-There was a sudden pressure drop in the terminal, their ears popped as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. 
+Their ears popped as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. 
 
-The train tore into the terminal, reversing its magnetic polarity to kill its momentum. Sublimated mist hissed and rose from the super-cooled mag-rails as it came to a dead stop, quick and silent. The pressure blasted across the platform in a violent gust of returning air. It whipped at the tailored long coats and clothing of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess.
+The train tore into the terminal, reversing its magnetic polarity to kill its momentum. Sublimated mist hissed and rose from the super-cooled mag-rails as it came to a dead, silent stop. The pressure blasted across the platform in a heavy gust of returning air. It whipped at the tailored long coats of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing across their faces in a tangled mess.
 
 As the doors opened on the train, and the switch of commuters began, an amplified voice cut through the sound of the station.
 
