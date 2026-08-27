@@ -7,7 +7,7 @@ Another diagnostic test initialized on the console. A new signal routed outward,
 
 The bit flipped, driving data down through the core. A green confirmation flashed across the glass: predictability data successful.
 
-No one truly maintained control of the titan beneath her feet. It was just a matter of stalling the inevitable. Elena queued a second signal and fired it into the core.
+It was a fragile baseline, but it was holding. Elena queued a second diagnostic signal and fired it into the core.
 
 Instantly, a wall of red error strings flooded the primary holographic console. The harsh crimson text reflected off Elena's dark skin as she stepped closer to the glass.
 
