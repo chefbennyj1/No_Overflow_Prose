@@ -1,147 +1,99 @@
-On any given day, the ambient temperature of the Dead Circuits was a humid, trapped heat. However, standing at the base of the Takeda-Holden tower, the concrete beneath Harper's boots felt like a glacier.
+Victor's mag-car idled at a transit intersection in the lower grid. The thick, fog swirling across the windshield glowing a harsh, red from the traffic lights above. Weary pedestrians shuffled through the damp crosswalk, heads down, hidden beneath black umbrellas and their dirty cotton masks.
 
-The smog didn't touch the tower. The dense fog that choked the rest of the upper city broke around it, creating a strange cylinder of clear air rising  upward. 
+The fog flared green. 
 
-Harper tipped her head back. She couldn't see the actual top of the building from street level. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the night sky. The peaks of the surrounding skyscrapers lost in the smog above her.
+Victor hit the accelerator. 
 
-She stared up through the clearing. For the first time in years, she saw stars.
+The car cut through the heavy smog, the damp air beading water along the side of the sleek, white paneling. It howled low over the wet street, pure white headlights flaring blue against the fog. No tires, no drag against the asphalt, the quiet whistle of the mag-cushion holding it inches above the road, moving fast.
 
-They were faint, competing with the polluted light of the city, but they were there. Small pinholes of light in the black.
+Harlan gripped the door handle, knuckles white. "You know driving doesn't have to try and kill the passenger."
 
-"You're staring," Rin said. 
+Victor didn't slow down.
 
-Harper broke her gaze from the sky and looked back down at the street. She turned her attention to Rin, who stood just steps away, her jacket collar turned up against the localized cold. 
+"So, this Blackwell," Harlan said, bracing against the dash as the car swung hard around a corner. "You got a face to face?"
 
-"We're never gettin' through that lobby," Harper said, her voice cynical. The main concourse of the building was a fortress, and she knew it. Turnstiles, scanners, and heavily armed Renewal agents flanked every entrance.
+"Face to face? ... No." Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "This is our only lead on Null, and Blackwell has answers. I need to know what he knows."
 
-"—Don't need the lobby," Rin replied shaking her head. She pulled out her datapad, illuminating the transit schematic Vigil had dropped onto her drive. "Company buildings always have leftover deep storage in the sub-levels. Left over from before the mergers. Back when they stored data the old-fashioned way. Sealed up and unused, but the hardlines still touch their network."
+"So... you expect to just walk into a corporate tower, flash a badge, and talk to Takeda-Holden's top researcher?"
 
-Harper looked at the map. "Tunnels?"
+"Yeah." Victor banked onto the elevated approach feeding into the Towers. "That's the plan."
 
-"Subway," Rin confirmed. "There's old maintenance access doors throughout the city,  off the mag-rail line. They open right into the tunnels."
+The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Beside the highway, the seamless streak of white alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. All across the skyline, the architectural lighting of the corporate towers were flashing on and off in random sequences. The city grid was buckling under an invisible weight. 
 
-Harper smiled. "That's my girl. Always gotta plan," she said, her eyes lingering on Rin. "Let's go."
+Victor ignored the abnormalities, bringing the car to rest outside the tower's entrance. The headlights dimmed to black, the car settling into silence.
 
-They descended the concrete steps into the Takeda-Holden Transit Terminal. 
+Victor raised the car door open, his breath instantly pluming white in the air. He stopped for a moment, exhaling slowly, analyzing the crystallizing heat in the unorthodox cold. Harlan stepped out of the passenger side, his breath instantly fogging white in front of his face. 
 
-The stations interchanges fell four tiers below them, surrounded by arches of polished white stone and chrome. Corporate executives, Renewal office workers, and high-end synthetics packed the escalators. The floors were black marble, extending like spilled ink across the terminal.
+"—The hell is it so cold up here for?" Harlan's voice sounded choked in the cool air.
 
-As they reached the first platform, the temperature plummeted further. 
-Frictionless magnetic trains surged through the tunnels, pulling the super-cooled air deep into New Veridia before it settling back in. Harper watched her breath plume in the sterile overhead lighting. The dry, unnatural air crawled along her skin with a prickle of static electricity. The elite commuters didn't seem to notice, but it stiffened Harper's joints.
+The plaza in front of the imposing Takeda-Holden tower was lined with polished, black, concrete statues of mythic gods and goddesses, their features glittering with an unnatural layer of fresh frost.
 
-The herd of corporate suits moved quickly across the platforms, racing to get out of Oshima as fast as possible. Some waited for trains, while others moved toward the tower's executive lifts, speeding up to the pedestrian sky-bridges hundreds of stories above them.
+Harlan walked to the edge of the plaza and looked over the railing. 
 
-They wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. Rin's heavy boots scuffed against the marble. The wealthy commuters actively parted around them, casting disgusted glances over their hand-held devices at the two girls dirtying the transit hub.
+"Victor, what in the hell is going on? Look," Harlan's voice had the tone that always drew Victors attention.
 
-They both stuck out. Badly. And worse, neither of them carried the New Veridia IDs required to legally stand on the upper-grid platform.
+Victor leaned on the rail. He looked down. The thick, choking smog that blanketed Oshima — entirely gone. A towering, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all twenty stories to the lower grid.
 
-Harper's eyes darted toward the far end of the platform. Beside her, Rin was scanning the crowd. Then she saw them. Renewal agents. Everywhere. 
-Their heavy black armor obscured their faces as they patrolled the marble floors in pairs. 
+Victor Graves wasn't going to waste time on the view,  he hated the Upper Grid. He pulled a crushed cigarette from his pocket and lit it, blowing a plume of cheap smoke into the freezing air. 
 
-"Oh, Rin, darlin'," Harper's voice cracked under the sudden tension. Her fingers found the jagged edge of her scar on her collarbone. She swallowed hard. "You didn't say it'd be crawling with Renewal agents."
+They walked through the plaza, and pushed through the heavy glass doors of the building enterance, his damp trench coat dripping onto the pristine marble floor.
 
-There was a sudden pressure drop in the terminal, their ears popped as the oncoming mag-train pulled the atmosphere out of the station like a vacuum. 
+***
 
-The train tore into the terminal, reversing its magnetic polarity to kill its momentum. Sublimated mist hissed and rose from the super-cooled mag-rails as it came to a dead stop, quick and silent. The pressure blasted across the platform in a violent gust of returning air. It whipped at the tailored long coats and clothing of the commuters. Harper and Rin were hit by the sudden gale, their hair blowing wildly across their faces in a tangled mess.
+Three floors up, Iris stood on a suspended walkway in the bulding atrium, leaning over to look down at the tall tinted glass of the entrance. 
 
-As the doors opened on the train, and the switch of commuters began, an amplified voice cut through the sound of the station.
+A cold spike of adrenaline was still burning through her system. It hadn't faded since she fled the sub-level laboratories. The physics were actively breaking down. She had seen the 'Parity' error strings flooding Elena's monitors. The machine was tearing the city grid apart, and Blackwell was doing nothing to stop it. 
 
-Harper looked in the direction of the voice. It was a voice she new all to well. 
+She needed to get the information out. But she couldn't just walk out the front door. The atrium below was crawling with armored Renewal Agents, their black helmets reflecting the sterile light. If they searched her, she would disappear.
 
-Renewal Agent. 
+Then, the heavy glass doors on the ground floor slid open. 
 
-Against one of the terminal pillars near the track, two agents stood speaking with a man in a tailored black suit. He raised a hand, pointing directly toward their section of the platform. The two agents turned their heads, touching the side of their opaque helmets as they scanned the crowd.
+Iris looked down. Two men walked into the cavernous atrium, instantly disrupting the sterile corporate aesthetic. One wore a soaked trench coat; the other, a slightly rumpled charcoal suit. They didn't move like corporate executives. They moved like predators entering hostile territory.
 
-"Oh, we are in the wrong place. This is goin' sideways," Harper whispered, fixing her eyes to the floor.
+The acoustics of the atrium carried their voices upward.
 
-Rin leaned in close. "Hey," her voice was steady. "Stay calm. Try to blend in."
+"Oh look… a corporate canner," the man in the suit said, adjusting his collar. "Why do they make them look so human?"
 
-A loud, static voice cut through the mesh of commuter chatter and the low underlying sound of the air circulators. "You. Vagrant. Halt." 
+"Don't know, Harlan," the man in the trench coat replied, his voice a low, hard rasp. "Never trusted them."
 
-Across the glassy black marble, the two agents began advancing through the crowd. Harper braced herself, her hand tightening on the strap of her top near her scar. 
+*Oshima Police. Cops, from the lower grid.* 
 
-"Dammit, Rin. A girl's gotta have nerve, but this is crazy," Harper whispered.
+She looked at the datapad in her hands, then back down at the two detectives marching toward the security checkpoint. It was her only chance. 
 
-Rin looked directly into her eyes. Pressing a finger to her lips, she shook her head slowly.
+Iris walked quickly toward the executive elevator.
 
-Harper followed Rin's gaze. The agents hadn't locked onto them. They hit their stride, moving past Harper's peripheral vision toward a young man standing a few yards away. He was dressed like Harper and Rin—frayed clothes, scuffed shoes, equally out of place. 
+***
 
-The young man lifted his head to see the agents moving toward him. He looked terrified. Stolen wallets and other paraphernalia dropped from his hands, falling to the floor at his feet.
+Harlan walked a half-step behind Victor, his eyes scanning the cavernous space. Heavily armored Renewal agents stood like statues near the turnstiles. Behind a polished mahogany desk sat an HR-33 synthetic. It wore a crisp concierge uniform, its posture flawlessly straight. Faint traces of blue light shimmered through its fiber-optic hair.
 
-"No, no," Harper breathed, staring at him across the terminal floor. "Don't run."
+The synthetic’s optical sensor whirred softly, a ring of blue light expanding rapidly to map their faces. Before Victor even reached the desk, the synthetic was staring. 
 
-There was a moment of panic. He bolted. 
+"Good morning, Detective Graves. Officer Harlan," it said, its voice smooth and engineered to be disarming. "Welcome to the Takeda-Holden Corporation. Please be advised, this is a clean-air facility. Smoking is strictly prohibited."
 
-The agents didn't shout a second warning. They moved with terrifying speed, armored boots pounding against the terminal floor. One of them closed the distance in seconds, driving a heavy shoulder into the thief's spine. The crack of his skull against the marble echoed sharply.
+Harlan froze, shooting a sideways glance at Victor. The synthetic had scanned and identified them through the glass doors.
 
-The agent’s knee dropped onto his neck, pinning his face to the floor. The second agent grabbed his wrists and cinched a heavy zip-tie around them, pulling it tight enough to cut circulation. It was ruthless, practiced violence.
+Victor didn't slow down. He took a long drag, exhaled a cloud of gray smoke over the polished mahogany, and slammed his Oshima Police Department badge flat against the wood. 
 
-Harper couldn't look away. She had seen this many times, but it never got easier.
+"We're here to speak with Doctor Silas Blackwell," Victor said. His voice was hard, carrying none of the machine's programmed warmth. "We have reason to believe he has information relevant to an ongoing investigation."
 
-The crowd of wealthy commuters didn't pause. Corporate executives stepped around the young man without taking their eyes off their devices. The brutality lost to the upper city, replaced as an obstacle on the morning commute.
+The synthetic's expression didn't waver. "Doctor Blackwell? I'm sorry... there's no one by that name on the current employee registry."
 
-"C'mon," Rin said. She hooked her arm through Harper's, pulling her forward. "Now's our chance."
+"Nice try, Logic-Gate. Your script is showing," Victor interrupted, leaning over the desk. "We pulled terminal records from the night of the breach. Blackwell's name is all over them."
 
-Harper stumbled, unable to tear her eyes away from the thief on the floor. The agents hauled him up by his bound wrists. One of them tapped the side of his helmet. His head swiveled toward the rest of the crowd. Scanning.
+"Jesus, Victor," Harlan nervously eyed the armed guards by the turnstiles. "Don't antagonize the synthetic."
 
-"Rin—" Harper choked out.
+"I'm not playing games," Victor said. "Where's Blackwell? I know he's got a lab in this building, and an office downtown. Page him."
 
-"Don't look at them. Keep your head down." Rin's grip on her arm tightened. They moved fast, cutting through the commuters and pushing toward the far end of the platform while the agents began sweeping the crowd behind them.
+The synthetic stared at him, processing. "Terminal logs? I see... there have been errors in our redaction department." Its eyes flashed. "Detective, there is a Doctor Blackwell on staff. However, Doctor Blackwell doesn't take personal meetings."
 
-The terminal ended exactly as it had started: a set of concrete stairs leading up and out to the streets above. But Rin didn't take the stairs. She veered toward the wall, where a corridor of green doors ran along the side of the train tube.
+"Save it, Canner."
 
-Rin hit the first green door in the corridor, her hand already moving. She pulled a crude, wire-wrapped single-board computer from her pocket. A blank magnetic card dangled from it by a thin ribbon cable. 
+"I am a Synthetic, Detective. Designation Human Relations dash 33, not a 'Canner'," the receptionist replied, the warmth finally dropping from its tone. "Perhaps one of our Renewal Agents could help escort you back to your vehicle now?"
 
-Harper checked over her shoulder. One of the agents shoved the bound thief toward the trains, while the second turned his opaque visor directly toward their end of the platform. 
+The synthetic's eyes flared an icy blue as it tapped into the internal comms. "HR-33, Entrance 001 please send Renewa—"
 
-Rin swiped the blank card through the door's reader. The lock flashed red. The bare circuit board in Rin's hand flickered with raw data, running a brute-force decryption against the terminal's handshake protocol. 
+"That won't be necessary, 33." 
 
-"Hurry," Harper said, her eyes locked on the armored agents. 
+The voice cut the synthetic off mid-sentence. Victor turned to see a young woman stepping out of an executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. 
 
-A sharp beep chirped from the SBC, the small green crystal display read a series of hashed numbers and letters. 
-
-Rin dragged the card upward through the reader a second time. The magnetic lock disengaged with a heavy, mechanical clack. Rin shoved her shoulder against the steel door, forcing it open wide enough to slip through. She grabbed Harper by the jacket sleeve and yanked her into the dark. 
-
-The heavy door slammed shut, severing the bright lights of the transit terminal. They stood hidden in the freezing shadows of the maintenance tunnels.
-
-The air was thick with condensation and the smell of standing water. Flickering incandescent bulbs cast long, jaundiced shadows against the curved concrete walls. Heavy pipes lined the ceiling, weeping moisture onto the cracked floor. 
-
-Harper kept her hands tucked into her jacket pockets, shivering as they moved deeper into the underbelly of the Takeda-Holden tower. They passed a series of unmarked, rusted doors until the tunnel widened into a small antechamber. 
-
-At the far end stood a heavy blast door, marked with faded corporate caution stripes. A thick magnetic lock sealed it shut. 
-
-Rin pulled her single-board computer back out, stepping up to the keypad. "Deep storage," she said, her voice echoing faintly in the damp space. 
-
-Harper watched her wire the card. "How long?"
-
-Rin raised the magnetic card toward the reader. "Give me a minute. This is corporate-grade encryption, it's going to fight back." 
-
-Before the plastic even touched the slot, a heavy, concussive *clack* echoed through the antechamber. The red indicator on the mag-lock snapped to a pristine, glowing green. 
-
-The blast door groaned on its tracks, sliding open on its own. 
-
-Rin froze, her hand still suspended in the air. 
-
-Harper stepped back, her fingers instinctively brushing the scar at her collarbone. The air spilling out of the server room was freezing. 
-
-"Rin," Harper whispered, staring into the pitch-black void. "Tell me you did that."
-
-"No," Rin said softly. "It knows we're here."
-
-They stepped over the threshold into the dark. The air inside didn't smell like rusted metal or damp concrete. It smelled entirely sterile, like a surgical ward.
-
-High above them, motion sensors triggered. A cascade of harsh white floodlights snapped on, firing down the length of the cavernous room.
-
-Harper's breath hitched in her throat.
-
-It wasn't a server farm. The sub-level was a massive, echoing expanse of pristine white paneling. High above, thick steel air ducts lined the ceiling, scrubbing the air of dust. But there were no data racks.
-
-Standing rigid in the center of the white tiles, arranged in a flawless grid like a dormant army, were hundreds of previous-generation Synthetics. 
-
-Each body was draped in a loose, thin sheet of transparent plastic. Beside every synthetic stood a medical-style monitor mounted on a five-caster pole, resembling a hospital IV stand. Thick plastic tubes fed directly into the backs of the synthetic's necks, pumping a transparent blue bio-compute fluid into their wetware to keep their neural lattices stable in the long sleep.
-
-"Oh my god," Harper breathed, staring at the plastic-draped army.
-
-Rin pulled her datapad from her pocket, looking down at the transit schematic Vigil had given her. A single, blinking green dot pulsed at the far end of the grid. 
-
-"She didn't send us down here for data," Rin said, her voice echoing off the white tile. She looked back up at the terrifying, sleeping army. "She wants us to wake one up."
+"The detectives are with me," she said, holding up a glowing datapad. She didn't look at the Renewal Agents, who remained statuesque at their posts. She looked directly at Victor, her eyes wide with a poorly concealed terror. "This way, gentlemen. We don't have much time."
