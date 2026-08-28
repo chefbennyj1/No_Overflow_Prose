@@ -43,7 +43,7 @@ Decidedly, she connected the red drive to the terminal. Her fingers instinctivel
 
 ***
 
-The fluorescent lights of the maintenance stairwell flickered, casting erratic shadows against the concrete. 
+The fluorescent lights of the maintenance stairwell flickered, casting moving shadows against the concrete. 
 
 "Fifteen floors up with no elevator, Victor?" Harlan gasped, loosening the tie of his grey suit. He leaned against the metal railing to catch his breath. "You sure it's Null this time?"
 
