@@ -1,7 +1,7 @@
 
 The stench of standing water filled the tunnel. Flickering incandescent bulbs cast long, jaundiced shadows against the curved concrete walls. Iron pipes lined the ceiling, weeping condensation onto the cracked floor. 
 
-Harper kept her hands tucked into her jacket pockets, shivering as they moved deeper into the underbelly of the Takeda-Holden tower. They passed a series of unmarked, rusted doors until the tunnel widened into a small antechamber. 
+Harper kept her hands tucked into her jacket pockets, shivering as they moved deeper into the underbelly of the Takeda-Holden tower. She gnawed on a piece of synthetic bubblegum, the bright, incongruous smell of artificial strawberries cutting through the stench of standing water. They passed a series of unmarked, rusted doors until the tunnel widened into a small antechamber. 
 
 At the far end stood a reinforced blast door, marked with faded corporate caution stripes. An oversized magnetic lock sealed it shut. 
 
