@@ -48,7 +48,7 @@ She needed to get the information out. But she couldn't just walk out the front 
 
 Then, the heavy glass doors on the ground floor slid open. 
 
-Iris looked down. Two men walked into the cavernous atrium, instantly disrupting the sterile corporate aesthetic. One wore a soaked trench coat; the other, a slightly rumpled charcoal suit. They didn't move like corporate executives. They moved like predators entering hostile territory.
+Iris looked down. Two men walked onto the polished floor of the atrium, instantly disrupting the sterile corporate aesthetic. One wore a soaked trench coat; the other, a slightly rumpled charcoal suit. They didn't move like corporate executives. They moved like predators entering hostile territory.
 
 The acoustics of the atrium carried their voices upward.
 
@@ -64,7 +64,7 @@ Iris walked quickly toward the executive elevator.
 
 ***
 
-Harlan walked a half-step behind Victor, his eyes scanning the cavernous space. Heavily armored Renewal agents stood like statues near the turnstiles. Behind a polished mahogany desk sat an HR-33 synthetic. It wore a crisp concierge uniform, its posture flawlessly straight. Faint traces of blue light shimmered through its fiber-optic hair.
+Harlan walked a half-step behind Victor, his eyes scanning the security concourse. Heavily armored Renewal agents stood like statues near the turnstiles. Behind a polished mahogany desk sat an HR-33 synthetic. It wore a crisp concierge uniform, its posture flawlessly straight. Faint traces of blue light shimmered through its fiber-optic hair.
 
 The synthetic’s optical sensor whirred softly, a ring of blue light expanding rapidly to map their faces. Before Victor even reached the desk, the synthetic was staring. 
 

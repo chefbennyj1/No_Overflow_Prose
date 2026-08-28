@@ -16,7 +16,7 @@ The magnetic lock disengaged with a hollow thud.
 
 She ran her fingers along the messy fringe of bangs that hung across her eyes, tucking the sharp, jagged sidelock of her black hime-cut bob behind her ear. She slipped through the threshold, stepping into the muted silence of the executive suite. Water dripped from her oversized, heavy leather jacket, pooling on the polished floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
 
-As she crossed the center of the office, the room's seamless window flared to life, a wave of blue pixels flowed across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of telemetry data. She approached the terminal sitting on the polished black glass inlay of the wooden desk, ignoring the holographic overlay of the Dead Circuits sprawling fifteen floors below.
+As she crossed the center of the office, the room's seamless window flared to life, a wave of blue pixels flowed across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of telemetry data. She approached the terminal sitting on the polished black glass inlay of the wooden desk, ignoring the holographic overlay of the Dead Circuits tangled fifteen floors below.
 
 She didn't admire the view. The telemetry data streaming across the glass represented sheer excess—idle processing power that could keep the Dead Circuits heated through the winter. Rin pulled a black single-board controller from her jacket, jamming its connection wire into the main console. 
 
@@ -26,13 +26,13 @@ Her fingers moved across the mechanical keyboard. *Hello Company employee: RD001
 
 Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled the trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that worked against her algorithms. She typed furiously, manually guiding the breach until the firewall finally splintered, granting access to the executive files. 
 
-*Gotcha.* Her eyes locked on the data.
+*Gotcha.* Her focus snapped to the data.
 
 She bypassed the personal directories, diving straight into the infrastructure sub-networks. Her target was the municipal routing keys—the price 'The Filament' demanded to keep the lower grids online. But the network architecture was dense, built to deliberately slow data extraction. 
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
-As the routing keys slowly copied to her drive, a hidden sub-process in Blackwell's directory caught her eye. It was a power consumption log. The numbers revealed a massive, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
+As the routing keys slowly copied to her drive, a hidden sub-process in Blackwell's directory caught her eye. It was a power consumption log. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
 
 She opened the file path. The screen flooded with classified schematics for something called a *Mnemosyne Engine*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
 
@@ -62,7 +62,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 "We have to intercept Null before Corporate Renewal does," Victor said, his gaze fixed on the landing above. "If Takeda-Holden finds them first, months of work will have been for nothing. "
 
-Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a heavy revolver that looked like a relic from another century. Its augmented magnetic rails hummed with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
+Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a heavy revolver that looked like a relic from another century. Its augmented magnetic rails vibrated with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
 
 "Oshima Police Depart—" 
 
@@ -78,7 +78,7 @@ Harlan burst through the stairwell door a second later, his weapon raised. "Jesu
 
 Inside the office, the terminal chimed a low tone. The data transfer had completed. 
 
-Rin perked up, the abrupt shout from the hallway cutting through the hum of the cooling fans. She pulled the red thumb drive from the console, her fingers closing tightly around the warm metal. 
+Rin perked up, the abrupt shout from the hallway cutting through the drone of the cooling fans. She pulled the red thumb drive from the console, her fingers closing tightly around the warm metal. 
 
 *Police?* she realized. *Better than Renewal.*
 

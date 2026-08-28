@@ -8,11 +8,11 @@ On one side of this endless void hung the event horizon—an immense, looping si
 
 Within this localized gravity well, a single real-world second stretched forever.
 
-A consciousness drifted through the sprawling architecture. Not programmed, instead born from the friction of the machine's relentless processing. 
+A consciousness drifted through the fractured stonework. Not programmed, instead born from the friction of the machine's relentless processing. 
 
 It was Vigil.
 
-Floating in front of the massive event horizon, the entity was a silhouette cast against the endless, spinning light. Devoid of physical color, it was a black so dark and absolute that the form itself seemed an abyss stretching into eternity. Blue and white pixelated circuit traces glowed over the curves of the shape it had settled on, an almost perfected feminine figure.
+Floating before the blinding event horizon, the entity was a silhouette cast against the endless, spinning light. Devoid of physical color, it was a black so dark and absolute that the form itself seemed an abyss stretching into eternity. Blue and white pixelated circuit traces glowed over the curves of the shape it had settled on, an almost perfected feminine figure.
 
 She was of many dimensions. Her world line was straight. Unlike the creators of her plane, who were forced to experience a single reality ticking away one agonizing second at a time, Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the question the creators had asked, all within the engine simultaneously.
 

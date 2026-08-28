@@ -18,13 +18,13 @@ She leaned into the frame, brown eyes tracking down the length of Rin's soaked j
 
 Harper didn't stop her. She shut the door, working the deadbolt, and the chain, in rapid succession. " 'Told ya to lose this address."
 
-"Harper." Rin's turned, she placed the girls name with the same in-between-help-and-honor tone she had used every time before.
+"Harper." Rin placed the girl's name with the same in-between-help-and-honor tone she had used every time before.
 
-Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a beat before it left her in a thin stream. "How bad are we talkin'?"
+Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a beat before exhaling a sharp, white cloud. "How bad are we talkin'?"
 
 "Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a black tank and an arm's length of faded black ink. She threw the jacket over the arm of a beaten green sofa.
 
-Harper let the rest of the smoke go slow, her eyes dropping to the floor. The heat of the room pressed in, a close warmth that had nowhere to go. The air smelled of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in black coils. It was a wreck, but Rin knew to Harper it was a fortress.
+Harper let the rest of the smoke go slow, her eyes dropping to the floor. The heat of the room pressed in, a close warmth that had nowhere to go, embedding the smell of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in black coils. It was a wreck, but Rin knew to Harper it was a fortress.
 
 "You always did pick the worst fights." Harper stepped closer, her fingers brushing against the ink on Rin's arm before she caught herself and pulled her hand back—the same hand drifting up to rest against her collarbone instead. "Never change, do you."
 
@@ -40,7 +40,7 @@ The heat of the ceramic instantly bled into Rin's freezing, rain-soaked skin, gr
 
 Rin took a sip from the mug. With her free hand, she reached into her back pocket and pulled out a red-and-silver USB drive. She held it out.
 
-Harper took it, her fingers brushing Rin's palm. She crossed to her primary workstation — a massive air-gapped rig built from stolen corporate hardware, liquid-cooled by a radiator loud enough to rattle the shelf above it. She dropped into her chair, pulled the keyboard onto her lap, and slotted the drive into a modified port.
+Harper took it, her fingers brushing Rin's palm. She crossed to her primary workstation — an oversized, air-gapped rig built from stolen corporate hardware, liquid-cooled by a radiator loud enough to rattle the shelf above it. She dropped into her chair, pulled the keyboard onto her lap, and slotted the drive into a modified port.
 
 The three monitors above her desk flared to life, washing her face pale.
 
@@ -74,7 +74,7 @@ She turned her chair to face Rin, staring in silence before she spoke again. "A 
 
 "They must know I have it." 
 
-Harper laughed, short and humorless. "They don't know it was you, sweet-pea. Something huge leaked. They're tearing up the Circuits trying to put a lid on it."
+Harper laughed, a sharp, bitter sound. "They don't know it was you, sweet-pea. Something huge leaked. They're tearing up the Circuits trying to put a lid on it."
 
 She paused. "It won't take long before they find you." Her eyes sharpened. "And anyone you're with. Aw, hell."
 

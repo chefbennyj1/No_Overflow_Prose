@@ -2,7 +2,7 @@ Silas Blackwell took a drag from his cigarette, the ember flaring against the bl
 
 He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He exhaled, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no sprawling billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
+The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He exhaled, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
 
 He didn't need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
@@ -20,7 +20,7 @@ Blackwell raised the cigarette to his lips one last time, inhaling until the end
 
 The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the lower city. The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima, they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
-Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The cavernous annex was an imposing expanse of sleek, featureless architecture. Sharp, geometric angles of polished concrete soared above and plunged below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping  dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
+Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The multi-tiered annex was an imposing expanse of sleek, featureless architecture. Sharp, geometric angles of polished concrete soared above and plunged below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping  dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
 
 When the doors parted, the air inside the lab moved with a low vibration. It was the terrifying reality of the city's reactor channeling into the floor beneath their feet.
 
@@ -52,9 +52,9 @@ Elena didn't blink. She remained where she was, her posture shifting from subord
 
 The room erupted into a synchronized motion.
 
-Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the massive cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the white pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog in a spectral light.
+Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the heavy, iron-cast cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the white pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog in a spectral light.
 
-The reactor's hum shifted into a rhythmic pulse—a heavy vibration creeping through the concrete and into their bones. The very air in the lab felt thick with the sheer gravity of it.
+The mechanical drone of the reactor shifted into a rhythmic pulse—a heavy vibration creeping through the concrete and into their bones. The very air in the lab felt thick with the sheer gravity of it.
 
 Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was calm, unaffected by the reverberating force of his creation. 
 

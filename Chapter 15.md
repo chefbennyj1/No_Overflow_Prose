@@ -8,7 +8,7 @@ She took a slow step backward from the interface. The reflection of the  error s
 
 There was a dull, hollow thud that reverberated up through the concrete under her feet. Somewhere deep within the sub-levels of the tower, a power transformer blew. 
 
-The observation deck plunged into darkness as the overhead floodlights died. The mezzanine above her fell into black. The only illumination left in the cavernous room came from the bleeding glow of the holographic error strings and the submerged coolant pools below. 
+The observation deck plunged into darkness as the overhead floodlights died. The mezzanine above her fell into black. The only illumination left across the observation floor came from the bleeding glow of the holographic error strings and the submerged coolant pools below. 
 
 A sudden silence filled the lonely room, leaving her with an unanchored weightlessness.
 

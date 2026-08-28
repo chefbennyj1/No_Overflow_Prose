@@ -18,7 +18,7 @@ Rin stopped cold, and whipped around to face the electronics shop.
 
 But the screens were normal. The corporate anchorwoman droned on about the data breach, entirely undisturbed. 
 
-Rin stared at the televisions for a long moment, the freezing rain soaking into her collar. Her pulse hammered in her ears. She let out a shaky breath.
+Rin stared at the televisions for a long moment, the freezing rain soaking into her collar. A heavy pressure thumped in her ears. She let out a shaky breath.
 *It's just the exhaustion playing tricks,*  she told herself, though she didn't quite believe it. 
 
 Unable to shake the creeping sensation that she was still being watched, Rin pulled her collar up higher and vanished into the fog.
@@ -49,7 +49,7 @@ The man snatched the drive up. Without looking at Rin, he turned and presented i
 
 Madame Filament took it with her skeletal, ring-adorned hand. She turned it over, a grim smile pulling at the deep lines around her mouth. 
 
-"It seems you have a small issue of the Renewal following you down here, Rin," the old woman rasped, exhaling a thin stream of smoke. "When I control the routing, the district stops paying Takeda-Holden for the privilege of freezing in the dark."
+"It seems you have a small issue of the Renewal following you down here, Rin," the old woman said, her voice like grinding ash. She exhaled a long, ghostly plume of smoke. "When I control the routing, the district stops paying Takeda-Holden for the privilege of freezing in the dark."
 
 "I hope so," Rin said aloud.
 
@@ -93,7 +93,7 @@ Orange muzzle flashes erupted as both agents opened fire. The deafening gunfire 
 
 "Holy shit!" Rin exhaled through a heavy breath.
 
-*Corporate-grade plating.* Rin's heart hammered against her ribs. *My bullets aren't even gonna scratch that armor. Gotta get out.*
+*Corporate-grade plating.* Rin's heart slammed against her ribs. *My bullets aren't even gonna scratch that armor. Gotta get out.*
 
 Without hesitating, Rin abandoned the hallway and sprinted for the emergency stairwell, taking the concrete steps three at a time. 
 

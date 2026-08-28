@@ -4,7 +4,7 @@ Doctor Silas Blackwell stood on the mezzanine overlooking the Mnemosyne Engine, 
 
 Blackwell didn't reply. He turned away from the railing and walked into his private office. He stopped at his heavy wooden desk.
 
-His eyes locked onto the bookshelf.
+His gaze snapped to the bookshelf.
 
 Wedged between two heavy volumes was a black portfolio containing his original thesis paper on the necessity of Parity. The spine was usually flush with the leather books beside it. Now, it was jutting out of place.
 

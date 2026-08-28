@@ -4,7 +4,7 @@ The young man in the projection wore a dark blue jacket with a high square colla
 
 The smoke disrupted the hard-light matrix. The flickering light of the corrupted projection illuminated the angular lines of Blackwell's face and cast shadows against his white hair.
 
-"My office?" Blackwell's voice was a dry rasp. "What exactly did they access?"
+"My office?" Blackwell's voice was dead flat. "What exactly did they access?"
 
 The young manager on the display shifted uncomfortably. Digital artifacts crawled at his edges. "They accessed—" The young man's eyes went somewhere off-frame. "Everything, Doctor."
 
@@ -40,7 +40,7 @@ Iris's eyes went wide as she stared past her monitors, watching the screens spil
 
 Blackwell smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss." He exhaled. "While we were out for lunch, that machine lived through civilizations worth of generations."
 
-"I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic hum of the room. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
+"I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic drone of the servers. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
 
 Blackwell didn't move to stop her. He watched the pale light from the pillar readouts filtering through the heavy mist below. Amidst the telemetry, the shadow process flared again. 
 
