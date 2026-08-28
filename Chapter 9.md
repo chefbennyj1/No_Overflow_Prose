@@ -12,13 +12,13 @@ Smoke curled out through the gap before she did. Harper stood in the doorway, a 
 
 She leaned into the frame, brown eyes tracking down the length of Rin's soaked jacket and back up again.
 
-"You've got a lot of nerve showing up here." Her voice carried a slow, raspy Southern drawl that had no business existing in the chokehold of Oshima City.
+"You've got a lot of nerve showing up here." Her voice carried a slow, raspy Southern drawl that had no business existing in the chokehold of Oshima.
 
 "I need you to look at something." Rin pushed past her into the apartment without waiting for an invitation.
 
 Harper didn't stop her. She shut the door, working the deadbolt, and the chain, in rapid succession. " 'Told ya to lose this address."
 
-"It's corporate, Harper."
+"Harper." Rin's turned, she placed the girls name with the same in-between-help-and-honor tone she had used every times before.
 
 Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a beat before it left her in a thin stream. "How corporate are we talkin'?"
 
