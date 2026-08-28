@@ -18,9 +18,9 @@ She leaned into the frame, brown eyes tracking down the length of Rin's soaked j
 
 Harper didn't stop her. She shut the door, working the deadbolt, and the chain, in rapid succession. " 'Told ya to lose this address."
 
-"Harper." Rin's turned, she placed the girls name with the same in-between-help-and-honor tone she had used every times before.
+"Harper." Rin's turned, she placed the girls name with the same in-between-help-and-honor tone she had used every time before.
 
-Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a beat before it left her in a thin stream. "How corporate are we talkin'?"
+Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a beat before it left her in a thin stream. "How bad are we talkin'?"
 
 "Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a black tank and an arm's length of faded black ink. She threw the jacket over the arm of a beaten green sofa.
 
