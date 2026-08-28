@@ -8,9 +8,9 @@ He didn't need to turn around to know he was no longer alone. The faint hiss of 
 
 Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
-Elena Marlowe stood in the terrace enterance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the dark atrium behind her. Her natural, shoulder-length hair framed her face. She stood looking at Blackwell, her hands tightly gripping her data-pad.
+Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the dark atrium behind her. A gust of cold wind whipped across the terrace, pushing her natural, shoulder-length hair across her face.
 
-"Yes, Doctor Blackwell," she replied. Her golden eyes wide as they caught the reflection of the doors holographics.
+"Yes, Doctor Blackwell," she replied, tucking her hair behind her ear. Her golden eyes darted constantly, tracking unseen calculations in the air as the reflection of the door's blue holograms reflected across their glassiness.
 
 *Nervous*,  Blackwell thought, *and she should be*.  They were about to succeed in something  never before attempted in the history of modern quantum engineering.
 
