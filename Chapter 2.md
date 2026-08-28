@@ -11,11 +11,11 @@ A sudden flash of blue light reflected off the hallway walls. Rin jerked backwar
 
 The magnetic lock disengaged with a hollow thud. 
 
-She ran her fingers along the messy fringe of bangs that hung across her eyes, tucking the sharp, jagged sidelock of her black hime-cut bob behind her ear. She slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized, heavy leather jacket on yo the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
+She ran her fingers along the messy fringe of bangs that hung across her eyes, tucking the sharp, jagged sidelock of her black hime-cut bob behind her ear. She slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized, heavy leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
 
-As she crossed the center of the office, the window overlooking the lower city horizon, flared to life, a wave of blue pixels flowed across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of information. She approached the terminal sitting on the desk.
+As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a wave of blue pixels flowed across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of information. She approached the terminal sitting on the desk.
 
-She ignored the windows holographic display, and didn't admire the view. The data streaming across the glass represented sheer excess.  Rin pulled the black single-board controller from her jacket, jamming its connection wire into the main console. 
+She ignored the window's holographic display, and didn't admire the view. The data streaming across the glass represented sheer excess.  Rin pulled the black single-board controller from her jacket, jamming its connection wire into the main console. 
 
 The terminal awoke, projecting a  Takeda-Holden Corporation login screen. A minimal, white screen with black text.
 
@@ -35,11 +35,11 @@ She opened the file path. The screen flooded with classified schematics for some
 
 The blue telemetry data on the glass was a scaled holographic projection of the exact same tower schematic.
 
-Rin stepped backward in the room, moving away from the desk until the glowing wireframe eclipsed a structure looming in the distant city skyline. It was monitoring something spefically within that building— that had been tearing at the city's power grid for the better part of a month.
+Rin stepped backward in the room, moving away from the desk until the glowing wireframe eclipsed a structure looming in the distant city skyline. It was monitoring something specifically within that building—that had been tearing at the city's power grid for the better part of a month.
 
 Before she could dig deeper, the power routing keys download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
-Decidedly, she connected the red drive to the terminal. Her fingers instinctively found her jagged sidelock of dark hair and hooked it tightly behind her ear, she hammered the key to start the copy.
+Decidedly, she connected the red drive to the terminal. Her fingers instinctively found her jagged sidelock of dark hair and hooked it tightly behind her ear before she hammered the key to start the copy.
 
 ***
 
