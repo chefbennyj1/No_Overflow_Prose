@@ -23,9 +23,9 @@ Her fingers hit the 'enter' key of the mechanical keyboard. *Hello Company emplo
 
 Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled the trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that worked against her algorithms. She waited impatiently until the firewall finally gaveway, granting access to the executive files. 
 
-*Gotcha.* Her focus snapped to the data.
+*Gotcha.* Her focus snapped to the terminal screen.
 
-She bypassed the personal directories, diving straight into the infrastructure sub-networks. Her target was the municipal routing keys—the price 'The Filament' demanded to keep the lower grids online. But the network architecture was dense, built to deliberately slow data extraction. 
+She bypassed the personal directories, diving straight into the infrastructure sub-networks. Her target was municipal electrical access—the price demanded by "The Filament." The cartel used the siphoned electricity to extort small businesses in the Dead Circuits, but keeping the lower grid from freezing to death was worth the fallout. The network architecture in the company files was dense, built to deliberately slow data extraction.
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
