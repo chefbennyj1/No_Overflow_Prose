@@ -10,15 +10,15 @@ There was a dull, hollow thud that reverberated up through the concrete under he
 
 The observation deck plunged into darkness as the overhead floodlights died. The mezzanine above her fell into black. The only illumination left in the cavernous room came from the bleeding glow of the holographic error strings and the submerged coolant pools below. 
 
-A cold spike of adrenaline shot through Elena's spine. 
+A sudden silence filled the lonely room, leaving her with an unanchored weightlessness.
 
-She turned toward the reinforced security doors at the back of the lab. 
-
-She stopped. 
+She turned toward the reinforced security doors at the back of the lab, and stopped 
 
 Something was waiting in the dark. 
 
 It wasn't a night-shift engineer. The silhouette was rigid against the shadows.  Elena couldn't see a face. Just a waning crescent of ambient red light catching the edge of a porcelain white figure in the pitch-black. It didn't belong to the Takeda-Holden corporate line. Elena strained her focus in the dark.
+
+Tear ducts swelled in the corners of her eyes, and a steady beat began to pulse against her teeth.
 
 Then, it moved. 
 
