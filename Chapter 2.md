@@ -22,7 +22,7 @@ She didn't admire the view. The telemetry data streaming across the glass repres
 
 The terminal awoke, projecting a secure Takeda-Holden Corporation login screen in stark text. 
 
-Her fingers moved across the mechanical keyboard. *Hello Company employee: RD001, S. Blackwell.*
+Her fingers hit the 'enter' key of the mechanical keyboard. *Hello Company employee: RD001, S. Blackwell.*
 
 Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled the trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that worked against her algorithms. She typed furiously, manually guiding the breach until the firewall finally splintered, granting access to the executive files. 
 
@@ -62,7 +62,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 "We have to intercept Null before Corporate Renewal does," Victor said, his gaze fixed on the landing above. "If Takeda-Holden finds them first, months of work will have been for nothing. "
 
-Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a heavy revolver that looked like a relic from another century. Its augmented magnetic rails vibrated with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
+Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a heavy augmented revolver that looked like a relic from another century. Its magnetic rails vibrated with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
 
 "Oshima Police Depart—" 
 
@@ -86,7 +86,7 @@ She pocketed the drive, her gaze shifting from the window to the ajar executive 
 
 *Time to go.*
 
-Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte black with a faded yellow band painted around it. She held it in her palm. Rin ran her thumb over the rusted safety pin, staring at the small explosive for a fraction of a second as she calculated what she was about to do.
+Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte black with a faded yellow band painted around it. She held it in her palm. Rin ran her thumb over the rusted safety pin, staring at the small explosive as she calculated what she was about to do.
 
 With her free hand, she pulled a low-profile rebreather mask from her collar. It was a specialized filtration unit, far more advanced than the stained surgical masks worn by the crowds in the Dead Circuits below. She pulled the thick straps over her dark hair, the rubber sealing tightly around her nose and mouth with a faint hiss of pressurized air. 
 
@@ -118,7 +118,7 @@ Victor and Harlan stumbled backward, breaking through the fire door and collapsi
 
 Harlan leaned heavily against the concrete wall, his lungs burning as he gasped for air. "God... damn it!" he wheezed. "Did you... did you get a good look at her?"
 
-Victor remained silent for a moment, his red, bloodshot eyes fixed on the heavy metal of the fire door. He replayed the split-second of eye contact in his mind. The sharp eyes. The striking, feminine silhouette backlit by the bright anomaly data. 
+Victor remained silent for a moment, his red, bloodshot eyes fixed on the heavy metal of the fire door. He replayed the split-second of eye contact in his mind. The sharp eyes. The feminine silhouette backlit by the bright anomaly data. 
 
 "I did," Victor said, finally catching his breath.
 
@@ -126,7 +126,7 @@ Before Harlan could say another word, the heavy, synchronized thud of tactical b
 
 Harlan grabbed Victor’s arm, his voice dropping to a harsh whisper. "Victor... they just climbed fifteen flights. They aren't even breathing."
 
-Their humanity was obscured by glossy, faceless black helmets that reflected the harsh fluorescent light of the stairwell. The lead agent didn't speak. It simply stepped directly into Victor's personal space, towering over him. Victor could see his own pale reflection in the black glass. The agent shone a deliberately bright tactical light, scanning Harlan's upheld Oshima police badge before snapping the light, to burn directly into Victor's sensitive eyes.
+Their humanity was obscured by glossy, faceless black helmets that reflected the harsh fluorescent light of the stairwell. The lead agent didn't speak. He stepped directly into Victor's personal space, towering over him. Victor could see his own pale reflection in the black glass. The agent shone a deliberately bright tactical light, scanning Harlan's upheld Oshima police badge before snapping the light, to burn directly into Victor's sensitive eyes.
 
 Victor was still holding his heavy revolver. The entire squad shifted towards him in response. A silent, lethal threat.
 
