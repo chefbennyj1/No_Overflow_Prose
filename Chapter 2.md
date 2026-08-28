@@ -86,7 +86,7 @@ She pocketed the drive, her gaze shifting from the window to the ajar executive 
 
 *Time to go.*
 
-Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte black with a faded yellow band painted around it. She held it in her palm. Rin ran her thumb over the rusted safety pin, staring at the small explosive as she calculated what she was about to do.
+Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte black with a faded yellow band painted around it. She held it in her palm. It had taken seven people to drag a hulking Renewal agent to the ground long enough for the canister to snap loose from its belt—a bloody memory she tried to forget. Rin ran her thumb over the rusted safety pin, staring at the small explosive as she calculated what she was about to do.
 
 With her free hand, she pulled a low-profile rebreather mask from her collar. It was a specialized filtration unit, far more advanced than the stained surgical masks worn by the crowds in the Dead Circuits below. She pulled the thick straps over her dark hair, the rubber sealing tightly around her nose and mouth with a faint hiss of pressurized air. 
 
@@ -98,7 +98,7 @@ Victor and Harlan froze. They looked down at the grenade, then slowly looked at 
 
 "Gas," Harlan deadpanned. 
 
-They scrambled backward just as the canister erupted with a violent hiss. Thick, choking white smoke instantly flooded the narrow hallway, creating a dense wall of fog between the detectives and the office. 
+They scrambled backward as the canister erupted with a violent hiss. Thick, choking white smoke instantly flooded the narrow hallway, creating a dense wall of fog between the detectives and the office. 
 
 Victor dropped to one knee, coughing as the acrid chemical burned his sensitive eyes. He kept his weapon raised, squinting into the blinding white cloud. 
 
