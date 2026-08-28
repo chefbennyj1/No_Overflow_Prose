@@ -35,15 +35,11 @@ She opened the file path. The screen flooded with classified schematics for some
 
 The blue telemetry data on the glass was a scaled holographic projection of the exact same tower schematic.
 
-Rin stepped backward in the room, moving away from the desk until the glowing wireframe  eclipsed a structure looming in the distant city skyline. It was monitoring an anomaly; localized within that specific building— that had been tearing at the city's power grid for the better part of a month.
+Rin stepped backward in the room, moving away from the desk until the glowing wireframe eclipsed a structure looming in the distant city skyline. It was monitoring something spefically within that building— that had been tearing at the city's power grid for the better part of a month.
 
 Before she could dig deeper, the power routing keys download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
-*This will take time.*
-
-She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair and hooked it tightly behind her ear, she hammered the key to start the copy.
-
-She needed to finish her work before her luck ran out. 
+Decidedly, she connected the red drive to the terminal. Her fingers instinctively found her jagged sidelock of dark hair and hooked it tightly behind her ear, she hammered the key to start the copy.
 
 ***
 
