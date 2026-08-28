@@ -10,7 +10,7 @@ Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?
 
 Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the dark atrium behind her. A gust of cold wind whipped across the terrace, pushing her natural, shoulder-length hair across her face.
 
-"Yes, Doctor Blackwell," she replied, tucking her hair behind her ear. Her golden eyes darted constantly, tracking unseen calculations in the air as the reflection of the door's blue holograms reflected across their glassiness.
+"Yes, Doctor Blackwell," she replied, her golden eyes darted constantly, tracking unseen calculations in the air as the reflection of the door's blue holograms reflected across their glassiness.
 
 *Nervous*,  Blackwell thought, *and she should be*.  They were about to succeed in something  never before attempted in the history of modern quantum engineering.
 
@@ -32,7 +32,7 @@ A heavy layer of white gas rolled across the engine pit, obscuring the white pan
 
 "A drop in the bucket for what we're asking it to unearth, Miss Marlowe," Blackwell said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
 
-Bracing his weight against the railing, he leaned forward, his reflection distorted in the reinforced glass. "The board wants better data compression. A smarter artificial intelligence to predict their margins. They think I'm building them a calculator."
+Bracing his weight against the railing, he leaned forward, his reflection distorted in the reinforced glass. "The board wants better data compression. A smarter artificial intelligence to predict their margins."
 
 A humorless breath fogged the glass. "I'm building a monument. Harnessing my singularity."
 
