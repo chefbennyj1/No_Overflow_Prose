@@ -2,13 +2,10 @@
   
   The atmosphere was bitter, and thick with exhaust. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. Only the synthetics walked barefaced. The freezing rain beaded off their vinyl skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
 
-  Rising from the center of the old buildings was a Company data hub. The monolith structure was a pristine slab of mirrored, black glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*. 
+  Rising from the center of the old blocks was a Company office bulding. The monolith structure was a pristine slab of mirrored, black glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*. 
   
-  Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, a lone figure stood in the sterile hallway, pulling wires from an office's magnetic lock. 
-  
-  This was Rin.
-
-The corridor was otherwise silent, smelling of oxidizing disinfectants and recycled air. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away. 
+  Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, Rin stood in the sterile hallway, pulling wires from an office's magnetic lock.
+The corridor was otherwise silent. The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose, building the pressured tears of an unsneezable sneeze. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
 
 A sudden flash of blue light reflected off the narrow hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam searched for its missing retinal data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scanner and pulled a crude, wire-wrapped single-board computer from her jacket. She held the exposed motherboard against the lock's near-field communication display. A small green crystal screen on the SBC flickered to life, scrolling rapidly, eventually stopping on a hash of letters, and numbers.
 
@@ -18,7 +15,7 @@ She ran her fingers along the messy fringe of bangs that hung across her eyes, t
 
 As she crossed the center of the office, the room's seamless window flared to life, a wave of blue pixels flowed across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of telemetry data. She approached the terminal sitting on the polished black glass inlay of the wooden desk, ignoring the holographic overlay of the Dead Circuits tangled fifteen floors below.
 
-She didn't admire the view. The telemetry data streaming across the glass represented sheer excess—idle processing power that could keep the Dead Circuits heated through the winter. Rin pulled a black single-board controller from her jacket, jamming its connection wire into the main console. 
+She didn't admire the view. The telemetry data streaming across the glass represented sheer excess.  Rin pulled a black single-board controller from her jacket, jamming its connection wire into the main console. 
 
 The terminal awoke, projecting a secure Takeda-Holden Corporation login screen in stark text. 
 
@@ -44,7 +41,7 @@ Before she could dig deeper, the power routing keys download completed. Rin root
 
 *This will take time.*
 
-She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair that managed to fall into her face when she worked. She hooked it tightly behind her ear. Blowing a damp fringe out of her eyeline, she hammered the key to start the copy.
+She connected the red drive to the terminal. Her fingers instinctively found the jagged sidelock of dark hair and hooked it tightly behind her ear, she hammered the key to start the copy.
 
 She needed to finish her work before her luck ran out. 
 
