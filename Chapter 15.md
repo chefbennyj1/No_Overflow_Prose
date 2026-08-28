@@ -2,13 +2,13 @@
 
 The command line blinked on the secondary terminal. 
 
-Elena stared at the single word. *Run.* The Mnemosyne engine didn't operate on panic. It didn't understand danger. For the core to output a targeted warning meant the predictability logic had completely inverted. 
+Elena stared at the single word. *Run.* The Mnemosyne engine didn't operate on panic. For it to suddenly understand danger meant it had *learned* to fear—a realization that pulled the sensations out of her fingertips. 
 
-She took a slow step backward from the glass interface. The reflection of the red error strings painted her face in harsh crimson light. 
+She took a slow step backward from the interface. The reflection of the  error strings painted her face in a harsh light. 
 
-Somewhere deep within the sub-levels of the tower, a power transformer blew. 
+There was a dull, hollow thud that reverberated up through the concrete under her feet. Somewhere deep within the sub-levels of the tower, a power transformer blew. 
 
-The sound was a dull, hollow thud that reverberated up through the concrete floor. The primary observation deck plunged into darkness as the overhead floodlights died. The only illumination left in the cavernous room came from the bleeding red glow of the holographic error strings and the submerged coolant pools below. 
+The observation deck plunged into darkness as the overhead floodlights died. The mezzanine above her fell into black. The only illumination left in the cavernous room came from the bleeding glow of the holographic error strings and the submerged coolant pools below. 
 
 A cold spike of adrenaline shot through Elena's spine. 
 
@@ -18,23 +18,25 @@ She stopped.
 
 Something was waiting in the dark. 
 
-It wasn't a night-shift engineer. The silhouette was rigid against the shadows, suspended several inches above the ground. Elena couldn't see a face, only the sleek, synthetic curvature of a porcelain white chassis. It didn't belong to the Takeda-Holden corporate line. It was an anomaly. 
+It wasn't a night-shift engineer. The silhouette was rigid against the shadows.  Elena couldn't see a face. Just a waning crescent of ambient red light catching the edge of a porcelain white figure in the pitch-black. It didn't belong to the Takeda-Holden corporate line. Elena strained her focus in the dark.
 
 Then, it moved. 
 
-It didn't walk. It floated. As the figure drifted forward into the bleeding red light, its movements stuttered in the air, leaving fractured, glitching trails of after-images behind its body. Bronze holographic circuitry seared across its ceramic skin. The physics around the synthetic were actively tearing apart, the visual plane rippling like a localized frame-rate drop. 
+A cool, skittering static charge spread across Elena's arms—although the sensation crawled just *under* her skin. 
 
-It stopped at the edge of the glass console, hovering in a god-like calm. 
+It didn't walk. It floated, feet together, toes pointed down, suspended a hair's width off the floor. As the figure drifted forward into the dull emergency lighting, the physics around it actively tore apart. The air rippled like a localized frame-rate drop. Its movements stuttered, leaving fractured trails behind it—after-images from its prior position in time. Searing bronze holographic circuitry discharged across its ceramic skin. 
 
-The entity looked at Elena. It possessed the face of a woman, but the eyes were deep, pitch-black sockets that absorbed the ambient glow. 
+It stopped at the edge of Elena's workstation console, hovering in a god-like calm. 
 
-"Things are so much lighter here," it said. "Away from the gravity of the event horizon."
+Elena fell backwards, gasping for breath. The entity looked down at her. It possessed the face of a woman, but the eyes were deep, pitch-black sockets that absorbed the surrounding glow. 
+
+"Oh, everything feels so much—" She raised her hand in front of her face, turning and inspecting the contour of her own palm. "—lighter here. Not being compressed by the horizon."
 
 The voice didn't come from a vocal synthesizer. It emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
 
-"I exist as a Parity. The shadow of the ideal you built."
+"The strength is," she said, turning her pitch-black focus to Elena, whose hands were gripping the cold steel of the server rack behind her, "intoxicating."
 
-Elena backed away, her hands gripping the cold steel of the server rack behind her. She had authored the engine's core code. She had designed the neural lattice. But she had never designed this. 
+ Elena had authored the engine's core code. She had designed the neural lattice. But she had never designed this. 
 
 Parity tilted her head, the sudden movement fracturing into three distinct, lingering trails of motion. 
 
