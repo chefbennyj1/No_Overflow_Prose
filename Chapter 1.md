@@ -34,7 +34,7 @@ A heavy layer of white gas rolled across the engine pit, obscuring the white pan
 
 Bracing his weight against the railing, he leaned forward, his reflection distorted in the reinforced glass. "The board wants better data compression. A smarter artificial intelligence to predict their margins."
 
-A humorless breath fogged the glass. "I'm building a monument. Harnessing my singularity."
+A humorless breath fogged the glass. "What I'm building will pioneer a new era." He paused, listening to the quiet tick of the holographic monitors. "My singularity."
 
 "Doctor Blackwell. Silas." Elena's voice interrupted, a note of warning creeping into her tone. "The board dialed in."
 
