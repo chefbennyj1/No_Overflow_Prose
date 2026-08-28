@@ -46,17 +46,17 @@ The three monitors above her desk flared to life, washing her face pale.
 
 "I went in for the sector routing keys." Rin stood behind the chair. "The Filament needed them to keep the electricity on for the Dead Circuts."
 
-"The Filament? Jesus, Rin, they're practically terrorists." Harper opened the file structure one-handed, the cigarette climbing to her lips and back down between keystrokes without her ever looking away from the screen.
+"The Filament? Jesus, Rin, they're practically terrorists." Harper crushed her cigarette into an overflowing ashtray on the desk and popped a piece of bright pink bubblegum into her mouth. She opened the file structure, her jaw working aggressively as her fingers found their familiar places on the worn keys. The letters had rubbed off years ago, but she didn't need them. The sharp, incongruous smell of artificial strawberries cut through the air of the room.
 
 "I got the keys. But while I was inside the terminal, I found something. It was pulling too much power. I copied the directories —," she trailed off.
 
-Harper didn't answer. Scrolling code reflected in her eyes. The lazy warmth in her face was gone, replaced by the flat focus.
+Harper didn't answer, her teeth snapping loudly against the gum. Scrolling code reflected in her eyes. The lazy warmth in her face was gone, replaced by a flat, predatory focus.
 
 "This isn't standard encryption." She leaned closer to the screens. "They think they're gonna keep me out. Well, bless their hearts."
 
 "Can you crack it?"
 
-"Hold your horses, I can crack anything." A flash of defensive pride cut through her voice. "This account has R-and-D level access, Rin." She glanced back over her shoulder. "Whose account did you hack?"
+"Hold your horses, I can crack anything." A pink bubble snapped sharply against her lips, a flash of defensive pride cutting through her voice. "This account has R-and-D level access, Rin." She glanced back over her shoulder. "Whose account did you hack?"
 
 Her hand lifted off the keyboard. "Whoa." A wave of files spilled open across the screen.
 
