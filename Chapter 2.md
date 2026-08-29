@@ -21,7 +21,7 @@ The terminal awoke, projecting a  Takeda-Holden Corporation login screen. A mini
 
 Her fingers hit the 'enter' key of the mechanical keyboard. *Hello Company employee: RD001, S. Blackwell.*
 
-Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled the trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that worked against her algorithms. She waited impatiently for the firewall to give way. 
+Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled a trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that worked against her algorithms. She waited impatiently for the firewall to give way. 
 
 Down the hall, the elevator doors tried to close on the heavy steel wrench for the fifth time. *Clunk... ding.* The metal doors reopened.
 
@@ -33,9 +33,9 @@ She bypassed the personal directories, diving straight into the infrastructure s
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
-As the routing keys slowly copied to her drive, a hidden sub-process in Blackwell's directory caught her eye. It was a power consumption log. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
+As the routing keys slowly copied to her drive, a folder in Blackwell's directory caught her eye: *Separatrix Fusion Logs*. She opened the folder; it was full of power consumption logs. The current log file was growing at regular increments. She opened the file. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
 
-She opened the file path. The screen flooded with classified schematics for something called a *Mnemosyne Engine*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
+Beside the logs was one other hidden file, an operations file forced to become visible during her attack. It was named *Mnemo_1.opt*. She opened the file path. The screen flooded with classified schematics for something called a *Mnemosyne Engine*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
 
 The blue telemetry data on the glass was a scaled holographic projection of the exact same tower schematic.
 
