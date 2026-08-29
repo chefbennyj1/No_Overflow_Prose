@@ -85,18 +85,18 @@ She dropped the act, ripping the heavy pistol from her holster and driving the m
 
 "—RIGHT HERE!"
 
-She held the gun firmly against the agent and pulled the trigger point blank. The blast inside the tiny metal elevator car was agonizingly loud, instantly taking her hearing and replacing it with a shrill, piercing whine. The muzzle flashed against the agent's chest as the round sparked and ricocheted off the sleek black plating. The agent stumbled. Rin shoved past her into the hall. The agent planted her feet, looking down at her chest. A split second, then the face of the black mask snapped toward Rin.
+She held the gun firmly against the agent and pulled the trigger point-blank. The blast inside the tiny metal elevator car was agonizingly loud. The violent recoil kicked Rin's wrist back, her hand went numb as the heavy pistol slipped from her fingers, clattering onto the elevator floor. The round sparked and ricocheted off the sleek black plating, but the agent only stumbled. Rin didn't wait to grab the gun. She shoved past the staggered agent into the hall. The agent planted her feet, looking down at her chest. A split second, then the face of the black mask snapped toward Rin.
 
-"WEAPON! CONTACT FRONT!" the agent yelled, raising her tactical rifle, together with the other agent.
+"WEAPON!" the agent yelled, raising her tactical rifle, together with the other agent.
 
-Orange muzzle flashes erupted as both agents opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. Hot brass casings showered the concrete. She threw herself backward, scrambling behind the corner of the elevator shaft as a hail of bullets chewed through the plaster wall exactly where she had been standing. 
+Orange muzzle flashes erupted as both agents opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. Hot brass casings showered the concrete. She threw herself backward, her boot catching the  scattered pile of the old man's belongings. She hit the floor hard, scrambling on her hands and knees behind the corner of the elevator shaft as a hail of bullets chewed through the plaster wall exactly where she had been standing. 
 
-"Holy shit!" Rin exhaled through a heavy breath.
+"Holy shit!" Rin gasped. She squeezed her wrist between her thumb and forefinger, drumming her numb fingers in the air to force the feeling back.
 
-*Corporate-grade plating.* Rin's heart slammed against her ribs. *My bullets aren't even gonna scratch that armor. Gotta get out.*
+*Corporate-grade plating.* The copper taste of adrenaline flooded the back of her throat. *They didn't even flinch. Gotta get out.*
 
-Without hesitating, Rin abandoned the hallway and sprinted for the emergency stairwell, taking the concrete steps three at a time. 
+Without hesitating, Rin pulled herself up, abandoned the hallway, and sprinted for the emergency stairwell, taking the concrete steps three at a time. 
 
 "Dammit! Gone!" a muffled, modulated voice echoed down the stairwell behind her, barely audible over the ringing in her ears. "Radio it in. Tell them to send drone flyovers. Whoever she is, she won't get far."
 
-Rin hit the landing below, holstering her useless pistol and rubbing her throbbing ear before disappearing into the dark alleyway.
+Rin hit the landing below, rubbing her throbbing ear before disappearing into the dark alleyway.
