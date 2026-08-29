@@ -10,11 +10,11 @@ Rin tuned it out, as she pulled the red drive from her pocket. She turned it ove
 
 In the darkened glass of an adjacent storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison. 
 
-The anchorwoman's face fractured into heavy scanlines. Beneath it, in the static — hidden amongst  the  noise — a new visage formed. A face devoid of color. An absolute black. Pixelated circuit lines glowed, tracing out the shape of a face. Eyes burned a blinding, brilliant white, flaring with a blue aura along their lensed edges. She was breathtaking. She was terrifying.
+The anchorwoman's face fractured into heavy scanlines. Beneath it, in the static — hidden amongst  the  noise — a new visage formed. A face devoid of color. Pixelated circuit lines glowed, tracing out the shape of a face. Eyes burned a blinding, brilliant white, flaring with a blue aura along their lensed edges. 
 
 Its expression remained still, hauntingly focused. The glowing white eyes in the reflection were tracking Rin's every step.
 
-Rin stopped cold, and whipped around to face the electronics shop. 
+Rin stopped, and whipped around to face the electronics shop. 
 
 But the screens were normal. The corporate anchorwoman droned on about the data breach, entirely undisturbed. 
 
