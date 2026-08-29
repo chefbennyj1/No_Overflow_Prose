@@ -6,20 +6,22 @@ Veering away from the main thoroughfare, Rin stepped under the dripping, corruga
 
 "—officials continue investigating an early morning unauthorized data breach at the Takeda-Holden data hub," the anchorwoman’s modulated voice buzzed through a blown-out speaker above the door. "Renewal Agents are conducting authorized sweeps through several lower-city districts —"
 
-Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *Renewal wouldn't care about stolen electrical keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning.
+Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *Renewal wouldn't care about stolen electrical keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning, cross the road between the passing mag-cars.
 
-In the darkened glass of an adjacent storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison. 
+As she hit the adjacent curb she looked up, in the darkened glass of a storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison. 
 
-The anchorwoman's face fractured into heavy scanlines. Beneath it, in the static — hidden amongst  the  noise — a new visage formed. A face devoid of color. Pixelated circuit lines glowed, tracing out the shape of a face. Eyes burned a blinding, brilliant white, flaring with a blue aura along their lensed edges. 
+The anchorwoman's face fractured into heavy scanlines. Beneath the static—hidden amongst the broken signal—a new visage appeared. The shape of a face, devoid of color, composed across the stacked screens. Its eyes burned a blinding white, flaring with a blue aura along their lensed edges. The face breached and drowned in the dissonant black and white snow, surfacing from the static only to be pulled back under.
 
-Its expression remained still, hauntingly focused. The glowing white eyes in the reflection were tracking Rin's every step.
+Its expression remained still, hauntingly focused— on Rin. 
 
-Rin stopped, and whipped around to face the electronics shop. 
+Rin stopped, the glowing white eyes in the reflection had tracked her step. 
+
+She planted her boot and rotated  to face the wall of screens. 
 
 But the screens were normal. The corporate anchorwoman droned on about the data breach, entirely undisturbed. 
 
 Rin stared at the televisions for a long moment, the freezing rain soaking into her collar. A heavy pressure thumped in her ears. She let out a shaky breath.
-*It's just the exhaustion playing tricks,*  she told herself, though she didn't quite believe it. 
+*It's been a long day,* she told herself. *It was nothing,* though she didn't wholly believe it. 
 
 Unable to shake the creeping sensation that she was still being watched, Rin pulled her collar up higher and vanished into the fog.
 
