@@ -95,7 +95,7 @@ Orange muzzle flashes erupted as both agents opened fire. The deafening gunfire 
 
 *Corporate-grade plating.* Adrenaline flooded her body. *They didn't even flinch. Gotta get out.*
 
-Without hesitating, Rin pulled herself up, abandoned the hallway, and sprinted for the emergency stairwell, taking the concrete steps three at a time. 
+Rin kicked the steel door to the emergency stairwell open and pulled herself up. She abandoned the hallway, sprinting down the concrete steps three at a time. 
 
 "Dammit! Gone!" a muffled, modulated voice echoed down the stairwell behind her, barely audible over the ringing in her ears. "Radio it in. Tell them to send drone flyovers. Whoever she is, she won't get far."
 
