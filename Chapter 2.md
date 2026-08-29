@@ -115,7 +115,7 @@ Victor reached the elevator a second later, his gaze centered through the final 
 
 Victor and Rin's eyes met for the first time. Suppressing a violent cough, he spoke with absolute certainty, "Nowhere to hide, Null." 
 
-Rin startled at the sound of her alias, felt the weight of a vendetta in his voice. His stern, focused glare remained unyielding against the tearing pain of the smoke.
+Rin startled at the sound of her alias, felt the weight of a vendetta in his voice. His stern, unyielding glare trained on her, dispite the tearing pain of the smoke.
 
 The doors sealed shut. Null was gone. 
 
