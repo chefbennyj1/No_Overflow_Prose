@@ -21,11 +21,13 @@ The terminal awoke, projecting a  Takeda-Holden Corporation login screen. A mini
 
 Her fingers hit the 'enter' key of the mechanical keyboard. *Hello Company employee: RD001, S. Blackwell.*
 
-Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled the trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that worked against her algorithms. She waited impatiently until the firewall finally gave way, granting access to the executive files. 
+Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled the trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that worked against her algorithms. She waited impatiently for the firewall to give way. 
 
-Down the hall, the elevator doors tried to close on the heavy steel wrench for the fifth time. *Clunk... ding.* The metal doors retreated.
+Down the hall, the elevator doors tried to close on the heavy steel wrench for the fifth time. *Clunk... ding.* The metal doors reopened.
 
-*Gotcha.* Her focus snapped to the terminal screen.
+The SBC chirped, and the login on the terminal screen flashed simultaneously, granting access to the executive files. 
+
+*Gotcha.* Her focus snapped to the panel.
 
 She bypassed the personal directories, diving straight into the infrastructure sub-networks. Her target was municipal electrical access—the price demanded by "The Filament." The cartel used the siphoned electricity to extort small businesses in the Dead Circuits, but keeping the lower grid from freezing to death was worth the fallout. The network architecture in the company files was dense, built to deliberately slow data extraction.
 
