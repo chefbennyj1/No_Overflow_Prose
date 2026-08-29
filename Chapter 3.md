@@ -91,7 +91,7 @@ She held the gun firmly against the agent and pulled the trigger point-blank. Th
 
 Orange muzzle flashes erupted as both agents opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. Hot brass casings showered the concrete. She threw herself backward, her boot catching the  scattered pile of the old man's belongings. She hit the floor hard, scrambling on her hands and knees behind the corner of the elevator shaft as a hail of bullets chewed through the plaster wall exactly where she had been standing. 
 
-"Holy shit!" Rin gasped. She squeezed her wrist between her thumb and forefinger, drumming her numb fingers in the air to draw the feeling back.
+"Holy shit!" Rin gasped. Her back against the wall, she squeezed her wrist between her thumb and forefinger, drumming her numb fingers in the air to draw the feeling back.
 
 *Corporate-grade plating.* Adrenaline flooded her body. *They didn't even flinch. Gotta get out.*
 
