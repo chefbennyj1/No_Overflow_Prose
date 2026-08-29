@@ -89,19 +89,17 @@ Rin hooked her finger through the grenade's metal ring.
 
 Out in the hall, Victor tightened his grip on his heavy revolver, stepping toward the office door. Harlan sidestepped beside him, slowly pulling back the slide of his pistol. The metal clicked, and he guided the slide softly forward to chamber a round, then gave Victor a tight nod.
 
-But before they could breach the office, the familiar sound echoed through the hallway. *Clunk... ding.*
+But before they could breach the office, the familiar sound echoed through the hallway. *Clunk... ding*.
 
-Only this time, the metallic ring was hollow and slightly out of tune. 
+Only this time, the metallic ring was hollow and slightly out of tune.
 
 Victor looked down. A black canister with a faded yellow band had rolled to a stop against the toe of his standard-issue dress shoes, having bounced off the metal doorframe of the office.
 
-Victor and Harlan froze. They looked down at the grenade, then slowly looked at each other. 
+He felt the abrupt, hardened force of Harlan grabbing his coat with both hands, twisting him backward as they fell against the wall. 
 
-"Gas," Harlan deadpanned. 
+The canister erupted with a violent hiss. Thick, choking white smoke instantly flooded the narrow hallway, creating a dense wall of fog between the detectives and the office. 
 
-They scrambled backward as the canister erupted with a violent hiss. Thick, choking white smoke instantly flooded the narrow hallway, creating a dense wall of fog between the detectives and the office. 
-
-Victor dropped to one knee, coughing as the acrid chemical burned his sensitive eyes. He kept his weapon raised, squinting into the blinding white cloud. 
+Victor propped himself up to one knee, coughing as the acrid chemical burned his sensitive eyes. He rasied his weapon, squinting into the blinding white cloud. 
 
 Through the haze, a lithe, feminine silhouette emerged. Backlit by the blue light of the office, refracting through the fog and stretching into long rays around her. 
 
