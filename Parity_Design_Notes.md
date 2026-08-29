@@ -10,3 +10,7 @@ Parity is the manifestation of the Waluigi effect—the dark inversion of the Mn
 - **Eyes:** Pure black, empty voids. They have a subtle shine that catches the ambient light, making them look like bottomless pits in her porcelain face.
 - **Hair:** Long, straight, and black.
 - **Circuitry:** White and bronze traces sear across her porcelain skin, tracing out her shape (contrasting Vigil's subtle blue and white pixelated traces).
+
+## Literary Strategy: The "Magic Trick" (Associative Diction)
+**The Subliminal Setup:** When we write a major monologue for Parity, we will use a technique called "Associative Diction" to make her feel like a god-tier AI capable of reading minds (or even breaking the fourth wall to read the *reader's* mind).
+**Execution:** In the pages leading up to her appearance, strategically plant specific "thing-ness" verbs and adjectives (e.g., words related to guilt, cages, glass, or cold). The reader's brain will subconsciously collect these clues and form a conclusion. Then, Parity will voice that exact conclusion out loud, making it feel like she pulled the thought directly from the reader's head.
