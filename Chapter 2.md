@@ -47,13 +47,13 @@ The fluorescent lights of the maintenance stairwell flickered, casting active sh
 
 "Fifteen floors up with no elevator, Victor?" Harlan gasped, loosening the tie of his grey suit. He leaned against the metal railing to catch his breath. "—You sure it's Null this time?"
 
-Victor didn't slow his ascent. His black coat whipped at his ankles with each quick step. Overhead, the lights came up hard off the polished concrete of the stairwell. His eyes watered under the glare. He didn't blink it away. He kept climbing. The light caught his white hair when he turned at the landing, went through his Albinotic eyes and came back a red. 
+Victor didn't slow his ascent. His black coat whipped at his ankles with each quick step. He kept climbing. The light caught his white hair when he turned at the landing, went through his Albinotic eyes and came back a red. 
 
-"Positive, Harlan," Victor said, his voice steady, betraying no exertion. "We've been hunting them for months. They won't get past me again."
+"Yeah," Victor said, his voice steady. "— Not losin' this lead, Harlan. —Best we got to the Filament. Null won't get past me again."
 
 "If we don't have a heart attack first," Harlan said, pushing off the railing to keep up. 
 
-"We have to get to Null before Corporate Renewal does," Victor said, his gaze fixed on the landing above. "If Takeda-Holden finds them first, months of work will have been for nothing. "
+"We gotta to get to Null before Corporate Renewal," Victor said, his gaze fixed on the landing above. "If Takeda-Holden finds them—,  months of work will have been for nothing," Victor turned back looking at Harlan on the landing below him, "and we want those mafia bastards."
 
 Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a heavy augmented revolver that looked like a relic from another century. Its magnetic rails vibrated with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
 
