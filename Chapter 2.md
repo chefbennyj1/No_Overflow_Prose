@@ -7,11 +7,11 @@
   Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, Rin stood in the company hallway, pulling wires from an office's magnetic lock.
 The corridor was otherwise silent. The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose, building the pressured tears of an unsneezable sneeze. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
 
-A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam searched for its missing data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. She held the exposed motherboard against the lock's near-field communication display. The green crystal screen on the SBC flickered to life, scrolling rapidly, eventually stopping on a hash of pixelated letters, and numbers.
+A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam searched for its missing data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. She held the exposed motherboard against the lock's near-field communication display. The green crystal screen on the SBC flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
 
 The magnetic lock disengaged with a hollow thud. 
 
-She ran her fingers along the messy fringe of bangs that hung across her eyes, tucking the sharp, jagged sidelock of her black hime-cut bob behind her ear. She slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized, heavy leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
+She ran her fingers along the messy fringe of bangs that hung across her eyes, tucking the jagged sidelock of her black hime-cut bob behind her ear. She slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized, heavy leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
 
 As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a wave of blue pixels flowed across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of information. She approached the terminal sitting on the desk.
 
@@ -22,6 +22,8 @@ The terminal awoke, projecting a  Takeda-Holden Corporation login screen. A mini
 Her fingers hit the 'enter' key of the mechanical keyboard. *Hello Company employee: RD001, S. Blackwell.*
 
 Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled the trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that worked against her algorithms. She waited impatiently until the firewall finally gave way, granting access to the executive files. 
+
+Down the hall, the elevator doors tried to close on the heavy steel wrench for the fifth time. *Clunk... ding.* The metal doors retreated.
 
 *Gotcha.* Her focus snapped to the terminal screen.
 
@@ -57,7 +59,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a heavy augmented revolver that looked like a relic snatched from another century, with retrofitted magnetic rails that vibrated with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
 
-"Oshima Police Depart—" Victor caught himself. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Through the opening, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
+"Oshima Police Depart—" Victor caught himself. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk... ding.* Victor ignored the noise. Through the opening in the suite, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
 
 Harlan burst through the stairwell door a second later, his weapon raised. "Jesus, Victor! You're being reckless—"
 
@@ -84,7 +86,7 @@ Rin hooked her finger through the grenade's metal ring.
 
 Out in the hall, Victor tightened his grip on his heavy revolver, stepping toward the office door. Harlan sidestepped beside him, slowly pulling back the slide of his pistol as they inched forward. The metal clicked. He guided the slide softly forward to chamber a round, then gave Victor a tight nod.
 
-But before they could breach the office, a black canister with a yellow band rolled out from the gap, coming to a dead stop exactly at the tips of his standard-issue dress shoes. 
+But before they could breach the office, a black canister with a yellow band rolled out from the gap, bouncing off the metal doorframe. *Clunk... ding.* It came to a dead stop exactly at the tips of his standard-issue dress shoes.
 
 Victor and Harlan froze. They looked down at the grenade, then slowly looked at each other. 
 
@@ -96,7 +98,7 @@ Victor dropped to one knee, coughing as the acrid chemical burned his sensitive 
 
 Through the haze, a lithe, feminine silhouette emerged. Backlit by the blue light of the office, refracting through the fog and stretching into long rays around her. 
 
-Before Victor could blink through the pain and adjust his aim, she was moving. She didn't engage. Slipping past them like a ghost, sprinting down the sterile corridor. 
+Before Victor could blink through the pain and adjust his aim, she was moving. She didn't engage. Slipping past them, sprinting down the corridor. 
 
 "She's running!" Harlan choked out, stumbling blindly against the hallway wall. 
 
