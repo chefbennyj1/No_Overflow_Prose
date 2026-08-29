@@ -2,15 +2,15 @@ The night market of her sector was a claustrophobic canyon of commerce. Signs, h
 
 Rin walked with her head down, the collar of her heavy leather jacket pulled up against the night air. She had kept a low profile all day. Meeting the detective eye to eye was a mistake she kept replaying in her mind. *How long have they known my alias?* she wondered. *How long have they been chasing Null?* The work for the Filament had made her known. She wiped a streak of freezing rain from her cheek. *Always tastes like there's dirt in my mouth,* she thought, feeling the weight of the Dead Circuits again.
 
-Veering away from the main thoroughfare, Rin stepped under the dripping, corrugated awning of a derelict electronics shop to escape the downpour. The storefront was heavily barred, an iron cage protecting a graveyard of obsolete technology. Behind the rain-streaked glass, a dozen vintage, bulky television sets were stacked haphazardly atop one another. They were all tuned to the same channel, illuminating the slick street a flickering blue. On every screen, the identical, impassive face of a corporate anchorwoman delivered the evening broadcast. 
+Veering away from the main thoroughfare, Rin stepped under the dripping, corrugated awning of a derelict electronics shop to escape the downpour. The storefront was heavily barred, an iron cage protecting a graveyard of obsolete technology. Behind the rain-streaked glass, a dozen vintage, bulky television sets were stacked haphazardly atop one another. They were all tuned to the same channel, flickering light on the the slick street. On every screen, the identical, impassive face of a corporate anchorwoman delivered the evening broadcast. 
 
 "—officials continue investigating an early morning unauthorized data breach at the Takeda-Holden data hub," the anchorwoman’s modulated voice buzzed through a blown-out speaker above the door. "Renewal Agents are conducting authorized sweeps through several lower-city districts —"
 
-Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *They wouldn't care about stolen routing keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning.
+Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *Renewal wouldn't care about stolen electrical keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning.
 
 In the darkened glass of an adjacent storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison. 
 
-The anchorwoman's face fractured into heavy scanlines. Beneath it, in the static — hidden amongst  the  ancient noise — a new visage formed. A face devoid of color. An absolute black. Pixelated circuit lines glowed, tracing out the shape of a face. Eyes burned a blinding, brilliant white, flaring with a blue aura along their lensed edges. She was breathtaking. She was terrifying.
+The anchorwoman's face fractured into heavy scanlines. Beneath it, in the static — hidden amongst  the  noise — a new visage formed. A face devoid of color. An absolute black. Pixelated circuit lines glowed, tracing out the shape of a face. Eyes burned a blinding, brilliant white, flaring with a blue aura along their lensed edges. She was breathtaking. She was terrifying.
 
 Its expression remained still, hauntingly focused. The glowing white eyes in the reflection were tracking Rin's every step.
 
