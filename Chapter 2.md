@@ -29,15 +29,15 @@ The SBC chirped, and the login on the terminal screen flashed simultaneously, gr
 
 *Gotcha.* Her focus snapped to the panel.
 
-She bypassed the personal directories, diving straight into the infrastructure sub-networks. Her target was municipal electrical access—the price demanded by "The Filament." The cartel used the siphoned electricity to extort small businesses in the Dead Circuits, but keeping the lower grid from freezing to death was worth the fallout. The network architecture in the company files was dense, built to deliberately slow data extraction.
+She bypassed the personal directories, diving straight into the infrastructure sub-networks. Her target was municipal electrical access—the price demanded by "The Filament," the cartel who ran the Dead Circuits. The network architecture in the company files was dense, built to deliberately slow data extraction.
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
-As the routing keys slowly copied to her drive, a folder in Blackwell's directory caught her eye: *Separatrix Fusion Logs*. She opened the folder; it was full of power consumption logs. The current log file was growing at regular increments. She opened the file. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
+As the routing keys slowly copied to her drive, a folder in Blackwell's directory caught her eye: *Separatrix Fusion Logs*. She opened the folder; it was full of power consumption logs. The current log file was growing at regular increments. She viewed the file. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
 
-Beside the logs was one other hidden file, an operations file forced to become visible during her attack. It was named *Mnemo_1.opt*. She opened the file path. The screen flooded with classified schematics for something called a *Mnemosyne Engine*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
+Beside the logs was one other hidden file, an operations file forced to become visible during her attack. It was named *Mnemo_1.opt*. She opened the file path. The screen flooded with classified schematics for a program called *Project Mnemosyne*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
 
-The blue telemetry data on the glass was a scaled holographic projection of the exact same tower schematic.
+The blue holographic data on the glass was a scaled projection of the exact same tower schematic.
 
 Rin stepped backward in the room, moving away from the desk until the glowing wireframe eclipsed a structure looming in the distant city skyline. It was monitoring something specifically within that building—that had been tearing at the city's power grid for the better part of a month.
 
@@ -59,13 +59,13 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 "We gotta get to Null before Corporate Renewal," Victor said, his gaze fixed on the landing above. "If Takeda-Holden finds them first, months of work will have been for nothing." Victor turned back, looking at Harlan on the landing below him. "And we want those mafia bastards."
 
-Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a heavy augmented revolver that looked like a relic snatched from another century, with retrofitted magnetic rails that vibrated with a low charge, a red indicator light blinking on the side to signify its readiness to fire. 
+Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a heavy augmented revolver that looked like a relic snatched from another century, with retrofitted magnetic rails that vibrated with a low charge, and a red indicator light blinking on the side to signify its readiness to fire. 
 
-"Oshima Police Depart—" Victor caught himself. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk... ding.* Victor ignored the noise. Through the opening in the suite, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
+"Oshima Police Depart—" Victor caught himself. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk... ding.* Victor ignored the noise, his attention drawn to the opened door. Through the opening in the suite, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
 
 Harlan burst through the stairwell door a second later, his weapon raised. "Jesus, Victor! You're being reckless—"
 
-"Quiet," Victor murmured, raising his index finger towards Harlan, then pointing to the open door. Following the signal, Harlan snapped his focus to the end of the hall. The two detectives advanced down the sterile corridor, closing the distance to the executive suite.
+"Quiet," Victor murmured, raising his index finger towards Harlan, then pointing to the open door. Following the signal, Harlan snapped his focus to the end of the hall. The two detectives advanced down the corridor, closing the distance to the executive suite.
 
 ***
 
@@ -75,20 +75,25 @@ Rin perked up, the abrupt shout from the hallway cutting through muted silence o
 
 *Police?* she realized. *Better than Renewal.*
 
-She pocketed the drive, her gaze shifting from the window to the ajar executive doors. 
+She pocketed the drive, her gaze shifting back to the window, then again to the ajar executive doors. 
 
 *Time to go.*
 
 Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte black with a faded yellow band painted around it. She held it in her palm. It had taken seven people to drag a hulking Renewal agent to the ground long enough for the canister to snap loose from its belt—a bloody memory she tried to forget. Rin ran her thumb over the rusted safety pin, staring at the small explosive as she calculated what she was about to do.
 
-With her free hand, she pulled a low-profile rebreather mask from her collar. It was a specialized filtration unit, far more advanced than the stained surgical masks worn by the crowds in the Dead Circuits below. She pulled the thick straps over her dark hair, the rubber sealing tightly around her nose and mouth with a faint hiss of pressurized air. 
+With her free hand, she pulled a low-profile rebreather mask from her collar. It was a specialized, far more advanced than the stained surgical masks worn by the crowds in the Dead Circuits below. She pulled the thick straps over her dark hair, the rubber sealing tightly around her nose and mouth with a faint hiss of pressurized air. 
 
 Rin hooked her finger through the grenade's metal ring.
 
 
-Out in the hall, Victor tightened his grip on his heavy revolver, stepping toward the office door. Harlan sidestepped beside him, slowly pulling back the slide of his pistol as they inched forward. The metal clicked. He guided the slide softly forward to chamber a round, then gave Victor a tight nod.
 
-But before they could breach the office, a black canister with a yellow band rolled out from the gap, bouncing off the metal doorframe. *Clunk... ding.* It came to a dead stop exactly at the tips of his standard-issue dress shoes.
+Out in the hall, Victor tightened his grip on his heavy revolver, stepping toward the office door. Harlan sidestepped beside him, slowly pulling back the slide of his pistol. The metal clicked, and he guided the slide softly forward to chamber a round, then gave Victor a tight nod.
+
+But before they could breach the office, the familiar sound echoed through the hallway. *Clunk... ding.*
+
+Only this time, the metallic ring was hollow and slightly out of tune. 
+
+Victor looked down. A black canister with a faded yellow band had rolled to a stop against the toe of his standard-issue dress shoes, having bounced off the metal doorframe of the office.
 
 Victor and Harlan froze. They looked down at the grenade, then slowly looked at each other. 
 
