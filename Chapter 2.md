@@ -111,11 +111,11 @@ Before Victor could blink through the pain and adjust his aim, she was moving. S
 
 Victor surged to his feet, ignoring the burning in his eyes, but she was too fast. He watched through the clearing smoke as she reached the end of the hall, sliding seamlessly into the elevator car. She kicked the heavy wrench from the floor track with her boot, freeing the doors from their open state. 
 
-Victor reached the elevator a second later, his gaze focused through the final sliver of the closing doors. 
+Victor reached the elevator a second later, his gaze centered through the final sliver of the closing doors. 
 
-For a moment, Victor and Rin's eyes met for the first time. Suppressing a violent cough, he spoke with absolute certainty, "Nowhere to hide, Null." 
+Victor and Rin's eyes met for the first time. Suppressing a violent cough, he spoke with absolute certainty, "Nowhere to hide, Null." 
 
-Rin startled at the sound of her alias, felt the vendetta'd weight in his voice. His stern, focused glare remained unyielding against the tearing pain of the smoke.
+Rin startled at the sound of her alias, felt the weight of a vendetta in his voice. His stern, focused glare remained unyielding against the tearing pain of the smoke.
 
 The doors sealed shut. Null was gone. 
 
