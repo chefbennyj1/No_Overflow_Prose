@@ -6,7 +6,7 @@ Veering away from the main thoroughfare, Rin stepped under the dripping, corruga
 
 "—officials continue to investigate an early morning unauthorized data breach at a Takeda-Holden office building downtown," the anchorwoman’s voice buzzed through a blown-out speaker above the door. "Renewal Agents are conducting authorized sweeps through several lower-city districts —"
 
-Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *Renewal wouldn't care about stolen electrical keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning, crossing the road between the passing mag-cars. The heavy vehicles were suspended inches above the broken pavement on magnetic cushions. They vibrated, pushing the flooding rainwater away from their undercarriages in a continuous ripple.
+Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *Renewal wouldn't care about stolen electrical keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning. Heavy vehicles  suspended inches above the broken pavement on magnetic cushions passed along the wet road. They vibrated, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars. 
 
 As she hit the adjacent curb she looked up, in the darkened glass of a storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison. 
 
@@ -87,18 +87,24 @@ She dropped the act, ripping the heavy pistol from her holster and driving the m
 
 She pulled the trigger point-blank. The blast inside the tiny metal elevator car was agonizingly loud. The violent recoil kicked Rin's wrist back. Her hand went numb as the heavy pistol slipped from her fingers, clattering onto the elevator floor. The heavy round shattered against the sleek black plating, dumping its kinetic energy into the armor, but the agent only stumbled. 
 
-Rin didn't wait to grab the gun. She shoved past the staggered agent into the hall. The agent planted her feet, looking down at her chest. A split second, then the face of the black mask snapped toward Rin.
+Rin didn't wait to grab the gun. She shoved past the staggered agent and stumbled into the hall. The agent planted her feet, looking down at her chest. A split second, then the face of the black mask snapped toward Rin.
 
 Both agents raised their tactical rifles.
 
-Rin turned her back to the hallway, stretching her arms out to find her spatial awareness, feeling the walls with her fingertips. She could taste the residue of gunpowder from the close-encounter gunshot. The air was drying every terrified inch of her eyes as she fixed her attention on the two agents. Orange muzzle flashes erupted as they opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. She threw herself backwards as a hail of bullets chewed through the plaster exactly where she had been standing. Hot brass casings showered the filthy hallway carpet. Her heel caught the scattered pile of the old man's belongings. She hit the floor hard, scrambling on her hands and knees around the elevator buildout toward the emergency stairwell.
+Rin turned in the hallway facing the agents, backing slowly away with outstretched arms, feeling the walls with her fingertips. She could taste the residue of gunpowder from the close-encounter gunshot. The air was drying every terrified inch of her eyes as she fixed her attention on the two agents. Orange muzzle flashes erupted as they opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. She threw herself backwards, as a hail of bullets chewed through the plaster exactly where she had been standing. Hot brass casings showered the filthy hallway carpet. Her heel caught the scattered pile of the old man's belongings. She hit the floor hard, scrambling on her hands and knees around the elevator buildout toward the emergency stairwell.
 
-"Holy shit!" Rin gasped. Her back against the wall, she squeezed her wrist between her thumb and forefinger, drumming her numb fingers in the air to draw the feeling back.
+"Shit!" Rin gasped. Her back pressed against the wall, she squeezed her wrist between her thumb and forefinger, drumming her numb fingers in the air to draw the feeling back. Instinctively, she patted her jacket pocket. 
 
-*Corporate-grade plating.* Adrenaline flooded her body. *—didn't even flinch.*
+Empty. 
 
-Rin kicked the steel door to the emergency stairwell open and pulled herself up. She abandoned the hallway, sprinting down the concrete steps three at a time. 
+The slow, trenching crunch of heavy boots advanced down the hallway. Peering around the corner, Rin spotted her thumb drive. Camouflaged in the dirty red pattern of the carpet, it sat exactly where she had hit the floor. 
 
-"Target lost," a muffled, modulated voice echoed down the stairwell behind her, barely audible over the ringing in her ears. "Radio it in."
+*Corporate-grade plating.* Adrenaline flooded her body. *They won't stop.*
+
+Rin grit her teeth, threw her hand back around the corner into the line of fire, and snatched the drive off the carpet. A hail of bullets ripped into the floor.
+
+Clutching it tight, she kicked the steel door to the emergency stairwell open and pulled herself up. She abandoned the hallway, sprinting down the concrete steps three at a time. 
+
+"Radio it in," a muffled, modulated voice echoed down the stairwell behind her, barely audible over the ringing in her ears.
 
 Rin hit the landing below, rubbing her throbbing ear before disappearing into the dark alleyway.
