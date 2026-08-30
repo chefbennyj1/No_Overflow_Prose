@@ -13,10 +13,7 @@ As she hit the adjacent curb she looked up, in the darkened glass of a storefron
 The anchorwoman's face fractured into heavy scanlines. Beneath the static—hidden amongst the broken signal—a new visage appeared. The shape of a face, devoid of color, composed across the stacked screens. Its eyes burned a blinding white, flaring with a blue aura along their lensed edges. The face breached and drowned in the dissonant black and white snow, surfacing from the static only to be pulled back under.
 
 Its expression remained still, hauntingly focused— on Rin. 
-
-Rin stopped, the glowing white eyes in the reflection had tracked her step. 
-
-She planted her boot and rotated  to face the wall of screens. 
+She planted her boot and rotated to face the wall of screens. 
 
 But the screens were normal. The corporate anchorwoman droned on about the data breach, entirely undisturbed. 
 
