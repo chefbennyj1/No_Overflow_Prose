@@ -17,9 +17,9 @@ She let out a shaky breath, and her boots scuffed the wet pavement as she turned
 
 But the screens were normal. The corporate anchorwoman droned on about the data breach, entirely undisturbed. 
 
-Rin stared at the televisions for a long moment. The freezing rain soaked past her jacket and the cloth of her black tank, chilling to her skin.  She ran her fingers along the smooth casing of the red drive in her pocket.
+Rin stared at the televisions for a long moment. The freezing rain soaked past her jacket and the cloth of her black tank, chilling to her skin.  She ran her fingers along the casing of the red drive again, in her pocket.
 
-A sharp bite of static snapped against her wet fingertips. She pulled her hand from her pocket quickly. The drive was inert, but the shock felt deliberate. Unable to shake the creeping sensation that she was still being watched, Rin pulled her collar up higher and vanished into the fog.
+A sharp bite of static snapped against her wet fingertips. She pulled her hand away quickly. The drive was inert, but the shock felt deliberate. Unable to shake the creeping sensation that she was still being watched, Rin pulled her collar up higher and vanished into the fog.
 
 ***
 
