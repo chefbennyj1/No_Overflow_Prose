@@ -6,7 +6,7 @@ Veering away from the main thoroughfare, Rin stepped under the dripping, corruga
 
 "—officials continue to investigate an early morning unauthorized data breach at a Takeda-Holden office building downtown," the anchorwoman’s voice buzzed through a blown-out speaker above the door. "Renewal Agents are conducting authorized sweeps through several lower-city districts —"
 
-Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *Renewal wouldn't care about stolen electrical keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning. Heavy vehicles  suspended inches above the broken pavement on magnetic cushions passed along the wet road. They vibrated, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars. 
+Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *Renewal wouldn't care about stolen electrical keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning. Heavy vehicles  suspended inches above the broken pavement on magnetic cushions glided passed slowly along the wet road. They vibrated, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars. 
 
 As she hit the adjacent curb she looked up, in the darkened glass of a storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison. 
 
@@ -23,21 +23,21 @@ A sharp bite of static snapped against her wet fingertips. She pulled her hand a
 
 ***
 
-Three blocks deep into the slums, an angled luxury cruiser idled in the rain, completely out of place. It was a low-slung wedge of glossy black panels and tinted glass that reflected the city's neon like a dark mirror. Unlike the battered street traffic, its magnetic cushion was a flawless, silent vibration.
+Three blocks deep into the slums, an angled luxury cruiser idled in the rain, completely out of place. It was a low-slung wedge of glossy black panels and tinted glass that reflected the city's lights like a dark mirror. Unlike the battered street traffic, its magnetic cushion was a flawless, silent vibration.
 
-Rin stopped where the street opened out, her hand drawn to the pistol under her jacket. The cruiser sat low on its cushion, its taillights scattering red across the flooded pavement. A man stood at the curb beneath a black umbrella, wearing a long black coat over a suit. His polished loafers—a dead giveaway—were getting ruined by the grime. He nonchalantly watched the car, though his predatory gaze kept shifting to the street and back. He hauled on his cigarette as the headlights of a passing mag-car caught the bulge of the gun under his coat. She didn't need to look for the second one. He was across the road in the doorway of a gutted storefront, his grimacing face already watching her. He gave a slow nod, signaling her to proceed, before stepping back into the shadow of the storefront, noticeable then only by the glowing drag of his cigarette.
+Rin stopped where the street opened out, her hand drawn to the pistol under her jacket. The cruiser sat low on its cushion, its taillights scattering red across the flooded pavement. A man stood at the curb beneath a black umbrella, wearing a long black coat over a suit. His polished loafers—a dead giveaway—were getting ruined by the grime. He nonchalantly watched the car, though his gaze kept shifting to the street and back. He hauled on his cigarette as the headlights of a passing mag-car caught the bulge of the gun under his coat. She didn't need to look for the second one. He was across the road in the doorway of a gutted storefront, his grimacing face already watching her. He gave a slow nod, signaling her to proceed, before stepping back into the shadow of the storefront, noticeable then only by the glowing drag of his cigarette.
 
 Across the flooded road, the rear passenger window glided down, venting gray smoke into the freezing rain.
 
 Rin crossed.
 
-A man leaned forward from the plush darkness, his broad shoulders blocking the rear-facing seat and most of the interior. His suit was sharp. Everything else about him wasn't. His hair was cut short, and his wrinkled face held one brown eye, the other blue; they shifted constantly—as though he'd learned not to look at anything directly.
+A man leaned forward from the plush darkness, his broad shoulders blocking the rear-facing seat and most of the interior. His suit was sharp. Everything else about him wasn't. His hair cut short, and his wrinkled face held one brown eye, the other blue that shifted constantly—as though he'd learned not to look at anything directly.
 
 "I see you made it out alive," the man said, his voice flat. 
 
 Rin kept her expression perfectly neutral, though a cold bead of sweat broke at her hairline.
 
-She stepped up to the window and reached into her jacket, bypassing the red drive and pulling out a secondary, generic black thumb drive. She tossed it through the open window. It landed on the plush seat. 
+She stepped up to the window and reached into her jacket, pulled out a generic black thumb drive. She tossed it through the open window. It landed on the plush seat. 
 
 The man sat back in his seat. Across from him sat a skeletal woman beneath an impeccably tailored white silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go. The diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' seemed to belong to her.  
 
@@ -55,11 +55,11 @@ The Madame took it and turned it over, a grim smile pulling at the deep lines ar
 
 ***
 
-Living in the Dead Circuits rarely had its benefits, but as Rin approached her apartment building, a light flickered over the doorway. *There's power tonight,* she thought. 
+Living in the Dead Circuits rarely had its benefits,. As Rin approached her apartment building, a light flickered over the doorway. 
 
 She pushed through the heavy front doors into the lower lobby. The air inside smelled stale. Chipped green paint curled off the walls, and the corners choked with shadows and dirt. She walked down the first-floor hallway, passing a long row of identical, battered apartment doors. Some were heavily locked, others broken and vacant, their hinges snapped. On one, a faded welcome mat. On another, a child's drawing taped at eye level.
 
-Rin slipped past the misery and stepped into the rusted service elevator at the end of the hall. 
+Rin slipped past the misery and stepped into the rusted elevator at the end of the hall. 
 
 She leaned against the back wall, exhaustion finally starting to settle into her bones as the car rattled upward. 
 
@@ -71,7 +71,7 @@ Standing directly in front of the open door, waiting for the lift, were two Take
 
 Rin slammed her hand against the elevator's 'Close Door' button, stepping backward into the car. 
 
-The rusted doors began to slide shut, but an agent jammed a heavy, armored forearm between them. The metal groaned to a stop as the agent effortlessly forced the doors back open, stepped into the elevator, and blocked her escape. 
+The rusted doors began to slide shut, but an agent jammed a heavy, armored forearm between them. The metal groaned to a stop as the agent effortlessly forced the doors back open, stepping into the elevator, and blocked her escape. 
 
 "Citizen!" the female agent barked, her voice heavily modulated through the helmet. "State your name, your prior location, and destination!"
 
