@@ -2,7 +2,7 @@ The night market of her sector was a claustrophobic canyon of commerce. Signs, h
 
 Rin walked with her head down, the collar of her heavy leather jacket pulled up against the night air. She had kept a low profile all day. Meeting the detective eye to eye was a mistake she kept replaying in her mind. *How long have they known my alias?* she wondered. *How long have they been chasing Null?* The work for the Filament had made her known. She wiped a streak of freezing rain from her cheek. *Always tastes like there's dirt in my mouth,* she thought, feeling the weight of the Dead Circuits again.
 
-Veering away from the main thoroughfare, Rin stepped under the dripping, corrugated awning of a derelict electronics shop to escape the downpour. The storefront was heavily barred, protecting a graveyard of obsolete technology. Behind the glass, a dozen vintage, bulky television sets were stacked haphazardly atop one another. They were all tuned to the same channel, flickering light on the the slick street. On every screen, the identical, impassive face of a corporate anchorwoman delivered the evening broadcast. 
+Veering away from the main thoroughfare, Rin stepped under the dripping, corrugated awning of a derelict electronics shop to escape the downpour. The storefront was heavily barred, protecting a graveyard of obsolete technology. Behind the glass, a dozen vintage, bulky television sets were stacked haphazardly atop one another. They were all tuned to the same channel, flickering light on the slick street. On every screen, the identical, impassive face of a corporate anchorwoman delivered the evening broadcast. 
 
 "—officials continue to investigate an early morning unauthorized data breach at a Takeda-Holden office building downtown," the anchorwoman’s voice buzzed through a blown-out speaker above the door. "Renewal Agents are conducting authorized sweeps through several lower-city districts —"
 
@@ -17,7 +17,9 @@ She let out a shaky breath, and her boots scuffed the wet pavement as she turned
 
 But the screens were normal. The corporate anchorwoman droned on about the data breach, entirely undisturbed. 
 
-Rin stared at the televisions for a long moment. The freezing rain soaked past her jacket and the cloth of her black tank, chilling to her skin. *It's been a long day,* she told herself. *It was nothing,* though she didn't wholly believe it. 
+Rin stared at the televisions for a long moment. The freezing rain soaked past her jacket and the cloth of her black tank, chilling to her skin.  She ran her fingers along the smooth casing of the red drive in her pocket.
+
+*It's been a long day,* she told herself. 
 
 Unable to shake the creeping sensation that she was still being watched, Rin pulled her collar up higher and vanished into the fog.
 
