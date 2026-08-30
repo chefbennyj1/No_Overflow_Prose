@@ -4,7 +4,7 @@ The command line blinked on the secondary terminal.
 
 Elena stared at the single word. *Run.* The Mnemosyne engine didn't operate on panic. For it to suddenly understand danger meant it had *learned* to fear—a realization that pulled the sensations out of her fingertips. 
 
-She took a slow step backward from the interface. The reflection of the  error strings painted her face in a harsh light. She turned for the exit.
+She took a slow step backward from the interface. The reflection of the  error strings painted her face in a harsh light. 
 
 There was a dull, hollow thud that reverberated up through the concrete under her feet. Somewhere deep within the sub-levels of the tower, a power transformer blew. 
 
