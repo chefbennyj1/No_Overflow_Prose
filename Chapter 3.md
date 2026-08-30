@@ -91,7 +91,7 @@ Rin didn't wait to grab the gun. She shoved past the staggered agent into the ha
 
 Both agents raised their tactical rifles.
 
-Orange muzzle flashes erupted as they opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. Hot brass casings showered the concrete. She threw herself backward, her boot catching the scattered pile of the old man's belongings in the hall. She hit the floor hard, scrambling on her hands and knees behind the corner of the elevator shaft as a hail of bullets chewed through the plaster wall exactly where she had been standing. 
+Rin turned her back to the hallway, stretching her arms out to find her spatial awareness, feeling the walls with her fingertips. She could taste the residue of gunpowder from the close-encounter gunshot. The air was drying every terrified inch of her eyes as she fixed her attention on the two agents. Orange muzzle flashes erupted as they opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. She threw herself backwards as a hail of bullets chewed through the plaster exactly where she had been standing. Hot brass casings showered the filthy hallway carpet. Her heel caught the scattered pile of the old man's belongings. She hit the floor hard, scrambling on her hands and knees around the elevator buildout toward the emergency stairwell.
 
 "Holy shit!" Rin gasped. Her back against the wall, she squeezed her wrist between her thumb and forefinger, drumming her numb fingers in the air to draw the feeling back.
 
@@ -99,6 +99,6 @@ Orange muzzle flashes erupted as they opened fire. The deafening gunfire was red
 
 Rin kicked the steel door to the emergency stairwell open and pulled herself up. She abandoned the hallway, sprinting down the concrete steps three at a time. 
 
-"Dammit! Gone!" a muffled, modulated voice echoed down the stairwell behind her, barely audible over the ringing in her ears. "Radio it in. Tell them to send drone flyovers. Whoever she is, she won't get far."
+"Target lost," a muffled, modulated voice echoed down the stairwell behind her, barely audible over the ringing in her ears. "Radio it in."
 
 Rin hit the landing below, rubbing her throbbing ear before disappearing into the dark alleyway.
