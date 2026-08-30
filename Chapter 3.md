@@ -1,4 +1,4 @@
-The night market of her sector was a claustrophobic canyon of commerce. Signs, half-dead and bleeding harsh pink and green into the fog. Rin scuffed her boots along the broken sidewalk. The smell of boiling noodles drifted from street carts as she shoved her way through the crowd in the storm.
+The night market of her sector was a claustrophobic canyon of commerce. Signs, half-dead and bleeding harsh pink and green into the fog. Rin hauled her boots along the broken sidewalk. The smell of boiling noodles drifted from street carts as she shoved her way through the crowd in the storm.
 
 Rin walked with her head down, the collar of her heavy leather jacket pulled up against the night air. She had kept a low profile all day. Meeting the detective eye to eye was a mistake she kept replaying in her mind. *How long have they known my alias?* she wondered. *How long have they been chasing Null?* The work for the Filament had made her known. She wiped a streak of freezing rain from her cheek. *Always tastes like there's dirt in my mouth,* she thought, feeling the weight of the Dead Circuits again.
 
@@ -10,15 +10,14 @@ Rin tuned it out, as she pulled the red drive from her pocket. She turned it ove
 
 As she hit the adjacent curb she looked up, in the darkened glass of a storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison. 
 
-The anchorwoman's face fractured into heavy scanlines. Beneath the static—hidden amongst the broken signal—a new visage appeared. The shape of a face, devoid of color, composed across the stacked screens. Its eyes burned a blinding white, flaring with a blue aura along their lensed edges. The face breached and drowned in the dissonant black and white snow, surfacing from the static only to be pulled back under.
+The anchorwoman's face fractured into heavy scanlines. Beneath the static—hidden amongst the broken signal—a new visage appeared. The shape of a face, devoid of color, composed across the stacked screens. Its eyes burned a blinding white, flaring with a blue aura. The face breached and drowned in the dissonant black and white snow, surfacing from the static only to be pulled back under.
 
-Its expression remained still, hauntingly focused— on Rin. 
-She planted her boot and rotated to face the wall of screens. 
+Its expression was hauntingly focused— on Rin. 
+She let out a shaky breath, and her boots scuffed the wet pavement as she turned to face the wall of screens. 
 
 But the screens were normal. The corporate anchorwoman droned on about the data breach, entirely undisturbed. 
 
-Rin stared at the televisions for a long moment, the freezing rain soaking into her collar. A heavy pressure thumped in her ears. She let out a shaky breath.
-*It's been a long day,* she told herself. *It was nothing,* though she didn't wholly believe it. 
+Rin stared at the televisions for a long moment. The freezing rain soaked past her jacket and the cloth of her black tank, chilling to her skin. *It's been a long day,* she told herself. *It was nothing,* though she didn't wholly believe it. 
 
 Unable to shake the creeping sensation that she was still being watched, Rin pulled her collar up higher and vanished into the fog.
 
