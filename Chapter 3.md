@@ -19,9 +19,7 @@ But the screens were normal. The corporate anchorwoman droned on about the data 
 
 Rin stared at the televisions for a long moment. The freezing rain soaked past her jacket and the cloth of her black tank, chilling to her skin.  She ran her fingers along the smooth casing of the red drive in her pocket.
 
-*It's been a long day,* she told herself. 
-
-Unable to shake the creeping sensation that she was still being watched, Rin pulled her collar up higher and vanished into the fog.
+A sharp bite of static snapped against her wet fingertips. She pulled her hand from her pocket quickly. The drive was inert, but the shock felt deliberate. Unable to shake the creeping sensation that she was still being watched, Rin pulled her collar up higher and vanished into the fog.
 
 ***
 
@@ -43,7 +41,7 @@ She stepped up to the window and reached into her jacket, bypassing the red driv
 
 The man sat back in his seat. Across from him sat a skeletal woman beneath an impeccably tailored white silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go. The diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' seemed to belong to her.  
 
-"Municipal routing keys, just like we agreed," Rin said, staring at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament. The Madame was there looking at her right now.  
+"Municipal routing keys, just like we agreed," Rin said, staring at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament. 
 
 "You should have complete control over the sector's grid by midnight." Rin tried to hide the nerves in her voice.
 
@@ -81,17 +79,19 @@ Rin was trapped in the small metal box. It was the closest she had ever been to 
 
 The agent didn't budge. "Resident identification required for Renewal Protocol. Citizen, show me your I.D."
 
-"Identification?" Rin asked, offering a forced, compliant nod. Her right hand slid slowly into her jacket, as she stepped forward toward the agent, "Sure, it's—"
+"Identification?" Rin asked, offering a forced, compliant nod. Her right hand slid slowly into her jacket as she stepped forward toward the agent. "Sure, it's—"
 
 She dropped the act, ripping the heavy pistol from her holster and driving the muzzle square into the center-mass of the agent's armor. 
 
 "—Right here!"
 
-She held the gun firmly against the agent and pulled the trigger point-blank. The blast inside the tiny metal elevator car was agonizingly loud. The violent recoil kicked Rin's wrist back. Her hand went numb as the heavy pistol slipped from her fingers, clattering onto the elevator floor. The heavy round shattered against the sleek black plating, its kinetic energy blasting into the armor, but the agent only stumbled. Rin didn't wait to grab the gun. She shoved past the staggered agent into the hall. The agent planted her feet, looking down at her chest. A split second, then the face of the black mask snapped toward Rin.
+She pulled the trigger point-blank. The blast inside the tiny metal elevator car was agonizingly loud. The violent recoil kicked Rin's wrist back. Her hand went numb as the heavy pistol slipped from her fingers, clattering onto the elevator floor. The heavy round shattered against the sleek black plating, dumping its kinetic energy into the armor, but the agent only stumbled. 
 
-"WEAPON!" the agent yelled, raising her tactical rifle, together with the other agent.
+Rin didn't wait to grab the gun. She shoved past the staggered agent into the hall. The agent planted her feet, looking down at her chest. A split second, then the face of the black mask snapped toward Rin.
 
-Orange muzzle flashes erupted as both agents opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. Hot brass casings showered the concrete. She threw herself backward, her boot catching the scattered pile of the old man's belongings in the hall. She hit the floor hard, scrambling on her hands and knees behind the corner of the elevator shaft as a hail of bullets chewed through the plaster wall exactly where she had been standing. 
+Both agents raised their tactical rifles.
+
+Orange muzzle flashes erupted as they opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. Hot brass casings showered the concrete. She threw herself backward, her boot catching the scattered pile of the old man's belongings in the hall. She hit the floor hard, scrambling on her hands and knees behind the corner of the elevator shaft as a hail of bullets chewed through the plaster wall exactly where she had been standing. 
 
 "Holy shit!" Rin gasped. Her back against the wall, she squeezed her wrist between her thumb and forefinger, drumming her numb fingers in the air to draw the feeling back.
 
