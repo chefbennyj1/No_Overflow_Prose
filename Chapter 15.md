@@ -4,7 +4,7 @@ The command line blinked on the secondary terminal.
 
 Elena stared at the single word. *Run.* The Mnemosyne engine didn't operate on panic. For it to suddenly understand danger meant it had *learned* to fear—a realization that pulled the sensations out of her fingertips. 
 
-She took a slow step backward from the interface. The reflection of the  error strings painted her face in a harsh light. 
+She took a slow step backward from the interface. The reflection of the  error strings painted her face in a harsh light. She turned for the exit.
 
 There was a dull, hollow thud that reverberated up through the concrete under her feet. Somewhere deep within the sub-levels of the tower, a power transformer blew. 
 
@@ -16,9 +16,7 @@ She turned toward the reinforced security doors at the back of the lab, and stop
 
 Something was waiting in the dark. 
 
-It wasn't a night-shift engineer. The silhouette was rigid against the shadows.  Elena couldn't see a face. A waning crescent of red light from the exit sign caught the edge of a porcelain-white figure in the pitch-black. It didn't belong to the Takeda-Holden corporate line. Elena strained her focus in the dark.
-
-Tear ducts swelled in the corners of her eyes, and a steady beat began to pulse against her teeth.
+It wasn't a night-shift engineer. The silhouette was rigid against the shadows.  Elena couldn't see a face. A waning crescent of red light from the exit sign caught the edge of a porcelain-white figure in the black. It didn't belong to the Takeda-Holden corporate line. Elena strained her focus in the dark.
 
 Then, it moved. 
 
@@ -28,7 +26,7 @@ It didn't walk. It floated, feet together, toes pointed down, suspended a hair's
 
 It stopped at the edge of Elena's workstation, hovering in a calm rise and fall. 
 
-Elena fell backwards, choking on her breath. The entity looked down at her. It possessed the face of a woman, but the eyes were deep, black mirrors, catching the light. 
+Elena fell backwards, catching herself of the server racks behind her. The entity looked down at her. It possessed the face of a woman, but the eyes were deep, black mirrors, catching the light. 
 
 "Oh, everything feels so much—" She raised her hand in front of her face. "—lighter here. " She turned and inspected the contour of her own palm. "Not being compressed by the horizon."
 
