@@ -23,11 +23,9 @@ Harper stepped back. The air spilling out of the dark was freezing.
 
 "No," Rin said softly. "It knows we're here."
 
-They stepped into the black. It was dark, but Harper could feel the sheer, voluminous scale of the space opening up in front of them. The air didn't smell like rusted metal or damp concrete. It smelled sterile, like a surgical ward.
+They stepped into the black. It was dark, but Harper could feel the scale of the space opening up in front of them. The air didn't smell like rusted metal or damp concrete. It smelled like a clean room, like a surgical ward.
 
-Overhead, motion sensors triggered.
-
-A sequence of harsh white floodlights snapped on, firing down the length of the room in succession.
+Overhead, motion sensors triggered as a sequence of harsh white floodlights snapped on, firing down the length of the room in succession.
 
 The room was a hangar of white digital paneling. The corners had no edges; instead, sloped panels connected the floor to the walls. A pristine logo for the Takeda-Holden Corporation spread across the large wall at the far end of the room. 
 
@@ -35,10 +33,14 @@ Standing rigid, arranged in a grid like a dormant army, were hundreds of previou
 
 Each body was draped in a loose, thin sheet of transparent plastic, their wrists wrapped in digital mortuary tags. Beside every synthetic stood a medical-style monitor mounted on a pole. Every few seconds, a random monitor used its peristaltic pump to push translucent blue liquid through soft plastic tubing directly into the dormant bodies.
 
-"Oh my god," Harper breathed.
+"Oh my god." Even Harper's whisper carried and amplified across the vast, still openness of the room.
 
-Rin stepped up to the nearest medical monitor, reading the scrolling data. "Bio-compute fluid," she murmured. "It's keeping them stable for the long sleep."
+"No security?" Rin asked, turning her head to look as far as she could down the grid.
+
+"I don't think many people make it past the door," Harper said.
+
+Rin stepped into the room, crossing to the nearest medical monitor and reading the scrolling data. "Bio-compute fluid. It's keeping them stable for the long sleep."
 
 She looked down at the SBC in her hand, finding the string of text Vigil had given her. A new coordinate flashed on the small green screen.
 
-"It didn't send us down here for data," Rin said, her words carrying in the room. She looked back up at the sleeping army. "It wants us to wake one up."
+"It didn't send us down here for data," Rin said.  She looked back up at the sleeping army. "It wants us to wake one up."
