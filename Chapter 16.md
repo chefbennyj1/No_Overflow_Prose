@@ -28,7 +28,7 @@ The synthetic slowly lifted its hand, pulling the plastic sheet down off its bod
 
 The synthetic turned its head to look at Rin and Harper. 
 
-"Rin, Harper. I have found you in this moment, in this time." As the synth spoke it fell to it knee.
+"Rin. Harper. I have found you in this moment, in this time." As the synthetic spoke, it fell to one knee, its voice a broken harmony, randomly fracturing between two distinct tones.
 
 "Vigil?" Rin spoke with a sense of disbelief.
 
