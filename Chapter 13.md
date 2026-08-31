@@ -92,7 +92,7 @@ The synthetic stared at him, processing. "Terminal logs? I see... there have bee
 
 The synthetic's eyes flared an icy blue as it tapped into the internal comms. "HR-33, Entrance 001 please send Renewa—"
 
-"That won't be necessary, 33. Override authorization: Alpha-Seven." 
+"That won't be necessary, 33. Override authorization: Empoyee code 4503." 
 
 The voice cut the synthetic off mid-sentence. Victor turned to see a young woman stepping out of an executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. 
 
