@@ -10,21 +10,19 @@ Harlan gripped the door handle, knuckles white. "You know driving doesn't have t
 
 Victor didn't slow down.
 
-"So, this Blackwell," Harlan said, bracing against the dash as the car swung hard around a corner. "You got a face to face?"
+"So, you think this Blackwell is gonna talk to us?" Harlan asked, bracing against the dash as the car swung hard around a corner. 
 
-"Face to face? ... No." Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "This is our only lead on Null, and Blackwell has answers. I need to know what he knows."
-
-"So... you expect to just walk into a corporate tower, flash a badge, and talk to Takeda-Holden's top researcher?"
-
-"Yeah." Victor banked onto the elevated approach feeding into the Towers. "That's the plan."
+Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "This is our only lead on Null, and Blackwell has answers. I need to know what he knows."
+ Victor banked onto the elevated approach feeding into the Towers. 
 
 The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Beside the highway, the seamless streak of white alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. All across the skyline, the architectural lighting of the corporate towers were flashing on and off in random sequences. The city grid was buckling under an invisible weight. 
 
 Victor ignored the abnormalities, bringing the car to rest outside the tower's entrance. The headlights dimmed to black, the car settling into silence.
 
-Victor raised the car door open, his breath instantly pluming white in the air. He stopped for a moment, exhaling slowly, analyzing the crystallizing heat in the unorthodox cold. Harlan stepped out of the passenger side, his breath instantly fogging white in front of his face. 
+Victor raised the car door open, his breath instantly pluming white in the air. He stopped for a moment, exhaling slowly, analyzing the crystallizing heat in the unorthodox cold. 
 
-"—The hell is it so cold up here for?" Harlan's voice sounded choked in the cool air.
+
+Harlan stepped out of the passenger side, confused by the sudden sight of his breath in the cold. "—The hell is it so cold up here for?" Harlan's voice sounded choked in the cool air.
 
 The plaza in front of the imposing Takeda-Holden tower was lined with polished, black, concrete statues of mythic gods and goddesses, their features glittering with an unnatural layer of fresh frost.
 
@@ -40,7 +38,7 @@ They walked through the plaza, and pushed through the heavy glass doors of the b
 
 ***
 
-Three floors up, Iris stood on a suspended walkway in the building atrium. She leaned over the railing watching the people below in the atrium go about their routines, it helped her think to watch the workers move through the tall tinted glass doors of the New Veridia entrance of the building. 
+One floor up, Iris stood on a suspended walkway in the building atrium. She leaned over the railing watching the people below in the atrium go about their routines, it helped her think to watch the workers move through the tall tinted glass doors of the New Veridia entrance of the building. 
 
 She couldn't shake the feeling she was unwittingly part of something horrendous. She had been inside Blackwell's office. She had read his thesis on the 'Parity' anomaly. Something sinister was in the machine's core. Not programmed. *Grown*. 
 
@@ -92,8 +90,11 @@ The synthetic's eyes flared an icy blue as it tapped into the internal comms. "H
 
 "That won't be necessary, 33. Override authorization: Empoyee code 4503." 
 
-The voice cut the synthetic off mid-sentence. Victor turned to see a young woman stepping out of an executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose, while giving the upper atrium a side-eye. 
+The voice cut the synthetic off mid-sentence. Victor turned to see a young woman stepping towards them form the executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. He noticed her cowering side-eye towards the upper atrium. 
 
-She slammed a glowing security badge against the desk's scanner. The synthetic's eyes flickered back to a neutral white as the system authenticated her top-tier clearance. The Renewal Agents, who had already begun moving toward the desk, saw the green flash of the override and settled back into their passive stances.
+Victor followed her gaze to the upper atrium, above him amongst the passer-goers was a man with black circular sunglasses. He was watching over the rail. The two made eye contact, as the man turned and walked out of sight.
 
-"The detectives are with me," she said. She didn't look at the guards. She looked directly at Victor, her eyes wide with a poorly concealed terror. "This way, gentlemen. We don't have much time."
+The woman from the elevator placed a glowing security badge against the desk's scanner. The synthetic's eyes flickered back to a neutral white as the system authenticated her clearance. 
+
+
+"The detectives are with me," she said looking directly at him, her eyes wide with a poorly concealed terror. "This way, gentlemen. We don't have much time."
