@@ -40,45 +40,43 @@ They walked through the plaza, and pushed through the heavy glass doors of the b
 
 ***
 
-Three floors up, Iris stood on a suspended walkway in the bulding atrium, leaning over to look down at the tall tinted glass of the entrance. 
+Three floors up, Iris stood on a suspended walkway in the building atrium. She leaned over the railing watching the people below in the atrium go about their routines, it helped her think to watch the workers move through the tall tinted glass doors of the New Veridia entrance of the building. 
 
-A cold spike of adrenaline was still burning through her system. It hadn't faded since she fled the sub-level laboratories. The physics were actively breaking down. She had seen the 'Parity' error strings flooding Elena's monitors. The machine was tearing the city grid apart, and Blackwell was doing nothing to stop it. 
+She couldn't shake the feeling she was unwittingly part of something horrendous. She had been inside Blackwell's office. She had read his thesis on the 'Parity' anomaly. Something sinister was in the machine's core. Not programmed. *Grown*. 
 
-She needed to get the information out. But she couldn't just walk out the front door. The atrium below was crawling with armored Renewal Agents, their black helmets reflecting the sterile light. If they searched her, she would disappear.
+Then, the heavy glass doors of the main entrance opened. 
 
-Then, the heavy glass doors on the ground floor slid open. 
-
-Iris looked down. Two men walked onto the polished floor of the atrium, instantly disrupting the sterile corporate aesthetic. One wore a soaked trench coat; the other, a slightly rumpled charcoal suit. They didn't move like corporate executives. They moved like predators entering hostile territory.
+Iris watched as two men walked onto the polished floor of the atrium, instantly disrupting the sterile corporate aesthetic. One wore a soaked trench coat; the other, a slightly rumpled charcoal suit. They didn't move like corporate executives. They moved like they were entering hostile territory.
 
 The acoustics of the atrium carried their voices upward.
 
 "Oh look… a corporate canner," the man in the suit said, adjusting his collar. "Why do they make them look so human?"
 
-"Don't know, Harlan," the man in the trench coat replied, his voice a low, hard rasp. "Never trusted them."
+"Don't know, Harlan," the man in the trench coat replied, his voice hardened. "Never trusted them."
 
 *Oshima Police. Cops, from the lower grid.* 
 
-She looked at the datapad in her hands, then back down at the two detectives marching toward the security checkpoint. It was her only chance. 
+She watched the two detectives marching toward the security checkpoint. This was her chance. Iris walked quickly toward the executive elevator. As she entered, a voice spoke after her, calmly from the walkway. "I believe you and I have a conversation to have, Ms. Ito." It was a distinct voice Iris knew all too well. Blackwell.
 
-Iris walked quickly toward the executive elevator.
+She looked up to see Silas Blackwell standing on the walkway, as the elevator doors began to close.
 
 ***
 
-Harlan walked a half-step behind Victor, his eyes scanning the security concourse. Heavily armored Renewal agents stood like statues near the turnstiles. Behind a polished mahogany desk sat an HR-33 synthetic. It wore a crisp concierge uniform, its posture flawlessly straight. Faint traces of blue light shimmered through its fiber-optic hair.
+Harlan walked a half-step behind Victor, his eyes scanning the security concourse. Heavily armored Renewal agents stood like statues near the turnstiles. Behind a long polished concierge desk sat an HR-33 synthetic. It wore a crisp attendant uniform, its posture flawlessly straight. Faint traces of blue light shimmered through its fiber-optic hair.
 
 The synthetic’s optical sensor whirred softly, a ring of blue light expanding rapidly to map their faces. Before Victor even reached the desk, the synthetic was staring. 
 
 "Good morning, Detective Graves. Officer Harlan," it said, its voice smooth and engineered to be disarming. "Welcome to the Takeda-Holden Corporation. Please be advised, this is a clean-air facility. Smoking is strictly prohibited."
 
-Harlan froze, shooting a sideways glance at Victor. The synthetic had scanned and identified them through the glass doors.
+Harlan shot a sideways glance at Victor. The synthetic had identified them before they even spoke.
 
-Victor didn't slow down. He took a long drag, exhaled a cloud of gray smoke over the polished mahogany, and slammed his Oshima Police Department badge flat against the wood. 
+Victor didn't slow down. He took a long drag, exhaled a cloud of gray smoke over the concierge station, and slammed his Oshima Police Department badge flat against the wood. 
 
 "We're here to speak with Doctor Silas Blackwell," Victor said. His voice was hard, carrying none of the machine's programmed warmth. "We have reason to believe he has information relevant to an ongoing investigation."
 
 The synthetic's expression didn't waver. "Doctor Blackwell? I'm sorry... there's no one by that name on the current employee registry."
 
-"Nice try, Logic-Gate. Your script is showing," Victor interrupted, leaning over the desk. "We pulled terminal records from the night of the breach. Blackwell's name is all over them."
+"Nice try, Logic-Gate. Your script is showing," Victor interrupted, leaning over the desk. "We have corporate terminal records. Blackwell's name—" Victor looked to the synthetic with a sly smile, "—all over them."
 
 "Jesus, Victor," Harlan nervously eyed the armed guards by the turnstiles. "Don't antagonize the synthetic."
 
