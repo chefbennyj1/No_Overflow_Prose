@@ -29,11 +29,11 @@ Overhead, motion sensors triggered.
 
 A sequence of harsh white floodlights snapped on, firing down the length of the room in succession.
 
-The room was a hanger of white digital paneling. The corners had no edges, instead sloped panels connected the floor to walls. A pristine logo for the Takeda-Holden Corporation spread across the large wall at the far end of the room. 
+The room was a hangar of white digital paneling. The corners had no edges; instead, sloped panels connected the floor to the walls. A pristine logo for the Takeda-Holden Corporation spread across the large wall at the far end of the room. 
 
 Standing rigid, arranged in a grid like a dormant army, were hundreds of previous-generation Synthetics. 
 
-Each body was draped in a loose, thin sheet of transparent plastic. Beside every synthetic stood a medical-style monitor mounted on a five-caster pole. Braided silicone tubes fed directly into the backs of their necks, pulsing with a translucent blue fluid.
+Each body was draped in a loose, thin sheet of transparent plastic, their wrists wrapped in digital mortuary tags. Beside every synthetic stood a medical-style monitor mounted on a pole. Every few seconds, a random monitor used its peristaltic pump to push translucent blue liquid through soft plastic tubing directly into the dormant bodies.
 
 "Oh my god," Harper breathed.
 
