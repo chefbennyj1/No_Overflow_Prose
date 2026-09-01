@@ -60,7 +60,8 @@ Wedged between two heavy books was a black portfolio.
 
 The header didn't bear a corporate logo. It was a theoretical paper authored by Silas Blackwell, dated three years before the Engine was even built. 
 
-**TITLE: Synthetic Inversion and the Necessity of Parity.**
+**TITLE: The Parity Effect**
+*Sub-note: Synthetic Inversion and the Necessity of Parity.*
 
 Iris leaned in as she read the abstract. It detailed a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
 

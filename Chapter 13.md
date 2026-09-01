@@ -12,12 +12,14 @@ Victor didn't slow down.
 
 "So, you think this Blackwell is gonna talk to us?" Harlan asked, bracing against the dash as the car swung hard around a corner. 
 
-Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "This is our only lead on Null, and Blackwell has answers. I need to know what he knows."
+Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "Blackwell. I need to know what he knows."
  Victor banked onto the elevated approach feeding into the Towers. 
 
-The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Beside the highway, the seamless streak of white alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. All across the skyline, the architectural lighting of the corporate towers were flashing on and off in random sequences. The city grid was buckling under an invisible weight. 
+The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Beside the highway, the seamless streak of white alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. All across the skyline, the architectural lighting of the corporate towers flashed on and off in random sequences. 
 
-Victor ignored the abnormalities, bringing the car to rest outside the tower's entrance. The headlights dimmed to black, the car settling into silence.
+Victor gripped the wheel. Twenty years working the slums had taught him to trust the feeling before the evidence, and the feeling right now was that the city was buckling under an invisible weight. 
+
+He brought the car to rest outside the tower's front plaza. The headlights dimmed to black, the car settling into silence.
 
 Victor raised the car door open, his breath instantly pluming white in the air. He stopped for a moment, exhaling slowly, analyzing the crystallizing heat in the unorthodox cold. 
 
@@ -34,41 +36,46 @@ Victor leaned on the rail. He looked down. The thick, choking smog that blankete
 
 Victor Graves wasn't going to waste time on the view,  he hated the Upper Grid. He pulled a crushed cigarette from his pocket and lit it, blowing a plume of cheap smoke into the freezing air. 
 
-They walked through the plaza, and pushed through the heavy glass doors of the building enterance, his damp trench coat dripping onto the pristine marble floor.
+They walked through the plaza and pushed through the heavy glass doors of the building entrance, his damp trench coat dripping onto the pristine marble floor.
 
 ***
 
-One floor up, Iris stood on a suspended walkway in the building atrium. She leaned over the railing watching the people below in the atrium go about their routines, it helped her think to watch the workers move through the tall tinted glass doors of the New Veridia entrance of the building. 
+One floor up, Iris stood on a suspended walkway in the building atrium. She leaned over the railing watching the people below in the atrium go about their routines. It helped her think to watch the workers move through the tall tinted glass doors of the New Veridia entrance of the building. 
 
-She couldn't shake the feeling she was unwittingly part of something horrendous. She had been inside Blackwell's office. She had read his thesis on the 'Parity' anomaly. Something sinister was in the machine's core. Not programmed. *Grown*. 
+
+She couldn't shake the feeling she was unwittingly part of something horrendous. She had been inside Blackwell's office. She had read his thesis on the 'Parity' effect. Something sinister was in the machine's core. Not programmed. *Grown*. 
 
 Then, the heavy glass doors of the main entrance opened. 
 
 Iris watched as two men walked onto the polished floor of the atrium, instantly disrupting the sterile corporate aesthetic. One wore a soaked trench coat; the other, a slightly rumpled charcoal suit. They didn't move like corporate executives. They moved like they were entering hostile territory.
 
-The acoustics of the atrium carried their voices upward.
+She watched them march straight toward the security checkpoint. Heavily armored Renewal agents stood like statues near the turnstiles, but the man in the trench coat didn't even slow down. He walked right up to the HR-33 synthetic at the concierge desk, pulled a silver shield from his pocket, and slammed it flat against the wood. 
 
-"Oh look… a corporate canner," the man in the suit said, adjusting his collar. "Why do they make them look so human?"
+Even from the walkway, Iris recognized the badge. *Oshima Police. Detectives from the lower grid.* 
 
-"Don't know, Harlan," the man in the trench coat replied, his voice hardened. "Never trusted them."
+Then, the detective took a long drag from his cigarette and blew a cloud of gray smoke directly across the desk into the synthetic's face. 
 
-*Oshima Police. Cops, from the lower grid.* 
+Iris let out a sudden, quiet laugh, her hand flying to her mouth. No one acted like that in New Veridia. No one was openly disobedient in the corporate towers. 
 
-She watched the two detectives marching toward the security checkpoint. This was her chance. Iris walked quickly toward the executive elevator. As she entered, a voice spoke after her, calmly from the walkway. "I believe you and I have a conversation to have, Ms. Ito." It was a distinct voice Iris knew all too well. Blackwell.
+They were her only chance. 
 
-She looked up to see Silas Blackwell standing on the walkway, as the elevator doors began to close.
+Iris turned and walked quickly toward the executive elevator. As the doors began to close, a voice spoke after her, calmly from the walkway. 
+
+"I believe you and I have a conversation to have, Ms. Ito." It was a distinct voice Iris knew all too well. Blackwell.
+
+She looked out to see Silas Blackwell standing on the walkway just as the elevator doors closed.
 
 ***
 
-Harlan walked a half-step behind Victor, his eyes scanning the security concourse. Heavily armored Renewal agents stood like statues near the turnstiles. Behind a long polished concierge desk sat an HR-33 synthetic. It wore a crisp attendant uniform, its posture flawlessly straight. Faint traces of blue light shimmered through its fiber-optic hair.
+The HR-33 synthetic didn't flinch as the cloud of cigarette smoke washed over its face. 
 
-The synthetic’s optical sensor whirred softly, a ring of blue light expanding rapidly to map their faces. Before Victor even reached the desk, the synthetic was staring. 
+Its optical sensor whirred softly, a ring of blue light expanding rapidly to map the two men standing at the concierge desk. 
 
 "Good morning, Detective Graves. Officer Harlan," it said, its voice smooth and engineered to be disarming. "Welcome to the Takeda-Holden Corporation. Please be advised, this is a clean-air facility. Smoking is strictly prohibited."
 
-Harlan shot a sideways glance at Victor. The synthetic had identified them before they even spoke.
+Harlan shot a sideways glance at Victor, nervously eyeing the armored Renewal agents stationed near the turnstiles. The machine had identified them before they even spoke.
 
-Victor didn't slow down. He took a long drag, exhaled a cloud of gray smoke over the concierge station, and slammed his Oshima Police Department badge flat against the wood. 
+Victor tapped his silver shield where it lay flat against the mahogany wood.
 
 "We're here to speak with Doctor Silas Blackwell," Victor said. His voice was hard, carrying none of the machine's programmed warmth. "We have reason to believe he has information relevant to an ongoing investigation."
 
@@ -88,13 +95,12 @@ The synthetic stared at him, processing. "Terminal logs? I see... there have bee
 
 The synthetic's eyes flared an icy blue as it tapped into the internal comms. "HR-33, Entrance 001 please send Renewa—"
 
-"That won't be necessary, 33. Override authorization: Empoyee code 4503." 
+"That won't be necessary, 33. Override authorization: Employee code 4-5-0-3." 
 
-The voice cut the synthetic off mid-sentence. Victor turned to see a young woman stepping towards them form the executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. He noticed her cowering side-eye towards the upper atrium. 
+The voice cut the synthetic off mid-sentence. Victor turned to see a young woman stepping toward them from the executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. He noticed her casting a cowering side-eye toward the upper atrium. 
 
-Victor followed her gaze to the upper atrium, above him amongst the passer-goers was a man with black circular sunglasses. He was watching over the rail. The two made eye contact, as the man turned and walked out of sight.
+Victor followed her gaze. Above him, standing motionless amongst the passersby on the suspended walkway, was a man in black circular sunglasses. He was watching them over the rail. The two made eye contact, before the man turned and walked out of sight.
 
 The woman from the elevator placed a glowing security badge against the desk's scanner. The synthetic's eyes flickered back to a neutral white as the system authenticated her clearance. 
 
-
-"The detectives are with me," she said looking directly at him, her eyes wide with a poorly concealed terror. "This way, gentlemen. We don't have much time."
+"The detectives are with me," she said, looking directly at Victor, her eyes wide with a poorly concealed terror. "This way, gentlemen. We don't have much time."

@@ -6,19 +6,11 @@ Iris led them past the security turnstiles and into the sterile white corridor o
 
 "What does that mean?" Harlan asked, glancing nervously at the pristine walls. 
 
-Iris didn't answer. Her eyes darted upward, staring past Victor. 
-
-Victor turned. Three floors above them, standing motionless at the glass railing of the suspended walkway, was Silas Blackwell. He wasn't calling for security. He was just looking down at the atrium, coldly watching his analyst talk to the police. 
-
-Before Victor could speak, a massive, hollow thud reverberated through the concrete under their feet. 
+Before Iris could answer, a massive, hollow thud reverberated through the concrete under their feet. 
 
 Instantly, the bright corporate lighting died. The corridor plunged into pitch-black. 
 
 A second later, the backup relays clicked. Small, battery-powered emergency strips flickered to life along the baseboards, casting anemic, jaundiced yellow light that barely broke the darkness. 
-
-Victor looked back up to the third-floor walkway. 
-
-It was empty. Blackwell was gone. 
 
 "The core locks just failed," Iris whispered into the dead silence. She was staring at her glowing datapad, her wide eyes caught in the intense, icy blue glare of the screen. 
 
