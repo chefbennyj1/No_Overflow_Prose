@@ -72,17 +72,19 @@ On the executive display above the floor, the grid of silhouettes leaned forward
 
 The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing datapad in her hands. She was in contrast to the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
 
-"Ma'am, local space-time—" Iris stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. "It's—" She paused, her focus visibly fragmenting for a second, then continued. "a mass-displacement anomaly. A severe fluctuation in the event horizon."
+"Ma'am, local space-time—" Iris stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. 
 
-Elena spun around. She cast a quick glance up at the Board's display—a fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
+She immediately looked away from them and down at her screen, her rapid-fire words blurring together in a frantic, self-contained info-dump. "We have a severe fluctuation in the event horizon. The mass-displacement is causing a localized gravitational shear that could theoretically pull the primary containment of the horizon memory out of phase, and if we don't recalculate the quantum telemetry right now—" 
 
-The moment hung in the air. Blackwell observed the exchange in silence, recognizing the severity of the girl's intrusion without anxiety, curious to see how Elena would discipline the disruption.
+She trailed off, finally looking up from her screen. 
 
-Elena stepped into Iris's personal space. She didn't even look at the data.
+Elena was staring at her, her eyes piercing, "Negative," Elena said, her voice dropping into a scolding hiss through gritted teeth.  
 
-"Negative," Elena said, her voice dropping into a scolding hiss through gritted teeth. "That is a predicted resonance."
+Blackwell watched the exchange in silence, finding the analyst's frantic rambling to be an irritating distraction. He waited to see how Elena would discipline the disruption. 
 
-Iris flinched, pulling the tablet tight against her chest. She swallowed hard, her eyes darting between the  machine and her supervisor. "Yes, ma'am. Of course. Predicted resonance."
+Elena stepped into Iris's personal space. She didn't even look at the data. "That is a predicted resonance."
+
+Iris flinched, pulling the tablet tight against her chest. "Yes, ma'am. Of course. Predicted resonance."
 
 "I need the telemetry!" Elena demanded, pivoting away.
 

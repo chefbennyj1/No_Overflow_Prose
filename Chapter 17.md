@@ -1,10 +1,14 @@
-Iris led them past the security turnstiles and into the sterile white corridor of the executive wing. She moved frantically, her white lab coat billowing over a glossy black bodysuit as she pulled a datapad from her pocket. 
+Iris led them quickly past the security turnstiles, her white lab coat billowing over her glossy black bodysuit. She couldn't stop analyzing the detective in the trench coat. He was a striking genetic anomaly. Stark white hair, skin so pale it bordered on translucent, and icy eyes that seemed to squint against the blinding sunlight of the atrium. He lacked the engineered, flawless symmetry of New Veridia's elite, but he moved with a dangerous, heavy gravity. 
 
-"Who are you?" Victor asked, his voice low, his eyes tracking the security cameras overhead. 
+"Who are you?" Victor asked. His voice was low, his pale eyes tracking the security cameras overhead rather than looking at her. 
 
-"Iris Ito," she said. "I'm a horizon analyst. I ensure the safe state of an event horizon in case of—" Her proud voice trailed off as she noticed the confused expressions of the detectives in front of her. "If you're looking for Silas Blackwell, you're already too late."
+"Iris Ito," she said, her words spilling out too fast. "I'm a primary horizon analyst. I monitor the quantum telemetry and ensure the safe state of the Engine's event horizon in the event of an algorithmic divergence or—" 
 
-"What does that mean?" Harlan asked.
+Her proud, rapid-fire explanation trailed off. Both men were staring at her with blank, irritated confusion. She was info-dumping again. 
+
+Iris swallowed hard, forcing herself to get to the point. "If you're looking for Silas Blackwell, you're already too late."
+
+"What does that mean?" the other detective asked, adjusting his suit. 
 
 Before Iris could answer, a massive, hollow thud reverberated through the concrete under their feet. 
 
