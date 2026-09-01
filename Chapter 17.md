@@ -4,13 +4,15 @@ Iris led them past the security turnstiles and into the sterile white corridor o
 
 "Iris Ito," she said. "I'm a horizon analyst. I ensure the safe state of an event horizon in case of—" Her proud voice trailed off as she noticed the confused expressions of the detectives in front of her. "If you're looking for Silas Blackwell, you're already too late."
 
-"What does that mean?" Harlan asked, glancing nervously at the pristine walls. 
+"What does that mean?" Harlan asked.
 
 Before Iris could answer, a massive, hollow thud reverberated through the concrete under their feet. 
 
-Instantly, the bright corporate lighting died. The corridor plunged into pitch-black. 
+Instantly, the bright corporate lighting died. But instead of plunging into darkness, the atrium was carved open by nature. 
 
-A second later, the backup relays clicked. Small, battery-powered emergency strips flickered to life along the baseboards, casting anemic, jaundiced yellow light that barely broke the darkness. 
+Without the artificial glare to compress the room, the true scale of the lobby was finally visible. The massive shafts of morning sunlight seemed to swallow the space completely. 
+
+A second later, the backup relays clicked. Small, battery-powered emergency strips flickered to life along the baseboards, their weak yellow light instantly washed out by the cold, blinding god-rays cutting across the vast, silent room. 
 
 "The core locks just failed," Iris whispered into the dead silence. She was staring at her glowing datapad, her wide eyes caught in the intense, icy blue glare of the screen. 
 

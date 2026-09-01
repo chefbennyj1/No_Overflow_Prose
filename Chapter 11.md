@@ -24,7 +24,7 @@ Harper smiled, though the anxiety didn't leave her eyes. "Always a plan," she mu
 
 They descended the concrete steps into the Takeda-Holden Transit Terminal. 
 
-The station's interchanges fell four tiers below them, surrounded by arches of polished white stone and chrome. They rode the steep escalators past the upper commuter hubs, descending deeper into the earth until they hit sub-level four. Corporate executives, Renewal office workers, and high-end synthetics packed the platforms. The floors were black marble, extending like spilled ink across the terminal.
+The station's interchanges fell four tiers below them, surrounded by arches of polished white stone and chrome. They rode the steep escalators past the upper commuter hubs, descending deeper into the earth until they hit sub-level four. Morning commuters, Renewal office workers, and high-end synthetics packed the platforms. The floors were black marble, extending like spilled ink across the terminal.
 
 As they reached the first platform, the temperature plummeted further. 
 Frictionless magnetic trains surged through the tunnels, pulling the super-cooled air deep into New Veridia before it settling back in. Harper watched her breath plume in the sterile overhead lighting. The dry, unnatural air crawled along her skin with a prickle of static electricity. The elite commuters didn't seem to notice, but it stiffened Harper's joints.

@@ -15,16 +15,17 @@ Victor didn't slow down.
 Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "Blackwell. I need to know what he knows."
  Victor banked onto the elevated approach feeding into the Towers. 
 
-The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Beside the highway, the seamless streak of white alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. All across the skyline, the architectural lighting of the corporate towers flashed on and off in random sequences. 
+The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Breaking through the heavy, oppressive smog layer of the lower city, the windshield was instantly washed in the blinding light of the morning sun glaring off the glass skyscrapers. Beside the highway, the seamless streak of white alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. All across the skyline, the architectural lighting of the corporate towers flashed on and off in random sequences. 
 
 Victor gripped the wheel. Twenty years working the slums had taught him to trust the feeling before the evidence, and the feeling right now was that the city was buckling under an invisible weight. 
 
 He brought the car to rest outside the tower's front plaza. The headlights dimmed to black, the car settling into silence.
 
-Victor raised the car door open, his breath instantly pluming white in the air. He stopped for a moment, exhaling slowly, analyzing the crystallizing heat in the unorthodox cold. 
+Victor raised the car door open, his breath instantly pluming white in the air. The morning sun glaring off the surrounding skyscrapers was blinding, but it carried absolutely no warmth. The air was razor-sharp, a dead, freezing chill that bit right through his trench coat the second his boots hit the pavement. 
 
+He stopped for a moment, exhaling slowly, analyzing the crystallizing heat in the unorthodox cold. 
 
-Harlan stepped out of the passenger side, confused by the sudden sight of his breath in the cold. "—The hell is it so cold up here for?" Harlan's voice sounded choked in the cool air.
+Harlan stepped out of the passenger side, shivering as he saw his own breath plume in the bright light. "—The hell is it so cold up here for?" Harlan's voice sounded choked in the freezing air.
 
 The plaza in front of the imposing Takeda-Holden tower was lined with polished, black, concrete statues of mythic gods and goddesses, their features glittering with an unnatural layer of fresh frost.
 
@@ -40,7 +41,9 @@ They walked through the plaza and pushed through the heavy glass doors of the bu
 
 ***
 
-One floor up, Iris stood on a suspended walkway in the building atrium. She leaned over the railing watching the people below in the atrium go about their routines. It helped her think to watch the workers move through the tall tinted glass doors of the New Veridia entrance of the building. 
+One floor up, Iris stood on a suspended walkway in the forty-story atrium. Monolithic columns of morning sunlight poured through the sheer walls of structural glass, fracturing across the polished marble floors. Even with the sterile corporate lighting burning overhead, the staggering volume of the space felt like a towering cathedral of light and deep shadow.
+
+She leaned over the railing, watching the workers move through the tall tinted glass doors of the New Veridia entrance below. It usually helped her think. 
 
 
 She couldn't shake the feeling she was unwittingly part of something horrendous. She had been inside Blackwell's office. She had read his thesis on the 'Parity' effect. Something sinister was in the machine's core. Not programmed. *Grown*. 
