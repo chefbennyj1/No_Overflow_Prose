@@ -1,4 +1,4 @@
-Silas Blackwell took a drag from his cigarette, the ember flaring against the blues and ivory of the early morning sky. A mop of white hair blew untamed in the morning wind, contrasting the sharp, reverent lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He stood behind a pair of circular dark glasses, breathing a thin stream of smoke back into the wind. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
+Silas Blackwell took a drag from his cigarette, the ember flaring against the blues and ivory color of the early morning sky. A mop of white hair blew untamed in the morning wind, a contradiction to the sharp, reverent lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He stood behind a pair of circular dark glasses, breathing a thin stream of smoke back into the wind. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
 He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
@@ -8,9 +8,9 @@ He didn't need to turn around to know he was no longer alone. The faint hiss of 
 
 Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
-Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the dark atrium behind her. A gust of cold wind whipped across the terrace, pushing her natural, shoulder-length hair across her face.
+Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the polished concrete of  atrium pillars behind her. A gust of cold wind whipped across the terrace, pushing her natural, shoulder-length hair across her face.
 
-"Yes, Doctor Blackwell," she replied, her golden eyes darted constantly, tracking unseen calculations in the air as the reflection of the door's blue holograms reflected across their glassiness.
+"Yes, Doctor Blackwell," she replied. Her golden eyes darted constantly, tracking the weather calculations on the door's blue holograms as they reflected across their glassiness.
 
 *Nervous*,  Blackwell thought, *and she should be*.  They were about to succeed in something  never before attempted in the history of modern quantum engineering.
 
@@ -54,7 +54,7 @@ The room erupted into a synchronized motion.
 
 Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the heavy, iron-cast cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the white pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog in a spectral light.
 
-The mechanical drone of the reactor shifted into a rhythmic pulse—a heavy vibration creeping through the concrete and into their bones. The very air in the lab felt thick with the sheer gravity of it.
+The mechanical drone of the reactor shifted into a rhythmic pulse—a heavy vibration creeping through the concrete and into their bones. 
 
 Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was calm, unaffected by the reverberating force of his creation. 
 
@@ -72,13 +72,13 @@ On the executive display above the floor, the grid of silhouettes leaned forward
 
 The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing datapad in her hands. She was in contrast to the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
 
-"Ma'am, local space-time—" Iris stammered in a frantic whisper, shooting a fearful glance at the Board's display before hiding behind her tablet. 
-
-She immediately looked away from them and down at her screen, her rapid-fire words blurring together in a frantic, self-contained info-dump. "We have a severe fluctuation in the event horizon. The mass-displacement is causing a localized gravitational shear that could theoretically pull the primary containment of the horizon memory out of phase, and if we don't recalculate the quantum telemetry right now—" 
+"Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a severe fluctuation in the event horizon. The—uh—well, the mass-displacement is causing a—uh—a localized gravitational shear—" Her rapid-fire words blurred together in a breathless, self-contained recitation. "—and—well, you know—that could theoretically pull the primary containment of the horizon memory out of phase—" Her awkward rambling pushed on without a breath, "—and if we don't recalculate the quantum telemetry right now—" 
 
 She trailed off, finally looking up from her screen. 
 
 Elena was staring at her, her eyes piercing, "Negative," Elena said, her voice dropping into a scolding hiss through gritted teeth.  
+
+She cast a quick glance up at the Board's display—a fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
 
 Blackwell watched the exchange in silence, finding the analyst's frantic rambling to be an irritating distraction. He waited to see how Elena would discipline the disruption. 
 
