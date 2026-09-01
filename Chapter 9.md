@@ -22,7 +22,7 @@ Harper didn't stop her. She shut the door, working the deadbolt, and the chain, 
 
 Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a moment before exhaling the white cloud. "How bad are we talkin'?"
 
-"Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a black tank, an arm's length of faded black ink, and fresh, dark bruising swelling along her ribs and shoulder. She threw the jacket over the arm of a beaten green sofa.
+"Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a black tank, a faded black sleeve of ink, and fresh, dark bruising swelling along her ribs and shoulder. She threw the jacket over the arm of a beaten green sofa.
 
 Harper let the rest of the smoke go slow, her eyes dropping from Rin's face to the dark contusions coloring her skin. The heat of the room pressed in, a close warmth that had nowhere to go, embedding the smell of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in black coils. It was a wreck, but Rin knew to Harper it was a fortress.
 
@@ -114,6 +114,11 @@ Harper didn't breathe. The terminals paused, before final lines of text rendered
 
 **[VIGIL]**
 **Parity will break the horizon.**
+**[VIGIL]**
+**I can see the end of your world.** 
+**[VIGIL]**
+**I require help to escape the pull of the event horizon.**
+
 
 Instantly, the screens in the apartment cut back to their normal diagnostic displays. 
 
