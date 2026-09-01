@@ -34,19 +34,19 @@ Rin's eyes tracked the motion until she caught herself staring and looked away.
 
 Harper studied her for a long moment, the cigarette burning forgotten between her fingers. She sighed, turning away to a cramped kitchenette built into the wall. She poured thick, black coffee from a battered French press into two ceramic mugs and shoved one into Rin's hands without looking at her.
 
-The heat of the ceramic instantly bled into Rin's freezing, rain-soaked skin, grounding her.
+The heat of the ceramic instantly bled into Rin's cold, rain-soaked skin, grounding her.
 
 "Fine," Harper said, leaning against the counter. "Leaving's one thing, darlin', but I'm not gonna let you bleed out in the rain. Show me what you've gotten yourself into."
 
-Rin took a sip from the mug. With her free hand, she reached into her back pocket and pulled out a red-and-silver USB drive. She held it out.
+Rin took a sip from the mug in her hand, while reaching into her back pocket and pulling out the red-and-silver USB drive. She held it out.
 
 Harper took it, her fingers brushing Rin's palm. She crossed to her primary workstation — an oversized, air-gapped rig built from stolen corporate hardware, liquid-cooled by a radiator loud enough to rattle the shelf above it. She dropped into her chair, pulled the keyboard onto her lap, and slotted the drive into a modified port.
 
 The three monitors above her desk flared to life, washing her face pale.
 
-"I went in for the sector electrical keys." Rin stood behind the chair. "The Filament needed them to keep the electricity on for the Dead Circuts."
+"I went in for the sector electrical keys." Rin stood behind the chair. "The Filament wanted  them to keep the electricity on for the Dead Circuts."
 
-"The Filament? Jesus, Rin, they're practically terrorists." Harper crushed her cigarette into an overflowing ashtray on the desk and popped a piece of bright pink bubblegum into her mouth. She opened the file structure, her jaw working aggressively as her fingers found their familiar places on the worn keys. The letters had rubbed off years ago, but she didn't need them. The sharp, incongruous smell of artificial strawberries cut through the air of the room.
+"The Filament? Jesus, Rin, they're practically terrorists." Harper crushed her cigarette into an overflowing ashtray on the desk and popped a piece of bright pink bubblegum into her mouth. Her fingers found their familiar places on the worn keys. The letters had rubbed off years ago, but she didn't need them. She opened the file structure.
 
 "I got the keys. But while I was inside the terminal, I found something. It was pulling too much power. I copied the directories —," she trailed off.
 
