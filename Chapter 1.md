@@ -2,17 +2,17 @@ Silas Blackwell took a drag from his cigarette, the ember flaring against the bl
 
 He didn't own any part of this view. He didn't have the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his ciagrette, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
+The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
 
 He didn't need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
 Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
-Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the polished concrete of  atrium pillars behind her. A gust of cold wind whipped across the terrace, pushing her natural, shoulder-length hair across her face.
+Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the polished concrete of  the atrium pillars behind her. A gust of cold wind whipped across the terrace, pushing her natural, shoulder-length hair across her face.
 
 "Yes, Doctor Blackwell," she replied. Her golden eyes darted constantly, tracking the weather calculations on the door's blue holograms as they reflected across their glassiness.
 
-*Nervous*,  Blackwell thought, *and she should be*.  They were about to succeed in something  never before attempted in the history of modern quantum engineering.
+*Nervous*,  Blackwell thought, *and she should be*.  They were about to succeed in something never before attempted in the history of modern quantum engineering.
 
 "The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But, you've got the three hundred and twenty terawatts," She said.
 
@@ -20,7 +20,7 @@ Blackwell raised the cigarette to his lips one last time, inhaling until the end
 
 The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the lower city. The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima, they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
-Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The multi-tiered annex was an imposing expanse of sleek, featureless architecture. Sharp, geometric angles of polished concrete soared above and plunged below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping  dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
+Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The multi-tiered annex was an imposing expanse of sleek, featureless architecture. Sharp, geometric angles soared above and plunged below them, encased in tinted black glass refracting the rays of the rising sun, shifting their direction down forty floors below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping  dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
 
 When the doors parted, the air inside the lab moved with a low vibration. It was the terrifying reality of the city's reactor channeling into the floor beneath their feet.
 
@@ -52,7 +52,7 @@ Elena didn't blink. She remained where she was, her posture shifting from subord
 
 The room erupted into a synchronized motion.
 
-Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the heavy, iron-cast cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the white pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog in a spectral light.
+Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the white pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog in a spectral light.
 
 The mechanical drone of the reactor shifted into a rhythmic pulse—a heavy vibration creeping through the concrete and into their bones. 
 
@@ -72,11 +72,11 @@ On the executive display above the floor, the grid of silhouettes leaned forward
 
 The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing datapad in her hands. She was in contrast to the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
 
-"Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a severe fluctuation in the event horizon. The—uh—well, the mass-displacement is causing a—uh—a localized gravitational shear—" Her rapid-fire words blurred together in a breathless, self-contained recitation. "—and—well, you know—that could theoretically pull the primary containment of the horizon memory out of phase—" Her awkward rambling pushed on without a breath, "—and if we don't recalculate the quantum telemetry right now—" 
+"Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a severe fluctuation in the event horizon. And—well actually, the mass-displacement is causing a—a localized gravitational shear." Her pressured speech fired rapidly, blurred together in a breathless recitation of awkward tones, "—and—well, you know—that could theoretically pull the primary containment of the horizon memory out of phase—and if we don't recalculate the quantum telemetry right now—" 
 
 She trailed off, finally looking up from her screen. 
 
-Elena was staring at her, her eyes piercing, "Negative," Elena said, her voice dropping into a scolding hiss through gritted teeth.  
+Elena was staring at her, eyes piercing. "Negative," she said, her voice dropping into a scolding hiss through gritted teeth.
 
 She cast a quick glance up at the Board's display—a fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
 
@@ -88,7 +88,7 @@ Iris flinched, pulling the tablet tight against her chest. "Yes, ma'am. Of cours
 
 "I need the telemetry!" Elena demanded, pivoting away.
 
-At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie luminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the white fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
+At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie ionoluminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the white fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
 
 "Horizon stability confirmed," the machine reported.
 
@@ -112,7 +112,11 @@ Blackwell turned, giving her his undivided attention for the first time. "It's p
 
 Elena shook her head. Seeing Blackwell calm, she dropped the dangerous subject, "You know, it wouldn't hurt you to talk to the Board, " she turned, glancing back over the console floor behind them, "you are the lead."
 
-Blackwell returned to the pillar readouts. The displacement anomaly was a necessary distraction. While Elena and the technicians panicked over the fluctuating event horizon, Blackwell watched the real experiment begin. He more than understood the Boundary Paradox—the way randomness and chaos grew unpredictably inside the structured borders of the universe he built within the horizon memory. Deep in the logs, a shadow process was quietly expanding. It was an inverted branch of the neural matrix. He caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
+Blackwell returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Elena and the technicians monitored the fluctuating event horizon, Blackwell watched the real experiment begin. 
+
+He more than understood the Boundary Paradox—the way randomness and chaos grew unpredictably inside the structured borders of the universe he built within the horizon memory. Listed in the logs, record of a shadow process, quietly expanding in the core. It was an inverted branch of the event horizons neural matrix. 
+
+Blackwell caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
 
 "I don't like the Board," Blackwell said, keeping his gaze fixed on the engine.
 
