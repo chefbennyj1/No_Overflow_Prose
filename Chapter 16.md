@@ -1,4 +1,4 @@
-She looked down at the SBC in her hand. The string of text Vigil had given her stabilized, resolving into a specific serial number on the small green screen: **#77-B**.
+Rin looked down at the SBC in her hand. The string of text Vigil had given her stabilized, resolving into a specific serial number on the small green screen: **#77-B**.
 
 Harper looked down the endless, vanishing rows of plastic-draped bodies. "Rin... there are hundreds of them. It's going to take us hours to find one specific serial number."
 

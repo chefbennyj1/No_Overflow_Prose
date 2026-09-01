@@ -67,15 +67,13 @@ She looked out to see Silas Blackwell standing on the walkway just as the elevat
 
 ***
 
-The HR-33 synthetic didn't flinch as the cloud of cigarette smoke washed over its face. 
-
-Its optical sensor whirred softly, a ring of blue light expanding rapidly to map the two men standing at the concierge desk. 
+The attendant's optical sensor whirred softly, a ring of blue light expanding rapidly to map the two men standing at the concierge desk. 
 
 "Good morning, Detective Graves. Officer Harlan," it said, its voice smooth and engineered to be disarming. "Welcome to the Takeda-Holden Corporation. Please be advised, this is a clean-air facility. Smoking is strictly prohibited."
 
 Harlan shot a sideways glance at Victor, nervously eyeing the armored Renewal agents stationed near the turnstiles. The machine had identified them before they even spoke.
 
-Victor tapped his silver shield where it lay flat against the mahogany wood.
+Victor tapped his silver shield where it lay flat on the desk.
 
 "We're here to speak with Doctor Silas Blackwell," Victor said. His voice was hard, carrying none of the machine's programmed warmth. "We have reason to believe he has information relevant to an ongoing investigation."
 
@@ -95,7 +93,7 @@ The synthetic stared at him, processing. "Terminal logs? I see... there have bee
 
 The synthetic's eyes flared an icy blue as it tapped into the internal comms. "HR-33, Entrance 001 please send Renewa—"
 
-"That won't be necessary, 33. Override authorization: Employee code 4-5-0-3." 
+"That won't be necessary, 33. Override authorization: Employee code 4 5 0 3." 
 
 The voice cut the synthetic off mid-sentence. Victor turned to see a young woman stepping toward them from the executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. He noticed her casting a cowering side-eye toward the upper atrium. 
 

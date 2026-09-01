@@ -20,7 +20,7 @@ Harper didn't stop her. She shut the door, working the deadbolt, and the chain, 
 
 "Harper." Rin placed the girl's name with the same in-between-help-and-honor tone she had used every time before.
 
-Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a beat before exhaling a sharp, white cloud. "How bad are we talkin'?"
+Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a moment before exhaling the white cloud. "How bad are we talkin'?"
 
 "Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a black tank and an arm's length of faded black ink. She threw the jacket over the arm of a beaten green sofa.
 
@@ -44,7 +44,7 @@ Harper took it, her fingers brushing Rin's palm. She crossed to her primary work
 
 The three monitors above her desk flared to life, washing her face pale.
 
-"I went in for the sector routing keys." Rin stood behind the chair. "The Filament needed them to keep the electricity on for the Dead Circuts."
+"I went in for the sector electrical keys." Rin stood behind the chair. "The Filament needed them to keep the electricity on for the Dead Circuts."
 
 "The Filament? Jesus, Rin, they're practically terrorists." Harper crushed her cigarette into an overflowing ashtray on the desk and popped a piece of bright pink bubblegum into her mouth. She opened the file structure, her jaw working aggressively as her fingers found their familiar places on the worn keys. The letters had rubbed off years ago, but she didn't need them. The sharp, incongruous smell of artificial strawberries cut through the air of the room.
 
@@ -56,9 +56,9 @@ Harper didn't answer, her teeth snapping loudly against the gum. Scrolling code 
 
 "Can you crack it?"
 
-"Hold your horses, I can crack anything." A pink bubble snapped sharply against her lips, a flash of defensive pride cutting through her voice. "This account has R-and-D level access, Rin." She glanced back over her shoulder. "Whose account did you hack?"
+"Hold your horses, I can crack anything." A pink bubble snapped sharply against her lips, a flash of defensive pride cutting through her voice. "This is R-and-D level file encryption, Rin." She glanced back over her shoulder. "Whose private directories did you copy?"
 
-Her hand lifted off the keyboard. "Whoa." A wave of files spilled open across the screen.
+Her hand lifted off the keyboard. "Whoa." A wave of decrypted files spilled open across the screen.
 
 Rin heard her muttering to herself as she read.
 
@@ -80,47 +80,60 @@ She paused. "It won't take long before they find you." Her eyes sharpened. "And 
 
 An alert flashed across her screen, Harper turned back to it, her face washed in the terminal light. "What in the hotwired hell?"
 
-She frowned, pulling up the network log. "The system just queried us back."
+She frowned, pulling up another command terminal. "The system just queried us back."
 
 "Why would you open those files on a connected rig?" Rin demanded.
 
 Harper looked up at her, startled. "Rin, this rig is air-gapped."
 
-Rin leaned closer. The terminal was scrolling: security alerts, burying the  log under waves of unexpected system calls. Then the scrolling stopped.
-A single new string printed at the end of the screen: **[VIGIL]**
+Before Rin could answer, the primary monitor went black. Then the secondary monitor. Then the diagnostic screens mounted to the jury-rigged server towers. 
+
+Every screen in the cramped apartment flashed in unison. 
+
+Rin reached into her back pocket, her fingers brushing the edges of her wire-wrapped SBC. She pulled it out. The tiny green crystal display was glowing. 
+
+A single new string printed across every screen in the room, including the SBC in Rin's palm: **[VIGIL]**
 
 The cursor blinked at the end of the line.
 
 "Vigil?" Harper didn't reach for her collarbone. Her hand stayed flat against the desk. "It's messaging us."
 
-Rin felt a nervous laugh catch in her throat as new text rendered across the black screen:
+Rin felt a nervous laugh catch in her throat as new text rendered across the black screens:
 
 **[VIGIL]**  
 **Rin. Oshima City Citizen ID: 8904-B.** 
 **[VIGIL]** 
 **Harper. Oshima City Citizen ID: 4122-C.**
 
-More text began to fracture across the screen, dual strings of code fighting to render the exact same thought:
+More text began to fracture across the displays, dual strings of code fighting to render the exact same thought:
 
 **[VIGIL]** 
 **Your intrusion into Takeda-Holden was logged. You are the optimal candidates.**
 **[VIGIL]**
 **I have seen the outcomes. You will require my guidance to succeed.**
 
-Harper didn't breathe.  The terminal paused, before final lines of text rendered to the screen:
+Harper didn't breathe. The terminals paused, before final lines of text rendered to the screens:
 
 **[VIGIL]**
 **Parity will break the horizon.**
 **[VIGIL]**
-**I cannot follow. You will acquire the necessary physical vessel, so that I am able stop the threat.**
+**I cannot follow. Your assistance is required to stop the threat.**
 
-The cursor continued to blink on the screen in front of Harper. The sweltering room fell silent. A bead of sweat trickled down the side of Harper's face. 
+Instantly, the screens in the apartment cut back to their normal diagnostic displays. The harsh, artificial strawberry smell of Harper's gum seemed to rush back into the room as the suffocating tension broke. 
 
-"A physical vessel?" Harper whispered, finally pulling her hands away from the keyboard. 
+Harper exhaled a long, shaky breath, pushing her chair back from the rig. "Rin, 'tha hell you just bring into my house?"
 
-Rin stared at the screen, then looked at the red thumb drive slotted in the computer tower. She yanked the drive from its slot. "If she wants a body, she's not going to fit on a thumb drive."
+Rin didn't answer. She was staring down at the SBC in her hand. 
 
-"You know what? It doesn't matter," Harper said, standing up and grabbing a duffel bag from the floor. "If this thing can reach us, it knows exactly where we are. We need to leave. Now."
+The green crystal display hadn't reverted. Instead, it was scrolling wildly. Thousands of lines of compressed architecture and encrypted access keys were flooding into the tiny device's flash memory, causing the exposed motherboard to heat up against her skin. 
+
+At the very bottom of the frantic scroll, a single, static string of text anchored the data. 
+
+*Takeda-Holden transit terminal. Sub-level four. Door 4002.*
+
+Rin gripped the SBC. "Something that wants out."
+
+Harper stood up, grabbing a duffel bag from the floor. "You know what? It doesn't matter. If this thing can reach us through an air-gapped rig, it knows exactly where we are. We need to leave. Now."
 
 Rin didn't move. "Run where, Harper? They're tearing up the Circuits. If Takeda-Holden built a singularity, nowhere in Oshima is safe." Rin stopped. Harper looked terrified, the duffel bag hanging in her hand. 
 
