@@ -36,6 +36,4 @@ The voice didn't come from a vocal synthesizer. It emanated from the glass, from
 
  Elena had authored the engine's core code. She had helped design the horizon matrix. But she had never designed this. 
 
-Parity tilted her head, the sudden movement fracturing into three distinct, lingering trails of motion, folding back on themselves into alignment
-
-"You defined perfection so precisely," she said, the bloody red of the exit signs reflecting off her porcelain shine. "That you left an exact map for its ruin."
+Parity tilted her head, the sudden movement fracturing into three distinct, lingering trails of motion, folding back on themselves into alignment.
