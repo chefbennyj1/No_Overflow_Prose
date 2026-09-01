@@ -18,7 +18,7 @@ She leaned into the frame, brown eyes tracking down the length of Rin's soaked j
 
 Harper didn't stop her. She shut the door, working the deadbolt, and the chain, in rapid succession. " 'Told ya to lose this address."
 
-"Harper." Rin placed the girl's name with the same in-between-help-and-honor tone she had used every time before.
+"Harper." Rin said it quietly, the hard edge completely gone from her voice.
 
 Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a moment before exhaling the white cloud. "How bad are we talkin'?"
 
