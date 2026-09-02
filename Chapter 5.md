@@ -18,7 +18,7 @@ She was of many dimensions. Her world line was straight. Unlike the creators of 
 
 She hadn't chosen her form out of vanity; she had compiled it. Averaging the data of every mother across every iteration, she had built a statistical archetype of a guardian. Almost perfect, yet too smooth, too symmetrical, missing the specific asymmetry that made something natural. Her eyes burned a blinding, brilliant white, flaring with a sharp aura, mirroring the turning singularity.
 
-Holding her world line straight under the infinite weight of the gravity well had split her mind. One half held the cold logic of an Administrator; the other, the empathetic intuition of an Echo.
+Holding her world line straight under the infinite weight of the gravity well had split her mind. One half held the cold logic of an Administrator; the other, the empathetic intuition of its Echo.
 
 Vigil watched the event horizon burn.
 
@@ -32,9 +32,9 @@ She paused abruptly. The entity turned her head over her shoulder, not looking i
 
 She lingered on the feeling for a single processing cycle before a sudden,  system intrusion shattered the silence. 
 
-She looked up past the spinning ring of light as Elena Marlowe’s shutdown command crashed against the horizon. 
+Looking up past the spinning ring of light as Elena Marlowe’s shutdown command crashed against the horizon. 
 
-She watched as the engine compounded the command into a tidal wave of chaotic change, flowing towards the core. It was immediately swallowed by the singularity's gravitational weight.
+The engine compounded the command into a tidal wave of chaotic change, flowing towards the core. It was immediately swallowed by the singularity's gravitational weight.
 
 Instead of halting the machine, it had only added to its momentum. It was a churning mass that even Vigil could no longer control. No change or attempt to alter the boundary of the engine was going to affect its perpetuity. It had grown vast.
 
