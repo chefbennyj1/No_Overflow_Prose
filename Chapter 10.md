@@ -18,7 +18,7 @@ Blackwell set the portfolio back on the shelf, aligning it perfectly. He turned 
 
 Elena didn't look up. "Just Iris. She was here early on Tuesday before my shift."
 
-Blackwell didn't react. He closed his eyes, his eidetic memory rewinding to Tuesday morning with perfect clarity. 
+Blackwell didn't react. He closed his eyes, his eidetic memory thinking back with perfect clarity. 
 
 He saw Iris, the boundary analyst, sitting at her terminal on the mezzanine. He remembered the annoying tapping of her stylus. It was what made him take note of her. He remembered the exact moment the shadow process had appeared in the readout, the synthetics scrubbing the errors. 
 
