@@ -39,7 +39,7 @@ Beside the logs was one other hidden file, an operations file forced to become v
 
 The blue holographic data on the glass was a scaled projection of the exact same tower schematic.
 
-Rin stepped backward in the room, moving away from the desk , and tilting her head, until her eyes focusedthe glowing wireframe eclipsed a structure looming in the distant city skyline. It was monitoring something specifically within that building—that had been tearing at the city's power grid for the better part of a month.
+Rin moved away from the desk, and stepped backward in the room. Tilting her head, she focused her eyes, until her perspective of the windows glowing wireframe display eclipsed a structure looming in the distant city skyline. It was monitoring something specifically within that building—that had been tearing at the city's power grid for the better part of a month.
 
 Before she could dig deeper, the power routing keys download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
@@ -61,7 +61,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a heavy augmented revolver that looked like a relic snatched from another century, with retrofitted magnetic rails that vibrated with a low charge, and a red indicator light blinking on the side to signify its readiness to fire. 
 
-"Oshima Police Depart—" Victor caught himself. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk... ding.* Victor ignored the noise, his attention drawn to the opened door. Through the opening in the suite, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
+"Oshima Police Depart—" Victor caught himself. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk... ding.* Victor heard the noise, his attention drawn quickly to the opened door. Through the opening in the suite, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
 
 Harlan burst through the stairwell door a second later, his weapon raised. "Jesus, Victor! You're being reckless—"
 

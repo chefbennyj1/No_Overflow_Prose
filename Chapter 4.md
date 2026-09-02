@@ -20,9 +20,7 @@ He tapped a key on his console. The manager’s avatar collapsed into a single, 
 
 Doctor Blackwell emerged from his private office and stepped directly out into the lab. 
 
-It had been six weeks since the engine was brought online, and the toll was obvious. Blackwell surveyed the floor with quiet contempt.  Technicians slept in shifts, and the dress code had gone sometime around the fourth week. The synthetics were the only things in the room the engine hadn't changed.
-
-A few yards away stood Iris, the Horizon Boundary Analyst. She adjusted her black-rimmed glasses on her face, the lenses reflecting the light from the screens in the lab. She watched Blackwell walk across the mezzanine. She looked back to her workstation, her expression terrified but intensely analytical.
+It had been six weeks since the engine was brought online, and the toll was obvious. He surveyed the floor with quiet contempt.  Technicians slept in shifts, and the dress code had gone sometime around the fourth week. The synthetics were the only things in the room the engine hadn't changed.
 
 Standing before a glowing interface was Elena Marlowe. The cool light of the monitors shone against her white lab coat. She was typing furiously, her face set in intense frustration, devoid of the commanding composure she normally maintained.
 
@@ -32,7 +30,9 @@ Standing before a glowing interface was Elena Marlowe. The cool light of the mon
 
 "It ignored the command," Elena said, her voice tight. 
 
-Iris swallowed hard. "The bits along the horizon's boundary are collapsing independently, in some kind of advanced learning algorithm." Blackwell watched her analyze the data, "We don't control the wave of permutations being rendered in the core." She paused for a moment. "It's processing these changes at a godly speed."
+A few yards away stood Iris, the Horizon Boundary Analyst. She adjusted her black-rimmed glasses, the lenses reflecting the light from the screens in the lab. Her expression was intensely analytical. She swallowed hard. "The horizon boundary is working independently... some kind of advanced learning algorithm." 
+
+Blackwell watched her analyze the data. She cleared her throat, then continued, "We don't control the wave of permutations being rendered in the core." She paused for a moment. "It's processing these changes at a godly speed."
 
 "Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the analyst. He already knew the shutdown command wasn't an error. Iris was getting too close. Left permutivity. The anomaly he was using to train the shadow process in the core. "It is not 'godly'," he said.
 
@@ -50,7 +50,7 @@ From her workstation, Iris tilted her head, her eyes narrowing at the pillar dis
 
 Then the shadow process was gone from the logs.
 
-The glow of Elena's monitors flashed an angry, crimson red. Across the floor, every workstation synchronized the same alert. The human technicians stepped back from their consoles, while the synthetics froze in place.
+The glow of Elena's monitors flashed an angry red. Across the floor, every workstation synchronized the same alert. The human technicians stepped back from their consoles, while the synthetics froze in place.
 
 "Horizon memory shutdown reads as... unsuccessful, ma'am," Iris said, staring up at Elena. 
 
