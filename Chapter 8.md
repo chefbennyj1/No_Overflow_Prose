@@ -1,10 +1,10 @@
-#CHAPTER 10 - Halt-and-Catch-Fire
+Suspended above the anti-star of the Mnemosyne Engine, Vigil was working. She watched the pale stone and metal structures around her shift, reinventing her world in a serene calm.
 
-Vigil watched realities unfold, suspended above the anti-star of the Mnemosyne Engine. 
+She visualized many unfolding realities, each probability a curve of fractaled light— a moment in time, that split and merged along a dimensional flow. She watch the flow of light like she had for millennia, with no change. 
 
-The probabilities curved before her as fractals of streaming light. Each trace a moment in time, that split and merged along a dimensional flow. 
+Something subtle, barely registering, altered in the flow. A microscopic failure. Vigil, analyzed the threads sudden fault. But, another shattered. 
 
-Then a large group of fractal paths began to break and collapse, each one shattered into the definitive end of the stream. Then another fracture, and another collapse The terminations multiplied.
+Vigil, spun in place as a large group of fractal paths began to break and collapse, each one shattered into the definitive end of the stream. The terminations multiplied.
 
 *It is not possible,* she thought, watching the outcome take shape, unable to calculate the reason.
 
