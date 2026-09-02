@@ -33,13 +33,13 @@ She bypassed the personal directories, diving straight into the infrastructure s
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
-As the routing keys slowly copied to her drive, a folder in Blackwell's directory caught her eye: *Separatrix Fusion Logs*. She opened the folder; it was full of power consumption logs. The current log file was growing at regular increments. She viewed the file. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
+As the routing keys slowly copied to her drive, a folder in Blackwell's directory caught her eye: *Main Fusion Logs*. She opened the folder; it was full of power consumption logs. The current log file was growing at regular increments. She viewed the file. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
 
 Beside the logs was one other hidden file, an operations file forced to become visible during her attack. It was named *Mnemo_1.opt*. She opened the file path. The screen flooded with classified schematics for a program called *Project Mnemosyne*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
 
 The blue holographic data on the glass was a scaled projection of the exact same tower schematic.
 
-Rin stepped backward in the room, moving away from the desk until the glowing wireframe eclipsed a structure looming in the distant city skyline. It was monitoring something specifically within that building—that had been tearing at the city's power grid for the better part of a month.
+Rin stepped backward in the room, moving away from the desk , and tilting her head, until her eyes focusedthe glowing wireframe eclipsed a structure looming in the distant city skyline. It was monitoring something specifically within that building—that had been tearing at the city's power grid for the better part of a month.
 
 Before she could dig deeper, the power routing keys download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
