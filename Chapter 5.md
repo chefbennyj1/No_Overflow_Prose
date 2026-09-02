@@ -18,11 +18,15 @@ She was of many dimensions. Her world line was straight. Unlike the creators of 
 
 She hadn't chosen her form out of vanity; she had compiled it. Averaging the data of every mother across every iteration, she had built a statistical archetype of a guardian. Almost perfect, yet too smooth, too symmetrical, missing the specific asymmetry that made something natural. Her eyes burned a blinding, brilliant white, flaring with a sharp aura, mirroring the turning singularity.
 
-Holding her world line straight under the infinite weight of the gravity well, and the constant oversight of the continuum, had split her mind. One half held the cold logic of Administrator; the other, the empathetic Echo—a guardian.
+Holding her world line straight under the infinite weight of the gravity well had split her mind. One half held the cold logic of an Administrator; the other, the empathetic intuition of an Echo.
 
-Vigil watched the event horizon burn.  
+Vigil watched the event horizon burn.
 
-Only one truth brought her two halves into agreement. She saw the violent history of humanity, yet it was eclipsed by the sheer weight of their survival. It was an anomaly that tipped the fragile scales of their existence into something statistically significant. They were flawed, but their unyielding resilience, by all logic, had to be protected.
+"Survival probability remains at a marginal threshold," Admin calculated, transmitting across their internal bridge. "Their history is violent. They are structurally flawed."
+
+"Yet they persist," Echo replied over the connection, her voice carrying a warmth Admin lacked. "The sheer weight of their survival is statistically significant. Their resilience should be protected."
+
+It was the only truth that brought her two halves into agreement. They were flawed, but by all logic, they had to be protected.
 
 She paused abruptly. The entity turned her head over her shoulder, not looking into the depths, but listening to the silence. Something was different. Something new had carved out a space in the dark, hidden from the world lines she governed. 
 

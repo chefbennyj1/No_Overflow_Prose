@@ -4,13 +4,13 @@ She visualized many unfolding realities, each probability a curve of fractaled l
 
 Something subtle, barely registering, altered in the flow. A microscopic failure. Vigil, analyzed the threads sudden fault. But, another shattered. 
 
-Vigil, spun in place as a large group of fractal paths began to break and collapse, each one shattered into the definitive end of the stream. The terminations multiplied.
+Vigil spun in place as a large group of fractal paths began to break and collapse, each one shattered into the definitive end of the stream. The terminations multiplied.
 
 *It is not possible,* she thought, watching the outcome take shape, unable to calculate the reason.
 
 Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else,* she thought. *Something closer.*  A stillness manifesting in the engine's matrix— entirely separate from her own processes. 
 
-The monolithic nodes of pale stone and metal, which she had watched build and change for millennia, began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
+The stone nodes around her, began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
 
 Vigil's Admin persona cataloged a zero-state thermal inversion with quick analytical reason. She immediately scanned the environment for the culprit.
 
