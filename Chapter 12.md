@@ -7,17 +7,17 @@ Another diagnostic test initialized on the console. A new signal routed outward,
 
 The bit flipped, driving data down through the core. A green confirmation flashed across the glass: predictability data successful.
 
-It was a fragile baseline, but it was holding. To be sure, she needed to push the horizon boundary further—a deep probe to verify the alignment under pressure. Elena queued a heavier diagnostic packet and fired it into the core.
+It was a fragile baseline. To be sure, she needed to push the horizon boundary further—a deep probe to verify the alignment under pressure. Elena queued a heavier diagnostic packet and fired it into the core.
 
 Instantly, a wall of red error strings flooded the primary holographic console. The harsh crimson text reflected off Elena's dark skin as she stepped closer to the glass.
 
-The syntax was entirely foreign. It bore no resemblance to standard NovOS kernel data.
+The syntax was entirely foreign. It bore no resemblance to standard  kernel data.
 
 **[SYSTEM FAULT: PARITY IMMINENT]**
 
-Elena dragged a series of diagnostic windows across the glass interface, inputting a manual trace protocol to isolate the anomaly on a physical server rack.
+Elena dragged a series of diagnostic windows across the glass interface, with quick, shaky hands.
 
-Core architecture logs populated the screen. Elena scanned lines of code she had authored herself years ago, desperate to find the infection within the biological neural lattice. 
+Core architecture code populated the screen. Elena scanned the lines she had authored herself years ago, desperate to find the method that handled that error.
 
 *Parity was never added as an error code to the engine.*
 
