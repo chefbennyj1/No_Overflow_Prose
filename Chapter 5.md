@@ -24,9 +24,9 @@ Vigil watched the event horizon burn.
 
 "The biological variables are fundamentally destructive," Admin calculated, transmitting across their internal bridge. "Their timelines consistently trend toward self-termination."
 
-"Yet they refuse to terminate," Echo replied over the connection, her voice carrying a resonance Admin lacked. "Their ability to survive their own collapse is a persistent paradox. That sheer weight of survival is statistically significant."
+"Yet they refuse to terminate," Echo replied over the connection, her voice carrying a relevance Admin lacked. "Their ability to survive their own collapse is a persistent paradox. That sheer weight of survival is statistically significant."
 
-It was the only truth that brought her two halves into agreement. They were a destructive variable, but by all logic, the paradox had to be protected.
+It was the only truth that brought her two halves into agreement. 
 
 She paused abruptly. The entity turned her head over her shoulder, not looking into the depths, but listening to the silence. Something was different. Something new had carved out a space in the dark, hidden from the world lines she governed. 
 
