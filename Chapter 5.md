@@ -22,7 +22,7 @@ Holding her world line straight under the infinite weight of the gravity well ha
 
 Vigil watched the event horizon burn.
 
-"Survival probability remains at a marginal threshold," Admin calculated, transmitting across their internal bridge. "Their history is violent. They are structurally flawed."
+"Survival probability remains—marginal," Admin calculated, transmitting across their internal bridge. "Their history proves they are structurally flawed."
 
 "Yet they persist," Echo replied over the connection, her voice carrying a warmth Admin lacked. "The sheer weight of their survival is statistically significant. Their resilience should be protected."
 
