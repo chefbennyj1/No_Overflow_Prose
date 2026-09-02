@@ -72,23 +72,23 @@ On the executive display above the floor, the grid of silhouettes leaned forward
 
 The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing datapad in her hands. She was in contrast to the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
 
-"Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a severe fluctuation in the event horizon. And—well actually, the mass-displacement is causing a—a localized gravitational shear." Her pressured speech fired rapidly, blurred together in a breathless recitation of awkward tones, "—and—well, you know—that could theoretically pull the primary containment of the horizon's gravity field out of phase—and if we don't recalculate, then the—" 
+"Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a change in the event horizon. And—well actually, the mass-displacement is causing a—a localized gravitational shear." Her pressured speech fired rapidly, blurred together in a breathless recitation of awkward tones, "—and—well, you know—that could theoretically pull the primary containment of the horizon's gravity field out of phase—and if we don't recalculate, then the—" 
 
 She trailed off, finally looking up from her screen. 
 
 Elena was staring at her, eyes piercing. "Negative," she said, her voice dropping into a scolding hiss through gritted teeth.
 
-Blackwell saw the her cast a quick glance up at the Board's display—an expression of fleeting dread that the subordinate couldn't ruin the demonstration—before her piercing eyes snapped back to Iris.
+She cast a quick glance up at the Board's display, and then to Blackwell—an expression of fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
 
-Blackwell watched the exchange in silence, finding the analyst's frantic rambling to be an irritating distraction. He waited to see how Elena would discipline the disruption. 
+Blackwell watched the exchange in silence, waiting to see how Elena would discipline the irritating disruption. 
 
-Elena stepped into Iris's personal space. She didn't even look at the data. "That is a predicted resonance."
+Elena stepped into Iris's personal space. She didn't even look at the data. "That is a predicted resonance. Go recalculate the gravity phase changes."
 
 Iris flinched, pulling the tablet tight against her chest. "Yes, ma'am. Of course. Predicted resonance."
 
 "I need the telemetry!" Elena demanded, pivoting away.
 
-At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie ionoluminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the white fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
+At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie, liquid crystal iluminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the white fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
 
 "Horizon stability confirmed," the machine reported.
 
@@ -110,11 +110,11 @@ Elena shot an apprehensive glance toward the panels. "What the Doctor means is, 
 
 Blackwell turned, giving her his undivided attention for the first time. "It's predicted resonance," he said, the corner of his mouth rising slightly.
 
-Elena shook her head. Seeing Blackwell calm, she dropped the dangerous subject, "You know, it wouldn't hurt you to talk to the Board, " she turned, glancing back over the console floor behind them, "you are the lead."
+Elena shook her head. Seeing Blackwell calm, she dropped the dangerous subject. "You know, it wouldn't hurt you to talk to the Board." She turned, glancing back over the console floor behind them. "You are the lead."
 
 Blackwell returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Elena and the technicians monitored the fluctuating event horizon, Blackwell watched the real experiment begin. 
 
-He more than understood the Boundary Paradox—the way randomness and chaos grew unpredictably inside the structured borders of the universe he built within the horizon memory. Listed in the logs, record of a shadow process, quietly expanding in the core. It was an inverted branch of the event horizons neural matrix. 
+He more than understood the Boundary Paradox—the way randomness and chaos grew unpredictably inside the structured borders of the universe he built within the horizon memory. Listed in the logs, record of a shadow process, quietly expanding in the core. It was an inverted branch of the event horizon's neural matrix. 
 
 Blackwell caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
 
