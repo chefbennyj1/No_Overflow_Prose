@@ -6,7 +6,7 @@ Blackwell didn't reply. He turned away from the railing and walked into his priv
 
 His gaze snapped to the bookshelf.
 
-Wedged between two heavy volumes was a black portfolio containing his original thesis paper on the necessity of Parity. The spine was usually flush with the leather books beside it. Now, it was jutting out of place.
+Wedged between two heavy volumes was a black portfolio containing his original thesis paper on the Parity Effect. The spine was usually flush with the leather books beside it. Now, it was jutting out of place.
 
 He stepped closer, pulling the portfolio from the shelf. He turned it over in his hands. The pristine matte finish bore the faint, oily smudge of a fingerprint near the edge.
 
@@ -22,7 +22,7 @@ Blackwell didn't react. He closed his eyes, his eidetic memory thinking back wit
 
 He saw Iris, the boundary analyst, sitting at her terminal on the mezzanine. He remembered the annoying tapping of her stylus. It was what made him take note of her. He remembered the exact moment the shadow process had appeared in the readout, the synthetics scrubbing the errors. 
 
-He watched Iris's demeanor change. He saw the subtle stagger of her breath. The shift in her eyes as she looked away. Yes, Iris had clocked the synthetics as they scrubbed the logs. She hadn't just come in early. 
+He watched Iris's demeanor change. He saw the subtle stagger of her breath. The shift in her eyes as she looked away. Yes, Iris had seen the synthetics as they scrubbed the logs. She hadn't just come in early. 
 
 *She knows,* Blackwell realized. She had come looking for answers.
 
