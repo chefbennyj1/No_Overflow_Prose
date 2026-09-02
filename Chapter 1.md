@@ -30,7 +30,7 @@ Below him sat the Mnemosyne Engine—or at least, the very top of it. The stagge
 
 A heavy layer of white gas rolled across the engine pit, obscuring the white paneled floor beneath. It broke against the stark topology of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was bitter cold, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
 
-"A drop in the bucket for what we're asking it to unearth, Miss Marlowe," Blackwell said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
+"Main Fusion's supply is a drop in the bucket for what we're asking it to unearth, Miss Marlowe," Blackwell said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
 
 Bracing his weight against the railing, he leaned forward, his reflection distorted in the reinforced glass. "The board wants better data compression. A smarter artificial intelligence to predict their margins."
 
@@ -72,13 +72,13 @@ On the executive display above the floor, the grid of silhouettes leaned forward
 
 The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing datapad in her hands. She was in contrast to the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
 
-"Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a severe fluctuation in the event horizon. And—well actually, the mass-displacement is causing a—a localized gravitational shear." Her pressured speech fired rapidly, blurred together in a breathless recitation of awkward tones, "—and—well, you know—that could theoretically pull the primary containment of the horizon memory out of phase—and if we don't recalculate the quantum telemetry right now—" 
+"Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a severe fluctuation in the event horizon. And—well actually, the mass-displacement is causing a—a localized gravitational shear." Her pressured speech fired rapidly, blurred together in a breathless recitation of awkward tones, "—and—well, you know—that could theoretically pull the primary containment of the horizon's gravity field out of phase—and if we don't recalculate, then the—" 
 
 She trailed off, finally looking up from her screen. 
 
 Elena was staring at her, eyes piercing. "Negative," she said, her voice dropping into a scolding hiss through gritted teeth.
 
-She cast a quick glance up at the Board's display—a fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
+Blackwell saw the her cast a quick glance up at the Board's display—an expression of fleeting dread that the subordinate couldn't ruin the demonstration—before her piercing eyes snapped back to Iris.
 
 Blackwell watched the exchange in silence, finding the analyst's frantic rambling to be an irritating distraction. He waited to see how Elena would discipline the disruption. 
 
