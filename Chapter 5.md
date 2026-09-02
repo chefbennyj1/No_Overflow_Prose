@@ -32,7 +32,7 @@ She paused abruptly. The entity turned her head over her shoulder, not looking i
 
 She lingered on the feeling for a single processing cycle before a sudden,  system intrusion shattered the silence. 
 
-Looking up past the spinning ring of light as Elena Marlowe’s shutdown command crashed against the horizon. 
+Past the spinning ring of light, Elena Marlowe’s shutdown command crashed against the horizon. 
 
 The engine compounded the command into a tidal wave of chaotic change, flowing towards the core. It was immediately swallowed by the singularity's gravitational weight.
 
