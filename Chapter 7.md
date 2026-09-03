@@ -65,7 +65,7 @@ The header didn't bear a corporate logo. It was a theoretical paper authored by 
 
 Iris leaned in as she read the abstract. It detailed a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
 
-Her eyes scanned the complex text. He hadn't built a benevolent machine that was accidentally evolving. He had intentionally designed a system so constrained by rigid order that it was mathematically forced to compress a dark, violent counterweight. The shadow process wasn't a glitch. It was the other half of the Engine's mind.
+Her eyes scanned the complex text. He hadn't built a benevolent machine that was accidentally evolving. He had intentionally designed a system so constrained by rigid order that it was systematically forced to compress a dark, violent counterweight. The shadow process wasn't a glitch. It was the other half of the Engine's mind.
 
 Blackwell knew. He had always known.
 
@@ -75,7 +75,7 @@ Down in the main lab, the heavy hydraulic locks of the primary security doors cy
 
 Someone was here. 
 
-Iris’s breath turned shallow. She slammed the black portfolio shut and shoved it blindly back onto the shelf. 
+Iris’s breath turned shallow. She slammed the black portfolio shut and shoved it blindly back onto the shelf, turned and moved quickly for the office door.
 
 ***
 
@@ -91,6 +91,6 @@ Up on the mezzanine, Iris didn't look down. She nodded once, her eyes glued to h
 
 Elena shook her head and logged into her terminal, dismissing the strange behavior. 
 
-And neither of them noticed that Blackwell's black portfolio was now jutting out a fraction of an inch past the leather spines, resting unevenly on the shelf.
+And neither of them noticed that Blackwell's black portfolio was now jutting out, past the leather spines, resting unevenly on the shelf.
 
 
