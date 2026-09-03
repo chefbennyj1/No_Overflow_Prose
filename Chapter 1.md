@@ -60,13 +60,13 @@ Blackwell’s smile widened. He watched the data stream, entranced by the magnit
 
 The Board watched from their remote sanctuaries, confident that distance would protect them. They didn't understand the physics. If the containment failed, the resulting rupture would swallow them as easily as the lab. 
 
-Behind him, technicians on the floor exchanged nervous glances, shrinking back from the railing. They seemed unnerved by the sheer physical presence of the machine, but Blackwell remained unbothered. 
+Behind him, technicians on the floor exchanged nervous glances, shrinking back from the railing. They were unnerved by the sheer physical presence of the machine, but Blackwell remained unbothered. 
 
 Elena stepped up to the railing, studying a datapad in her hand, her tense posture relaxing a fraction. "The initialization sequence is holding steady," she said, a rare note of satisfaction bleeding into her voice. She stepped closer to him, so only he could hear, "The containment calculations were flawless, Silas. You calculated activation. Congratulations."
 
 "Of course they were," Blackwell said, the unlit cigarette bobbing between his lips.
 
-On the executive display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval. Predatory interest. The Takeda-Holden Corporation was watching their investment come to life. Beside him, Elena stiffened under the executive gaze. To her, this was a performance.
+On the executive display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval. Predatory interest. The Takeda-Holden Corporation was watching their investment come to life. Beside him, Elena squared her shoulders and stiffened under the executive gaze. 
 
 "Doctor Blackwell, Ma'am." 
 
