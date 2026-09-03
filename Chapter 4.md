@@ -30,7 +30,7 @@ Standing before a glowing interface was Elena Marlowe. The cool light of the mon
 
 "It ignored the command," Elena said, her voice tight. 
 
-A few yards away stood Iris, the Horizon Boundary Analyst. She adjusted her black-rimmed glasses, the lenses reflecting the light from the screens in the lab. Her expression was intensely analytical. She swallowed hard. "The horizon boundary is working independently... some kind of advanced learning algorithm." 
+A few yards away stood Iris, the Horizon Boundary Analyst. She adjusted her black-rimmed glasses, the lenses reflecting the light from the screens in the lab. She swallowed hard. "The horizon boundary is working independently... some kind of advanced learning algorithm." 
 
 Blackwell watched her analyze the data. She cleared her throat, then continued, "We don't control the wave of permutations being rendered in the core." She paused for a moment. "It's processing these changes at a godly speed."
 
@@ -54,9 +54,9 @@ The glow of Elena's monitors flashed an angry red. Across the floor, every works
 
 "Horizon memory shutdown reads as... unsuccessful, ma'am," Iris said, staring up at Elena. 
 
-Blackwell turned. "The living generally don't want to die," he stated. It wasn't a philosophical observation; it was a cold, hard fact. 
+Blackwell turned. "The living generally don't want to die," he stated. It wasn't a philosophical observation, it was built into the nervous system of any living thing.
 
-"Dammit!" Elena pounded a fist against the metal console, having missed Blackwell's remarks. "Why won't the memory—?"
+"Dammit!" Elena pounded a fist against the metal console, ignoring him. "Why won't the memory—?"
 
 "Instrumental Convergence, Elena."
 
