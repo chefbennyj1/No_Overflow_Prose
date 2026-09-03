@@ -70,7 +70,7 @@ On the executive display above the floor, the grid of silhouettes leaned forward
 
 "Doctor Blackwell, Ma'am." 
 
-The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing datapad in her hands. She was in contrast to the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She shoved her black-rimmed glasses up the bridge of her nose—a compulsive tic she exhibited whenever forced away from her screens. 
+The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing datapad in her hands. She didn't belong with the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She compulsively shoved her black-rimmed glasses up the bridge of her nose—her focus snapping back to the glow of her screen. 
 
 "Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a change in the event horizon. And—well actually, the mass-displacement is causing a—a localized gravitational shear." Her pressured speech fired rapidly, blurred together in a breathless recitation of awkward tones, "—and—well, you know—that could theoretically pull the primary containment of the horizon's gravity field out of phase—and if we don't recalculate, then the—" 
 
