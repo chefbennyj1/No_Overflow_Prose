@@ -65,7 +65,7 @@ The header didn't bear a corporate logo. It was a theoretical paper authored by 
 
 Iris leaned in as she read the abstract. It detailed a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
 
-Her eyes darted across the complex schematics. He hadn't built a benevolent machine that was accidentally evolving. He had intentionally designed a system so constrained by rigid order that it was mathematically forced to compress a dark, violent counterweight. The shadow process wasn't a glitch. It was the other half of the Engine's mind.
+Her eyes scanned the complex schematics. He hadn't built a benevolent machine that was accidentally evolving. He had intentionally designed a system so constrained by rigid order that it was mathematically forced to compress a dark, violent counterweight. The shadow process wasn't a glitch. It was the other half of the Engine's mind.
 
 Blackwell knew. He had always known.
 
