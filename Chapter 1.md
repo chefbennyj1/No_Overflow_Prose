@@ -12,7 +12,7 @@ Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holo
 
 "Yes, Doctor Blackwell," she replied. Her golden eyes darted constantly, tracking the weather calculations on the door's blue holograms as they reflected across their glassiness.
 
-*Nervous*,  Blackwell thought, *and she should be*.  They were about to succeed in something never before attempted in the history of modern quantum engineering.
+*Nervous*,  Blackwell thought, *and she should be*.  They were about to tear a hole directly into the physical boundaries of their known universe, and fill it with a the mass of an anti-star.
 
 "The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But, you've got the three hundred and twenty terawatts," She said.
 
@@ -40,7 +40,8 @@ A humorless breath fogged the glass. "What I'm building will pioneer a new era."
 
 Above the primary consoles, a wall sized display flickered to life. The encrypted feed partitioned the screen into a grid of digital monitors. Each square displayed nothing but the featureless silhouette of a corporate executive.
 
-"Perfect," Blackwell said, his lip curling into a sinister smile, "Just in time," his tone layered with passive sarcasm.
+"Perfect," Blackwell said, his lip curling into a sinister smile, "ight on
+  schedule," his tone layered with passive sarcasm.
 
 "The Takeda-Holden Corporation expects success today, Blackwell." a  voice echoed from the grid.
 
