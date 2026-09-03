@@ -89,7 +89,7 @@ She pulled the trigger point-blank. The blast inside the tiny metal elevator car
 
 Rin didn't wait to grab the gun. She shoved past the staggered agent and stumbled into the hall. The agent planted her feet, looking down at her chest. 
 
-Rin turned in the hallway facing them, posturing with outstretched arms, feeling the walls with her fingertips. She stepped back, tasting the  gunpowder residue from the close-encounter gunshot. The air was drying every terrified inch of her eyes as she fixed her attention on the two agents.
+Rin turned in the hallway to facing them, posturing with outstretched arms, feeling the walls with her fingertips. She stepped back, tasting the  gunpowder residue from the close-encounter gunshot. The air was drying every terrified inch of her eyes as she fixed her attention on the two agents.
 
 The face of the agent's black mask snapped toward Rin. She stood up menacingly slow, as her partner stepped beside her. Both agents raised their tactical rifles.
 
