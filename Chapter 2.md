@@ -1,8 +1,8 @@
   Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers", the daunting arcologies of the city. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. 
   
-  The atmosphere was bitter, and thick with exhaust. Despite the rain, the morning sun struggled to pierce the smog, washing the wet streets in a pale, tarnished light. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. Only the synthetics walked barefaced. The freezing rain beaded off their vinyl skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
+  The atmosphere was bitter, and thick with exhaust. Despite the rain, the morning sun struggled to pierce the smog, washing the wet streets in a pale, tarnished light. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained from filtering the air. Only the synthetics walked barefaced. The freezing rain beaded off their vinyl skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
 
-  Rising from the center of the old blocks was a Company office building. The monolith structure was a pristine slab of mirrored, black glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
+  Rising from the center of the old blocks was a Company office building. The monolith structure was a pristine slab of mirrored, tinted glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
   
   Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, Rin stood in the company hallway, pulling wires from an office's magnetic lock.
 The corridor was otherwise silent. Rin had done her research; she had found the perfect floor. For whatever reason, the executive suites on floor 15 had been unattended for weeks. The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
@@ -75,7 +75,7 @@ Rin perked up, the sound of muffled voices from the hallway cutting through the 
 
 She pocketed the drive, her gaze shifting back to the window, then again to the ajar executive doors. 
 
-Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte black with a faded yellow band painted around it. She held it in her palm. It had taken seven people to drag a hulking Renewal agent to the ground long enough for the canister to snap loose from its belt—a bloody memory she tried to forget. Rin ran her thumb over the rusted safety pin, staring at the small explosive as she calculated what she was about to do.
+Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte color with a faded yellow band painted around it. She held it in her palm. It had taken seven people to drag a hulking Renewal agent to the ground long enough for the canister to snap loose from its belt—a bloody memory she tried to forget. Rin ran her thumb over the rusted safety pin, staring at the small explosive as she calculated what she was about to do.
 
 With her free hand, she pulled a low-profile rebreather mask from her collar. It was a specialized, far more advanced than the stained surgical masks worn by the crowds in the Dead Circuits below. She pulled the thick straps over her dark hair, the rubber sealing tightly around her nose and mouth with a faint hiss of pressurized air. 
 
@@ -89,7 +89,7 @@ But before they could breach the office, the familiar sound echoed through the h
 
 Only this time, the metallic ring was hollow and slightly out of tune.
 
-Victor looked down. A black canister with a faded yellow band had rolled to a stop against the toe of his standard-issue dress shoes, having bounced off the metal doorframe of the office.
+Victor looked down. A canister with a faded yellow band had rolled to a stop against the toe of his standard-issue dress shoes, having bounced off the metal doorframe of the office.
 
 He felt the abrupt, hardened force of Harlan grabbing his coat with both hands, twisting him backward as they fell against the wall. 
 
@@ -125,7 +125,7 @@ Before Harlan could say another word, the synchronized thud of tactical boots ec
 
 Harlan grabbed Victor’s arm, his voice dropping to a harsh whisper. "Victor... they just climbed fifteen flights. They aren't even breathing."
 
-Their humanity was obscured by glossy, faceless black helmets that reflected the harsh fluorescent light of the stairwell. The lead agent didn't speak. He stepped directly into Victor's personal space, towering over him. Victor could see his own pale reflection in the black glass. The agent shone a deliberately bright tactical light, scanning Harlan's upheld Oshima police badge before snapping the light, to burn directly into Victor's sensitive eyes.
+Their humanity was obscured by glossy, faceless helmets that reflected the harsh fluorescent light of the stairwell. The lead agent didn't speak. He stepped directly into Victor's personal space, towering over him. Victor could see his own pale reflection in the opaque glass. The agent shone a deliberately bright tactical light, scanning Harlan's upheld Oshima police badge before snapping the light, to burn directly into Victor's sensitive eyes.
 
 Victor was still holding his revolver. The entire squad shifted towards him in response. A silent, lethal threat.
 
