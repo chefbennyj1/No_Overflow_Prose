@@ -81,11 +81,11 @@ The agent didn't budge. "Resident identification required for Renewal Protocol. 
 
 "Identification?" Rin asked, offering a forced, compliant nod. Her right hand slid slowly into her jacket as she stepped forward toward the agent. "Sure, it's—"
 
-She dropped the act, ripping the heavy pistol from her holster and driving the muzzle square into the center-mass of the agent's armor. 
+She dropped the act, ripping the pistol from her holster and driving the muzzle square into the center-mass of the agent's armor. 
 
 "—Right here!"
 
-She pulled the trigger point-blank. The blast inside the tiny metal elevator car was agonizingly loud. The violent recoil kicked Rin's wrist back. Her hand went numb as the heavy pistol slipped from her fingers, clattering onto the elevator floor. The heavy round shattered against the sleek black plating, dumping its kinetic energy into the armor, but the agent only stumbled. 
+She pulled the trigger point-blank. The blast inside the tiny metal elevator car was agonizingly loud. The violent recoil kicked Rin's wrist back. Her hand went numb as the heavy pistol slipped from her fingers, clattering onto the elevator floor. The round shattered against the sleek black plating, dumping its kinetic energy into the armor, but the agent only stumbled. 
 
 Rin didn't wait to grab the gun. She shoved past the staggered agent and stumbled into the hall. The agent planted her feet, looking down at her chest. A split second, then the face of the black mask snapped toward Rin.
 
@@ -97,7 +97,7 @@ Rin turned in the hallway facing the agents, backing slowly away with outstretch
 
 Empty. 
 
-The slow, trenching crunch of heavy boots advanced down the hallway. Peering around the corner, Rin spotted her thumb drive. Camouflaged in the dirty red pattern of the carpet, it sat exactly where she had hit the floor. 
+The slow, trenching crunch of combat boots advanced down the hallway. Peering around the corner, Rin spotted her thumb drive. Camouflaged in the dirty red pattern of the carpet, it sat exactly where she had hit the floor. 
 
 *Corporate-grade plating.* Adrenaline flooded her body. *They won't stop.*
 
