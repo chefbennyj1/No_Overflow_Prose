@@ -1,6 +1,6 @@
   Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers", the daunting arcologies of the city. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. 
   
-  The atmosphere was bitter, and thick with exhaust. Despite the downpour, the morning sun struggled to pierce the smog, washing the wet streets in a pale, tarnished light. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. Only the synthetics walked barefaced. The freezing rain beaded off their vinyl skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
+  The atmosphere was bitter, and thick with exhaust. Despite the rain, the morning sun struggled to pierce the smog, washing the wet streets in a pale, tarnished light. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained black from filtering the air. Only the synthetics walked barefaced. The freezing rain beaded off their vinyl skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
 
   Rising from the center of the old blocks was a Company office building. The monolith structure was a pristine slab of mirrored, black glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
   
@@ -15,7 +15,7 @@ Tucking the jagged sidelock of her black hime-cut bob behind her ear, she slippe
 
 As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a wave of blue pixels flowed across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of information. She approached the terminal sitting on the desk.
 
-She ignored the window's holographic display, and didn't admire the view. The data streaming across the glass represented sheer excess.  Rin pulled the black single-board controller from her jacket, jamming its connection wire into the main console. 
+She ignored the window's holographic display, and didn't admire the view. The data streaming across the glass represented sheer excess. Rin jammed the connection wire of her single-board controller into the main console. 
 
 The terminal awoke, projecting a  Takeda-Holden Corporation login screen. A minimal, white screen with black text.
 
