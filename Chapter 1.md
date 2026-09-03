@@ -28,7 +28,7 @@ Past the primary control consoles, the floor was manned by a mix of human techni
 
 Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock. What ascended through the facility's foundation, and protruded into this observation chamber was a cluster of stark white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
 
-A heavy layer of white gas rolled across the engine pit, obscuring the white paneled floor beneath. It broke against the stark topology of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was chilling, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
+A layer of white gas rolled across the engine pit, obscuring the white paneled floor beneath. It broke against the stark topology of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was chilling, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
 
 "Main Fusion's supply is a drop in the bucket for what we're asking it to unearth, Miss Marlowe," Blackwell said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
 
@@ -55,7 +55,7 @@ The room erupted into a synchronized motion.
 
 Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the white pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog in a spectral light.
 
-The mechanical drone of the reactor shifted into a rhythmic pulse—a heavy vibration creeping through the concrete and into their bones. 
+The mechanical drone of the reactor shifted into a rhythmic pulse—a vibration creeping through the concrete and into their bones. 
 
 Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was unaffected by the reverberating force of his creation. 
 
@@ -71,7 +71,7 @@ On the executive display above the floor, the grid of silhouettes leaned forward
 
 "Doctor Blackwell, Ma'am." 
 
-The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing datapad in her hands. She didn't belong with the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and heavy gold hoops swung from her ears. She compulsively shoved her black-rimmed glasses up the bridge of her nose—her focus snapping back to the glow of her screen. 
+The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing datapad in her hands. She didn't belong with the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and gold hoops swung from her ears. She compulsively shoved her black-rimmed glasses up the bridge of her nose—her focus snapping back to the glow of her screen. 
 
 "Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a change in the event horizon. And—well actually, the mass-displacement is causing a—a localized gravitational shear." Her pressured speech fired rapidly, blurred together in a breathless recitation of awkward tones, "—and—well, you know—that could theoretically pull the primary containment of the horizon's gravity field out of phase—and if we don't recalculate, then the—" 
 

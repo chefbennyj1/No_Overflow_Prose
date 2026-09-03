@@ -13,7 +13,7 @@ The magnetic lock disengaged with a hollow thud. She ran her fingers across the 
 
 Tucking the jagged sidelock of her black hime-cut bob behind her ear, she slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized, heavy leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
 
-As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a wave of blue pixels flowed across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of information. She approached the terminal sitting on the desk.
+As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a wave of blue pixels flowed across the reinforced glass. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. Caustic shadows stretched across the room. She approached the terminal sitting on the desk.
 
 She ignored the window's holographic display, and didn't admire the view. The data streaming across the glass represented sheer excess. Rin jammed the connection wire of her single-board controller into the main console. 
 
@@ -51,7 +51,7 @@ The fluorescent lights of the maintenance stairwell flickered, casting active sh
 
 "Fifteen floors up with no elevator, Victor?" Harlan gasped, loosening the tie of his grey suit. He leaned against the metal railing to catch his breath. "You sure it's Null this time?"
 
-Victor didn't slow his ascent. His black coat whipped at his ankles with each quick step. He kept climbing. The light caught his white hair when he turned at the landing, went through his Albinotic eyes and came back a red. 
+Victor didn't slow his ascent. His black coat whipped at his ankles with each quick step. He kept climbing. At the landing he turned and wiped the mess of white hair from his eyeline. He ignored the familiar sting of the fluorescent lighting searing into his Albinotic eyes. 
 
 "Yeah," Victor said, his voice steady. "Not losin' this lead, Harlan. Best we got to the Filament. Null won't get past me again."
 
@@ -59,7 +59,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 "We gotta get to Null before Corporate Renewal," Victor said, his gaze fixed on the landing above. "If Takeda-Holden finds them first, months of work will have been for nothing." Victor turned back, looking at Harlan on the landing below him. "And we want those mafia bastards."
 
-Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a heavy augmented revolver that looked like a relic snatched from another century, with retrofitted magnetic rails that vibrated with a low charge, and a red indicator light blinking on the side to signify its readiness to fire. 
+Victor reached the steel fire-door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—an augmented revolver that looked like a relic snatched from another century, with retrofitted magnetic rails that vibrated with a low charge, and a red indicator light blinking on the side to signify its readiness to fire. 
 
 Victor stepped onto the landing in silence. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk... ding.* Victor noted the noise, his attention drawn quickly to the opened door. Through the opening in the suite, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
 
@@ -75,17 +75,15 @@ Rin perked up, the sound of muffled voices from the hallway cutting through the 
 
 She pocketed the drive, her gaze shifting back to the window, then again to the ajar executive doors. 
 
-*Time to go.*
-
 Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte black with a faded yellow band painted around it. She held it in her palm. It had taken seven people to drag a hulking Renewal agent to the ground long enough for the canister to snap loose from its belt—a bloody memory she tried to forget. Rin ran her thumb over the rusted safety pin, staring at the small explosive as she calculated what she was about to do.
 
 With her free hand, she pulled a low-profile rebreather mask from her collar. It was a specialized, far more advanced than the stained surgical masks worn by the crowds in the Dead Circuits below. She pulled the thick straps over her dark hair, the rubber sealing tightly around her nose and mouth with a faint hiss of pressurized air. 
 
 Rin hooked her finger through the grenade's metal ring.
 
+***
 
-
-Out in the hall, Victor tightened his grip on his heavy revolver, stepping toward the office door. Harlan sidestepped beside him, slowly pulling back the slide of his pistol. The metal clicked, and he guided the slide softly forward to chamber a round, then gave Victor a tight nod.
+Out in the hall, Victor tightened his grip on his revolver, stepping toward the office door. Harlan sidestepped beside him, slowly pulling back the slide of his pistol. The metal clicked, and he guided the slide softly forward to chamber a round, then gave Victor a tight nod.
 
 But before they could breach the office, the familiar sound echoed through the hallway. *Clunk... ding*.
 
@@ -107,11 +105,11 @@ Before Victor could blink through the pain and adjust his aim, she was moving. S
 
 Victor surged to his feet, ignoring the burning in his eyes, but she was too fast. He watched through the clearing smoke as she reached the end of the hall, sliding seamlessly into the elevator car. She kicked the heavy wrench from the floor track with her boot, freeing the doors from their open state. 
 
-Victor reached the elevator a second later, his gaze centered through the final sliver of the closing doors. 
+Victor reached the elevator a second later, his stare centered through the final sliver of the closing doors. 
 
 Victor and Rin's eyes met for the first time through the closing gap.
 
-His stern, unyielding glare locked onto her, piercing through the tearing pain of the smoke. Rin felt the weight of an absolute vendetta in his eyes.
+He set his gaze on her, unyielding. Locked onto her. He ignored the tearing pain of the smoke—this was no longer only about the Filament.
 
 The doors sealed shut. Null was gone. 
 
@@ -119,17 +117,17 @@ Victor and Harlan stumbled backward, breaking through the fire door and collapsi
 
 Harlan leaned heavily against the concrete wall, his lungs burning as he gasped for air. "God... damn it!" he wheezed. "Did you... did you get a good look at her?"
 
-Victor remained silent for a moment, his red, bloodshot eyes fixed on the heavy metal of the fire door. He replayed the split-second of eye contact in his mind. The sharp eyes. The feminine silhouette backlit by the bright anomaly data. 
+Victor remained silent for a moment, his red, bloodshot eyes fixed on the metal of the fire door. He replayed the split-second of eye contact in his mind. The sharp eyes. The feminine silhouette backlit by the bright anomaly data. 
 
 "I did," Victor said, finally catching his breath.
 
-Before Harlan could say another word, the heavy, synchronized thud of tactical boots echoed up the stairwell. A squad of Takeda-Holden Renewal Agents marched onto the landing. They moved with terrifying, mechanical precision, clad in sleek, form-fitting black tactical armor. 
+Before Harlan could say another word, the synchronized thud of tactical boots echoed up the stairwell. A squad of Takeda-Holden Renewal Agents marched onto the landing. They moved with terrifying, mechanical precision, clad in sleek, form-fitting black tactical armor. 
 
 Harlan grabbed Victor’s arm, his voice dropping to a harsh whisper. "Victor... they just climbed fifteen flights. They aren't even breathing."
 
 Their humanity was obscured by glossy, faceless black helmets that reflected the harsh fluorescent light of the stairwell. The lead agent didn't speak. He stepped directly into Victor's personal space, towering over him. Victor could see his own pale reflection in the black glass. The agent shone a deliberately bright tactical light, scanning Harlan's upheld Oshima police badge before snapping the light, to burn directly into Victor's sensitive eyes.
 
-Victor was still holding his heavy revolver. The entire squad shifted towards him in response. A silent, lethal threat.
+Victor was still holding his revolver. The entire squad shifted towards him in response. A silent, lethal threat.
 
 Victor made a point of slowly, deliberately holstering the gun so as not to instigate them. He winced, blinking through the blinding light. "Oh, look," he said, his sarcastic tone masking a spike of genuine adrenaline. "The cavalry finally showed up. Just in time, as always."
 
