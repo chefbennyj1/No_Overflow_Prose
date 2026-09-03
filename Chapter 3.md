@@ -1,16 +1,16 @@
 The night market of her sector was a claustrophobic canyon of commerce. Signs, half-dead and bleeding harsh pink and green into the fog. Rin hauled her boots along the broken sidewalk. The smell of boiling noodles drifted from street carts as she shoved her way through the crowd in the storm.
 
-Rin walked with her head down, the collar of her heavy leather jacket pulled up against the night air. She had kept a low profile all day. Meeting the detective eye to eye was a mistake she kept replaying in her mind. *How long have they known my alias?* she wondered. *How long have they been chasing Null?* The work for the Filament had made her known. She wiped a streak of freezing rain from her cheek. *Always tastes like there's dirt in my mouth,* she thought, feeling the weight of the Dead Circuits again.
+Rin walked with her head down, the collar of her leather jacket pulled up against the night air. She had kept a low profile all day. Meeting the detective eye to eye was a mistake she kept replaying in her mind. *How long have they known my alias?* she wondered. *How long have they been chasing Null?* The work for the Filament had made her known. She wiped a streak of freezing rain from her cheek. *Always tastes like there's dirt in my mouth,* she thought, feeling the weight of the Dead Circuits again.
 
 Veering away from the main thoroughfare, Rin stepped under the dripping, corrugated awning of a derelict electronics shop to escape the downpour. The storefront was heavily barred, protecting a graveyard of obsolete technology. Behind the glass, a dozen vintage, bulky television sets were stacked haphazardly atop one another. They were all tuned to the same channel, flickering light on the slick street. On every screen, the identical, impassive face of a corporate anchorwoman delivered the evening broadcast. 
 
 "—officials continue to investigate an early morning unauthorized data breach at a Takeda-Holden office building downtown," the anchorwoman’s voice buzzed through a blown-out speaker above the door. "Renewal Agents are conducting authorized sweeps through several lower-city districts —"
 
-Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *Renewal wouldn't care about stolen electrical keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning. Heavy vehicles  suspended inches above the broken pavement on magnetic cushions glided passed slowly along the wet road. They vibrated, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars. 
+Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *Renewal wouldn't care about stolen electrical keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning. Degraded vehicles suspended inches above the broken pavement on magnetic cushions glided passed slowly along the wet road. They vibrated, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars. 
 
 As she hit the adjacent curb she looked up, in the darkened glass of a storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison. 
 
-The anchorwoman's face fractured into heavy scanlines. Beneath the static—hidden amongst the broken signal—a new visage appeared. The shape of a face, devoid of color, composed across the stacked screens. Its eyes burned a blinding white, flaring with a blue aura. The face breached and drowned in the dissonant black and white snow, surfacing from the static only to be pulled back under.
+The anchorwoman's face fractured into thick scanlines. Beneath the static—hidden amongst the broken signal—a new visage appeared. The shape of a face, devoid of color, composed across the stacked screens. Its eyes burned a blinding white, flaring with a blue aura. The face breached and drowned in the dissonant black and white snow, surfacing from the static only to be pulled back under.
 
 Its expression was hauntingly focused— on Rin. 
 She let out a shaky breath, and her boots scuffed the wet pavement as she turned to face the wall of screens. 
@@ -57,7 +57,7 @@ The Madame took it and turned it over, a grim smile pulling at the deep lines ar
 
 Living in the Dead Circuits rarely had its benefits,. As Rin approached her apartment building, a light flickered over the doorway. 
 
-She pushed through the heavy front doors into the lower lobby. The air inside smelled stale. Chipped green paint curled off the walls, and the corners choked with shadows and dirt. She walked down the first-floor hallway, passing a long row of identical, battered apartment doors. Some were heavily locked, others broken and vacant, their hinges snapped. On one, a faded welcome mat. On another, a child's drawing taped at eye level.
+She pulled open the front door of the lower lobby. The air inside smelled stale. Chipped green paint curled off the walls, and the corners choked with shadows and dirt. She walked down the first-floor hallway, passing a long row of identical, battered apartment doors. Some were heavily locked, others broken and vacant, their hinges snapped. On one, a faded welcome mat. On another, a child's drawing taped at eye level.
 
 Rin slipped past the misery and stepped into the rusted elevator at the end of the hall. 
 
@@ -71,7 +71,7 @@ Standing directly in front of the open door, waiting for the lift, were two Take
 
 Rin slammed her hand against the elevator's 'Close Door' button, stepping backward into the car. 
 
-The rusted doors began to slide shut, but an agent jammed a heavy, armored forearm between them. The metal groaned to a stop as the agent effortlessly forced the doors back open, stepping into the elevator, and blocked her escape. 
+The rusted doors began to slide shut, but an agent jammed its intimidating, armored forearm between them. The metal groaned to a stop as the agent effortlessly forced the doors back open, stepping into the elevator, and blocked her escape. 
 
 "Citizen!" the female agent barked, her voice heavily modulated through the helmet. "State your name, your prior location, and destination!"
 
