@@ -5,7 +5,7 @@
   Rising from the center of the old blocks was a Company office building. The monolith structure was a pristine slab of mirrored, black glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
   
   Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, Rin stood in the company hallway, pulling wires from an office's magnetic lock.
-The corridor was otherwise silent. Rin had done her research; she had found the perfect floor. For whatever reason, the executive suites on floor 15 had been left unattended for weeks. The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose, building the pressured tears of an unsneezable sneeze. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
+The corridor was otherwise silent. Rin had done her research; she had found the perfect floor. For whatever reason, the executive suites on floor 15 had been left unattended for weeks. The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
 
 A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam searched for its missing data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. She held the exposed motherboard against the lock's near-field communication display. The green crystal screen on the SBC flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
 
@@ -61,7 +61,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 Victor reached the heavy door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—a heavy augmented revolver that looked like a relic snatched from another century, with retrofitted magnetic rails that vibrated with a low charge, and a red indicator light blinking on the side to signify its readiness to fire. 
 
-"Oshima Police Depart—" Victor caught himself. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk... ding.* Victor heard the noise, his attention drawn quickly to the opened door. Through the opening in the suite, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
+Victor stepped onto the landing in silence. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk... ding.* Victor noted the noise, his attention drawn quickly to the opened door. Through the opening in the suite, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
 
 Harlan burst through the stairwell door a second later, his weapon raised. "Jesus, Victor! You're being reckless—"
 
@@ -71,9 +71,7 @@ Harlan burst through the stairwell door a second later, his weapon raised. "Jesu
 
 Inside the office, a low tone from the workstation terminal signaled the completed data transfer. 
 
-Rin perked up, the abrupt shout from the hallway cutting through muted silence of the office. Keeping her eyes on the door, she reached down, feeling for the red thumb drive. She pulled it from the console, her fingers closing tightly around the warm metal. 
-
-*Police?* she realized. *Better than Renewal.*
+Rin perked up, the sound of muffled voices from the hallway cutting through the muted silence of the office. Keeping her eyes on the door, she reached down, feeling for the red thumb drive. She pulled it from the console, her fingers closing tightly around the warm metal.
 
 She pocketed the drive, her gaze shifting back to the window, then again to the ajar executive doors. 
 
@@ -111,9 +109,9 @@ Victor surged to his feet, ignoring the burning in his eyes, but she was too fas
 
 Victor reached the elevator a second later, his gaze centered through the final sliver of the closing doors. 
 
-Victor and Rin's eyes met for the first time. Suppressing a violent cough, he spoke with absolute certainty, "Nowhere to hide, Null." 
+Victor and Rin's eyes met for the first time through the closing gap.
 
-Rin startled at the sound of her alias, felt the weight of a vendetta in his voice. His stern, unyielding glare trained on her, dispite the tearing pain of the smoke.
+His stern, unyielding glare locked onto her, piercing through the tearing pain of the smoke. Rin felt the weight of an absolute vendetta in his eyes.
 
 The doors sealed shut. Null was gone. 
 
