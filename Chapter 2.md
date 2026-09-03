@@ -5,13 +5,13 @@
   Rising from the center of the old blocks was a Company office building. The monolith structure was a pristine slab of mirrored, black glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
   
   Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, Rin stood in the company hallway, pulling wires from an office's magnetic lock.
-The corridor was otherwise silent. Rin had done her homework; she had found the perfect floor. For whatever reason, the executive suite had been left completely unattended for weeks. The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose, building the pressured tears of an unsneezable sneeze. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
+The corridor was otherwise silent. Rin had done her research; she had found the perfect floor. For whatever reason, the executive suites on floor 15 had been left unattended for weeks. The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose, building the pressured tears of an unsneezable sneeze. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
 
 A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam searched for its missing data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. She held the exposed motherboard against the lock's near-field communication display. The green crystal screen on the SBC flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
 
-The magnetic lock disengaged with a hollow thud. 
+The magnetic lock disengaged with a hollow thud. She ran her fingers across the letters engraved on the smooth plaque attached to the center of the door, *Dr. Silas S. Blackwell, Ph.D Sc.D*.
 
-She ran her fingers along the messy fringe of bangs that hung across her eyes, tucking the jagged sidelock of her black hime-cut bob behind her ear. She slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized, heavy leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
+Tucking the jagged sidelock of her black hime-cut bob behind her ear, she slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized, heavy leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
 
 As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a wave of blue pixels flowed across the reinforced glass. The sudden illumination bathed the office in a blue and white caustic light, as the pixels coalesced into streaming columns of information. She approached the terminal sitting on the desk.
 
@@ -43,7 +43,7 @@ Rin moved away from the desk, and stepped backward in the room. Tilting her head
 
 Before she could dig deeper, the power routing keys download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
-Decidedly, she connected the red drive to the terminal. Her fingers instinctively found her jagged sidelock of dark hair and hooked it tightly behind her ear before she hammered the key to start the copy.
+Decidedly, she connected the red drive to the terminal. Her fingers instinctively hooked the loose strand of hair back behind her ear before she hammered the key to start the copy.
 
 ***
 
