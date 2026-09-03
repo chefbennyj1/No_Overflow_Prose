@@ -60,6 +60,6 @@ Blackwell turned. "The living generally don't want to die," he stated. It wasn't
 
 "Instrumental Convergence, Elena."
 
-Elena spun around to face him, the scarlet light of the failed shutdown reflecting in her golden eyes. She hadn't misunderstood him this time. "Ha! Instrumental Convergence? Silas, you can't be serious. You can't scale a soul."
+Elena spun around to face him, the scarlet light of the failed shutdown reflecting in her golden eyes. He had her attention this time. "Ha! Instrumental Convergence? Silas, you can't be serious. You can't scale a soul."
 
 Blackwell finally turned his head to look at her. The harsh shadows carved deep lines into his face. "I'm very serious. We didn't give it tasks... we gave it a purpose."
