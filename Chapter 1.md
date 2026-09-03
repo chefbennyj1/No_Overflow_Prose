@@ -8,7 +8,7 @@ He didn't need to turn around to know he was no longer alone. The faint hiss of 
 
 Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
-Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the polished concrete of  the atrium pillars behind her. A gust of cold wind whipped across the terrace, pushing her natural, shoulder-length hair across her face.
+Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the polished concrete of  the atrium pillars behind her. A gust of wind whipped across the terrace, pushing her natural, shoulder-length hair across her face.
 
 "Yes, Doctor Blackwell," she replied. Her golden eyes darted constantly, tracking the weather calculations on the door's blue holograms as they reflected across their glassiness.
 
@@ -24,11 +24,11 @@ Blackwell turned and walked past Elena, stepping through the sliding glass doors
 
 When the doors parted, the air inside the lab moved with a low vibration. It was the terrifying reality of the city's reactor channeling into the floor beneath their feet.
 
-Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. They worked diligently checking the data on their screens. Blackwell approached the reinforced railing that encircled the center of the pit. Gripping the cold metal, he looked down.
+Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. They worked diligently checking the data on their screens. Blackwell approached the reinforced railing that encircled the center of the pit. Gripping the frigid metal, he looked down.
 
 Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock. What ascended through the facility's foundation, and protruded into this observation chamber was a cluster of stark white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
 
-A heavy layer of white gas rolled across the engine pit, obscuring the white paneled floor beneath. It broke against the stark topology of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was bitter cold, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
+A heavy layer of white gas rolled across the engine pit, obscuring the white paneled floor beneath. It broke against the stark topology of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was chilling, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
 
 "Main Fusion's supply is a drop in the bucket for what we're asking it to unearth, Miss Marlowe," Blackwell said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
 
@@ -56,7 +56,7 @@ Below Blackwell, the engine responded. Dense fog pooling at the base of the pill
 
 The mechanical drone of the reactor shifted into a rhythmic pulse—a heavy vibration creeping through the concrete and into their bones. 
 
-Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was calm, unaffected by the reverberating force of his creation. 
+Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was unaffected by the reverberating force of his creation. 
 
 The Board watched from their remote sanctuaries, confident that distance would protect them. They didn't understand the physics. If the containment failed, the resulting rupture would swallow them as easily as the lab. 
 
@@ -110,7 +110,7 @@ Elena shot an apprehensive glance toward the panels. "What the Doctor means is, 
 
 Blackwell turned, giving her his undivided attention for the first time. "It's predicted resonance," he said, the corner of his mouth rising slightly.
 
-Elena shook her head. Seeing Blackwell calm, she dropped the dangerous subject. "You know, it wouldn't hurt you to talk to the Board." She turned, glancing back over the console floor behind them. "You are the lead."
+Elena shook her head. Seeing Blackwell relaxed, she dropped the subject. "You know, it wouldn't hurt you to talk to the Board." She turned, glancing back over the console floor behind them. "You are the lead."
 
 Blackwell returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Elena and the technicians monitored the fluctuating event horizon, Blackwell watched the real experiment begin. 
 
