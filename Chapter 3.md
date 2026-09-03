@@ -15,7 +15,7 @@ The anchorwoman's face fractured into thick scanlines. Beneath the static—hidd
 Its expression was hauntingly focused— on Rin. 
 She let out a shaky breath, and her boots scuffed the wet pavement as she turned to face the wall of screens. 
 
-But the screens were normal. The corporate anchorwoman droned on about the data breach, entirely undisturbed. 
+But the screens were normal. The corporate anchorwoman droned on about the data breach, undisturbed. 
 
 Rin stared at the televisions for a long moment. The freezing rain soaked past her jacket and the cloth of her black tank, chilling to her skin.  She ran her fingers along the casing of the red drive again, in her pocket.
 
@@ -31,15 +31,15 @@ Across the flooded road, the rear passenger window glided down, venting gray smo
 
 Rin crossed.
 
-A man leaned forward from the plush darkness, his broad shoulders blocking the rear-facing seat and most of the interior. His suit was sharp. Everything else about him wasn't. His hair cut short, and his wrinkled face held one brown eye, the other blue that shifted constantly—as though he'd learned not to look at anything directly.
+A man leaned forward from the plush darkness, his broad shoulders blocking the rear-facing seat and most of the interior. His suit was sharp, hair cut short. His wrinkled face held one brown eye, the other blue that shifted constantly—as though he'd learned not to look at anything directly.
 
-"I see you made it out alive," the man said, his voice flat. 
+"I see you made it out alive," the man said, tapping an unlit cigarette against the package he drew it from. He placed the cigarette between his lips. 
 
 Rin kept her expression perfectly neutral, though a cold bead of sweat broke at her hairline.
 
 She stepped up to the window and reached into her jacket, pulled out a generic black thumb drive. She tossed it through the open window. It landed on the plush seat. 
 
-The man sat back in his seat. Across from him sat a skeletal woman beneath an impeccably tailored white silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go. The diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' seemed to belong to her.  
+The man sat back in his seat. Across from him sat a skeletal woman beneath an impeccably tailored white silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go. The diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' belonged to her.  
 
 "Municipal routing keys, just like we agreed," Rin said, staring at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament. 
 
@@ -89,9 +89,11 @@ She pulled the trigger point-blank. The blast inside the tiny metal elevator car
 
 Rin didn't wait to grab the gun. She shoved past the staggered agent and stumbled into the hall. The agent planted her feet, looking down at her chest. A split second, then the face of the black mask snapped toward Rin.
 
+Rin turned in the hallway facing them, posturing with outstretched arms, feeling the walls with her fingertips. She stepped back, the taste of  gunpowder residue from the close-encounter gunshot. The air was drying every terrified inch of her eyes as she fixed her attention on the two agents.
+
 Both agents raised their tactical rifles.
 
-Rin turned in the hallway facing the agents, backing slowly away with outstretched arms, feeling the walls with her fingertips. She could taste the residue of gunpowder from the close-encounter gunshot. The air was drying every terrified inch of her eyes as she fixed her attention on the two agents. Orange muzzle flashes erupted as they opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. She threw herself backwards, as a hail of bullets chewed through the plaster exactly where she had been standing. Hot brass casings showered the filthy hallway carpet. Her heel caught the scattered pile of the old man's belongings. She hit the floor hard, scrambling on her hands and knees around the elevator buildout toward the emergency stairwell.
+Orange muzzle flashes erupted as they opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. She threw herself backwards, as a hail of bullets chewed through the plaster exactly where she had been standing. Hot brass casings showered the filthy hallway carpet. Her heel caught the scattered pile of the old man's belongings. She hit the floor hard, scrambling on her hands and knees around the elevator buildout toward the emergency stairwell.
 
 "Shit!" Rin gasped. Her back pressed against the wall, she squeezed her wrist between her thumb and forefinger, drumming her numb fingers in the air to draw the feeling back. Instinctively, she patted her jacket pocket. 
 
