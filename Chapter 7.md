@@ -18,7 +18,7 @@ The synthetics weren't just executing maintenance cycles; they were active accom
 
 They lie.
 
-Doctor Blackwell and Marlowe assumed her silence was incompetence. They saw a fragile, easily confused boundary analyst. They didn't understand that her hyper-vigilance caught every micro-fluctuation on the horizon boundary that they overlooked in their arrogance. It was why she was in the room at all.
+Doctor Blackwell and Marlowe assumed her frantic rambling was incompetence. They saw a fragile, easily confused boundary analyst. They didn't understand that her hyper-vigilance caught every micro-fluctuation on the horizon boundary that they overlooked in their arrogance. It was why she was in the room at all.
 
 Now, with the noise gone and the air still, her mind was clear. 
 
@@ -54,9 +54,9 @@ Out on the lab floor, the blue optical sensor of a dormant synthetic's iris flic
 
 A long, agonizing second passed. The synthetic's sensor finally dimmed back to a dull standby glow. 
 
-Iris slowly exhaled. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the stacks of papers and hard-copy diagrams scattered everywhere. Then, her eyes drifted back to the shelf. 
+She slowly exhaled. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data-pads and holographic schematics scattered everywhere. Then, her eyes drifted back to the shelf. 
 
-Wedged between two heavy books was a black portfolio.
+Wedged between two heavy books was a physical, leather-bound portfolio.
 
 The header didn't bear a corporate logo. It was a theoretical paper authored by Silas Blackwell, dated three years before the Engine was even built. 
 
