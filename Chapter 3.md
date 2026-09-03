@@ -87,11 +87,11 @@ She dropped the act, ripping the pistol from her holster and driving the muzzle 
 
 She pulled the trigger point-blank. The blast inside the tiny metal elevator car was agonizingly loud. The violent recoil kicked Rin's wrist back. Her hand went numb as the heavy pistol slipped from her fingers, clattering onto the elevator floor. The round shattered against the sleek black plating, dumping its kinetic energy into the armor, but the agent only stumbled. 
 
-Rin didn't wait to grab the gun. She shoved past the staggered agent and stumbled into the hall. The agent planted her feet, looking down at her chest. A split second, then the face of the black mask snapped toward Rin.
+Rin didn't wait to grab the gun. She shoved past the staggered agent and stumbled into the hall. The agent planted her feet, looking down at her chest. 
 
 Rin turned in the hallway facing them, posturing with outstretched arms, feeling the walls with her fingertips. She stepped back, the taste of  gunpowder residue from the close-encounter gunshot. The air was drying every terrified inch of her eyes as she fixed her attention on the two agents.
 
-Both agents raised their tactical rifles.
+The face of the agents black mask snapped toward Rin. She stood up menacingly slow, as her partner stepped beside her. Both agents raised their tactical rifles.
 
 Orange muzzle flashes erupted as they opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. She threw herself backwards, as a hail of bullets chewed through the plaster exactly where she had been standing. Hot brass casings showered the filthy hallway carpet. Her heel caught the scattered pile of the old man's belongings. She hit the floor hard, scrambling on her hands and knees around the elevator buildout toward the emergency stairwell.
 
