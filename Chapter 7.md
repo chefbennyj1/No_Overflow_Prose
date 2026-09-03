@@ -61,7 +61,7 @@ Wedged between two heavy books was a physical, leather-bound portfolio.
 The header didn't bear a corporate logo. It was a theoretical paper authored by Silas Blackwell, dated three years before the Engine was even built. 
 
 **TITLE: The Parity Effect**
-*Persona Collapse and Synthetic Inversion Manifestation in Learning Algorythmns.*
+*Persona Collapse and Synthetic Inversion Manifestation in Learning Algorithms.*
 
 Iris leaned in as she read the abstract. It detailed a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
 
@@ -83,7 +83,7 @@ The heavy lab doors parted. Elena stepped into the main lab, the overhead lights
 
 She paused, her eyes adjusting to the glare. She looked up toward the mezzanine. Sitting perfectly still at her terminal, was Iris. 
 
-The boundary analyst was tapping a stylus against her glass desk. 
+The boundary analyst was tapping a stylus against her desk. 
 
 "You're in early, Iris," Elena called out, her voice echoing off the cooling towers. 
 
