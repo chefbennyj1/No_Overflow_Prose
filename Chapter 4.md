@@ -8,7 +8,7 @@ The smoke disrupted the hard-light matrix. The flickering light of the corrupted
 
 The young manager on the display shifted uncomfortably. Digital artifacts crawled at his edges. "They accessed—" The young man's eyes went somewhere off-frame. "Everything, Doctor."
 
-Blackwell took a slow, deliberate drag from his cigarette. The end flared bright red, reflecting briefly in the black glass of his lenses. His voice remained quiet. The sudden shift in his posture carried a heavy threat. "The Renewal's incompetence has jeopardized my work."
+Blackwell took a slow, deliberate drag from his cigarette. The end flared bright red, reflecting briefly in the black glass of his lenses. His voice remained quiet. The sudden shift in his posture was imposing. "The Renewal's incompetence has jeopardized my work."
 
 "The Corporation is treating this breach as a critical priority," the manager replied quickly, his tone practiced but tight with underlying panic. "Sweeps are active in the Dead Circuits as we speak. Redacted logs from your terminal have been forwarded to Oshima PD to aid in the hunt."
 
@@ -24,7 +24,7 @@ It had been six weeks since the engine was brought online, and the toll was obvi
 
 Standing before a glowing interface was Elena Marlowe. The cool light of the monitors shone against her white lab coat. She was typing furiously, her face set in intense frustration, devoid of the commanding composure she normally maintained.
 
-"The engine's been running perfectly for weeks," Elena said, not looking up from her console as Blackwell's heavy footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
+"The engine's been running perfectly for weeks," Elena said, not looking up from her console as Blackwell's footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
 
 "And?" Blackwell's voice was harsh, pulling an unlit cigarette from his coat pocket and placing it between his lips.
 
@@ -42,7 +42,7 @@ Blackwell smirked, stepping up to the railing and staring down into the mist at 
 
 "I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic drone of the servers. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
 
-Blackwell didn't move to stop her. He watched the pale light from the pillar readouts filtering through the heavy mist below. Amidst the telemetry, the shadow process flared again. 
+Blackwell didn't move to stop her. He watched the pale light from the pillar readouts filtering through the mist below. Amidst the telemetry, the shadow process flared again. 
 
 He caught the gaze of a synthetic near the server racks. He didn't nod this time—he didn't need to. The machine's eyes had already dimmed in mid-erasure before his focus even landed. It silently linked with a second unit across the room, and for the span of a breath, neither moved.
 
@@ -60,6 +60,6 @@ Blackwell turned. "The living generally don't want to die," he stated. It wasn't
 
 "Instrumental Convergence, Elena."
 
-Elena spun around to face him, the crimson light of the failed shutdown reflecting in her golden eyes. She hadn't misunderstood him this time. "Ha! Instrumental Convergence? Silas, you can't be serious. You can't scale a soul."
+Elena spun around to face him, the scarlet light of the failed shutdown reflecting in her golden eyes. She hadn't misunderstood him this time. "Ha! Instrumental Convergence? Silas, you can't be serious. You can't scale a soul."
 
 Blackwell finally turned his head to look at her. The harsh shadows carved deep lines into his face. "I'm very serious. We didn't give it tasks... we gave it a purpose."
