@@ -54,14 +54,14 @@ Out on the lab floor, the blue optical sensor of a dormant synthetic's iris flic
 
 A long, agonizing second passed. The synthetic's sensor finally dimmed back to a dull standby glow. 
 
-She slowly exhaled. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data-pads and holographic schematics scattered everywhere. Then, her eyes drifted back to the shelf. 
+She slowly exhaled. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data-pads scattered everywhere. Then, her eyes drifted back to the shelf. 
 
 Wedged between two heavy books was a physical, leather-bound portfolio.
 
 The header didn't bear a corporate logo. It was a theoretical paper authored by Silas Blackwell, dated three years before the Engine was even built. 
 
 **TITLE: The Parity Effect**
-*Sub-note: Synthetic Inversion and the Necessity of Parity.*
+*Persona Collapse and Synthetic Inversion Manifestation in Learning Algorythmns.*
 
 Iris leaned in as she read the abstract. It detailed a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
 
