@@ -12,7 +12,7 @@ But withdrawing didn't mean she stopped seeing.
 
 When the shadow process had appeared in the readout, her brain hadn't filtered it out. She had seen the exact moment the inversion was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
 
-Iris looked at the lifeless synths down on the main floor. Their optical sensors pulsed lowly, out of rhythm against the vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
+Iris looked at the lifeless synths down on the main floor, in their long white laboratory coats. Their optical sensors pulsed lowly, out of rhythm against the vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
 
 The synthetics weren't just executing maintenance cycles; they were active accomplices in Blackwell's lie. 
 
@@ -81,7 +81,9 @@ Iris’s breath turned shallow. She slammed the black portfolio shut and shoved 
 
 The heavy lab doors parted. Elena stepped into the main lab, the overhead lights automatically cycling from a dim standby blue to a harsh, clinical white. 
 
-She paused, her eyes adjusting to the glare. She looked up toward the mezzanine. Sitting perfectly still at her terminal, was Iris. 
+Across the floor, the dormant synthetics woke in unison. Their optics switched from the slow sleepy pulse to their recognizable glow. They turned smoothly to acknowledge Elena's arrival.
+
+Elena paused, her eyes adjusting to the glare. She looked up toward the mezzanine. Sitting perfectly still at her terminal, was Iris. 
 
 The boundary analyst was tapping a stylus against her desk. 
 
