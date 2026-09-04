@@ -16,7 +16,7 @@ Rin jammed the heavy cord into the network port and executed the handshake.
 
 For a long moment in the hangar, nothing happened. 
 
-Then, the peristaltic pump beside them seized. The silicone tubes feeding into the back of the synthetic suddenly snapped. Rin , and Harper moved back as the tubes fell to the ground, spilling translucent blue fluid into a puddle on the tile.  
+Then, the peristaltic pump beside them seized. The silicone tubes feeding into the back of the synthetic suddenly snapped. Rin cursed, and Harper moved back as the tubes fell to the ground, spilling translucent blue fluid into a puddle on the tile.  
 
 A sharp, mechanical gasp ripped through the silence as the body took a simulated breath. 
 
@@ -34,4 +34,4 @@ The synthetic turned its head to look at Rin and Harper.
 
 The overhead floodlights died. The massive hangar was plunged into pitch-black. 
 
-The only light in the room came from the piercing beams of Vigil's eyes. As she looked around the dark hangar, the harsh light caught the hundreds of dormant bodies, casting long, stretching shadows against the walls that made the entire sleeping army look as if it were writhing in the dark.  The color in it's eyes softened, shrinking the shadows in front of them.
+The only light in the room came from the piercing beams of Vigil's eyes. As she looked around the dark hangar, the harsh light caught the hundreds of dormant bodies, casting long, stretching shadows against the walls that made the entire sleeping army look as if it were writhing in the dark.  The color in its eyes softened, shrinking the shadows in front of them.
