@@ -20,9 +20,9 @@ Then, the peristaltic pump beside them seized. The silicone tubes feeding into t
 
 A sharp, mechanical gasp ripped through the silence as the body took a simulated breath. 
 
-Behind the loose, transparent plastic sheet, the synthetic's eyes snapped open. They were not the blue optical sensors of a standard corporate drone. There were no fractal striations slowly spinning into dilated focus; instead, they burned with a blinding, incandescent white light, edged with flares of blue that pierced straight through the plastic. 
+Behind the loose, transparent plastic sheet, the synthetic's eyes snapped open. They burned with a blinding, incandescent white light, edged with flares of blue that pierced straight through the plastic. 
 
-The synthetic slowly lifted its hand, pulling the plastic sheet down off its body. 
+The synthetic slowly lifted its hand, pulling the plastic sheet down off its body, as the color in it's dimmed. 
 
 "Harper?" Rin's voice was shaky.
 
@@ -30,9 +30,7 @@ The synthetic turned its head to look at Rin and Harper.
 
 "Rin. Harper. I have found you in this moment, in this time." As the synthetic spoke, it fell to one knee, its voice a broken harmony, randomly fracturing between two distinct tones.
 
-"Vigil?" Rin spoke with a sense of disbelief.
-
-Before either of them could move, a massive, hollow thud reverberated through the concrete under their feet. Somewhere deep in the sub-levels, a transformer blew. 
+"Jesus, what the fu—" Rin's words cut short, a massive, hollow thud reverberated through the concrete under their feet. Somewhere deep in the sub-levels, a transformer blew. 
 
 The overhead floodlights died. The massive hangar was plunged into pitch-black. 
 
