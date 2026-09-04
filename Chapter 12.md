@@ -15,7 +15,7 @@ The syntax was foreign. It bore no resemblance to standard  kernel data.
 
 **[SYSTEM FAULT: PARITY IMMINENT]**
 
-Elena dragged a series of diagnostic windows across the glass interface, with quick, shaky hands.
+Elena dragged a series of diagnostic windows across the glass interface with quick, shaky hands.
 
 Core architecture code populated the screen. Elena scanned the lines she had authored herself years ago, desperate to find the method that handled that error.
 
