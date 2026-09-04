@@ -1,4 +1,4 @@
-Rin pressed her back against the rusted iron door, breathing hard. Rain hammered the alley around her, washing the grime of the lower sectors down the corrugated steel in black streaks. She checked the stairwell. Empty. For now.
+Rin pressed her back against the rusted iron door, breathing hard. Rain hammered the alley around her, washing the grime of the lower sectors down the corrugated steel in streaks. She checked the stairwell. Empty. For now.
 
 She turned and hammered her fist against the heavy metal door.
 
@@ -6,7 +6,7 @@ She turned and hammered her fist against the heavy metal door.
 
 She banged the metal again.
 
-The deadbolt threw with a sharp mechanical clank. The door swung inward just enough to reveal Harper.
+The deadbolt threw with a sharp mechanical clank. The door swung inward enough to reveal Harper.
 
 Smoke curled out through the gap before she did. Harper stood in the doorway, a cigarette burning between two fingers. She wore a faded red tank top and low-riding denim. A thin scar tracing her collarbone — old, pale, left bare like she'd never once considered covering it. Her dark roots had grown halfway down her scalp before frayed, electric-blue ends that fell loose around her face.
 
@@ -18,13 +18,13 @@ She leaned into the frame, brown eyes tracking down the length of Rin's soaked j
 
 Harper didn't stop her. She shut the door, working the deadbolt, and the chain, in rapid succession. " 'Told ya to lose this address."
 
-"Harper." Rin said it quietly, the hard edge completely gone from her voice.
+"Harper." Rin said it quietly, the hard edge gone from her voice.
 
 Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a moment before exhaling the white cloud. "How bad are we talkin'?"
 
-"Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a black tank, a faded black sleeve of ink, and fresh, dark bruising swelling along her ribs and shoulder. She threw the jacket over the arm of a beaten green sofa.
+"Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a dark tank, a faded sleeve of ink, and fresh, dark bruising swelling along her ribs and shoulder. She threw the jacket over the arm of a beaten green sofa.
 
-Harper let the rest of the smoke go slow, her eyes dropping from Rin's face to the dark contusions coloring her skin. The heat of the room pressed in, a close warmth that had nowhere to go, embedding the smell of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in black coils. It was a wreck, but Rin knew to Harper it was a fortress.
+Harper let the rest of the smoke go slow, her eyes dropping from Rin's face to the dark contusions coloring her skin. The heat of the room pressed in, a close warmth that had nowhere to go, embedding the smell of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in coils. It was a wreck, but Rin knew to Harper it was a fortress.
 
 "You always did pick the worst fights." Harper stepped closer, her fingers hovering inches from the fresh bruise on Rin's shoulder before she caught herself and pulled her hand back—the same hand drifting up to rest against the pale scar on her own collarbone instead. "Never change, do you."
 
@@ -58,7 +58,7 @@ Harper didn't answer, the sound of her teeth snapping loudly against the gum sto
 
 Her hand lifted off the keyboard. "Whoa." A wave of decrypted files spilled open across the screen.
 
-Rin heard her muttering to herself as she read.
+Rin watched her lips moving silently as she read.
 
 "— a little more than power routing keys, Rin." Something shifted in Harper's face.
 
@@ -96,7 +96,7 @@ The cursor blinked at the end of the line.
 
 "Vigil?" Harper didn't reach for her collarbone. Her hand stayed flat against the desk. "It's messaging us."
 
-Rin felt a nervous laugh catch in her throat as new text rendered across the black screens:
+Rin felt a nervous laugh catch in her throat as new text rendered across the screens:
 
 **[VIGIL]**  
 **Rin. Oshima City Citizen ID: 8904-B.** 
