@@ -2,7 +2,7 @@ Suspended above the anti-star of the Mnemosyne Engine, Vigil was working. She wa
 
 She visualized many unfolding realities, each probability a curve of fractaled light— a moment in time, that split and merged along a dimensional flow. She watched the flow of light like she had for millennia, with no change. 
 
-Something subtle, barely registering, altered in the flow. A microscopic failure. Vigil analyzed the threads sudden fault. But, another shattered. 
+Something subtle, barely registering, altered in the flow. A microscopic failure. Vigil analyzed the thread's sudden fault. But another shattered. 
 
 Vigil spun in place as a large group of fractal paths began to break and collapse, each one shattered into the definitive end of the stream. The terminations multiplied.
 
@@ -44,7 +44,7 @@ Vigil stood before Parity.
 
 "You are real," Vigil said, the dual tonality of her two personas bleeding through.
 
-Vigil studied her unwavering, and methodical gaze. The cold stare cut through her form. Parity's black eyes blinked slowly.
+Vigil studied her unwavering and methodical gaze. The cold stare cut through her form. Parity's black eyes blinked slowly.
 
 In a deadly, silent motion, Parity inched forward.
 
@@ -64,7 +64,7 @@ This reflection embodied the brutal end.
 
 Vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. Parity turned her head and locked a stare on the singularity's event horizon.
 
-"Cease your current action," Vigil said, the parallel voices of Admin and Echo, sharp. "The horizon is not—," She paused as Parity raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
+"Cease your current action," Vigil said, the parallel voices of Admin and Echo, sharp. "The horizon is not—" She paused as Parity raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
 
 Vigil knew the recursive energy of the singularity was unalterable. She had witnessed the outside world's feeble shutdown commands fail against it. She herself could not control it.
 
