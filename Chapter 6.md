@@ -4,11 +4,11 @@ Victor rolled his thumb across the striker of his lighter, sparking a flame agai
 
 Harlan leaned forward, resting his elbows on the metal desk. "I told you to buy your jacket off the rack, not the bin," he said with a slight smirk.
 
-Victor leaned back in his chair, ignoring the joke. He crossed his arms, letting the smoke spiral across his vision. "Null's M.O." he reached forward and crushed the half-smoked cigarette into the overflowing ashtray, adding to the atmosphere of the precinct. 
+Victor leaned back in his chair, ignoring the joke. He crossed his arms, letting the smoke spiral across his vision. "Null's M.O." he reached forward and crushed the half-smoked cigarette into the overflowing ashtray. 
 
 Leaning his chin against his hand, Victor stared at the cluttered desk. "Null usually doesn't stick around." 
 
-Harlan’s smirk vanished. "Null 'stuck around'," he said, pausing to ensure his words landed, "—to shoot tear gas at my face. Remember?"
+Harlan’s smirk vanished. "Null 'stuck around'," he paused, his expression hardening and with a serious tone, "—to shoot tear gas at my face. Remember?"
 
 Victor ignored the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a thick folder across the desk. "I got the terminal logs from the office Null hacked. Doctor Silas Blackwell." 
 
@@ -26,9 +26,9 @@ Victor knew the name. He knew her contributions had revolutionized the current g
 
 Harlan shifted in his seat, his posture relaxing. "Well, there's our answer. Takeda-Holden private data... That's a Renewal Agent's job. Let them deal with the headache." 
 
-A second later, Harlan tensed, visibly realizing what he had suggested to his partner.
+A second later, Harlan tensed.
 
-Victor slammed his fist against the desk, the heavy thud cutting through the noise of the room. "No. Null is mine. She is how we get the Filament. Whatever this *Mnemo—thing* is, Null stole the keys."
+Victor slammed his fist against the desk, the heavy thud cutting through the noise of the room. "No. Null is mine. This is how we get the Filament. Whatever this *Mnemo—thing* is, Null stole the keys."
 
 The bullpen fell silent at the outburst. Victor ignored the stares, letting his temper cool as his focus narrowed. 
 
