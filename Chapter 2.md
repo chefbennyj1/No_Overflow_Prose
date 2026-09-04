@@ -51,7 +51,7 @@ The fluorescent lights of the maintenance stairwell flickered, casting active sh
 
 "Fifteen floors up with no elevator, Victor?" Harlan gasped, loosening the tie of his grey suit. He leaned against the metal railing to catch his breath. "You sure it's Null this time?"
 
-Victor didn't slow his ascent. His black coat whipped at his ankles with each quick step. He kept climbing. At the landing he turned and wiped the mess of white hair from his eyeline. He ignored the familiar sting of the fluorescent lighting searing into his Albinotic eyes. 
+Victor didn't slow his ascent. His black coat whipped at his ankles with each quick step. He kept climbing. At the landing he turned and wiped the mess of white hair from his eyeline. He dismissed the familiar sting of the fluorescent lighting searing into his Albinotic eyes. 
 
 "Yeah," Victor said, his voice steady. "Not losin' this lead, Harlan. Best we got to the Filament. Null won't get past me again."
 
@@ -103,7 +103,7 @@ Before Victor could blink through the pain and adjust his aim, she was moving. S
 
 "She's running!" Harlan choked out, stumbling blindly against the hallway wall. 
 
-Victor surged to his feet, ignoring the burning in his eyes, but she was too fast. He watched through the clearing smoke as she reached the end of the hall, sliding seamlessly into the elevator car. She kicked the heavy wrench from the floor track with her boot, freeing the doors from their open state. 
+Victor surged to his feet, shaking off the burning in his eyes, but she was too fast. He watched through the clearing smoke as she reached the end of the hall, sliding seamlessly into the elevator car. She kicked the heavy wrench from the floor track with her boot, freeing the doors from their open state. 
 
 Victor reached the elevator a second later, his stare centered through the final sliver of the closing doors. 
 
