@@ -32,7 +32,7 @@ Iris stood up. Her footsteps were silent on the metal grating as she crossed the
 
 Thirty floors above, Elena Marlowe walked alone across a high-altitude pedestrian sky-bridge, the morning sun breaking harsh and blinding against the expanse of the Towers. 
 
-She glanced out through the glass. Unlike the lower terraces where Blackwell preferred to takes his breaks, this sector was a marvel of pristine order. Sprawling towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
+She glanced out through the glass. Unlike the lower terraces where Blackwell preferred to takes his breaks, this sector was a marvel of pristine order. A sea of towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
 
 Elena turned away from the glass and approached the main concourse, exiting the sky-bridge to step out onto a suspended walkway midway up the Takeda-Holden corporate atrium. 
 
