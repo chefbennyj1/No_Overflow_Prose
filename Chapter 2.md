@@ -15,7 +15,7 @@ Tucking the jagged sidelock of her black hime-cut bob behind her ear, she slippe
 
 As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a wave of blue pixels flowed across the reinforced glass. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. Caustic shadows stretched across the room. She approached the terminal sitting on the desk.
 
-She ignored the window's holographic display, and didn't admire the view. The data streaming across the glass represented sheer excess. Rin jammed the connection wire of her single-board controller into the main console. 
+She didn't admire the view. The data streaming across the  holographic glass represented sheer excess. Rin jammed the connection wire of her single-board controller into the main console. 
 
 The terminal awoke, projecting a  Takeda-Holden Corporation login screen. A minimal, white screen with black text.
 
