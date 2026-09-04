@@ -16,7 +16,7 @@ Vigil's Admin persona cataloged a zero-state thermal inversion with quick analyt
 
 The frost continued its ascent.
 
-Echo, Vigil's other half, processed the anomaly differently. She did not read temperature. She felt intent. The void at the bottom of the engine held a shape.
+Echo, Vigil's other half, processed the anomaly differently. She felt intent. The void at the bottom of the engine held a shape.
 
 "Admin," Echo transmitted across her internal bridge. "We are not alone."
 
@@ -24,7 +24,7 @@ Admin calculated the intrusion. "Acknowledged. Hold position."
 
 The frigid stone nodes fractured, tearing open a jagged passage in front of Vigil. Heavy shards of debris broke apart and slowed to a crawl, suspended in a wave of dilated time. The shrapnel drifted in the freezing air at an undetectable pace.
 
-Mist swirled outwards from the door, as a figure emerged from the stillness onto the plane. A feminine statue, porcelain white. She floated across from Vigil as a perfect inverse, mirroring the dark, abyssal design of Vigil's shape. She was a rigid figure, cold emanating from her form.
+Mist swirled outwards from the door, as a figure emerged from the stillness onto the plane. A feminine statue, porcelain white. She floated across from Vigil, a rigid figure, cold emanating from her form.
 
 Bronze holographic circuitry seared across her skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
 
