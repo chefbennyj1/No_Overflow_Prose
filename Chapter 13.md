@@ -33,7 +33,7 @@ Harlan walked to the edge of the plaza and looked over the railing.
 
 "Victor, what in the hell is going on? Look," Harlan's voice had the tone that always drew Victors attention.
 
-Victor leaned on the rail. He looked down. The thick, choking smog that blanketed Oshima — entirely gone. A towering, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all twenty stories to the lower grid.
+Victor leaned on the rail. He looked down. The thick, choking smog that blanketed Oshima was gone. A towering, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all twenty stories to the lower grid.
 
 Victor Graves wasn't going to waste time on the view,  he hated the Upper Grid. He pulled a crushed cigarette from his pocket and lit it, blowing a plume of cheap smoke into the freezing air. 
 
@@ -43,7 +43,7 @@ They walked through the plaza and pushed through the large glass doors of the bu
 
 One floor up, Iris stood on a suspended walkway in the forty-story atrium. Monolithic columns of morning sunlight poured through the sheer walls of structural glass, fracturing across the polished marble floors. Even with the sterile corporate lighting burning overhead, the staggering volume of the space felt like a towering cathedral of light and deep shadow.
 
-She leaned over the railing, watching the workers move through the tall tinted glass doors of the New Veridia entrance below. It usually helped her think. 
+She leaned over the railing, watching the workers move through the tall tinted glass doors of the New Veridia entrance below. It helped her think. 
 
 
 She couldn't shake the feeling she was unwittingly part of something horrendous. She had been inside Blackwell's office. She had read his thesis on the 'Parity' effect. Something sinister was in the machine's core. Not programmed. *Grown*. 
@@ -64,7 +64,7 @@ They were her only chance.
 
 Iris turned and walked quickly toward the executive elevator. As the doors began to close, a voice spoke after her, calmly from the walkway. 
 
-"I believe you and I have a conversation to have, Ms. Ito." It was a distinct voice Iris knew all too well. Blackwell.
+"I believe we need to have a conversation, Ms. Ito." It was a distinct voice Iris knew all too well. Blackwell.
 
 She looked out to see Silas Blackwell standing on the walkway as the elevator doors closed.
 
