@@ -4,7 +4,7 @@ The fog flared green.
 
 Victor hit the accelerator. 
 
-The car cut through the heavy smog, the damp air beading water along the side of the sleek, white paneling. It howled low over the wet street, pure white headlights flaring blue against the fog. No tires, no drag against the asphalt, the quiet whistle of the mag-cushion holding it inches above the road, moving fast.
+The car cut through the smog, the damp air beading water along the side of the sleek, white paneling. It howled low over the wet street, pure white headlights flaring blue against the fog. No tires, no drag against the asphalt, the quiet whistle of the mag-cushion holding it inches above the road, moving fast.
 
 Harlan gripped the door handle, knuckles white. "You know driving doesn't have to try and kill the passenger."
 
@@ -15,7 +15,7 @@ Victor didn't slow down.
 Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "Blackwell. I need to know what he knows."
  Victor banked onto the elevated approach feeding into the Towers. 
 
-The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Breaking through the heavy, oppressive smog layer of the lower city, the windshield was instantly washed in the blinding light of the morning sun glaring off the glass skyscrapers. Beside the highway, the seamless streak of white alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. All across the skyline, the architectural lighting of the corporate towers flashed on and off in random sequences. 
+The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Breaking through the oppressive smog layer of the lower city, the windshield was instantly washed in the blinding light of the morning sun glaring off the glass skyscrapers. Beside the highway, the seamless streak of white alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. All across the skyline, the architectural lighting of the corporate towers flashed on and off in random sequences. 
 
 Victor gripped the wheel. Twenty years working the slums had taught him to trust the feeling before the evidence, and the feeling right now was that the city was buckling under an invisible weight. 
 
@@ -37,7 +37,7 @@ Victor leaned on the rail. He looked down. The thick, choking smog that blankete
 
 Victor Graves wasn't going to waste time on the view,  he hated the Upper Grid. He pulled a crushed cigarette from his pocket and lit it, blowing a plume of cheap smoke into the freezing air. 
 
-They walked through the plaza and pushed through the heavy glass doors of the building entrance, his damp trench coat dripping onto the pristine marble floor.
+They walked through the plaza and pushed through the large glass doors of the building entrance, his damp trench coat dripping onto the pristine marble floor.
 
 ***
 
