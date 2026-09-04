@@ -2,7 +2,7 @@ Iris led them quickly past the security turnstiles, her white lab coat billowing
 "I am Detective Graves, and this is my partner Harlan Callister. "  he said.
 "Who are you?" His voice was low, his pale eyes tracking the security cameras overhead. 
 
-"Iris Ito," her words spilling out quickly. "I'm a primary horizon analyst. I monitor the non-linear dynamics of the—well actually—I ensure the safe state of the gravity well, so that environments don't fall victim to the boundary paradox—because—you know event horizons—" she paused with a nervous laugh,"— we wouldn't want to have a systematic collapse creating an extinction level event—well, I mean, in the event of algorithmic divergence, or—" 
+"Iris Ito," her words spilling out quickly. "I'm a primary horizon analyst. I monitor the non-linear dynamics of the—well actually—I ensure the safe state of the gravity well, so that environments don't fall victim to the boundary paradox—because—you know event horizons—" she paused with a nervous laugh, "— we wouldn't want to have a systematic collapse creating an extinction level event—well, I mean, in the event of algorithmic divergence, or—" 
 
 Her proud, rapid-fire explanation trailed off. Both men were staring at her with blank, irritated confusion. 
 
