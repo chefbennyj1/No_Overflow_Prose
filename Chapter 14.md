@@ -5,7 +5,7 @@ Harper kept her hands tucked into her jacket pockets, shivering as they moved de
 
 At the far end stood a reinforced blast door, marked with faded corporate caution stripes. An oversized lock sealed it shut. 
 
-Rin pulled her single-board computer back out, stepping up to the keypad. "Deep storage," she murmured.
+Rin pulled her single-board computer back out, stepping up to the keypad. "Deep storage," she said quietly.
 
 Harper eyed the industrial lock, then looked down at the crude circuitry in Rin's hand. "You're gonna need a bigger one of those if you wanna hack this."
 
