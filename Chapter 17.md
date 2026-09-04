@@ -1,6 +1,6 @@
-Iris led them quickly past the security turnstiles, her white lab coat billowing over her glossy black bodysuit. She couldn't stop analyzing the detective in the trench coat. He was a striking genetic anomaly. Stark white hair, skin so pale it bordered on translucent, and icy eyes that seemed to squint against the blinding sunlight of the atrium. He lacked the engineered, flawless symmetry of New Veridia's elite, but he moved with a dangerous, heavy gravity. 
-
-"Who are you?" Victor asked. His voice was low, his pale eyes tracking the security cameras overhead rather than looking at her. 
+Iris led them quickly past the security turnstiles, her white lab coat billowing over her glossy black bodysuit. She couldn't stop analyzing the detective in the trench coat. He was a striking genetic anomaly. Stark white hair, pale skin, and icy eyes that seemed to squint against the blinding sunlight of the atrium. He lacked the engineered, flawless symmetry of New Veridia's elite, but he moved with a dangerous intent.
+"I am Detective Graves, and this is my partner Harlan Callister. "  he said.
+"Who are you?" His voice was low, his pale eyes tracking the security cameras overhead. 
 
 "Iris Ito," she said, her words spilling out too fast. "I'm a primary horizon analyst. I monitor the quantum telemetry and ensure the safe state of the Engine's event horizon in the event of an algorithmic divergence or—" 
 
@@ -12,17 +12,23 @@ Iris swallowed hard, forcing herself to get to the point. "If you're looking for
 
 Before Iris could answer, a massive, hollow thud reverberated through the concrete under their feet. 
 
-Instantly, the bright corporate lighting died. But instead of plunging into darkness, the atrium was carved open by nature. 
+Instantly, the bright corporate lighting died. The true scale of the atrium became dauntingly clear. The massive shafts of morning sunlight seemed to swallow the space, angling down and spreading out  over the floor. 
 
-Without the artificial glare to compress the room, the true scale of the lobby was finally visible. The massive shafts of morning sunlight seemed to swallow the space completely. 
+A second later, the backup relays clicked. Battery-powered emergency strips flickered to life along the edges of the walls, their weak yellow light instantly washed out by the blinding sunlight cutting across the room. 
 
-A second later, the backup relays clicked. Small, battery-powered emergency strips flickered to life along the baseboards, their weak yellow light instantly washed out by the cold, blinding god-rays cutting across the vast, silent room. 
+"What? That shouldn't happen," Iris whispered into the silence. She pushed her glasses back into position on her face. 
 
-"The core locks just failed," Iris whispered into the dead silence. She was staring at her glowing datapad, her wide eyes caught in the intense, icy blue glare of the screen. 
+"What 'shouldn't happen', Miss?" The detective in the charcoal suit  looked around that atrium. Renewal agents began to mobilize at towards the entrances of the building. Workers and synthetics moved quickly toward the elevators.  
 
-"Failed?" Harlan barked. "Is the whole damn facility buckling?"
+"Detectives—" Iris looked frantically at her screen, "There is a containment breach," Iris said, scrolling quickly through the data on the screen. 
 
-"Containment is degrading," Iris said, scrolling frantically. "And Renewal is reporting unauthorized access to a lower company service tunnel, using a street-level 'Null' override."
+"Miss Ito?" The detective had an unsteady shift in his voice. He looked toward his partner. "Victor, it might be  time to leave."
+
+"They're recalling all worker to their stations." The worst was about to happen, or it already had, and Iris knew it. "It was only a matter of time." She said under her breath.
+
+"That is not reassuring, Miss Ito. Do you mind letting us in on what  is happening." the detective with the  white hair
+
+Renewal is reporting unauthorized access to a lower company service tunnel, using a street-level 'Null' override."
 
 Victor froze in the dim shadows of the atrium. 
 
