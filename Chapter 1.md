@@ -89,7 +89,7 @@ Iris flinched, pulling the tablet tight against her chest. "Yes, ma'am. Of cours
 
 "I need the telemetry!" Elena demanded, pivoting away.
 
-At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie, liquid crystal iluminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the white fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
+At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie, liquid crystal iluminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the shining fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
 
 "Horizon stability confirmed," the machine reported.
 
