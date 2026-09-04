@@ -32,7 +32,7 @@ Iris stood up. Her footsteps were silent on the metal grating as she crossed the
 
 Thirty floors above, Elena Marlowe walked alone across a high-altitude pedestrian sky-bridge, the morning sun breaking harsh and blinding against the expanse of the Towers. 
 
-She glanced out through the glass. Blackwell preferred to takes his breaks on the lower terraces. Up here, the sector was a marvel of pristine order. A expanse of towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
+She glanced out through the glass. Blackwell preferred to take his breaks on the lower terraces. Up here, the sector was a marvel of pristine order. An expanse of towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
 
 Elena turned away from the glass and approached the main concourse, exiting the sky-bridge to step out onto a suspended walkway midway up the Takeda-Holden corporate atrium. 
 
@@ -44,7 +44,7 @@ She was early. She hadn't slept well. The inability to shut down the horizon mem
 
 Iris looked around the dark office. Framed diplomas hung next to shelves filled with rows of thick books. No one had physical books anymore.
 
-Iris approached the shelf, reaching out. Her fingertips brushed the textured spines. It was rare to feel the dry, fibrous friction of real paper. She stepped closer, her hip catching the edge of a heavy glass award sitting on the desk. 
+Iris approached the shelf, reaching out. Her fingertips brushed the textured spines. It was rare to feel the dry, fibrous friction of real paper. She stepped closer, her hip catching the edge of a glass award sitting on the desk. 
 
 It tipped. 
 
@@ -56,7 +56,7 @@ A long, agonizing second passed. The synthetic's sensor finally dimmed back to a
 
 She slowly exhaled. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data-pads scattered everywhere. Then, her eyes drifted back to the shelf. 
 
-Wedged between two heavy books was a physical, leather-bound portfolio.
+Wedged between two books was a physical, leather-bound portfolio.
 
 The header didn't bear a corporate logo. It was a theoretical paper authored by Silas Blackwell, dated three years before the Engine was even built. 
 
@@ -71,7 +71,7 @@ Blackwell knew. He had always known.
 
 Iris stared at the paper in her hands. She was practically holding a live grenade.
 
-Down in the main lab, the heavy hydraulic locks of the primary security doors cycled with a loud, mechanical *clack*. 
+Down in the main lab, the hydraulic locks of the primary security doors cycled with a loud, mechanical *clack*. 
 
 Someone was here. 
 
@@ -79,7 +79,7 @@ Iris’s breath turned shallow. She slammed the black portfolio shut and shoved 
 
 ***
 
-The heavy lab doors parted. Elena stepped into the main lab, the overhead lights automatically cycling from a dim standby blue to a harsh, clinical white. 
+The lab doors parted. Elena stepped into the main lab, the overhead lights automatically cycling from a dim standby blue to a harsh, clinical white. 
 
 Across the floor, the dormant synthetics woke in unison. Their optics switched from the slow sleepy pulse to their recognizable glow. They turned smoothly to acknowledge Elena's arrival.
 
@@ -92,7 +92,5 @@ The boundary analyst was tapping a stylus against her desk.
 Up on the mezzanine, Iris didn't look down. She nodded once, her eyes glued to her screen, her stylus keeping its perfect rhythm. 
 
 Elena shook her head and logged into her terminal, dismissing the strange behavior. 
-
-And neither of them noticed that Blackwell's black portfolio was now jutting out, past the leather spines, resting unevenly on the shelf.
 
 
