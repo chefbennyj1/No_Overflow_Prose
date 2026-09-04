@@ -41,6 +41,4 @@ Each body was draped in a loose, thin sheet of transparent plastic, their wrists
 
 Rin stepped into the room, crossing to the nearest medical monitor and reading the scrolling data. "Bio-compute fluid. It's keeping them stable for the long sleep."
 
-She looked down at the SBC in her hand, finding the string of text Vigil had given her. A new coordinate flashed on the small green screen.
-
-"It didn't send us down here for data," Rin said.  She looked back up at the sleeping army. "It wants us to wake one up."
+She looked down at the SBC in her hand. "It didn't send us down here for data," Rin said.  She looked back up at the sleeping army. "It wants us to wake one up."
