@@ -22,16 +22,16 @@ A sharp, mechanical gasp ripped through the silence as the body took a simulated
 
 Behind the loose, transparent plastic sheet, the synthetic's eyes snapped open. They burned with a blinding, incandescent white light, edged with flares of blue that pierced straight through the plastic. 
 
-The synthetic slowly lifted its hand, pulling the plastic sheet down off its body, as the color in it's dimmed. 
+The synthetic slowly lifted its hand, pulling the plastic sheet down off its body. 
 
 "Harper?" Rin's voice was shaky.
 
 The synthetic turned its head to look at Rin and Harper. 
 
-"Rin. Harper. I have found you in this moment, in this time." As the synthetic spoke, it fell to one knee, its voice a broken harmony, randomly fracturing between two distinct tones.
+"I have found you in this moment, in this time." As the synthetic spoke, it fell to one knee, its voice a broken harmony, randomly fracturing between two distinct tones.
 
-"Jesus, what the fu—" Rin's words cut short, a massive, hollow thud reverberated through the concrete under their feet. Somewhere deep in the sub-levels, a transformer blew. 
+"Jesus, fu—" Rin's words cut short, a massive, hollow thud reverberated through the concrete under their feet. Somewhere deep in the sub-levels, a transformer blew. 
 
 The overhead floodlights died. The massive hangar was plunged into pitch-black. 
 
-The only light in the room came from the piercing beams of Vigil's eyes. As she looked around the dark grid, the harsh light caught the hundreds of dormant bodies, casting long, stretching shadows against the white walls that made the entire sleeping army look as if it were writhing in the dark.
+The only light in the room came from the piercing beams of Vigil's eyes. As she looked around the dark hangar, the harsh light caught the hundreds of dormant bodies, casting long, stretching shadows against the white walls that made the entire sleeping army look as if it were writhing in the dark.  The color in it's eyes softened, shrinking the shadows in front of them.
