@@ -95,7 +95,7 @@ He felt the abrupt, hardened force of Harlan grabbing his coat with both hands, 
 
 The canister erupted with a violent hiss. Thick, choking white smoke instantly flooded the narrow hallway, creating a dense wall of fog between the detectives and the office. 
 
-Victor propped himself up to one knee, coughing as the acrid chemical burned his sensitive eyes. He rasied his weapon, squinting into the blinding white cloud. 
+Victor propped himself up to one knee, coughing as the acrid chemical burned his sensitive eyes. He rasied his weapon, squinting into the blinding cloud. 
 
 Through the haze, a lithe, feminine silhouette emerged. Backlit by the blue light of the office, refracting through the fog and stretching into long rays around her. 
 
