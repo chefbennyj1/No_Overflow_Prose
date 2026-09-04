@@ -1,7 +1,7 @@
 
 Elena Marlowe stood alone in the dark on the primary observation deck. Below her, the tall pillars of the Mnemosyne engine were submerged in shallow coolant pools, creating a wet, reflective mist across the pit. Light bled from the glass, casting long shadows across the room.
 
-She rubbed her eyes, and pulled her hair back haphazardly with a tie. Her eyes ached from analyzing the failed attempt to shut down the horizon memory. She had been waiting for the corporation to realize their science experiment wasn't under their control. Wasn't under anyone's control.
+She rubbed her eyes and pulled her hair back haphazardly with a tie. Her eyes ached from analyzing the failed attempt to shut down the horizon memory. She had been waiting for the corporation to realize their science experiment wasn't under their control. Wasn't under anyone's control.
 
 Another diagnostic test initialized on the console. A new signal routed outward, racing toward the horizon boundary. 
 
@@ -11,7 +11,7 @@ It was a fragile baseline. To be sure, she needed to push the horizon boundary f
 
 Instantly, a wall of red error strings flooded the primary holographic console. The harsh crimson text reflected off Elena's dark skin as she stepped closer to the glass.
 
-The syntax was entirely foreign. It bore no resemblance to standard  kernel data.
+The syntax was foreign. It bore no resemblance to standard  kernel data.
 
 **[SYSTEM FAULT: PARITY IMMINENT]**
 
@@ -23,7 +23,7 @@ Core architecture code populated the screen. Elena scanned the lines she had aut
 
 The physical intercom button yielded only dead air when she slammed her palm against it to wake the night-shift engineers. The entire local network was locked. 
 
-Out of the corner of her eye, a secondary terminal flickered. The light died, replaced by a harsh, blinking white command line. It wasn't an error code. It was a direct message, bypassing the engine's firewalls entirely.
+Out of the corner of her eye, a secondary terminal flickered. The light died, replaced by a harsh, blinking white command line. It wasn't an error code. It was a direct message, bypassing the engine's firewalls.
 
 **[VIGIL: Doctor Elena Marlowe]**
 
