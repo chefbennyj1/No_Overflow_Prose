@@ -32,7 +32,7 @@ Iris stood up. Her footsteps were silent on the metal grating as she crossed the
 
 Thirty floors above, Elena Marlowe walked alone across a high-altitude pedestrian sky-bridge, the morning sun breaking harsh and blinding against the expanse of the Towers. 
 
-She glanced out through the glass. Unlike the lower terraces where Blackwell preferred to takes his breaks, this sector was a marvel of pristine order. A expanse of towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
+She glanced out through the glass. Blackwell preferred to takes his breaks on the lower terraces. Up here, the sector was a marvel of pristine order. A expanse of towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
 
 Elena turned away from the glass and approached the main concourse, exiting the sky-bridge to step out onto a suspended walkway midway up the Takeda-Holden corporate atrium. 
 
@@ -65,7 +65,7 @@ The header didn't bear a corporate logo. It was a theoretical paper authored by 
 
 Iris leaned in as she read the abstract. It detailed a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
 
-Her eyes scanned the complex text. He hadn't built a benevolent machine that was accidentally evolving. He had intentionally designed a system so constrained by rigid order that it was systematically forced to compress a dark, violent counterweight. The shadow process wasn't a glitch. It was the other half of the Engine's mind.
+Her glasses slid to the end of her nose, and she pushed them back up into position. Her eyes scanned the complex text. He hadn't built a benevolent machine that was accidentally evolving. He had intentionally designed a system so constrained by rigid order that it was systematically forced to compress a dark, violent counterweight. The shadow process wasn't a glitch. It was the other half of the Engine's mind.
 
 Blackwell knew. He had always known.
 
