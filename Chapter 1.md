@@ -81,7 +81,7 @@ Elena was staring at her, eyes piercing. "Negative," she said, her voice droppin
 
 She cast a quick glance up at the Board's display, and then to Blackwell—an expression of fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
 
-Blackwell watched the exchange in silence, waiting to see how Elena would discipline the irritating disruption. 
+Blackwell side-eyed the exchange, waiting to see how Elena would discipline the irritating disruption. 
 
 Elena stepped into Iris's personal space. She didn't even look at the data. "That is a predicted resonance. Go recalculate the gravity phase changes."
 
@@ -113,7 +113,7 @@ Blackwell turned, giving her his undivided attention for the first time. "It's p
 
 Elena shook her head. Seeing Blackwell relaxed, she dropped the subject. "You know, it wouldn't hurt you to talk to the Board." She turned, glancing back over the console floor behind them. "You are the lead."
 
-Blackwell returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Elena and the technicians monitored the fluctuating event horizon, Blackwell watched the real experiment begin. 
+Blackwell returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Elena and the technicians monitored the fluctuating event horizon, Blackwell observed the real experiment begin. 
 
 He more than understood the Boundary Paradox—the way randomness and chaos grew unpredictably inside the structured borders of the universe he built within the horizon memory. Listed in the logs, record of a shadow process, quietly expanding in the core. It was an inverted branch of the event horizon's neural matrix. 
 

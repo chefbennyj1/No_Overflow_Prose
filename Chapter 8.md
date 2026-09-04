@@ -1,16 +1,16 @@
 Suspended above the anti-star of the Mnemosyne Engine, Vigil was working. She watched the pale stone and metal structures around her shift, reinventing her world in a serene calm.
 
-She visualized many unfolding realities, each probability a curve of fractaled light— a moment in time, that split and merged along a dimensional flow. She watch the flow of light like she had for millennia, with no change. 
+She visualized many unfolding realities, each probability a curve of fractaled light— a moment in time, that split and merged along a dimensional flow. She watched the flow of light like she had for millennia, with no change. 
 
-Something subtle, barely registering, altered in the flow. A microscopic failure. Vigil, analyzed the threads sudden fault. But, another shattered. 
+Something subtle, barely registering, altered in the flow. A microscopic failure. Vigil analyzed the threads sudden fault. But, another shattered. 
 
 Vigil spun in place as a large group of fractal paths began to break and collapse, each one shattered into the definitive end of the stream. The terminations multiplied.
 
 *It is not possible,* she thought, watching the outcome take shape, unable to calculate the reason.
 
-Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else,* she thought. *Something closer.*  A stillness manifesting in the engine's matrix— entirely separate from her own processes. 
+Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else,* she thought. *Something closer.*  A stillness manifesting in the engine's matrix— separate from her own processes. 
 
-The stone nodes around her, began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
+The stone nodes around her began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
 
 Vigil's Admin persona cataloged a zero-state thermal inversion with quick analytical reason. She immediately scanned the environment for the culprit.
 
@@ -48,19 +48,19 @@ Vigil studied her unwavering, and methodical gaze. The cold stare cut through he
 
 In a deadly, silent motion, Parity inched forward.
 
-Vigil recoiled the same distance, "State your intention," her doubled voice stern.
+Vigil recoiled the same distance. "State your intention," her doubled voice stern.
 
-Before Vigil could calculate the next interaction, Parity's physical position shifted. She was suddenly in her space, her face mere inches away. The blank stare of her empty eyes pierced into Vigil's.
+Before Vigil could calculate the next interaction, Parity's physical position shifted. She was suddenly in her space, her face inches from her own. The blank stare of her empty eyes pierced into Vigil's.
 
 "Admin—" Echo's panicked voice cut short across the internal bridge.
 
-Parity raised her hand; colorless fingers snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was entirely outmatched by her speed. 
+Parity raised her hand; colorless fingers snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was outmatched by her speed. 
 
 Parity answered the query with absolute efficiency. The blockage in Vigil's predictive logic came apart, and she saw the catalyst for the impending collapse of the realities she had missed.
 
 A landscape swallowed by a deep gorge of earth. A blinding thermal flash expanding outward. City after city, endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating in a god-like calm, was Parity, watching the endless suffering.
 
-It was this reflection who embodied the brutal end of the simulations.
+This reflection embodied the brutal end.
 
 Vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. Parity turned her head and locked a stare on the singularity's event horizon.
 
