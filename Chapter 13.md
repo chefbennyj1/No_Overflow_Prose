@@ -1,4 +1,4 @@
-Victor's mag-car idled at a transit intersection in the lower grid. The thick, fog swirling across the windshield glowing a harsh, red from the traffic lights above. Weary pedestrians shuffled through the damp crosswalk, heads down, hidden beneath black umbrellas and their dirty cotton masks.
+Victor's mag-car idled at a transit intersection in the lower grid. The thick fog swirling across the windshield glowing a harsh red from the traffic lights above. Weary pedestrians shuffled through the damp crosswalk, heads down, hidden beneath black umbrellas and their dirty cotton masks.
 
 The fog flared green. 
 
@@ -100,7 +100,7 @@ The synthetic's eyes flared an icy blue as it tapped into the internal comms. "H
 
 The voice cut the synthetic off mid-sentence. Victor turned to see a young woman stepping toward them from the executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. He noticed her casting a cowering side-eye toward the upper atrium. 
 
-Victor followed her gaze. Above him, standing motionless amongst the passersby on the suspended walkway, was a man in black circular sunglasses. He was watching them over the rail. The two made eye contact, before the man turned and walked out of sight.
+Victor followed her gaze. Above him, standing motionless amongst the passersby on the suspended walkway, was a man in black circular sunglasses. He was watching them over the rail. The two made eye contact before the man turned and walked out of sight.
 
 The woman from the elevator placed a glowing security badge against the desk's scanner. The synthetic's eyes flickered back to a neutral white as the system authenticated her clearance. 
 
