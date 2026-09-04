@@ -51,7 +51,7 @@ The crowd parted as two Renewal agents made their way through the terminal platf
 
 "Rin," Harper breathed. "We have a problem."
 
-The lead agent's visor locked onto them. He raised a riot-control baton and pointed it through the crowd, his voice booming over the noise of the terminal. "Hey! Step away from the door!"
+The lead agent's hemlet locked onto them. He raised a riot-control baton and pointed it through the crowd, his voice booming over the noise of the terminal. "Hey! Step away from the door!"
 
 "I need ten seconds," Rin said, watching the flow of numbers move down the green display of the SBC.
 
