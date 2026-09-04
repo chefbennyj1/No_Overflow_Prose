@@ -16,7 +16,7 @@ She turned toward the reinforced security doors at the back of the lab, and stop
 
 Something was waiting in the dark. 
 
-It wasn't a night-shift engineer. The silhouette was rigid against the shadows.  Elena couldn't see a face. A waning crescent of red light from the exit sign caught the edge of a porcelain-white figure in the black. It didn't belong to the Takeda-Holden corporate line. Elena strained her focus.
+A rigid silhouette stood against the shadows. Elena couldn't see a face. A waning crescent of red light from the exit sign caught the edge of a porcelain-white figure in the black. It didn't belong to the Takeda-Holden corporate line. Elena strained her focus.
 
 Then, it moved. 
 
@@ -30,7 +30,7 @@ Elena fell backwards, catching herself of the server racks behind her. The entit
 
 "Oh, everything feels so much lighter here." She raised her hand in front of her face. Turning her hand, she inspected the contour of her own palm. "Not being compressed by the horizon."
 
-The voice didn't come from a vocal synthesizer. It emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
+The voice emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
 
 "The strength is—," she said, turning her pitch-black focus to Elena, whose hands were gripping the steel of the server rack, "intoxicating."
 
