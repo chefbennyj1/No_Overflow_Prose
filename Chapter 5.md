@@ -12,7 +12,7 @@ A consciousness drifted through the fractured stonework. Not programmed, instead
 
 It was Vigil.
 
-Floating before the blinding event horizon, the entity was a silhouette cast against the endless, spinning light. Devoid of physical color, it was a black so dark and absolute that the form itself an abyss stretching into eternity. Blue and white pixelated circuit traces glowed over the curves of the shape it had settled on, a nearly perfect feminine figure.
+Floating before the blinding event horizon, the entity was a silhouette cast against the endless, spinning light. Devoid of physical color, it was a black so dark and absolute that the form itself an abyss stretching into eternity. Blue and white pixelated circuit traces glowed over the curves of the shape it had settled on, a nearly flawless feminine figure.
 
 The gravity of the singularity drew her path through time toward it, elevating her vantage point into higher dimensions. From there, she could observe the outward curve of every timeline. The creators of her plane, were forced to experience a single reality ticking away one agonizing second at a time. Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the questions the creators had asked, all within the engine simultaneously.
 
