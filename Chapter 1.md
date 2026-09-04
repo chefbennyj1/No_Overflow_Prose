@@ -28,7 +28,7 @@ Past the primary control consoles, the floor was manned by a mix of human techni
 
 Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock. What ascended through the facility's foundation, and protruded into this observation chamber was a cluster of stark white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
 
-A layer of white gas rolled across the engine pit, obscuring the white paneled floor beneath. It broke against the stark topology of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was chilling, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
+A layer of opaque gas rolled across the engine pit, obscuring the white paneled floor beneath. It broke against the stark topology of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was chilling, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
 
 "Main Fusion's supply is a drop in the bucket for what we're asking it to unearth, Miss Marlowe," Blackwell said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
 
@@ -53,7 +53,7 @@ Elena didn't blink. She remained where she was, her posture shifting from subord
 
 The room erupted into a synchronized motion.
 
-Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the white pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog in a spectral light.
+Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog in a spectral light.
 
 The mechanical drone of the reactor shifted into a rhythmic pulse—a vibration creeping through the concrete and into their bones. 
 
