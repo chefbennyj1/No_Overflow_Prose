@@ -66,7 +66,7 @@ Iris turned and walked quickly toward the executive elevator. As the doors began
 
 "I believe you and I have a conversation to have, Ms. Ito." It was a distinct voice Iris knew all too well. Blackwell.
 
-She looked out to see Silas Blackwell standing on the walkway just as the elevator doors closed.
+She looked out to see Silas Blackwell standing on the walkway as the elevator doors closed.
 
 ***
 
