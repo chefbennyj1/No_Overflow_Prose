@@ -6,7 +6,7 @@ Victor raised his revolver, and clicked the button on his tactical flashlight, s
 
 He stopped just inside. The scale of the room was a strategic nightmare.  Plastic-draped synthetics stretched into long uniform rows. A perfect maze for an ambush. Victor swept his light across the grid, calculating the odds. Null was a hacker, but he didn't know if she was armed, or how many people she had brought with her to pull off a physical breach. 
 
-Victor looked to Harlan who was already chambering a round in his gun, he raised it and clicked his own flashlight. They both nodded to each other, as they slowly sidestepped into the cavernous hangar.
+Harlan was chambering a round in his gun. He raised it and clicked on his own flashlight. His eyes meet Victors. They both nodded, as they slowly sidestepped into the cavernous hangar.
 
 Victor's eyes scanned the perimeter walls. At the far end of the grid, his beam caught the edge of an emergency service tunnel, its heavy door propped half open.
 
@@ -17,6 +17,8 @@ Harlan broke away, moving quietly toward the far end of the hangar to cut off th
 A harsh beam of tactical light carved through the dark. 
 
 "The service tunnel is gaurded. I'm on the main doors," The voice echoed across the massive room, cold and brutally pragmatic. "You're out of exits, Null. It's over."
+
+"—Null. it's over," Vigil's synthetic voice whispered between them. The synthetic's head lolled to the side, her voice a hollow, broken harmony mirroring the detectives's exact inflection. 
 
 Rin immediately crouched down among the plastic-draped synthetics, pulling Harper and Vigil with her into the shadows. 
 
@@ -32,11 +34,19 @@ Harper's eyes widened the light catching a sudden glossiness that wasn't there b
 
 "Okay, okay, listen," Harper whispered frantically, helping Rin drag the wounded Vigil through the maze of plastic-draped bodies. "If we hit the auxiliary lights, we can blind them for two seconds, maybe rush the tunnel—"
 
+"—rush the tunnel," Vigil's broken whisper reflecting back at her. The words fell from the synthetic's lips at the exact same millisecond Harper spoke them. It wasn't an echo. She was reciting a timeline.
+
+Harper's head spun toward the synthetic, "Hey if you know something—now s the time." Her voice a little more than a whisper.
+
 "No," Rin said, her voice dead flat. 
 
 "Okay, then we use the bodies," Harper rambled, her panic spiking. "We push the racks over, create a barricade—"
 
+"—create a barricade," the broken tones of Vigil's speech hung between them. 
+
 "Harper, stop." Rin halted in the shadows of the dormant army. She looked at the frantic girl, the math already complete in her head. The detective had the main doors. His partner had the tunnel. It was Checkmate. 
+
+"Checkmate." Vigil's head fell forward.
 
 Rin grabbed Harper by the collar of her jacket and pulled her in. She kissed her. It was soft,  frantic, and terrified—a collision of desperation and adrenaline. 
 
