@@ -16,7 +16,7 @@ Rin jammed the heavy cord into the network port and executed the handshake.
 
 For a long moment in the hangar, nothing happened. 
 
-Then, the peristaltic pump beside them seized. The silicone tubes feeding into the back of the synthetic suddenly snapped. Rin cursed, and Harper moved back as the tubes fell to the ground, spilling translucent blue fluid into a puddle on the tile.  
+The peristaltic pump beside them seized. The silicone tubes feeding into the back of the synthetic suddenly snapped. Rin cursed, and Harper moved back as the tubes fell to the ground, spilling translucent blue fluid into a puddle on the tile.  
 
 A sharp, mechanical gasp ripped through the silence as the body took a simulated breath. 
 
