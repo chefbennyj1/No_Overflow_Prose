@@ -36,7 +36,7 @@ Harper's eyes widened, the light catching a sudden glossiness that wasn't there 
 
 "—rush the tunnel," Vigil's broken whisper reflecting back at her. The words fell from the synthetic's lips at the exact same millisecond Harper spoke them. Not an echo. She was reciting a timeline.
 
-Harper's head spun toward the synthetic, "Hey if you know something—now s the time." Her voice a little more than a whisper.
+Harper's head spun toward the synthetic, "Hey if you know something—now's the time." Her voice a little more than a whisper.
 
 "No," Rin said, her voice dead flat. 
 
@@ -56,9 +56,9 @@ Before Harper could argue, Rin stepped away from the cover of the plastic sheets
 
 ***
 
-Victor swept his light across the endless rows of the dormant army. Hundreds of plastic-draped bodies, standing shoulder to shoulder in the dark. 
+Victor swept his light across the endless rows of the dormant army. Hundreds of plastic-draped bodies stood shoulder to shoulder in the dark, tethered to the IV stands and peristaltic pumps. 
 
-His beam washed over the aisle, catching the pale faces of the synthetics obscured by the plactic sheets. The light swept past another figure standing in the line, moved a few feet further—and then Victor's brain registered what he had seen. 
+His beam washed over the aisle, catching the pale faces of the synthetics obscured by the plastic sheets, their silicone feeding tubes glowing faintly in the glare. The light swept past another figure standing in the line, moved a few feet further—and then Victor's brain registered what he had seen. 
 
 He snapped the beam back. 
 
