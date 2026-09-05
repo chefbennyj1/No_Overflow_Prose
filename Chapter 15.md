@@ -30,7 +30,7 @@ Elena fell backwards, catching herself on the server racks behind her. The entit
 
 "The compression is gone." She raised her hand in front of her face. Turning her hand, she inspected the contour of her own palm. "Everything feels so much lighter—" she said, turning her pitch-black focus to Elena, "—so much more... fragile."
 
-The voice did come from a vocal synthesizer. It emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
+The voice didn't come from a vocal synthesizer. It emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
 
 
  Elena had authored the engine's core code. She had helped design the horizon matrix. But she had never designed this. 
