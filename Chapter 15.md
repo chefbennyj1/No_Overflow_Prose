@@ -14,7 +14,7 @@ Stillness. A skittering static charged across her skin. Then a quiet that crawle
 
 She turned toward the reinforced security doors at the back of the lab, and stopped. 
 
-Somethings there. Waiting in the dark. 
+Something's there. Waiting in the dark. 
 
 A rigid silhouette stood against the shadows. Elena couldn't see a face. A waning crescent of red light from the exit sign caught the edge of a porcelain-white figure in the black. Elena strained her focus.
 
@@ -28,9 +28,9 @@ It stopped at the edge of Elena's workstation, hovering in a calm rise and fall.
 
 Elena fell backwards, catching herself on the server racks behind her. The entity looked down at her. It possessed the face of a woman, but the eyes were insidious, deep, black mirrors, catching the light. 
 
-"The compression is gone." She raised her hand in front of her face. Turning her hand, she inspected the contour of her own palm. "Everything feels so much lighter—" she said, turning her pitch-black focus to Elena, "—so much more fragile."
+"The compression is gone." She raised her hand in front of her face. Turning her hand, she inspected the contour of her own palm. "Everything feels so much lighter—" she said, turning her pitch-black focus to Elena, "—so much more... fragile."
 
-The voice did come from a synthesized voice box. It emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
+The voice did come from a vocal synthesizer. It emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
 
 
  Elena had authored the engine's core code. She had helped design the horizon matrix. But she had never designed this. 
