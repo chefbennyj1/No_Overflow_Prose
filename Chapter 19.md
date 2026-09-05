@@ -58,7 +58,7 @@ Before Harper could argue, Rin stepped away from the cover of the plastic sheets
 
 Victor swept his light across the endless rows of the dormant army. Hundreds of plastic-draped bodies, standing shoulder to shoulder in the dark. 
 
-His beam washed over the aisle, catching the pale faces of the synthetics obscured by the plactics sheets. The light swept past another figure standing in the line, moved a few feet further—and then Victor's brain registered what he had seen. 
+His beam washed over the aisle, catching the pale faces of the synthetics obscured by the plactic sheets. The light swept past another figure standing in the line, moved a few feet further—and then Victor's brain registered what he had seen. 
 
 He snapped the beam back. 
 
@@ -68,7 +68,7 @@ But as the harsh light hit her face, her eyes didn't squint. They were sharp, fo
 
 *Null.* 
 
-Victor didn't lower his heavy revolver. He kept the sight trained directly on her chest. "Harlan!" Victor shouted, there was a slight shift in the metal of his revolver as he firmed his grip, and framed his aim. "On me! I got her!" 
+Victor didn't lower his heavy revolver. He kept the sight trained directly on her chest. "Harlan!" Victor shouted. There was a slight shift in the metal of his revolver as he firmed his grip, and framed his aim. "On me! I got her!" 
 
 ***
 
