@@ -64,10 +64,10 @@ Victor didn't lower his heavy revolver. He kept the sight trained directly on he
 
 The cold steel of the handcuffs ratcheted tight around Rin's wrists, biting into her skin. 
 
-Victor pushed a heavy hand into her shoulder, forcing her down to her knees on the hard concrete floor of the hangar. Harlan jogged up a second later, breathing heavily, keeping his weapon raised as they secured the perimeter around her. 
+The detective pushed a heavy hand into her shoulder, forcing her down to her knees on the hard concrete floor of the hangar. His  partner jogged up a second later, breathing heavily, keeping his weapon raised as they secured the perimeter around her. 
 
 Rin kept her head down, her dark hime-cut bangs falling over her eyes. But out of the corner of her eye, she looked back through the uniform rows of the synthetic army. 
 
-Deep in the shadows, completely unnoticed by the detectives, Rin saw the faint silhouette of Harper. She was kneeling in the dark, clutching Vigil tightly, watching Rin take the fall. 
+Deep in the shadows, unnoticed by the detectives, Rin saw the faint silhouette of Harper. She was kneeling in the dark, clutching Vigil tightly, watching Rin take the fall. 
 
 The service tunnel was wide open. They were safe.
