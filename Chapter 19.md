@@ -84,15 +84,15 @@ She didn't run toward the tunnel. She sprinted hard to the right, cutting deep i
 
 "She's on the move!" Victor roared. He didn't fire—she was unarmed—but he wasn't going to lose her again. "Harlan, cut her off!"
 
-Harlan abandoned the tunnel, sprinting through the dark to intercept. Rin wove blindly through the maze of plastic-draped bodies, her boots pounding against the concrete, focused entirely on drawing Victor's light further away. 
+Victor chased the girl as she wove blindly through the maze of plastic-draped bodies, her boots pounding against the concrete.
 
-Suddenly, a second flashlight beam cut across her path. Harlan stepped out from the line of synthetics directly in front of her. 
+Suddenly, a second flashlight beam cut across their path. Harlan stepped out from the line of synthetics directly in front of her. 
 
-Rin didn't have time to stop. She slammed hard into Harlan's chest. The impact knocked her stumbling backward onto the concrete. 
+The girl didn't have time to stop. She slammed hard into Harlan's chest. The impact knocked her stumbling backward onto the concrete. 
 
 Victor closed in from behind, trapping her in the intersection of their blinding lights. 
 
-Rin stayed on the floor. She slowly raised her hands in the air.
+She was breathing heavily on the floor, as she slowly raised her hands in the air, looking up and out of the corner of her eye's at Victor.
 
 ***
 
