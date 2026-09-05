@@ -17,5 +17,7 @@ Elena felt the searing pain shoot up her arm as Parity's open palm struck her ch
 
 Elena crumpled to the concrete floor. No breath. No movement. Her vision began to narrow into a dark tunnel. 
 
-Through the ringing in her ears, she looked up toward the exit. She hadn't hit the lever. She had failed.
+Through the ringing in her ears, she looked up toward the exit. She hadn't hit the lever. 
+
+She had failed.
 
