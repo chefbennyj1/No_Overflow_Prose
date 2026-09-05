@@ -80,9 +80,9 @@ Rin took a slow, calculated step to the right.
 
 Rin bolted. 
 
-She didn't run toward the tunnel. She sprinted hard to the right, cutting deep into the center of the dormant army to draw the light away from Harper. 
+She didn't run toward the tunnel. She sprinted hard to the right, cutting deep into the center of the dormant army. Victor followed her with his light, and began the pursuit.
 
-"She's on the move!" Victor roared. He didn't fire—she was unarmed—but he wasn't going to lose her again. "Harlan, cut her off!"
+"She's on the move!" Victor roared, his long black coat tailing behind him. She was unarmed, he holstered his revolver, to focus on the chase. He wasn't going to lose her again. "Harlan, cut her off!"
 
 Victor chased the girl as she wove blindly through the maze of plastic-draped bodies, her boots pounding against the concrete.
 
@@ -98,7 +98,7 @@ She was breathing heavily on the floor, as she slowly raised her hands in the ai
 
 The cold steel of the handcuffs ratcheted tight around Rin's wrists, biting into her skin. 
 
-The detective pushed a heavy hand into her shoulder, forcing her down to her knees on the hard concrete floor of the hangar. His  partner jogged up a second later, breathing heavily, keeping his weapon raised as they secured the perimeter around her. 
+The detective pushed a heavy hand into her shoulder, forcing her down to her knees on the hard concrete floor of the hangar. Breathing heavily, and keeping their weapons raised,  they secured the perimeter around her. 
 
 Rin kept her head down, her dark hime-cut bangs falling over her eyes. But out of the corner of her eye, she looked back through the uniform rows of the synthetic army. 
 
