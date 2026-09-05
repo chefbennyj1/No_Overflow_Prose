@@ -68,7 +68,31 @@ But as the harsh light hit her face, her eyes didn't squint. They were sharp, fo
 
 *Null.* 
 
-Victor didn't lower his heavy revolver. He kept the sight trained directly on her chest. "Harlan!" Victor shouted. There was a slight shift in the metal of his revolver as he firmed his grip, and framed his aim. "On me! I got her!" 
+Victor didn't lower his heavy revolver. He kept the sight trained directly on her chest. "Harlan!" Victor shouted, his voice echoing in the space. "On me! I got her!"
+
+In the harsh glare of the flashlight, Rin's eyes darted to the side, looking deep into the maze of the hangar. 
+
+Victor saw the wheels turning in her head. There was a slight shift in the metal of his revolver as he firmed his grip. "Hey. Don't do it."
+
+Rin took a slow, calculated step to the right. 
+
+"Don't do it," Victor warned again, framing his aim.
+
+Rin bolted. 
+
+She didn't run toward the tunnel. She sprinted hard to the right, cutting deep into the center of the dormant army to draw the light away from Harper. 
+
+"She's on the move!" Victor roared. He didn't fire—she was unarmed—but he wasn't going to lose her again. "Harlan, cut her off!"
+
+Harlan abandoned the tunnel, sprinting through the dark to intercept. Rin wove blindly through the maze of plastic-draped bodies, her boots pounding against the concrete, focused entirely on drawing Victor's light further away. 
+
+Suddenly, a second flashlight beam cut across her path. Harlan stepped out from the line of synthetics directly in front of her. 
+
+Rin didn't have time to stop. She slammed hard into Harlan's chest. The impact knocked her stumbling backward onto the concrete. 
+
+Victor closed in from behind, trapping her in the intersection of their blinding lights. 
+
+Rin stayed on the floor. She slowly raised her hands in the air.
 
 ***
 
