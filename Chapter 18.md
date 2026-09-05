@@ -11,7 +11,7 @@ Parity’s head tilted, her movement stuttering into fractured trails of motion.
 "In every version of your existence where you move to pull that lever." Parity's voice vibrated through the elements in the room, a sound devoid of breath or origin. "You never do."
 
 The air in the lab rippled. A single frame of reality dropped. In one millisecond, Parity's subtle rise and fall was intimately close to Elena. The physical space between them freezing the molecules of the air. 
- She reached out and caught Elena’s wrist right as her fingertips brushed the red steel of the lever. With an effortless, sickeningly twist, there was a sharp crack—the sound of a wet tree branch snapping in half. 
+ She reached out and caught Elena’s wrist right as her fingertips brushed the red steel of the lever. Parity's frozen touch felt like burning on her skin, as the color of her wrist began to turn a biting black. With an effortless, sickeningly twist, there was a sharp crack—the sound of a wet tree branch snapping in half. 
 
 Elena felt the searing pain shoot up her arm as Parity's open palm struck her chest. Her ribs fractured instantly. The air was violently evacuated from her lungs as she was launched backward into the dark. She flew across the width of the lab, before crashing violently into the base of the reinforced glass. 
 
