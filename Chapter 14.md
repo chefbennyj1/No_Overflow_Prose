@@ -27,7 +27,7 @@ They stepped into the black. It was dark, but Harper could feel the scale of the
 
 Overhead, motion sensors triggered as a sequence of harsh white floodlights snapped on, firing down the length of the room in succession.
 
-The room was a hangar of white digital paneling, perfectly preserved like a vacuum-sealed time capsule. Smooth sloped panels connected the floor to the walls, eliminating the corners. An unfaded logo for the Takeda-Holden Corporation spread across the far wall. The entire space felt like it had been built, filled, and abandoned on the exact same day.
+The room was a hangar of white digital paneling, preserved like a vacuum-sealed time capsule. Smooth sloped panels connected the floor to the walls, eliminating the corners. An unfaded logo for the Takeda-Holden Corporation spread across the far wall. The entire space felt like it had been built, filled, and abandoned on the exact same day.
 
 Standing rigid, arranged in a grid like a dormant army, were hundreds of previous-generation Synthetics. 
 

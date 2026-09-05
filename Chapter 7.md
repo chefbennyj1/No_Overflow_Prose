@@ -83,7 +83,7 @@ The lab doors parted. Elena stepped into the main lab, the overhead lights autom
 
 Across the floor, the dormant synthetics woke in unison. Their optics switched from the slow sleepy pulse to their recognizable glow. They turned smoothly to acknowledge Elena's arrival.
 
-Elena paused, her eyes adjusting to the glare. She looked up toward the mezzanine. Sitting perfectly still at her terminal, was Iris. 
+Elena paused, her eyes adjusting to the glare. She looked up toward the mezzanine. Sitting still at her terminal, was Iris. 
 
 The boundary analyst was tapping a stylus against her desk. 
 

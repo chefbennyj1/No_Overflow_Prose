@@ -1,6 +1,6 @@
 The dark of the observation deck was suffocating. Bronze holographic circuit traces seared across Parity's weightless frame, illuminating the concrete under her. Parity's hollow eyes, kept their inhuman gaze locked on Elena. 
 
-Before Elena could move, the lab's overhead intercom crackled to life. Static cut through the heavy silence, followed by Doctor Blackwell's voice. It was stripped of its usual arrogance. He was breathless, frantic, speaking into a microphone from somewhere deep in the stairwell. 
+Before Elena could move, the lab's overhead intercom crackled to life. Static cut through, followed by Silas Blackwell's voice. Stripped of its usual arrogance. Breathless, frantic, he was speaking into a microphone from somewhere deep in the stairwell. 
 
 "Elena! It wasn't supposed to break through the horizon boundary! It was supposed to be contained!" His voice echoed through the lab. "Run, Elena! Run!"
 

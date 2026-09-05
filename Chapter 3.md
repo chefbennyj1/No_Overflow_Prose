@@ -35,7 +35,7 @@ A man leaned forward from the plush darkness, his broad shoulders blocking the r
 
 "I see you made it out alive," the man said, tapping an unlit cigarette against the package he drew it from. He placed the cigarette between his lips. 
 
-Rin kept her expression perfectly neutral, though a cold bead of sweat broke at her hairline.
+Rin kept her expression neutral, though a cold bead of sweat broke at her hairline.
 
 She stepped up to the window and reached into her jacket, pulled out a generic black thumb drive. She tossed it through the open window. It landed on the plush seat. 
 
