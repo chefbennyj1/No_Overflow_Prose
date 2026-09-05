@@ -1,18 +1,24 @@
-The heavy, counter-weighted vault doors of Deep Storage unlocked with the loud movement of metallic of rotary gears. 
+The darkness of the service corridor was illuminated buy strips of yellow emergency lights running through the middle of the corridor walls.
 
-The darkness of the service corridor they were lead to illuminated buy strips of yellow emergency lights running through the middle of the corridor walls.
+The heavy, counter-weighted vault doors of Deep Storage unlocked with the loud movement of metallic of rotary gears.
 
-The doors opened with a grind and squeal of the large metal hinges.
+The doors opened with a grind and squeal of the heavy iron hinges.
 
 Victor raised his revolver, and clicked the button on his tactical flashlight, slicing a beam of light through the silent room.
 
-Victor looked to Harlan who was already chambering a round in his gun, he raised it and clicked his own flashlight. They both nodded to each other, as they slowly sidestepped into the cavernous hangar. 
+Victor looked to Harlan who was already chambering a round in his gun, he raised it and clicked his own flashlight. They both nodded to each other, as they slowly sidestepped into the cavernous hangar.
 
-Victor's eyes scanned the rows of bagged synthetics, and the walls of the room. He saw the emergency tunnel the door half open at the far end, and signaled to Harlan with a quick upward nod. "Over there." he whispered.
+Victor raised his revolver and clicked the button on his tactical flashlight, slicing a beam of light into the silent room.
 
-Harlan made a move towards the far side towards the emergency door.
+He stopped just inside. The scale of the room was a tactical nightmare. Long, uniform rows of plastic-draped synthetics stretched into the pitch-black. A perfect maze for an ambush. Victor swept his light across the grid, calculating the odds. Null was a hacker, but he didn't know if she was armed, or how many people she had brought with her to pull off a physical breach. 
 
+Victor looked to Harlan, who was already chambering a round in his pistol. Harlan clicked his own flashlight on. The two detectives exchanged a tight nod before slowly sidestepping into the pitch-black hangar. 
 
+Victor's eyes scanned the perimeter walls. At the far end of the grid, his beam caught the edge of an emergency service tunnel, its heavy door propped half open.
+
+Victor signaled to Harlan with a quick upward nod. "Over there," he whispered. "Lock it down."
+
+Harlan broke away, moving toward the far wall to cut off the emergency exit.
 ***
 Through the hangar, two harsh beams of tactical light carved through the dark. 
 
@@ -58,7 +64,7 @@ But as the harsh light hit her face, her eyes didn't squint. They were sharp, fo
 
 *Null.* 
 
-Victor didn't lower his heavy revolver. He kept the sight trained directly on her chest. "Harlan!" Victor shouted, there was a slight shift in the metal of his revolver as he firmed his grip, and framed his aim. "On me! I got her!" Pulling his partner away from the service tunnel. 
+Victor didn't lower his heavy revolver. He kept the sight trained directly on her chest. "Harlan!" Victor shouted, there was a slight shift in the metal of his revolver as he firmed his grip, and framed his aim. "On me! I got her!" 
 
 ***
 
