@@ -1,32 +1,26 @@
-The darkness of the service corridor was illuminated buy strips of yellow emergency lights running through the middle of the corridor walls.
+The darkness of the service corridor was illuminated by strips of yellow emergency lights running through the middle of the corridor walls.
 
-The heavy, counter-weighted vault doors of Deep Storage unlocked with the loud movement of metallic of rotary gears.
-
-The doors opened with a grind and squeal of the heavy iron hinges.
+The heavy, counter-weighted vault doors of Deep Storage unlocked with the loud movement of metallic rotary gears. Then opened with the grind and squeal of their heavy iron hinges.
 
 Victor raised his revolver, and clicked the button on his tactical flashlight, slicing a beam of light through the silent room.
 
+He stopped just inside. The scale of the room was a strategic nightmare.  Plastic-draped synthetics stretched into long uniform rows. A perfect maze for an ambush. Victor swept his light across the grid, calculating the odds. Null was a hacker, but he didn't know if she was armed, or how many people she had brought with her to pull off a physical breach. 
+
 Victor looked to Harlan who was already chambering a round in his gun, he raised it and clicked his own flashlight. They both nodded to each other, as they slowly sidestepped into the cavernous hangar.
-
-Victor raised his revolver and clicked the button on his tactical flashlight, slicing a beam of light into the silent room.
-
-He stopped just inside. The scale of the room was a tactical nightmare. Long, uniform rows of plastic-draped synthetics stretched into the pitch-black. A perfect maze for an ambush. Victor swept his light across the grid, calculating the odds. Null was a hacker, but he didn't know if she was armed, or how many people she had brought with her to pull off a physical breach. 
-
-Victor looked to Harlan, who was already chambering a round in his pistol. Harlan clicked his own flashlight on. The two detectives exchanged a tight nod before slowly sidestepping into the pitch-black hangar. 
 
 Victor's eyes scanned the perimeter walls. At the far end of the grid, his beam caught the edge of an emergency service tunnel, its heavy door propped half open.
 
 Victor signaled to Harlan with a quick upward nod. "Over there," he whispered. "Lock it down."
 
-Harlan broke away, moving toward the far wall to cut off the emergency exit.
+Harlan broke away, moving quietly toward the far end of the hangar to cut off the emergency exit.
 ***
-Through the hangar, two harsh beams of tactical light carved through the dark. 
+A harsh beam of tactical light carved through the dark. 
 
 "The service tunnel is gaurded. I'm on the main doors," The voice echoed across the massive room, cold and brutally pragmatic. "You're out of exits, Null. It's over."
 
 Rin immediately crouched down among the plastic-draped synthetics, pulling Harper and Vigil with her into the shadows. 
 
-Harper gripped Rin's arm in the dark, her voice a tight whisper. "Rin, what is it, sugar?"
+Harper gripped Rin's arm in the dark, her voice a tight whisper. "Rin, what is it?"
 
 Rin swallowed hard, staring at the approaching beams of light. "There's something I forgot to tell you about the night I hacked Blackwell's office."
 
@@ -34,7 +28,7 @@ Harper glared at her, unimpressed. "Yeah. And?"
 
 Rin gestured toward the flashlights with her head. "There were these two cops that showed up."
 
-Harper's eyes widened in the dark, the light catching a sudden glossiness that wasn't there before. She threw the Vigil's synthetic arm over her shoulder to help move it. Bracing for dead weight, it was shockingly light. Beneath the vinyl skin, there was no dense bone mass or fluid—hollow carbon-fiber framing. 
+Harper's eyes widened the light catching a sudden glossiness that wasn't there before. She threw Vigil's synthetic arm over her shoulder to help move it. Bracing for dead weight, it was shockingly light. Beneath the vinyl skin, there was no dense bone mass or fluid—hollow carbon-fiber framing. 
 
 "Okay, okay, listen," Harper whispered frantically, helping Rin drag the wounded Vigil through the maze of plastic-draped bodies. "If we hit the auxiliary lights, we can blind them for two seconds, maybe rush the tunnel—"
 
