@@ -18,7 +18,7 @@ Rin knew exactly who he meant, but there was no way a beat detective from the lo
 
 "Okay." Victor's voice lost its patience. "Corporate espionage, network subversion, infrastructure sabotage." A sharp edge of pride bled through his tone as he listed her rap sheet, before it shifted into something colder. "And let's not forget the most exciting part of your spree—your little escapade on the 15th floor of the Company tower with a gas canister." 
 
-Victor stopped pacing and looked directly at her. His expression hardened. Rin could feel his colorless eyes bearing down on her. "That's my partners favorite part." He look up and stared through his reflection in the large mirror at the end of the room. Making eye contact with some invisible person on the other side of the glass.
+Victor stopped pacing and looked directly at her. His expression hardened. Rin could feel his colorless eyes bearing down on her. "That's my partners favorite part." He looked up and stared through his reflection in the large mirror at the end of the room. 
 
 "Four months," Victor muttered, shaking his head. "Four months the Tech Division chased Null. Chased you."
 
@@ -32,4 +32,4 @@ Victor leaned in closer. He shot a subtle glance toward the security camera in t
 
 Rin gritted her teeth. She turned her head, refusing to back away, and stared directly into the icy amber of his eyes. 
 
-"If you knew anything, Detective Graves, you would care what I found." She paused, letting the silence stretch. Victor's gaze flickered. She could see the gears turning behind his eyes. "But you already know what it is. Don't you? You saw the schematic in the office tower on the exact same night I did." Rin leaned forward against the cuffs. "You just don't understand what you're looking at."
+"If you knew anything, Detective Graves, you would care what I found." She paused, Victor's gaze shift away. She could see  it in his eyes, he was in deep thought. "But you already know what it is. Don't you? You saw the schematic in the office tower on the exact same night I did." Rin leaned forward against the cuffs. "You just don't understand what what it was."
