@@ -18,9 +18,9 @@ Rin knew exactly who he meant, but there was no way a beat detective from the lo
 
 "Okay." Victor's voice lost its patience. "Corporate espionage, network subversion, infrastructure sabotage." A sharp edge of pride bled through his tone as he listed her rap sheet, before it shifted into something colder. "And let's not forget the most exciting part of your spree—your little escapade on the 15th floor of the Company tower with a gas canister." 
 
-Victor stopped pacing and looked directly at her. His expression hardened. Rin could feel his colorless eyes bearing down on her. 
+Victor stopped pacing and looked directly at her. His expression hardened. Rin could feel his colorless eyes bearing down on her. "That's my partners favorite part." He look up and stared through his reflection in the large mirror at the end of the room. Making eye contact with some invisible person on the other side of the glass.
 
-"Four months," Victor muttered, shaking his head. "Four months the Tech Division chased Null."
+"Four months," Victor muttered, shaking his head. "Four months the Tech Division chased Null. Chased you."
 
 Rin had finally had enough. The silence broke. "A division?" she laughed, a dry, cynical sound. "What? A division of one?"
 
