@@ -28,11 +28,10 @@ It stopped at the edge of Elena's workstation, hovering in a calm rise and fall.
 
 Elena fell backwards, catching herself on the server racks behind her. The entity looked down at her. It possessed the face of a woman, but the eyes were insidious, deep, black mirrors, catching the light. 
 
-"The compression is gone." She raised her hand in front of her face. Turning her hand, she inspected the contour of her own palm. "Everything feels so much lighter—" she said, turning her pitch-black focus to Elena, "—so much more... fragile."
+"The compression is gone." The entity raised her hand in front of her face. Turning her hand, she inspected the contour of her own palm. "Everything feels so much lighter—" she said, turning her pitch-black focus to Elena, "—so much more... fragile."
 
 The voice didn't come from a vocal synthesizer. It emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
 
-
  Elena had authored the engine's core code. She had helped design the horizon matrix. But she had never designed this. 
 
-Parity tilted her head, the sudden movement fracturing into three distinct, lingering trails of motion, folding back on themselves into alignment.
+The porcelain head of the machine tilted, the sudden movement fracturing into three distinct, lingering trails of motion, folding back on themselves into alignment.
