@@ -11,7 +11,7 @@ Its head tilted, the movements stuttering into fractured trails of motion. It tr
 "In every version of your existence where you move to pull that lever." The entity's voice vibrated through the elements in the room, a sound devoid of breath or origin. "You never do."
 
 The air in the lab rippled. A single frame of reality dropped. In one millisecond, it was intimately close to Elena. The physical space between them only freezing molecules of air. 
-The entity reached out and caught Elena’s wrist right as her fingertips brushed the red steel of the lever. The entity's necrotic touch felt like a burning as the skin of Elena's wrist instantly turned a biting black. With an effortless, sickening twist, there was a sharp crack—the sound of a wet tree branch snapping in half. 
+The entity reached out and caught Elena’s wrist right as her fingertips brushed the red steel of the lever. Its necrotic touch felt like burning as the skin of Elena's wrist instantly turned a biting black. With an effortless, sickening twist, there was a sharp crack—the sound of a wet tree branch snapping in half. 
 
 Elena felt the searing pain shoot up her arm as its open palm struck her chest. Her ribs fractured instantly. The air was violently evacuated from her lungs as she was launched backward into the dark. She flew across the width of the lab, before crashing brutally into the base of the reinforced glass. 
 
