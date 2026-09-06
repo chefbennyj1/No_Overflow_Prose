@@ -50,7 +50,7 @@ Harper's head spun toward the synthetic, "Hey if you know something—now's the 
 
 Rin grabbed Harper by the collar of her jacket and pulled her in. She kissed her. It was soft,  frantic, and terrified—a collision of desperation and adrenaline. 
 
-Rin broke away, shoving the weight of the synthetic entirely onto Harper. "Stay down. When they move, you run." 
+Rin broke away, shoving the weight of the synthetic entirely onto Harper. Without a word, Rin shrugged off her oversized leather jacket and pressed it into Harper's chest. "Stay down. When they move, you run." 
 
 Before Harper could argue, Rin stepped away from the cover of the plastic sheets and into the aisle. 
 
@@ -62,7 +62,7 @@ His beam washed over the aisle, catching the pale faces of the synthetics obscur
 
 He snapped the beam back. 
 
-Not a synthetic. A girl. She was wearing an oversized leather jacket, standing in a timid, half-bent stance, her hands raised in the air to surrender. 
+Not a synthetic. A girl. She was wearing a black tank top, her arms covered in dark, intricate ink. She stood in a timid, half-bent stance, her hands raised in the air to surrender.
 
 But as the harsh light hit her face, her eyes didn't squint. They were sharp, focused, and defiant. They were the exact same eyes that had stared back at him through the closing gap of the elevator door. 
 
