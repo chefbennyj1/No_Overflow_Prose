@@ -6,7 +6,7 @@ Victor raised his revolver, and clicked the button on his tactical flashlight, s
 
 He stopped just inside. The scale of the room was a strategic nightmare.  Plastic-draped synthetics stretched into long uniform rows. The ticks of their peristaltic pumps randomly sounding off in across the floor. A perfect maze for an ambush. Victor swept his light across the grid, calculating the odds. Null was a hacker, but he didn't know if she was armed, or how many people she had brought with her to pull off a physical breach. 
 
-Harlan was chambering a round in his gun. He raised it and clicked on his own flashlight. His eyes met Victors. They both nodded, as they slowly sidestepped into the cavernous hangar.
+Harlan was chambering a round in his gun. He raised it and clicked on his own flashlight. His eyes met Victors. They both nodded, as they slowly sidestepped into the vaulted hangar.
 
 Victor's eyes scanned the perimeter walls. At the far end of the grid, his beam caught the edge of an emergency service tunnel, its heavy door propped half open.
 
@@ -16,7 +16,7 @@ Harlan broke away, moving quietly toward the far end of the hangar to cut off th
 ***
 A harsh beam of tactical light carved through the dark. 
 
-"The service tunnel is guarded. I'm on the main doors," The voice echoed across the massive room, cold and brutally pragmatic. "You're out of exits, Null. It's over."
+"The service tunnel is guarded. I'm on the main doors," The voice echoed across the room, cold and brutally pragmatic. "You're out of exits, Null. It's over."
 
 "—Null. it's over," Vigil's synthetic voice whispered between them. The synthetic's head lolled to the side, her voice a hollow, broken harmony mirroring the detective's exact inflection. 
 
@@ -80,7 +80,7 @@ Rin took a slow, calculated step to the right.
 
 Rin bolted. 
 
-She didn't run toward the tunnel. She sprinted hard to the right, cutting deep into the center of the dormant army. Victor followed her with his light, and began the pursuit.
+She sprinted hard to the right, cutting deep into the center of the dormant army. Victor followed her with his light, and began the pursuit.
 
 "She's on the move!" Victor roared, his long black coat tailing behind him. She was unarmed, he holstered his revolver, to focus on the chase. He wasn't going to lose her again. "Harlan, cut her off!"
 

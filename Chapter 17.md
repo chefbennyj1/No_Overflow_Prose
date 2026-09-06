@@ -10,7 +10,7 @@ Iris swallowed hard, forcing herself to get to the point. "If you're looking for
 
 Before Iris could answer, a massive, hollow thud reverberated through the concrete under their feet. 
 
-Instantly, the bright corporate lighting died. The true scale of the atrium became dauntingly clear. The massive shafts of morning sunlight seemed to swallow the space, angling down and spreading out  over the floor. 
+Instantly, the bright corporate lighting died. The true scale of the atrium became dauntingly clear. The shafts of morning sunlight seemed to swallow the space, angling down and spreading out  over the floor. 
 
 A second later, the backup relays clicked. Battery-powered emergency strips flickered to life along the edges of the walls, their weak yellow light instantly washed out by the blinding sunlight cutting across the room. 
 

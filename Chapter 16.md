@@ -32,6 +32,6 @@ The synthetic turned its head to look at Rin and Harper.
 
 "Jesus, fu—" Rin's words cut short, a massive, hollow thud reverberated through the concrete under their feet. Somewhere deep in the sub-levels, a transformer blew. 
 
-The overhead floodlights died. The massive hangar was plunged into pitch-black. 
+The overhead floodlights died. The hangar was plunged into pitch-black. 
 
 The only light in the room came from the piercing beams of Vigil's eyes. As she looked around the dark hangar, the harsh light caught the hundreds of dormant bodies, casting long, stretching shadows against the walls that made the entire sleeping army look as if it were writhing in the dark.  The color in its eyes softened, shrinking the shadows in front of them.
