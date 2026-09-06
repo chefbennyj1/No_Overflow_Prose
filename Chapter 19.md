@@ -30,7 +30,7 @@ Harper glared at her, unimpressed. "Yeah. And?"
 
 Rin gestured toward the flashlights with her head. "There were these two cops that showed up."
 
-Harper's eyes widened, the light catching a sudden glossiness that wasn't there before. She threw Vigil's synthetic arm over her shoulder to help move it. Bracing for dead weight, it was shockingly light. Beneath the vinyl skin, there was no dense bone mass or fluid—hollow carbon-fiber framing. 
+Harper's eyes widened, the light catching a sudden glossiness that wasn't there before. She threw Vigil's synthetic arm over her shoulder to help move it. Bracing for dead weight, it was shockingly light. Beneath the vinyl skin, there was no dense bone mass, only carbon-fiber framing. 
 
 "Okay, okay, listen," Harper whispered frantically, helping Rin drag the wounded Vigil through the maze of plastic-draped bodies. "If we hit the auxiliary lights, we can blind them for two seconds, maybe rush the tunnel—"
 
@@ -122,7 +122,7 @@ The cold steel of the handcuffs ratcheted tight around Rin's wrists, biting into
 
 The detective pushed a firm hand into her shoulder, forcing her down to her knees on the hard concrete floor of the hangar. Breathing heavily, and keeping their weapons raised,  they secured the perimeter around her. 
 
-Rin kept her head down, her dark hime-cut bangs falling over her eyes. But out of the corner of her eye, she looked back through the uniform rows of the synthetic army. 
+Rin kept her head down, her dark hime-cut bangs falling over her eyes. She glanced to her side, looked back through the uniform rows of the synthetic army. 
 
 Deep in the shadows, unnoticed by the detectives, Rin saw the faint silhouette of Harper. She was kneeling in the dark, clutching Vigil tightly, watching Rin take the fall. 
 
