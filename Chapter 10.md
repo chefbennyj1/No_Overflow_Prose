@@ -27,7 +27,7 @@ He went to tap the cigarette again and stopped. Iris's demeanor. The tapping of 
 
 *She knows,* Blackwell realized. She had come looking for answers.
 
-He opened his eyes. The thud of his pulse slowed to a calm, steady rhythm.
+He opened his eyes. His pulse slowed to a calm, steady rhythm.
 
 He walked out of the office and down the metal stairs, his footsteps ringing out across the lab floor. 
 
