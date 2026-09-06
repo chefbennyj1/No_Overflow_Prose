@@ -104,7 +104,7 @@ It was a synthetic pushed towards him, its dormant equilibrium subroutines fired
 
 Victor braced himself, grabbing the lunging figure by the shoulders and shoving it hard to the side. The machine's gyroscopes whined, abruptly stabilizing its posture behind him as he pushed past it. 
 
-Before he could raise his light, another plastic-draped figure stumbled out of the dark. He caught the hollow carbon frame, wrestling its mechanical momentum aside. Then a third. The girl was violently shoving them from behind into the aisle as she ran, forcing Victor to physically fight his way through a gauntlet of staggering, lifeless synthetics. 
+Before he could raise his light, another plastic-draped figure lurched out of the dark. He caught the hollow carbon frame, wrestling its mechanical momentum aside. Then a third. The girl was violently shoving them from behind into the aisle as she ran, forcing Victor to physically fight his way through a gauntlet of staggering, lifeless synthetics. 
 
 He shoved the last one away, breaking through the barricade. 
 
