@@ -18,7 +18,7 @@ Blackwell set the portfolio back on the shelf, aligning it into it's place. He t
 
 Elena didn't look up. "Just Iris. She was here early on Tuesday before my shift."
 
-Blackwell didn't react. He pulled a crumpled package of cigarettes from his pocket and closed his eyes.  Blackwell tapped the loose cigarette against the package. Monday morning. Iris was sitting at her terminal on the mezzanine. He could hear the exact rhythm of her stylus tapping against her work station. 
+Blackwell didn't react. He found the crumpled package of cigarettes from his pocket, pulling it out, he closed his eyes. He drew a loose cigarette from the package and tapped it against the box. Monday morning. Iris was sitting at her terminal on the mezzanine. He could hear the exact rhythm of her stylus tapping against her work station. 
 
 He tapped the cigarette again. 
 
