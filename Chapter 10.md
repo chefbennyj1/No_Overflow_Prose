@@ -1,4 +1,4 @@
-Doctor Silas Blackwell stood on the mezzanine overlooking the Mnemosyne Engine, his hands clasped behind his back. The main floor of the lab was quiet, the cooling fans spinning in a steady rhythm. Below him, Elena Marlowe was seated at her terminal, dark shadows under her eyes, leaning into her palm. 
+His hands clasped behind his back, Doctor Silas Blackwell stood on the mezzanine overlooking the Mnemosyne Engine. The main floor of the lab was quiet, the cooling fans spinning in a steady rhythm. Below him, Elena Marlowe was seated at her terminal, dark shadows under her eyes, leaning into her palm. 
 
 "The alignment is holding," Elena said, her voice echoing faintly. "For now."
 
@@ -10,7 +10,7 @@ Wedged between two volumes was a black portfolio containing his original thesis 
 
 He stepped closer, pulling the portfolio from the shelf. He turned it over in his hands. The pristine matte finish bore the faint, oily smudge of a fingerprint near the edge.
 
-Someone had been in his office. 
+Someone had been in the office. 
 
 Blackwell set the portfolio back on the shelf, aligning it into it's place. He turned and walked back to the doorway, looking down at the lab floor. 
 
@@ -18,7 +18,7 @@ Blackwell set the portfolio back on the shelf, aligning it into it's place. He t
 
 Elena didn't look up. "Just Iris. She was here early on Tuesday before my shift."
 
-Blackwell didn't react. He found the crumpled package of cigarettes from his pocket. Pulling it out, he closed his eyes. He drew a loose cigarette from the package and tapped it against the box. Monday morning. Iris was sitting at her terminal on the mezzanine.The exact rhythm of her stylus against her work station registered in his memory. 
+Blackwell didn't react. He found a crumpled package of cigarettes from his pocket. Pulling it out, he closed his eyes. He drew a loose cigarette from the package and tapped it against the box. Monday morning. Iris was sitting at her terminal on the mezzanine. The exact rhythm of her stylus against her work station registered in his memory. 
 
 He tapped the cigarette again. 
 

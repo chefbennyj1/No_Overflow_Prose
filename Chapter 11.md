@@ -2,11 +2,11 @@ On any given day, the ambient temperature of the Dead Circuits was a humid, trap
 
 The dense fog that choked the upper city broke around tower, creating a strange cylinder of clear air rising  upward. 
 
-Harper tipped her head back. She couldn't see the actual top of the building from street level. Far above, the underbellies of New Veridia's pedestrian sky-bridges and suspended transit walkways crisscrossed the gap between the skyscrapers. She could even see the underside of the cantilevered corporate plaza built around the tower's midsection—a shelf of steel and concrete casting its shadow over the lower grid. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the deep blue of the early morning sky. The peaks of the surrounding skyscrapers were lost in the smog.
+Harper tipped her head back. She couldn't see the actual top of the building from street level. Far above, the underbellies of New Veridia's pedestrian sky-bridges crisscrossed between the skyscrapers. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the deep blue of the early morning sky. The peaks of the surrounding skyscrapers were lost in the smog.
 
 She stared up through the clearing. For the first time in years, she saw stars.
 
-They were faint, clinging to the predawn light and competing with the polluted glow of the city, but they were there. Small pinholes of white in the fading dark.
+They were faint, clinging to the predawn light and competing with the polluted light of the city, but they were there. Between the sky-bridges, small pinholes of white in the fading dark.
 
 "You're staring," Rin said. 
 
@@ -24,24 +24,28 @@ Harper smiled, though the anxiety didn't leave her eyes. "Always a plan."
 
 They descended the concrete steps into the Takeda-Holden Transit Terminal. 
 
-The station's interchanges fell four tiers below them, surrounded by arches of polished white stone and chrome. They rode the steep escalators past the upper commuter hubs, descending deeper into the earth until they hit sub-level four. Morning commuters, Renewal office workers, and high-end synthetics packed the platforms. The floors were black marble, extending like spilled ink across the terminal.
+The station's interchanges fell four tiers below them, surrounded by arches of polished white stone and chrome. 
 
-As they reached the first platform, the temperature plummeted further. 
 Frictionless magnetic trains surged through the tunnels, pulling the super-cooled air deep into New Veridia before settling back in. Harper watched her breath plume in the sterile overhead lighting. The dry, unnatural air crawled along her skin with a prickle of static electricity. The elite commuters didn't seem to notice, but it stiffened Harper's joints.
 
-The herd of corporate suits moved quickly across the platforms, racing to get out of Oshima as fast as possible. Some waited for trains, while others moved toward the tower's executive lifts, speeding up to the pedestrian sky-bridges hundreds of stories above them.
+Taking the escalators past the upper commuter hubs was out of the question. Neither of them carried the New Veridia IDs required to legally stand on the platform. They descended the terminals empty staircase, ignored by the commuters for its inconvenience. 
 
-They wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. Rin's boots scuffed against the marble. The wealthy commuters actively parted around them, casting disgusted glances over their hand-held devices at the two girls dirtying the transit hub.
+Each level was marked with a wall sized stenciled number, they continued until they hit sub-level four. 
 
-They both stuck out. Badly. And worse, neither of them carried the New Veridia IDs required to legally stand on the platform.
+Morning commuters, Renewal office workers, and high-end synthetics packed the platform. The floors were black marble, extending like spilled ink across the terminal.
+
+As they reached the platform, the temperature plummeted further. 
+The herd of corporate suits moved quickly, racing to get out of Oshima as fast as possible. Some waited for trains, while others moved toward the tower's executive lifts, speeding up to the pedestrian sky-bridges hundreds of stories above them.
+
+Harper and Rin wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. Rin's boots scuffed against the marble. The wealthy commuters actively parted around them, casting disgusted glances over their hand-held devices at the two girls dirtying the transit hub.
 
 Harper's eyes darted toward the far end. "Where is it?"
 
 "End of the line," Rin said, pulling her SBC from her pocket. She veered away from the tracks, cutting toward a secluded corridor of rusted green maintenance doors running along the side of the train tube. 
 
-They found it hidden in the freezing shadows. Faded white stenciling on the rusted, green steel read: **4002**. 
+They found it hidden in the freezing shadows. Faded white stenciling on the rusted, green steel door read: **4002**. 
 
-Rin didn't hesitate. A blank magnetic card dangled from the SBC by a thin ribbon cable. She swiped it through the door's reader. The lock flashed a harsh red. 
+Rin didn't hesitate. A blank magnetic card dangled from a thin ribbon cable on the SBC. She swiped it through the door's reader. The lock flashed a harsh red. 
 
 "Keep watch," Rin said. The bare circuit board in her hand flickered with raw data, running a brute-force decryption against the doors card reader. 
 
@@ -63,4 +67,4 @@ The agent closed the distance, raising the baton to strike. Harper stepped squar
 
 Rin dragged the card upward through the reader a second time. The magnetic lock disengaged with a heavy, mechanical clack. Rin shoved her shoulder against the steel door, forcing it open. She grabbed Harper by the jacket collar pulling her firmly backward into the dark as the baton swung through the empty air.
 
-The heavy door slammed shut, severing the bright lights of the transit terminal. They stood in the pitch-black, freezing shadows. A second later, a heavy fist hammered against the outside of the steel frame.
+The heavy door slammed shut, severing the bright lights of the transit terminal. They stood in the pitch-black, freezing shadows. A second later, a heavy fist hammered against the steel door for the other side.
