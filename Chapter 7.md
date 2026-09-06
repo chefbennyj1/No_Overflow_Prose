@@ -24,9 +24,9 @@ Now, with the noise gone and the air still, her mind was clear.
 
 Iris stopped tapping her stylus. She stared at her terminal, realizing she needed answers.
 
-She looked across the dark mezzanine toward Blackwell's private office. 
+She looked across the mezzanine toward Blackwell's private office. 
 
-Iris stood up. Her footsteps were silent on the metal grating as she crossed the lab. She slipped into the dark office, the air inside smelling faintly of cold cigarette smoke. 
+Iris stood up. Her footsteps were silent on the metal grating as she crossed the lab. She slipped into the office, the air inside smelling faintly of cold cigarette smoke. 
 
 ***
 
@@ -42,7 +42,7 @@ She was early. She hadn't slept well. The inability to shut down the horizon mem
 
 ***
 
-Iris looked around the dark office. Framed diplomas hung next to shelves filled with rows of thick books. No one had physical books anymore.
+Iris looked around the office. Framed diplomas hung next to shelves filled with rows of thick books. No one had physical books anymore.
 
 Iris approached the shelf, reaching out. Her fingertips brushed the textured spines. It was rare to feel the dry, fibrous friction of real paper. She stepped closer, her hip catching the edge of a glass award sitting on the desk. 
 

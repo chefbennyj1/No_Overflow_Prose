@@ -18,7 +18,7 @@ Tears welled in her eyes. But before she could look away, the darkness in front 
 
 A face emerged from the black. Then the entirety of a porcelain-white figure, with deep, mirror-like eyes. The entity hovered over Elena.
 
-Elena tried to scream, but the air was gone from her lungs. A human voice broke through the void. Somewhere far off in the darkness, she wasn't alone. But only fragmented, muffled shouts bled through the dark. A woman yelling. Then voices speaking in rapid succession.
+Elena tried to scream, but the air was gone from her lungs. A human voice broke through the void. Somewhere far off in the darkness, she wasn't alone. But only fragmented, muffled shouts bled through. A woman yelling. Then voices speaking in rapid succession.
 
 "Doctor—"
 
@@ -26,7 +26,7 @@ Elena tried to scream, but the air was gone from her lungs. A human voice broke 
 
 "Losing her—"
 
-It was all she could understand before the rhythmic beeping began to slow, stretching out, until it finally faded away entirely. The voices vanished, leaving her alone once again in the quiet, empty dark. Her breath steadied, and the phantom pain in her chest finally subsided.
+It was all she could understand before the rhythmic beeping began to slow, stretching out, until it finally faded away entirely. The voices vanished, leaving her alone once again in the quiet, emptiness. Her breath steadied, and the phantom pain in her chest finally subsided.
 
 *Beep.* 
 
