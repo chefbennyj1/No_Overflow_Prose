@@ -2,7 +2,7 @@ The dark of the observation deck was suffocating. Bronze holographic circuit tra
 
 Before Elena could move, the lab's overhead intercom crackled to life. Static cut through, followed by Silas Blackwell's voice. Stripped of its usual arrogance. Breathless, frantic, he was speaking into a microphone from somewhere deep in the stairwell. 
 
-"Elena! It wasn't supposed to break through the horizon boundary! It was supposed to be contained!" His voice echoed through the lab. "Run, Elena! Run!"
+"Elena! It wasn't supposed to break through the horizon boundary! It was supposed to be contained!" His voice echoed through the lab. "Run!"
 
 Elena was already backing away, her eyes locked on the porcelain-white figure in front of her. She edged toward the red manual lockdown lever on the far wall. She would be trapped with the entity, but it couldn't be allowed to leave. 
 
