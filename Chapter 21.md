@@ -32,4 +32,4 @@ Victor leaned in closer. He shot a subtle glance toward the security camera in t
 
 Rin gritted her teeth. She turned her head, refusing to back away, and stared directly into the icy amber of his eyes. 
 
-"If you knew anything, Detective Graves, you would care what I found." She paused, Victor's gaze shift away. She could see it in his eyes, he was in deep thought. "But you already know there's something big. Don't you? You saw the schematic in the office tower on the exact same night I did." Rin leaned forward against the cuffs. "You just don't understand what you saw."
+"If you knew anything, Detective Graves, you would care what I found." She paused, Victor's gaze shift away. She could see it in his eyes, he was in deep thought. "But you already know there's something big. Don't you. You saw the schematic in the office tower on the exact same night I did." Rin leaned forward against the cuffs. "You just don't understand what you saw."
