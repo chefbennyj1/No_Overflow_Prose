@@ -86,6 +86,8 @@ She sprinted hard to the right, cutting deep into the center of the dormant army
 
 Victor chased the girl as she wove blindly through the maze of plastic-draped bodies, her boots pounding against the concrete.
 
+She slammed into the dormant synthetics as she slipped around each corner. The bodies buckled momentarily, before their internal gyroscopes and accelerometers pulled their lifeless bodies, unnaturally back into their idle hunched position. 
+
 Suddenly, a second flashlight beam cut across their path. Harlan stepped out from the line of synthetics directly in front of her. 
 
 The girl didn't have time to stop. She slammed hard into Harlan's chest. The impact knocked her stumbling backward onto the concrete. 
