@@ -8,17 +8,17 @@ If she listened hard enough, Elena Marlowe could isolate it from the emptiness t
 
 *Beep.* 
 
-Where she was standing? If she was standing at all. The space around her was—nothingness. "Hello?" she called out. Her voice bounced off the dark, the effort sending a searing phantom pain ripping through her chest.
+Where was she standing? If she was standing at all. The space around her was—nothingness. "Hello?" she called out. Her voice bounced off the dark, the effort sending a searing phantom pain ripping through her chest.
 
 The steady beeping sound suddenly accelerated, matching the frantic pulse she felt running through her veins.  Sweat broke across her brow.
 
 Elena felt her weight shift forward, then back. She lifted her hand to steady herself, but there was nothing to hold onto. Then she saw it. Her hand. Her wrist was a biting, necrotic black, the bone shattered. 
 
-Tears welled in her eyes. But before she could look away, the darkness in front of her rippled. A single frame of reality dropped. 
+Tears welled in her eyes. But before she could look away, the darkness in front of her swelled. A single frame of reality dropped. 
 
-A face emerged from the pitch-black. Then the entierty of a porcelain-white figure, with deep, mirror-like eyes. The entity hovered over Elena.
+A face emerged from the black. Then the entirety of a porcelain-white figure, with deep, mirror-like eyes. The entity hovered over Elena.
 
-Elena tried to scream, but the air was gone from her lungs. A human voice broke through the void. Somewhere far off in the darkness, she wasn't alone. But only fragmented, muffled shouts bled through the dark. A woman yelling. Then voices speaking in rapid, chaotic succession.
+Elena tried to scream, but the air was gone from her lungs. A human voice broke through the void. Somewhere far off in the darkness, she wasn't alone. But only fragmented, muffled shouts bled through the dark. A woman yelling. Then voices speaking in rapid succession.
 
 "Doctor—"
 
@@ -34,6 +34,6 @@ The steady, echo, sounded miles away.
 
 *Beep.* 
 
-Elena  listened hard.
+Elena listened hard.
 
 *Beep.* 
