@@ -88,7 +88,27 @@ Victor chased the girl as she wove blindly through the maze of plastic-draped bo
 
 She slammed into the dormant synthetics as she slipped around each corner. The bodies buckled momentarily, before their internal gyroscopes and accelerometers pulled their lifeless bodies, unnaturally back into their idle hunched position. 
 
-Suddenly, a second flashlight beam cut across their path. Harlan stepped out from the line of synthetics directly in front of her. 
+Victors flashlight swayed violently across the rows of synthetic bodies. The stretching shadows acting like hundreds of figures sprinting in different directions. It made the zigzag of the chase near impossible. His breathing was deep as he tried to keep up with the girl.
+
+He stopped. Heavy breaths of cold air stinging deep in his lungs. "Shit!" 
+
+Victor raised his flashlight holding the beam steady, freezing the shifting shadows, and surveilled the area. 
+
+There, he saw it. Not the girl, but the buckling of random synthetics as they swayed their posture back to center. 
+
+He was off.
+
+He turned the aisle, his beam cutting through the dark. Suddenly, a figure stumbled out of the shadows, lunging directly at him. 
+
+The girl had shoved one of the dormant synthetics from behind. As the machine fell forward, its internal gyroscopes fired. The lifeless legs mechanically cycled, stepping forward to catch its balance. In the strobe of the flashlight, it looked exactly like a living person charging him. 
+
+Victor braced himself, grabbing the lunging figure by the shoulders and shoving it hard to the side. The machine's gyroscopes whined, abruptly stabilizing its posture in the dark behind him as he pushed past it. 
+
+Before he could raise his light, another plastic-draped figure stumbled out of the dark. He caught the hollow carbon frame, wrestling its mechanical momentum aside. Then a third. The girl was violently shoving them into the aisle as she ran, forcing Victor to physically fight his way through a gauntlet of staggering, lifeless mannequins. 
+
+He shoved the last one away, breaking through the barricade. 
+
+Suddenly, a second flashlight beam cut across their path. Harlan stepped out from the line of synthetics directly in front of her.
 
 The girl didn't have time to stop. She slammed hard into Harlan's chest. The impact knocked her stumbling backward onto the concrete. 
 
