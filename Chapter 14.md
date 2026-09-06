@@ -11,7 +11,7 @@ Harper eyed the industrial lock, then looked down at the crude circuitry in Rin'
 
 "Just—," Rin raised her hand towards Harper, "give me a minute. " 
 
-Before the plastic even touched the slot, a deep, concussive *clack* rang through the antechamber. The red indicator on the lock snapped to green. 
+Before the plastic even touched the slot, a deep, concussive *clack* rang through the antechamber. The red indicator on the lock snapped to green, indicating it had unlocked.. 
 
 The blast door groaned on its tracks, sliding open on its own. 
 
