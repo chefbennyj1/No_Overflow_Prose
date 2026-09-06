@@ -1,6 +1,6 @@
 The darkness of the service corridor was illuminated by strips of yellow emergency lights running through the middle of the corridor walls.
 
-The heavy, counter-weighted vault doors of Deep Storage unlocked with the loud movement of metallic rotary gears. They opened with the grind and squeal of their heavy iron hinges.
+The counter-weighted vault doors of Deep Storage unlocked with the loud movement of metallic rotary gears. They opened with the grind and squeal of their heavy iron hinges.
 
 Victor raised his revolver, and clicked the button on his tactical flashlight, slicing a beam of light through the silent room.
 
@@ -8,7 +8,7 @@ He stopped just inside. The scale of the room was a strategic nightmare.  Plasti
 
 Harlan was chambering a round in his gun. He raised it and clicked on his own flashlight. His eyes met Victors. They both nodded, as they slowly sidestepped into the vaulted hangar.
 
-Victor's eyes scanned the perimeter walls. At the far end of the grid, his beam caught the edge of an emergency service tunnel, its heavy door propped half open.
+Victor's eyes scanned the perimeter walls. At the far end of the grid, his beam caught the edge of an emergency service tunnel, its door propped half open.
 
 Victor signaled to Harlan with a quick upward nod. "Over there," he whispered. "Lock it down."
 
@@ -34,7 +34,7 @@ Harper's eyes widened, the light catching a sudden glossiness that wasn't there 
 
 "Okay, okay, listen," Harper whispered frantically, helping Rin drag the wounded Vigil through the maze of plastic-draped bodies. "If we hit the auxiliary lights, we can blind them for two seconds, maybe rush the tunnel—"
 
-"—rush the tunnel," Vigil's broken whisper reflecting back at her. The words fell from the synthetic's lips at the exact same millisecond Harper spoke them. Not an echo. She was reciting a timeline.
+"—rush the tunnel," Vigil's broken whisper reflecting back at her. The words fell from the synthetic's lips at the exact same moment Harper spoke them. Not an echo. She was reciting a timeline.
 
 Harper's head spun toward the synthetic, "Hey if you know something—now's the time." Her voice a little more than a whisper.
 
@@ -68,7 +68,7 @@ But as the harsh light hit her face, her eyes didn't squint. They were sharp, fo
 
 *Null.* 
 
-Victor didn't lower his heavy revolver. He kept the sight trained directly on her chest. "Harlan!" Victor shouted, his voice echoing in the space. "On me! I got her!"
+Victor didn't lower his revolver. He kept the sight trained directly on her chest. "Harlan!" Victor shouted, his voice echoing in the space. "On me! I got her!"
 
 In the harsh glare of the flashlight, Rin's eyes darted to the side, looking deep into the maze of the hangar. 
 
@@ -86,11 +86,11 @@ She sprinted hard to the right, cutting deep into the center of the dormant army
 
 Victor chased the girl as she wove blindly through the maze of plastic-draped bodies, her boots pounding against the concrete.
 
-She slammed into the dormant synthetics as she slipped around each corner. The bodies buckled momentarily, before their internal gyroscopes and accelerometers pulled their lifeless bodies, unnaturally back into their idle hunched position. 
+She slammed into the dormant synthetics as she slipped around each corner. The bodies buckled momentarily before their internal gyroscopes and accelerometers pulled their lifeless bodies unnaturally back into their idle hunched position. 
 
-Victors flashlight swayed violently across the rows of synthetic bodies. The stretching shadows acting like hundreds of figures sprinting in different directions. It made the zigzag of the chase near impossible. His breathing was deep as he tried to keep up with the girl.
+Victor's flashlight swayed violently across the rows of synthetic bodies. The stretching shadows acted like hundreds of figures sprinting in different directions. It made the zigzag of the chase near impossible, as he tried to keep up with the girl.
 
-He stopped. Heavy breaths of cold air stinging deep in his lungs. "Shit!" 
+He stopped. Deep breaths of cold air stung deep in his lungs. "Shit!" 
 
 Victor raised his flashlight holding the beam steady, freezing the shifting shadows, and surveilled the area. 
 
@@ -100,11 +100,11 @@ He was off.
 
 He turned the aisle, his beam cutting through the dark. Suddenly, a figure stumbled out of the shadows, lunging directly at him. 
 
-The girl had shoved one of the dormant synthetics from behind. As the machine fell forward, its internal gyroscopes fired. The lifeless legs mechanically cycled, stepping forward to catch its balance. In the strobe of the flashlight, it looked exactly like a living person charging him. 
+It was a synthetic pushed towards him, its dormant equilibrium subroutines fired as the lifeless legs mechanically cycled, stepping forward to catch its balance. In the strobe of the flashlight, it looked exactly like a living person charging him. 
 
-Victor braced himself, grabbing the lunging figure by the shoulders and shoving it hard to the side. The machine's gyroscopes whined, abruptly stabilizing its posture in the dark behind him as he pushed past it. 
+Victor braced himself, grabbing the lunging figure by the shoulders and shoving it hard to the side. The machine's gyroscopes whined, abruptly stabilizing its posture behind him as he pushed past it. 
 
-Before he could raise his light, another plastic-draped figure stumbled out of the dark. He caught the hollow carbon frame, wrestling its mechanical momentum aside. Then a third. The girl was violently shoving them into the aisle as she ran, forcing Victor to physically fight his way through a gauntlet of staggering, lifeless mannequins. 
+Before he could raise his light, another plastic-draped figure stumbled out of the dark. He caught the hollow carbon frame, wrestling its mechanical momentum aside. Then a third. The girl was violently shoving them from behind into the aisle as she ran, forcing Victor to physically fight his way through a gauntlet of staggering, lifeless synthetics. 
 
 He shoved the last one away, breaking through the barricade. 
 
@@ -114,13 +114,13 @@ The girl didn't have time to stop. She slammed hard into Harlan's chest. The imp
 
 Victor closed in from behind, trapping her in the intersection of their blinding lights. 
 
-She was breathing heavily on the floor, as she slowly raised her hands in the air, looking up and out of the corner of her eye's at Victor.
+She was breathing heavily on the floor, as she slowly raised her hands in the air, looking up and out of the corner of her eyes at Victor.
 
 ***
 
 The cold steel of the handcuffs ratcheted tight around Rin's wrists, biting into her skin. 
 
-The detective pushed a heavy hand into her shoulder, forcing her down to her knees on the hard concrete floor of the hangar. Breathing heavily, and keeping their weapons raised,  they secured the perimeter around her. 
+The detective pushed a firm hand into her shoulder, forcing her down to her knees on the hard concrete floor of the hangar. Breathing heavily, and keeping their weapons raised,  they secured the perimeter around her. 
 
 Rin kept her head down, her dark hime-cut bangs falling over her eyes. But out of the corner of her eye, she looked back through the uniform rows of the synthetic army. 
 
