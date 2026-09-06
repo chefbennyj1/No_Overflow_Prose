@@ -12,7 +12,7 @@ Where was she standing? If she was standing at all. The space around her was—n
 
 The steady beeping sound suddenly accelerated, matching the frantic pulse she felt running through her veins.  Sweat broke across her brow.
 
-Elena felt her weight shift forward, then back. She lifted her hand to steady herself, but there was nothing to hold onto. Then she saw it. Her hand. Her wrist was a biting, necrotic black, the bone shattered. 
+Elena felt her weight shift forward, then back. She lifted her hand to steady herself, but there was nothing to hold onto. Then she saw it. Her hand. Her wrist was a biting decay of shattered bone. 
 
 Tears welled in her eyes. But before she could look away, the darkness in front of her swelled. A single frame of reality dropped. 
 
