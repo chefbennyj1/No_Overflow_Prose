@@ -88,6 +88,7 @@ Victor chased the girl as she wove blindly through the maze of plastic-draped bo
 
 She slammed into the dormant synthetics as she slipped around each corner. The bodies buckled momentarily before their internal gyroscopes and accelerometers pulled their lifeless bodies unnaturally back into their idle hunched position. 
 
+
 Victor's flashlight swayed violently across the rows of synthetic bodies. The stretching shadows acted like hundreds of figures sprinting in different directions. It made the zigzag of the chase near impossible, as he tried to keep up with the girl.
 
 He stopped. Deep breaths of cold air stung deep in his lungs. "Shit!" 
@@ -100,7 +101,7 @@ He was off.
 
 He turned the aisle, his beam cutting through the dark. Suddenly, a figure stumbled out of the shadows, lunging directly at him. 
 
-It was a synthetic pushed towards him, its dormant equilibrium subroutines fired as the lifeless legs mechanically cycled, stepping forward to catch its balance. In the strobe of the flashlight, it looked exactly like a living person charging him. 
+A synthetic. Pushed towards him. Its dormant equilibrium subroutines fired as the lifeless legs mechanically cycled, stepping forward to catch its balance. In the strobe of the flashlight, it looked exactly like a living person charging him. 
 
 Victor braced himself, grabbing the lunging figure by the shoulders and shoving it hard to the side. The machine's gyroscopes whined, abruptly stabilizing its posture behind him as he pushed past it. 
 
