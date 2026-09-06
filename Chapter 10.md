@@ -18,14 +18,14 @@ Blackwell set the portfolio back on the shelf, aligning it into it's place. He t
 
 Elena didn't look up. "Just Iris. She was here early on Tuesday before my shift."
 
-Blackwell didn't react. He found the crumpled package of cigarettes from his pocket, pulling it out, he closed his eyes. He drew a loose cigarette from the package and tapped it against the box. Monday morning. Iris was sitting at her terminal on the mezzanine. He could hear the exact rhythm of her stylus tapping against her work station. 
+Blackwell didn't react. He found the crumpled package of cigarettes from his pocket. Pulling it out, he closed his eyes. He drew a loose cigarette from the package and tapped it against the box. Monday morning. Iris was sitting at her terminal on the mezzanine, the exact rhythm of her stylus tapping against her work station registered in his memory. 
 
 He tapped the cigarette again. 
 
 The exact moment the shadow process had appeared in the readout, the synthetics scrubbed the log.  At the time he was focused on the logs, but Blackwell saw everything in the lab. 
 He went to tap the cigarette again and stopped. Iris's demeanor. The tapping of her stylus had stopped. There was a subtle stagger in her breath. An awkward shift in her eyes as she looked away. Iris had seen the synthetics as they scrubbed the logs. 
 
-*She knows,* Blackwell realized. She had come looking for answers.
+*She knows.* Blackwell realized she had come looking for answers.
 
 His eyes opened, pulse slowed to a calm, steady rhythm, matching his stride. His footsteps rang out across the lab as he walked out of the office and down the metal stairs.
 
