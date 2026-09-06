@@ -8,7 +8,7 @@ Iris swallowed hard, forcing herself to get to the point. "If you're looking for
 
 "What does that mean?" the other detective asked, adjusting his suit. 
 
-Before Iris could answer, a massive, hollow thud reverberated through the concrete under their feet. 
+Before Iris could answer, a dull, hollow thud reverberated through the concrete under their feet. 
 
 Instantly, the bright corporate lighting died. The true scale of the atrium became dauntingly clear. The shafts of morning sunlight seemed to swallow the space, angling down and spreading out  over the floor. 
 

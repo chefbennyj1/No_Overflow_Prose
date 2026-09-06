@@ -30,7 +30,7 @@ The synthetic turned its head to look at Rin and Harper.
 
 "I have found you in this moment, in this time." As the synthetic spoke, it fell to one knee, its voice a broken harmony, randomly fracturing between two distinct tones.
 
-"Jesus, fu—" Rin's words cut short, a massive, hollow thud reverberated through the concrete under their feet. Somewhere deep in the sub-levels, a transformer blew. 
+"Jesus, fu—" Rin's words cut short, a dull, hollow thud reverberated through the concrete under their feet. Somewhere deep in the sub-levels, a transformer blew. 
 
 The overhead floodlights died. The hangar was plunged into pitch-black. 
 

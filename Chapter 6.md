@@ -28,7 +28,7 @@ Harlan shifted in his seat, his posture relaxing. "Well, there's our answer. Tak
 
 A second later, Harlan tensed.
 
-Victor slammed his fist against the desk, the heavy thud cutting through the noise of the room. "No. Null is mine. This is how we get the Filament. Whatever this *Mnemo—thing* is, Null stole the keys."
+Victor slammed his fist against the desk, the sound cutting through the noise of the room. "No. Null is mine. This is how we get the Filament. Whatever this *Mnemo—thing* is, Null stole the keys."
 
 The bullpen fell silent at the outburst. Victor ignored the stares, letting his temper cool as his focus narrowed. 
 
