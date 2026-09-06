@@ -1,6 +1,6 @@
 "Four weeks, Rin." Detective Victor Graves sounded exhausted. 
 
-The orange, one-piece county jumpsuit Rin wore was a size too big. It hung loose off her shoulders, exposing the white cotton tank top underneath. A serial number was stenciled across the breast in block lettering: **D.O.C. 398**. 
+The orange, one-piece correctional jumpsuit Rin wore was a size too big. It hung loose off her shoulders, exposing the white cotton tank top underneath. A serial number was stenciled across the breast in block lettering: **D.O.C. 398**. 
 
 "How's the food?" Victor asked, a sly, humorless grin crossing his face.
 
@@ -10,7 +10,7 @@ A security camera tracked their interaction from the upper corner of the ceiling
 
 Victor dropped a digital manila folder on the table. He pinned it under his index finger and leaned forward, staring down at her. "That file keeps getting bigger." 
 
-Rin didn't speak. She knew better than to open her mouth. She just kept her head down, glaring up at him through her bangs.
+Rin didn't speak. She knew better than to open her mouth. She kept her head down, glaring up at him through her bangs.
 
 "Let's go over it again," he said, pushing away from the table to pace the small room. It was the exact same set of questions he had been asking for a month. "Just tell me about the Filament, Rin. Where do you meet her? How do you meet her?"  
 
@@ -24,7 +24,7 @@ Victor stopped pacing and looked directly at her. His expression hardened. Rin c
 
 Rin had finally had enough. The silence broke. "A division?" she laughed, a dry, cynical sound. "What? A division of one?"
 
-Victor's posture instantly shifted. He closed the distance, leaning over the table until she could feel his breath against her cheek. His voice was absolute. "Clever. Funny. Do you want to know why you're still sitting here, kid?" He didn't wait for her to answer. "Renewal and the Company don't know you're in my custody. They don't know we caught their little security leak." 
+Victor's posture instantly shifted. He closed the distance, leaning over the table until she could feel his breath against her cheek. His voice was absolute. "Clever. Funny. Do you want to know why you're still sitting here, kid?" He didn't wait for her to answer. "Renewal and the Company don't know you're in my custody. They don't know we caught their little security issue." 
 
 Rin blinked her eyes, turned her head and  looked up at him. For the first time in a month, the reality clicked into place. It answered the single question she had been asking herself repeatedly in her cell: *Why hadn't Renewal come to take care of her?* 
 
@@ -32,4 +32,4 @@ Victor leaned in closer. He shot a subtle glance toward the security camera in t
 
 Rin gritted her teeth. She turned her head, refusing to back away, and stared directly into the icy amber of his eyes. 
 
-"If you knew anything, Detective Graves, you would care what I found." She paused, Victor's gaze shift away. She could see it in his eyes, he was in deep thought. "But you already know there's something big. Don't you. You saw the schematic in the office tower on the exact same night I did." Rin leaned forward against the cuffs. "You just don't understand what you saw."
+"If you knew anything, Detective Graves, you would care what I found." She paused. Victor's gaze shift away. She could see it in his eyes, he was in deep thought. "But you already know there's something big. Don't you. You saw the schematic in the office tower on the exact same night I did." Rin leaned forward against the cuffs. "You just don't understand what you saw."
