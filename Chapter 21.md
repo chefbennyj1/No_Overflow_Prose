@@ -40,8 +40,8 @@ He leaned in closer, dropping his voice to a quiet, commanding tone.
 
 "Why did you take the job, Rin?" he asked, pinning her with his colorless eyes. "Did you steal that data because you wanted to help the Filament burn this city to the ground... or did you just do it because you were desperate to buy your way out of the slums?"
 
-Rin gritted her teeth. She turned her head, refusing to back away, and stared directly into the icy amber of his eyes.
+Rin gritted her teeth. She turned her head, refusing to back away, and stared directly into the colorless of his eyes.
 
-"If you knew anything, Detective Graves, you would care what I found." She paused, letting the silence stretch. Victor's gaze flickered. She could see he was in deep thought, it was written in his eyes. "Huh—But you already know what it is. Don't you. You saw the schematic in the office tower on the exact same night I did." Rin leaned forward against the cuffs. "You just don't understand what you were looking at."
+"If you knew anything, Detective Graves, you would care what I found." She paused, letting the silence stretch. Victor's gaze flickered. She could see he was in deep thought. It was written in his eyes. "Huh—But you already know what it is. Don't you. You saw the schematic in the office tower on the exact same night I did." Rin leaned forward against the cuffs. "You just don't understand what you were looking at."
 
 "The same night?" Victor paused. "Got ya."
