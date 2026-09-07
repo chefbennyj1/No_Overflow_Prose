@@ -9,11 +9,11 @@ The corridor was otherwise silent. Rin had done her research; she had found the 
 
 A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam searched for its missing data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. She held the exposed motherboard against the lock's near-field communication display. The green crystal screen on the SBC flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
 
-The magnetic lock disengaged with a hollow snap. She ran her fingers across the letters engraved on the smooth plaque attached to the center of the door, *Dr. Silas S. Blackwell, Ph.D Sc.D*.
+The magnetic lock disengaged with a hollow snap. She ran her fingers the length of the letters engraved on the smooth plaque attached to the center of the door, *Dr. Silas S. Blackwell, Ph.D Sc.D*.
 
 Tucking the jagged sidelock of her black hime-cut bob behind her ear, she slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
 
-As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a wave of blue pixels flowed across the reinforced glass. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. Caustic shadows stretched across the room. She approached the terminal sitting on the desk.
+As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a wave of blue pixels flowed from one end of the  the reinforced glass to the other. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. Caustic shadows stretched throughout the room. She approached the terminal sitting on the desk.
 
 She didn't admire the view. The data streaming across the  holographic glass represented sheer excess. Rin jammed the connection wire of her single-board controller into the main console. 
 

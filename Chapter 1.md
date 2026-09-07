@@ -117,7 +117,7 @@ Blackwell returned to the pillar readouts. A displacement anomaly was a perfect 
 
 He more than understood the Boundary Paradox—the way randomness and chaos grew unpredictably inside the structured borders of the universe he built within the horizon memory. Listed in the logs, record of a shadow process, quietly expanding in the core. It was an inverted branch of the event horizon's neural matrix. 
 
-Blackwell caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus across the room to a second synthetic. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
+Blackwell caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus to a second synthetic on the far side of the room. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
 
 "I don't like the Board," Blackwell said, keeping his gaze fixed on the engine.
 
