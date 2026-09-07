@@ -1,6 +1,8 @@
 The night market of her sector was a claustrophobic canyon of commerce. Signs, half-dead and bleeding harsh pink and green into the fog. Rin hauled her boots along the broken sidewalk. The smell of boiling noodles drifted from street carts as she shoved her way through the crowd in the storm.
 
-Rin walked with her head down, the collar of her leather jacket pulled up against the night air. She had kept a low profile all day. Meeting the detective eye to eye was a mistake she kept replaying in her mind. *How long have they known my alias?* she wondered. *How long have they been chasing Null?* The work for the Filament had made her known. She wiped a streak of freezing rain from her cheek. *Always tastes like there's dirt in my mouth,* she thought, feeling the weight of the Dead Circuits again.
+Rin walked with her head down, the collar of her leather jacket pulled up against the night air. She had kept a low profile all day, avoiding the sweeping gaze of the dirty corporate security camera mounted on the street lamps. 
+
+Meeting the detective eye to eye was a mistake she kept replaying in her mind. *How long have they known my alias?* she wondered. *How long have they been chasing Null?* The work for the Filament had made her known. She wiped a streak of freezing rain from her cheek. *Always tastes like there's dirt in my mouth,* she thought, feeling the weight of the Dead Circuits again.
 
 Veering away from the main thoroughfare, Rin stepped over a pile of shattered storefront glass and ducked under the dripping, corrugated awning of a derelict electronics shop to escape the downpour. The storefront was barred, protecting a graveyard of obsolete technology. Behind the glass, a dozen vintage, bulky television sets were stacked haphazardly atop one another. They were all tuned to the same channel, flickering light on the slick street. On every screen, the identical, impassive face of a corporate anchorwoman delivered the evening broadcast. 
 
