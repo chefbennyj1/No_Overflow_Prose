@@ -12,21 +12,19 @@ Victor dropped a digital manila folder on the table. He pinned it under his inde
 
 Rin didn't speak. It was the exact same set of questions he had been asking for a month. She knew better than to open her mouth. She kept her head down, glaring up at him through her bangs.
 
-"But I know how this works, kid." Victor pushed away from the table to pace the small room. He lowered his voice, softening the edge. "You didn't plan this. You didn't know you were going to get in so deep with her. You didn't really know what she was asking you to do."
+"Let's go over it again," Victor said, pushing away from the table to pace the small room. "Corporate espionage, network subversion, infrastructure sabotage... it's a long sheet."
 
-Rin's jaw tightened. She knew exactly who he meant, but there was no way a beat detective was going to learn anything about the Madame of the Filament from her. "I don't know what you mean." She lied.
+He stopped pacing and looked directly at her, softening his voice. "But I know how this works, kid. You didn't plan this. You didn't know you were going to get in so deep with her. You didn't really know what she was asking you to do."
 
-Victor stopped pacing and looked directly at her. "Let's go over it again," he said. "Corporate espionage, network subversion, infrastructure sabotage... it's a long sheet."
+Rin's jaw tightened. She knew exactly who he meant, but there was no way a beat detective was going to learn anything about the Madame of the Filament from her. "I don't know what you mean," she lied.
 
-He was asking the wrong questions. Focused on the wrong part of his case. 
+He was asking the wrong questions. Focused on the wrong part of his case.
 
 "Four months," Victor said, shaking his head. "Four months the Tech Division chased Null. Chased you."
 
 Rin had finally had enough. The silence broke. "A division?" she laughed, a dry, cynical sound. "What? A division of one?"
 
-Victor leaned over the table. "Clever. Funny."
-
-Victor slammed his hand on the metal table. "Whatever corporate nonsense you got your self tied up in, why you were in the deep storage. —This is about the syndicate. I want the Filament." 
+Victor slammed his hand on the metal table. "Clever. Funny. Whatever corporate nonsense you got yourself tied up in, why you were in deep storage—I don't care. This is about the syndicate. I want the Filament."
 
 Rin shot back, her voice tightening. "If I give you the Madame, the Filament will kill me before you can protect me."
 
@@ -46,4 +44,4 @@ Rin gritted her teeth. She turned her head, refusing to back away, and stared di
 
 "If you knew anything, Detective Graves, you would care what I found." She paused, letting the silence stretch. Victor's gaze flickered. She could see the gears turning behind his eyes. "But you already know what it is. Don't you? You saw the schematic in the office tower on the exact same night I did." Rin leaned forward against the cuffs. "You just don't understand what you're looking at."
 
-"The same night?" Victor paused, "Got ya."
+"The same night?" Victor paused. "Got ya."
