@@ -4,9 +4,9 @@ The orange, one-piece correctional jumpsuit Rin wore was a size too big. It hung
 
 "How's the food?" Victor asked, a humorless grin crossing his face.
 
-This wasn't the first time over the last month she had found herself sitting at this stainless steel table, her wrists cuffed to the center ring. The detective was making it part of his routine to pull her out of her cell and sit her in front of him. The interrogation room's dirty white square tiling hadn't been scrubbed in years, and the harsh fluorescent bulbs overhead cast an unflattering, sickly pallor over everything. 
+This wasn't the first time over the last month she had found herself sitting at this stainless steel table, her wrists cuffed to the center ring. The detective was making it part of his routine to pull her out of her cell and sit her in front of him. 
 
-A security camera tracked their interaction from the upper corner of the ceiling. A massive, one-way mirror spanned the length of the far wall.
+The interrogation room's dirty white square tiling hadn't been scrubbed in years, and the harsh fluorescent bulbs overhead cast an unflattering, sickly pallor over everything. A security camera tracked their interaction from the upper corner of the ceiling. A massive, one-way mirror spanned the length of the far wall.
 
 Victor dropped a digital manila folder on the table. He pinned it under his index finger and leaned forward, staring down at her. "That file keeps getting bigger." 
 
@@ -32,7 +32,7 @@ Victor's posture instantly shifted. He closed the distance until she could feel 
 
 Rin blinked her eyes, turned her head and looked up at him. For the first time in a month, the reality clicked into place. It answered the single question she had been asking herself repeatedly in her cell: *Why hadn't Renewal come to take care of her?* 
 
-Victor shot a subtle glance toward the security camera in the top corner of the room. "They think you're sitting in county for auto theft. The Madame left you to rot here for a month. She already burned you. I am the only wall between you and Renewal."
+Victor shot a subtle glance toward the security camera in the top corner of the room. "They think you're sitting in a cell for auto theft. The Madame left you to rot here for a month. She already burned you. I am the only wall between you and Renewal."
 
 The reality of her total isolation settled over her. The Madame had abandoned her. Rin stopped fighting. She slumped back in the steel chair, breaking eye contact to stare at the dirty tiles on the floor. 
 
@@ -42,6 +42,6 @@ He leaned in closer, dropping his voice to a quiet, commanding tone.
 
 Rin gritted her teeth. She turned her head, refusing to back away, and stared directly into the icy amber of his eyes.
 
-"If you knew anything, Detective Graves, you would care what I found." She paused, letting the silence stretch. Victor's gaze flickered. She could see the gears turning behind his eyes. "But you already know what it is. Don't you? You saw the schematic in the office tower on the exact same night I did." Rin leaned forward against the cuffs. "You just don't understand what you're looking at."
+"If you knew anything, Detective Graves, you would care what I found." She paused, letting the silence stretch. Victor's gaze flickered. She could see he was in deep thought, it was written in his eyes. "Huh—But you already know what it is. Don't you. You saw the schematic in the office tower on the exact same night I did." Rin leaned forward against the cuffs. "You just don't understand what you were looking at."
 
 "The same night?" Victor paused. "Got ya."
