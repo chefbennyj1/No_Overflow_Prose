@@ -16,7 +16,7 @@ Rin didn't speak. She knew better than to open her mouth. She kept her head down
 
 Victor stopped pacing and looked directly at her. He lowered his voice, softening the edge. "You didn't plan this. You didn't know you were going to get in so deep with her. You didn't know what she was asking you to do. Or that she would ask so much from you."
 
-Rin's jaw tightened. She knew exactly who he meant, but there was no way a beat detective was going to learn anything about the Madame of the Filament from her. "If you knew anything, Detective, you would care what I found. You saw the schematic in the office tower—"
+Rin's jaw tightened. She knew exactly who he meant, but there was no way a beat detective was going to learn anything about the Madame of the Filament from her. "If you knew anything, Detective. You would know there is something bigger going on. You would care what I found. You saw the schematic in the office tower—"
 
 
 
