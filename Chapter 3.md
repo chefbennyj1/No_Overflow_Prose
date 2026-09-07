@@ -6,18 +6,18 @@ Meeting the detective eye to eye was a mistake she kept replaying in her mind. *
 
 Veering away from the main thoroughfare, Rin stepped through a piles of garbage and broken glass. She ducked under the dripping, corrugated awning of a derelict electronics shop to escape the downpour. The storefront was barred, protecting a graveyard of obsolete technology. Behind the glass, a dozen vintage, bulky television sets were stacked haphazardly atop one another. They were all tuned to the same channel, flickering light on the slick street. On every screen, the identical, impassive face of a corporate anchorwoman delivered the evening broadcast. 
 
-"—officials continue to investigate an early morning data breach at a Takeda-Holden office building downtown," the anchorwoman’s voice buzzed through a blown-out speaker above the door. A muffled siren wailed somewhere deep in the city blocks behind Rin as the broadcast continued. "Renewal Agents are responding to unauthorized civilian gatherings in the east end of the lower city. Curfews are in effect—"
+"—officials continue to investigate an early morning data breach at a Takeda-Holden office building downtown," the anchorwoman’s voice buzzed through a blown-out speaker above the door. A muffled siren wailed somewhere deep in the city blocks behind Rin as the broadcast continued. "Renewal Agents are sweeping parts the lower city, in order to apprehend the suspect responsible—"
 
-Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *Renewal wouldn't care about stolen electrical keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning. Degraded vehicles suspended inches above the broken pavement on magnetic cushions glided passed slowly along the wet road. They vibrated, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars. 
+Rin tuned it out, as she pulled the red drive from her pocket. She turned it over, her thumb tracing the metal casing. *Renewal wouldn't care about stolen electrical keys.* She paused. *They're looking for this.* She pocketed it and stepped back out from under the awning. Degraded vehicles suspended inches above the broken pavement on magnetic cushions glided passed slowly along the wet road. They vibrated loudly, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars. 
 
 As she hit the adjacent curb she looked up, in the darkened glass of a storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison. 
 
-The anchorwoman's face fractured into thick scanlines. Beneath the static—hidden amongst the broken signal—a new visage appeared. The shape of a face, devoid of color, composed across the stacked screens. Its eyes burned a blinding white, flaring with a blue aura. The face breached and drowned in the dissonant black and white snow, surfacing from the static only to be pulled back under.
+The anchorwoman's face fractured into thick scanlines. Beneath the static—hidden amongst the broken signal—a new visage appeared. The shape of a face, devoid of color, composed across the stacked screens. Its eyes burned a blinding white, flaring with a blue aura. The face breached and drowned in the dissonant black and white static, surfacing only to be pulled back under.
 
-Its expression was hauntingly focused— on Rin. 
+Its expression was hauntingly focused—on Rin. 
 She let out a shaky breath, and her boots scuffed the wet pavement as she turned to face the wall of screens. 
 
-But the screens were normal. The corporate anchorwoman droned on about the data breach, undisturbed. 
+But the screens were normal. The corporate anchorwoman droned on about curfews and unauthorized civilian gatherings in the east end of the lower city. 
 
 Rin stared at the televisions for a long moment. The freezing rain soaked past her jacket and the cloth of her black tank, chilling to her skin.  She ran her fingers along the casing of the red drive again, in her pocket.
 
