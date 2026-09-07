@@ -24,7 +24,7 @@ He was asking the wrong questions. Focused on the wrong part of his case.
 
 Rin had finally had enough. The silence broke. "A division?" she laughed, a dry, cynical sound. "What? A division of one?"
 
-Victor slammed his hand on the metal table. "Clever. Funny. Whatever corporate nonsense you got yourself tied up in, why you were in deep storage—I don't care. This is about the syndicate. I want the Filament."
+Victor slammed his hand on the metal table. "Clever. Funny. Whatever corporate nonsense you got yourself tied up in—why you were in deep storage—I don't care. This is about the syndicate. I want the Filament."
 
 Rin shot back, her voice tightening. "If I give you the Madame, the Filament will kill me before you can protect me."
 
@@ -34,7 +34,7 @@ Rin blinked her eyes, turned her head and looked up at him. For the first time i
 
 Victor shot a subtle glance toward the security camera in the top corner of the room. "They think you're sitting in a cell for auto theft. The Madame left you to rot here for a month. She already burned you. I am the only wall between you and Renewal."
 
-The reality of her total isolation settled over her. The Madame had abandoned her. Rin stopped fighting. She slumped back in the steel chair, breaking eye contact to stare at the dirty tiles on the floor. 
+The reality of her total isolation settled over her. The Madame had abandoned her. But, the detective was playing a dangerous game with Renewal—if they ever found out he had her. Rin stopped fighting. She slumped back in the steel chair, breaking eye contact to stare at the dirty tiles on the floor. 
 
 He leaned in closer, dropping his voice to a quiet, commanding tone. 
 
