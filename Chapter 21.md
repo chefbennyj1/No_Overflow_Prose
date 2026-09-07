@@ -18,7 +18,9 @@ Victor stopped pacing and looked directly at her. He lowered his voice, softenin
 
 Rin's jaw tightened. She knew exactly who he meant, but there was no way a beat detective was going to learn anything about the Madame of the Filament from her. "If you knew anything, Detective, you would care what I found. You saw the schematic in the office tower—"
 
-Victor slammed his hand on the metal table, the sound cracking like a gunshot in the small room. "I don't care about corporate blueprints! Stop trying to be a whistleblower. This is about the syndicate." 
+
+
+Victor slammed his hand on the metal table. "I don't care about corporate blueprints! Stop trying to be a whistleblower. This is about the syndicate." 
 
 His expression hardened. Rin could feel his colorless eyes bearing down on her. "That's my partner's favorite part." He looked up and stared through his reflection in the large mirror at the end of the room.
 
@@ -38,6 +40,6 @@ Victor shot a subtle glance toward the security camera in the top corner of the 
 
 The reality of her total isolation settled over her. The Madame really had abandoned her. Rin stopped fighting. She slumped back in the steel chair, breaking eye contact to stare at the dirty tiles on the floor. 
 
-Victor saw her yield. He leaned in closer, dropping his voice to a quiet, commanding tone. 
+He leaned in closer, dropping his voice to a quiet, commanding tone. 
 
 "Why did you take the job, Rin?" he asked, pinning her with his colorless eyes. "Did you steal that data because you wanted to help the Filament burn this city to the ground... or did you just do it because you were desperate to buy your way out of the slums?"
