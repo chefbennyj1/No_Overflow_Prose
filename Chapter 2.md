@@ -14,9 +14,9 @@ A sudden flash of blue light reflected off the hallway walls. Rin jerked backwar
 
 The magnetic lock disengaged with a hollow snap. She ran her fingers the length of the letters engraved on the smooth plaque attached to the center of the door, *Dr. Silas S. Blackwell, Ph.D Sc.D*.
 
-Tucking the jagged sidelock of her black hime-cut bob behind her ear, she slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a sleek desk in the far corner. 
+Tucking the jagged sidelock of her black hime-cut bob behind her ear, she slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a polished desk in the far corner. 
 
-As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a wave of blue pixels flowed from one end of the  the reinforced glass to the other. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. Caustic shadows stretched throughout the room. She approached the terminal sitting on the desk.
+As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a surge of blue pixels flowed from one end of the  the reinforced glass to the other. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. Waves of caustic shadows stretched throughout the room. She approached the terminal sitting on the desk.
 
 She didn't admire the view. The data streaming across the  holographic glass represented sheer excess. Rin jammed the connection wire of her single-board controller into the main console. 
 
