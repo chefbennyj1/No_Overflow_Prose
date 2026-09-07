@@ -4,13 +4,13 @@ Victor rolled his thumb along the striker of his lighter, sparking a flame again
 
 Harlan leaned forward, resting his elbows on the metal desk. "I told you to buy your jacket off the rack, not the bin," he said with a slight smirk.
 
-Victor leaned back in his chair, ignoring the joke. He crossed his arms, letting the smoke spiral across his vision. "Null's M.O." he reached forward and crushed the half-smoked cigarette into the overflowing ashtray. 
+Victor leaned back in his chair, ignoring the joke. He crossed his arms, letting the smoke spiral. "Null's M.O." he reached forward and crushed the half-smoked cigarette into the overflowing ashtray. 
 
 Leaning his chin against his hand, Victor stared at the cluttered desk. "Null usually doesn't stick around." 
 
 Harlan’s smirk vanished. "Null 'stuck around'," he paused, his expression hardening and with a serious tone, "—to shoot tear gas at my face. Remember?"
 
-Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a thick folder across the desk. "I got the terminal logs from the office Null hacked. Doctor Silas Blackwell." 
+Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a thick folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Silas Blackwell." 
 
 A sudden commotion erupted in the room as officers dragged a group of struggling demonstrators across the floor. Victor kept his focus on the papers. 
 
