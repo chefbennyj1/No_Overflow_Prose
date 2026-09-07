@@ -1,10 +1,10 @@
 "Four weeks, Rin." Detective Victor Graves sounded exhausted. 
 
-The orange, one-piece correctional jumpsuit Rin wore was a size too big. It hung loose off her shoulders, exposing the white cotton tank top underneath. A serial number was stenciled across the breast in block lettering: **D.O.C. 398**. 
+The orange, one-piece correctional jumpsuit Rin wore was a size too big. It hung loose off her shoulders, exposing the white cotton tank top underneath. A serial number was stenciled across the breast in block lettering: **D.O.C. 3 9 8**. 
 
-"How's the food?" Victor asked, a sly, humorless grin crossing his face.
+"How's the food?" Victor asked, a humorless grin crossing his face.
 
-This wasn't the first time over the last month she had found herself sitting at this stainless steel table, her wrists cuffed to the center ring. The interrogation room's dirty white square tiling hadn't been scrubbed in years, and the harsh fluorescent bulbs overhead cast an unflattering, sickly pallor over everything. 
+This wasn't the first time over the last month she had found herself sitting at this stainless steel table, her wrists cuffed to the center ring. The detective was making it part of his routine to pull her out of her cell and sit her in front of him. The interrogation room's dirty white square tiling hadn't been scrubbed in years, and the harsh fluorescent bulbs overhead cast an unflattering, sickly pallor over everything. 
 
 A security camera tracked their interaction from the upper corner of the ceiling. A massive, one-way mirror spanned the length of the far wall.
 
@@ -14,7 +14,7 @@ Rin didn't speak. She knew better than to open her mouth. She kept her head down
 
 "Let's go over it again," he said, pushing away from the table to pace the small room. It was the exact same set of questions he had been asking for a month. "Corporate espionage, network subversion, infrastructure sabotage... it's a long sheet. But I know how this works, kid."
 
-Victor stopped pacing and looked directly at her. He lowered his voice, softening the edge. "You didn't plan this. You just took a job from the Madame because you were starving in the lower city. You're just a pawn who got in over her head. You didn't know you were poking a sleeping god on the 15th floor."
+Victor stopped pacing and looked directly at her. He lowered his voice, softening the edge. "You didn't plan this. You just took a job from the Filament because you were starving in the lower city. You're just a pawn who got in over her head. You didn't know you were going to get in so deep with a mafia."
 
 Rin's jaw tightened. She knew exactly who he meant, but there was no way a beat detective was going to learn anything about the Madame of the Filament from her. "If you knew anything, Detective, you would care what I found. You saw the schematic in the office tower—"
 
