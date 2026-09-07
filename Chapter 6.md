@@ -1,4 +1,4 @@
-Victor rolled his thumb across the striker of his lighter, sparking a flame against the end of his cigarette. He exhaled, adding to the low-hanging smoke of the busy bullpen. The precinct was loud. Exhausted beat cops in wet bomber jackets and vinyl-covered eight-point caps pushed past his desk, shaking off the freezing rain. Up front, a crowd shouted over the intake counter—desperate people demanding answers for the Renewal sweeps currently tearing apart the lower grids.
+Victor rolled his thumb across the striker of his lighter, sparking a flame against the end of his cigarette. He exhaled, adding to the low-hanging smoke of the busy bullpen. The precinct was loud. Exhausted beat cops in wet bomber jackets and vinyl-covered eight-point caps pushed past his desk, shaking off the freezing rain. Up front, a crowd shouted over the intake counter—desperate people demanding answers for the Renewal sweeps in lower grids.
 
 "It doesn't fit." His words barely cut through the noise.
 
@@ -12,7 +12,7 @@ Harlan’s smirk vanished. "Null 'stuck around'," he paused, his expression hard
 
 Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a thick folder across the desk. "I got the terminal logs from the office Null hacked. Doctor Silas Blackwell." 
 
-A sudden commotion erupted across the room as two officers dragged a struggling vagrant across the floor. Victor kept his focus on the papers. 
+A sudden commotion erupted across the room as officers dragged a group struggling demonstrators across the floor. Victor kept his focus on the papers. 
 
 "It’s heavily redacted," Victor said, his eyes scanning the thick black lines. "Except for this: *Mnemosyne*." He looked across the desk, waiting to see if he had Harlan’s attention. His partner remained silent. "The log has a second name in the metadata," Victor continued. "Doctor Elena Marlowe."
 
