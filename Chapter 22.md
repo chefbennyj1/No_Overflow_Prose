@@ -65,7 +65,7 @@ Parity's voice rippled in the electrical discharge of the enclosure. "I see—Hu
 
 Elena's vision started to tunnel as Blackwell's feet raced across the lab toward her.
 
-The weightlessness was back. The crushing pain in her chest subsided, as she found herself surrounded by the deep blues again. The deep blue began to change, lighter. 
+The weightlessness was back. The crushing pain in her chest subsided, as she found herself surrounded by the deep blues again, this time they were even lighter. The deep blue began to change, lighter. 
 
 *This is not 'Nothing'. This is 'Something'.* 
 
