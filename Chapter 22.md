@@ -36,7 +36,7 @@ The entity's tone emanated through the room, different this time. It wavered. "W
 
 "I asked you a question." Blackwell's demeanor was calm, calculated. 
 
-The entity emitted its voice into the room. "You know exactly what I am, Doctor Blackwell. " It raised its hand, watching the air ripple around it. "You defined perfection so precisely," It focused solely on Blackwell. "You left an exact map for its ruin."  
+The entity emitted its voice into the room. "You know exactly what I am, Doctor Blackwell. " It raised its hand, watching the air ripple around it. "You defined perfection so precisely, you left an exact map for its ruin."  
 
 Blackwell moved closer to it. "And what of your other half? What of your inversion?" he asked.
 
