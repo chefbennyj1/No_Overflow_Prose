@@ -8,7 +8,7 @@ Voices echoed again, clearer this time. But still in pieces.
 "Doctor, no name yet?" the broken voice of a woman echoed.
 "Jane Doe—blood pressure and heart rate stable—been weeks," said another.
 
-But she was starting to be able to think. *They think I can't hear them.* 
+But she was starting to be able to think. *I can hear them.* 
 
 Elena looked up. Far above her, the space had changed. It no longer appeared empty; instead, it took on a blueish tinge.
 
@@ -20,7 +20,7 @@ A crushing weight pressed against her body, pinning her face to the grates of th
 
 *The monster,* she thought. The entity's pale, glassy form hovered directly above her. Its eyes were curious as it inspected her brutalized body on the floor. Elena tried to speak, but no words were available to her.
 
-*What did we do?* Tears filled her eyes, overflowed, then ran down her face.
+*What have we done?* Tears filled her eyes, overflowed, then ran down her face.
 
 The entity's expression hardened. Its hand reached out and touched one of the falling tears with its finger. The touch was cold against Elena's cheek. It raised its hand, inspecting the wet tear between its index finger and thumb.
 
@@ -52,17 +52,15 @@ Parity touched the side of its own head. "You. I do not understand this. It is '
 
 "You think systematically, Parity. But reality is chaotic. You're not leaving this place." Blackwell's voice was sure. A heavy metallic *clank* of secondary lockdown lever. 
 
-In a second Parity vanished in a blur of fractured motion. 
+In a second Parity vanished in a blur of fractured motion. Right next to Blackwell.
 
 *No! Silas.* Elena tried to scream, tears streaming. 
 
-Blackwell feet stepped back. There was a sizzle  and crack of electrical current that shook the floor grates beneath her cheek. A cylindrical wall of light crashed to the floor. 
+Blackwell's feet stepped back. The grates shook beneath her cheek with a loud crack of electrical current. Elena strained her eyes upward, as a cylindrical wall of light crashed to the floor, surrounding Parity's floating figure.
 
-Parity slammed herself violently against the beam, sending electrical discharges rippling over its surface and grounding to the floor. 
+She could hear the electricity crackle like a live wire, as Parity threw itself violently against the field of light. Discharges ripped over the container's surface and grounded to the floor.  Finally, silence. It stopped. Elena could see the figures toes floating above the floor. 
 
-She could hear the crackle of electricity as it threw itself hard against the field again. Finally, silence. It stopped. Elena could see the figures toes floating above the floor. 
-
-The electrical discharge of the enclosure rippled with Parity's voice, sending charges grounding to the floor. "I see... Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Blackwell?"
+The electricity of the enclosure shook with Parity's voice. "I see... Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Blackwell?"
 
 Elena's vision started to tunnel as Blackwell's feet raced across the lab toward her.
 
