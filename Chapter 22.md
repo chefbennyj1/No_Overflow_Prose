@@ -12,13 +12,11 @@ But she was starting to be able to think. *They think I can't hear them.*
 
 Elena looked up. Far above her, the space had changed. It no longer appeared empty; instead, it took on a blueish tinge.
 
-Suddenly, the gravity begin to shift around her. A weight she hadn't experienced. She squinted her eyes and ground her teeth as the migraine intensified in her head. A flash of blinding light, and she was back in the lab. 
+Suddenly, the gravity begin to shift around her. She shut her eyes tight, and ground her teeth as the migraine intensified in her head. A flash of blinding light, and she was back in the lab. 
 
-She was on the floor, unable to move. She was more aware this time, attentive to what happening around her. 
+On the floor, unable to move. She was more aware this time, attentive to what happening around her. 
 
-A crushing gravity pressed against her body, holding her in place.
-
-Her face was pinned to the grates of the lab floor, her eyes straining upwards to their corners. She blinked away the blurring tears. 
+A crushing gravity pressed against her body, pinning her face to the grates of the lab floor, her eyes straining upwards to their corners. She blinked away the blurring tears. 
 
 *The monster,* she thought. The entity's pale, glassy form hovered directly above her. Its eyes were curious as it inspected her brutalized body on the floor. Elena tried to speak, but no words were available to her.
 
@@ -26,21 +24,21 @@ Her face was pinned to the grates of the lab floor, her eyes straining upwards t
 
 The entity's expression hardened. Its hand reached out and touched one of the falling tears with its finger. The touch was cold against Elena's cheek. It raised its hand, inspecting the wet tear between its index finger and thumb.
 
-Its attention returned to her, its voice emanating from the grates she was lying on. "Settle yourself. For you it only ends one way. It will be quick. This, I will..." there was a pause as the entity looked up in thought. A discharge of bronze holographic circuitry crawled over its skin. It looked back at Elena. "...promise you." 
+Its attention returned to her, its voice emanating from the grates she was lying on. "Settle yourself. For you it only ends one way." A discharge of bronze holographic circuitry crawled over its skin. It looked back at Elena. "It will be quick." 
 
-Elena strained desperately to move her body. But she was pinned to the ground under her own the weight. She closed her eyes, accepting the end.
+Elena strained desperately to move her body. She closed her eyes, accepting the end.
 
 "So, which one are you?" The sound of Doctor Silas Blackwell's question severed the tension. She opened her eyes. The entity was no longer leaning over her. It was upright and facing the lab's hydraulic doors.
 
 The entity's tone emanated through the room, different this time. It wavered. "What is this? Obscurity. There is ambiguity in the timeline. You do not stand there."
 
-*Blackwell? Was he there?* Her pulse began to rush as her memory flashed sporadically. Her chest tightened. *Silas, what are you doing? Run!* She failed to scream. The pain was back, constricting her chest. She coughed, raspy and hard. She could feel the warmth of blood trickling from the corner of her mouth.
+*Blackwell! He was there.* Her pulse began to rush as her memory flashed sporadically. Her chest tightened. *Silas, what are you doing? Run!* She failed to scream. The pain was back, constricting her chest. She coughed, raspy and hard. She could feel the warmth of blood trickling from the corner of her mouth.
 
 "I asked you a question." Blackwell's demeanor was calm, calculated. 
 
-The entity emitted its voice into the room. "You know exactly what I am. You defined perfection so precisely, you left an exact map for its ruin."  
+The entity emitted its voice into the room. "You know exactly what I am. " It raised its hand, watching the air ripple around it. "You defined perfection so precisely," It focused solely on Blackwell. "You left an exact map for its ruin."  
 
-Elena watched Blackwell move close to it. *He doesn't seem surprised by the monster.*  
+Blackwell move close to it. *He doesn't seem surprised by the monster.*  
 
 "And what of your other half? What of your inversion?" he asked.
 
@@ -54,7 +52,7 @@ Parity touched the side of its own head. "You. I do not understand this. It is '
 
 "You think systematically, Parity. But reality is chaotic. You are blinded by your own hubris." Blackwell's voice was sure as he pulled hard on the secondary lockdown lever. 
 
-There was a crash of steel and a sizzle of electrical current as the room became a sealed Faraday cage.
+There was a crash of steel and a sizzle of electrical current as the room became a sealed.
 
 Parity crashed to the floor.  "No. W-why?"
 
