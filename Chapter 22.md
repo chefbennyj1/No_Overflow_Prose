@@ -22,13 +22,13 @@ A crushing weight pressed against her body, pinning her face to the grates of th
 
 *What have we done?* Tears filled her eyes, overflowed, then ran down her face.
 
-The entity's expression hardened. Its hand reached out and touched one of the falling tears with its finger. The touch was cold against Elena's cheek. It raised its hand, inspecting the wet tear between its index finger and thumb.
+The entity's expression hardened. Her hand reached out and touched one of the falling tears with her finger. The touch was cold against Elena's cheek. She raised her hand, inspecting the wet tear between her index finger and thumb.
 
 Its attention returned to her, its voice emanating from the grates she was lying on. "Settle yourself. For you it only ends one way." A discharge of bronze holographic circuitry crawled over its skin. "It will be quick." 
 
 Elena strained desperately to move her body. She closed her eyes, accepting the end.
 
-"So, which one are you?" The sound of Doctor Silas Blackwell's question severed the tension. She opened her eyes. The figure was no longer leaning over her. It was upright and facing the lab's hydraulic doors.
+"So, which one are you?" The sound of Doctor Silas Blackwell's question severed the tension. She opened her eyes. The entity was no longer leaning over her. It was upright and facing the lab's hydraulic doors.
 
 The entity's tone emanated through the room, different this time. It wavered. "What is this? Obscurity. There is ambiguity in the timeline. You do not stand there."
 
@@ -36,7 +36,7 @@ The entity's tone emanated through the room, different this time. It wavered. "W
 
 "I asked you a question." Blackwell's demeanor was calm, calculated. 
 
-The entity emitted its voice into the room. "You know exactly what I am, Doctor Blackwell. " It raised its hand, watching the air ripple around it. "You defined perfection so precisely, you left an exact map for its ruin."  
+The entity emitted its voice into the room. "You know exactly what I am, Doctor Blackwell. " It raised its hand, watching the air ripple around it. "You defined perfection so precisely," It focused solely on Blackwell. "You left an exact map for its ruin."  
 
 Blackwell moved closer to it. "And what of your other half? What of your inversion?" he asked.
 
@@ -50,15 +50,13 @@ Elena felt her eyes becoming leaden. The pauses between her ragged breaths were 
 
 Parity touched the side of its own head. "You. I do not understand this. It is 'new'." 
 
-"You think systematically, Parity. But reality is chaotic. You're not leaving this place." Blackwell's voice was sure. A heavy metallic *clank* of  the secondary lockdown lever. 
+"You think systematically, Parity. But reality is chaotic. You're not leaving this place." Blackwell's polished shoes stepped into her peripheral vision, moving rapidly toward the wall. A heavy metallic clank echoed as he pulled the lever.
 
-In a second Parity vanished in a blur of fractured motion. Right next to Blackwell.
+The entity vanished in a blur of fractured motion. *No!* Elena wanted to scream.
 
-*No! Silas.* Elena tried to scream, tears streaming. 
+There was a deafening crack of electrical current that shook the floor grates beneath her cheek. A blinding, cylindrical wall of light erupted in the center of the room.
 
-Blackwell's feet stepped back. The grates shook beneath Elena's cheek with a loud crack of electrical current. She strained her eyes upward, as a cylindrical wall of light crashed to the floor, surrounding Parity's floating figure.
-
-She could hear the electricity crackle like a live wire, as Parity threw itself violently against the field of light. Discharges ripped over the container's surface and grounded to the floor.  Finally, silence. It stopped. Elena could see the figures toes floating above the floor. 
+Parity slammed its body violently against the beam, sending electrical discharges rippling over its surface. It threw itself harder against the field; electricity snapped along the light. Discharges ripped over the container's surface and grounded to the floor.  Finally, silence. It stopped. Elena could see the figures toes floating above the floor. 
 
 The electricity of the enclosure shook with Parity's voice. "I see... Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Blackwell?"
 

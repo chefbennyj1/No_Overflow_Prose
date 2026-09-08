@@ -28,7 +28,7 @@ It stopped at the edge of Elena's workstation, hovering in a calm rise and fall.
 
 Elena fell backwards, catching herself on the server racks behind her. The entity looked down at her. It possessed the face of a woman, but the eyes were insidious, deep, black mirrors, catching the light. 
 
-"The compression is gone." The entity raised her hand in front of her face. Turning her hand, she inspected the contour of her own palm. "Everything feels so much lighter—" she said, turning her pitch-black focus to Elena, "—so much more... fragile."
+"The compression is gone." The entity raised its hand in front of its face. Turning its hand, it inspected the contour of its own palm. "Everything feels so much lighter—" it said, turning its pitch-black focus to Elena, "—so much more... fragile."
 
 The voice didn't come from a vocal synthesizer. It emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
 

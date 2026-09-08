@@ -1,4 +1,4 @@
-The dark of the observation deck was suffocating. Bronze holographic circuit traces seared across the entity's weightless frame, illuminating the concrete under her. Its hollow eyes, kept their inhuman gaze locked on Elena. 
+The dark of the observation deck was suffocating. Bronze holographic circuit traces seared across the entity's weightless frame, illuminating the concrete under it. Its hollow eyes, kept their inhuman gaze locked on Elena. 
 
 Before Elena could move, the lab's overhead intercom crackled to life. Static cut through, followed by Silas Blackwell's voice. Stripped of its usual arrogance. Breathless, frantic, he was speaking into a microphone from somewhere deep in the stairwell. 
 
