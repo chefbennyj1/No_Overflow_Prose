@@ -14,7 +14,7 @@ Elena looked up. Far above her, the space had changed. It no longer appeared emp
 
 The gravity began to shift around her. She shut her eyes tight, and ground her teeth as the migraine intensified in her head. A flash of blinding light, and she was back in the lab. 
 
-On the floor. More aware this time to what was happening around her. 
+On the floor. More aware this time of what was happening around her. 
 
 A crushing weight pressed against her body, pinning her face to the grates of the lab floor, her eyes straining upwards to their corners. She blinked away the blurring tears. 
 
@@ -56,7 +56,7 @@ In a second Parity was on him. *No!* It grabbed the lever, freezing the metal wi
 
 Blackwell stepped back, and looked up. Elena turned her focus to the ceiling above him. 
 
-There was a crash and sizzle of electrical current as a cylindrical field of light crashed to the floor around Parity. 
+There was a sizzle of electrical current as a cylindrical field of light crashed to the floor around Parity. 
 
 Parity immediately slammed its body violently off the beam sending electric discharging across its surface. It threw itself harder against the field, electricity snapped along its light. 
 Parity turned and looked at Elena on the floor. It slammed its body against the field again. It wasn't trying to escape, it was testing the boundaries of its containment.  It stopped and floated silently.
