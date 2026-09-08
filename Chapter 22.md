@@ -16,7 +16,7 @@ The gravity began to shift around her. She shut her eyes tight, and ground her t
 
 On the floor. More aware this time of what was happening around her. 
 
-A crushing weight pressed against her body, pinning her face to the grates of the lab floor, her eyes straining upwards to their corners. She blinked away the blurring tears. 
+A crushing weight pressed against her body, pinning her face to the grates of the lab, her eyes straining upwards to their corners. She blinked away the blurring tears. 
 
 *The monster,* she thought. The entity's pale, glassy form hovered directly above her. Its eyes were curious as it inspected her brutalized body on the floor. Elena tried to speak, but no words were available to her.
 
@@ -28,7 +28,7 @@ Its attention returned to her, its voice emanating from the grates she was lying
 
 Elena strained desperately to move her body. She closed her eyes, accepting the end.
 
-"So, which one are you?" The sound of Doctor Silas Blackwell's question severed the tension. She opened her eyes. The entity was no longer leaning over her. It was upright and facing the lab's hydraulic doors.
+"So, which one are you?" The sound of Doctor Silas Blackwell's question severed the tension. She opened her eyes. The figure was no longer leaning over her. It was upright and facing the lab's hydraulic doors.
 
 The entity's tone emanated through the room, different this time. It wavered. "What is this? Obscurity. There is ambiguity in the timeline. You do not stand there."
 
@@ -50,13 +50,13 @@ Elena felt her eyes becoming leaden. The pauses between her ragged breaths were 
 
 Parity touched the side of its own head. "You. I do not understand this. It is 'new'." 
 
-"You think systematically, Parity. But reality is chaotic. You're not leaving this place." Blackwell's voice was sure. A heavy metallic *clank* of secondary lockdown lever. 
+"You think systematically, Parity. But reality is chaotic. You're not leaving this place." Blackwell's voice was sure. A heavy metallic *clank* of  the secondary lockdown lever. 
 
 In a second Parity vanished in a blur of fractured motion. Right next to Blackwell.
 
 *No! Silas.* Elena tried to scream, tears streaming. 
 
-Blackwell's feet stepped back. The grates shook beneath her cheek with a loud crack of electrical current. Elena strained her eyes upward, as a cylindrical wall of light crashed to the floor, surrounding Parity's floating figure.
+Blackwell's feet stepped back. The grates shook beneath Elena's cheek with a loud crack of electrical current. She strained her eyes upward, as a cylindrical wall of light crashed to the floor, surrounding Parity's floating figure.
 
 She could hear the electricity crackle like a live wire, as Parity threw itself violently against the field of light. Discharges ripped over the container's surface and grounded to the floor.  Finally, silence. It stopped. Elena could see the figures toes floating above the floor. 
 
