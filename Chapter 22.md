@@ -9,7 +9,7 @@ Voices echoed again, clearer this time. But, still in pieces.
 "Jane Doe—blood pressure and heart rate stable—been weeks," said another.
 
 But, she was starting to be able to think. Think about what she felt.
-*They think I can't hear them.* 
+*I can't hear them.* 
 
 Elena looked up. Far above her, the space had changed. It no longer appeared empty. Instead it took on a blueish tinge.
 
