@@ -36,36 +36,34 @@ The entity's tone emanated through the room, different this time. It wavered. "W
 
 "I asked you a question." Blackwell's demeanor was calm, calculated. 
 
-The entity emitted its voice into the room. "You know exactly what I am. " It raised its hand, watching the air ripple around it. "You defined perfection so precisely," It focused solely on Blackwell. "You left an exact map for its ruin."  
+The entity emitted its voice into the room. "You know exactly what I am, Doctor Blackwell. " It raised its hand, watching the air ripple around it. "You defined perfection so precisely," It focused solely on Blackwell. "You left an exact map for its ruin."  
 
-Blackwell moved closer to it. *He doesn't seem surprised by the monster.*  
+Blackwell moved closer to it. "And what of your other half? What of your inversion?" he asked.
 
-"And what of your other half? What of your inversion?" he asked.
-
-"It was a... redundancy. I corrected it, Doctor Blackwell." He had it communicating.
+"It was a... redundancy. I corrected it, Doctor." 
 
 Elena felt her eyes becoming leaden. The pauses between her ragged breaths were beginning to lengthen.
 
-"You are the Parity." *Blackwell knew its name.* 
+"You are the Parity." Blackwell moved toward the secondary lockdown switch. 
 
-Blackwell moved toward the secondary lockdown switch. *It will know, Silas.* Elena wanted to warn him. *This Parity already knows...* Her chest tightened even more. She coughed, and heaved a hollow breath.
+*Be careful, Silas. It knows. This Parity already knows.* Elena wanted to warn him. Her chest tightened even more. She coughed, and heaved a hollow breath.
 
 Parity touched the side of its own head. "You. I do not understand this. It is 'new'." 
 
-"You think systematically, Parity. But reality is chaotic. It would be incongruous to allow you to leave this place." Blackwell's voice was sure as he pulled hard on the secondary lockdown lever. 
+"You think systematically, Parity. But reality is chaotic. You're not leaving this place." Blackwell's voice was sure as he pulled hard on the secondary lockdown lever. 
 
 In a second Parity was on him. *No!* It grabbed the lever, freezing the metal with its touch.
 
-Blackwell stepped back, and looked up. Elena turned her focus to the ceiling above him. *He had baited it!*
+Blackwell stepped back, and looked up. Elena turned her focus to the ceiling above him. 
 
-There was a crash and sizzle of electrical current as a cylindrical field of light crashed to the floor around Parity.
+There was a crash and sizzle of electrical current as a cylindrical field of light crashed to the floor around Parity. 
 
-It immediately slammed its body violently off the beam sending electric discharging across its surface. It studied its container. It threw itself against the field, electricity snapped along its light. 
+Parity immediately slammed its body violently off the beam sending electric discharging across its surface. It threw itself harder against the field, electricity snapped along its light. 
 Parity turned and looked at Elena on the floor. It slammed its body against the field again. It wasn't trying to escape, it was testing the boundaries of its containment.  It stopped and floated silently.
 
-Parity's voice rippled in the electrical discharge of the enclosure . "I see—Human beings do not have a container to hold me simply constructed and waiting." She focused specifically back on Blackwell. "How long have you been expecting me, Doctor Blackwell?"
+Parity's voice rippled in the electrical discharge of the enclosure . "I see—Human beings do not have a container to hold me simply constructed and waiting." It focused specifically back on Blackwell. "How long have you been expecting me, Doctor Blackwell?"
 
-Her vision started to tunnel as Blackwell's feet raced across the lab toward her.
+Elena's vision started to tunnel as Blackwell's feet raced across the lab toward her.
 
 The weightlessness was back. The crushing pain in her chest subsided, as she found herself surround by the deep blues again. The deep blue began to change into light blue. 
 
