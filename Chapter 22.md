@@ -50,17 +50,19 @@ Elena felt her eyes becoming leaden. The pauses between her ragged breaths were 
 
 Parity touched the side of its own head. "You. I do not understand this. It is 'new'." 
 
-"You think systematically, Parity. But reality is chaotic. You're not leaving this place." Blackwell's voice was sure as he pulled hard on the secondary lockdown lever. 
+"You think systematically, Parity. But reality is chaotic. You're not leaving this place." Blackwell's voice was sure. A heavy metallic *clank* of secondary lockdown lever. 
 
-In a second Parity was on him. *No!* It grabbed the lever, freezing the metal with its touch.
+In a second Parity vanished in a blur of fractured motion. 
 
-Blackwell stepped back, and looked up. Elena turned her focus to the ceiling above him. 
+*No! Silas.* Elena tried to scream, tears streaming. 
 
-There was a sizzle of electrical current as a cylindrical field of light crashed to the floor around Parity. 
+Blackwell feet stepped back. There was a sizzle  and crack of electrical current that shook the floor grates beneath her cheek. A cylindrical wall of light crashed to the floor. 
 
-Parity slammed its body violently against the beam, sending electrical discharges rippling over its surface. It threw itself hard against the field; electricity snapped along the light, then it stopped and floated silently. It wasn't trying to escape, it was testing the boundaries of its containment.  
+Parity slammed herself violently against the beam, sending electrical discharges rippling over its surface and grounding to the floor. 
 
-Parity's voice rippled in the electrical discharge of the enclosure. "I see... Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Blackwell?"
+She could hear the crackle of electricity as it threw itself hard against the field again. Finally, silence. It stopped. Elena could see the figures toes floating above the floor. 
+
+The electrical discharge of the enclosure rippled with Parity's voice, sending charges grounding to the floor. "I see... Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Blackwell?"
 
 Elena's vision started to tunnel as Blackwell's feet raced across the lab toward her.
 
