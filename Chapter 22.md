@@ -53,7 +53,7 @@ Elena felt her eyes becoming leaden. The pauses between her ragged breaths were 
 
 Parity touched the side of its own head. "You. I do not understand this. It is 'new'." 
 
-"You think systematically, Parity. But reality is chaotic. You are blinded by your own hubris, and you underestimate your experience." Blackwell's voice was sure as he pulled hard on the secondary lockdown lever. 
+"You think systematically, Parity. But reality is chaotic. You are blinded by your own hubris." Blackwell's voice was sure as he pulled hard on the secondary lockdown lever. 
 
 There was a crash of steel and a sizzle of electrical current as the room became a sealed Faraday cage.
 
