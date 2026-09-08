@@ -61,11 +61,11 @@ There was a sizzle of electrical current as a cylindrical field of light crashed
 Parity slammed its body violently against the beam, sending electrical discharges rippling over its surface. It threw itself harder against the field; electricity snapped along the light. 
 Parity turned and looked at Elena on the floor. It slammed its body against the field again. It wasn't trying to escape, it was testing the boundaries of its containment.  It stopped and floated silently.
 
-Parity's voice rippled in the electrical discharge of the enclosure. "I see—Human beings do not have a container to hold me simply constructed and waiting." It focused specifically back on Blackwell. "How long have you been expecting me, Doctor Blackwell?"
+Parity's voice rippled in the electrical discharge of the enclosure. "I see—Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Blackwell?"
 
 Elena's vision started to tunnel as Blackwell's feet raced across the lab toward her.
 
-The weightlessness was back. The crushing pain in her chest subsided, as she found herself surrounded by the deep blues again. The deep blue began to change into light blue. 
+The weightlessness was back. The crushing pain in her chest subsided, as she found herself surrounded by the deep blues again. The deep blue began to change, lighter. 
 
 *This is not 'Nothing'. This is 'Something'.* 
 
