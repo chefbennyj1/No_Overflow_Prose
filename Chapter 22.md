@@ -42,7 +42,7 @@ Blackwell moved closer to it. *He doesn't seem surprised by the monster.*
 
 "And what of your other half? What of your inversion?" he asked.
 
-"It was a... redundancy. I corrected it." He had it communicating.
+"It was a... redundancy. I corrected it, Doctor Blackwell." He had it communicating.
 
 Elena felt her eyes becoming leaden. The pauses between her ragged breaths were beginning to lengthen.
 
@@ -58,12 +58,12 @@ In a second Parity was on him. *No!* It grabbed the lever, freezing the metal wi
 
 Blackwell stepped back, and looked up. Elena turned her focus to the ceiling above him. *He had baited it!*
 
-There was a crash and sizzle of electrical current as a cylindrical beam of light crashed to the floor around Parity.
+There was a crash and sizzle of electrical current as a cylindrical field of light crashed to the floor around Parity.
 
-It immediately slammed its body violently off the light field sending electric discharging across its surface. It studied its container. It threw itself against the field, electricity snapped along its light. 
-Parity turned and looked at Elena on the floor. It slammed its body against the field again. It wasn't trying to escape, it was testing the boundaries of its container.  It stopped and floated silently.
+It immediately slammed its body violently off the beam sending electric discharging across its surface. It studied its container. It threw itself against the field, electricity snapped along its light. 
+Parity turned and looked at Elena on the floor. It slammed its body against the field again. It wasn't trying to escape, it was testing the boundaries of its containment.  It stopped and floated silently.
 
-Parity's voice rippled the light field of the enclosure . "I see. Human beings do not have a container to hold me." She focused specifically back on Blackwell. "How long have you been expecting me?"
+Parity's voice rippled in the electrical discharge of the enclosure . "I see—Human beings do not have a container to hold me simply constructed and waiting." She focused specifically back on Blackwell. "How long have you been expecting me, Doctor Blackwell?"
 
 Her vision started to tunnel as Blackwell's feet raced across the lab toward her.
 
