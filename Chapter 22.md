@@ -1,6 +1,6 @@
-Nothing. There's no gap in 'Nothing'. No continuous thought happening in between 'Something'. If Elena was confronting 'Nothing', she would perceive a seamless transition from being in the lab to whatever experience she would have next. This experience. Therefore 'This' is not 'Nothing'. If this is not 'Nothing', then she must still be alive. 
+Nothing. There's no gap in 'Nothing'. No continuous thought happening in between 'Something'. If this was 'Nothing', the thought of 'Nothing' could not exist. She would perceive a seamless transition from one experience to the next. This experience—it carried the throbbing ache of a migraine. 'This' is not 'Nothing'. If this is not 'Nothing', then she must still be alive. 
 
-Elena's disorientation had begun to subside. She still felt a throbbing headache, but she was breathing easier. She was out of place. The closest she could describe it was a type of weightlessness. Not her body. Her mind.
+Elena's disorientation had begun to subside. She felt the headache, but was breathing easier. Things were still out of place. The closest she could describe it was a type of weightlessness. Not her body. Her mind. 
 
 *How am I here?* The words sat with her. 
 

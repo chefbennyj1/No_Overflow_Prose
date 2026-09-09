@@ -1,16 +1,15 @@
-The fluorescent bulbs flickered and buzz loudly overhead. Victor Graves had been patient. Waiting for this exact moment. He had elicited a confession. But, it wasn't this confession he truly cared about. He wanted the big fish. Erin Adler was a small fish. If she wanted to stay out of prison, she was going to make a deal and finally chop the head off the Filament. 
+The single fluorescent tube overhead flickered, popping with a sharp electrical snap. Victor Graves sat still, staring across the metal table. He had been patient. He wanted the head of the Filament, and Erin Adler was the bait. If she wanted to avoid a concrete cell, she would make a deal.
 
-The lock clicked on the steel door of the interrogation room. A synthetic guard opened the door, jangling its large ring of keys to unlock the door. Harlan walked in. He was carrying two coffees. He leaned into Victors shoulder. "Did you ask her?"
+The heavy steel door unlocked with a deep, mechanical thud. A synthetic guard pushed it inward, the servos in its arms whining over the scrape of the hinges. Harlan stepped through, carrying two steaming foam cups. He set one in front of Victor, leaning close. 
 
-Victor accepted the hot coffee, but he was not impressed. "Harlan, it's not like you to entertain this type of garbage. If you humor this topic—" Victor whispered with causion.
+"Did you ask her?" Harlan kept his voice low.
 
-Harlan step up to the table and looked at Rin. "Why were you in Deep Storage at the Takeda-Holden Corporate building?"
+Victor took the coffee. The heat burned straight through the cheap cup. "Harlan, it's not like you to entertain this garbage. If you humor this—" He leaned closer, dropping his pitch to a harsh rasp. 
 
-The look on the girls face softened. "Takeda-Holden has created a singularity computer. They have trained a super intelligence, that has breached the system. "
+Harlan ignored the warning. He stepped to the edge of the table and stared directly at the girl. "Why were you in Deep Storage at the Takeda-Holden Corporate building?"
 
-Harlan's expression didn't change.
+Rin stopped fighting the cuffs. Her shoulders dropped. She tucked the jagged sidelock of her hime-cut behind her ear. "Takeda-Holden created a singularity computer," she said flatly. "They trained a super-intelligence. It breached the system."
 
-The girl shook her head. "The corporation has build a black hole in the middle of the city, that they don't have control over."
+Harlan didn't blink. 
 
-
-
+Rin shook her head. The metal chair scraped loudly against the concrete floor. "The corporation built a black hole in the middle of the city, and they don't have control over it."
