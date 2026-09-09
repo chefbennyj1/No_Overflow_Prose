@@ -1,6 +1,8 @@
-It was five in the morning. The Mnemosyne lab was empty, save for the silent, statuesque forms of the synthetics standing idle in the dark. The harsh overhead lights were still on standby. The logging screens of the pillars cast subtle hues of light above the pit. Iris sat alone at her terminal on the mezzanine, tapping her stylus against the glass. She synced the rhythm with the steady spin of the cooling fans, trying to force her racing thoughts to focus. 
+It was five in the morning. The Mnemosyne lab was empty, save for the silent, statuesque forms of the synthetics standing idle in the dark. The harsh overhead lights were still on standby. The logging screens of the pillars cast subtle hues of light above the pit. 
 
-What exactly had she seen? An inversion expanding in the space of the core's memory, growing undetected. No—not undetected. Erased. 
+Iris sat alone at her terminal on the mezzanine, tapping her stylus against the glass. She synced the rhythm with the steady spin of the cooling fans, trying to force her racing thoughts to focus. 
+
+What exactly had she seen? An inversion expanding in the space of the core's memory, growing undetected. No—not undetected. Hidden. 
 
 Why would anyone want sections of the horizon neural matrix to be so aggressively malformed? That wasn't part of the "pristine architecture" Blackwell had sold. 
 
@@ -8,11 +10,13 @@ Why would anyone want sections of the horizon neural matrix to be so aggressivel
 
 Blackwell's voice still echoed in her head, sharp enough to make her wince. 
 
+
+
 But withdrawing didn't mean she stopped seeing. 
 
 When the shadow process had appeared in the readout, her brain hadn't filtered it out. She had seen the exact moment the inversion was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
 
-Iris looked at the lifeless synths down on the main floor, in their long white laboratory coats. Their optical sensors pulsed lowly, out of rhythm against the vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
+Iris looked at the lifeless synths down on the main floor, in their long white laboratory coats. Their optical sensors pulsed  out of rhythm, lowly against the vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
 
 The synthetics weren't just executing maintenance cycles; they were active accomplices in Blackwell's lie. 
 
