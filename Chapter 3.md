@@ -27,7 +27,7 @@ A sharp bite of static snapped against her wet fingertips. She pulled her hand a
 
 Three blocks deep into the slums, an angled luxury cruiser idled in the rain, out of place. It was a low-slung wedge of glossy black panels and tinted glass that reflected the city's lights like a dark mirror. Its magnetic cushion was a flawless, silent vibration.
 
-Rin stopped where the street opened out, her hand drawn to the pistol under her jacket. The cruiser sat low on its cushion, its taillights scattering a red glow on the flooded pavement. A man stood at the curb beneath a black umbrella, wearing a long black coat over a suit. His polished loafers—a dead giveaway—were getting ruined by the grime. He was a Minder. Hired security for important people. Someone significant was in the vehicle.
+The rain had begun a downpour. Rin stopped where the street opened out, her hand drawn to the pistol under her jacket. The cruiser sat low on its cushion, its taillights scattering a red glow on the flooded pavement. A man stood at the curb beneath a black umbrella, wearing a long black coat over a suit. His polished loafers—a dead giveaway—were getting ruined by the grime. He was a Minder. Hired security for important people. Someone significant was in the vehicle.
 
 He nonchalantly watched the car, though his gaze kept shifting to the street and back. The Minder hauled on his cigarette as the headlights of a passing mag-car caught the bulge of the gun under his coat. She didn't need to look for the second one. He was across the road in the doorway of a gutted storefront, his grimacing face already watching her from under his umbrella. He gave a slow nod, signaling her to proceed, before stepping back against the storefront. 
 
