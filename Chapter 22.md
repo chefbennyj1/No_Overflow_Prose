@@ -1,8 +1,8 @@
-Nothing. There's no gap in 'Nothing'. No continuous thought happening in between 'Something'. If Elena was experiencing 'Nothing', she would perceive a seamless transition of being in the lab to whatever experience she would have next. This experience. Therefore 'This' is not 'Nothing'. If this is not 'Nothing', then she must still be alive. 
+Nothing. There's no gap in 'Nothing'. No continuous thought happening in between 'Something'. If Elena was confronting 'Nothing', she would perceive a seamless transition from being in the lab to whatever experience she would have next. This experience. Therefore 'This' is not 'Nothing'. If this is not 'Nothing', then she must still be alive. 
 
 Elena's disorientation had begun to subside. She still felt a throbbing headache, but she was breathing easier. She was out of place. The closest she could describe it was a type of weightlessness. Not her body. Her mind.
 
-*How am I here?* Her words sat with her. 
+*How am I here?* The words sat with her. 
 
 Voices echoed again, clearer this time. But still in pieces.
 "Doctor, no name yet?" the broken voice of a woman echoed.
@@ -28,7 +28,7 @@ Elena strained desperately to move her body. She closed her eyes, accepting the 
 
 "So, which one are you?" The sound of Doctor Silas Blackwell's question severed the tension. She opened her eyes. The entity was no longer leaning over her. It was upright and facing the lab's hydraulic doors.
 
-The entity's tone emanated through the room, different this time. It wavered. "What is this? Obscurity. There is ambiguity in the timeline. You do not stand there."
+The figure's tone emanated through the room, different this time. It wavered. "What is this? Obscurity. There is ambiguity in the timeline. You do not stand there."
 
 *Blackwell. He was there.* Her pulse began to rush as her memory flashed sporadically. Her chest tightened. *Silas, what are you doing? Run!* She failed to scream. The pain was back, constricting her chest. She coughed, raspy and hard. She could feel the warmth of blood trickling from the corner of her mouth.
 
