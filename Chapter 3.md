@@ -35,13 +35,9 @@ Rain beat down, flooding the street in front of her. The rear passenger window o
 
 Lifting her leather jacket above her head to shield her from the down pour, Rin crossed.
 
-A man leaned forward from the plush darkness, his broad shoulders blocking the rear-facing seat and most of the interior. His suit was sharp, hair cut short, a wrinkled face held one brown eye, the other blue.
+A man leaned forward from the plush darkness, his broad shoulders blocking the rear-facing seat and most of the interior. His suit was sharp, hair cut short, a wrinkled face held one brown eye, the other blue. "I see you made it out alive," he said, tapping an unlit cigarette against the package he drew it from. 
 
-"I see you made it out alive," the man said, tapping an unlit cigarette against the package he drew it from. He placed the cigarette between his lips. 
-
-Rin kept her expression neutral, though a cold bead of sweat broke at her hairline.
-
-She stepped up to the window. Holding her jacket with one hand over her head, she reached into the back pocket of her jeans and pulled out a generic black thumb drive. She tossed it through the open window. It landed on the plush seat. 
+Rin kept her expression neutral and stepped forward. Holding her jacket with one hand over her head, she reached into the back pocket of her jeans and pulled out a generic black thumb drive. She tossed it through the open window. It landed on the plush seat. 
 
 The man sat back in his seat. Across from him sat a skeletal woman beneath an impeccably tailored white silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go. The diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' belonged to her.  
 
