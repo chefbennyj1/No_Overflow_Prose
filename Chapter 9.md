@@ -130,7 +130,7 @@ Harper exhaled a long, shaky breath, pushing her chair back from the rig. "Erin,
 
 Rin didn't answer. She was staring down at the SBC in her hand. 
 
-The green crystal display hadn't reverted. Instead, it was scrolling wildly. Thousands of lines of compressed architecture and encrypted access keys were flooding into the tiny device's flash memory, causing the exposed motherboard to heat up against her skin. 
+The green crystal display hadn't reverted. Instead, it was scrolling wildly. Thousands of lines of compressed architecture and encrypted access keys were flooding into the tiny device's flash memory, causing the exposed motherboard to heat up in her hand. 
 
 At the very bottom of the frantic scroll, a single, static string of text anchored the data. 
 
@@ -140,11 +140,13 @@ Rin gripped the SBC. "Something that wants out."
 
 Harper stood up, grabbing a duffel bag from the floor. "You know what? It doesn't matter. If this thing can reach us through an air-gapped rig, it knows exactly where we are. We need to leave. Now."
 
-Rin didn't move. "Run where, Harper? They're tearing up the Circuits. If Takeda-Holden built a singularity, nowhere in Oshima is safe." Rin stopped. Harper looked terrified, the duffel bag hanging in her hand. 
+Rin didn't move. "Run where, Harper? They're tearing up the Circuits. If Takeda-Holden built a singularity, nowhere in Oshima is safe." 
 
-"Harper, this thing asked for our help," Rin said, her voice hardening. 
+Harper stopped, looking terrified, the duffel bag hanging in her hand. 
+
+"—this thing asked for our help," Rin said, her voice hardening. 
 "There are instructions here. " She held up the SBC.
 
 Harper stared at her. "Takeda-Holden, Rin? It's suicide."
 
-Rin reached out and pulled her soaked leather jacket off the arm of the green sofa. "So is waiting here to die."
+Rin reached out and pulled her soaked leather jacket off the arm of the green sofa. "So is waiting to die."
