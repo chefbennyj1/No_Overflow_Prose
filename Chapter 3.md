@@ -29,11 +29,11 @@ Three blocks deep into the slums, an angled luxury cruiser idled in the rain, ou
 
 Rin stopped where the street opened out, her hand drawn to the pistol under her jacket. The cruiser sat low on its cushion, its taillights scattering a red glow on the flooded pavement. A man stood at the curb beneath a black umbrella, wearing a long black coat over a suit. His polished loafers—a dead giveaway—were getting ruined by the grime. He was a Minder. Hired security for important people. Someone significant was in the vehicle.
 
-He nonchalantly watched the car, though his gaze kept shifting to the street and back. The Minder hauled on his cigarette as the headlights of a passing mag-car caught the bulge of the gun under his coat. She didn't need to look for the second one. He was across the road in the doorway of a gutted storefront, his grimacing face already watching her from under his umbrella. He gave a slow nod, signaling her to proceed, before stepping back against the storefront, out of the rain. 
+He nonchalantly watched the car, though his gaze kept shifting to the street and back. The Minder hauled on his cigarette as the headlights of a passing mag-car caught the bulge of the gun under his coat. She didn't need to look for the second one. He was across the road in the doorway of a gutted storefront, his grimacing face already watching her from under his umbrella. He gave a slow nod, signaling her to proceed, before stepping back against the storefront. 
 
 Rain beat down, flooding the street in front of her. The rear passenger window of the black cruiser glided down, venting gray smoke.
 
-Rin crossed, lifting her leather jacket above her head to shield her from the down pour.
+Lifting her leather jacket above her head to shield her from the down pour, Rin crossed.
 
 A man leaned forward from the plush darkness, his broad shoulders blocking the rear-facing seat and most of the interior. His suit was sharp, hair cut short. His wrinkled face held one brown eye, the other blue that shifted constantly—as though he'd learned not to look at anything directly.
 
