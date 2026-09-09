@@ -12,8 +12,6 @@ Blackwell's voice still echoed in her head, sharp enough to make her wince.
 
 
 
-But withdrawing didn't mean she stopped seeing. 
-
 When the shadow process had appeared in the readout, her brain hadn't filtered it out. She had seen the exact moment the inversion was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
 
 Iris looked at the lifeless synths down on the main floor, in their long white laboratory coats. Their optical sensors pulsed  out of rhythm, lowly against the vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
