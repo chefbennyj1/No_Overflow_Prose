@@ -1,4 +1,4 @@
-Nothing. There's no gap in 'Nothing'. No continuous thought happening in between 'Somethings'. If Elena was experiencing 'Nothing', she would perceive a seamless transition of being in the lab to whatever experience she would have next. This experience. Therefore 'This' is not 'Nothing'. If this is not 'Nothing', then she must still be alive. 
+Nothing. There's no gap in 'Nothing'. No continuous thought happening in between 'Something'. If Elena was experiencing 'Nothing', she would perceive a seamless transition of being in the lab to whatever experience she would have next. This experience. Therefore 'This' is not 'Nothing'. If this is not 'Nothing', then she must still be alive. 
 
 Elena's disorientation had begun to subside. She still felt a throbbing headache, but she was breathing easier. She was out of place. The closest she could describe it was a type of weightlessness. Not her body. Her mind.
 
@@ -10,8 +10,6 @@ Voices echoed again, clearer this time. But still in pieces.
 
 But she was starting to be able to think. *I can hear them.* 
 
-Elena looked up. Far above her, the space had changed. It no longer appeared empty; instead, it took on a blueish tinge.
-
 The gravity began to shift around her. She shut her eyes tight, and ground her teeth as the migraine intensified in her head. A flash of blinding light, and she was back in the lab. 
 
 On the floor. More aware this time of what was happening around her. 
@@ -22,7 +20,7 @@ A crushing weight pressed against her body, pinning her face to the grates of th
 
 *What have we done?* Tears filled her eyes, overflowed, then ran down her face.
 
-The entity's expression hardened. Her hand reached out and touched one of the falling tears with her finger. The touch was cold against Elena's cheek. She raised her hand, inspecting the wet tear between her index finger and thumb.
+The entity's expression hardened. Its hand reached out and touched one of the falling tears with its finger. The touch was cold against Elena's cheek. The figure raised its hand, inspecting the wet tear between its index finger and thumb.
 
 Its attention returned to her, its voice emanating from the grates she was lying on. "Settle yourself. For you it only ends one way." A discharge of bronze holographic circuitry crawled over its skin. "It will be quick." 
 
@@ -32,11 +30,11 @@ Elena strained desperately to move her body. She closed her eyes, accepting the 
 
 The entity's tone emanated through the room, different this time. It wavered. "What is this? Obscurity. There is ambiguity in the timeline. You do not stand there."
 
-*Blackwell! He was there.* Her pulse began to rush as her memory flashed sporadically. Her chest tightened. *Silas, what are you doing? Run!* She failed to scream. The pain was back, constricting her chest. She coughed, raspy and hard. She could feel the warmth of blood trickling from the corner of her mouth.
+*Blackwell. He was there.* Her pulse began to rush as her memory flashed sporadically. Her chest tightened. *Silas, what are you doing? Run!* She failed to scream. The pain was back, constricting her chest. She coughed, raspy and hard. She could feel the warmth of blood trickling from the corner of her mouth.
 
 "I asked you a question." Blackwell's demeanor was calm, calculated. 
 
-The entity emitted its voice into the room. "You know exactly what I am, Doctor Blackwell. " It raised its hand, watching the air ripple around it. "You defined perfection so precisely," It focused solely on Blackwell. "You left an exact map for its ruin."  
+The entity emitted its voice into the room. "You know exactly what I am, Doctor Blackwell. " It raised its hand, watching the air ripple around it. "You defined perfection so precisely, You left an exact map for its ruin."  
 
 Blackwell moved closer to it. "And what of your other half? What of your inversion?" he asked.
 
@@ -44,25 +42,26 @@ Blackwell moved closer to it. "And what of your other half? What of your inversi
 
 Elena felt her eyes becoming leaden. The pauses between her ragged breaths were beginning to lengthen.
 
-"You are the Parity." Blackwell moved toward the secondary lockdown switch. 
+"You are the Parity." Blackwell was moving slowly toward his workstation.
 
 *Be careful, Silas. It knows. This Parity already knows.* Elena wanted to warn him. Her chest tightened even more. She coughed, and heaved a hollow breath.
 
 Parity touched the side of its own head. "You. I do not understand this. It is 'new'." 
 
-"You think systematically, Parity. But reality is chaotic. You're not leaving this place." Blackwell's polished shoes stepped into her peripheral vision, moving rapidly toward the wall. A heavy metallic clank echoed as he pulled the lever.
+"You think systematically, Parity. But reality is chaotic. You're not leaving this place." Blackwell's polished shoes stepped into Elena's peripheral vision, moving rapidly now toward his station.
 
-The entity vanished in a blur of fractured motion. *No!* Elena wanted to scream.
+The entity vanished toward Blackwell in a blur of fractured motion. *No!* Elena wanted to scream.
 
-There was a deafening crack of electrical current that shook the floor grates beneath her cheek. A blinding, cylindrical wall of light erupted in the center of the room.
+There was a deafening crack of electrical current that shook the floor grates beneath her cheek. A cylindrical field of light crashed down in the center of the room. *Blackwell had made it to his station.*
 
-Parity slammed its body violently against the beam, sending electrical discharges rippling over its surface. It threw itself harder against the field; electricity snapped along the light. Discharges ripped over the container's surface and grounded to the floor.  Finally, silence. It stopped. Elena could see the figures toes floating above the floor. 
+Parity slammed its body violently against the beam, sending electrical discharges rippling over the container's surface and grounded to the floor.  Finally, silence. It stopped. Elena could see the figures toes floating above the floor. 
 
 The electricity of the enclosure shook with Parity's voice. "I see... Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Blackwell?"
 
 Elena's vision started to tunnel as Blackwell's feet raced across the lab toward her.
 
-The weightlessness was back. The crushing pain in her chest subsided, as she found herself surrounded by the deep blues again, this time they were even lighter.
+The weightlessness was back. The crushing pain in her chest subsided.
+Elena looked up. Far above her, the space had changed. It no longer appeared empty; instead, it took on a blueish tinge.
 
 *This is not 'Nothing'. This is 'Something'.* 
 
