@@ -27,7 +27,9 @@ A sharp bite of static snapped against her wet fingertips. She pulled her hand a
 
 Three blocks deep into the slums, an angled luxury cruiser idled in the rain, out of place. It was a low-slung wedge of glossy black panels and tinted glass that reflected the city's lights like a dark mirror. Its magnetic cushion was a flawless, silent vibration.
 
-Rin stopped where the street opened out, her hand drawn to the pistol under her jacket. The cruiser sat low on its cushion, its taillights scattering a red glow on the flooded pavement. A man stood at the curb beneath a black umbrella, wearing a long black coat over a suit. His polished loafers—a dead giveaway—were getting ruined by the grime. He nonchalantly watched the car, though his gaze kept shifting to the street and back. He hauled on his cigarette as the headlights of a passing mag-car caught the bulge of the gun under his coat. She didn't need to look for the second one. He was across the road in the doorway of a gutted storefront, his grimacing face already watching her. He gave a slow nod, signaling her to proceed, before stepping back into the shadow of the storefront.
+Rin stopped where the street opened out, her hand drawn to the pistol under her jacket. The cruiser sat low on its cushion, its taillights scattering a red glow on the flooded pavement. A man stood at the curb beneath a black umbrella, wearing a long black coat over a suit. His polished loafers—a dead giveaway—were getting ruined by the grime. He was a Minder. Highered security for important people. Someone significant was in the mag-car.
+
+He nonchalantly watched the car, though his gaze kept shifting to the street and back. The Minder hauled on his cigarette as the headlights of a passing mag-car caught the bulge of the gun under his coat. She didn't need to look for the second one. He was across the road in the doorway of a gutted storefront, his grimacing face already watching her. He gave a slow nod, signaling her to proceed, before stepping back out of the rain against the of the storefront.
 
 Across the flooded road, the rear passenger window glided down, venting gray smoke into the freezing rain.
 
@@ -43,9 +45,7 @@ She stepped up to the window and reached into her jacket, pulled out a generic b
 
 The man sat back in his seat. Across from him sat a skeletal woman beneath an impeccably tailored white silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go. The diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' belonged to her.  
 
-"Municipal routing keys, just like we agreed," Rin said, staring at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament. 
-
-"You should have complete control over the sector's grid by midnight." Rin tried to hide the nerves in her voice.
+"Municipal routing keys, just like we agreed," Rin said, staring at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament.  Rin tried to hide the nerves in her voice.
 
 The man snatched the drive up. Without looking at Rin, he turned and presented it to the old woman. 
 
