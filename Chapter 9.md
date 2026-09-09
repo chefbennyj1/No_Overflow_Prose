@@ -6,13 +6,13 @@ She turned and hammered her fist against the heavy metal door.
 
 She banged the metal again.
 
-The deadbolt threw with a sharp mechanical clank. The door swung inward enough to reveal Harper.
+The deadbolt threw with a sharp clank. The door swung inward enough to reveal Harper.
 
 Smoke curled out through the gap before she did. Harper stood in the doorway, a cigarette burning between two fingers. She wore a faded red tank top and low-riding denim. A thin scar tracing her collarbone — old, pale, left bare like she'd never once considered covering it. Her dark roots had grown halfway down her scalp before frayed, electric-blue ends that fell loose around her face.
 
 She leaned into the frame, brown eyes tracking down the length of Rin's soaked jacket and back up again.
 
-"You've got a lot of nerve showing up here, Erin Adler." Her voice carried a slow, raspy Southern drawl that had no business existing in the chokehold of Oshima.
+"You've got a lot of nerve showing up here, Erin Adler." Her voice carried a slow, raspy drawl that had no business existing in the chokehold of Oshima.
 
 "Don't call me that. It's Rin." She pushed past her into the apartment without waiting for an invitation. "—I need you to look at something." 
 
@@ -24,7 +24,7 @@ Harper's hand paused on the chain. She turned, pulling the cigarette from her li
 
 "Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a dark tank, a faded sleeve of ink, and fresh, dark bruising swelling along her ribs and shoulder. She threw the jacket over the arm of a beaten green sofa.
 
-Harper let the rest of the smoke go slow, her eyes dropping from Rin's face to the dark contusions coloring her skin. The heat of the room pressed in, a close warmth that had nowhere to go, embedding the smell of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in coils. It was a wreck, but Rin knew to Harper it was a fortress.
+Harper let the rest of the smoke go slow, her eyes dropping from Rin's face to the dark contusions coloring her skin. The heat of the room pressed in, a close warmth that had nowhere to go, embedding the smell of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in coils. 
 
 "You always did pick the worst fights." Harper stepped closer, her fingers hovering inches from the fresh bruise on Rin's shoulder before she caught herself and pulled her hand back—the same hand drifting up to rest against the pale scar on her own collarbone instead. "Never change, do you."
 
@@ -32,11 +32,11 @@ Rin's eyes tracked the motion until she caught herself staring and looked away.
 
 "I wouldn't be here if I had another choice."
 
-Harper studied her for a long moment, the cigarette burning forgotten between her fingers. She sighed, turning away to a cramped kitchenette built into the wall. She poured thick, black coffee from a battered French press into two ceramic mugs and shoved one into Rin's hands without looking at her.
+Harper studied her for a long moment, the cigarette burning between her fingers. She sighed, turning away to a cramped kitchenette built into the wall. She poured thick, black coffee from a battered French press into two ceramic mugs and shoved one into Rin's hands without looking at her.
 
-The heat of the ceramic instantly bled into Rin's cold, rain-soaked skin, grounding her.
+The heat of the ceramic instantly bled into Rin's rain-soaked skin, grounding her.
 
-"Fine," Harper said, leaning against the counter. "Leaving's one thing, darlin', but I'm not gonna let you bleed out in the rain. Show me what you've gotten yourself into."
+"Fine," Harper said, leaning against the counter. "Leaving's one thing, but I'm not gonna let you bleed out in the rain. Show me what you've gotten yourself into."
 
 Rin took a sip from the mug in her hand, while reaching into her back pocket and pulling out the red-and-silver USB drive with the other. She held it out.
 
@@ -50,7 +50,7 @@ The three monitors above her desk flared to life, washing her face pale.
 
 Rin didn't need to hear it.  "Don't call me that."
 
-Harper smirked, her fingers found their familiar places on her worn keys. The letters had rubbed off years ago, but she didn't need them. She opened the file structure.
+Harper smirked, her fingers found their familiar places on the worn keys of her keyboard. The letters had rubbed off years ago, but she didn't need them. She opened the file structure.
 
 "I got the keys— " Rin started.
 
@@ -58,7 +58,7 @@ Harper smirked, her fingers found their familiar places on her worn keys. The le
 
 "—while I was inside the terminal, I found something. It was pulling too much power. I copied the directories —," Rin trailed off.
 
-Harper didn't answer, the sound of her teeth snapping loudly against the gum stopped. Scrolling code reflected in her eyes. The lazy warmth in her face was gone, replaced by a flat, intense focus. A pink bubble snapped sharply against her lips. "This is R-and-D level file encryption, Rin." She glanced back over her shoulder. "Whose private directories did you copy?"
+Harper didn't answer. Scrolling code reflected in her eyes. The lazy warmth in her face was gone, replaced by a flat, intense focus. "This is R-and-D level file encryption, Rin." She glanced back over her shoulder. "Whose private directories did you copy?"
 
 Her hand lifted off the keyboard. "Whoa." A wave of decrypted files spilled open across the screen.
 
@@ -76,11 +76,11 @@ She turned her chair to face Rin, staring in silence before she spoke again. "A 
 
 "They must know I have it." 
 
-Harper laughed, a sharp, bitter sound. "They don't know it was you, sweet-pea. Something huge leaked. They're tearing up the Circuits trying to put a lid on it."
+Harper laughed, a sharp, bitter sound. "They don't know it was you. Something huge leaked. They're tearing up the Circuits trying to put a lid on it."
 
 She paused. "It won't take long before they find you." Her eyes sharpened. "And anyone you're with. Aw, hell."
 
-An alert flashed across her screen, Harper turned back to it, her face washed in the terminal light. "What in the hotwired hell?"
+An alert flashed across her screen, Harper turned back to it, her face washed in the terminal light. "What in the hell?"
 
 She frowned, pulling up another command terminal. "The system just queried us back."
 
@@ -92,7 +92,7 @@ Before Rin could answer, the primary monitor went black. Then the secondary moni
 
 Every screen in the cramped apartment flashed in unison. 
 
-Rin reached into her back pocket, her fingers brushing the edges of her wire-wrapped SBC. She pulled it out. The tiny green crystal display was glowing. 
+Rin reached into her back pocket, her fingers finding her wire-wrapped SBC. She pulled it out. The tiny green crystal display was glowing. 
 
 A single new string printed across every screen in the room, including the SBC in Rin's palm: **[VIGIL]**
 
@@ -112,7 +112,7 @@ More text began to fracture across the displays, dual strings of code fighting t
 **[VIGIL]** 
 **Your intrusion into Takeda-Holden was logged. You are the optimal candidates.**
 **[VIGIL]**
-**I have seen the outcomes. You will require my guidance to succeed.**
+**I have seen the outcomes. You will require guidance to succeed.**
 
 Harper didn't breathe. The terminals paused, before final lines of text rendered to the screens:
 
@@ -126,7 +126,7 @@ Harper didn't breathe. The terminals paused, before final lines of text rendered
 
 Instantly, the screens in the apartment cut back to their normal diagnostic displays. 
 
-Harper exhaled a long, shaky breath, pushing her chair back from the rig. "Rin, 'tha hell you just bring into my house?"
+Harper exhaled a long, shaky breath, pushing her chair back from the rig. "Erin, 'tha hell you just bring into my house?"
 
 Rin didn't answer. She was staring down at the SBC in her hand. 
 
