@@ -48,9 +48,11 @@ Harper's head spun toward the synthetic, "Hey if you know something—now's the 
 
 "Checkmate." Vigil's head fell forward.
 
-Rin grabbed Harper by the collar of her jacket and pulled her in. She kissed her. It was soft,  frantic—stolen as the flashlight beams swept over the plastic sheets beside them.
+"What are you doing, Erin?" Harper whispered.
 
-Rin broke away, shoving the weight of the synthetic entirely onto Harper. Without a word, Rin shrugged off her oversized leather jacket and pressed it into Harper's chest. "Stay down. When they move, you run." 
+Rin grabbed Harper by the collar of her jacket and pulled her in. She kissed her. It was soft, frantic—stolen as the flashlight beams swept over the plastic sheets beside them.
+
+Rin broke away, shoving the weight of the synthetic entirely onto Harper. She shrugged off her oversized leather jacket and pressed it hard into Harper's chest. "Stay down. When they move, you run. And don't call me that. It's Rin."
 
 Before Harper could argue, Rin stepped away from the cover of the plastic sheets and into the aisle. 
 

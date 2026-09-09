@@ -12,9 +12,9 @@ Smoke curled out through the gap before she did. Harper stood in the doorway, a 
 
 She leaned into the frame, brown eyes tracking down the length of Rin's soaked jacket and back up again.
 
-"You've got a lot of nerve showing up here." Her voice carried a slow, raspy Southern drawl that had no business existing in the chokehold of Oshima.
+"You've got a lot of nerve showing up here, Erin Adler." Her voice carried a slow, raspy Southern drawl that had no business existing in the chokehold of Oshima.
 
-"I need you to look at something." Rin pushed past her into the apartment without waiting for an invitation.
+"Don't call me that. It's Rin." She pushed past her into the apartment without waiting for an invitation. "—I need you to look at something." 
 
 Harper didn't stop her. She shut the door, working the deadbolt, and the chain, in rapid succession. " 'Told ya to lose this address."
 
@@ -46,7 +46,11 @@ The three monitors above her desk flared to life, washing her face pale.
 
 "I went in for the electrical keys." Rin stood behind the chair. "The Filament wanted  them."
 
-"The Filament? Jesus, Rin, they're practically terrorists." Harper crushed her cigarette into an overflowing ashtray on the desk and popped a piece of bright pink bubblegum into her mouth. Her fingers found their familiar places on the worn keys. The letters had rubbed off years ago, but she didn't need them. She opened the file structure.
+"The Filament? Jesus, Erin, they're practically terrorists." Harper crushed her cigarette into an overflowing ashtray on the desk. 
+
+Rin didn't need to hear it.  "Don't call me that."
+
+Harper smirked, her fingers found their familiar places on her worn keys. The letters had rubbed off years ago, but she didn't need them. She opened the file structure.
 
 "I got the keys— " Rin started.
 
@@ -68,7 +72,7 @@ Rin watched her lips moving silently as she read.
 
 "What?" Rin didn't like it when Harper lost focus.
 
-She turned her chair to face Rin, staring in silence before she spoke again. "A singularity, Rin." Harper took a slow long sip of her coffee, looking directly into Rin's eyes. "This project Mnemosyne. They've built a fucking black hole in the middle of the city." she said.
+She turned her chair to face Rin, staring in silence before she spoke again. "A singularity." Harper took a slow long sip of her coffee, looking directly into Rin's eyes. "This project Mnemosyne. Erin, they've built a fucking black hole in the middle of the city." she said.
 
 "They must know I have it." 
 

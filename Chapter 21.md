@@ -1,4 +1,4 @@
-"Four weeks, Rin." Detective Victor Graves sounded exhausted. 
+"Four weeks, Erin." Detective Victor Graves sounded exhausted. 
 
 The orange, one-piece correctional jumpsuit Rin wore was a size too big. It hung loose off her shoulders, exposing the white cotton tank top underneath. A serial number was stenciled across the breast in block lettering: **D.O.C. 3 9 8**. 
 
@@ -24,7 +24,7 @@ He was asking the wrong questions. Focused on the wrong part of his case.
 
 Rin had finally had enough. The silence broke. "A division?" she laughed, a dry, cynical sound. "What? A division of one?"
 
-Victor slammed his hand on the metal table. "Clever. Funny. Whatever corporate nonsense you got yourself tied up in—why you were in deep storage—I don't care. This is about the syndicate. I want the Filament."
+Victor slammed his hand on the metal table. "Clever. Funny, Miss Adler. Whatever corporate nonsense you got yourself tied up in—why you were in deep storage—I don't care. This is about the syndicate. I want the Filament."
 
 Rin shot back, her voice tightening. "If I give you the Madame, the Filament will kill me before you can protect me."
 
