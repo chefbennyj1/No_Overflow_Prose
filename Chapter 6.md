@@ -1,35 +1,55 @@
-Victor rolled his thumb along the striker of his lighter, sparking a flame against the end of his cigarette. He exhaled, adding to the low-hanging smoke of the busy bullpen. The precinct was loud. Exhausted beat cops in wet bomber jackets and vinyl-covered eight-point caps pushed past his desk, shaking off the freezing rain. Up front, a crowd shouted over the intake counter—desperate people demanding answers for the Renewal sweeps in lower grids.
+Living in the Dead Circuits rarely had its benefits,. As Rin approached her apartment building, a light flickered over the doorway. 
 
-"It doesn't fit." His words barely cut through the noise.
+She pulled open the front door of the lower lobby. The air inside smelled stale. Chipped green paint curled off the walls, and the corners choked with shadows and dirt. She walked down the first-floor hallway, passing a long row of identical, battered apartment doors. Some were heavily locked, others broken and vacant, their hinges snapped. On one, a faded welcome mat. On another, a child's drawing taped at eye level.
 
-Harlan leaned forward, resting his elbows on the metal desk. "I told you to buy your jacket off the rack, not the bin," he said with a slight smirk.
+Rin slipped past the misery and stepped into the rusted elevator at the end of the hall. 
 
-Victor leaned back in his chair, ignoring the joke. He crossed his arms, letting the smoke spiral. "Null's M.O." he reached forward and crushed the half-smoked cigarette into the overflowing ashtray. 
+She leaned against the back wall, exhaustion finally starting to settle into her bones as the car rattled upward. 
 
-Leaning his chin against his hand, Victor stared at the cluttered desk. "Null usually doesn't stick around." 
+The light on the elevator panel hit her floor. The doors parted. 
 
-Harlan’s smirk vanished. "Null 'stuck around'," he paused, his expression hardening and with a serious tone, "—to shoot tear gas at my face. Remember?"
+Rin started to step out, and froze. 
 
-Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a thick folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Silas Blackwell." 
+Standing directly in front of the open door, waiting for the lift, were two Takeda-Holden Renewal Agents in their black tactical armor. Down the hall behind them, a frail old man was zip-tied and kneeling on the dirty floor outside his apartment, his face bruised as his meager belongings were tossed into the corridor. 
 
-A sudden commotion erupted in the room as officers dragged a group of struggling demonstrators across the floor. Victor kept his focus on the papers. 
+Rin slammed her hand against the elevator's 'Close Door' button, stepping backward into the car. 
 
-"It’s heavily redacted," Victor said, his eyes scanning the thick black lines. "Except for this: *Mnemosyne*." He waited to see if he had Harlan’s attention. His partner remained silent. "The log has a second name in the metadata," Victor continued. "Doctor Elena Marlowe."
+The rusted doors began to slide shut, but an agent jammed its intimidating, armored forearm between them. The metal groaned to a stop as the agent effortlessly forced the doors back open, stepping into the elevator, and blocked her escape. 
 
-Harlan raised an eyebrow. "Marlowe? The cybernetics prodigy?" 
+"Citizen!" the female agent barked, her voice heavily modulated through the helmet. "State your name, your prior location, and destination!"
 
-Victor knew the name. He knew her contributions had revolutionized the current generation of synthetics before suddenly vanishing from the headlines. She was the reason the city was crawling with them—the reason you couldn't walk down a street without some unblinking canner looking you over.
+Rin was trapped in the small metal box. It was the closest she had ever been to a Renewal agent. *Stay calm,* she told herself, keeping her face neutral. "I work at the Renewal offices downtown," she lied. "I'm just returning home."
 
-"Vic, she hasn't been seen public-side in five years," Harlan said.
+The agent didn't budge. "Resident identification required for Renewal Protocol. Citizen, show me your I.D."
 
-"Because the Company buried her down there to build... whatever this thing is," Victor replied.
+"Identification?" Rin asked, offering a forced, compliant nod. Her right hand slid slowly into her jacket as she stepped forward toward the agent. "Sure, it's—"
 
-Harlan shifted in his seat, his posture relaxing. "Well, there's our answer. Takeda-Holden private data... That's a Renewal Agent's job. Let them deal with the headache." 
+She dropped the act, ripping the pistol from her holster and driving the muzzle square into the center-mass of the agent's armor. 
 
-A second later, Harlan tensed.
+"—Right here!"
 
-Victor slammed his fist against the desk, the sound cutting through the noise of the room. "No. Null is mine. This is how we get the Filament. Whatever this *Mnemo—thing* is, Null stole the keys."
+She pulled the trigger point-blank. The blast inside the tiny metal elevator car was agonizingly loud. The violent recoil kicked Rin's wrist back. Her hand went numb as the heavy pistol slipped from her fingers, clattering onto the elevator floor. The round shattered against the sleek black plating, dumping its kinetic energy into the armor, but the agent only stumbled. 
 
-The bullpen fell silent at the outburst. Victor ignored the stares, letting his temper cool as his focus narrowed. 
+Rin didn't wait to grab the gun. She shoved past the staggered agent and stumbled into the hall. The agent planted her feet, looking down at her chest. 
 
-"Time we paid Doctor Blackwell a visit."
+Rin turned in the hallway to facing them, posturing with outstretched arms, feeling the walls with her fingertips. She stepped back, tasting the  gunpowder residue from the close-encounter gunshot. The air was drying every terrified inch of her eyes as she fixed her attention on the two agents.
+
+The face of the agent's black mask snapped toward Rin. She stood up menacingly slow, as her partner stepped beside her. Both agents raised their tactical rifles.
+
+Orange muzzle flashes erupted as they opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. She threw herself backwards, as a hail of bullets chewed through the plaster exactly where she had been standing. Hot brass casings showered the filthy hallway carpet. Her heel caught the scattered pile of the old man's belongings. She hit the floor hard, scrambling on her hands and knees around the elevator buildout toward the emergency stairwell.
+
+"Shit!" Rin gasped. Her back pressed against the wall, she squeezed her wrist between her thumb and forefinger, drumming her numb fingers in the air to draw the feeling back. Instinctively, she patted her jacket pocket. 
+
+Empty. 
+
+The slow, trenching crunch of combat boots advanced down the hallway. Peering around the corner, Rin spotted her thumb drive. Camouflaged in the dirty red pattern of the carpet, it sat exactly where she had hit the floor. 
+
+*Corporate-grade plating.* Adrenaline flooded her body. *They won't stop.*
+
+Rin grit her teeth, threw her hand back around the corner into the line of fire, and snatched the drive off the carpet. A hail of bullets ripped into the floor.
+
+Clutching it tight, she kicked the steel door to the emergency stairwell open and pulled herself up. She abandoned the hallway, sprinting down the concrete steps three at a time. 
+
+"Radio it in," a muffled, modulated voice echoed down the stairwell behind her, barely audible over the ringing in her ears.
+
+Rin hit the landing below, rubbing her throbbing ear before disappearing into the dark alleyway.

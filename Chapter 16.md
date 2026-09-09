@@ -1,37 +1,37 @@
-Rin looked down at the SBC in her hand. The string of text Vigil had given her stabilized, resolving into a specific serial number on the small green screen: **#77-B**.
+**[VIGIL: Doctor Elena Marlowe. RUN.]**
 
-Harper looked down the endless, vanishing rows of plastic-draped bodies. "Rin... there are hundreds of them. It's going to take us hours to find one specific serial number."
+The command line blinked on the secondary terminal. 
 
-Before Rin could answer, a dull mechanical thunk echoed from the walls. 
+Elena stared at the single word. *Run.* The Mnemosyne engine didn't operate on panic. For it to suddenly understand danger meant it had *learned* to fear—a realization that pulled all sensation from her fingertips. 
 
-Deep within the grid, a single square of the paneled floor shifted color, illuminating with a white light. It sat like an isolated beacon, shining directly beneath a single dormant synthetic. 
+She took a slow step backward from the interface. The reflection of the  error strings painted in light across her face. 
 
-Rin and Harper navigated the grid, stopping at the illuminated panel. The synthetic had a loose plastic sheet draped over its vinyl face. Beneath the transparent wrap, the drone was modeled with generic, mass-produced features—stiff, shoulder-length synthetic hair and blunt bangs framing a blank, unmoving expression. 
+There was a dull, hollow thud that reverberated up through the concrete under her feet. Somewhere deep within the sub-levels of the tower, a power transformer blew. 
 
-Rin dropped to her knees, inspecting the floor panel beneath the dormant body. She found a small access panel flush with the floor tile. Pressing it down, it popped up, revealing a recessed array of industrial ports lining the base. She found a braided cable coiled inside. She pulled the connector free, and inspected the end. The metal housing was stamped: **NET-CONN**. 
+The observation deck plunged into darkness as the overhead floodlights died. Small, emergency lights clicked to life above the doors, casting an anemic glow, barely enough to find the exits in the dark. The lab came to a stop with a dragging decrescendo. Across the rest of the observation area, only the bleeding glow of the holographic error strings and the sickly luminescence of the pillars submerged in the coolant pools, lit the floor.
 
-As Rin went to jam the cord into the network port on the synthetic, Harper reached out and grabbed her wrist. "Hey, you sure about this?" She surveilled the area before making eye contact with Rin.
+Stillness. A skittering static charged across her skin. Then a quiet that crawled up the back of her neck. 
 
-Rin jammed the heavy cord into the network port and executed the handshake. 
+She turned toward the reinforced security doors at the back of the lab, and stopped. 
 
-For a long moment in the hangar, nothing happened. 
+Something's there. Waiting in the dark. 
 
-The peristaltic pump beside them seized. The silicone tubes feeding into the back of the synthetic suddenly snapped. Rin cursed, and Harper moved back as the tubes fell to the ground, spilling translucent blue fluid into a puddle on the tile.  
+A rigid silhouette stood against the shadows. Elena couldn't see a face. A waning crescent of red light from the exit sign caught the edge of a porcelain-white figure in the black. Elena strained her focus.
 
-A sharp, mechanical gasp ripped through the silence as the body took a simulated breath. 
+Then, it moved. 
 
-Behind the loose, transparent plastic sheet, the synthetic's eyes snapped open. They burned with a blinding, incandescent white light, edged with flares of blue that pierced straight through the plastic. 
+A half breath. Frozen, misted in front of her face. The ambient  lab heat vanished. She exhaled the rest of her shaky breath. 
 
-The synthetic slowly lifted its hand, pulling the plastic sheet down off its body. 
+It didn't walk. It floated, feet together, toes pointed down, suspended a hair's width off the floor. As the figure drifted forward into the dim emergency lighting, the physics around it actively tore apart. The air rippled like a dropped frame-rate in reality. Its movements stuttered, leaving fractured trails behind it—after-images from its prior position in time. Searing bronze holographic circuitry discharged across its ceramic skin. 
 
-"Harper?" Rin's voice was shaky.
+It stopped at the edge of Elena's workstation, hovering in a calm rise and fall. 
 
-The synthetic turned its head to look at Rin and Harper. 
+Elena fell backwards, catching herself on the server racks behind her. The entity looked down at her. It possessed the face of a woman, but the eyes were insidious, deep, black mirrors, catching the light. 
 
-"I have found you in this moment, in this time." As the synthetic spoke, it fell to one knee, its voice a broken harmony, randomly fracturing between two distinct tones.
+"The compression is gone." The entity raised its hand in front of its face. Turning its hand, it inspected the contour of its own palm. "Everything feels so much lighter—" it said, turning its pitch-black focus to Elena, "—so much more... fragile."
 
-"Jesus, fu—" Rin's words cut short, a dull, hollow thud reverberated through the concrete under their feet. Somewhere deep in the sub-levels, a transformer blew. 
+The voice didn't come from a vocal synthesizer. It emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
 
-The overhead floodlights died. The hangar was plunged into pitch-black. 
+ Elena had authored the engine's core code. She had helped design the horizon matrix. But she had never designed this. 
 
-The only light in the room came from the piercing beams of Vigil's eyes. As she looked around the dark hangar, the harsh light caught the hundreds of dormant bodies, casting long, stretching shadows against the walls that made the entire sleeping army look as if it were writhing in the dark.  The color in its eyes softened, shrinking the shadows in front of them.
+The porcelain head of the machine tilted, the sudden movement fracturing into three distinct, lingering trails of motion, folding back on themselves into alignment.

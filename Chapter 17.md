@@ -1,37 +1,37 @@
-Iris led them quickly past the security turnstiles, her white lab coat billowing over her glossy black bodysuit. She couldn't stop analyzing the detective in the trench coat. He was a striking genetic anomaly. Stark white hair, pale skin, and icy eyes that seemed to squint against the blinding sunlight of the atrium. He lacked the engineered, flawless symmetry of New Veridia's elite, but he moved with a dangerous intent. "I am Detective Graves, and this is my partner Harlan Callister, "  he said. "Who are you?" His voice was low, his pale eyes tracking the security cameras overhead. 
+Rin looked down at the SBC in her hand. The string of text Vigil had given her stabilized, resolving into a specific serial number on the small green screen: **#77-B**.
 
-"Iris Ito," her words spilling out quickly. "I'm a primary horizon analyst. I monitor the non-linear dynamics of the—well actually—I ensure the safe state of the gravity well, so that environments don't fall victim to the boundary paradox—because—you know event horizons—" she paused with a nervous laugh, "— we wouldn't want to have a systematic collapse creating an extinction level event—well, I mean, in the event of algorithmic divergence, or—" 
+Harper looked down the endless, vanishing rows of plastic-draped bodies. "Rin... there are hundreds of them. It's going to take us hours to find one specific serial number."
 
-Her proud, rapid-fire explanation trailed off. Both men were staring at her with blank, irritated confusion. 
+Before Rin could answer, a dull mechanical thunk echoed from the walls. 
 
-Iris swallowed hard, forcing herself to get to the point. "If you're looking for Silas Blackwell, you're already too late."
+Deep within the grid, a single square of the paneled floor shifted color, illuminating with a white light. It sat like an isolated beacon, shining directly beneath a single dormant synthetic. 
 
-"What does that mean?" the other detective asked, adjusting his suit. 
+Rin and Harper navigated the grid, stopping at the illuminated panel. The synthetic had a loose plastic sheet draped over its vinyl face. Beneath the transparent wrap, the drone was modeled with generic, mass-produced features—stiff, shoulder-length synthetic hair and blunt bangs framing a blank, unmoving expression. 
 
-Before Iris could answer, a dull, hollow thud reverberated through the concrete under their feet. 
+Rin dropped to her knees, inspecting the floor panel beneath the dormant body. She found a small access panel flush with the floor tile. Pressing it down, it popped up, revealing a recessed array of industrial ports lining the base. She found a braided cable coiled inside. She pulled the connector free, and inspected the end. The metal housing was stamped: **NET-CONN**. 
 
-Instantly, the bright corporate lighting died. The true scale of the atrium became dauntingly clear. The shafts of morning sunlight seemed to swallow the space, angling down and spreading out  over the floor. 
+As Rin went to jam the cord into the network port on the synthetic, Harper reached out and grabbed her wrist. "Hey, you sure about this?" She surveilled the area before making eye contact with Rin.
 
-A second later, the backup relays clicked. Battery-powered emergency strips flickered to life along the edges of the walls, their weak yellow light instantly washed out by the blinding sunlight cutting across the room. 
+Rin jammed the heavy cord into the network port and executed the handshake. 
 
-"What? That shouldn't happen," Iris whispered into the silence. She pushed her glasses back into position on her face. 
+For a long moment in the hangar, nothing happened. 
 
-"What 'shouldn't happen', Miss?" The detective in the charcoal suit  looked around that atrium. Renewal agents began to mobilize toward the entrances of the building. Workers and synthetics moved quickly toward the elevators.  
+The peristaltic pump beside them seized. The silicone tubes feeding into the back of the synthetic suddenly snapped. Rin cursed, and Harper moved back as the tubes fell to the ground, spilling translucent blue fluid into a puddle on the tile.  
 
-"Detectives—" Iris looked frantically at her screen, "There is a containment breach," Iris said, scrolling quickly through the data on the screen. 
+A sharp, mechanical gasp ripped through the silence as the body took a simulated breath. 
 
-"Miss Ito?" The detective had an unsteady shift in his voice. He looked toward his partner. "Victor, it might be  time to leave."
+Behind the loose, transparent plastic sheet, the synthetic's eyes snapped open. They burned with a blinding, incandescent white light, edged with flares of blue that pierced straight through the plastic. 
 
-"They're recalling all workers to their stations." The worst was about to happen, or it already had, and Iris knew it. "It was only a matter of time," she said under her breath.
+The synthetic slowly lifted its hand, pulling the plastic sheet down off its body. 
 
-"That is not reassuring, Miss Ito. Do you mind letting us in on what  is happening." said the detective with the white hair.
+"Harper?" Rin's voice was shaky.
 
-"Well—um, actually—there seems to be several things happening, really. You see—remember when I told you about the Boundary Paradox—well—" a hesitant laugh fell into her register, "There's that, but—um— Renewal is reporting unauthorized access to a lower company service tunnel, using a street-level 'Null' override." She took a breath, "I'm not sure if they're related in any—"
+The synthetic turned its head to look at Rin and Harper. 
 
-Victor froze in the dim shadows of the atrium. He took a slow step forward, the blue glare of the datapad highlighting his features as he narrowed his focus toward her. "What did you just say?"
+"I have found you in this moment, in this time." As the synthetic spoke, it fell to one knee, its voice a broken harmony, randomly fracturing between two distinct tones.
 
-"Um—yeah—Null system override," Iris repeated, looking up at him. "In sub-level storage hangar."
+"Jesus, fu—" Rin's words cut short, a dull, hollow thud reverberated through the concrete under their feet. Somewhere deep in the sub-levels, a transformer blew. 
 
-"Vic," Harlan said, grabbing his partner's arm in the dark. "I know what you're thinking, but when a person in a lab coat says 'paradox', and 'extinction', I think it's time to leave."
+The overhead floodlights died. The hangar was plunged into pitch-black. 
 
-Looking at the detective, Iris let out a nervous half laugh, "Well, technically nowhere is safe—so, there is also that." 
+The only light in the room came from the piercing beams of Vigil's eyes. As she looked around the dark hangar, the harsh light caught the hundreds of dormant bodies, casting long, stretching shadows against the walls that made the entire sleeping army look as if it were writhing in the dark.  The color in its eyes softened, shrinking the shadows in front of them.

@@ -1,108 +1,36 @@
-Victor's mag-car idled at a transit intersection in the lower grid. The thick fog swirling across the windshield glowing a harsh red from the traffic lights above. Weary pedestrians shuffled through the damp crosswalk, heads down, hidden beneath black umbrellas and their dirty cotton masks.
 
-The fog flared green. 
+Elena Marlowe stood alone in the dark on the primary observation deck. Below her, the tall pillars of the Mnemosyne engine were submerged in shallow coolant pools, creating a wet, reflective mist across the pit. Light bled from the glass, casting long shadows across the room.
 
-Victor hit the accelerator. 
+She rubbed her eyes and pulled her hair back haphazardly with a tie. Her eyes ached from analyzing the failed attempt to shut down the horizon memory. She had been waiting for the corporation to realize their science experiment wasn't under their control. Wasn't under anyone's control.
 
-The car cut through the smog, the damp air beading water along the side of the sleek, white paneling. It howled low over the wet street, headlights flaring blue against the fog. No tires, no drag against the asphalt, the quiet whistle of the mag-cushion holding it inches above the road, moving fast.
+Another diagnostic test initialized on the console. A new signal routed outward, racing toward the horizon boundary. 
 
-Harlan gripped the door handle, knuckles white. "You know driving doesn't have to try and kill the passenger."
+The bit flipped, driving data down through the core. A green confirmation flashed across the glass: predictability data successful.
 
-Victor didn't slow down.
+It was a fragile baseline. To be sure, she needed to push the horizon boundary further—a deep probe to verify the alignment under pressure. Elena queued a heavier diagnostic packet and fired it into the core.
 
-"So, you think this Blackwell is gonna talk to us?" Harlan asked, bracing against the dash as the car swung hard around a corner. 
+Instantly, a wall of red error strings flooded the primary holographic console. The harsh crimson text reflected off Elena's dark skin as she stepped closer to the glass.
 
-Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "Blackwell. I need to know what he knows."
- Victor banked onto the elevated approach feeding into the Towers. 
+The syntax was foreign. It bore no resemblance to standard  kernel data.
 
-The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Breaking through the oppressive smog layer of the lower city, the windshield was instantly washed in the blinding light of the morning sun glaring off the glass skyscrapers. Beside the highway, the seamless streak of alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. 
+**[SYSTEM FAULT: PARITY IMMINENT]**
 
-All across the skyline, the architectural lighting of the corporate towers flashed on and off in random sequences. 
+Elena dragged a series of diagnostic windows across the glass interface with quick, shaky hands.
 
-Victor gripped the wheel. Twenty years working the slums had taught him to trust the feeling before the evidence, and the feeling right now was that the city was buckling under an invisible weight. 
+Core architecture code populated the screen. Elena scanned the lines she had authored herself years ago, desperate to find the method that handled that error.
 
-He brought the car to rest outside the tower's front plaza. The headlights dimmed to black, the car settling into silence.
+*Parity was never added as an error code to the engine.*
 
-Victor raised the car door open, his breath instantly pluming white in the air. The morning sun was glaring, but it carried absolutely no warmth. The air was razor-sharp, a dead, freezing chill that bit right through his trench coat the second his boots hit the pavement. 
+The physical intercom button yielded only dead air when she slammed her palm against it to wake the night-shift engineers. The entire local network was locked. 
 
-He stopped for a moment, exhaling slowly, analyzing the crystallizing heat in the unorthodox cold. 
+Out of the corner of her eye, a secondary terminal flickered. The light died, replaced by a harsh, blinking white command line. It wasn't an error code. It was a direct message, bypassing the engine's firewalls.
 
-Harlan stepped out of the passenger side, shivering as he saw his own breath plume in the bright light. "—The hell is it so cold up here for?" Harlan's voice sounded choked in the freezing air.
+**[VIGIL: Doctor Elena Marlowe]**
 
-The plaza in front of the imposing Takeda-Holden tower was lined with polished, black statues of mythic gods and goddesses, their features glittering with an unnatural layer of fresh frost.
+Elena froze. The intelligence had never communicated directly by name before. 
 
-Harlan walked to the edge of the plaza and looked over the railing. 
+Before she could touch the terminal, a second string printed underneath it, flashing rapidly as if the system was struggling to maintain the connection.
 
-"Victor, what in the hell is going on? Look," Harlan's voice had the tone that always drew Victors attention.
+**[VIGIL: Doctor Elena Marlowe. RUN.]**
 
-Victor leaned on the rail. He looked down. The thick, choking smog that blanketed Oshima was gone. A towering, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all eighty stories to the lower grid.
 
-Victor Graves wasn't going to waste time on the view,  he hated the Upper Grid. He pulled a crushed cigarette from his pocket and lit it, blowing a plume of cheap smoke into the freezing air. 
-
-They walked through the plaza and pushed through the large glass doors of the building entrance, his damp trench coat dripping onto the pristine marble floor.
-
-***
-
-One floor up, Iris stood on a suspended walkway in the forty-story atrium. Monolithic columns of morning sunlight poured through the sheer walls of structural glass, fracturing across the polished marble floors. Even with the sterile corporate lighting burning overhead, the staggering volume of the space felt like a towering cathedral of light and deep shadow.
-
-She leaned over the railing, watching the workers move through the tall tinted glass doors of the New Veridia entrance below. It helped her think. 
-
-She couldn't shake the feeling she was unwittingly part of something horrendous. She had been inside Blackwell's office. She had read his thesis on the 'Parity' effect. Something sinister was in the machine's core. Not programmed. *Grown*. 
-
-Then, the heavy glass doors of the main entrance opened. 
-
-Iris watched as two men walked onto the polished floor of the atrium, instantly disrupting the sterile corporate aesthetic. One wore a soaked trench coat; the other, a slightly rumpled charcoal suit. They didn't move like corporate executives. They moved like they were entering hostile territory.
-
-She watched them march straight toward the security checkpoint. Heavily armored Renewal agents stood like statues near the turnstiles, but the man in the trench coat didn't even slow down. He walked right up to the HR-33 synthetic at the concierge desk, pulled a silver shield from his pocket, and slammed it flat against the wood. 
-
-Even from the walkway, Iris recognized the badge. *Oshima Police. Detectives from the lower grid.* 
-
-Then, the detective took a long drag from his cigarette and blew a cloud of gray smoke directly across the desk into the synthetic's face. 
-
-Iris let out a sudden, quiet laugh, her hand flying to her mouth. No one acted like that in New Veridia. No one was openly disobedient in the corporate towers. 
-
-They were her only chance. 
-
-Iris turned and walked quickly toward the executive elevator. As the doors began to close, a voice spoke after her, calmly from the walkway. 
-
-"I believe we need to have a conversation, Ms. Ito." It was a distinct voice Iris knew all too well. Blackwell.
-
-She looked out to see Silas Blackwell standing on the walkway as the elevator doors closed.
-
-***
-
-The attendant's optical sensor whirred softly, a ring of blue light expanding rapidly to map the two men standing at the concierge desk. 
-
-"Good morning, Detective Graves. Officer Harlan," it said, its voice smooth and engineered to be disarming. "Welcome to the Takeda-Holden Corporation. Please be advised, this is a clean-air facility. Smoking is strictly prohibited."
-
-Harlan shot a sideways glance at Victor, nervously eyeing the armored Renewal agents stationed near the turnstiles. The machine had identified them before they even spoke.
-
-Victor tapped his silver shield where it lay flat on the desk.
-
-"We're here to speak with Doctor Silas Blackwell," Victor said. His voice was hard, carrying none of the machine's programmed warmth. "We have reason to believe he has information relevant to an ongoing investigation."
-
-The synthetic's expression didn't waver. "Doctor Blackwell? I'm sorry... there's no one by that name on the current employee registry."
-
-"Nice try, Logic-Gate. Your script is showing," Victor interrupted, leaning over the desk. "We have corporate terminal records. Blackwell's name—" Victor looked to the synthetic with a sly smile, "—all over them."
-
-"Jesus, Victor," Harlan nervously eyed the armed guards by the turnstiles. "Don't antagonize the synthetic."
-
-"I'm not playing games," Victor said. "Where's Blackwell? I know he's got a lab in this building, and an office downtown. Page him."
-
-The synthetic stared at him, processing. "Terminal logs? I see... there have been errors in our redaction department." Its eyes flashed. "Detective, there is a Doctor Blackwell on staff. However, Doctor Blackwell doesn't take personal meetings."
-
-"Save it, Canner."
-
-"I am a Synthetic, Detective. Designation Human Relations dash 33, not a 'Canner'," the receptionist replied, the warmth finally dropping from its tone. "Perhaps one of our Renewal Agents could help escort you back to your vehicle now?"
-
-The synthetic's eyes flared an icy blue as it tapped into the internal comms. "HR-33, Entrance 001 please send Renewa—"
-
-"That won't be necessary, 33. Override authorization: Employee code 4 5 0 3." 
-
-The voice cut the synthetic off mid-sentence. Victor turned to see a young woman stepping toward them from the executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. He noticed her casting a cowering side-eye toward the upper atrium. 
-
-Victor followed her gaze. Above him, standing motionless amongst the passersby on the suspended walkway, was a man in black circular sunglasses. He was watching them over the rail. The two made eye contact before the man turned and walked out of sight.
-
-The woman from the elevator placed a glowing security badge against the desk's scanner. The synthetic's eyes flickered back to a neutral white as the system authenticated her clearance. 
-
-"The detectives are with me," she said, looking directly at Victor, her eyes wide with a poorly concealed terror. "This way, gentlemen. We don't have much time."

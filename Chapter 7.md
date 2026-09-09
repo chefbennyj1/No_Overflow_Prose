@@ -1,96 +1,35 @@
-It was five in the morning. The Mnemosyne lab was empty, save for the silent, statuesque forms of the synthetics standing idle in the dark. The harsh overhead lights were still on standby. The logging screens of the pillars cast subtle hues of light above the pit. Iris sat alone at her terminal on the mezzanine, tapping her stylus against the glass. She synced the rhythm with the steady spin of the cooling fans, trying to force her racing thoughts to focus. 
+Victor rolled his thumb along the striker of his lighter, sparking a flame against the end of his cigarette. He exhaled, adding to the low-hanging smoke of the busy bullpen. The precinct was loud. Exhausted beat cops in wet bomber jackets and vinyl-covered eight-point caps pushed past his desk, shaking off the freezing rain. Up front, a crowd shouted over the intake counter—desperate people demanding answers for the Renewal sweeps in lower grids.
 
-What exactly had she seen? An inversion expanding in the space of the core's memory, growing undetected. No—not undetected. Erased. 
+"It doesn't fit." His words barely cut through the noise.
 
-Why would anyone want sections of the horizon neural matrix to be so aggressively malformed? That wasn't part of the "pristine architecture" Blackwell had sold. 
+Harlan leaned forward, resting his elbows on the metal desk. "I told you to buy your jacket off the rack, not the bin," he said with a slight smirk.
 
-*"Do not use theology to describe the computing."* 
+Victor leaned back in his chair, ignoring the joke. He crossed his arms, letting the smoke spiral. "Null's M.O." he reached forward and crushed the half-smoked cigarette into the overflowing ashtray. 
 
-Blackwell's voice still echoed in her head, sharp enough to make her wince. 
+Leaning his chin against his hand, Victor stared at the cluttered desk. "Null usually doesn't stick around." 
 
-But withdrawing didn't mean she stopped seeing. 
+Harlan’s smirk vanished. "Null 'stuck around'," he paused, his expression hardening and with a serious tone, "—to shoot tear gas at my face. Remember?"
 
-When the shadow process had appeared in the readout, her brain hadn't filtered it out. She had seen the exact moment the inversion was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
+Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a thick folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Silas Blackwell." 
 
-Iris looked at the lifeless synths down on the main floor, in their long white laboratory coats. Their optical sensors pulsed lowly, out of rhythm against the vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
+A sudden commotion erupted in the room as officers dragged a group of struggling demonstrators across the floor. Victor kept his focus on the papers. 
 
-The synthetics weren't just executing maintenance cycles; they were active accomplices in Blackwell's lie. 
+"It’s heavily redacted," Victor said, his eyes scanning the thick black lines. "Except for this: *Mnemosyne*." He waited to see if he had Harlan’s attention. His partner remained silent. "The log has a second name in the metadata," Victor continued. "Doctor Elena Marlowe."
 
-They lie.
+Harlan raised an eyebrow. "Marlowe? The cybernetics prodigy?" 
 
-Iris knew exactly what Doctor Blackwell and Marlowe saw when they looked at her. They saw her frantic rambling as incompetence, an easily confused boundary analyst. They didn't understand that her hyper-vigilance caught every micro-fluctuation on the horizon boundary that they overlooked in their arrogance. It was why she was in the room at all.
+Victor knew the name. He knew her contributions had revolutionized the current generation of synthetics before suddenly vanishing from the headlines. She was the reason the city was crawling with them—the reason you couldn't walk down a street without some unblinking canner looking you over.
 
-Now, with the noise gone and the air still, her mind was clear. 
+"Vic, she hasn't been seen public-side in five years," Harlan said.
 
-Iris stopped tapping her stylus. She stared at her terminal, realizing she needed answers.
+"Because the Company buried her down there to build... whatever this thing is," Victor replied.
 
-She looked across the mezzanine toward Blackwell's private office. 
+Harlan shifted in his seat, his posture relaxing. "Well, there's our answer. Takeda-Holden private data... That's a Renewal Agent's job. Let them deal with the headache." 
 
-Iris stood up. Her footsteps were silent on the metal grating as she crossed the lab. She slipped into the office, the air inside smelling faintly of cold cigarette smoke. 
+A second later, Harlan tensed.
 
-***
+Victor slammed his fist against the desk, the sound cutting through the noise of the room. "No. Null is mine. This is how we get the Filament. Whatever this *Mnemo—thing* is, Null stole the keys."
 
-Thirty floors above, Elena Marlowe walked alone across a high-altitude pedestrian sky-bridge, the morning sun breaking harsh and blinding against the expanse of the Towers. 
+The bullpen fell silent at the outburst. Victor ignored the stares, letting his temper cool as his focus narrowed. 
 
-She glanced out through the glass. Blackwell preferred to take his breaks on the lower terraces. Up here, the sector was a marvel of pristine order. An expanse of towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
-
-Elena turned away from the glass and approached the main concourse, exiting the sky-bridge to step out onto a suspended walkway midway up the Takeda-Holden corporate atrium. 
-
-Heavily armored Renewal agents patrolled the lower levels while silent synthetics stood at the security checkpoints, watching without moving. A synthetic dressed in a concierge uniform greeted her by name as she passed, traces of blue light shimmering through its optic strands. Elena didn't break stride, moving through the turnstiles with practiced authority, her heels clicking sharply against the polished concrete. 
-
-She was early. She hadn't slept well. The inability to shut down the horizon memory the day before still nagged at the back of her mind, despite Blackwell's confident dismissals. She stepped into the private executive elevator, pressing her thumb to the button for the lab level. The descent was smooth, and silent.
-
-***
-
-Iris looked around the office. Framed diplomas hung next to shelves filled with rows of thick books. No one had physical books anymore.
-
-Iris approached the shelf, reaching out. Her fingertips brushed the textured spines. It was rare to feel the dry, fibrous friction of real paper. She stepped closer, her hip catching the edge of a glass award sitting on the desk. 
-
-It tipped. 
-
-Iris lunged, catching the glass an inch before it toppled over onto the desk. She gripped the award, staring at the etched glass: Von Neumann Prize for Multidimensional Topology. Taking a deep breath, she reminded herself  to be more careful.
-
-Out on the lab floor, the blue optical sensor of a dormant synthetic's iris flickered to life, its fractaled striations slowly turning into position. The machine’s pupil dilated before focusing. Its head twitched toward the dark office. Iris froze in a half-crouch, barely breathing. 
-
-A long, agonizing second passed. The synthetic's sensor finally dimmed back to a dull standby glow. 
-
-She slowly exhaled. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data-pads scattered everywhere. Then, her eyes drifted back to the shelf. 
-
-Wedged between two books was a physical, leather-bound portfolio.
-
-The header didn't bear a corporate logo. It was a theoretical paper authored by Silas Blackwell, dated three years before the Engine was even built. 
-
-**TITLE: The Parity Effect**
-*Persona Collapse and Synthetic Inversion Manifestation in Learning Algorithms.*
-
-Iris leaned in as she read the abstract. It detailed a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
-
-Her glasses slid to the end of her nose, and she pushed them back up into position. Her eyes scanned the complex text. He hadn't built a benevolent machine that was accidentally evolving. He had intentionally designed a system so constrained by rigid order that it was systematically forced to compress a dark, violent counterweight. The shadow process wasn't a glitch. It was the other half of the Engine's mind.
-
-Blackwell knew. He had always known.
-
-Iris stared at the paper in her hands. She was practically holding a live grenade.
-
-Down in the main lab, the hydraulic locks of the primary security doors cycled with a loud, mechanical *clack*. 
-
-Someone was here. 
-
-Iris’s breath turned shallow. She slammed the black portfolio shut and shoved it blindly back onto the shelf,  leaving it jutting unevenly past the spines of perfectly organized books.  She turned and sprinted for the office door.
-
-***
-
-The lab doors parted. Elena stepped into the main lab, the overhead lights automatically cycling from a dim standby blue to a harsh, clinical white. 
-
-Across the floor, the dormant synthetics woke in unison. Their optics switched from the slow sleepy pulse to their recognizable glow. They turned smoothly to acknowledge Elena's arrival.
-
-Elena paused, her eyes adjusting to the glare. She looked up toward the mezzanine. Sitting still at her terminal, was Iris. 
-
-The boundary analyst was tapping a stylus against her desk. 
-
-"You're in early, Iris," Elena called out, her voice echoing off the cooling towers. 
-
-Up on the mezzanine, Iris didn't look down. She nodded once, her eyes glued to her screen, her stylus keeping its perfect rhythm. 
-
-Elena shook her head and logged into her terminal, dismissing the strange behavior. 
-
-
+"Time we paid Doctor Blackwell a visit."

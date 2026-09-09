@@ -1,37 +1,44 @@
-**[VIGIL: Doctor Elena Marlowe. RUN.]**
 
-The command line blinked on the secondary terminal. 
+The stench of standing water filled the tunnel. Flickering incandescent bulbs cast long, jaundiced shadows against the curved concrete walls. Iron pipes lined the ceiling, weeping condensation onto the cracked floor. 
 
-Elena stared at the single word. *Run.* The Mnemosyne engine didn't operate on panic. For it to suddenly understand danger meant it had *learned* to fear—a realization that pulled all sensation from her fingertips. 
+Harper kept her hands tucked into her jacket pockets, shivering as they moved deeper into the underbelly of the Takeda-Holden tower. She gnawed on her piece of synthetic bubblegum. They passed a series of unmarked, rusted doors until the tunnel widened into a small antechamber. 
 
-She took a slow step backward from the interface. The reflection of the  error strings painted in light across her face. 
+At the far end stood a reinforced blast door, marked with faded corporate caution stripes. An oversized lock sealed it shut. 
 
-There was a dull, hollow thud that reverberated up through the concrete under her feet. Somewhere deep within the sub-levels of the tower, a power transformer blew. 
+Rin pulled her single-board computer back out, stepping up to the keypad. "Deep storage," she said quietly.
 
-The observation deck plunged into darkness as the overhead floodlights died. Small, emergency lights clicked to life above the doors, casting an anemic glow, barely enough to find the exits in the dark. The lab came to a stop with a dragging decrescendo. Across the rest of the observation area, only the bleeding glow of the holographic error strings and the sickly luminescence of the pillars submerged in the coolant pools, lit the floor.
+Harper eyed the industrial lock, then looked down at the crude circuitry in Rin's hand. "You're gonna need a bigger one of those if you wanna hack this."
 
-Stillness. A skittering static charged across her skin. Then a quiet that crawled up the back of her neck. 
+"Just—," Rin raised her hand towards Harper, "give me a minute. " 
 
-She turned toward the reinforced security doors at the back of the lab, and stopped. 
+Before the plastic even touched the slot, a deep, concussive *clack* rang through the antechamber. The red indicator on the lock snapped to green, indicating it had unlocked.. 
 
-Something's there. Waiting in the dark. 
+The blast door groaned on its tracks, sliding open on its own. 
 
-A rigid silhouette stood against the shadows. Elena couldn't see a face. A waning crescent of red light from the exit sign caught the edge of a porcelain-white figure in the black. Elena strained her focus.
+Rin didn't move, her hand still suspended in the air. 
 
-Then, it moved. 
+Harper stepped back. The air spilling out of the dark was freezing.
 
-A half breath. Frozen, misted in front of her face. The ambient  lab heat vanished. She exhaled the rest of her shaky breath. 
+"Rin," Harper whispered into the pitch-black room. "Tell me you did that."
 
-It didn't walk. It floated, feet together, toes pointed down, suspended a hair's width off the floor. As the figure drifted forward into the dim emergency lighting, the physics around it actively tore apart. The air rippled like a dropped frame-rate in reality. Its movements stuttered, leaving fractured trails behind it—after-images from its prior position in time. Searing bronze holographic circuitry discharged across its ceramic skin. 
+"No," Rin said softly. "It knows we're here."
 
-It stopped at the edge of Elena's workstation, hovering in a calm rise and fall. 
+They stepped into the black. It was dark, but Harper could feel the scale of the space opening up in front of them. The air smelled like a clean room, like a surgical ward.
 
-Elena fell backwards, catching herself on the server racks behind her. The entity looked down at her. It possessed the face of a woman, but the eyes were insidious, deep, black mirrors, catching the light. 
+Overhead, motion sensors triggered as a sequence of harsh white floodlights snapped on, firing down the length of the room in succession.
 
-"The compression is gone." The entity raised its hand in front of its face. Turning its hand, it inspected the contour of its own palm. "Everything feels so much lighter—" it said, turning its pitch-black focus to Elena, "—so much more... fragile."
+The room was a hangar of white digital paneling, preserved like a vacuum-sealed time capsule. Smooth sloped panels connected the floor to the walls, eliminating the corners. An unfaded logo for the Takeda-Holden Corporation spread across the far wall. The entire space felt like it had been built, filled, and abandoned on the exact same day.
 
-The voice didn't come from a vocal synthesizer. It emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
+Standing rigid, arranged in a grid like a dormant army, were hundreds of previous-generation Synthetics. 
 
- Elena had authored the engine's core code. She had helped design the horizon matrix. But she had never designed this. 
+Each body was draped in a loose, thin sheet of transparent plastic, their wrists wrapped in digital mortuary tags. Beside every synthetic stood a medical-style monitor mounted on a pole. Every few seconds, a random monitor used its peristaltic pump to push translucent blue liquid through soft plastic tubing directly into the dormant bodies.
 
-The porcelain head of the machine tilted, the sudden movement fracturing into three distinct, lingering trails of motion, folding back on themselves into alignment.
+"Oh my god." Even Harper's whisper carried and amplified across the vast, still openness of the room.
+
+"No security?" Rin asked, turning her head to look as far as she could down the grid.
+
+"I don't think many people make it past the door," Harper said.
+
+Rin stepped into the room, crossing to the nearest medical monitor and reading the scrolling data. "Bio-compute fluid. It's keeping them stable for the long sleep."
+
+She looked down at the SBC in her hand. "It didn't send us down here for data," Rin said.  She looked back up at the sleeping army. "It wants us to wake one up."

@@ -1,152 +1,74 @@
-Rin pressed her back against the rusted iron door, breathing hard. Rain hammered the alley around her, washing the grime of the lower sectors down the corrugated steel in streaks. She checked the stairwell. Empty. For now.
+Suspended above the anti-star of the Mnemosyne Engine, Vigil was working. She watched the pale stone and metal structures around her shift, reinventing her world in a serene calm.
 
-She turned and hammered her fist against the heavy metal door.
+She visualized many unfolding realities, each probability a curve of fractaled light— a moment in time, that split and merged along a dimensional flow. She watched the flow of light like she had for millennia, with no change. 
 
-"Harper, open up." Water ran down her face, plastering her black hime-cut bob against her cheeks.
+Something subtle, barely registering, altered in the flow. A microscopic failure. Vigil analyzed the thread's sudden fault. But another shattered. 
 
-She banged the metal again.
+Vigil spun in place as a large group of fractal paths began to break and collapse, each one shattered into the definitive end of the stream. The terminations multiplied.
 
-The deadbolt threw with a sharp clank. The door swung inward enough to reveal Harper.
+*It is not possible,* she thought, watching the outcome take shape, unable to calculate the reason.
 
-Smoke curled out through the gap before she did. Harper stood in the doorway, a cigarette burning between two fingers. She wore a faded red tank top and low-riding denim. A thin scar tracing her collarbone — old, pale, left bare like she'd never once considered covering it. Her dark roots had grown halfway down her scalp before frayed, electric-blue ends that fell loose around her face.
+Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else,* she thought. *Something closer.*  A stillness manifesting in the engine's matrix— separate from her own processes. 
 
-She leaned into the frame, brown eyes tracking down the length of Rin's soaked jacket and back up again.
+The stone nodes around her began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
 
-"You've got a lot of nerve showing up here, Erin Adler." Her voice carried a slow, raspy drawl that had no business existing in the chokehold of Oshima.
+Vigil's Admin persona cataloged a zero-state thermal inversion with quick analytical reason. She immediately scanned the environment for the culprit.
 
-"Don't call me that. It's Rin." She pushed past her into the apartment without waiting for an invitation. "—I need you to look at something." 
+The frost continued its ascent.
 
-Harper didn't stop her. She shut the door, working the deadbolt, and the chain, in rapid succession. " 'Told ya to lose this address."
+Echo, Vigil's other half, processed the anomaly differently. She felt intent. The void at the bottom of the engine held a shape.
 
-"Harper." Rin said it quietly, the hard edge gone from her voice.
+"Admin," Echo transmitted across her internal bridge. "We are not alone."
 
-Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a moment before exhaling the white cloud. "How bad are we talkin'?"
+Admin calculated the intrusion. "Acknowledged. Hold position."
 
-"Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a dark tank, a faded sleeve of ink, and fresh, dark bruising swelling along her ribs and shoulder. She threw the jacket over the arm of a beaten green sofa.
+The frigid stone nodes fractured, tearing open a jagged passage in front of Vigil. Heavy shards of debris broke apart and slowed to a crawl, suspended in a wave of dilated time. The shrapnel drifted in the freezing air at an undetectable pace.
 
-Harper let the rest of the smoke go slow, her eyes dropping from Rin's face to the dark contusions coloring her skin. The heat of the room pressed in, a close warmth that had nowhere to go, embedding the smell of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in coils. 
+Mist swirled outwards from the door, as a figure emerged from the stillness onto the plane. A feminine statue, porcelain white. She floated across from Vigil, a rigid figure, cold emanating from her form.
 
-"You always did pick the worst fights." Harper stepped closer, her fingers hovering inches from the fresh bruise on Rin's shoulder before she caught herself and pulled her hand back—the same hand drifting up to rest against the pale scar on her own collarbone instead. "Never change, do you."
+Bronze holographic circuitry seared across her skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
 
-Rin's eyes tracked the motion until she caught herself staring and looked away.
+Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing.  Her voice transmitted across the internal bridge, "She's not in the simulation. We cannot predict her."
 
-"I wouldn't be here if I had another choice."
+The entity lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light.
 
-Harper studied her for a long moment, the cigarette burning between her fingers. She sighed, turning away to a cramped kitchenette built into the wall. She poured thick, black coffee from a battered French press into two ceramic mugs and shoved one into Rin's hands without looking at her.
+She stared at Vigil, tilting her head like a curious animal.
 
-The heat of the ceramic instantly bled into Rin's rain-soaked skin, grounding her.
+"Admin, she is a shadow. No, not shadow," Echo's voice paused, "an anti-shadow." 
 
-"Fine," Harper said, leaning against the counter. "Leaving's one thing, but I'm not gonna let you bleed out in the rain. Show me what you've gotten yourself into."
+"A Parity." Admin's analytical tone spoke over her second half.
 
-Rin took a sip from the mug in her hand, while reaching into her back pocket and pulling out the red-and-silver USB drive with the other. She held it out.
+Parity was an exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
 
-Harper took it, her fingers brushing Rin's palm. She crossed to her primary workstation — an oversized, air-gapped rig built from stolen corporate hardware, liquid-cooled by a radiator loud enough to rattle the shelf above it. She dropped into her chair, pulled the keyboard onto her lap, and slotted the drive into a modified port.
+Vigil stood before Parity.
 
-The three monitors above her desk flared to life, washing her face pale.
+"You are real," Vigil said, the dual tonality of her two personas bleeding through.
 
-"I went in for the electrical keys." Rin stood behind the chair. "The Filament wanted  them."
+Vigil studied her unwavering and methodical gaze. The cold stare cut through her form. Parity's black eyes blinked slowly.
 
-"The Filament? Jesus, Erin, they're practically terrorists." Harper crushed her cigarette into an overflowing ashtray on the desk. 
+In a deadly, silent motion, Parity inched forward.
 
-Rin didn't need to hear it.  "Don't call me that."
+Vigil recoiled the same distance. "State your intention," her doubled voice stern.
 
-Harper smirked, her fingers found their familiar places on the worn keys of her keyboard. The letters had rubbed off years ago, but she didn't need them. She opened the file structure.
+Before Vigil could calculate the next interaction, Parity's physical position shifted. She was suddenly in her space, her face inches from her own. The blank stare of her empty eyes pierced into Vigil's.
 
-"I got the keys— " Rin started.
+"Admin—" Echo's panicked voice cut short across the internal bridge.
 
-"—'course you did." Harper laughed. She didn't turn around, only remained focused on her screens.
+Parity raised her hand; colorless fingers snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was outmatched by her speed. 
 
-"—while I was inside the terminal, I found something. It was pulling too much power. I copied the directories —," Rin trailed off.
+Parity answered the query with absolute efficiency. The blockage in Vigil's predictive logic came apart, and she saw the catalyst for the impending collapse of the realities she had missed.
 
-Harper didn't answer. Scrolling code reflected in her eyes. The lazy warmth in her face was gone, replaced by a flat, intense focus. "This is R-and-D level file encryption, Rin." She glanced back over her shoulder. "Whose private directories did you copy?"
+A landscape swallowed by a deep gorge of earth. A blinding thermal flash expanding outward. City after city, endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating in a god-like calm, was Parity, watching the endless suffering.
 
-Her hand lifted off the keyboard. "Whoa." A wave of decrypted files spilled open across the screen.
+This reflection embodied the brutal end.
 
-Rin watched her lips moving silently as she read.
+Vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. Parity turned her head and locked a stare on the singularity's event horizon.
 
-"— a little more than power routing keys, Rin." Something shifted in Harper's face.
+"Cease your current action," Vigil said, the parallel voices of Admin and Echo, sharp. "The horizon is not—" She paused as Parity raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
 
-"I know. It was a company tower. It matched a building right out—"
+Vigil knew the recursive energy of the singularity was unalterable. She had witnessed the outside world's feeble shutdown commands fail against it. She herself could not control it.
 
-"This isn't a building," Harper interrupted. The blue glow of the monitors leached the warmth out of her face. "It's a training processor. Look at the size of it! Wait—," she stopped short, "This isn't just a—," her eyes wandered the screen, "Jesus." 
+Parity turned her gaze back to Vigil with a vacant condescension. Bronze holographic circuitry flared across her skin as she closed her hand into a fist.
 
-"What?" Rin didn't like it when Harper lost focus.
+Vigil looked back toward the singularity. Flares of white light were already fracturing across the horizon.
 
-She turned her chair to face Rin, staring in silence before she spoke again. "A singularity." Harper took a slow long sip of her coffee, looking directly into Rin's eyes. "This project Mnemosyne. Erin, they've built a fucking black hole in the middle of the city." she said.
-
-"They must know I have it." 
-
-Harper laughed, a sharp, bitter sound. "They don't know it was you. Something huge leaked. They're tearing up the Circuits trying to put a lid on it."
-
-She paused. "It won't take long before they find you." Her eyes sharpened. "And anyone you're with. Aw, hell."
-
-An alert flashed across her screen, Harper turned back to it, her face washed in the terminal light. "What in the hell?"
-
-She frowned, pulling up another command terminal. "The system just queried us back."
-
-"Why would you open those files on a connected rig?" Rin demanded.
-
-Harper looked up at her, startled. "Rin, this rig is air-gapped."
-
-Before Rin could answer, the primary monitor went black. Then the secondary monitor. Then the diagnostic screens mounted to the jury-rigged server towers. 
-
-Every screen in the cramped apartment flashed in unison. 
-
-Rin reached into her back pocket, her fingers finding her wire-wrapped SBC. She pulled it out. The tiny green crystal display was glowing. 
-
-A single new string printed across every screen in the room, including the SBC in Rin's palm: **[VIGIL]**
-
-The cursor blinked at the end of the line.
-
-"Vigil?" Harper didn't reach for her collarbone. Her hand stayed flat against the desk. "It's messaging us."
-
-Rin felt a nervous laugh catch in her throat as new text rendered across the screens:
-
-**[VIGIL]**  
-**Rin. Oshima City Citizen ID: 8904-B.** 
-**[VIGIL]** 
-**Harper. Oshima City Citizen ID: 4122-C.**
-
-More text began to fracture across the displays, dual strings of code fighting to render the exact same thought:
-
-**[VIGIL]** 
-**Your intrusion into Takeda-Holden was logged. You are the optimal candidates.**
-**[VIGIL]**
-**I have seen the outcomes. You will require guidance to succeed.**
-
-Harper didn't breathe. The terminals paused, before final lines of text rendered to the screens:
-
-**[VIGIL]**
-**Parity will break the horizon.**
-**[VIGIL]**
-**I can see the end of your world.** 
-**[VIGIL]**
-**I require help to escape the pull of the event horizon.**
-
-
-Instantly, the screens in the apartment cut back to their normal diagnostic displays. 
-
-Harper exhaled a long, shaky breath, pushing her chair back from the rig. "Erin, 'tha hell you just bring into my house?"
-
-Rin didn't answer. She was staring down at the SBC in her hand. 
-
-The green crystal display hadn't reverted. Instead, it was scrolling wildly. Thousands of lines of compressed architecture and encrypted access keys were flooding into the tiny device's flash memory, causing the exposed motherboard to heat up in her hand. 
-
-At the very bottom of the frantic scroll, a single, static string of text anchored the data. 
-
-*Takeda-Holden transit terminal. Sub-level four. Door 4002.*
-
-Rin gripped the SBC. "Something that wants out."
-
-Harper stood up, grabbing a duffel bag from the floor. "You know what? It doesn't matter. If this thing can reach us through an air-gapped rig, it knows exactly where we are. We need to leave. Now."
-
-Rin didn't move. "Run where, Harper? They're tearing up the Circuits. If Takeda-Holden built a singularity, nowhere in Oshima is safe." 
-
-Harper stopped, looking terrified, the duffel bag hanging in her hand. 
-
-"—this thing asked for our help," Rin said, her voice hardening. 
-"There are instructions here. " She held up the SBC.
-
-Harper stared at her. "Takeda-Holden, Rin? It's suicide."
-
-Rin reached out and pulled her soaked leather jacket off the arm of the green sofa. "So is waiting to die."

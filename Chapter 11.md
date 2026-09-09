@@ -1,70 +1,40 @@
-On any given day, the ambient temperature of the Dead Circuits was a humid, trapped heat. But at the base of the Takeda-Holden tower, the concrete beneath Harper's boots felt like a glacier.
+His hands clasped behind his back, Doctor Silas Blackwell stood on the mezzanine overlooking the Mnemosyne Engine. The main floor of the lab was quiet, the cooling fans spinning in a steady rhythm. Below him, Elena Marlowe was seated at her terminal, dark shadows under her eyes, leaning into her palm. 
 
-The dense fog that choked the upper city broke around tower, creating a strange cylinder of clear air rising  upward. 
+"The alignment is holding," Elena said, her voice echoing faintly. "For now."
 
-Harper tipped her head back. She couldn't see the actual top of the building from street level. Far above, the underbellies of New Veridia's pedestrian sky-bridges crisscrossed between the skyscrapers. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the deep blue of the early morning sky. The peaks of the surrounding skyscrapers were lost in the smog.
+Blackwell didn't reply. He turned away from the railing and walked into his private office. He stopped at his wooden desk.
 
-She stared up through the clearing. For the first time in years, she saw stars.
+His gaze snapped to the bookshelf.
 
-They were faint, clinging to the predawn light and competing with the polluted light of the city, but they were there. Between the sky-bridges, small pinholes of white in the fading dark.
+Wedged between two volumes was a black portfolio containing his original thesis paper on the Parity Effect. The spine, he always kept flush with the leather books beside it, now was jutting out of place.
 
-"You're staring," Rin said. 
+He stepped closer, pulling the portfolio from the shelf. He turned it over in his hands. The pristine matte finish bore the faint, oily smudge of a fingerprint near the edge.
 
-Harper broke her gaze from the sky and looked back down at the street. She turned her attention to Rin, who stood steps away, her jacket collar turned up against the localized cold. 
+Someone had been in the office. 
 
-"We're never gettin' through that lobby," Harper said, her voice cynical. The main concourse of the building was a fortress, and she knew it. Turnstiles, scanners, and heavily armed Renewal agents flanked every entrance.
+Blackwell set the portfolio back on the shelf, aligning it into it's place. He turned and walked back to the doorway, looking down at the lab floor. 
 
-"—Don't need the lobby," Rin replied shaking her head. She pulled out her wire-wrapped SBC. The small green crystal display listed a basic string of text instructions Vigil had dropped onto her drive. "Company buildings always have leftover deep storage in the sub-levels. Left over from before the mergers. Sealed up and unused."
+"Elena," Blackwell called out, his voice level. "Has anyone else been on the floor off-schedule this week?"
 
-Harper leaned over to read the glowing green text. "Takeda-Holden transit terminal, sub-level four, door 4002. What's even down there?"
+Elena didn't look up. "Just Iris. She was here early on Tuesday before my shift."
 
-"Don't know," Rin said, turning the SBC off. "But it's what it wants."
+Blackwell didn't react. He found a crumpled package of cigarettes from his pocket. Pulling it out, he closed his eyes. He drew a loose cigarette from the package and tapped it against the box. Monday morning. Iris was sitting at her terminal on the mezzanine. The exact rhythm of her stylus against her work station registered in his memory. 
 
-Harper smiled, though the anxiety didn't leave her eyes. "Always a plan." 
+He tapped the cigarette again. 
 
-They descended the concrete steps into the Takeda-Holden Transit Terminal. 
+The exact moment the shadow process had appeared in the readout, the synthetics scrubbed the log.  At the time he was focused on the logs, but Blackwell saw everything in the lab. 
+He went to tap the cigarette again and stopped. Iris's demeanor. Her stylus had stopped it's rhythm. There was a subtle stagger in her breath. An awkward shift in her eyes as she looked away. 
 
-The station's interchanges fell four tiers below them, surrounded by arches of polished white stone and chrome. 
+Iris had seen the synthetics scrub the logs. 
 
-Frictionless magnetic trains surged through the tunnels, pulling the super-cooled air deep into New Veridia before settling back in. Harper watched her breath plume in the sterile overhead lighting. The dry, unnatural air crawled along her skin with a prickle of static electricity. The elite commuters didn't seem to notice, but it stiffened Harper's joints.
+*She knows.* Blackwell realized she had come looking for answers.
 
-Taking the escalators past the upper commuter hubs was out of the question. Neither of them carried the New Veridia IDs required to legally stand on the platform. They descended the terminals empty staircase, ignored by the commuters for its inconvenience. 
+His eyes opened, pulse slowed to a calm, steady rhythm, matching his stride. His footsteps rang out across the lab as he walked out of the office and down the metal stairs.
 
-Each level was marked with a wall sized stenciled number, they continued until they hit sub-level four. 
+Elena looked up from her terminal as he passed. "Doctor? Is something wrong?"
 
-Morning commuters, Renewal office workers, and high-end synthetics packed the platform. The floors were black marble, extending like spilled ink across the terminal.
+Blackwell didn't break stride, marching straight toward the hydraulic doors. 
 
-As they reached the platform, the temperature plummeted further. 
-The herd of corporate suits moved quickly, racing to get out of Oshima as fast as possible. Some waited for trains, while others moved toward the tower's executive lifts, speeding up to the pedestrian sky-bridges hundreds of stories above them.
+"Something important has come up," Blackwell said, his voice cold and absolute. "Continue to monitor the horizon boundary until I return."
 
-Harper and Rin wore the grime of the Dead Circuits. Harper's brown suede jacket was worn. Rin's boots scuffed against the marble. The wealthy commuters actively parted around them, casting disgusted glances over their hand-held devices at the two girls dirtying the transit hub.
-
-Harper's eyes darted toward the far end. "Where is it?"
-
-"End of the line," Rin said, pulling her SBC from her pocket. She veered away from the tracks, cutting toward a secluded corridor of rusted green maintenance doors running along the side of the train tube. 
-
-They found it hidden in the freezing shadows. Faded white stenciling on the rusted, green steel door read: **4002**. 
-
-Rin didn't hesitate. A blank magnetic card dangled from a thin ribbon cable on the SBC. She swiped it through the door's reader. The lock flashed a harsh red. 
-
-"Keep watch," Rin said. The bare circuit board in her hand flickered with raw data, running a brute-force decryption against the doors card reader. 
-
-Harper stepped back, scanning the platform. Corporate executives flowed past. 
-
-The crowd parted as two Renewal agents made their way through the terminal platform, patrolling the marble floors. They turned the corner, their opaque visors sweeping the corridor. 
-
-"Rin," Harper breathed. "We have a problem."
-
-The lead agent's hemlet locked onto them. He raised a riot-control baton and pointed it through the crowd, his voice booming over the noise of the terminal. "Hey! Step away from the door!"
-
-"I need ten seconds," Rin said, watching the flow of numbers move down the green display of the SBC.
-
-"You don't have ten!" Harper gasped as the agent broke into a menacing sprint down the platform. The crowd scattered, making way for the charging agent. 
-
-A sharp beep chirped from the SBC, the small green crystal display reading a series of hashed numbers and letters. 
-
-The agent closed the distance, raising the baton to strike. Harper stepped squarely in front of Rin, bracing herself to take the blow. 
-
-Rin dragged the card upward through the reader a second time. The magnetic lock disengaged with a heavy, mechanical clack. Rin shoved her shoulder against the steel door, forcing it open. She grabbed Harper by the jacket collar pulling her firmly backward into the dark as the baton swung through the empty air.
-
-The heavy door slammed shut, severing the bright lights of the transit terminal. They stood in the pitch-black, freezing shadows. A second later, a heavy fist hammered against the steel door for the other side.
+He stepped through the doors, the steel sealing shut behind him.

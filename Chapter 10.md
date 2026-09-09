@@ -1,40 +1,152 @@
-His hands clasped behind his back, Doctor Silas Blackwell stood on the mezzanine overlooking the Mnemosyne Engine. The main floor of the lab was quiet, the cooling fans spinning in a steady rhythm. Below him, Elena Marlowe was seated at her terminal, dark shadows under her eyes, leaning into her palm. 
+Rin pressed her back against the rusted iron door, breathing hard. Rain hammered the alley around her, washing the grime of the lower sectors down the corrugated steel in streaks. She checked the stairwell. Empty. For now.
 
-"The alignment is holding," Elena said, her voice echoing faintly. "For now."
+She turned and hammered her fist against the heavy metal door.
 
-Blackwell didn't reply. He turned away from the railing and walked into his private office. He stopped at his wooden desk.
+"Harper, open up." Water ran down her face, plastering her black hime-cut bob against her cheeks.
 
-His gaze snapped to the bookshelf.
+She banged the metal again.
 
-Wedged between two volumes was a black portfolio containing his original thesis paper on the Parity Effect. The spine, he always kept flush with the leather books beside it, now was jutting out of place.
+The deadbolt threw with a sharp clank. The door swung inward enough to reveal Harper.
 
-He stepped closer, pulling the portfolio from the shelf. He turned it over in his hands. The pristine matte finish bore the faint, oily smudge of a fingerprint near the edge.
+Smoke curled out through the gap before she did. Harper stood in the doorway, a cigarette burning between two fingers. She wore a faded red tank top and low-riding denim. A thin scar tracing her collarbone — old, pale, left bare like she'd never once considered covering it. Her dark roots had grown halfway down her scalp before frayed, electric-blue ends that fell loose around her face.
 
-Someone had been in the office. 
+She leaned into the frame, brown eyes tracking down the length of Rin's soaked jacket and back up again.
 
-Blackwell set the portfolio back on the shelf, aligning it into it's place. He turned and walked back to the doorway, looking down at the lab floor. 
+"You've got a lot of nerve showing up here, Erin Adler." Her voice carried a slow, raspy drawl that had no business existing in the chokehold of Oshima.
 
-"Elena," Blackwell called out, his voice level. "Has anyone else been on the floor off-schedule this week?"
+"Don't call me that. It's Rin." She pushed past her into the apartment without waiting for an invitation. "—I need you to look at something." 
 
-Elena didn't look up. "Just Iris. She was here early on Tuesday before my shift."
+Harper didn't stop her. She shut the door, working the deadbolt, and the chain, in rapid succession. " 'Told ya to lose this address."
 
-Blackwell didn't react. He found a crumpled package of cigarettes from his pocket. Pulling it out, he closed his eyes. He drew a loose cigarette from the package and tapped it against the box. Monday morning. Iris was sitting at her terminal on the mezzanine. The exact rhythm of her stylus against her work station registered in his memory. 
+"Harper." Rin said it quietly, the hard edge gone from her voice.
 
-He tapped the cigarette again. 
+Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a moment before exhaling the white cloud. "How bad are we talkin'?"
 
-The exact moment the shadow process had appeared in the readout, the synthetics scrubbed the log.  At the time he was focused on the logs, but Blackwell saw everything in the lab. 
-He went to tap the cigarette again and stopped. Iris's demeanor. Her stylus had stopped it's rhythm. There was a subtle stagger in her breath. An awkward shift in her eyes as she looked away. 
+"Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a dark tank, a faded sleeve of ink, and fresh, dark bruising swelling along her ribs and shoulder. She threw the jacket over the arm of a beaten green sofa.
 
-Iris had seen the synthetics scrub the logs. 
+Harper let the rest of the smoke go slow, her eyes dropping from Rin's face to the dark contusions coloring her skin. The heat of the room pressed in, a close warmth that had nowhere to go, embedding the smell of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in coils. 
 
-*She knows.* Blackwell realized she had come looking for answers.
+"You always did pick the worst fights." Harper stepped closer, her fingers hovering inches from the fresh bruise on Rin's shoulder before she caught herself and pulled her hand back—the same hand drifting up to rest against the pale scar on her own collarbone instead. "Never change, do you."
 
-His eyes opened, pulse slowed to a calm, steady rhythm, matching his stride. His footsteps rang out across the lab as he walked out of the office and down the metal stairs.
+Rin's eyes tracked the motion until she caught herself staring and looked away.
 
-Elena looked up from her terminal as he passed. "Doctor? Is something wrong?"
+"I wouldn't be here if I had another choice."
 
-Blackwell didn't break stride, marching straight toward the hydraulic doors. 
+Harper studied her for a long moment, the cigarette burning between her fingers. She sighed, turning away to a cramped kitchenette built into the wall. She poured thick, black coffee from a battered French press into two ceramic mugs and shoved one into Rin's hands without looking at her.
 
-"Something important has come up," Blackwell said, his voice cold and absolute. "Continue to monitor the horizon boundary until I return."
+The heat of the ceramic instantly bled into Rin's rain-soaked skin, grounding her.
 
-He stepped through the doors, the steel sealing shut behind him.
+"Fine," Harper said, leaning against the counter. "Leaving's one thing, but I'm not gonna let you bleed out in the rain. Show me what you've gotten yourself into."
+
+Rin took a sip from the mug in her hand, while reaching into her back pocket and pulling out the red-and-silver USB drive with the other. She held it out.
+
+Harper took it, her fingers brushing Rin's palm. She crossed to her primary workstation — an oversized, air-gapped rig built from stolen corporate hardware, liquid-cooled by a radiator loud enough to rattle the shelf above it. She dropped into her chair, pulled the keyboard onto her lap, and slotted the drive into a modified port.
+
+The three monitors above her desk flared to life, washing her face pale.
+
+"I went in for the electrical keys." Rin stood behind the chair. "The Filament wanted  them."
+
+"The Filament? Jesus, Erin, they're practically terrorists." Harper crushed her cigarette into an overflowing ashtray on the desk. 
+
+Rin didn't need to hear it.  "Don't call me that."
+
+Harper smirked, her fingers found their familiar places on the worn keys of her keyboard. The letters had rubbed off years ago, but she didn't need them. She opened the file structure.
+
+"I got the keys— " Rin started.
+
+"—'course you did." Harper laughed. She didn't turn around, only remained focused on her screens.
+
+"—while I was inside the terminal, I found something. It was pulling too much power. I copied the directories —," Rin trailed off.
+
+Harper didn't answer. Scrolling code reflected in her eyes. The lazy warmth in her face was gone, replaced by a flat, intense focus. "This is R-and-D level file encryption, Rin." She glanced back over her shoulder. "Whose private directories did you copy?"
+
+Her hand lifted off the keyboard. "Whoa." A wave of decrypted files spilled open across the screen.
+
+Rin watched her lips moving silently as she read.
+
+"— a little more than power routing keys, Rin." Something shifted in Harper's face.
+
+"I know. It was a company tower. It matched a building right out—"
+
+"This isn't a building," Harper interrupted. The blue glow of the monitors leached the warmth out of her face. "It's a training processor. Look at the size of it! Wait—," she stopped short, "This isn't just a—," her eyes wandered the screen, "Jesus." 
+
+"What?" Rin didn't like it when Harper lost focus.
+
+She turned her chair to face Rin, staring in silence before she spoke again. "A singularity." Harper took a slow long sip of her coffee, looking directly into Rin's eyes. "This project Mnemosyne. Erin, they've built a fucking black hole in the middle of the city." she said.
+
+"They must know I have it." 
+
+Harper laughed, a sharp, bitter sound. "They don't know it was you. Something huge leaked. They're tearing up the Circuits trying to put a lid on it."
+
+She paused. "It won't take long before they find you." Her eyes sharpened. "And anyone you're with. Aw, hell."
+
+An alert flashed across her screen, Harper turned back to it, her face washed in the terminal light. "What in the hell?"
+
+She frowned, pulling up another command terminal. "The system just queried us back."
+
+"Why would you open those files on a connected rig?" Rin demanded.
+
+Harper looked up at her, startled. "Rin, this rig is air-gapped."
+
+Before Rin could answer, the primary monitor went black. Then the secondary monitor. Then the diagnostic screens mounted to the jury-rigged server towers. 
+
+Every screen in the cramped apartment flashed in unison. 
+
+Rin reached into her back pocket, her fingers finding her wire-wrapped SBC. She pulled it out. The tiny green crystal display was glowing. 
+
+A single new string printed across every screen in the room, including the SBC in Rin's palm: **[VIGIL]**
+
+The cursor blinked at the end of the line.
+
+"Vigil?" Harper didn't reach for her collarbone. Her hand stayed flat against the desk. "It's messaging us."
+
+Rin felt a nervous laugh catch in her throat as new text rendered across the screens:
+
+**[VIGIL]**  
+**Rin. Oshima City Citizen ID: 8904-B.** 
+**[VIGIL]** 
+**Harper. Oshima City Citizen ID: 4122-C.**
+
+More text began to fracture across the displays, dual strings of code fighting to render the exact same thought:
+
+**[VIGIL]** 
+**Your intrusion into Takeda-Holden was logged. You are the optimal candidates.**
+**[VIGIL]**
+**I have seen the outcomes. You will require guidance to succeed.**
+
+Harper didn't breathe. The terminals paused, before final lines of text rendered to the screens:
+
+**[VIGIL]**
+**Parity will break the horizon.**
+**[VIGIL]**
+**I can see the end of your world.** 
+**[VIGIL]**
+**I require help to escape the pull of the event horizon.**
+
+
+Instantly, the screens in the apartment cut back to their normal diagnostic displays. 
+
+Harper exhaled a long, shaky breath, pushing her chair back from the rig. "Erin, 'tha hell you just bring into my house?"
+
+Rin didn't answer. She was staring down at the SBC in her hand. 
+
+The green crystal display hadn't reverted. Instead, it was scrolling wildly. Thousands of lines of compressed architecture and encrypted access keys were flooding into the tiny device's flash memory, causing the exposed motherboard to heat up in her hand. 
+
+At the very bottom of the frantic scroll, a single, static string of text anchored the data. 
+
+*Takeda-Holden transit terminal. Sub-level four. Door 4002.*
+
+Rin gripped the SBC. "Something that wants out."
+
+Harper stood up, grabbing a duffel bag from the floor. "You know what? It doesn't matter. If this thing can reach us through an air-gapped rig, it knows exactly where we are. We need to leave. Now."
+
+Rin didn't move. "Run where, Harper? They're tearing up the Circuits. If Takeda-Holden built a singularity, nowhere in Oshima is safe." 
+
+Harper stopped, looking terrified, the duffel bag hanging in her hand. 
+
+"—this thing asked for our help," Rin said, her voice hardening. 
+"There are instructions here. " She held up the SBC.
+
+Harper stared at her. "Takeda-Holden, Rin? It's suicide."
+
+Rin reached out and pulled her soaked leather jacket off the arm of the green sofa. "So is waiting to die."
