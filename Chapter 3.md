@@ -12,7 +12,7 @@ Degraded vehicles suspended inches above the broken pavement on magnetic cushion
 
 As she hit the adjacent curb she looked up, in the darkened glass of a storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison. 
 
-The anchorwoman's face fractured into thick scanlines. Beneath the static—hidden amongst the broken signal—a new visage appeared. The shape of a face, devoid of color, composed across the stacked screens. Its eyes burned a blinding white, flaring with a blue aura. The face breached and drowned in the dissonant black and white static, surfacing only to be pulled back under.
+The anchorwoman's face fractured into thick scanlines. Beneath the static—hidden amongst the broken signal—a new visage appeared. The shape of a face, devoid of color, composed across the stacked screens. Its eyes burned white, flaring with a blue aura. The face breached and drowned in the dissonant black and white static, surfacing only to be pulled back under.
 
 Its expression was hauntingly focused—on Rin. 
 She let out a shaky breath, and her boots scuffed the wet pavement as she turned to face the wall of screens. 
@@ -49,7 +49,7 @@ The Madame took it and turned it over, a grim smile pulling at the deep lines ar
 
 "It seems you have a small issue of the Renewal following you down here, Erin Alder," the old woman's voice was low and gritty.  Hearing the  Madame of the Filament speaking her full name didn't sit well with Rin.
 
-"You should be more careful when you bring heat into my house." The woman paused, looking over the top of her glasses. "But, because you have been of service us, if the circumstance arises where the Filament can be of assistance to you—" she took a long drag off her cigarette, the smoke spilling out of her mouth and nostrils as she spoke, "—we will."
+"You should be more careful when you bring heat into my house." The woman paused, looking over the top of her glasses. "But, because you have been of service to us, if the Filament can be of assistance to you—" she took a long drag off her cigarette, the smoke spilling out of her mouth and nostrils as she spoke, "—we will."
 
 "Yes, ma'am," Rin said, acknowledging an offer she had no intention of accepting.
 
