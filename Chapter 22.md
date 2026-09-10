@@ -36,7 +36,7 @@ Victor shot a subtle glance toward the security camera in the top corner of the 
 
 The reality of her total isolation settled over her. The Madame had abandoned her. But, the detective was playing a dangerous game with Renewal—if they ever found out he had her. 
 
-He leaned in closer, dropping his voice to a quiet, commanding tone, "I found you. In that room, at that moment. I'm the only person alive who knows where you're sitting." 
+He leaned in closer, dropping his voice to a quiet, commanding tone, "I found you. In that place, at that moment. I'm the only person alive who knows where you're sitting." 
 
 Rin heard his voice, *I found you in this place, at this moment.* It was what the first thing Vigil had said to her in Deep Storage. She stopped fighting, and slumped back in the steel chair, breaking eye contact to stare at the dirty tiles on the floor.
 
