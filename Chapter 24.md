@@ -1,6 +1,6 @@
 The single fluorescent tube overhead flickered, popping with a sharp electrical snap. Victor Graves sat still, staring across the metal table. He had been patient. He wanted the head of the Filament, and Erin Adler was the bait. If she wanted to avoid a concrete cell, she would make a deal.
 
-The steel door to the interrogation room unlocked with a whirring mechanical clack. A synthetic guard pushed it inward. Harlan stepped through, carrying two steaming foam cups. The synthetic followed him inside, taking up a rigid position against the wall by the door. 
+The steel door to the interrogation room unlocked with a whirring mechanical clack. A synthetic wearing an Oshima police issue black bomber jacket, and five point cap, pushed the door inward. Harlan stepped through, carrying two steaming foam cups. The synthetic followed him inside, taking up a rigid position against the wall by the door. 
 
 Harlan set a cup in front of Victor, leaning close. "Did you ask her?" he kept his voice low.
 
