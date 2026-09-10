@@ -18,7 +18,7 @@ Harper pulled the plastic sheet back slightly. A small serial designation was st
 
 "Yeah. RA," Rin said, looking over the slender, unassuming carbon-fiber frame. "A decommissioned Renewal Agent."
 
-"An enforcer?" Harper stared at the letters. "You wouldn't guess it. Usually, they're buried inside a hundred pounds of black tactical armor, kicking down doors."
+"An enforcer?" Harper stared at the letters. "You wouldn't guess it. Usually, they're buried inside a hundred pounds of black tactical armor."
 
 "Makes you wonder," Harper said quietly, her hand drifting up to brush across the scar on her collarbone. "How many of the agents walking the streets are actually human under all that plating. There's no way to tell."
 
@@ -44,9 +44,7 @@ The synthetic slowly lifted its hand, pulling the plastic sheet down off its bod
 
 "Harper?" Rin's voice was shaky.
 
-The synthetic turned its head to look at Rin and Harper.  "I have found you in this moment—"
-
-The synthetic grabbed Rin by the shoulder, "Retrieval." It fell to one knee, its voice a broken harmony, randomly fracturing between two distinct tones. "Oshima Precinct Forty-Three. Six hundred and seventy-two hours. Fourteen minutes. Thirty seconds."
+The synthetic turned its head to look at Rin and Harper.  "I have found you in this moment—" The synthetic  fell to one knee, its voice a broken harmony, randomly fracturing between two distinct tones. It grabbed Rin by the shoulder, "Retrieval. Oshima Precinct Forty-Three. Six hundred and seventy-two hours. Fourteen minutes. Thirty seconds."
 
 "What?" Rin stepped back. "Retrieval?"
 
