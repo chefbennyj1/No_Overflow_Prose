@@ -34,11 +34,11 @@ Rin blinked her eyes, turned her head and looked up at him. For the first time i
 
 Victor shot a subtle glance toward the security camera in the top corner of the room. "They think you're sitting in a cell for auto theft. The Madame left you to rot here for a month. She already burned you. I am the only wall between you and Renewal."
 
-The reality of her total isolation settled over her. The Madame had abandoned her. But, the detective was playing a dangerous game with Renewal—if they ever found out he had her. Rin stopped fighting. She slumped back in the steel chair, breaking eye contact to stare at the dirty tiles on the floor.
+The reality of her total isolation settled over her. The Madame had abandoned her. But, the detective was playing a dangerous game with Renewal—if they ever found out he had her. 
 
 He leaned in closer, dropping his voice to a quiet, commanding tone, "I found you. In that room, at that moment. I'm the only person alive who knows where you're sitting." 
 
-Rin heard his voice, *Found you in this place at this moment* It was what the first thing Vigil had said to her in Deep Storage.
+Rin heard his voice, *I found you in this place, at this moment.* It was what the first thing Vigil had said to her in Deep Storage. She stopped fighting, and slumped back in the steel chair, breaking eye contact to stare at the dirty tiles on the floor.
 
 "Now, why did you take the job, Erin?" he asked, pinning her with his colorless eyes. "Did you steal that data because you wanted to help the Filament burn this city to the ground... or did you just do it because you were desperate to buy your way out of the slums?"
 
