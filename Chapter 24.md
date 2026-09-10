@@ -24,25 +24,17 @@ Harlan didn't blink. The muscles in his jaw tightened. Victor leaned in "Come on
 
 Victor stared at her hand. His eyes tracked the rise and fall of her index finger. It wasn't a nervous twitch. The rhythm was flawless. Precise. Exact seconds tapped out against the aluminum. 
 
-*Tap.* 
+*Her finger hit the table again. The realization hit him like ice water in his veins. It wasn't a stall. It was a countdown. 
 
-The realization hit him like ice water in his veins. It wasn't a stall. It was a countdown. 
+Victor slowly turned his head toward the door. His eyes made contact with the synthetic who  stood perfectly still against the wall. Victor's eyes fell to the stamp beneath its left eye. It read `RA-77`. Oshima PD didn't employ `RA` units. 
 
-Time seemed to drag to a crawl as Victor slowly turned his head toward the door. 
-
-The synthetic stood perfectly still against the wall. Victor's eyes fell to the stamp beneath its left eye. It didn't read `PD`. Oshima PD didn't employ `RA` units. 
-
-`RA-77`. 
-
-A Takeda-Holden Corporate killer. Inside his precinct. 
+*A Takeda-Holden Corporate killer. Inside his precinct.* 
 
 The cheap foam cup slipped from Victor's fingers. It hit the floor, bursting open and spilling scalding black coffee across the tiles. 
 
 "Harlan!" Victor yelled, reaching for the revolver under his coat.
 
-The synthetic didn't reach for a weapon. It simply looked at him, and its eyes ignited. 
-
-The room didn't go dark. It went white. A blinding, incandescent flare of pure light erupted from the synthetic's eyes, searing with the intensity of a dying star. 
+The synthetic didn't reach for a weapon. It  looked at him, and its eyes ignited. It went white with a blinding, incandescent flare of pure light. It was searing with the intensity of a dying star. 
 
 For Victor, it was absolute agony. His albinotic eyes, already sensitive to the cheap fluorescent bulbs, were completely overwhelmed. The world washed out in a violent, burning white. He cried out, throwing his arm over his face, completely blinded. 
 
