@@ -26,58 +26,42 @@ Her finger hit the table again. The realization hit him like ice water in his ve
 
 But Victor didn't wait for zero. He moved early. 
 
-He stood up, pushing his chair back. Time seemed to drag to a crawl as he turned his head toward the door. 
+He turned his head toward the door. The synthetic stood perfectly still against the wall. Victor's eyes fell to the stamp beneath its left eye. It didn't read `PD`, it read `RA-77`.  Oshima PD didn't employ `RA` units. 
 
-The synthetic stood perfectly still against the wall. Victor's eyes fell to the stamp beneath its left eye. It didn't read `PD`. Oshima PD didn't employ `RA` units. 
-
-`RA-77`. 
-
-A Takeda-Holden Corporate killer. Inside his precinct. 
+A Takeda-Holden Corporate Renewal Agent. Inside his precinct. 
 
 The cheap foam cup slipped from Victor's fingers. It hit the floor, bursting open and spilling scalding black coffee across the tiles. 
 
-It wasn't a jailbreak. In Victor's mind, it was an erasure. The Company had finally found out he was holding their data thief on a fake auto-theft charge, and they sent a machine to silence her. 
+In Victor's mind, the Company had finally found out he was holding their data thief on a fake auto-theft charge, and they sent a machine to silence her. 
 
 Victor stepped cleanly between the synthetic and the table, shielding the girl with his body. He reached under his coat for his revolver. 
 
-"Harlan, get down!" 
+Sure that Harlan hadn't seen the stamp, Victor yelled. "Harlan, get down!"  
 
-But Harlan hadn't seen the stamp. He only saw his veteran partner drawing down on a precinct guard. Harlan lunged, grabbing Victor's arm to stop him. The two men collided, struggling for a fraction of a second. 
+There was a crack, as the power in the ten-by-ten room went dead.
+The precinct went black. Outside the door, the corridor and bull pin erupted in shouting, the frantic scuffle of boots as the officers immediately delt with the power outage. 
 
-That was the variable. 
+"Victor, what the hell is—?" Harlan stopped.
 
-The synthetic twitched. A sharp, unnatural jerk of its carbon-fiber frame. It wasn't executing a plan anymore. It was a god improvising, badly, in a ten-by-ten room, reacting to a man it couldn't model. 
+The synthetic beside the door twitched. A sharp, unnatural jerk of its carbon-fiber frame. Turned toward the two officers in the room. 
+Victor raised his aim toward the synthetic. In the dark, he  could see  it was no longer stand, instead it was hovering far above the floor.
+The synthetic's eyes ignited. A blinding, incandescent white light erupted in the room, hitting Victor when his pupils were widest of all. 
 
-The precinct went black. 
+It was absolute agony. The world washed out in a tearing white. He cried out, throwing his arm over his face, collapsing to his knees on the coffee-soaked tiles, utterly blinded. 
 
-The heavy hum of the building died instantly. Outside the door, the corridor erupted in shouting, the frantic scuffle of boots, and people groping blindly at the walls. 
-
-Inside the room, Victor stopped fighting Harlan's grip. 
-
-In the sudden, absolute pitch-black, his albinotic eyes relaxed. For the first time in his life, the burning stopped. The world sharpened into deep, ambient blues and greys. The advantage flipped. For a single heartbeat, the man whose eyes had failed him in the atrium sun and the glaring fluorescent bulbs could see better than anyone in the building. 
-
-He aimed his weapon at the synthetic in the dark. 
-
-And then she took it away. 
-
-The synthetic's eyes ignited. A blinding, incandescent flare of pure white light erupted in the pitch-black room, hitting Victor when his pupils were widest of all. 
-
-It was absolute agony. The world washed out in a violent, tearing white. He cried out, throwing his arm over his face, collapsing to his knees on the coffee-soaked tiles. He was completely, utterly blinded. 
-
-He couldn't see, but he could hear. The heavy, precise servo whine of an RA unit moving in the dark. The violent snap of metal breaking as the cuffs were torn from the table. 
+The could sense the shuffle of the RA unit moving. The violent snap of metal breaking as the cuffs were torn from the table. 
 
 Victor lunged blindly from the floor. He threw his hand out into the burning white afterimage, his fingers grasping wildly at the empty air. 
 
 He caught a wrist. Warm skin. Rin. 
 
-He held her tight, three feet away in the blinding dark. He had her. 
+He held her tight. He couldn't see but he had her. 
 
-"I told you," her voice whispered, impossibly calm over the ringing in his ears. "They don't have control."
+"I told you," her voice whispered calmly in his ear. "They don't have control."
 
 She twisted her wrist, slipping effortlessly from his grip. 
 
-He heard the heavy boots of the synthetic and the light footsteps of the girl fading into the chaotic hallway. 
+He heard the light footsteps of the girl fading into the chaotic hallway. 
 
-Victor knelt in the spilled coffee, clutching at nothing. The realization sank into his bones, heavier than the dark. She had known the exact second to tap. She had been given that number weeks ago in Deep Storage, long before the cuffs ever went on. 
+Victor knelt in the spilled coffee, clutching at nothing. The realization sank into his bones, heavier than the dark. She had been waiting, something he had said alerted her to her accomplices. 
 
-He hadn't been breaking a suspect for four weeks. He had just been keeping her warm until her ride arrived.
