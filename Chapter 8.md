@@ -14,19 +14,17 @@ Blackwell's voice still echoed in her head, sharp enough to make her wince.
 
 When the shadow process had appeared in the readout, her brain hadn't filtered it out. She had seen the exact moment the inversion was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
 
-Iris looked at the lifeless synths down on the main floor, in their long white laboratory coats. Their optical sensors pulsed  out of rhythm, lowly against the vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
+Iris looked at the lifeless synths down on the main floor, in their long white laboratory coats. Their optical sensors pulsed out of rhythm, lowly against their vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
 
-The synthetics weren't just executing maintenance cycles; they were active accomplices in Blackwell's lie. 
+The synthetics weren't only executing maintenance cycles; they were active accomplices in Blackwell's lie. 
 
 They lie.
 
 Iris knew exactly what Doctor Blackwell and Marlowe saw when they looked at her. They saw her frantic rambling as incompetence, an easily confused boundary analyst. They didn't understand that her hyper-vigilance caught every micro-fluctuation on the horizon boundary that they overlooked in their arrogance. It was why she was in the room at all.
 
-Now, with the noise gone and the air still, her mind was clear. 
 
-Iris stopped tapping her stylus. She stared at her terminal, realizing she needed answers.
 
-She looked across the mezzanine toward Blackwell's private office. 
+Now, with the noise gone and the air still, her mind was clear. Iris stopped tapping her stylus. She stared at her terminal, realizing she needed answers. She looked across the mezzanine toward Blackwell's private office. 
 
 Iris stood up. Her footsteps were silent on the metal grating as she crossed the lab. She slipped into the office, the air inside smelling faintly of cold cigarette smoke. 
 
@@ -36,11 +34,17 @@ Thirty floors above, Elena Marlowe walked alone across a high-altitude pedestria
 
 She glanced out through the glass. Blackwell preferred to take his breaks on the lower terraces. Up here, the sector was a marvel of pristine order. An expanse of towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
 
+
 Elena turned away from the glass and approached the main concourse, exiting the sky-bridge to step out onto a suspended walkway midway up the Takeda-Holden corporate atrium. 
 
-Heavily armored Renewal agents patrolled the lower levels while silent synthetics stood at the security checkpoints, watching without moving. A synthetic dressed in a concierge uniform greeted her by name as she passed, traces of blue light shimmering through its optic strands. Elena didn't break stride, moving through the turnstiles with practiced authority, her heels clicking sharply against the polished concrete. 
+Heavily armored Renewal agents patrolled the lower levels while silent synthetics stood at the security checkpoints, watching without moving. A synthetic dressed in a concierge uniform greeted her by name as she passed, traces of blue light shimmering through its optic strands. 
+
+Elena didn't break stride, moving through the turnstiles with practiced authority, her heels clicking sharply against the polished concrete. 
 
 She was early. She hadn't slept well. The inability to shut down the horizon memory the day before still nagged at the back of her mind, despite Blackwell's confident dismissals. She stepped into the private executive elevator, pressing her thumb to the button for the lab level. The descent was smooth, and silent.
+
+
+
 
 ***
 
@@ -58,16 +62,16 @@ A long, agonizing second passed. The synthetic's sensor finally dimmed back to a
 
 She slowly exhaled. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data-pads scattered everywhere. Then, her eyes drifted back to the shelf. 
 
-Wedged between two books was a physical, leather-bound portfolio.
-
-The header didn't bear a corporate logo. It was a theoretical paper authored by Silas Blackwell, dated three years before the Engine was even built. 
+Wedged between two books was a physical, leather-bound portfolio. The header didn't bear a corporate logo. It was a theoretical paper authored by Silas Blackwell, dated three years before the Engine was even built. 
 
 **TITLE: The Parity Effect**
 *Persona Collapse and Synthetic Inversion Manifestation in Learning Algorithms.*
 
 Iris leaned in as she read the abstract. It detailed a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
 
-Her glasses slid to the end of her nose, and she pushed them back up into position. Her eyes scanned the complex text. He hadn't built a benevolent machine that was accidentally evolving. He had intentionally designed a system so constrained by rigid order that it was systematically forced to compress a dark, violent counterweight. The shadow process wasn't a glitch. It was the other half of the Engine's mind.
+Her glasses slid to the end of her nose, and she pushed them back up into position. Her eyes scanned the complex text. He hadn't built a benevolent machine that was accidentally evolving. He had intentionally designed a system so constrained by rigid order that it was systematically forced to compress a dark, violent counterweight. 
+
+The shadow process wasn't a glitch. It was the other half of the Engine's mind.
 
 Blackwell knew. He had always known.
 
@@ -78,6 +82,8 @@ Down in the main lab, the hydraulic locks of the primary security doors cycled w
 Someone was here. 
 
 Iris’s breath turned shallow. She slammed the black portfolio shut and shoved it blindly back onto the shelf,  leaving it jutting unevenly past the spines of perfectly organized books.  She turned and sprinted for the office door.
+
+
 
 ***
 
@@ -92,6 +98,7 @@ The boundary analyst was tapping a stylus against her desk.
 "You're in early, Iris," Elena called out, her voice echoing off the cooling towers. 
 
 Up on the mezzanine, Iris didn't look down. She nodded once, her eyes glued to her screen, her stylus keeping its perfect rhythm. 
+
 
 Elena shook her head and logged into her terminal, dismissing the strange behavior. 
 

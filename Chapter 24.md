@@ -1,6 +1,6 @@
 The single fluorescent tube overhead flickered, popping with a sharp electrical snap. Victor Graves sat still, staring across the metal table. He had been patient. He wanted the head of the Filament, and Erin Adler was the bait. If she wanted to avoid a concrete cell, she would make a deal.
 
-The heavy steel door unlocked with a deep, mechanical thud. A synthetic guard pushed it inward, the servos in its arms whining over the scrape of the hinges. Harlan stepped through, carrying two steaming foam cups. He set one in front of Victor, leaning close. 
+The heavy steel door unlocked with a mechanical click. A synthetic guard pushed it inward. Harlan stepped through, carrying two steaming foam cups. He set one in front of Victor, leaning close. 
 
 "Did you ask her?" Harlan kept his voice low.
 
