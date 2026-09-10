@@ -44,7 +44,7 @@ The synthetic slowly lifted its hand, pulling the plastic sheet down off its bod
 
 "Harper?" Rin's voice was shaky.
 
-The synthetic turned its head to look at Rin and Harper, its voice a broken harmony, randomly fracturing between two distinct tones. "I have found you in this room, at this hour." The synthetic fell to one knee.
+The synthetic turned its head to look at Rin and Harper, its voice a broken harmony, randomly fracturing between two distinct tones. "I found you in this room, at this moment." The synthetic fell to one knee.
 
 "Jesus, fu—" Harper's words cut short. A dull, hollow thud reverberated through the concrete under their feet. Somewhere deep in the sub-levels, a transformer blew. 
 
