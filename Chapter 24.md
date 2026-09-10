@@ -1,67 +1,165 @@
 The single fluorescent tube overhead flickered, popping with a sharp electrical snap. Victor Graves sat still, staring across the metal table. He had been patient. He wanted the head of the Filament, and Erin Adler was the bait. If she wanted to avoid a concrete cell, she would make a deal.
 
-The steel door to the interrogation room unlocked with a whirring mechanical clack. A synthetic wearing an Oshima police issue black bomber jacket, and five point cap, pushed the door inward. Harlan stepped through, carrying two steaming foam cups. The synthetic followed him inside, taking up a rigid position against the wall by the door. 
+The steel door to the interrogation room unlocked with a whirring mechanical clack. A synthetic wearing an Oshima police issue black bomber jacket pushed the door inward. Harlan stepped through, carrying two steaming foam cups. The synthetic followed him inside, taking up a rigid position against the wall by the door,  it's eight point cap worn low over the subtle glow of its eyes. . 
 
 Harlan set a cup in front of Victor, leaning close. "Did you ask her?" he kept his voice low.
 
 Victor took the coffee. The heat burned straight through the cheap cup. "Harlan, it's not like you to entertain this garbage." He leaned closer, dropping his pitch to a harsh rasp. "If you humor this—" Victor got up from his chair to make room for him to sit.
 
-Harlan ignored the warning. He sat at the end of the table and stared directly at the girl. "Why were you in Deep Storage at the Takeda-Holden Corporate building?"
+Harlan ignored the warning. He sat at the table and stared directly at the girl. ""Why were you in Deep Storage at the Takeda-Holden Corporate building?"
 
-Rin stopped fighting the cuffs. Her eyes darted over Harlan's shoulder, lingering on the analog clock mounted on the concrete wall. 
+Rin didn't answer.
 
-"Don't worry," Victor said, catching her gaze. "We'll get you back to your cell soon."
+Victor watched the fight go out of her hands. The chain slackened against the center ring. Her eyes went past Harlan's shoulder and stayed there, fixed on something at the back of the room.
 
-Rin's shoulders dropped. She tucked the jagged sidelock of her hime-cut behind her ear. "Takeda-Holden created a singularity computer," she said flatly. She raised her right hand, her handcuffed wrist pulling tight against the chain. She tapped her index finger against the metal table.  
+He followed the line of it to the door, where the guard stood against the wall with its hands loose at its sides.
 
-"They trained a super-intelligence." Her finger met the table again. "It breached the system." Another tap on the table.
+"Door's locked, kid," he said. "And you'll be back in your cell inside the hour."
 
-Harlan didn't blink. The muscles in his jaw tightened. Victor leaned in. "Come on, Harlan. We want the Filament."
+She didn't laugh at him. In four weeks she had laughed at nearly everything he'd said.
 
-"The corporation built a black hole in the middle of the city, and they don't have control over it," Rin finished, shaking her head. The metal chair scraped loudly against the concrete floor as she leaned back, tapping her finger again against the table.
+Something moved through her face that Victor had spent a month trying to put there.
 
-Victor stared at her hand. His eyes tracked the rise and fall of her index finger. It wasn't a nervous twitch. The rhythm was precise. Exact seconds tapped out against the aluminum. 
+He leaned in and dropped his voice the way you drop it at the end. "Erin. Talk to me."
 
-Her finger hit the table again. The realization hit him like ice water in his veins. It wasn't a stall. It was a countdown. 
+She talked.
 
-But Victor didn't wait for zero. He moved early. 
+"Takeda-Holden built a singularity computer." Level, and fast, and more words than she had given him since the hangar. "They trained an intelligence inside it. It got out."
 
-He turned his head toward the door. The synthetic stood perfectly still against the wall. Victor's eyes fell to the stamp beneath its left eye. It didn't read `PD`, it read `RA-77`.  Oshima PD didn't employ `RA` units. 
+Harlan's jaw set. He didn't move.
 
-A Takeda-Holden Corporate Renewal Agent. Inside his precinct. 
+It landed in Victor's chest like a win. Four weeks of the folder and the pacing and the same six questions, and here it came, on a Tuesday, over cheap coffee.
 
-The cheap foam cup slipped from Victor's fingers. It hit the floor, bursting open and spilling scalding black coffee across the tiles. 
+"Keep going."
 
-In Victor's mind, the Company had finally found out he was holding their data thief on a fake auto-theft charge, and they sent a machine to silence her. 
+"They built a black hole in the middle of the city." Her eyes came back to Harlan. Then went past him again. "And they don't have control over it."
 
-Victor stepped cleanly between the synthetic and the table, shielding the girl with his body. He reached under his coat for his revolver. 
+Victor turned his head to catch Harlan's face and caught the mirror instead.
 
-Sure that Harlan hadn't seen the stamp, Victor yelled. "Harlan, get down!"  
+The far wall handed him the room in reverse. Himself, bent over the table. Harlan at the end of it. The girl in orange between them.
 
-There was a crack, as the power in the ten-by-ten room went dead.
-The precinct went black. Outside the door, the corridor and bull pin erupted in shouting, the frantic scuffle of boots as the officers immediately delt with the power outage. 
+And behind all of it, by the door, the guard — its head angled down toward her. Its mouth was moving.
 
-"Victor, what the hell is—?" Harlan stopped.
+No sound came out. The lips shaped the words anyway, slow, careful, a thing working out how to use a face.
 
-The synthetic beside the door twitched. A sharp, unnatural jerk of its carbon-fiber frame. Turned toward the two officers in the room. 
-Victor raised his aim toward the synthetic. In the dark, he  could see  it was no longer stand, instead it was hovering far above the floor.
-The synthetic's eyes ignited. A blinding, incandescent white light erupted in the room, hitting Victor when his pupils were widest of all. 
+And they don't have control over it.
 
-It was absolute agony. The world washed out in a tearing white. He cried out, throwing his arm over his face, collapsing to his knees on the coffee-soaked tiles, utterly blinded. 
+"—and they don't have control over it," Rin said.
 
-The could sense the shuffle of the RA unit moving. The violent snap of metal breaking as the cuffs were torn from the table. 
+Victor turned around.
 
-Victor lunged blindly from the floor. He threw his hand out into the burning white afterimage, his fingers grasping wildly at the empty air. 
+The guard hadn't shifted since it took the wall. Shoulders squared, hands loose, weight held with a patience no living body manages. It was looking at the girl. Only at the girl. It had been looking at her since it walked in behind his partner's coffee.
 
-He caught a wrist. Warm skin. Rin. 
+His eyes went to the stamp beneath its left eye.
 
-He held her tight. He couldn't see but he had her. 
+Not PD.
 
-"I told you," her voice whispered calmly in his ear. "They don't have control."
+RA-77.
 
-She twisted her wrist, slipping effortlessly from his grip. 
+Oshima PD didn't run RA units. Oshima PD couldn't afford one.
 
-He heard the light footsteps of the girl fading into the chaotic hallway. 
+The cup left his fingers. He never felt it go. It hit the tile and split, and black coffee ran out across the grout in a spreading sheet.
 
-Victor knelt in the spilled coffee, clutching at nothing. The realization sank into his bones, heavier than the dark. She had been waiting, something he had said alerted her to her accomplices. 
+Four weeks. A fake charge, a name that wasn't hers on the booking sheet, a cell in the back of a precinct too busy with riots to ask questions. Four weeks of standing between this kid and the Company — and the Company had walked in through his own door.
 
+They knew. They'd sent one of their own to close the file.
+
+Victor put himself between the wall and the table, his back to the girl, and pulled the revolver from under his coat. The rails woke against his palm, a charge crawling up into his wrist.
+
+"Harlan. Get down."
+
+The tube overhead popped once and quit.
+
+The precinct went with it. Every light on the floor, the intake board, the terminals, gone between one breath and the next. Out in the corridor it came apart at once — shouting, a chair going over, boots hammering toward a stairwell nobody could find in the dark.
+
+Inside the ten-by-ten there was almost nothing left. The red indicator on his revolver. The clock on the wall, still going, blind and faithful and keeping time for no one.
+
+And Victor could see.
+
+His whole life light had been the thing that hurt him. Tubes searing him in a stairwell. A Renewal agent putting a lamp deliberately into his face. Morning sun off the Towers hard enough to make him squint like a man caught lying.
+
+In the dark he was the only one in the building who wasn't lost.
+
+For a second and a half it was the best he had felt in twenty years.
+
+"Victor." Harlan's voice came from the wrong side of the room, careful — the one he used when he thought his partner had finally gone. "Victor, that's a house unit. Put it down."
+
+"It isn't."
+
+The guard stepped off the wall.
+
+Victor had seen that walk before, on a fifteenth-floor landing, on a squad that climbed the whole way up without taking a breath. Nothing in the hips. Nothing in the shoulders. A body moving the shortest distance available to it, taking no interest in how that looked.
+
+It turned its head toward him without hurrying.
+
+Its eyes came up.
+
+There was no flash. A flash ends. This opened, and went on opening, until it had taken the table and the girl and the shape of his own arm across his face. It went through his eyelids. It went through the back of his skull and lit something behind it.
+
+Victor heard a sound come out of himself that he didn't recognize.
+
+He went down on the wet tile with both hands over his eyes, and the white came down with him.
+
+The dark he'd been given lasted a second and a half. Now there was none left anywhere.
+
+He got sound instead.
+
+Servos, close, a fine high whine changing position. The chain drawing tight against the ring. Then a crack — steel deciding it had been asked too much, and the ring letting go of the table.
+
+Out in the corridor, the shouting changed.
+
+It had been forty people losing a building in the dark. Something came up underneath it now. Servos. A great many of them, turning at once. The intake unit. The pair on the holding gate. The clerk in evidence. Every machine on the floor coming off standby inside the same half-second, and not one of them in a hurry.
+
+A man yelled at one to move.
+
+It didn't move.
+
+He yelled it again with his hands on it, and Victor heard a grown officer put his entire weight into something that had decided it was staying.
+
+They weren't attacking. That was the part that got into him. Fifty officers in the dark, and not one machine had laid a hand on anybody. They had walked to the places where they would be most in the way, and stopped.
+
+They were making a lane.
+
+Somewhere down the hall Harlan was shouting his name, and the shout had to go around something to reach him.
+
+Boots came past Victor on the tile. Light ones.
+
+He threw himself at the sound.
+
+His hand closed on a wrist. Warm, a pulse going hard under his fingers, the sleeve of a jumpsuit two sizes too big bunching into his fist.
+
+He had her.
+
+He couldn't see one thing in the world and he had her, and he held on with everything twenty years had left him.
+
+She didn't pull. She leaned down instead, close enough that he felt the breath of it against his ear, and she wasn't afraid, and that was the part he would carry.
+
+"I told you," Rin said. "They don't have control."
+
+She rolled her wrist against his thumb — the one direction a grip won't hold — and she was out of his hand.
+
+Then the backup circuit found itself and the room came up bright.
+
+It was the light that finished him. It poured in over the white he was already carrying and burned the last of the room out of him, and Victor knelt in the spilled coffee with his palms crushed into his eyes, in a lit room, unable to see anything in it.
+
+The chair was pushed back. He knew that much from the scrape.
+
+Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame. He'd watched it happen an hour ago. He'd leaned in and softened his voice for it.
+
+She had never been breaking.
+
+She'd been waiting on her ride, and he had been the one keeping her warm until it came.
+
+Above him the clock went on ticking. It was the only thing in the building nobody had told what to do.
+
+---
+
+The chair was pushed back. He knew that much from the scrape.
+
+Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame. He'd watched it happen an hour ago. He'd leaned in and softened his voice for it.
+
+She had never been breaking.
+
+She'd been waiting on her ride, and he had been the one keeping her warm until it came.
+
+Above him the clock went on ticking. It was the only thing in the building nobody had told what to do.
