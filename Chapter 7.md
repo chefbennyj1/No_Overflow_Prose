@@ -1,4 +1,4 @@
-Victor rolled his thumb along the striker of his lighter, sparking a flame against the end of his cigarette. He exhaled, adding to the low-hanging smoke of the busy bullpen. The precinct was loud. Exhausted beat cops in wet bomber jackets and vinyl-covered eight-point caps pushed past his desk, shaking off the freezing rain. Up front, a crowd shouted over the intake counter—desperate people demanding answers for the Renewal sweeps in lower grids.
+Victor rolled his thumb along the striker of his lighter, sparking a flame against the end of his cigarette. He exhaled, adding to the low-hanging smoke of the busy bullpen. The precinct was loud. Exhausted beat cops in wet bomber jackets pushed past his desk, shaking off the freezing rain. They were trailed by a precinct synthetic, the blue `PD-09` serial stamp glowing faintly beneath its unblinking eye. Up front, a crowd shouted over the intake counter—desperate people demanding answers for the Renewal sweeps in lower grids.
 
 "It doesn't fit." His words barely cut through the noise.
 
