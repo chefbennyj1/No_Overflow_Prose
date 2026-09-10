@@ -4,7 +4,7 @@ The heavy steel door unlocked with a mechanical click. A synthetic guard pushed 
 
 "Did you ask her?" Harlan kept his voice low.
 
-Victor took the coffee. The heat burned straight through the cheap cup. "Harlan, it's not like you to entertain this garbage. If you humor this—" He leaned closer, dropping his pitch to a harsh rasp. 
+Victor took the coffee. The heat burned straight through the cheap cup. "Harlan, it's not like you to entertain this garbage. " He leaned closer, dropping his pitch harshly, "If you humor this—"  
 
 Harlan ignored the warning. He stepped to the edge of the table and stared directly at the girl. "Why were you in Deep Storage at the Takeda-Holden Corporate building?"
 
