@@ -38,13 +38,13 @@ The peristaltic pump beside them seized. The silicone tubes feeding into the bac
 
 A sharp, mechanical gasp ripped through the silence as the body took a simulated breath. 
 
-Behind the loose, transparent plastic sheet, the synthetic's eyes snapped open. They burned with a blinding, incandescent white light, edged with flares of blue that pierced straight through the plastic. 
+Behind the loose, transparent plastic sheet, the synthetic's eyes snapped open. They burned with an incandescent white light, edged with flares of blue that pierced straight through the plastic. 
 
 The synthetic slowly lifted its hand, pulling the plastic sheet down off its body. 
 
 "Harper?" Rin's voice was shaky.
 
-The synthetic turned its head to look at Rin and Harper.  "I have found you in this moment—" The synthetic  fell to one knee, its voice a broken harmony, randomly fracturing between two distinct tones. It grabbed Rin by the shoulder, "Retrieval. Oshima Precinct Forty-Three. Six hundred and seventy-two hours. Fourteen minutes. Thirty seconds."
+The synthetic turned its head to look at Rin and Harper, its voice a broken harmony, randomly fracturing between two distinct tones.  "I have found you in this moment." The synthetic  fell to one knee, and grabbed Rin by the shoulder, "Retrieval. Oshima Precinct Forty-Three. Six hundred and seventy-two hours. Fourteen minutes. Thirty seconds."
 
 "What?" Rin stepped back. "Retrieval?"
 
