@@ -38,7 +38,7 @@ The reality of her isolation hit her. The Madame had abandoned her. The detectiv
 
 Its red second-hand swept in a slow, steady circle. 
 
-*"Oshima Precinct Forty-Three. Six hundred and seventy-two hours."* Vigil's broken voice echoed in her memory from the dark of Deep Storage. Twenty-eight days. 
+*"Oshima Police Prescient Forty-Five. Six hundred and seventy-two hours."* Vigil's broken voice sounded in her memory. Twenty-eight days. 
 
 Today was the twenty-eighth day. It had been exactly fourteen minutes since Victor dragged her out of her cell. 
 
