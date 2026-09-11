@@ -58,7 +58,7 @@ They had found her. They'd sent one of their own to close the file.
 
 Victor put himself between the wall and the table, his back to the girl, and pulled the revolver from under his coat. The rails woke against his palm, a charge crawling up into his wrist.
 
-"Harlan. Get down."
+"Harlan. Get her down."
 
 The lights overhead popped and quit. The precinct went with it. Every light on the floor, the intake board, the terminals, gone. Out in the corridor shouting, chairs falling over, boots hammering toward the stairwell in the dark.
 
@@ -68,15 +68,17 @@ Inside the ten-by-ten interrogation room, there was no light. The red indicator 
 
 For once Victor's photosensitivity wasn't an affliction. The guard stepped off the wall. Victor had seen that walk before, on a fifteenth-floor landing, on a squad that climbed the whole way up without taking a breath. Nothing in the hips. Nothing in the shoulders. Movement taking the shortest distance available to it.
 
-Victor trained his revolver on the synthetic's brow. "Stop right there, canner."
+In the commotion Harlan made his move toward Rin. Victor trained his revolver on the synthetic's brow. "Stop right there, canner."
 
 It turned its head toward him without hurrying. The synthetic's expression wasn't generic, there was a soulish feature hidden in the eyes. It quickly reached out and grabbed the barrel of the revolver, causing the magnetic rails to spark and overheat in his hand. 
 
 "Ah, shit!" He dropped the weapon to the floor.
 
-He could feel the synthetic's gaze scanning him. Then it spoke, "You are an obscurity, Victor Graves." The synthetic's tone was different from what Victor had heard millions of times before. "Tell me, are you a good man?"  Victor couldn't answer, his words gone.
+Victor could feel the synthetic's gaze scanning him. Then it spoke, "You are an obscurity, Victor Graves." Victor's heart took a terrified leap. The synthetic's tone was different from what he knew. Two layered voices were speaking at once. "Tell me, are you a good man?"  Victor couldn't answer, his words gone.
 
-Its eyes lit up with brilliant light, blue lensing split the room in half. The flash went through his eyelids. So bright it took the table, the girl and his partner and turned it all into a blinding white. 
+Its eyes lit up with brilliant light, blue lensing split the room in half.  Victor turned toward Harlan who hadn't reached the girl, before he was shielding his eyes. 
+
+The flash went through Victor's eyelids. So bright it took the table, the girl and his partner and turned it all into a blinding white. 
 
 He went down on the wet tile with both hands over his eyes, and the white came down with him.
 
