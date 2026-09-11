@@ -64,19 +64,19 @@ The lights overhead popped and quit. The precinct went with it. Every light on t
 
 Inside the ten-by-ten interrogation room, there was no light. The red indicator on his revolver, and the dim glow of the `RA` unit's eyes and serial in the room.
 
-"Harlan, that isn't a house unit!"
+"Harlan, that isn't a house unit!" 
 
-The guard stepped off the wall. Victor had seen that walk before, on a fifteenth-floor landing, on a squad that climbed the whole way up without taking a breath. Nothing in the hips. Nothing in the shoulders. Movement taking the shortest distance available to it.
+For once Victor's photosensitivity wasn't an affliction. The guard stepped off the wall. Victor had seen that walk before, on a fifteenth-floor landing, on a squad that climbed the whole way up without taking a breath. Nothing in the hips. Nothing in the shoulders. Movement taking the shortest distance available to it.
 
-Victor trained his revolver between the synthetic's brow. "Stop right there, canner."
+Victor trained his revolver on the synthetic's brow. "Stop right there, canner."
 
-It turned its head toward him without hurrying. The synthetic's expression wasn't generic, there was a soulish feature hidden in the eyes. It had different eyes. It quickly reached out and grabbed the barrel of the revolver, causing the magnetic rails to spark and overheat in his hand. 
+It turned its head toward him without hurrying. The synthetic's expression wasn't generic, there was a soulish feature hidden in the eyes. It quickly reached out and grabbed the barrel of the revolver, causing the magnetic rails to spark and overheat in his hand. 
 
 "Ah, shit!" He dropped the weapon to the floor.
 
-He could feel the synthetic's gaze scanning him. Then it spoke, "You are an 'Obscurity' in the timeline, Victor Graves. You stand outside readable futures. You are an ambiguity. Tell me, are you a good man, Victor Graves?" The synthetic's tone was different from what Victor had heard millions of times before. Victor couldn't answer, his words gone.
+He could feel the synthetic's gaze scanning him. Then it spoke, "You are an obscurity, Victor Graves." The synthetic's tone was different from what Victor had heard millions of times before. "Tell me, are you a good man?"  Victor couldn't answer, his words gone.
 
-Its eyes lit up a brilliant light with flares of blue. The flash of light went through his eyelids. So bright it took the table, the girl and his partner and turned it all into a blinding white. 
+Its eyes lit up with brilliant light, blue lensing split the room in half. The flash went through his eyelids. So bright it took the table, the girl and his partner and turned it all into a blinding white. 
 
 He went down on the wet tile with both hands over his eyes, and the white came down with him.
 
@@ -90,13 +90,13 @@ She didn't pull. She leaned down instead, close enough that he felt the breath o
 
 "I told you," Rin said. "They don't have control."
 
-She rolled her wrist against his thumb — the one direction a grip won't hold — and she was out of his hand.
+She rolled her wrist against his thumb and she was out of his hand.
 
 Victor's eyes adjusted to the room. Harlan was already at the door. Out in the corridor, the shouting changed. Confusion. Frustration. Victor reached the door too. In the bullpen, the intake synthetic unit, the pair of synths on the holding gate, the clerk in evidence. Every machine on the floor came off standby inside the same moment.
 
 A man yelled at one to move.
 
-It didn't move. That was the part that made the unruly situation even stranger. Fifty officers in the dark, and not one machine had laid a hand on anybody. They had walked to the places where they would be most in the way, and stopped.
+It didn't move. Fifty officers in the dark, and not one machine moved when told. They had walked to the places where they would be most in the way, and stopped.
 
 Victor watched his 'confession' moving through the crowd. The precinct synths were making a lane.
 
