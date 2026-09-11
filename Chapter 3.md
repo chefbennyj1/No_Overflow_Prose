@@ -43,7 +43,7 @@ The man snatched the drive up. Without looking at Rin, he turned and presented i
 
 The Madame took it and turned it over, a grim smile pulling at the deep lines around her mouth. 
 
-"It seems you have a small issue of the Renewal following you down here, Erin Alder," the old woman's voice was low and gritty.  Hearing the  Madame of the Filament speaking her full name didn't sit well with Rin.
+"It seems you have a small issue of the Renewal following you down here, Erin Adler," the old woman's voice was low and gritty.  Hearing the  Madame of the Filament speaking her full name didn't sit well with Rin.
 
 "You should be more careful when you bring heat into my house." The woman paused, looking over the top of her glasses. "But, because you have been of service to us, if the Filament can be of assistance to you—" she took a long drag off her cigarette, the smoke spilling out of her mouth and nostrils as she spoke, "—we will."
 

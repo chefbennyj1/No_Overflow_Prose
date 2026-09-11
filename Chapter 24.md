@@ -60,27 +60,37 @@ Victor put himself between the wall and the table, his back to the girl, and pul
 
 "Harlan. Get her down."
 
-The lights overhead popped and quit. The precinct went with it. Every light on the floor, the intake board, the terminals, gone. Out in the corridor shouting, chairs falling over, boots hammering toward the stairwell in the dark.
+The lights overhead popped and quit. It sounded like the precinct went with it. Out in the corridor shouting, chairs falling over, boots hammering toward the stairwell.
 
-Inside the ten-by-ten interrogation room, there was no light. The red indicator on his revolver, and the dim glow of the `RA` unit's eyes and serial in the room.
+Inside the ten-by-ten interrogation room, the precinct's silent alarm fired. A rhythmic pulse of harsh light cut through the dark. A moment of visibility, and a moment of nothing. 
+
+The room came back as a photograph. Harlan was half out of his chair, the girl's chain pulled tightly against the loop on the table. The red indicator on Victor's revolver, and the dim glow of the `RA` unit's eyes and serial glowed static in the room.
 
 "Harlan, that isn't a house unit!" 
 
-For once Victor's photosensitivity wasn't an affliction. The guard stepped off the wall. Victor had seen that walk before, on a fifteenth-floor landing, on a squad that climbed the whole way up without taking a breath. Nothing in the hips. Nothing in the shoulders. Movement taking the shortest distance available to it.
+The last bright image of the room stayed printed in Victor's eyes, a blue and green negative. In the darkness, the glowing `RA-77` stepped off the wall and began to move across the room. He had seen that walk before, on a fifteenth-floor landing, on a squad that climbed the whole way up without taking a breath. 
 
-In the commotion Harlan made his move toward Rin. Victor trained his revolver on the synthetic's brow. "Stop right there, canner."
+Victor stepped back. The alarm fired. The guard stood an arm's length away, as still as it had been on the wall.
 
-It turned its head toward him without hurrying. The synthetic's expression wasn't generic, there was a soulish feature hidden in the eyes. It quickly reached out and grabbed the barrel of the revolver, causing the magnetic rails to spark and overheat in his hand. 
+The room went dark. Victor trained his revolver on the synthetic's silhouette. "Stop right there, canner."
 
-"Ah, shit!" He dropped the weapon to the floor.
+The alarm fired. The synthetic turned its head toward him without hurrying. Victor could see the machine's expression wasn't generic. There was a soulish feature hidden in the eyes. 
 
-Victor could feel the synthetic's gaze scanning him. Then it spoke, "You are an obscurity, Victor Graves." Victor's heart took a terrified leap. The synthetic's tone was different from what he knew. Two layered voices were speaking at once. "Tell me, are you a good man?"  Victor couldn't answer, his words gone.
+The dark returned. The synthetic reached out and grabbed the barrel of the revolver, causing the magnetic rails to spark and overheat in his hand.
 
-Its eyes lit up with brilliant light, blue lensing split the room in half.  Victor turned toward Harlan who hadn't reached the girl, before he was shielding his eyes. 
+"Ah, shit!" He dropped the weapon to the floor, as the alarm fired again.
 
-The flash went through Victor's eyelids. So bright it took the table, the girl and his partner and turned it all into a blinding white. 
+Victor could feel the synthetic scanning him in the dark. Then it spoke, "You are an obscurity, Victor Graves." Victor's heart took a terrified leap. The synthetic's tone was different from what he knew. Two layered voices were speaking at once. "Tell me, are you a good man?"  Victor couldn't answer, his words gone.
+
+Its eyes ignited. A continuous, tearing flare of blue lensing split the room in half, washing out the strobe of the alarm. 
+
+Victor raised his arm and turned away. He caught a final frame of Harlan, still short of the girl, before having to shield his own eyes. 
+
+The glare punched straight through Victor's eyelids. It took the table, the girl and his partner and turned it all into a searing white.
 
 He went down on the wet tile with both hands over his eyes, and the white came down with him.
+
+He heard the heavy, sickening thud of a body hitting the steel door. Harlan. 
 
 He could hear the sound of the synthetic changing position. The chains drawing tight against the ring on the table. Then the violent crack of the metal ring breaking into pieces.
 
@@ -100,4 +110,4 @@ A man yelled at one to move.
 
 It didn't move. Fifty officers in the dark, and not one machine moved when told. They had walked to the places where they would be most in the way, and stopped. The precinct synths were making a lane.
 
-Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame. He'd watched it happen an hour ago.  She had never been breaking. She'd been waiting on her ride, and he had been the one keeping her warm until it came.
+Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame. He'd watched it happen an hour ago.  She had never been breaking. She'd been waiting on her ride.
