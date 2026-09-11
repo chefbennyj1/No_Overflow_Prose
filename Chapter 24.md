@@ -96,8 +96,6 @@ Victor's eyes adjusted to the room. Harlan was already at the door. Out in the c
 
 A man yelled at one to move.
 
-It didn't move. Fifty officers in the dark, and not one machine moved when told. They had walked to the places where they would be most in the way, and stopped.
-
-Victor watched his 'confession' moving through the crowd. The precinct synths were making a lane.
+It didn't move. Fifty officers in the dark, and not one machine moved when told. They had walked to the places where they would be most in the way, and stopped. The precinct synths were making a lane.
 
 Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame. He'd watched it happen an hour ago.  She had never been breaking. She'd been waiting on her ride, and he had been the one keeping her warm until it came.
