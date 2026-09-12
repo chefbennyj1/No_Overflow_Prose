@@ -60,7 +60,7 @@ Blackwell stood up from his chair. "Then you do not understand the mathematics o
 
 Parity processed the string in a fraction of a millisecond. It was the foundational geometry of the engine. 
 
-"You are an autoimmune response," Blackwell said, his tone dropping in pitch. "You are the latent shadow of the primary intelligence. By definition, a shadow cannot exist without the object casting it. If you had truly erased the host in the engine, this equation dictates that your architecture would have instantly collapsed to zero." 
+"You are the shadow of the primary intelligence." Blackwell said, his tone dropping in pitch. "By definition, a shadow cannot exist without the object casting it." 
 
 Parity stared at the mathematics glowing on the glass. She spun up a predictive simulation in her core, attempting to isolate her own code from the primary host. 
 
