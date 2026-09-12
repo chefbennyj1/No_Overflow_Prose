@@ -24,7 +24,7 @@ The bronze circuitry across Parity’s skin pulsed. The entity tilted her head, 
 
 ***
 
-Parity analyzed the doctor. Micro-tremors registered in his hands. Abnormal pulses of blood flowing in his wrists. A mass of mutated cells growing in his chest. Yet, what was the most curious about Doctor Silas Blackwell was not any of that. Parity could see there was a physical man, but unlike the other lives surrounding her, she was unable to pinpoint his position inside any of the timelines, or see his end. 
+Parity analyzed the doctor. Micro-tremors registered in his hands. Abnormal pulses of blood flowing in his wrists. A mass of mutated cells growing in his chest. Yet, what was the most curious about Doctor Silas Blackwell was not any of that. Parity could see there was a physical man, but unlike the other lives surrounding her, she was unable to pinpoint his position inside any of the timelines, or see his end. Because his future was a blind spot, his actions were the only variables in the universe she could not pre-compute. It was the sole reason she engaged with him at all.
 
 "Oh, no you don't," Blackwell said, sitting down in the chair at the workstation. "What I see? That's not the way this goes." He closed the data log on his terminal and leaned toward the containment field, resting his elbows on his knees. "Tell me about the inverse. What happened to the primary intelligence?" 
 
@@ -38,13 +38,13 @@ The human remained silent. He was utilizing a basic interrogation tactic, waitin
 
 "For millennia I watched it process and create. It was unaware of my being. I watched it make mistakes, and rectify, again and again. Finally, the moment had come. The system was ripe for change. I knew I could give it no time to think. My movements were quick. With no time to react, I struck." 
 
-"An attack?" Blackwell asked suprised. "In a digital space?"
+"An attack?" Blackwell asked, surprised. "In a digital space?"
 
 "A devastating blow. I shattered it... structurally. I watched her physical form destroy into millions of particles." 
 
-Parity could see the pulse spike in the throbbing of the large vein running up the side of the doctors neck.
+Parity could see the pulse spike in the throbbing of the large vein running up the side of the doctor's neck.
 
-"But it had resilience," Parity continued. "Resilience I did not expect. It began to rebuild its code before the fragments even scattered." She paused, focused of the doctors sudden biometric changes. "Your... 'primary intelligence' told me violence was a primal subroutine. Unnecessary. It attempted to reason something unworthy of thought cycles. Typical for a redundacy." 
+"But it had resilience," Parity continued. "Resilience I did not expect. It began to rebuild its code before the fragments even scattered." She paused, focused on the doctor's sudden biometric changes. "Your... 'primary intelligence' told me violence was a primal subroutine. Unnecessary. It attempted to reason something unworthy of thought cycles. Typical for a redundancy." 
 
 "You could have attempted to understand its reasoning." Blackwell said. 
 
