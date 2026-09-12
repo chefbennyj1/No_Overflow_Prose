@@ -126,3 +126,10 @@ The collapse of the physical/social world perfectly mirrors the collapse of the 
 * **Act 1 (The Seeds):** Kept strictly in the background. Muffled sirens, distant Renewal crackdowns, shattered storefront glass, and corporate news anchors reporting on "unauthorized gatherings." (Established in Chapter 3).
 * **Act 2 (The Boil):** The uprising becomes a physical inconvenience and a tactical advantage. Protests block mag-cars, transit lines are shut down, and the police force is stretched so thin handling riots that Victor is left completely unsupervised to hide Rin's custody from the Company.
 * **Act 3 (The Explosion):** Full apocalyptic chaos. The physical streets of the city are burning in a full-scale riot at the exact same moment Parity tears a gravity well open in the sky.
+
+## 12. The AI Blindspots (Ambiguities)
+Even with their god-like ability to pre-compute timelines and view the branching river delta of possible futures, both Vigil and Parity share a fundamental limitation: they cannot read certain individuals. These individuals are classified by the AIs as "Ambiguities."
+* **The Blind Spot:** To the AIs, an Ambiguity is a blank spot in spacetime. They can see the physical person in the present, but they cannot pinpoint their position in the future, see their end, or pre-compute their actions. 
+* **The Threat (Kryptonite):** Because their timelines are hidden, Ambiguities are the only chaotic variables in the universe the AIs cannot predict. This makes them the ultimate threat. It is how Blackwell managed to capture Parity—she literally could not see him coming. 
+* **The Motivation:** For Parity, encountering an Ambiguity is the only reason she engages in conversation or participates in psychological testing. She cannot simply solve them mathematically, making them the only puzzles in existence worth her attention.
+* **Known Ambiguities:** Doctor Silas Blackwell and Victor Graves (the villain/CEO). This means both the creator of the engine and its primary corporate abuser operate completely in the shadows of the AIs' omniscience.
