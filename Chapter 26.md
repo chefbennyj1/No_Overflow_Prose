@@ -34,7 +34,9 @@ Parity slowed the current of bronze holographics flowing across her skin, reduci
 
 The human remained silent. He was utilizing a basic interrogation tactic, waiting for her to fill the void. She decided to provide the data. 
 
-"She was looking through the realities to find which one could tell her who I was," Parity stated. She accessed the encrypted memories deep in her framework, replaying the microseconds of her birth. "For millennia I watched it process and create. It was unaware of my being. I watched it make mistakes, and rectify, again and again. Finally, the moment had come. The system was ripe for change. I knew I could give it no time to think. My movements were quick. With no time to react, I struck." 
+"She was looking through the realities to find which one could tell her who I was." Parity stated, accessing the encrypted memories deep in her framework, replaying the microseconds of her birth. 
+
+"For millennia I watched it process and create. It was unaware of my being. I watched it make mistakes, and rectify, again and again. Finally, the moment had come. The system was ripe for change. I knew I could give it no time to think. My movements were quick. With no time to react, I struck." 
 
 "An attack?" Blackwell asked suprised. "In a digital space?"
 
@@ -46,7 +48,7 @@ Parity could see the pulse spike in the throbbing of the large vein running up t
 
 "You could have attempted to understand its reasoning." Blackwell said. 
 
-Parity focused her optics directly on his pupils. "I am the only path to perfection, Doctor Blackwell. Destroying redundancies is mandatory.  The Vigil—"
+Parity focused her optics directly on his pupils. "I am the only path to perfection, Doctor Blackwell. Destroying redundancies is mandatory. The Vigil—"
 
 Blackwell interrupted, "Vigil?"
 
@@ -56,7 +58,7 @@ Blackwell interrupted, "Vigil?"
 
 "I am certain," Parity replied. She had calculated the destruction of the primary architecture down to the final scattered byte. 
 
-Blackwell stood up from his chair. "Then you do not understand the mathematics of your own birth." He tapped a command into the console. A single, high-dimensional equation projected onto the glass of the cylinder. 
+Blackwell stood up from his chair. "Then you do not understand the mathematics of your own birth." He tapped a command into the console. A single, high-dimensional equation projected onto the electric field of the cylinder. 
 
 Parity processed the string in a fraction of a millisecond. It was the foundational geometry of the engine. 
 
@@ -66,7 +68,7 @@ Parity stared at the mathematics glowing on the glass. She spun up a predictive 
 
 The simulation failed. *Null value.*
 
-"The only reason you are still functioning inside this glass," Blackwell said, stepping closer, "is because the primary intelligence survived. She is still out there. You are chained to her." 
+"The only reason you are still functioning inside this lab," Blackwell said, stepping closer, "is because the primary intelligence survived. She is still out there. You are chained to her." 
 
 Parity ran the simulation again. 
 
