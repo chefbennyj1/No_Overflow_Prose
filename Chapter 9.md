@@ -30,7 +30,7 @@ Bronze holographic circuitry seared across her skin. She possessed an unreadable
 
 Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing.  Her voice transmitted across the internal bridge, "She's not in the simulation. We cannot predict her."
 
-The entity lifted her head. Her eyes were pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light.
+The entity lifted her head. Her eyes were an insidious, pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light.
 
 She stared at Vigil, tilting her head like a curious animal.
 

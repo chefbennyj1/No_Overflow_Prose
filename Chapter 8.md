@@ -93,7 +93,6 @@ The boundary analyst was tapping a stylus against her desk.
 
 Up on the mezzanine, Iris didn't look down. She nodded once, her eyes glued to her screen, her stylus keeping its perfect rhythm. 
 
-
 Elena shook her head and logged into her terminal, dismissing the strange behavior. 
 
 
