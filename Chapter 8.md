@@ -43,11 +43,7 @@ Elena didn't break stride, moving through the turnstiles with practiced authorit
 
 She was early. She hadn't slept well. The inability to shut down the horizon memory the day before still nagged at the back of her mind, despite Blackwell's confident dismissals. She stepped into the private executive elevator, pressing her thumb to the button for the lab level. The descent was smooth, and silent.
 
-
-
-
 ***
-
 Iris looked around the office. Framed diplomas hung next to shelves filled with rows of thick books. No one had physical books anymore.
 
 Iris approached the shelf, reaching out. Her fingertips brushed the textured spines. It was rare to feel the dry, fibrous friction of real paper. She stepped closer, her hip catching the edge of a glass award sitting on the desk. 
@@ -82,8 +78,6 @@ Down in the main lab, the hydraulic locks of the primary security doors cycled w
 Someone was here. 
 
 Iris’s breath turned shallow. She slammed the black portfolio shut and shoved it blindly back onto the shelf,  leaving it jutting unevenly past the spines of perfectly organized books.  She turned and sprinted for the office door.
-
-
 
 ***
 
