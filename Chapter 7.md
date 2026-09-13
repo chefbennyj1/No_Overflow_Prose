@@ -1,4 +1,4 @@
-Victor walked down the peeling linoleum hallway of the long-term care facility. The fluorescent lights overhead buzzed with a dying electrical hum. He stopped at the front desk, dragging a chained pen across the visitor log to sign in. He looked up at the nurse behind the desk, "Victor Graves, for Arthur Graves". 
+Victor walked down the peeling  seafoam hallway of the long-term care facility. The blue and yellow checkered linoleum under foot. The fluorescent lights overhead buzzed with a dying electrical hum. He stopped at the front desk, dragging a chained pen across the visitor log. He looked up at the nurse behind the desk, "Victor Graves, for Arthur Graves". 
 
 He continued down the corridor until he reached a degraded wooden door painted green. An arrangement of fake blue flowers sat collecting dust in a cheap vase beside the frame. Victor adjusted the collar of his trench coat and pushed the door open. 
 
