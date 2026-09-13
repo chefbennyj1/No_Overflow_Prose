@@ -2,9 +2,9 @@ Victor walked down the peeling  seafoam hallway of the long-term care facility. 
 
 He continued down the corridor until he reached a degraded wooden door painted green. An arrangement of fake blue flowers sat collecting dust in a cheap vase beside the frame. Victor adjusted the collar of his trench coat and pushed the door open. 
 
-The old man sitting in the armchair didn't look at him. His clouded eyes darted between the cracked window and the doorway, tracking invisible threats. 
+The old man sitting in the faded, patched corduroy, armchair didn't look at him. His white hair was parted perfectly to the side, while clouded eyes darted between the cracked window and the doorway, trailing unseen threats. 
 
-"Close it," Arthur whispered, his voice dry and trembling. He gripped the armrests of his chair. "You gotta keep an eye —" He pointed to the window. "There is an expectation here, Victor.  The Madame don't just trust anyone ya know." 
+"Close it," Arthur whispered, his voice dry and trembling. He gripped the armrests of his chair. "You gotta keep an eye —" He pointed his wrinkled, tremoring finger toward the window. "There is an expectation here, Victor.  The Madame don't just trust anyone ya know." 
 
 Victor sighed, stepping further into the room. "Dad, you're not working anymore." 
 
