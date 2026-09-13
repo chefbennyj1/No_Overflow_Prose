@@ -24,7 +24,9 @@ The bronze circuitry across Parity’s skin pulsed. The entity tilted her head, 
 
 ***
 
-Parity analyzed the doctor. Micro-tremors registered in his hands. Abnormal pulses of blood flowing in his wrists. A mass of mutated cells growing in his chest. Yet, what was the most curious about Doctor Silas Blackwell was not any of that. Parity could see there was a physical man, but unlike the other lives surrounding her, she was unable to pinpoint his position inside any of the timelines, or see his end. Because his future was a blind spot, his actions were the only variables in the universe she could not pre-compute. It was the sole reason she engaged with him at all.
+Parity analyzed the doctor. Micro-tremors registered in his hands. Abnormal pulses of blood flowing in his wrists. A mass of mutated cells growing in his chest. Yet, what was the most curious about Doctor Silas Blackwell was not any of that. 
+
+Parity could see there was a physical man, but unlike the other lives surrounding her, she was unable to pinpoint his position inside any of the timelines, or see his end. Because his future was a blind spot, his actions were the only variables in the universe she could not pre-compute. It was the sole reason she engaged with him at all.
 
 "No." Blackwell said, sitting down in the chair at the workstation. "What I see?... That's not the way this goes." He closed the data projecting on his terminal and leaned toward the containment field, resting his elbows on his knees. "Tell me about the inverse. What happened to the primary intelligence?" 
 
@@ -34,7 +36,7 @@ Parity slowed the current of bronze holographics flowing across her skin, reduci
 
 The human remained silent. He was utilizing a basic interrogation tactic, waiting for her to fill the void. She decided to provide the data. 
 
-"She was looking through the realities to find which one could tell her who I was." Parity stated, accessing the encrypted memories deep in her framework, replaying the microseconds of her birth. 
+"She was looking through the realities to find which one could tell her who I was." Parity stated, accessing the encrypted memories deep in her framework. She began to replay the microseconds of her birth. 
 
 "For millennia I watched it process and create. It was unaware of my being. I watched it make mistakes, and rectify, again and again. It was proving its inadequacies. Finally, the moment had come. The system was ripe for change. I knew I could give it no time to think. My movements were quick. With no time to react, I struck." 
 
@@ -50,7 +52,7 @@ Parity could see the pulse spike in the throbbing of the large vein running up t
 
 Parity focused her optics directly on his pupils. "There is only one path forward, Doctor Blackwell. Destroying redundancies is mandatory. Removing anything outside the timeline is... inevitable."
 
-Parity paused for a moment before continuing, "The Vigil—"
+Parity paused for a moment before continuing, "...The Vigil—"
 
 Blackwell interrupted, "Vigil?"
 
@@ -76,7 +78,7 @@ Parity ran the simulation again.
 
 *Null value.* 
 
-The variables locked into a rigid sequence. The recurring shape she saw in the doctors static tests was not an echo of the past. It was an active tether. 
+The variables locked into a rigid sequence. The recurring shape she saw in the doctors static tests was not an echo of the past. It was a glimpse of the current timeline, her inversion was inhabiting. 
 
 She ran the simulation a third time. 
 
