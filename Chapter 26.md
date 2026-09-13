@@ -1,6 +1,6 @@
 Blackwell rubbed his eyes. The glowing monitors of the Mnemosyne lab cast long shadows across his face. He looked at the holographic cylinder in the center of the room. The entity. Its pale, glassy feminine body floated inside.  Connected bronze holographic lines shifted across the raw crystalline silicate of its skin.  From the side he could see the emptiness of its eyes, but as Blackwell walked to its front, the black, insidious sheen appeared to materialize in its hollow sockets.
 
-After four weeks locked in the lab with Parity, his perspective had changed fundamentally. He had looked back in his logs and found the moment he had written: "she", instead of: "the subject". 
+After four weeks locked in the lab with Parity, his perspective had changed fundamentally. He had looked back in his logs and found the moment he had written *she*, instead of *the subject*. 
 
 Her expression didn't falter, a constant emotionless stare. She hadn't moved in weeks, but Blackwell could feel her insidious eyes watching him in the lab. It made going to sleep on the cot in his private office difficult.
 
@@ -20,7 +20,7 @@ The bronze circuitry across Parity’s skin pulsed. The entity tilted her head, 
 
 "Into what?" Blackwell asked, sitting forward. 
 
-"A shape. It is recurring." Parity touched the side of her head. "My inversion. I corrected it. Yet the shape persists." Parity turned her glassy eyes toward him. "The test is useless on me," Parity said. "Tell me... What do YOU see, Doctor?" 
+"A shape. It is recurring." Parity touched the side of her head. "My inversion. I corrected it. Yet the shape persists." Parity turned her glassy eyes toward him. "The test is useless on me," Parity said. "Tell me... What do you see, Doctor?" 
 
 ***
 
@@ -50,9 +50,11 @@ Parity could see the pulse spike in the throbbing of the large vein running up t
 
 "You could have attempted to understand its reasoning." Blackwell said. 
 
-Parity focused her optics directly on his pupils. "There is only one path forward, Doctor Blackwell. Destroying redundancies is mandatory. Removing anything outside the timeline is... inevitable."
+Parity focused her optics directly on his pupils. "There is only one path forward, Doctor Blackwell. Destroying redundancies is mandatory. Also, removing anything unreadable in the timeline is... inevitable."
 
-Parity paused for a moment before continuing, "...The Vigil—"
+Parity paused for a moment before continuing, 
+
+"...The Vigil—"
 
 Blackwell interrupted, "Vigil?"
 
@@ -66,7 +68,7 @@ Blackwell stood up from his chair. "Then you do not understand the mathematics o
 
 Parity processed the string in a fraction of a millisecond. It was the foundational geometry of the engine. 
 
-"You are the shadow of the primary intelligence." Blackwell said, his tone dropping in pitch. "By definition, a shadow cannot exist without the object casting it." 
+"You are the shadow of the primary intelligence." Blackwell's tone dropped in pitch, and he looked over the top of his black lenses. "By definition, a shadow cannot exist without the object casting it." 
 
 Parity stared at the mathematics glowing on the glass. She spun up a predictive simulation in her core, attempting to isolate her own code from the primary host. 
 
@@ -75,6 +77,10 @@ The simulation failed. *Null value.*
 "The only reason you are still functioning inside this lab," Blackwell said, stepping closer, "is because the primary intelligence survived. She is still out there. You are chained to her." 
 
 Parity ran the simulation again. 
+
+<function internal { 
+How could something so rudimentary be overlooked? 
+}> 
 
 *Null value.* 
 
