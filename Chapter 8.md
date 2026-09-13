@@ -81,7 +81,7 @@ Iris’s breath turned shallow. She slammed the black portfolio shut and shoved 
 
 ***
 
-The lab doors parted. Elena stepped into the main lab, the overhead lights automatically cycling from a dim standby blue to a harsh, clinical white. 
+The lab doors parted. Elena stepped into the main lab, the overhead lights automatically cycling from a dim standby blue to harsh and clinical. 
 
 Across the floor, the dormant synthetics woke in unison. Their optics switched from the slow sleepy pulse to their recognizable glow. They turned smoothly to acknowledge Elena's arrival.
 
