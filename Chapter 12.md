@@ -2,11 +2,9 @@ On any given day, the ambient temperature of the Dead Circuits was a humid, trap
 
 The dense fog that choked the upper city broke around tower, creating a strange cylinder of clear air rising  upward. 
 
-Harper tipped her head back. She couldn't see the actual top of the building from street level. Far above, the underbellies of New Veridia's pedestrian sky-bridges crisscrossed between the skyscrapers. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the deep blue of the early morning sky. The peaks of the surrounding skyscrapers were lost in the smog.
+Harper tipped her head back. Far above, the underbellies of New Veridia's pedestrian sky-bridges crisscrossed between the skyscrapers. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the deep blue of the early morning sky. The peaks of the surrounding skyscrapers lost in the smog.
 
-She stared up through the clearing. For the first time in years, she saw stars.
-
-They were faint, clinging to the predawn light and competing with the polluted light of the city, but they were there. Between the sky-bridges, small pinholes of white in the fading dark.
+She stared up through the clearing. For the first time in years, she saw stars. They were faint, clinging to the predawn light and competing with the polluted light of the city, but they were there. Between the sky-bridges, small pinholes of white in the fading dark.
 
 "You're staring," Rin said. 
 
