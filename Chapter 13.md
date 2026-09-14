@@ -1,13 +1,13 @@
 
 Elena Marlowe stood alone on the primary observation deck. Below her, the tall pillars of the Mnemosyne engine were submerged in shallow coolant pools, creating a wet, reflective mist across the pit. Light bled from the glass, casting long shadows across the room.
 
-She rubbed her eyes and pulled her hair back haphazardly with a tie. Her eyes ached from analyzing the failed attempt to shut down the horizon memory. She had been waiting for the corporation to realize their science experiment wasn't under their control. Wasn't under anyone's control.
+She rubbed her eyes and pulled her hair back haphazardly with a tie. Her eyes ached from analyzing failed attempts to shut down the horizon memory. She had been waiting for the corporation to realize their science experiment wasn't under their control. Wasn't under anyone's control.
 
 Another diagnostic test initialized on the console. A new signal routed outward, racing toward the horizon boundary. 
 
 The bit flipped, driving data down through the core. A green confirmation flashed across the glass: predictability data successful.
 
-It was a fragile baseline. To be sure, she needed to push the horizon boundary further—a deep probe to verify the alignment under pressure. Elena queued a heavier diagnostic packet and fired it into the core.
+Elena queued a heavier diagnostic packet and fired it into the core.
 
 Instantly, a wall of red error strings flooded the primary holographic console. The harsh crimson text reflected off Elena's dark skin as she stepped closer to the glass.
 

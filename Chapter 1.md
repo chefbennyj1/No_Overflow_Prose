@@ -8,7 +8,7 @@ There was no need to turn around to know he was no longer alone. The faint hiss 
 
 Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
-Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the polished concrete of  the atrium pillars behind her. A gust of wind whipped the terrace, pushing her natural, shoulder-length hair across her face.
+Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the polished concrete of  the atrium pillars behind her. A gust of wind whipped the terrace, pushing her natural, shoulder-length hair across the dark skin of her face.
 
 "Yes, Doctor Blackwell," she replied. Her golden eyes darted constantly, tracking the weather calculations on the door's blue holograms as they reflected in their glassiness.
 
