@@ -28,7 +28,7 @@ She didn't admire the view. The data streaming across the holographic glass repr
 
 The terminal awoke, projecting a Takeda-Holden Corporation login screen. A minimal, white screen with black text.
 
-*Hello Company employee: RD001, S. Blackwell,* she thought.
+*Company employee: RD001, S. Blackwell* .
 
 Lines of access data spooled across the screen of the SBC, mirroring the forced terminal window on the workstation's display. The malicious code initiated a brute-force assault. The program she named after her own alias: *Null*. She waited impatiently for the firewall to break. 
 
