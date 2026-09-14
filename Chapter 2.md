@@ -38,7 +38,7 @@ The SBC chirped, and the login on the terminal screen flashed simultaneously, gr
 
 *Gotcha.* Her focus snapped to the panel.
 
-She dived straight into the personnel directories. Her target was generic janitorial and sanitation credentials. The most worthless basic access to the Company's Deep Storage facilities that were buried under the city. It was the price demanded by "The Filament," the cartel who ran the Dead Circuits. She had run jobs for them before. Never this far up into Company territory. 
+She dived straight into the personnel directories. Her target was generic janitorial and sanitation credentials—the most worthless basic access to the Company's Deep Storage facilities that were buried under the city. It was the price demanded by "The Filament," the cartel who ran the Dead Circuits. She had run jobs for them before. Never this far up into Company territory. 
 
 The file architecture was dense, built to deliberately slow data extraction.
 
