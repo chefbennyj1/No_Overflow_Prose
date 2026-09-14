@@ -16,7 +16,7 @@ The magnetic lock disengaged with a hollow snap. She ran her fingers the length 
 
 Tucking the jagged sidelock of her black hime-cut bob behind her ear, she slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a polished desk in the far corner. 
 
-As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a surge of blue pixels flowed from one end of the  the reinforced glass to the other. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. Waves of caustic shadows stretched throughout the room. She approached the terminal sitting on the desk.
+As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a surge of blue pixels flowed from one end of the reinforced glass to the other. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. Waves of caustic shadows stretched throughout the room. She approached the terminal sitting on the desk.
 
 She didn't admire the view. The data streaming across the  holographic glass represented sheer excess. Rin jammed the connection wire of her single-board controller into the main console. 
 
@@ -32,11 +32,11 @@ The SBC chirped, and the login on the terminal screen flashed simultaneously, gr
 
 *Gotcha.* Her focus snapped to the panel.
 
-She bypassed the personal directories, diving straight into the infrastructure sub-networks. Her target was municipal electrical access—the price demanded by "The Filament," the cartel who ran the Dead Circuits. The network architecture in the company files was dense, built to deliberately slow data extraction.
+She dived straight into the personnel directories. Her target was  generic custodial authorizations; access to the Company's Deep Storage facilities, buried in spots under the city. It was the price demanded by "The Filament," the cartel who ran the Dead Circuits. She had run jobs for them before. Never this far up into Company territory. The company file architecture was dense, built to deliberately slow data extraction.
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
-As the routing keys slowly copied to her drive, a folder in Blackwell's directory caught her eye: *Main Fusion Logs*. She opened the folder; it was full of power consumption logs. The current log file was growing at regular increments. She viewed the file. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
+As the authorizations slowly copied to her drive, a folder in Blackwell's directory caught her eye: *Main Fusion Logs*. She opened the folder; it was full of power consumption logs. The current log file was growing at regular increments. She viewed the file. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
 
 Beside the logs was one other hidden file, an operations file forced to become visible during her attack. It was named *Mnemo_1.opt*. She opened the file path. The screen flooded with classified schematics for a program called *Project Mnemosyne*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
 
@@ -44,7 +44,7 @@ The blue holographic data on the glass was a scaled projection of the exact same
 
 Rin moved away from the desk, and stepped backward in the room. Tilting her head, she focused her eyes, until her perspective of the windows glowing wireframe display eclipsed a structure looming in the distant city skyline. It was monitoring something specifically within that building—that had been tearing at the city's power grid for the better part of a month.
 
-Before she could dig deeper, the power routing keys download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
+Before she could dig deeper, the authorization download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
 Decidedly, she connected the red drive to the terminal. Her fingers instinctively hooked the loose strand of hair back behind her ear before she hammered the key to start the copy.
 
