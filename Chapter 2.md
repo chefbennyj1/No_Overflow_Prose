@@ -22,9 +22,9 @@ She didn't admire the view. The data streaming across the  holographic glass rep
 
 The terminal awoke, projecting a  Takeda-Holden Corporation login screen. A minimal, white screen with black text.
 
-Her fingers hit the 'enter' key of the mechanical keyboard. *Hello Company employee: RD001, S. Blackwell.*
+*Hello Company employee: RD001, S. Blackwell.*
 
-Lines of access data spooled across the tiny screen of the SBC in her hand, mirroring the forced terminal window on the workstation's display. Malicious code compiled a trojan, initiating a brute-force assault, its digital signature masked behind her alias: *Null*. The encryption fought back, a rotating cipher that worked against her algorithms. She waited impatiently for the firewall to give way. 
+Lines of access data spooled across the screen of the SBC, mirroring the forced terminal window on the workstation's display. The malicious code initiated a brute-force assault. The program she named after her own alias: *Null*. She waited impatiently for the firewall to break. 
 
 Down the hall, the elevator doors tried to close on the steel wrench for the fifth time. *Clunk... ding.* The metal doors reopened.
 
@@ -32,7 +32,9 @@ The SBC chirped, and the login on the terminal screen flashed simultaneously, gr
 
 *Gotcha.* Her focus snapped to the panel.
 
-She dived straight into the personnel directories. Her target was generic custodial authorizations: access to the Company's Deep Storage facilities, buried in spots under the city. It was the price demanded by "The Filament," the cartel who ran the Dead Circuits. She had run jobs for them before. Never this far up into Company territory. The company file architecture was dense, built to deliberately slow data extraction.
+She dived straight into the personnel directories. Her target was generic custodial authorizations: access to the Company's Deep Storage facilities, buried in spots under the city. It was the price demanded by "The Filament," the cartel who ran the Dead Circuits. She had run jobs for them before. Never this far up into Company territory. 
+
+The file architecture was dense, built to deliberately slow data extraction.
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
