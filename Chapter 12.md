@@ -20,7 +20,9 @@ Harper leaned over to read the glowing green text. "Takeda-Holden transit termin
 
 Harper smiled, though the anxiety didn't leave her eyes. "Always a plan." 
 
-They descended the concrete steps into the Takeda-Holden Transit Terminal. The station's interchanges fell four tiers below them, surrounded by arches of polished white stone and chrome. 
+***
+
+The Takeda-Holden Transit Terminal's interchanges fell four tiers below them, surrounded by arches of polished white stone and chrome. 
 
 Frictionless magnetic trains surged through the tunnels, pulling the super-cooled air deep into New Veridia before settling back in. Harper watched her breath plume in the sterile overhead lighting. The dry, unnatural air crawled along her skin with a prickle of static electricity. 
 
@@ -43,7 +45,7 @@ They found it hidden in the freezing shadows. Faded white stenciling on the rust
 
 Rin didn't hesitate. A blank magnetic card dangled from a thin ribbon cable on the SBC. She swiped it through the door's reader. The lock flashed a harsh red. 
 
-"Keep watch," Rin said. The bare circuit board in her hand flickered with raw data, running a brute-force decryption against the doors card reader. 
+"Keep watch," Rin said. The bare circuit board in her hand flickered with raw data, running a brute-force decryption against the door's card reader. 
 
 Harper stepped back, scanning the platform. Corporate executives flowed past. 
 
@@ -51,7 +53,7 @@ The crowd parted as two Renewal agents made their way through the terminal platf
 
 "Rin," Harper breathed. "We have a problem."
 
-The lead agent's hemlet locked onto them. He raised a riot-control baton and pointed it through the crowd, his voice booming over the noise of the terminal. "Hey! Step away from the door!"
+The lead agent's helmet locked onto them. He raised a riot-control baton and pointed it through the crowd, his voice booming over the noise of the terminal. "Hey! Step away from the door!"
 
 "I need ten seconds," Rin said, watching the flow of numbers move down the green display of the SBC.
 
@@ -61,6 +63,6 @@ A sharp beep chirped from the SBC, the small green crystal display reading a ser
 
 The agent closed the distance, raising the baton to strike. Harper stepped squarely in front of Rin, bracing herself to take the blow. 
 
-The card dragged smoothly upward through the reader a second time. A mechanical clack as the magnetic lock disengaged . Rin shoved her shoulder against the steel door, forcing it open and grabbed Harper by the jacket collar pulling her firmly backward into the dark. The baton swung through the empty air.
+The card dragged smoothly upward through the reader a second time. The magnetic lock clacked. Rin drove her shoulder into the steel and the door gave inward. She caught Harper's collar with her free hand and pulled, hard. Harper's braced weight came off her heels. They fell through the enterence, into the dark together. The baton swung through empty air.
 
-The heavy door slammed shut, severing the bright lights of the transit terminal. They stood in the freezing shadows. A second later, a heavy fist hammered against the steel door for the other side.
+The heavy door slammed shut, severing the bright lights of the transit terminal. They stood in the freezing shadows. A second later, a heavy fist hammered against the steel door from the other side.
