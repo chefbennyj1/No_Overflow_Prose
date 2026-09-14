@@ -30,11 +30,11 @@ Taking the escalators past the upper commuter hubs was out of the question. Neit
 
 They descended the terminal's empty staircase, ignored by the commuters for its inconvenience. Each level was marked with a wall-sized number designating the tier. They continued until they hit sub-level four. 
 
-Morning commuters, Renewal office workers, and high-end synthetics packed the platform. Some waited for trains, while others moved toward the tower's executive lifts, speeding up to the pedestrian sky-bridges hundreds of stories above them. 
+Morning passengers, Renewal office workers, and high-end synthetics packed the platform. Some waited for trains, while others moved toward the tower's executive lifts, speeding up to the pedestrian sky-bridges hundreds of stories above them. 
 
 As they reached the platform, the temperature plummeted further. The floors were black marble, extending like spilled ink across the terminal.
 
-Harper's brown suede jacket was worn. Rin's boots scuffed against the marble. They both wore the grime of the Dead Circuits. Wealthy commuters actively parted around them, casting disgusted glances over their hand-held devices at the two girls dirtying the transit hub.
+Harper's brown suede jacket was worn. Rin's boots scuffed against the floor. They both wore the grime of the Dead Circuits. Wealthy commuters actively parted around them, casting disgusted glances over their hand-held devices at the two girls dirtying the transit hub.
 
 Harper's eyes darted toward the far end. "Where is it?"
 
@@ -42,7 +42,7 @@ An automated voice announced another train arrival as a long mag-train streaked 
 
 "Look, there," Rin said, gesturing toward where the train had entered from. A concrete catwalk ran into the tunnel along both walls of the train tube. Green steel doors were set into the wall behind it, each stenciled with a faded white number.
 
-"End of the line," Rin said, pulling her SBC from her pocket. She turned away from the tracks, cutting toward the secluded maintenance doors. 
+"End of the line," Rin said, pulling her SBC from her pocket. She turned foloowing the tracks, cutting toward the secluded maintenance doors. 
 
 They found it right inside the tube. The faded number on the door read: **4002**. 
 
@@ -76,4 +76,4 @@ Rin drove her shoulder into the steel and the door gave inward. She caught Harpe
 
 The heavy door slammed shut, severing the bright lights of the transit terminal. A second later, a heavy fist hammered against the steel door from the other side. 
 
-Before them, a grated staircase stepped down onto a steel walkway, suspended in a concrete tunnel. 
+Before them, a grated staircase stepped down onto a steel walkway, suspended in a concrete tunnel. Long yellow light tubes flickered as the mag-trains entered and exited the terminal above them.
