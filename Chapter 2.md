@@ -40,7 +40,7 @@ The file architecture was dense, built to deliberately slow data extraction.
 
 As the authorizations slowly copied to her drive, a folder in Blackwell's directory caught her eye: *Main Fusion Logs*. She opened the folder; it was full of power consumption logs. The current log file was growing at regular increments. She viewed the file. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
 
-Beside the logs was one other hidden file, an operations file forced to become visible during her attack. It was named *Mnemo_1.opt*. She opened the file path. The screen flooded with classified schematics for a program called *Project Mnemosyne*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
+Beside the logs another file named *Mnemo_1.opt*. She opened the file path. The screen flooded with classified schematics for a program called *Project Mnemosyne*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
 
 The blue holographic data on the glass was a scaled projection of the exact same tower schematic.
 
