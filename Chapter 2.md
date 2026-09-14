@@ -1,32 +1,34 @@
-  Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers", the daunting arcologies of the city. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead like the legs of iron giants. 
+  Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers", the daunting arcologies of the city. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead. 
   
   The atmosphere was bitter, and thick with exhaust. Despite the rain, the morning sun struggled to pierce the smog, washing the wet streets in a pale, tarnished light. Under the convective sunshower, droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained from filtering the air. Only the synthetics walked barefaced. The freezing rain beaded off their vinyl skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
 
    Battered Takeda-Holden surveillance cameras clung to the steel poles of the intersections, their casings dented from thrown rocks, lenses quietly tracking the crowds.
 
-  Rising from the center of the old blocks was a Company office building. A temporary, security barricade had been erected on the ground floor to protect the building's lower half from the possibility of uneasy gatherings from the lower districts.  The monolith structure was a pristine slab of mirrored, tinted glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
+  Rising from the center of the old blocks was a Company office building. A temporary, security barricade had been erected on the ground floor to protect the building's lower half from the possibility of uneasy gatherings from the lower districts. The monolith structure was a pristine slab of mirrored, tinted glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
   
   Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, Rin stood in the company hallway, pulling wires from an office's magnetic lock.
   
-The corridor was otherwise silent. Rin had done her research; she had found the perfect floor. For whatever reason, the executive suites on floor 15 had been unattended for weeks. The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
+The corridor was otherwise silent. Rin had done her research; she had found the perfect floor. For whatever reason, the executive suites on floor 15 had been unattended for weeks. 
+
+The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
 
 A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam searched for its missing data. 
 
 She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. She held the SBC against the lock's near-field communication display. Its green crystal screen flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
 
-The magnetic lock disengaged with a hollow snap. She ran her fingers the length of the letters engraved on the smooth plaque attached to the center of the door, *Dr. Silas S. Blackwell, Ph.D Sc.D*.
+The magnetic lock disengaged with a hollow snap. She ran her fingers the length of the letters engraved on the smooth plaque attached to the center of the door, *Dr. Silas L. Blackwell, Ph.D Sc.D*.
 
 Tucking the jagged sidelock of her black hime-cut bob behind her ear, she slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a polished desk in the far corner. 
 
-As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a surge of blue pixels flowed from one end of the reinforced glass to the other. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. Waves of caustic shadows stretched throughout the room. She approached the terminal sitting on the desk.
+As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a surge of blue pixels flowed from one end of the reinforced glass to the other. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. She approached the terminal sitting on the desk.
 
-She didn't admire the view. The data streaming across the  holographic glass represented sheer excess. Rin jammed the connection wire of her SBC into the main console. 
+She didn't admire the view. The data streaming across the holographic glass represented sheer excess. Rin jammed the connection wire of her SBC into the main console. 
 
-*Just enough credits to put someone on a train out of the Dead Circuts,* she thought.
+*Just enough credits to put someone on a train out of the Dead Circuits,* she thought.
 
-The terminal awoke, projecting a  Takeda-Holden Corporation login screen. A minimal, white screen with black text.
+The terminal awoke, projecting a Takeda-Holden Corporation login screen. A minimal, white screen with black text.
 
-*Hello Company employee: RD001, S. Blackwell.*
+*Hello Company employee: RD001, S. Blackwell,* she thought.
 
 Lines of access data spooled across the screen of the SBC, mirroring the forced terminal window on the workstation's display. The malicious code initiated a brute-force assault. The program she named after her own alias: *Null*. She waited impatiently for the firewall to break. 
 
@@ -36,15 +38,15 @@ The SBC chirped, and the login on the terminal screen flashed simultaneously, gr
 
 *Gotcha.* Her focus snapped to the panel.
 
-She dived straight into the personnel directories. Her target was generic custodial authorizations: access to the Company's Deep Storage facilities, buried in spots under the city. It was the price demanded by "The Filament," the cartel who ran the Dead Circuits. She had run jobs for them before. Never this far up into Company territory. 
+She dived straight into the personnel directories. Her target was generic janitorial and sanitation credentials. The most worthless basic access to the Company's Deep Storage facilities that were buried under the city. It was the price demanded by "The Filament," the cartel who ran the Dead Circuits. She had run jobs for them before. Never this far up into Company territory. 
 
 The file architecture was dense, built to deliberately slow data extraction.
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
-As the authorizations slowly copied to her drive, a folder in Blackwell's directory caught her eye: *Main Fusion Logs*. She opened the folder; it was full of power consumption logs. The current log file was growing at regular increments. She viewed the file. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
+As the authorizations slowly copied to her drive, a folder in Blackwell's directory caught her eye: *Main Fusion Logs*. She opened the folder; it was full of power consumption logs. Each file incrementing in size. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
 
-Beside the logs another file named *Mnemo_1.opt*. She opened the file path. The screen flooded with classified schematics for a program called *Project Mnemosyne*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
+ She found and opened an operations file:*Mnemo_1.opt*. The screen flooded with classified schematics for a program called *Project Mnemosyne*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
 
 The blue holographic data on the glass was a scaled projection of the exact same tower schematic.
 
