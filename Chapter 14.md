@@ -15,13 +15,13 @@ Victor didn't slow down.
 Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "Blackwell. I need to know what he knows."
  Victor banked onto the elevated approach feeding into the Towers. 
 
-The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Breaking through the oppressive smog layer of the lower city, the windshield was instantly washed in the blinding light of the morning sun glaring off the glass skyscrapers. Beside the highway, the seamless streak of alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. 
+The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Breaking through the oppressive smog layer of the lower city, the windshield was instantly washed in the blinding light of the morning sun—glaring off the glass skyscrapers. Beside the highway, the seamless streak of alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. 
 
 All across the skyline, the architectural lighting of the corporate towers flashed on and off in random sequences. 
 
 Victor gripped the wheel. Twenty years working the slums had taught him to trust the feeling before the evidence, and the feeling right now was that the city was buckling under an invisible weight. 
 
-He brought the car to rest outside the tower's front plaza. The headlights dimmed to black, the car settling into silence.
+He brought the car to rest outside the tower's front plaza. The headlights dimmed, the car settling into silence.
 
 Victor raised the car door open, his breath instantly pluming white in the air. The morning sun was glaring, but it carried absolutely no warmth. The air was razor-sharp, a dead, freezing chill that bit right through his trench coat the second his boots hit the pavement. 
 
@@ -47,7 +47,7 @@ One floor up, Iris stood on a suspended walkway in the forty-story atrium. Monol
 
 She leaned over the railing, watching the workers move through the tall tinted glass doors of the New Veridia entrance below. It helped her think. 
 
-She couldn't shake the feeling she was unwittingly part of something horrendous. She had been inside Blackwell's office. She had read his thesis on the 'Parity' effect. Something sinister was in the machine's core. Not programmed. *Grown*. 
+She couldn't shake the feeling she was unwittingly part of something horrendous. She had been inside Blackwell's office. She had read his thesis on the 'Parity effect'. Something sinister was in the machine's core. Not programmed. *Grown*. 
 
 Then, the heavy glass doors of the main entrance opened. 
 
@@ -65,7 +65,7 @@ They were her only chance.
 
 Iris turned and walked quickly toward the executive elevator. As the doors began to close, a voice spoke after her, calmly from the walkway. 
 
-"I believe we need to have a conversation, Ms. Ito." It was a distinct voice Iris knew all too well. Blackwell.
+"I believe we need to have a conversation, Miss Ito." It was a distinct voice Iris knew all too well. Blackwell.
 
 She looked out to see Silas Blackwell standing on the walkway as the elevator doors closed.
 
@@ -95,7 +95,7 @@ The synthetic stared at him, processing. "Terminal logs? I see... there have bee
 
 "I am a Synthetic, Detective. Designation Human Relations dash 33, not a 'Canner'," the receptionist replied, the warmth finally dropping from its tone. "Perhaps one of our Renewal Agents could help escort you back to your vehicle now?"
 
-The synthetic's eyes flared an icy blue as it tapped into the internal comms. "HR-33, Entrance 001 please send Renewa—"
+The synthetic's eyes flared an icy blue as it tapped into the internal comms. "HR-33, Entrance 001 please send Renewal—"
 
 "That won't be necessary, 33. Override authorization: Employee code 4 5 0 3." 
 

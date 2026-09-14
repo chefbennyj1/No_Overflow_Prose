@@ -1,7 +1,7 @@
 
 The stench of standing water filled the tunnel. Flickering incandescent bulbs cast long, jaundiced shadows against the curved concrete walls. Iron pipes lined the ceiling, weeping condensation onto the cracked floor. 
 
-Harper kept her hands tucked into her jacket pockets, shivering as they moved deeper into the underbelly of the Takeda-Holden tower. She gnawed on her piece of synthetic bubblegum. They passed a series of unmarked, rusted doors until the tunnel widened into a small antechamber. 
+Harper kept her hands tucked into her jacket pockets, shivering as they moved deeper into the underbelly of the Takeda-Holden tower. They passed a series of unmarked, rusted doors until the tunnel widened into a small antechamber. 
 
 At the far end stood a reinforced blast door, marked with faded corporate caution stripes. An oversized lock sealed it shut. 
 
@@ -11,7 +11,7 @@ Harper eyed the industrial lock, then looked down at the crude circuitry in Rin'
 
 "Just—," Rin raised her hand towards Harper, "give me a minute. " 
 
-Before the plastic even touched the slot, a deep, concussive *clack* rang through the antechamber. The red indicator on the lock snapped to green, indicating it had unlocked.. 
+Before the plastic even touched the slot, a deep, concussive *clack* rang through the antechamber. The red indicator on the lock snapped to green, indicating it had unlocked. 
 
 The blast door groaned on its tracks, sliding open on its own. 
 

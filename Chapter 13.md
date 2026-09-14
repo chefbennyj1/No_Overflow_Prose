@@ -5,7 +5,7 @@ She rubbed her eyes and pulled her hair back haphazardly with a tie. Her eyes ac
 
 Another diagnostic test initialized on the console. A new signal routed outward, racing toward the horizon boundary. 
 
-The bit flipped, driving data down through the core. A green confirmation flashed across the glass: predictability data successful.
+The bit flipped, driving data down through the core. A green confirmation flashed across the glass, showing the predictability test as successful.
 
 Elena queued a heavier diagnostic packet and fired it into the core.
 
@@ -17,7 +17,7 @@ The syntax was foreign. It bore no resemblance to standard  kernel data.
 
 Elena dragged a series of diagnostic windows across the glass interface with quick, shaky hands.
 
-Core architecture code populated the screen. Elena scanned the lines she had authored herself years ago, desperate to find the method that handled that error.
+Core code populated the screen. Elena scanned the lines she had authored herself years ago, desperate to find the method that handled that error.
 
 *Parity was never added as an error code to the engine.*
 
