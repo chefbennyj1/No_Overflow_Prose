@@ -28,7 +28,7 @@ Frictionless magnetic trains surged through the tunnels, pulling the super-coole
 
 Taking the escalators past the upper commuter hubs was out of the question. Neither of them carried the New Veridia identification required to legally stand on the platform. 
 
-They descended the terminals empty staircase, ignored by the commuters for its inconvenience. Each level was marked with a wall sized stenciled number. Large overhead panels read train arrivals and departures. They continued until they hit sub-level four. 
+They descended the terminals empty staircase, ignored by the commuters for its inconvenience. Each level was marked with a wall sized number designating the tier. Large overhead panels read train arrivals and departures. They continued until they hit sub-level four. 
 
 Morning commuters, Renewal office workers, and high-end synthetics packed the platform. The floors were black marble, extending like spilled ink across the terminal.
 
@@ -39,9 +39,13 @@ Harper's brown suede jacket worn. Rin's boots scuffed against the marble. They b
 
 Harper's eyes darted toward the far end. "Where is it?"
 
-"End of the line," Rin said, pulling her SBC from her pocket. She turned away from the tracks, cutting toward a secluded corridor of rusted green maintenance doors running along the side of the train tube. 
+Another long mag-train streaked past them into the level four terminal. For a moment the warm air of New Veridia blasted their faces. 
 
-They found it hidden in the freezing shadows. Faded white stenciling on the rusted, green steel door read: **4002**. 
+"Look, there," Rin said ,gesturing toward the tunnel the train had entered from. A corridor of rusted green steel doors, with faded white stenciled numbers, sat behind a concrete catwalk, lining both the sides of the train tube.
+
+"End of the line," Rin said, pulling her SBC from her pocket. She turned away from the tracks, cutting toward the secluded maintenance doors. 
+
+They found it right inside the tube. Faded white paint on the door read: **4002**. 
 
 Rin didn't hesitate. A blank magnetic card dangled from a thin ribbon cable on the SBC. She swiped it through the door's reader. The lock flashed a harsh red. 
 
@@ -49,20 +53,27 @@ Rin didn't hesitate. A blank magnetic card dangled from a thin ribbon cable on t
 
 Harper stepped back, scanning the platform. Corporate executives flowed past. 
 
-The crowd parted as two Renewal agents made their way through the terminal platform, patrolling the marble floors. They turned the corner, their opaque visors sweeping the corridor. 
+The crowd parted as a male and female Renewal agents made their way through the terminal platform, patrolling the marble floors. They turned the corner, their opaque visors sweeping the corridor. 
 
 "Rin," Harper breathed. "We have a problem."
 
-The lead agent's helmet locked onto them. He raised a riot-control baton and pointed it through the crowd, his voice booming over the noise of the terminal. "Hey! Step away from the door!"
+
+
+
+The lead agent's helmet locked onto them. He raised a control-baton and pointed it through the crowd, his voice booming over the noise of the terminal. "Hey! Step away from the door!"
 
 "I need ten seconds," Rin said, watching the flow of numbers move down the green display of the SBC.
 
-"You don't have ten!" Harper gasped as the agent broke into a menacing sprint down the platform. The crowd scattered, making way for the charging agent. 
+"You don't have ten!" Harper gasped as both of the agents broke into a menacing sprint down the platform. The crowd scattered, making way for the charging agents. 
 
 A sharp beep chirped from the SBC, the small green crystal display reading a series of hashed numbers and letters. 
 
-The agent closed the distance, raising the baton to strike. Harper stepped squarely in front of Rin, bracing herself to take the blow. 
+The male agent jumped on the edge of the catwalk, while the female agent guarded the step. "You have been ordered to stop!" The modulated voice echoed through the tunnel behind them.
+
+He closed the distance, and raised his baton to strike. Harper stepped squarely in front of Rin, bracing herself to take the blow. 
 
 The card dragged smoothly upward through the reader a second time. The magnetic lock clacked. Rin drove her shoulder into the steel and the door gave inward. She caught Harper's collar with her free hand and pulled, hard. Harper's braced weight came off her heels. They fell through the enterence, into the dark together. The baton swung through empty air.
 
-The heavy door slammed shut, severing the bright lights of the transit terminal. They stood in the freezing shadows. A second later, a heavy fist hammered against the steel door from the other side.
+The heavy door slammed shut, severing the bright lights of the transit terminal. A second later, a heavy fist hammered against the steel door from the other side. 
+
+Before them, a grated stair case stepped down onto to a steel walk-way, suspended in a concrete tunnel. 
