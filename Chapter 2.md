@@ -10,7 +10,9 @@
   
 The corridor was otherwise silent. Rin had done her research; she had found the perfect floor. For whatever reason, the executive suites on floor 15 had been unattended for weeks. The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
 
-A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam searched for its missing data. She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. She held the exposed motherboard against the lock's near-field communication display. The green crystal screen on the SBC flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
+A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam searched for its missing data. 
+
+She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. She held the SBC against the lock's near-field communication display. Its green crystal screen flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
 
 The magnetic lock disengaged with a hollow snap. She ran her fingers the length of the letters engraved on the smooth plaque attached to the center of the door, *Dr. Silas S. Blackwell, Ph.D Sc.D*.
 
@@ -18,9 +20,9 @@ Tucking the jagged sidelock of her black hime-cut bob behind her ear, she slippe
 
 As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a surge of blue pixels flowed from one end of the reinforced glass to the other. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. Waves of caustic shadows stretched throughout the room. She approached the terminal sitting on the desk.
 
-She didn't admire the view. The data streaming across the  holographic glass represented sheer excess. Rin jammed the connection wire of her single-board controller into the main console. 
+She didn't admire the view. The data streaming across the  holographic glass represented sheer excess. Rin jammed the connection wire of her SBC into the main console. 
 
-*Just enough credits to put someone on a train out of the Dead Circuts.* 
+*Just enough credits to put someone on a train out of the Dead Circuts,* she thought.
 
 The terminal awoke, projecting a  Takeda-Holden Corporation login screen. A minimal, white screen with black text.
 
