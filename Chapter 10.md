@@ -44,7 +44,7 @@ Harper took it, her fingers brushing Rin's palm. She crossed to her primary work
 
 The three monitors above her desk flared to life, washing her face pale.
 
-"I went in for the electrical keys." Rin stood behind the chair. "The Filament wanted  them."
+"I went in for the custodial authorizations." Rin stood behind the chair. "The Filament wanted them."
 
 "The Filament? Jesus, Erin, they're practically terrorists." Harper crushed her cigarette into an overflowing ashtray on the desk. 
 
@@ -64,9 +64,13 @@ Her hand lifted off the keyboard. "Whoa." A wave of decrypted files spilled open
 
 Rin watched her lips moving silently as she read.
 
-"— a little more than power routing keys, Rin." Something shifted in Harper's face.
+"—a little more than custodial authorizations, Rin." Something shifted in Harper's face. "It's transfer authority."
 
-"I know. It was a company tower. It matched a building right out—"
+"Transfer of what?" Rin asked.
+
+"Doesn't say." Harper's eyes darted across the scrolling text. 
+
+"Well, it was a company tower," Rin said. "It matched a building right out—"
 
 "This isn't a building," Harper interrupted. The blue glow of the monitors leached the warmth out of her face. "It's a training processor. Look at the size of it! Wait—," she stopped short, "This isn't just a—," her eyes wandered the screen, "Jesus." 
 

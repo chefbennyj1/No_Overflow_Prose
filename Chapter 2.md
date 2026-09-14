@@ -32,7 +32,7 @@ The SBC chirped, and the login on the terminal screen flashed simultaneously, gr
 
 *Gotcha.* Her focus snapped to the panel.
 
-She dived straight into the personnel directories. Her target was  generic custodial authorizations; access to the Company's Deep Storage facilities, buried in spots under the city. It was the price demanded by "The Filament," the cartel who ran the Dead Circuits. She had run jobs for them before. Never this far up into Company territory. The company file architecture was dense, built to deliberately slow data extraction.
+She dived straight into the personnel directories. Her target was generic custodial authorizations: access to the Company's Deep Storage facilities, buried in spots under the city. It was the price demanded by "The Filament," the cartel who ran the Dead Circuits. She had run jobs for them before. Never this far up into Company territory. The company file architecture was dense, built to deliberately slow data extraction.
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
@@ -80,7 +80,7 @@ She pocketed the drive, her gaze shifting back to the window, then again to the 
 
 Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte color with a faded yellow band painted around it. She held it in her palm. It had taken seven people to drag a hulking Renewal agent to the ground long enough for the canister to snap loose from its belt—a bloody memory she tried to forget. Rin ran her thumb over the rusted safety pin, staring at the small explosive as she calculated what she was about to do.
 
-With her free hand, she pulled a low-profile rebreather mask from her collar. It was a specialized, far more advanced than the stained surgical masks worn by the crowds in the Dead Circuits below. She pulled the thick straps over her dark hair, the rubber sealing tightly around her nose and mouth with a faint hiss of pressurized air. 
+With her free hand, she pulled a low-profile rebreather mask from her collar. It was specialized, far more advanced than the stained surgical masks worn by the crowds in the Dead Circuits below. She pulled the thick straps over her dark hair, the rubber sealing tightly around her nose and mouth with a faint hiss of pressurized air. 
 
 Rin hooked her finger through the grenade's metal ring.
 
@@ -98,7 +98,7 @@ He felt the abrupt, hardened force of Harlan grabbing his coat with both hands, 
 
 The canister erupted with a violent hiss. Thick, choking white smoke instantly flooded the narrow hallway, creating a dense wall of fog between the detectives and the office. 
 
-Victor propped himself up to one knee, coughing as the acrid chemical burned his sensitive eyes. He rasied his weapon, squinting into the blinding cloud. 
+Victor propped himself up to one knee, coughing as the acrid chemical burned his sensitive eyes. He raised his weapon, squinting into the blinding cloud. 
 
 Through the haze, a lithe, feminine silhouette emerged. Backlit by the blue light of the office, refracting through the fog and stretching into long rays around her. 
 

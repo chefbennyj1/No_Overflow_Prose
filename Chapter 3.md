@@ -37,7 +37,7 @@ Rin kept her expression neutral and stepped forward. Holding her jacket with one
 
 The man sat back in his seat. Across from him sat a skeletal woman beneath an impeccably tailored white silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go. The diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' belonged to her.  
 
-"Municipal routing keys, just like we agreed," Rin said her voice loud over the falling rain. Rin looked at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament.  Rin tried to hide the nerves in her voice.
+"Custodial authorizations, just like we agreed," Rin said, her voice loud over the falling rain. Rin looked at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament.  Rin tried to hide the nerves in her voice.
 
 The man snatched the drive up. Without looking at Rin, he turned and presented it to the old woman. 
 
