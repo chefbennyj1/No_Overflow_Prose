@@ -1,5 +1,5 @@
 
-Elena Marlowe stood alone in the dark on the primary observation deck. Below her, the tall pillars of the Mnemosyne engine were submerged in shallow coolant pools, creating a wet, reflective mist across the pit. Light bled from the glass, casting long shadows across the room.
+Elena Marlowe stood alone on the primary observation deck. Below her, the tall pillars of the Mnemosyne engine were submerged in shallow coolant pools, creating a wet, reflective mist across the pit. Light bled from the glass, casting long shadows across the room.
 
 She rubbed her eyes and pulled her hair back haphazardly with a tie. Her eyes ached from analyzing the failed attempt to shut down the horizon memory. She had been waiting for the corporation to realize their science experiment wasn't under their control. Wasn't under anyone's control.
 
