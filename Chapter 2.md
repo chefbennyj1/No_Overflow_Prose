@@ -20,6 +20,8 @@ As she crossed the center of the office, the window overlooking the lower city h
 
 She didn't admire the view. The data streaming across the  holographic glass represented sheer excess. Rin jammed the connection wire of her single-board controller into the main console. 
 
+*Just enough credits to put someone on a train out of the Dead Circuts.* A thought Rin often had to limit her guilt and justify her criminal behavior.
+
 The terminal awoke, projecting a  Takeda-Holden Corporation login screen. A minimal, white screen with black text.
 
 *Hello Company employee: RD001, S. Blackwell.*
