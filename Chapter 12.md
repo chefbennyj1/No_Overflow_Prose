@@ -38,11 +38,11 @@ Harper's brown suede jacket was worn. Rin's boots scuffed against the floor. The
 
 Harper's eyes darted toward the far end. "Where is it?"
 
-An automated voice announced another train arrival as a long mag-train streaked past them into the level four terminal. The warm air pulled in from New Veridia blasted them. A tangled mess of hair crossed the girls faces, before the temperature equalized again. 
+An automated voice announced another train arrival as a long mag-train streaked past them into the level four terminal. The warm air pulled in from New Veridia blasted them. Harper squinted against the sudden rush of air, her tangled hair whipping across her eyes before the temperature equalized again. 
 
-"Look, there," Rin said, gesturing toward where the train had entered from. A concrete catwalk ran into the tunnel along both walls of the train tube. Green steel doors were set into the wall behind it, each stenciled with a faded white number.
+"Look, there," Rin said, pulling a wind swept side lock of her hair back behind her ear. She gestured toward where the train had entered from. A concrete catwalk ran into the tunnel along both walls of the train tube. Green steel doors were set into the wall behind it, each stenciled with a faded white number.
 
-"End of the line," Rin said, pulling her SBC from her pocket. She turned foloowing the tracks, cutting toward the secluded maintenance doors. 
+"End of the line," Rin said, pulling her SBC from her pocket. She turned, following the tracks, cutting toward the secluded maintenance doors. 
 
 They found it right inside the tube. The faded number on the door read: **4002**. 
 
