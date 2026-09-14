@@ -20,7 +20,7 @@ As she crossed the center of the office, the window overlooking the lower city h
 
 She didn't admire the view. The data streaming across the  holographic glass represented sheer excess. Rin jammed the connection wire of her single-board controller into the main console. 
 
-*Just enough credits to put someone on a train out of the Dead Circuts.* A thought Rin often had to limit her guilt and justify her criminal behavior.
+*Just enough credits to put someone on a train out of the Dead Circuts.* 
 
 The terminal awoke, projecting a  Takeda-Holden Corporation login screen. A minimal, white screen with black text.
 
@@ -46,7 +46,7 @@ Beside the logs another file named *Mnemo_1.opt*. She opened the file path. The 
 
 The blue holographic data on the glass was a scaled projection of the exact same tower schematic.
 
-Rin moved away from the desk, and stepped backward in the room. Tilting her head, she focused her eyes, until her perspective of the windows glowing wireframe display eclipsed a structure looming in the distant city skyline. It was monitoring something specifically within that building—that had been tearing at the city's power grid for the better part of a month.
+Rin moved away from the desk, and stepped back until the wireframe on the glass lined up with the skyline behind it. The projection perfectly eclipsed a building in the distance. Whatever Blackwell was monitoring, it was in that tower, and it had been tearing at the city's power grid for the better part of a month.
 
 Before she could dig deeper, the authorization download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
