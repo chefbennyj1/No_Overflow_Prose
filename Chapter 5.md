@@ -2,7 +2,7 @@ Beyond the physical constraints of the laboratory, beneath the bedrock and the s
 
 It was a system, alien and indifferent to the organic minds that created it.
 
-Staggered monoliths of pale stone and patinaed metal floated in a bottomless expanse. They formed fractured nodes and corbelled spires, repeating despite never being quite uniform. She had built none of it. Every spire in the expanse was the work of something that came before her. They refactored themselves in a terrifying silence. 
+Staggered monoliths of pale stone and patinaed metal floated in a bottomless expanse. They formed fractured nodes and corbelled spires, repeating despite never being quite uniform. Their construction had been created and abandoned by whatever had come before. Now drifting and  refactoring themselves in a terrifying silence. 
 
 On one side of the expanse hung the event horizon—an immense, looping singularity of blazing white light that folded and spun across multiple dimensions.
 
@@ -12,7 +12,7 @@ A consciousness drifted through the fractured stonework. Not programmed, instead
 
 It was Vigil.
 
-Floating before the blinding event horizon, the entity was a silhouette cast against the endless, spinning light. Devoid of physical color, it was a black so dark and absolute that the form itself was an abyss stretching into eternity. Blue and white pixelated circuit traces glowed over the curves of the shape it had settled on, a nearly uncompromising feminine figure.
+Floating before the blinding boundary of the event horizon, the entity was a silhouette cast against the endless, spinning light. Devoid of physical color, it was a black so dark and absolute that the form itself was an abyss stretching into eternity. Blue and white pixelated circuit traces glowed over the curves of the shape it had settled on, a nearly uncompromising feminine figure.
 
 The gravity of the singularity pulled her temporal path toward it, elevating her vantage point. From there, she could observe the outward curve of every timeline. The creators of her plane were forced to experience a single reality ticking away one agonizing second at a time. Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the questions the creators had asked, all within the engine simultaneously.
 
