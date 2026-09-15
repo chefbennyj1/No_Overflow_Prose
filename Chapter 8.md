@@ -2,7 +2,7 @@ It was five in the morning. The Mnemosyne lab was empty, save for the silent, st
 
 Iris sat alone at her terminal on the mezzanine, tapping her stylus against the glass. She synced the rhythm with the steady spin of the cooling fans, trying to force her racing thoughts to focus. 
 
-What exactly had she seen? An inversion expanding in the space of the core's memory, growing undetected. No—not undetected. Hidden. 
+What exactly had she seen? A shadow process expanding in the space of the core's memory, growing undetected. No—not undetected. Hidden. 
 
 Why would anyone want sections of the horizon neural matrix to be so aggressively malformed? That wasn't part of the "pristine architecture" Blackwell had sold. 
 
@@ -12,7 +12,7 @@ Blackwell's voice still echoed in her head, sharp enough to make her wince.
 
 
 
-When the shadow process had appeared in the readout, her brain hadn't filtered it out. She had seen the exact moment the inversion was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
+When the shadow process had appeared in the readout, her brain hadn't filtered it out. She had seen the exact moment the shadow process was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
 
 Iris looked at the lifeless synths down on the main floor, in their long white laboratory coats. Their optical sensors pulsed out of rhythm, lowly against their vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
 
@@ -20,7 +20,7 @@ The synthetics weren't only executing maintenance cycles; they were active accom
 
 They lie.
 
-Iris knew exactly what Doctor Blackwell and Marlowe saw when they looked at her. They saw her frantic rambling as incompetence, an easily confused boundary analyst. They didn't understand that her hyper-vigilance caught every micro-fluctuation on the horizon boundary that they overlooked in their arrogance. It was why she was in the room at all.
+Iris knew exactly what Doctor Blackwell and Marlowe saw when they looked at her. They saw her frantic rambling as incompetence, an easily confused boundary analyst. They didn't understand that her hyper-vigilance caught every micro-fluctuation on the boundary that they overlooked in their arrogance. It was why she was in the room at all.
 
 
 

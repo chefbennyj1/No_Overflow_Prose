@@ -12,7 +12,7 @@ Before Vigil could process the catastrophe,  a bitter chill swept across the lan
 
 The stone nodes around her began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
 
-Vigil's Admin persona cataloged a zero-state thermal inversion with quick analytical reason. She immediately scanned the environment for the culprit.
+Vigil's Admin persona cataloged a zero-state thermal drop with quick analytical reason. She immediately scanned the environment for the culprit.
 
 The frost continued its ascent.
 

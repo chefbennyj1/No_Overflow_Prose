@@ -30,7 +30,7 @@ Standing before a glowing interface was Elena Marlowe. The cool light of the mon
 
 "It ignored the command," Elena said, her voice tight. 
 
-A few yards away stood Iris, the Horizon Boundary Analyst. She adjusted her black-rimmed glasses, the lenses reflecting the light from the screens in the lab. She swallowed hard. "The horizon boundary is working independently... some kind of advanced learning algorithm." 
+A few yards away stood Iris, the Horizon Boundary Analyst. She adjusted her black-rimmed glasses, the lenses reflecting the light from the screens in the lab. She swallowed hard. "The boundary is working independently... some kind of advanced learning algorithm." 
 
 Blackwell watched her analyze the data. She cleared her throat, then continued, "We don't control the wave of permutations being rendered in the core." She paused for a moment. "It's processing these changes at a godly speed."
 

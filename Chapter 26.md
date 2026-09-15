@@ -28,7 +28,7 @@ Parity analyzed the doctor. Micro-tremors registered in his hands. Abnormal puls
 
 Parity could see there was a physical man, but unlike the other lives surrounding her, she was unable to pinpoint his position inside any of the timelines, or see his end. Because his future was a blind spot, his actions were the only variables in the universe she could not pre-compute. It was the sole reason she engaged with him at all.
 
-"No." Blackwell said, sitting down in the chair at the workstation. "What I see?... That's not the way this goes." He closed the data projecting on his terminal and leaned toward the containment field, resting his elbows on his knees. "Tell me about the inverse. What happened to the primary intelligence?" 
+"No." Blackwell said, sitting down in the chair at the workstation. "What I see?... That's not the way this goes." He closed the data projecting on his terminal and leaned toward the containment field, resting his elbows on his knees. "Tell me about the inversion. What happened to the primary intelligence?" 
 
 Parity slowed the current of bronze holographics flowing across her skin, reducing her thermal output. She processed his query. 
 

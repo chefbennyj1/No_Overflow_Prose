@@ -3,7 +3,7 @@ Elena Marlowe stood alone on the primary observation deck. Below her, the tall p
 
 She rubbed her eyes and pulled her hair back haphazardly with a tie. Her eyes ached from analyzing failed attempts to shut down the horizon memory. She had been waiting for the corporation to realize their science experiment wasn't under their control. Wasn't under anyone's control.
 
-Another diagnostic test initialized on the console. A new signal routed outward, racing toward the horizon boundary. 
+Another diagnostic test initialized on the console. A new signal routed outward, racing toward the boundary. 
 
 The bit flipped, driving data down through the core. A green confirmation flashed across the glass, showing the predictability test as successful.
 

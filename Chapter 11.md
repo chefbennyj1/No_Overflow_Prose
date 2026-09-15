@@ -35,6 +35,6 @@ Elena looked up from her terminal as he passed. "Doctor? Is something wrong?"
 
 Blackwell didn't break stride, marching straight toward the hydraulic doors. 
 
-"Something important has come up," Blackwell said, his voice cold and absolute. "Continue to monitor the horizon boundary until I return."
+"Something important has come up," Blackwell said, his voice cold and absolute. "Continue to monitor the boundary until I return."
 
 He stepped through the doors, the steel sealing shut behind him.
