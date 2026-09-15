@@ -30,7 +30,7 @@ The man sat back in his seat. Across from him sat a skeletal woman beneath an im
 
 The man snatched the drive up. He turned it over in his heavy hands before presenting it to the old woman. 
 
-The Madame took it, a grim smile pulling at the deep lines around her mouth. "It seems you have a small issue of the Renewal following you down here, Erin Adler," her voice was low and gritty. Hearing the Madame of the Filament speaking her full name didn't sit well with Rin.
+The Madame took it, an indulgent smile pulling at the deep lines around her mouth. "It seems you have a small issue of the Renewal following you down here, Erin Adler," her voice was low and gritty. Hearing the Madame of the Filament speaking her full name didn't sit well with Rin.
 
 The Madame looked over the top of her wire-rimmed glasses, her eyes locking onto Rin. "They are sweeping the lower city. That is an awful lot of heat for service access. Tell me... is this all you took?"
 
@@ -44,7 +44,7 @@ A long second later, the power surged back into the grid. The streetlights flick
 
 Rin felt the weight of the red drive in her pocket. She looked the Madame dead in the eye. "That's all of it. Nothing else."
 
-"You should be more careful when you bring heat into my house," the Madame said, letting the smoke spill out of her mouth and nostrils as she spoke. "But, because you have been of service to us, if the Filament can be of assistance to you... we will."
+The madame studied Rim for a long moment, then a grim  smile painted its way across the Madame's face. "You should be more careful when you bring heat into my house," the Madame said, letting the smoke spill out of her mouth and nostrils as she spoke. "But, because you have been of service to us, if the Filament can be of assistance to you... we will."
 
 "Yes, ma'am," Rin said, acknowledging an offer she had no intention of accepting.
 
