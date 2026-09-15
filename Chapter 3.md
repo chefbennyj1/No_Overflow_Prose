@@ -6,20 +6,9 @@ Veering away from the main thoroughfare, Rin stepped through piles of garbage an
 
 "—officials continue to investigate an early morning data breach at a Takeda-Holden office building downtown," the anchorwoman’s voice buzzed through a blown-out speaker above the door. "Renewal Agents are sweeping parts of the lower city, in order to apprehend the suspect responsible—"
 
-Rin tuned it out, as she pulled the red drive from her pocket. A muffled siren wailed deep in the city blocks behind her.  She turned the metal casing over, her thumb tracing the edges. *Renewal wouldn't care about stolen sanitation.* She paused. *They're looking for this.* Pocketing the drive she stepped back out from under the awning. 
+Rin tuned it out, as she pulled the red drive from her pocket. A muffled siren wailed deep in the city blocks behind her.  She turned the metal casing over, her thumb tracing the edges. *Renewal wouldn't care about stolen sanitation data.* She paused. *They're looking for this.* Pocketing the drive she stepped back out from under the awning. 
 
 Degraded vehicles suspended inches above the broken pavement on magnetic cushions glided passed slowly along the wet road. They vibrated loudly, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars. 
-
-As she hit the adjacent curb she looked up, in the darkened glass of a storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed in unison, and shut off. 
-
-The streetlights died. People shouted out into the sudden powerless intersections, as the lights of the passing mag-cars painted long shadows of the pedestrians on the broken brick.
-
-Rin turned to take in the blackout, as the power surged back into the grid. The corporate anchorwoman reappeared on the screens, droning on about curfews and unauthorized civilian gatherings in the east end of the lower city. 
-
-Rin stared at the televisions for a long moment. The freezing rain soaked past her jacket and the cloth of her black tank, chilling to her skin.  She ran her fingers along the casing of the red drive again, in her pocket.
-Unable to shake the creeping sensation of the blackout, Rin pulled her collar up higher and vanished into the fog.
-
-***
 
 Three blocks deep into the slums, an angled luxury cruiser idled in the rain, out of place. It was a low-slung wedge of glossy black panels and tinted glass that reflected the city's lights like a dark mirror. Its magnetic cushion was a flawless, silent vibration.
 
