@@ -36,7 +36,7 @@ The Madame looked over the top of her wire-rimmed glasses, her eyes locking onto
 
 Before Rin could answer, the streetlights above them died. 
 
-The neon signs down the block spasmed and shut off. The entire area of the lower city plunged into a sudden blackout. People shouted out in the darkened intersections, as the lights of passing mag-cars painted long shadows on the broken brick. The only steady light left on the flooded street came from the red glow of the cruiser's taillights.
+The neon signs down the block spasmed and shut off. The entire area of the lower city plunged into a sudden blackout. People shouted out from deep in the city, as the lights of passing mag-cars painted long shadows on the broken brick. The only steady light left on the flooded street came from the red glow of the cruiser's taillights.
 
 The Madame didn't even flinch. She took a slow drag from her long cigarette, the end burning bright.
 
