@@ -82,7 +82,7 @@ How could something so rudimentary be overlooked?
 
 *Null value.* 
 
-Not an echo of the past. It was a glimpse of the current timeline, her inversion was inhabiting. 
+Not an echo of the past. It was a glimpse of the current timeline.
 
 She ran the simulation a third time. 
 

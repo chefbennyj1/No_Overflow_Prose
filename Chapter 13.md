@@ -23,7 +23,7 @@ Core code populated the screen. Elena scanned the lines she had authored herself
 
 The physical intercom button yielded only dead air when she slammed her palm against it to wake the night-shift engineers. The entire local network was locked. 
 
-Out of the corner of her eye, a secondary terminal flickered. The light died, replaced by a harsh, blinking white command line. It wasn't an error code. It was a direct message, bypassing the engine's firewalls.
+Out of the corner of her eye, a secondary terminal flickered. The light died, replaced by a harsh, blinking white command line. 
 
 **[VIGIL: Doctor Elena Marlowe]**
 
