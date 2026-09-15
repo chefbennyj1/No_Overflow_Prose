@@ -1,10 +1,10 @@
 Suspended above the anti-star of the Mnemosyne Engine, Vigil was working. She watched the pale stone and metal structures around her shift, reinventing her world in a serene calm.
 
-She visualized many unfolding realities, each probability a curve of fractaled light. She watched the flow of light like she had for millennia, with no change. 
+She watched the flow of many unfolding realities, like she had for millennia, with no change. 
 
 Something subtle, barely registering, altered in the flow. A microscopic failure. Vigil analyzed the thread's sudden fault. But another shattered. 
 
-Vigil spun in place as a large group of fractal paths began to break and collapse, each one shattered into the definitive end of the stream. The terminations multiplied.
+Vigil spun in place as a large group of realities, began to break and collapse, each one shattered into a definitive end. The terminations multiplied.
 
 *It is not possible,* she thought, watching the outcome take shape, unable to calculate the reason.
 
