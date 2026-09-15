@@ -44,7 +44,7 @@ Harper took it, her fingers brushing Rin's palm. She crossed to her primary work
 
 The three monitors above her desk flared to life, washing her face pale.
 
-"I went in for the custodial authorizations." Rin stood behind the chair. "The Filament wanted them."
+"I went in for the sanitation creds." Rin stood behind the chair. "The Filament wanted them."
 
 "The Filament? Jesus, Erin, they're practically terrorists." Harper crushed her cigarette into an overflowing ashtray on the desk. 
 
@@ -52,7 +52,7 @@ Rin didn't need to hear it.  "Don't call me that."
 
 Harper smirked, her fingers found their familiar places on the worn keys of her keyboard. The letters had rubbed off years ago, but she didn't need them. She opened the file structure.
 
-"I got the keys— " Rin started.
+"I got them what they wanted— " Rin started.
 
 "—'course you did." Harper laughed. She didn't turn around, only remained focused on her screens.
 
@@ -64,7 +64,7 @@ Her hand lifted off the keyboard. "Whoa." A wave of decrypted files spilled open
 
 Rin watched her lips moving silently as she read.
 
-"—a little more than custodial authorizations, Rin." Something shifted in Harper's face. "It's transfer authority."
+"—a little more than janitor authorizations, Rin." Something shifted in Harper's face. "It's transfer authority."
 
 "Transfer of what?" Rin asked.
 
