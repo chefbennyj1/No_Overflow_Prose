@@ -2,7 +2,7 @@ Beyond the physical constraints of the laboratory, beneath the bedrock and the s
 
 It was a system, alien and indifferent to the organic minds that created it.
 
-Staggered monoliths of pale stone and patinaed metal floated in a bottomless expanse. They formed fractured nodes and corbelled spires, repeating despite never being quite uniform. The structures built and refactored themselves in a terrifying silence. 
+Staggered monoliths of pale stone and patinaed metal floated in a bottomless expanse. They formed fractured nodes and corbelled spires, repeating despite never being quite uniform. She had built none of it. Every spire in the expanse was the work of something that came before her. They refactored themselves in a terrifying silence. 
 
 On one side of the expanse hung the event horizon—an immense, looping singularity of blazing white light that folded and spun across multiple dimensions.
 
