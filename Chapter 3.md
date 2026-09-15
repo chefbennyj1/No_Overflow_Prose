@@ -18,7 +18,7 @@ He nonchalantly watched the car, though his gaze kept shifting to the street and
 
 Rain beat down, flooding the street in front of her. The rear passenger window of the black cruiser glided open, venting gray smoke in to the atmosphere.
 
-Lifting her leather jacket above her head to shield her from the down pour, Rin crossed.
+Lifting her leather jacket above her head to shield her from the downpour, Rin crossed.
 
 A man leaned forward from the plush darkness, his broad shoulders blocking most of the passenger cabin. His suit was sharp, hair cut short, a wrinkled face held one brown eye, the other blue. "I see you made it out alive," he said, tapping an unlit cigarette against the package he drew it from. 
 
@@ -36,7 +36,7 @@ The Madame looked over the top of her wire-rimmed glasses, her eyes locking onto
 
 Before Rin could answer, the streetlights above them died. 
 
-The neon signs down the block spasmed and shut off. The entire lower city plunged into a sudden blackout. People shouted out in the darkened intersections, as the lights of passing mag-cars painted long shadows on the broken brick. The only steady light left on the flooded street came from the red glow of the cruiser's taillights.
+The neon signs down the block spasmed and shut off. The entire area of the lower city plunged into a sudden blackout. People shouted out in the darkened intersections, as the lights of passing mag-cars painted long shadows on the broken brick. The only steady light left on the flooded street came from the red glow of the cruiser's taillights.
 
 The Madame didn't even flinch. She took a slow drag from her long cigarette, the end burning bright.
 
