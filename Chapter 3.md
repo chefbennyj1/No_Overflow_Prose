@@ -10,23 +10,23 @@ Rin tuned it out, as she pulled the red drive from her pocket. A muffled siren w
 
 Degraded vehicles suspended inches above the broken pavement on magnetic cushions glided passed slowly along the wet road. They vibrated loudly, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars and disappeared into the fog.
 
-Three blocks deep into the slums, an angled luxury cruiser idled in the rain, out of place. It was a low-slung wedge of glossy black panels and tinted glass that reflected the city's lights like a dark mirror. Its magnetic cushion was a flawless, silent vibration.
+Three blocks deep into the slums, an angled luxury cruiser idled in the rain, out of place. It was a low-slung wedge of glossy black panels and dark mirror glass that reflected the city's lights. Its magnetic cushion was a flawless, silent vibration.
 
 The storm had begun a downpour. Rin stopped where the street opened out, her hand drawn to the pistol under her jacket. The cruiser sat low on its cushion, its taillights scattering a red glow on the flooded pavement. A man stood at the curb beneath a black umbrella, wearing a long black coat over a suit. His polished loafers—a dead giveaway—were getting ruined by the grime. He was a Minder. Hired security for important people. Someone significant was in the vehicle.
 
-He nonchalantly watched the car, though his gaze kept shifting to the street and back. The Minder hauled on his cigarette as the headlights of a passing mag-car caught the bulge of the gun under his coat. She didn't need to look for the second one. He was across the road in the doorway of a gutted storefront, his grimacing face already watching her from under his umbrella. He gave a slow nod, signaling her to proceed, before stepping back against the storefront. 
+He nonchalantly watched the car, though his gaze kept shifting to the street and back. The Minder hauled on his cigarette as the headlights of a passing mag-car caught the bulge of the gun under his coat. She didn't need to look for the second one. He was across the road in the doorway of a gutted storefront, his grimacing face already watching her from under his umbrella. He gave a slow nod, signaling her to proceed, before stepping back against the shadows. 
 
 Rain beat down, flooding the street in front of her. The rear passenger window of the black cruiser glided open, venting gray smoke in to the atmosphere.
 
 Lifting her leather jacket above her head to shield her from the down pour, Rin crossed.
 
-A man leaned forward from the plush darkness, his broad shoulders blocking the rear-facing seat and most of the interior. His suit was sharp, hair cut short, a wrinkled face held one brown eye, the other blue. "I see you made it out alive," he said, tapping an unlit cigarette against the package he drew it from. 
+A man leaned forward from the plush darkness, his broad shoulders blocking most of the interior. His suit was sharp, hair cut short, a wrinkled face held one brown eye, the other blue. "I see you made it out alive," he said, tapping an unlit cigarette against the package he drew it from. 
 
 Rin kept her expression neutral and stepped forward. Holding her jacket with one hand over her head, she reached into the back pocket of her jeans and pulled out a generic black thumb drive. She tossed it through the open window. It landed on the plush seat. 
 
 The man sat back in his seat. Across from him sat a skeletal woman beneath an impeccably tailored white silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go. The diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' belonged to her.  
 
-"Custodial authorizations, just like we agreed," Rin said, her voice loud over the falling rain. Rin looked at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament.  Rin tried to hide the nerves in her voice.
+"Sanataion authorizations, just like we agreed," Rin said, her voice loud over the falling rain. Rin looked at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament.  Rin tried to hide the nerves in her voice.
 
 The man snatched the drive up. Without looking at Rin, he turned and presented it to the old woman. 
 
