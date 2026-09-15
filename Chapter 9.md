@@ -32,7 +32,7 @@ Admin fired a diagnostic, attempting to cross-reference the entity against billi
 
 The entity lifted her head. Her eyes were an insidious, pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light. She stared at Vigil, tilting her head like a curious animal.
 
-"Admin, she is a shadow. No, not a shadow." Echo's voice paused, "An anti-shadow. She a— " 
+"Admin, she is a shadow. No, not a shadow." Echo's voice paused, "An anti-shadow. She is a— " 
 
 "Parity." Admin's analytical tone spoke over her second half.
 
