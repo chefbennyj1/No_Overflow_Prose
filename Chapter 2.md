@@ -118,7 +118,7 @@ Victor surged to his feet, shaking off the burning in his eyes, but she was too 
 
 Victor reached the elevator a second later, his stare centered through the final sliver of the closing doors. 
 
-Victor and Rin's eyes met for the first time through the closing gap.
+Victor and the girl's eyes met for the first time through the closing gap.
 
 He set his gaze on her, unyielding. Locked onto her. He ignored the tearing pain of the smoke—this was no longer only about the Filament.
 
@@ -148,6 +148,6 @@ He didn't argue further. He stepped aside, letting the silent, black-armored squ
 
 Harlan pushed himself off the wall, wiping a streak of sweat and soot from the dark skin of his forehead. "What's so important that Null would risk so much to access?"
 
-"'What' indeed, Harlan," Victor started the long descent back down to the Dead Circuits. He paused on the first step, his eyes narrowing. "But the name on the office she just hit... said Doctor S. Blackwell."
+"'What' indeed, Harlan," Victor started the long descent back down to the Dead Circuits. He paused on the first step, his eyes narrowing. "But the name on the office she just hit... said Doctor L. Blackwell."
 
 Harlan frowned, staring after him into the stairwell. "Blackwell?"
