@@ -1,6 +1,6 @@
 Victor walked down the peeling seafoam colored hallway of the long-term care facility. The blue and yellow checkered linoleum under foot. The fluorescent lights overhead dying with an electrical buzz. He stopped at the front desk, dragging the chained stylus across the visitor log. He looked up at the nurse behind the desk. "Victor Graves, for Arthur Graves". 
 
-The nurse turned her screen toward him before he finished signing. The balance had a second number under it now, in red. 
+The nurse turned her screen toward him before he finished signing. The balance had a second number under it now. 
 
 He continued down the corridor until he reached a degraded wooden door painted green. An arrangement of fake blue flowers sat collecting dust in a cheap vase beside the frame. Victor adjusted the collar of his trench coat and pushed the door open. 
 
