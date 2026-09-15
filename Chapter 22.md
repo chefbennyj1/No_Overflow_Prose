@@ -38,7 +38,7 @@ The reality of her total isolation settled over her. The Madame had abandoned he
 
 He leaned in closer, dropping his voice to a quiet, commanding tone, "I found you. In that place, at that moment. I'm the only person alive who knows where you're sitting." 
 
-Rin heard his voice, *I found you in this place, at this moment.* It was what the first thing Vigil had said to her in Deep Storage. She stopped fighting, and slumped back in the steel chair, breaking eye contact to stare at the dirty tiles on the floor.
+Rin heard his voice, *I found you in this place, at this moment.* She stopped fighting, and slumped back in the steel chair, breaking eye contact to stare at the dirty tiles on the floor.
 
 "Now, why did you take the job, Erin?" he asked, pinning her with his colorless eyes. "Did you steal that data because you wanted to help the Filament burn this city to the ground... or did you just do it because you were desperate to buy your way out of the slums?"
 

@@ -82,7 +82,7 @@ How could something so rudimentary be overlooked?
 
 *Null value.* 
 
-The variables locked into a rigid sequence. The recurring shape she saw in the doctors static tests was not an echo of the past. It was a glimpse of the current timeline, her inversion was inhabiting. 
+Not an echo of the past. It was a glimpse of the current timeline, her inversion was inhabiting. 
 
 She ran the simulation a third time. 
 
