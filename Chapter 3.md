@@ -24,7 +24,7 @@ A man leaned forward from the plush darkness, his broad shoulders blocking most 
 
 Rin kept her expression neutral and stepped forward. Holding her jacket with one hand over her head, she reached into the back pocket of her jeans and pulled out a generic black thumb drive. She tossed it through the open window. It landed on the plush seat. 
 
-The man sat back in his seat. Across from him sat a skeletal woman beneath an impeccably tailored white silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go. The diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' belonged to her.  
+The man sat back. Across from him sat a skeletal woman beneath an impeccably tailored white silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go. The diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' belonged to her.  
 
 "Service access to the sites, just like we agreed," Rin said, her voice loud over the falling rain. Rin looked at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament.  Rin tried to hide the nerves in her voice.
 
@@ -32,7 +32,7 @@ The man snatched the drive up. He turned it over in his heavy hands before prese
 
 The Madame took it, an indulgent smile pulling at the deep lines around her mouth. "It seems you have a small issue of the Renewal following you down here, Erin Adler," her voice was low and gritty. Hearing the Madame of the Filament speaking her full name didn't sit well with Rin.
 
-The Madame looked over the top of her wire-rimmed glasses, her eyes locking onto Rin. "They are sweeping the lower city. That is an awful lot of heat for service access. Tell me... is this all you took?"
+The Madame looked over the top of her wire-rimmed glasses, her eyes locking onto her. "They are sweeping the lower city. That is an awful lot of heat for service access. Tell me... is this all you took?"
 
 Before Rin could answer, the streetlights above them died. 
 
