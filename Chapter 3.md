@@ -1,4 +1,4 @@
-The night market, in her part of Oshima, was a claustrophobic canyon of commerce. Signs, half-dead and bleeding colors into the fog. Rin hauled her boots along the broken sidewalk, the collar of her leather jacket pulled up against the night air. She shoved her way through the crowd in the storm, avoiding the sweeping gaze of the dirty corporate security cameras mounted on the street lamps. 
+Rin hauled her boots along the broken sidewalk, the collar of her leather jacket pulled up against the night air. The night market, in her part of Oshima, was a claustrophobic canyon of commerce. Signs, half-dead and bleeding colors into the fog.  She shoved her way through the crowd in the storm, avoiding the sweeping gaze of the dirty corporate security cameras mounted on the street lamps. 
 
 Meeting the detective eye to eye was a mistake she kept replaying in her mind. *How long have they known my alias?* she wondered. *How long have they been chasing Null?* The work for the Filament had made her known. She wiped a streak of freezing rain from her cheek. *Always tastes like there's dirt in my mouth,* she thought, feeling the weight of the Dead Circuits again.
 
@@ -6,7 +6,7 @@ Veering away from the main thoroughfare, Rin stepped through piles of garbage an
 
 "—officials continue to investigate an early morning data breach at a Takeda-Holden office building downtown," the anchorwoman’s voice buzzed through a blown-out speaker above the door. "Renewal Agents are sweeping parts of the lower city, in order to apprehend the suspect responsible—"
 
-Rin tuned it out, as she pulled the red drive from her pocket. A muffled siren wailed deep in the city blocks behind her.  She turned the metal casing over, her thumb tracing the edges. *Renewal wouldn't care about stolen electrical keys.* She paused. *They're looking for this.* Pocketing the drive she stepped back out from under the awning. 
+Rin tuned it out, as she pulled the red drive from her pocket. A muffled siren wailed deep in the city blocks behind her.  She turned the metal casing over, her thumb tracing the edges. *Renewal wouldn't care about stolen sanitation.* She paused. *They're looking for this.* Pocketing the drive she stepped back out from under the awning. 
 
 Degraded vehicles suspended inches above the broken pavement on magnetic cushions glided passed slowly along the wet road. They vibrated loudly, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars. 
 
