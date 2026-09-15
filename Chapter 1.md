@@ -109,7 +109,7 @@ Elena shot an apprehensive glance toward the panels. "What the Doctor means is, 
 
 "Mass Displacement Anomaly? That wasn't in the preliminary notes, Silas." Elena's true expression bled through as she looked at Blackwell, peering past his dark glasses.
 
-Blackwell turned, giving her his undivided attention for the first time. "It's predicted resonance," he said, the corner of his mouth rising slightly.
+Blackwell turned, giving her his undivided attention for the first time. "It's predicted resonance," he said, the corner of his mouth rising.
 
 Elena shook her head. Seeing Blackwell relaxed, she dropped the subject. "You know, it wouldn't hurt you to talk to the Board." She turned, glancing back over the console floor behind them. "You are the lead."
 

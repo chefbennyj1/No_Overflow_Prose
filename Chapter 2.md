@@ -2,7 +2,7 @@
   
   The atmosphere was bitter, and thick with exhaust. Despite the rain, the morning sun struggled to pierce the smog, washing the wet streets in a pale, tarnished light. Under the convective sunshower, droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained from filtering the air. Only the synthetics walked barefaced. The freezing rain beaded off their vinyl skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
 
-   Battered Takeda-Holden surveillance cameras clung to the steel poles of the intersections, their casings dented from thrown rocks, lenses quietly tracking the crowds.
+   Battered Takeda-Holden surveillance cameras clung to the steel poles of the intersections, their casings dented from thrown rocks, lenses tracking the crowds.
 
   Rising from the center of the old blocks was a Company office building. A temporary, security barricade had been erected on the ground floor to protect the building's lower half from the possibility of uneasy gatherings from the lower districts. The monolith structure was a pristine slab of mirrored, tinted glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
   
@@ -12,7 +12,7 @@ The corridor was otherwise silent. Rin had done her research; she had found the 
 
 The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
 
-A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, narrowly dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam searched for its missing data. 
+A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam searched for its missing data. 
 
 She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. She held the SBC against the lock's near-field communication display. Its green crystal screen flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
 
@@ -130,7 +130,7 @@ Harlan leaned heavily against the concrete wall, his lungs burning as he gasped 
 
 Victor remained silent for a moment, his red, bloodshot eyes fixed on the metal of the fire door. He replayed the split-second of eye contact in his mind. The sharp eyes. The feminine silhouette backlit by the bright anomaly data. 
 
-"I did," Victor said, finally catching his breath.
+"I did," Victor said, catching his breath.
 
 Before Harlan could say another word, the synchronized tread of tactical boots echoed up the stairwell. A squad of Takeda-Holden Renewal Agents marched onto the landing. They moved with terrifying, mechanical precision, clad in sleek, form-fitting black tactical armor. 
 
