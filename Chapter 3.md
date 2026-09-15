@@ -8,15 +8,7 @@ Veering away from the main thoroughfare, Rin stepped through piles of garbage an
 
 Rin tuned it out, as she pulled the red drive from her pocket. A muffled siren wailed deep in the city blocks behind her.  She turned the metal casing over, her thumb tracing the edges. *Renewal wouldn't care about stolen sanitation data.* She paused. *They're looking for this.* Pocketing the drive she stepped back out from under the awning. 
 
-Degraded vehicles suspended inches above the broken pavement on magnetic cushions glided passed slowly along the wet road. They vibrated loudly, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars. 
-
-As she hit the adjacent curb she looked up, in the darkened glass of a storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed and shut off.
-
-The streetlights died. People shouted out into the sudden powerless intersections, as the lights of the passing mag-cars painted long shadows of the pedestrians on the broken brick.
-
-Rin turned to take in the blackout, as the power surged back into the grid. The corporate anchorwoman reappeared on the screens, droning on about curfews and unauthorized civilian gatherings in the east end of the lower city.
-
-Rin stared at the televisions for a long moment. The freezing rain soaked past her jacket and the cloth of her black tank, chilling to her skin. She ran her fingers along the casing of the red drive again, in her pocket. Unable to shake the creeping sensation of the blackout, Rin pulled her collar up higher and vanished into the fog.
+Degraded vehicles suspended inches above the broken pavement on magnetic cushions glided past slowly along the wet road. They vibrated loudly, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars and vanished into the fog.
 
 Three blocks deep into the slums, an angled luxury cruiser idled in the rain, out of place. It was a low-slung wedge of glossy black panels and dark mirror glass that reflected the city's lights. Its magnetic cushion was a flawless, silent vibration.
 
@@ -36,13 +28,23 @@ The man sat back in his seat. Across from him sat a skeletal woman beneath an im
 
 "Service access to the sites, just like we agreed," Rin said, her voice loud over the falling rain. Rin looked at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament.  Rin tried to hide the nerves in her voice.
 
-The man snatched the drive up. Without looking at Rin, he turned and presented it to the old woman. 
+The man snatched the drive up. He turned it over in his heavy hands before presenting it to the old woman. 
 
-The Madame took it and turned it over, a grim smile pulling at the deep lines around her mouth. 
+The Madame took it, a grim smile pulling at the deep lines around her mouth. "It seems you have a small issue of the Renewal following you down here, Erin Adler," her voice was low and gritty. Hearing the Madame of the Filament speaking her full name didn't sit well with Rin.
 
-"It seems you have a small issue of the Renewal following you down here, Erin Adler," the old woman's voice was low and gritty.  Hearing the  Madame of the Filament speaking her full name didn't sit well with Rin.
+The Madame looked over the top of her wire-rimmed glasses, her eyes locking onto Rin. "They are sweeping the lower city. That is an awful lot of heat for service access. Tell me... is this all you took?"
 
-"You should be more careful when you bring heat into my house." The woman paused, looking over the top of her glasses. "But, because you have been of service to us, if the Filament can be of assistance to you—" she took a long drag off her cigarette, the smoke spilling out of her mouth and nostrils as she spoke, "—we will."
+Before Rin could answer, the streetlights above them died. 
+
+The neon signs down the block spasmed and shut off. The entire lower city plunged into a sudden blackout. People shouted out in the darkened intersections, as the lights of passing mag-cars painted long shadows on the broken brick. The only steady light left on the flooded street came from the red glow of the cruiser's taillights.
+
+The Madame didn't even flinch. She took a slow drag from her long cigarette, the end burning bright.
+
+A long second later, the power surged back into the grid with a heavy hum. The streetlights flickered to life. 
+
+Rin felt the weight of the red drive in her pocket. She looked the Madame dead in the eye. "That's all of it. Nothing else."
+
+"You should be more careful when you bring heat into my house," the Madame said, letting the smoke spill out of her mouth and nostrils as she spoke. "But, because you have been of service to us, if the Filament can be of assistance to you... we will."
 
 "Yes, ma'am," Rin said, acknowledging an offer she had no intention of accepting.
 
