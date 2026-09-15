@@ -1,4 +1,4 @@
-Rin hauled her boots along the broken sidewalk, the collar of her leather jacket pulled up against the night air. The night market, in her part of Oshima, was a claustrophobic canyon of commerce. Signs, half-dead and bleeding colors into the fog.  She shoved her way through the crowd in the storm, avoiding the sweeping gaze of the dirty corporate security cameras mounted on the street lamps. 
+Rin hauled her boots along the broken sidewalk, the collar of her leather jacket pulled up against the night air. The night market, in her part of Oshima, was a claustrophobic canyon of commerce, signs, half-dead and bleeding colors into the fog.  She shoved her way through the crowd in the storm, avoiding the sweeping gaze of the dirty corporate security cameras mounted on the street lamps. 
 
 Meeting the detective eye to eye was a mistake she kept replaying in her mind. *How long have they known my alias?* she wondered. *How long have they been chasing Null?* The work for the Filament had made her known. She wiped a streak of freezing rain from her cheek. *Always tastes like there's dirt in my mouth,* she thought, feeling the weight of the Dead Circuits again.
 
@@ -44,11 +44,10 @@ A long second later, the power surged back into the grid. The streetlights flick
 
 Rin felt the weight of the red drive in her pocket. She looked the Madame dead in the eye. "That's all of it. Nothing else."
 
-The madame studied Rim for a long moment, then a grim  smile painted its way across the Madame's face. "You should be more careful when you bring heat into my house," the Madame said, letting the smoke spill out of her mouth and nostrils as she spoke. "But, because you have been of service to us, if the Filament can be of assistance to you... we will."
+The madame studied Rin for a long moment, then a grim  smile painted its way across the Madame's face. "You should be more careful when you bring heat into my house," the Madame said, letting the smoke spill out of her mouth and nostrils as she spoke. "But, because you have been of service to us, if the Filament can be of assistance to you... we will."
 
 "Yes, ma'am," Rin said, acknowledging an offer she had no intention of accepting.
 
 The Madame gave a slight nod. The broad-shouldered man reached into his suit jacket and flicked something through the open window.
   
-Rin snatched it out of the freezing rain. It was a perfectly smooth, featureless slip of matte-black glass. A burner chit. Untraceable ghost-
-credits that would shatter the moment the funds were spent. Amost enough to buy a way out of the Dead Circuits.
+Rin snatched it out of the freezing rain. It was a perfectly smooth, featureless slip of matte-black glass. A burner chit. Almost enough to buy a way out.
