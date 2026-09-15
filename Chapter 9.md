@@ -34,7 +34,7 @@ The entity lifted her head. Her eyes were an insidious, pure black, carved into 
 
 She stared at Vigil, tilting her head like a curious animal.
 
-"Admin, she is a shadow. No, not shadow," Echo's voice paused, "an anti-shadow." 
+"Admin, she is a shadow. No, not a shadow," Echo's voice paused, "an anti-shadow." 
 
 "A Parity." Admin's analytical tone spoke over her second half.
 
