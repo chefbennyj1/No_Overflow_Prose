@@ -37,7 +37,7 @@ Leaning his chin against his hand, Victor stared at the cluttered desk. "Null us
 
 Harlan’s smirk vanished. "Null 'stuck around'," he paused, his expression hardening and with a serious tone, "—to shoot tear gas at my face. Remember?"
 
-Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a thick folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Silas Blackwell." 
+Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a digital folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Silas Blackwell." 
 
 A sudden commotion erupted in the room as officers dragged a group of struggling demonstrators across the floor. Victor kept his focus on the papers. 
 
