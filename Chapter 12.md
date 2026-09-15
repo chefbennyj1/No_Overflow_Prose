@@ -62,21 +62,21 @@ The lead agent's helmet locked onto them. He raised his control-baton and pointe
 
 "Nope. We haven't got time!" Harper gasped as both of the agents broke into a menacing sprint down the platform. The crowd scattered, making way for the charging agents. 
 
-A sharp beep chirped from the SBC, the green crystal display reading a series of hashed numbers and letters. 
+A sharp beep chirped from the SBC, the crystal display reading a series of hashed numbers and letters. 
 
 Over the intercom of the terminal the static voice announced, "Takeda-Holden terminal sub-level four. Arrival. Please step back from the incoming train for your own safety."
 
-The female agent moved into position at the entrance of the tunnel, guarding the step. 
+The female agent moved into position at the entrance of the tunnel, guarding the step onto the tunnel catwalk. 
 
-The huge mag-lift commuter train rocketed past them and into the terminal. The warm air pulled in from New Veridia blasted them. Harper squinted against the sudden rush of air, her tangled hair whipping across her eyes. The massive blast nearly took them off their feet. They braced themselves against the tunnel wall. 
+The huge mag-lift commuter train rocketed past them and into the terminal. The warm air pulled in from New Veridia. Harper squinted against the sudden rush of air, her tangled hair whipping across her eyes. The massive blast nearly took them off their feet. They braced themselves against the tunnel wall. 
 
-The male agent jumped onto the edge of the catwalk, unfazed. "You have been ordered to stop!" The modulated voice echoed through the tunnel behind them, as the agent marched brutishly toward them. 
+The male agent jumped onto the edge of the catwalk, unfazed. The grit on the catwalk jump as he landed. "You have been ordered to stop!" The modulated voice echoed through the tunnel behind them, as the agent marched toward them. 
 
 The card dragged smoothly upward through the reader a second time. The magnetic lock clacked.  
 
 The agent closed the distance and raised his baton to strike. Harper stepped squarely in front of Rin, bracing herself to take the blow. 
 
-Rin fiercely shoved her shoulder into the steel door; it broke open inward. She caught Harper's collar with her free hand and pulled, hard. Harper's braced weight came off her heels. They fell through the entrance, into the dark together. The baton swung through empty air.
+Rin fiercely shoved her shoulder into the steel door forcing it open inward. She caught Harper's collar with her free hand and pulled, hard. Harper's braced weight came off her heels. They fell through the entrance, into the dark together. The baton swung through empty air.
 
 The heavy door slammed shut, severing the bright lights of the transit terminal. A second later, a heavy fist hammered against the steel door from the other side. 
 
