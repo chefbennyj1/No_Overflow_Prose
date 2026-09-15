@@ -1,4 +1,4 @@
-Victor walked down the peeling seafoam colored hallway of the long-term care facility. The blue and yellow checkered linoleum under foot. The fluorescent lights overhead dying with an electrical buzz. He stopped at the front desk, dragging the chained stylus across the visitor log. He looked up at the nurse behind the desk. "Victor Graves, for Arthur Graves". 
+Victor walked down the faded seafoam colored hallway of the long-term care facility. The blue and yellow checkered linoleum under foot. The fluorescent lights overhead dying with an electrical buzz. He stopped at the front desk, dragging the chained stylus across the visitor log. He looked up at the nurse behind the desk. "Victor Graves, for Arthur Graves". 
 
 The nurse turned her screen toward him before he finished signing. The balance had a second number under it now. 
 
@@ -20,7 +20,7 @@ A minute later, Victor stood up and walked back out into the hall. Harlan was wa
 
 "Is it still worth it, Vic?" Harlan said, keeping his voice low as they walked back down the peeling seafoam corridor. "You know, we can't save everyone the Filament touches."
 
-Victor tightened his jaw. "They hollowed him out as a Minder... —Left him to waste away in that room."
+Victor tightened his jaw. "They hollowed him out as a Minder... —left him to waste away in that room."
 
 ***
 
