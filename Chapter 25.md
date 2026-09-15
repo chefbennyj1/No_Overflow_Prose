@@ -56,7 +56,7 @@ Elena swallowed. Her throat burned, dry and raw from weeks of a breathing tube. 
 
 Iris didn't miss a beat. The words spilled out in a frantic torrent. "I tried to come back. I got the detectives into the sublevel. Then I turned around. I ran back for the lab to find you. But I didn't make it. The whole sublevel was coming apart. The air tasted like—like metal—you know when you have a sore throat because you've been sick for days and..." Iris trailed off. 
 
-Elena looked at her. "Right, so I went back to the lab but the structural supports were bending inward. Then the Company’s Liability Teams showed up, with armed Renewal agents. They were sealing the floors, burning the servers. And the night shift—" She stopped. "Anyone from the sub labs. They put them on their knees in the corridor, Elena. Zip ties. Hoods. They walked them into the freight lift." Her fingers tightened on the rail. "Nobody from the night shift came back to work. I had to turn back. I had to hide—so I hid."
+Elena looked at her. "Right, so I went back to the lab but the structural supports were bending inward. Then the Company’s Liability Teams showed up, with armed Renewal agents. They were sealing the floors, burning the servers. And the night shift—" She stopped. "Anyone from the sub labs. They put them on their knees in the corridor, Elena. Tied ;em up with hood over their heads. They walked them into the freight lift." Her fingers tightened on the rail. "Nobody from the night shift came back to work. I had to hide—so I hid."
 
 Iris gripped the metal rail, leaning closer. Her eyes searched Elena's face. 
 
