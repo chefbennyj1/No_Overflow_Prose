@@ -44,7 +44,7 @@ The file architecture was dense, built to deliberately slow data extraction.
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
-As the authorizations slowly copied to her drive, a folder in Blackwell's directory caught her eye: *Main Fusion Logs*. She opened the folder; it was full of power consumption logs. Each file incrementing in size. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
+As the authorizations copied to her drive, a folder in Blackwell's directory caught her eye: *Main Fusion Logs*. She opened the folder; it was full of power consumption logs. Each file incrementing in size. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
 
  She found and opened an operations file:*Mnemo_1.opt*. The screen flooded with classified schematics for a program called *Project Mnemosyne*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
 
@@ -94,7 +94,7 @@ Rin hooked her finger through the grenade's metal ring.
 
 ***
 
-Out in the hall, Victor tightened his grip on his revolver, stepping toward the office door. Harlan sidestepped beside him, slowly pulling back the slide of his pistol. The metal clicked, and he guided the slide softly forward to chamber a round, then gave Victor a tight nod.
+Out in the hall, Victor tightened his grip on his revolver, stepping toward the office door. Harlan sidestepped beside him, carefully pulling back the slide of his pistol. The metal clicked, and he guided the slide softly forward to chamber a round, then gave Victor a tight nod.
 
 But before they could breach the office, the familiar sound echoed through the hallway. *Clunk... ding*.
 
@@ -140,7 +140,7 @@ Their humanity was obscured by glossy, faceless helmets that reflected the harsh
 
 Victor was still holding his revolver. The entire squad shifted towards him in response. A silent, lethal threat.
 
-Victor made a point of slowly, deliberately holstering the gun so as not to instigate them. He winced, blinking through the blinding light. "Oh, look," he said, his sarcastic tone masking a spike of genuine adrenaline. "The cavalry finally showed up. Just in time, as always."
+Victor made a point of slowly dropping his gun into his holster and rise his hands, so as not to instigate them. He winced, blinking through the blinding light. "Oh, look," he said, his sarcastic tone masking a spike of genuine adrenaline. "The cavalry finally showed up. Just in time, as always."
 
 He didn't argue further. He stepped aside, letting the silent, black-armored squad push past them to secure the executive suite.
 
