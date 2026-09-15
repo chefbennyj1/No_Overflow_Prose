@@ -78,9 +78,7 @@ The simulation failed. *Null value.*
 
 Parity ran the simulation again. 
 
-<function internal { 
 How could something so rudimentary be overlooked? 
-}> 
 
 *Null value.* 
 

@@ -26,7 +26,7 @@ Harper's hand paused on the chain. She turned, pulling the cigarette from her li
 
 Harper let the rest of the smoke go slow, her eyes dropping from Rin's face to the dark contusions coloring her skin. The heat of the room pressed in, a close warmth that had nowhere to go, embedding the smell of scorched wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in coils. 
 
-"You always did pick the worst fights." Harper stepped closer, her fingers hovering inches from the fresh bruise on Rin's shoulder before she caught herself and pulled her hand back—the same hand drifting up to rest against the pale scar on her own collarbone instead. "Never change, do you."
+"You always did pick the worst fights." Harper stepped closer, her fingers hovering inches from the fresh bruise on Rin's shoulder before she caught herself and pulled her hand back—the same hand drifting up to rest against the pale scar instead. "Never change, do you."
 
 Rin's eyes tracked the motion until she caught herself staring and looked away.
 
@@ -54,7 +54,7 @@ Harper smirked, her fingers found their familiar places on the worn keys of her 
 
 "I got them what they wanted— " Rin started.
 
-"—'course you did." Harper laughed. She didn't turn around, only remained focused on her screens.
+"—'course you did. Did ya ask 'em why'd they wanted access to the mop closet?" Harper laughed. She didn't turn around, only remained focused on her screens.
 
 "—while I was inside the terminal, I found something. It was pulling too much power. I copied the directories —," Rin trailed off.
 
@@ -64,7 +64,7 @@ Her hand lifted off the keyboard. "Whoa." A wave of decrypted files spilled open
 
 Rin watched her lips moving silently as she read.
 
-"—a little more than janitor authorizations, Rin." Something shifted in Harper's face. "It's transfer authority."
+"—a little more than janitor sign-ins, Rin." Something shifted in Harper's face. "It's transfer authority."
 
 "Transfer of what?" Rin asked.
 
@@ -134,13 +134,13 @@ Harper exhaled a long, shaky breath, pushing her chair back from the rig. "Erin,
 
 Rin didn't answer. She was staring down at the SBC in her hand. 
 
-The green crystal display hadn't reverted. Instead, it was scrolling wildly. Thousands of lines of compressed architecture and encrypted access keys were flooding into the tiny device's flash memory, causing the exposed motherboard to heat up in her hand. 
+The green crystal display hadn't reverted. Instead, it was scrolling wildly. Hundreds of lines of data were flooding into the tiny device's flash memory, causing the exposed motherboard to heat up in her hand. 
 
 At the very bottom of the frantic scroll, a single, static string of text anchored the data. 
 
 *Takeda-Holden transit terminal. Sub-level four. Door 4002.*
 
-Rin gripped the SBC. "Something that wants out."
+Rin gripped the SBC, staring blankly at Harper.
 
 Harper stood up, grabbing a duffel bag from the floor. "You know what? It doesn't matter. If this thing can reach us through an air-gapped rig, it knows exactly where we are. We need to leave. Now."
 
