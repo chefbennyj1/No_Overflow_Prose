@@ -20,7 +20,7 @@ A minute later, Victor stood up and walked back out into the hall. Harlan was wa
 
 "Is it still worth it, Vic?" Harlan said, keeping his voice low as they walked back down the peeling seafoam corridor. "You know, we can't save everyone the Filament touches."
 
-Victor tightened his jaw. "They hollowed him out as a Minder... Not going to let it happen to anyone else."
+Victor tightened his jaw. "They hollowed him out as a Minder... —Left him to waste away in that room."
 
 ***
 
