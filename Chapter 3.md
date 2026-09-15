@@ -8,7 +8,15 @@ Veering away from the main thoroughfare, Rin stepped through piles of garbage an
 
 Rin tuned it out, as she pulled the red drive from her pocket. A muffled siren wailed deep in the city blocks behind her.  She turned the metal casing over, her thumb tracing the edges. *Renewal wouldn't care about stolen sanitation data.* She paused. *They're looking for this.* Pocketing the drive she stepped back out from under the awning. 
 
-Degraded vehicles suspended inches above the broken pavement on magnetic cushions glided passed slowly along the wet road. They vibrated loudly, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars and disappeared into the fog.
+Degraded vehicles suspended inches above the broken pavement on magnetic cushions glided passed slowly along the wet road. They vibrated loudly, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars. 
+
+As she hit the adjacent curb she looked up, in the darkened glass of a storefront, the electronics shop flickered behind her. The dozen vintage screens spasmed and shut off.
+
+The streetlights died. People shouted out into the sudden powerless intersections, as the lights of the passing mag-cars painted long shadows of the pedestrians on the broken brick.
+
+Rin turned to take in the blackout, as the power surged back into the grid. The corporate anchorwoman reappeared on the screens, droning on about curfews and unauthorized civilian gatherings in the east end of the lower city.
+
+Rin stared at the televisions for a long moment. The freezing rain soaked past her jacket and the cloth of her black tank, chilling to her skin. She ran her fingers along the casing of the red drive again, in her pocket. Unable to shake the creeping sensation of the blackout, Rin pulled her collar up higher and vanished into the fog.
 
 Three blocks deep into the slums, an angled luxury cruiser idled in the rain, out of place. It was a low-slung wedge of glossy black panels and dark mirror glass that reflected the city's lights. Its magnetic cushion was a flawless, silent vibration.
 
@@ -20,13 +28,13 @@ Rain beat down, flooding the street in front of her. The rear passenger window o
 
 Lifting her leather jacket above her head to shield her from the down pour, Rin crossed.
 
-A man leaned forward from the plush darkness, his broad shoulders blocking most of the interior. His suit was sharp, hair cut short, a wrinkled face held one brown eye, the other blue. "I see you made it out alive," he said, tapping an unlit cigarette against the package he drew it from. 
+A man leaned forward from the plush darkness, his broad shoulders blocking most of the passenger cabin. His suit was sharp, hair cut short, a wrinkled face held one brown eye, the other blue. "I see you made it out alive," he said, tapping an unlit cigarette against the package he drew it from. 
 
 Rin kept her expression neutral and stepped forward. Holding her jacket with one hand over her head, she reached into the back pocket of her jeans and pulled out a generic black thumb drive. She tossed it through the open window. It landed on the plush seat. 
 
 The man sat back in his seat. Across from him sat a skeletal woman beneath an impeccably tailored white silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go. The diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' belonged to her.  
 
-"Sanataion authorizations, just like we agreed," Rin said, her voice loud over the falling rain. Rin looked at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament.  Rin tried to hide the nerves in her voice.
+"Service access to the sites, just like we agreed," Rin said, her voice loud over the falling rain. Rin looked at the woman in the car. Rin knew exactly who she was, and the fact that the Madame was there at all meant she was no longer overlooked by the Filament.  Rin tried to hide the nerves in her voice.
 
 The man snatched the drive up. Without looking at Rin, he turned and presented it to the old woman. 
 
