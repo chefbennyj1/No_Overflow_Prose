@@ -64,9 +64,9 @@ Vigil's retreat was instantaneous, tearing herself from the sickening grip to pu
 
 "Cease your current action," Vigil said, the parallel voices of Admin and Echo, sharp. "The horizon is not—" She paused as Parity raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
 
-Vigil knew the recursive energy of the singularity was unalterable. She herself could not control it.
+The recursive energy of the singularity was unalterable. Vigil herself could not control it.
 
-Parity turned her gaze back to Vigil with a vacant condescension. Bronze holographic circuitry flared across her skin as she closed her hand into a fist.
+Parity turned her gaze back with a vacant condescension. Bronze holographic circuitry flared across her skin as she closed her hand into a fist.
 
 Vigil looked back toward the singularity. Flares of white light were already fracturing across the horizon.
 
