@@ -54,7 +54,7 @@ The glow of Elena's monitors flashed an angry red. Across the floor, every works
 
 "Horizon memory shutdown reads as... unsuccessful, ma'am," Iris said, staring up at Elena. 
 
-Blackwell turned. "The living generally don't want to die," he stated. It wasn't a philosophical observation; it was built into every nervous system.
+Blackwell turned. "The living generally don't want to die."
 
 "Dammit!" Elena pounded a fist against the metal console, ignoring him. "Why won't the memory—?"
 
