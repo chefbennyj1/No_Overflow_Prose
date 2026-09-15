@@ -34,7 +34,7 @@ A few yards away stood Iris, the Horizon Boundary Analyst. She adjusted her blac
 
 Blackwell watched her analyze the data. She cleared her throat, then continued, "We don't control the wave of permutations being rendered in the core." She paused for a moment. "It's processing these changes at a godly speed."
 
-"Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the analyst. He already knew the shutdown command wasn't an error. Iris was getting too close. Left permutivity. The anomaly he was using to train the shadow process in the core. "It is not 'godly'," he said.
+"Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the analyst. He already knew the shutdown command wasn't an error. Iris was getting too close. "It is not 'godly'," he said.
 
 Iris's eyes went wide as she stared past her monitors, watching the screens spill data down the pillars in the pit. "The algorithm is processing so fast, the synthetics on the floor can't even parse the telemetry anymore."
 
