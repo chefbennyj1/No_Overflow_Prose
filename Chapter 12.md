@@ -38,7 +38,7 @@ Harper's brown suede jacket was worn. Rin's boots scuffed against the floor. The
 
 Harper's eyes darted toward the far end. "Where is it?"
 
-An automated voice announced another train arrival as a long mag-train streaked past them into the level four terminal. The warm air pulled in from New Veridia blasted them. Harper squinted against the sudden rush of air, her tangled hair whipping across her eyes before the temperature equalized again. 
+An automated voice announced another train arrival as a long mag-train streaked past them into the level four terminal. 
 
 "Look, there," Rin said, pulling a wind swept side lock of her hair back behind her ear. She gestured toward where the train had entered from. A concrete catwalk ran into the tunnel along both walls of the train tube. Green steel doors were set into the wall behind it, each stenciled with a faded white number.
 
@@ -62,11 +62,15 @@ The lead agent's helmet locked onto them. He raised his control-baton and pointe
 
 "Nope. We haven't got time!" Harper gasped as both of the agents broke into a menacing sprint down the platform. The crowd scattered, making way for the charging agents. 
 
-A sharp beep chirped from the SBC, the small green crystal display reading a series of hashed numbers and letters. 
+A sharp beep chirped from the SBC, the green crystal display reading a series of hashed numbers and letters. 
 
 Over the intercom of the terminal the static voice announced, "Takeda-Holden terminal sub-level four. Arrival. Please step back from the incoming train for your own safety."
 
-The female agent moved into position at the entrance of the tunnel, guarding the step. A massive blast nearly took the girls off their feet. They braced themselves against the tunnel wall as the huge mag-lift commuter train rocketed past them and into the terminal. The male agent jumped onto the edge of the catwalk, unfazed by the incoming blast. "You have been ordered to stop!" The modulated voice echoed through the tunnel behind them. 
+The female agent moved into position at the entrance of the tunnel, guarding the step. 
+
+The huge mag-lift commuter train rocketed past them and into the terminal. The warm air pulled in from New Veridia blasted them. Harper squinted against the sudden rush of air, her tangled hair whipping across her eyes. The massive blast nearly took them off their feet. They braced themselves against the tunnel wall. 
+
+The male agent jumped onto the edge of the catwalk, unfazed. "You have been ordered to stop!" The modulated voice echoed through the tunnel behind them, as the agent marched brutishly toward them. 
 
 The card dragged smoothly upward through the reader a second time. The magnetic lock clacked.  
 
