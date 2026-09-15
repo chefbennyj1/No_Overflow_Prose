@@ -40,7 +40,7 @@ The neon signs down the block spasmed and shut off. The entire lower city plunge
 
 The Madame didn't even flinch. She took a slow drag from her long cigarette, the end burning bright.
 
-A long second later, the power surged back into the grid with a heavy hum. The streetlights flickered to life. 
+A long second later, the power surged back into the grid. The streetlights flickered to life. 
 
 Rin felt the weight of the red drive in her pocket. She looked the Madame dead in the eye. "That's all of it. Nothing else."
 
