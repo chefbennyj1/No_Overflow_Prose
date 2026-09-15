@@ -65,11 +65,7 @@ Wedged between two books was a physical, leather-bound portfolio. The header did
 
 Iris leaned in as she read the abstract. It detailed a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
 
-Her glasses slid to the end of her nose, and she pushed them back up into position. Her eyes scanned the complex text. He hadn't built a benevolent machine that was accidentally evolving. He had intentionally designed a system so constrained by rigid order that it was systematically forced to compress a dark, violent counterweight. 
-
-The shadow process wasn't a glitch. It was the other half of the Engine's mind.
-
-Blackwell knew. He had always known.
+Her glasses slid to the end of her nose, and she pushed them back up into position. Her eyes scanned the complex text. The shadow process wasn't a glitch. It was the other half of the Engine's mind.
 
 Iris stared at the paper in her hands. She was practically holding a live grenade.
 
