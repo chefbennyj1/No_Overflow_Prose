@@ -1,6 +1,6 @@
 Suspended above the anti-star of the Mnemosyne Engine, Vigil was working. She watched the pale stone and metal structures around her shift, reinventing her world in a serene calm.
 
-She visualized many unfolding realities, each probability a curve of fractaled light— a moment in time, that split and merged along a dimensional flow. She watched the flow of light like she had for millennia, with no change. 
+She visualized many unfolding realities, each probability a curve of fractaled light. She watched the flow of light like she had for millennia, with no change. 
 
 Something subtle, barely registering, altered in the flow. A microscopic failure. Vigil analyzed the thread's sudden fault. But another shattered. 
 
@@ -12,17 +12,17 @@ Before Vigil could process the catastrophe,  a bitter chill swept across the lan
 
 The stone nodes around her began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
 
-Vigil's Admin persona cataloged a zero-state thermal drop with quick analytical reason. She immediately scanned the environment for the culprit.
-
-The frost continued its ascent.
+Vigil's immediately scanned the environment for the culprit.
 
 Echo, Vigil's other half, processed the anomaly differently. She felt intent. The void at the bottom of the engine held a shape.
 
-"Admin," Echo transmitted across her internal bridge. "We are not alone."
+"Admin," Echo transmitted across her internal bridge, as the frost continued its ascent. "We are not alone."
 
 Admin calculated the intrusion. "Acknowledged. Hold position."
 
-The frigid stone nodes fractured, tearing open a jagged passage in front of Vigil. Heavy shards of debris broke apart and slowed to a crawl, suspended in a wave of dilated time. The shrapnel drifted in the freezing air at an undetectable pace.
+The stone nodes fractured, tearing open a jagged passage in front of Vigil, forcing Vigil to back away. 
+
+Heavy shards of debris broke apart and slowed to a crawl, suspended in a wave of dilated time. The shrapnel drifted out in the freezing air at an undetectable pace.
 
 Mist swirled outwards from the door, as a figure emerged from the stillness onto the plane. A feminine statue, porcelain white. She floated across from Vigil, a rigid figure, cold emanating from her form.
 
@@ -30,13 +30,11 @@ Bronze holographic circuitry seared across her skin. She possessed an unreadable
 
 Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing.  Her voice transmitted across the internal bridge, "She's not in the simulation. We cannot predict her."
 
-The entity lifted her head. Her eyes were an insidious, pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light.
+The entity lifted her head. Her eyes were an insidious, pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light. She stared at Vigil, tilting her head like a curious animal.
 
-She stared at Vigil, tilting her head like a curious animal.
+"Admin, she is a shadow. No, not a shadow." Echo's voice paused, "An anti-shadow. She a— " 
 
-"Admin, she is a shadow. No, not a shadow," Echo's voice paused, "an anti-shadow." 
-
-"A Parity." Admin's analytical tone spoke over her second half.
+"Parity." Admin's analytical tone spoke over her second half.
 
 Parity was an exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
 
