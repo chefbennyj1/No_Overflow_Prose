@@ -6,7 +6,7 @@ Victor raised his revolver, and clicked the button on his tactical flashlight, s
 
 He stopped just inside. The scale of the room was a strategic nightmare.  Plastic-draped synthetics stretched into long uniform rows. The ticks of their peristaltic pumps randomly sounding off in across the floor. A perfect maze for an ambush. Victor swept his light across the grid, calculating the odds. Null was a hacker, but he didn't know if she was armed, or how many people she had brought with her to pull off a physical breach. 
 
-Harlan was chambering a round in his gun. He raised it and clicked on his own flashlight. His eyes met Victors. They both nodded, as they slowly sidestepped into the vaulted hangar.
+Harlan was chambering a round in his gun. He raised it and clicked on his own flashlight. His eyes met Victors. They both nodded, as they sidestepped into the vaulted hangar.
 
 Victor's eyes scanned the perimeter walls. At the far end of the grid, his beam caught the edge of an emergency service tunnel, its door propped half open.
 

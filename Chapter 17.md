@@ -40,7 +40,7 @@ A sharp, mechanical gasp ripped through the silence as the body took a simulated
 
 Behind the loose, transparent plastic sheet, the synthetic's eyes snapped open. They burned with an incandescent white light, edged with flares of blue that pierced straight through the plastic. 
 
-The synthetic slowly lifted its hand, pulling the plastic sheet down off its body. 
+The synthetic lifted its hand, pulling the plastic sheet down off its body. 
 
 "Harper?" Rin's voice was shaky.
 
