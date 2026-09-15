@@ -15,6 +15,15 @@
 13. **Banish "Mutter" / "Muttered":** Never use the words "mutter" or "muttered." Find sharper, more physical ways to describe quiet or under-the-breath dialogue.
 14. **Banish "Make Sense":** Never use phrases like "It doesn't make sense" or "Didn't make sense." Instead of having characters state their confusion, describe exactly what physical anomaly or contradiction is breaking their understanding.
 
+## Terminology (locked 15 Sep 2026)
+Three overlapping "horizon" terms were collapsed, and the two names for the thing in the core now depend on who is speaking. Applied story-wide.
+- **event horizon** — the singularity's ring of light. Used in the engine-interior chapters.
+- **horizon memory** — the pocket universe inside, where the intelligence lives.
+- **the boundary** — plain and unqualified. The outer edge where shutdown commands land and where Blackwell flips his bit. Never "horizon boundary" in prose; that phrase survives only as Iris's job title, *Horizon Boundary Analyst*, which does the mapping for the reader.
+- **neural matrix** — always. "Neural lattice" is retired.
+- **shadow process** — the log word, what the thing in the core is called before anyone understands it. Used by the logs, by Blackwell when he's covering it up, and by Iris before she finds the thesis.
+- **inversion** — the thesis word, from *The Parity Effect: Persona Collapse and Synthetic Inversion Manifestation*. Available only to the two intelligences speaking about each other, and to humans who have read the paper: Blackwell always, Iris from Ch. 8, Elena from Ch. 25. Never use "inversion" in its physics sense (a thermal inversion is a "thermal drop") — the word belongs to one meaning.
+
 ## Character Physical Tics
 Recurring, involuntary gestures that signal a character's interior state without narrating it directly (required by the strict-POV rule). Established so far:
 - **Rin:** Tucks the jagged sidelock of her hime-cut behind her ear — a nervous tell, self-soothing/hiding.

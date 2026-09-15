@@ -72,7 +72,7 @@ The card dragged smoothly upward through the reader a second time. The magnetic 
 
 The agent closed the distance and raised his baton to strike. Harper stepped squarely in front of Rin, bracing herself to take the blow. 
 
-Rin drove her shoulder into the steel and the door gave inward. She caught Harper's collar with her free hand and pulled, hard. Harper's braced weight came off her heels. They fell through the entrance, into the dark together. The baton swung through empty air.
+Rin fiercely shoved her shoulder into the steel door; it broke open inward. She caught Harper's collar with her free hand and pulled, hard. Harper's braced weight came off her heels. They fell through the entrance, into the dark together. The baton swung through empty air.
 
 The heavy door slammed shut, severing the bright lights of the transit terminal. A second later, a heavy fist hammered against the steel door from the other side. 
 
