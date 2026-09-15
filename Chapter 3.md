@@ -44,10 +44,10 @@ A long second later, the power surged back into the grid. The streetlights flick
 
 Rin felt the weight of the red drive in her pocket. She looked the Madame dead in the eye. "That's all of it. Nothing else."
 
-The madame studied Rin for a long moment, then a grim  smile painted its way across the Madame's face. "You should be more careful when you bring heat into my house," the Madame said, letting the smoke spill out of her mouth and nostrils as she spoke. "But, because you have been of service to us, if the Filament can be of assistance to you... we will."
+The Madame studied Rin for a long moment, then a grim  smile painted its way across her face. "You should be more careful when you bring heat into my house," the Madame said, letting the smoke spill out of her mouth and nostrils as she spoke. "But, because you have been of service to us, if the Filament can be of assistance to you... we will."
 
 "Yes, ma'am," Rin said, acknowledging an offer she had no intention of accepting.
 
 The Madame gave a slight nod. The broad-shouldered man reached into his suit jacket and flicked something through the open window.
   
-Rin snatched it out of the freezing rain. It was a perfectly smooth, featureless slip of matte-black glass. A burner chit. Almost enough to buy a way out.
+Rin snatched it out of the freezing rain. It was a smooth, featureless slip of matte-black glass. Burner credits. Almost enough to buy a way out.

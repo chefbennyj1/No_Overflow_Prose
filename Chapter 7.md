@@ -18,7 +18,7 @@ Victor stared out at the smog-choked skyline of the lower city.
 
 A minute later, Victor stood up and walked back out into the hall. 
 
-Harlan was waiting by the degraded wooden door, his eyes resting on the fake blue flowers. He didn't ask him how the visit went. He didn't have to.
+Harlan was waiting by the degraded wooden door, his eyes resting on the fake blue flowers. He didn't ask him how the visit went. He'd stood in the hallway before.
 
 "Is it still worth it, Vic?" Harlan said, keeping his voice low as they walked back down the peeling seafoam corridor. "You know, we can't save everyone the Filament touches."
 

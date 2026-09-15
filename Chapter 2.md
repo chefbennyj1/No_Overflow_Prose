@@ -24,7 +24,7 @@ As she crossed the center of the office, the window overlooking the lower city h
 
 She didn't admire the view. The data streaming across the holographic glass represented sheer excess. Rin jammed the connection wire of her SBC into the main console. 
 
-*Just enough credits to put someone on a train out of the Dead Circuits,* she thought.
+*Just need enough credits to put someone on a train out of the Dead Circuits,* she thought.
 
 The terminal awoke, projecting a Takeda-Holden Corporation login screen. A minimal, white screen with black text.
 
