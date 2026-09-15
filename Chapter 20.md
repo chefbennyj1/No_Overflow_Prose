@@ -117,7 +117,7 @@ The girl didn't have time to stop. She slammed hard into Harlan's chest. The imp
 
 Victor closed in from behind, trapping her in the intersection of their blinding lights. 
 
-She was breathing heavily on the floor, as she slowly raised her hands in the air, looking up and out of the corner of her eyes at Victor.
+She was breathing heavily on the floor, as she raised her hands in the air, looking up and out of the corner of her eyes at Victor.
 
 ***
 
