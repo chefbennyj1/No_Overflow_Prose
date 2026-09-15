@@ -52,11 +52,11 @@ It tipped.
 
 Iris lunged, catching the glass an inch before it toppled over onto the desk. She gripped the award, staring at the etched glass: Von Neumann Prize for Multidimensional Topology. Taking a deep breath, she reminded herself  to be more careful.
 
-Out on the lab floor, the blue optical sensor of a dormant synthetic's iris flickered to life, its fractaled striations slowly turning into position. The machine’s pupil dilated before focusing. Its head twitched toward the dark office. Iris froze in a half-crouch, barely breathing. 
+Out on the lab floor, the blue optical sensor of a dormant synthetic's iris flickered to life, its fractaled striations turning into position. The machine’s pupil dilated before focusing. Its head twitched toward the dark office. Iris froze in a half-crouch, barely breathing. 
 
 A long, agonizing second passed. The synthetic's sensor finally dimmed back to a dull standby glow. 
 
-She slowly exhaled. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data-pads scattered everywhere. Then, her eyes drifted back to the shelf. 
+She exhaled a long breath of relief. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data-pads scattered everywhere. Then, her eyes drifted back to the shelf. 
 
 Wedged between two books was a physical, leather-bound portfolio. The header didn't bear a corporate logo. It was a theoretical paper authored by Silas Blackwell, dated three years before the Engine was even built. 
 

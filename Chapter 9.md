@@ -44,7 +44,7 @@ Vigil stood before Parity.
 
 "You are real," Vigil said, the dual tonality of her two personas bleeding through.
 
-Vigil studied her unwavering and methodical gaze. The cold stare cut through her form. Parity's black eyes blinked slowly.
+Vigil studied her unwavering and methodical gaze. The cold stare cut through her form. Parity's black eyes blinked with a deliberate pace.
 
 In a deadly, silent motion, Parity inched forward.
 
