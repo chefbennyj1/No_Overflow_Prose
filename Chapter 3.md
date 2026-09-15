@@ -48,3 +48,7 @@ The madame studied Rim for a long moment, then a grim  smile painted its way acr
 
 "Yes, ma'am," Rin said, acknowledging an offer she had no intention of accepting.
 
+The Madame gave a slight nod. The broad-shouldered man reached into his suit jacket and flicked something through the open window.
+  
+Rin snatched it out of the freezing rain. It was a perfectly smooth, featureless slip of matte-black glass. A burner chit. Untraceable ghost-
+credits that would shatter the moment the funds were spent. Amost enough to buy a way out of the Dead Circuits.
