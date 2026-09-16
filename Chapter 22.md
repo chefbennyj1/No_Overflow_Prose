@@ -8,9 +8,7 @@ He leaned over the stainless steel table, his colorless eyes catching the harsh 
 
 Rin didn't speak. This wasn't the first time over the last month she had found herself sitting here, pulled out of her cell, her wrists cuffed to the center ring so the detective could stare at her. 
 
-Victor cleared his throat, actively pushing the guilt down. He couldn't afford to go soft. He needed the Filament, and she was his only lead. 
-
-He dropped a digital manila folder on the table, pinning it under his index finger as he stared down at her. "That file keeps getting bigger."
+Victor cleared his throat, keeping his eyes on her jaw. He swallowed hard dropping a digital manila folder on the table, and pinning it under his index finger. He stared down at her. "That file keeps getting bigger."
 
 Rin didn't speak. It was the exact same set of questions he had been asking for a month. She knew better than to open her mouth. She kept her head down, glaring up at him through her bangs.
 
