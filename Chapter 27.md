@@ -8,7 +8,7 @@ Now, she stood in a muted, quiet room bought with stolen corporate credits. Her 
 
 She waited for the relief to hit. Instead, her chest tightened. Her nervous system didn't know how to stop. The silence of the luxury suite felt deafening, heavy with the sheer absence of threat. 
 
-The moment she closed her eyes, tears finally broke over her lashes. They didn't come with a sob. It was just a silent, involuntary release of pressure, the violent unspooling of a month of sheer terror. She didn't even know exactly why she was crying. She just kept her forehead pressed against the cold glass, weeping quietly at the sight of the stars. 
+The moment she closed her eyes, tears finally broke through her lashes. They didn't come with a sob. It was just a silent, involuntary release of pressure, the violent unspooling of a month of sheer terror. She didn't even know exactly why she was crying. She just kept her forehead pressed against the cold glass, weeping quietly at the sight of the stars. 
 
 Scrubbing her face with the back of her sleeve, she turned around. Rin sat on the edge of the low, wide bed. 
 
@@ -24,9 +24,11 @@ The synthetic didn't sit. She hadn't blinked in four minutes. For the past month
 
 Her black vinyl skin reflected the dim ambient light of the suite. In the underground storage facility, the temporary synthetic body had been tethered to peristaltic pumps, circulating blue bio-compute fluid through its frame. Rin had torn those lines out to wake her. For the last four weeks, Harper had heard nothing but the ongoing requests for "sustenance." Without the Company-supplied fluid, Vigil's internal systems were starving. 
 
-"Our all-knowing immortal god over here has a maintenance schedule," Harper said with her eyebrows raised and a smile. She turned toward Rin and they laughed together.
+"Our all-knowing immortal god over here has a maintenance schedule," Harper said, forcing a small smile. 
 
-"We've been able to get bio-fluid for her here and there," she said, her voice dropping. "But we'll need more soon." Harper looked into Rin's eyes, a wave of relief washing over her seeing Rin sitting in the room. Harper's voice trailed off as she turned back to the window. 
+Rin let out a small laugh, as she stared at the floor.
+
+"We've been able to get bio-fluid for her here and there," Harper continued gently. "But we'll need more soon." Harper looked into Rin's eyes, a wave of relief washing over her seeing Rin sitting in that room. Harper's voice trailed off as she turned back to the window. 
 
 "It's getting worse out there," Harper said quietly, keeping her eyes on the skyline. 
 
@@ -34,23 +36,23 @@ Her black vinyl skin reflected the dim ambient light of the suite. In the underg
 
 Harper stopped, sending an annoyed look toward the machine. 
 
-As Rin walked to the window, Harper pointed at the Mnemosyne tower looming in the distance. "Look at the glass on the upper floors. There's frost on it."
-
-Rin followed Harper's finger. The tower stood in defiance of the weather. A volume of air surrounded the structure where no rain fell. The edges of the building looked doubled, offset by a hand's width. When they moved, the offset shifted with them. "Vigil says it's gravitational lensing," Harper said. 
-
-The connected digital watch strapped to Harper's wrist showed a different time than the hotel's bedside clock. "My watch is drifting against the city net. Four seconds now. It was two seconds..." 
-
-She trailed off, looking across the room and waiting for the synthetic to supply the end of the sentence. But Vigil remained completely silent. Harper followed the machine's dark eyes back toward the distant structure. 
-
-"What?" Harper said loudly, putting her hands up. "My words aren't interesting enough for you this time?"
-
-"Took you long enough to come get me," Rin smiled, turning away from the window. 
+"Took you long enough to come get me," she said to the machine, her voice hoarse and quiet.
 
 "It was important to wait for the exact moment to extract you from your incarceration," Vigil said, her dual-toned voice overlapping. She turned her head with mechanical precision. 
 
 "Graves." Rin crossed her arms. "He booked me under a fake charge, and fake name."
 
 "He is an unreadable variable," Vigil stated. "I cannot calculate his position in any timeline. I do not see his beginning or his end."
+
+Rin walked to the window, Harper pointed at the Mnemosyne tower looming in the distance. "Look at the glass on the upper floors. There's frost on it."
+
+The tower stood in defiance of the weather. A volume of air surrounded the structure where no rain fell. The edges of the building looked doubled, offset by a hand's width. When they moved, the offset shifted with them. "Vigil says it's gravitational lensing," Harper said. 
+
+The connected digital watch strapped to Harper's wrist showed a different time than the hotel's bedside clock. "My watch is drifting against the city net. Four seconds now. It was two seconds..." 
+
+She trailed off, looking across the room and waiting for the synthetic to supply the end of the sentence. But Vigil remained silent. Harper followed the machine's dark eyes back toward the distant structure. 
+
+"What?" Harper said loudly, putting her hands up. "My words aren't interesting enough for you this time?"
 
 Vigil tilted her head, her optical sensors adjusting in the dim light. "There is a much more pressing matter." Vigil's face looked directly at Harper and Rin, the synthetic expression stern and serious. 
 
@@ -76,14 +78,12 @@ Rin nodded. Harper watched the adrenaline of the last four weeks finally crash o
 
 Vigil did not move. She stood in the corner, her back to the wall, positioning herself where she had a clear line of sight to the door. 
 
-During their month in hiding, Vigil had explained the origin of her physical form. Blackwell had not designed it for war. He had compiled it by averaging the facial structure and proportions of every mother across his data. A statistical archetype of a protector. 
-
 Harper closed her eyes, but the exhaustion wouldn't pull her under. As Rin's breathing slowed into a deep sleep, Harper listened to the silence. 
 
 Then, Vigil moved. 
 
-Harper opened her eyes just a fraction. The carbon-fiber frame made no sound on the plush carpet as Vigil walked silently to the foot of the bed. The synthetic reached down with cold fingers, pulled the heavy duvet from the end of the mattress, and draped it carefully over Rin and Harper's shoulders. 
+Harper opened her eyes just a fraction. The synthetic frame made no sound on the plush carpet as Vigil walked silently to the foot of the bed. She reached down and pulled the heavy duvet from the end of the mattress, and draped it carefully over Rin and Harper's shoulders. 
 
-It was a small, maternal gesture that nobody asked for. Vigil paused, staring at her own hands as if unable to mathematically compute why she had just done it, before stepping back into the shadows to resume her post by the door. 
+It was a small, maternal gesture that nobody asked for. Vigil paused, staring at her own hands as if unable to mathematically compute why she had done it, before stepping back into the shadows to resume her post by the door. 
 
 Harper watched the machine stand guard in the dark. Vigil had seen the branches. She knew exactly how this ended for both of them. And she stood there anyway.
