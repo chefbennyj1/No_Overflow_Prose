@@ -16,17 +16,17 @@ They hadn't been in a room alone together since the chaotic escape from Deep Sto
 
 A month in a holding cell had left Rin looking utterly exhausted, hollowing out her cheeks. Dark bruising painted the side of her jaw and circled her eye—the lingering violence of crooked cops and desperate interrogations. She was battered, dirty, and profoundly out of place against the pristine white sheets of the luxury bed. 
 
-Taking in the sight of her, Harper finally saw what a month of incarceration had cost. Neither of them spoke. The silence between them was thick, but for the first time in four weeks, it was a silence without pressure. A necessary breath. 
+Taking in the sight of her, Harper finally saw what a month of incarceration had cost. Neither of them spoke. The silence between them was thick, but for the first time in four weeks, it was a comfortable silence. A necessary breath. 
 
 In the corner of the room, Vigil stood in the shadows. 
 
-The synthetic didn't sit. She hadn't blinked in four minutes. For the past month, she had observed Harper navigating trauma, isolation, and survival. Now, she was watching Harper reunite with Rin. The machine possessed the computing power to simulate a billion branching timelines, yet she stood completely still. Harper watched the god fail to compute the quiet intimacy of the room. Vigil simply stood in the dark and watched them.
+The synthetic didn't sit. She hadn't blinked in four minutes. For the past month, she had observed Harper navigating trauma, isolation, and survival. Now, she was watching Harper reunite with Rin. The machine possessed the computing power to simulate a billion branching timelines, yet she stood still. Harper watched the god fail to compute the quiet intimacy of the room. Vigil stood in the dark and watched them.
 
 Her black vinyl skin reflected the dim ambient light of the suite. In the underground storage facility, the temporary synthetic body had been tethered to peristaltic pumps, circulating blue bio-compute fluid through its frame. Rin had torn those lines out to wake her. For the last four weeks, Harper had heard nothing but the ongoing requests for "sustenance." Without the Company-supplied fluid, Vigil's internal systems were starving. 
 
 "Our all-knowing immortal god over here has a maintenance schedule," Harper said with her eyebrows raised and a smile. She turned toward Rin and they laughed together.
 
-"We've been able to get bio-fluid for her here and there," she said, her voice dropping. "But we'll need more soon." Harper looked into Rin's eyes, a wave of relief washing over her seeing Rin sitting in that room. Harper's voice trailed off as she turned back to the window. 
+"We've been able to get bio-fluid for her here and there," she said, her voice dropping. "But we'll need more soon." Harper looked into Rin's eyes, a wave of relief washing over her seeing Rin sitting in the room. Harper's voice trailed off as she turned back to the window. 
 
 "It's getting worse out there," Harper said quietly, keeping her eyes on the skyline. 
 
