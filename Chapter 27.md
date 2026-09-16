@@ -14,9 +14,19 @@ Scrubbing her face with the back of her sleeve, she turned around. Rin sat on th
 
 They hadn't been in a room alone together since the chaotic escape from Deep Storage. For four weeks, Harper had talked to no one but an immortal machine. She had watched the city deteriorate. She had stared at the impossible physics of the tower. But now, looking at Rin, the vast, cosmic terror of it all finally faded. This was the person she actually knew. 
 
-A month in a holding cell had left Rin looking utterly exhausted, hollowing out her cheeks. Dark bruising painted the side of her jaw and circled her eye—the lingering violence of crooked cops and desperate interrogations. She was battered, dirty, and profoundly out of place against the pristine white sheets of the luxury bed. 
+A month in a holding cell had left Rin looking utterly exhausted, hollowing out her cheeks. Faded, yellowing bruising painted the side of her jaw and circled her eye—the old, lingering violence of crooked cops. She was battered, dirty, and profoundly out of place against the pristine white sheets of the luxury bed. 
 
-Taking in the sight of her, Harper finally saw what a month of incarceration had cost. Neither of them spoke. The silence between them was thick, but for the first time in four weeks, it was a comfortable silence. A necessary breath. 
+Taking in the sight of her, Harper finally saw the true cost of her incarceration. 
+
+"They hit you," Harper said quietly, her voice barely above a whisper as she stared at the fading purple on Rin's face. 
+
+Rin reached up, her fingers brushing the skin. "Only for the first two weeks. Then they just... stopped."
+
+"Why?"
+
+"I don't know," Rin said, dropping her hand. "Nobody said anything. They just never laid hands on me again."
+
+The silence between them settled, thick and unresolved, but for the first time in four weeks, it was a silence without pressure. A necessary breath.
 
 In the corner of the room, Vigil stood in the shadows. 
 

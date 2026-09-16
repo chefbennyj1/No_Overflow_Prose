@@ -4,11 +4,13 @@ The orange, one-piece correctional jumpsuit Rin wore was a size too big. It hung
 
 "How's the food?" Victor asked, a humorless grin crossing his face. 
 
-He leaned over the stainless steel table, his colorless eyes catching the harsh fluorescent light. He studied the dark, fresh bruising along the side of her jaw and the scabbed split on her lip. The humor drained out of his expression, replaced by a flash of genuine guilt. "Looks like they aren't taking care of you in there."
+He leaned over the stainless steel table, his colorless eyes catching the harsh fluorescent light. He studied the fading, yellowed bruising along the side of her jaw and the closed scab on her lip. The humor drained out of his expression. He shot a brief glance toward the heavy steel door—out to where the guards were stationed. "Looks like it's healing," he said, sounding like he was reassuring himself. 
 
-Rin didn't speak. This wasn't the first time over the last month she had found herself sitting here, pulled out of her cell, her wrists cuffed to the center ring so the detective could stare at her. 
+Rin didn't speak. What was wrong with this cop? This wasn't the first time over the last month she had found herself sitting here, her wrists cuffed to the center ring. 
 
-Victor cleared his throat, keeping his eyes on her jaw. He swallowed hard dropping a digital manila folder on the table, and pinning it under his index finger. He stared down at her. "That file keeps getting bigger."
+Victor cleared his throat, his brief moment of distraction vanishing behind a hardened stare. 
+
+He dropped a digital manila folder on the table, pinning it under his index finger as he stared down at her. "That file keeps getting bigger."
 
 Rin didn't speak. It was the exact same set of questions he had been asking for a month. She knew better than to open her mouth. She kept her head down, glaring up at him through her bangs.
 
