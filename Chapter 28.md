@@ -1,6 +1,6 @@
-The fluorescent lights in the sterile hospital room flickered, buzzing with a low, mechanical vibration before stabilizing. 
+The fluorescent lights in the sterile hospital room flickered, and buzzed. 
 
-In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished synthetic, her glowing serial `PR-21` stamped under her eye—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
+In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished synthetic, her glowing personal relations serial stamped under her eye—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
 
 Iris stood by the window, looking back at the screen. Her stolen white lab coat fell from her shoulders, stopping inches above the floor. She pushed her black-rimmed glasses up her nose, her hands trembling. 
 
@@ -18,7 +18,7 @@ Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital
 
 "Iris. Look at me."
 
-Iris stopped pacing. She looked at the woman in the bed. Elena was physically broken, barely able to sit up, but her eyes held the hardened, clinical resolve of the architect who had help built the Mnemosyne engine. 
+Iris stopped pacing. She looked at the woman in the bed. Physically broken, barely able to sit up, but Elena's eyes held the hardened, clinical resolve of the architect who had help built the Mnemosyne engine. 
 
 "You are the doctor," Elena said, her voice quiet and absolute. "You are in control. Put the sheet over me."
 
