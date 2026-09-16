@@ -9,7 +9,7 @@ Elena's disorientation had begun to subside. She felt the headache, but was brea
 
 Voices echoed again, clearer this time. But still in pieces.
 "Doctor, no name yet?" the broken voice of a woman echoed.
-"Jane Doe—blood pressure and heart rate stable—been weeks," said another.
+"Jane Doe—blood pressure and heart rate stable," said another.
 
 But she was starting to be able to think. *I can hear them.* 
 
