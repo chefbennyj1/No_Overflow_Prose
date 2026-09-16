@@ -1,8 +1,8 @@
 The fluorescent lights in the sterile hospital room flickered, buzzing with a low, mechanical vibration before stabilizing. 
 
-In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished, immaculate synthetic with the serial code PR-21 stamped under her eye—was speaking over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
+In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished synthetic, her glowing serial `PR-21` stamped under her eye—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
 
-Iris stood by the window, looking back at the screen. Her stolen white lab coat fell from her shoulders, almost touching the floor. She pushed her black-rimmed glasses up her nose, her hands trembling. 
+Iris stood by the window, looking back at the screen. Her stolen white lab coat fell from her shoulders, stopping inches above the floor. She pushed her black-rimmed glasses up her nose, her hands trembling. 
 
 Out the window, the Oshima cloud cover extended out below her. In the distance, red and auburn light glowed and swelled beneath the clouds. Plumes of dark smoke rose and dirtied the air the color of soot.
 
@@ -38,7 +38,7 @@ Iris shoved her glasses up her nose one last time. She slammed her hand against 
 
 The heavy door slid open. The piercing sound of the flatline alarm flooded the quiet corridor. 
 
-The two Corporate Renewal agents instantly turned, their hands dropping to the grips of their weapons. They were imposing, clad in identical black tactical armor. 
+The two Corporate Renewal agents instantly turned, their hands dropping to the grips of their weapons. They were imposing, clad in identical black tactical armor. The thin, vertical red seams cutting down the center of their faceless black helmets flared bright crimson as their internal systems registered the sudden noise of the door.
 
 Iris pushed the gurney violently out into the hallway, her face flushed with adrenaline and panic. 
 
@@ -58,7 +58,7 @@ The wheels squeaked against the linoleum. From beneath the sheet, Elena listened
 
 "Keep moving," Elena whispered from the dark. 
 
-Up ahead, the digital display above the elevators dinged. The steel doors slid open, revealing a four-man Renewal disposition team stepping out onto the floor. They were fully armed, moving with mechanical precision to secure the asset they thought was still in the room. 
+Up ahead, the digital display above the elevators dinged. The steel doors slid open, revealing a four-man Renewal disposition team stepping out onto the floor. They were fully armed, moving with mechanical precision to secure the asset they thought was still in the room. The vertical red seams of their masks glowed steadily in the dim corridor, synced in perfect, unnerving unison.
 
 Iris froze, her hands gripping the metal rail of the gurney so tightly her knuckles turned white. The disposition team was walking straight toward her. 
 

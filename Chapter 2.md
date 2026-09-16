@@ -132,11 +132,15 @@ Victor remained silent for a moment, his red, bloodshot eyes fixed on the metal 
 
 "I did," Victor said, catching his breath.
 
-Before Harlan could say another word, the synchronized tread of tactical boots echoed up the stairwell. A squad of Takeda-Holden Renewal Agents marched onto the landing. They moved with terrifying, mechanical precision, clad in sleek, form-fitting black tactical armor. 
+Before Harlan could say another word, the synchronized tread of tactical boots echoed up the stairwell. A harsh red hue bounced off the concrete walls below them, bleeding upward before the squad even appeared.
+
+A squad of Takeda-Holden Renewal Agents marched onto the landing. They moved with mechanical precision, clad in sleek, form-fitting black tactical armor. 
 
 Harlan grabbed Victor’s arm, his voice dropping to a harsh whisper. "Victor... they just climbed fifteen flights. They aren't even breathing."
 
-Their humanity was obscured by glossy, faceless helmets that reflected the harsh fluorescent light of the stairwell. The lead agent didn't speak. He stepped directly into Victor's personal space, towering over him. Victor could see his own pale reflection in the opaque glass. The agent shone a deliberately bright tactical light, scanning Harlan's upheld Oshima police badge before snapping the light, to burn directly into Victor's sensitive eyes.
+Their humanity was obscured by glossy, faceless helmets. A single, vertical slice of heated crimson cut down the center of the black glass, still flaring from their climb up the stairwell. 
+
+The lead agent didn't speak. He stepped directly into Victor's personal space, towering over him. The red seam down the center of his face pulsed as it scanned Harlan's upheld Oshima police badge. The agent then snapped a deliberately bright tactical light on, burning directly into Victor's sensitive eyes.
 
 Victor was still holding his revolver. The entire squad shifted towards him in response. A silent, lethal threat.
 

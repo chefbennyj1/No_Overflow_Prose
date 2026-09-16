@@ -14,7 +14,7 @@ Standing directly in front of the open door, waiting for the lift, were two Take
 
 Rin slammed her hand against the elevator's 'Close Door' button, stepping backward into the car. 
 
-The rusted doors began to slide shut, but an agent jammed its intimidating, armored forearm between them. The metal groaned to a stop as the agent effortlessly forced the doors back open, stepping into the elevator, and blocked her escape. 
+The rusted doors began to slide shut, but an agent jammed its armored forearm between them. The metal groaned to a stop, the agent's helmet reflecting red off the grimy steel. Effortlessly forcing the doors back open, the agent stepped into the elevator to block her escape. 
 
 "Citizen!" the female agent barked, her voice heavily modulated through the helmet. "State your name, your prior location, and destination!"
 
@@ -34,7 +34,7 @@ Rin didn't wait to grab the gun. She shoved past the staggered agent and stumble
 
 Rin turned in the hallway to face them, posturing with outstretched arms, feeling the walls with her fingertips. She stepped back, tasting the  gunpowder residue from the close-encounter gunshot. The air was drying every terrified inch of her eyes as she fixed her attention on the two agents.
 
-The face of the agent's black mask snapped toward Rin. She stood up menacingly slow, as her partner stepped beside her. Both agents raised their tactical rifles.
+The face of the agent's black mask snapped toward Rin, the red seam of her helmet flaring. She stood up menacingly slow, as her partner stepped beside her. Both agents raised their tactical rifles.
 
 Orange muzzle flashes erupted as they opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. She threw herself backwards, as a hail of bullets chewed through the plaster exactly where she had been standing. Hot brass casings showered the filthy hallway carpet. Her heel caught the scattered pile of the old man's belongings. She hit the floor hard, scrambling on her hands and knees around the elevator buildout toward the emergency stairwell.
 
