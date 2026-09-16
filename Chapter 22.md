@@ -2,13 +2,15 @@ Four weeks, Rin." Detective Victor Graves sounded exhausted.
 
 The orange, one-piece correctional jumpsuit Rin wore was a size too big. It hung loose off her shoulders, exposing the white cotton tank top underneath. A serial number was stenciled across the breast in block lettering: D.O.C. 3 9 8.
 
-"How's the food?" Victor asked, a humorless grin crossing his face.
+"How's the food?" Victor asked, a humorless grin crossing his face. 
 
-This wasn't the first time over the last month she had found herself sitting at this stainless steel table, her wrists cuffed to the center ring. The detective was making it part of his routine to pull her out of her cell and sit her in front of him.
+He leaned over the stainless steel table, his colorless eyes catching the harsh fluorescent light. He studied the dark, fresh bruising along the side of her jaw and the scabbed split on her lip. The humor drained out of his expression, replaced by a flash of genuine guilt. "Looks like they aren't taking care of you in there."
 
-The interrogation room's dirty white square tiling hadn't been scrubbed in years, and the harsh fluorescent bulbs overhead cast an unflattering, sickly pallor over everything. A security camera tracked their interaction from the upper corner of the ceiling. A massive, one-way mirror spanned the length of the far wall.
+Rin didn't speak. This wasn't the first time over the last month she had found herself sitting here, her wrists cuffed to the center ring, taking a beating in lockup just so the detective could pull her out and stare at her. 
 
-Victor dropped a digital manila folder on the table. He pinned it under his index finger and leaned forward, staring down at her. "That file keeps getting bigger."
+Victor cleared his throat, actively pushing the guilt down. He couldn't afford to go soft. He needed the Filament, and she was his only lead. 
+
+He dropped a digital manila folder on the table, pinning it under his index finger as he stared down at her. "That file keeps getting bigger."
 
 Rin didn't speak. It was the exact same set of questions he had been asking for a month. She knew better than to open her mouth. She kept her head down, glaring up at him through her bangs.
 
