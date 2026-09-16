@@ -1,10 +1,10 @@
 The fluorescent lights in the sterile hospital room flickered, buzzing with a low, mechanical vibration before stabilizing. 
 
-In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished, immaculate woman with [ANCHOR DESCRIPTION PLACEHOLDER]—was speaking over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
+In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished, immaculate synthetic with the serial code PR-21 stamped under her eye—was speaking over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
 
-Iris stood by the window, looking back at the screen. Her stolen white lab coat fell form her shoulders almost touching the floor. She pushed her black-rimmed glasses up her nose, her hands trembling. 
+Iris stood by the window, looking back at the screen. Her stolen white lab coat fell from her shoulders, almost touching the floor. She pushed her black-rimmed glasses up her nose, her hands trembling. 
 
-Out the window the Oshima cloud cover extended out below her. In the distance red and auburn light glowed and swelled beneath the clouds, plumes of dark smoke rose and dirtied the air the color of soot.
+Out the window, the Oshima cloud cover extended out below her. In the distance, red and auburn light glowed and swelled beneath the clouds. Plumes of dark smoke rose and dirtied the air the color of soot.
 
 The lights overhead flickered again. This time, they stayed dim for three long seconds before surging back to a harsh white. 
 
