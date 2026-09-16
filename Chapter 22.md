@@ -6,7 +6,7 @@ The orange, one-piece correctional jumpsuit Rin wore was a size too big. It hung
 
 He leaned over the stainless steel table, his colorless eyes catching the harsh fluorescent light. He studied the dark, fresh bruising along the side of her jaw and the scabbed split on her lip. The humor drained out of his expression, replaced by a flash of genuine guilt. "Looks like they aren't taking care of you in there."
 
-Rin didn't speak. This wasn't the first time over the last month she had found herself sitting here, her wrists cuffed to the center ring, taking a beating in lockup just so the detective could pull her out and stare at her. 
+Rin didn't speak. This wasn't the first time over the last month she had found herself sitting here, pulled out of her cell, her wrists cuffed to the center ring so the detective stare at her. 
 
 Victor cleared his throat, actively pushing the guilt down. He couldn't afford to go soft. He needed the Filament, and she was his only lead. 
 
