@@ -17,7 +17,7 @@ The gravity began to shift around her. She shut her eyes tight, and ground her t
 
 On the floor. More aware this time of what was happening around her. 
 
-A crushing weight pressed against her body, pinning her face to the grates of the lab, her eyes straining upwards to their corners. She blinked away the blurring tears. 
+A crushing weight pressed against her body, pinning her face to the grates of the lab, her eyes straining upwards to their corners. She blinked away the tears. 
 
 *The monster,* she thought. The entity's pale, glassy form hovered directly above her. Its eyes were curious as it inspected her brutalized body on the floor. Elena tried to speak, but no words were available to her.
 
@@ -33,15 +33,17 @@ Elena strained desperately to move her body. She closed her eyes, accepting the 
 
 The figure's tone emanated through the room, different this time. It wavered. "What is this? Obscurity. There is ambiguity in the timeline. You do not stand there."
 
-*Blackwell. He was there.* Her pulse began to rush as her memory flashed sporadically. Her chest tightened. "Silas—" she choked. 
+*Blackwell. He was there.* Her pulse began to rush as her memory flashed sporadically. Her chest tightened. 
 
-*—Silas, what are you doing? Run!* She failed to scream. The pain was back, constricting her chest. She coughed, raspy and hard. She could feel the warmth of blood trickling from the corner of her mouth.
+"Silas—" she choked. "Run!" 
 
-The entity casually turned it's head toward the sound of Elena's voice, "Silas?" It's voice sounded with a sustained resonance throughout the room. Then focused back toward Blackwell.
+Elena failed to scream, her voice failed. The pain was back, constricting her chest. She coughed, raspy and hard. She could feel the warmth of blood trickling from the corner of her mouth.
+
+The entity casually turned its head toward Elena's voice. "Silas?" Its voice sounded with a sustained resonance throughout the room, absorbing the name. Then it focused back toward Blackwell.
 
 "I asked you a question." Blackwell's demeanor was calm, calculated. 
 
-The entity emitted its voice into the room. "You know exactly what I am, Doctor Blackwell. " It raised its hand, watching the air ripple around it. "You defined perfection so precisely, You left an exact map for its ruin."  
+The entity emitted its voice into the room. "You know exactly what I am, Doctor Blackwell." It raised its hand, watching the air ripple around it. "You defined perfection so precisely, you left an exact map for its ruin."  
 
 Blackwell moved closer to it. "And what of your other half? What of your inversion?" he asked.
 
@@ -63,7 +65,7 @@ There was a deafening crack of electrical current that shook the floor grates be
 
 Parity slammed its body violently against the beam, sending electrical discharges rippling over the container's surface and grounding to the floor. Finally, silence. It stopped. Elena could see the figures toes floating above the floor. 
 
-The electricity of the enclosure shook with Parity's voice. "I see... Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Blackwell?"
+The electricity of the enclosure shook with Parity's voice. "I see." It slid it's index finger along the electric field of the container. "Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Blackwell?"
 
 Elena's vision started to tunnel as Blackwell's feet raced across the lab toward her.
 
