@@ -2,7 +2,7 @@ Harper pressed her forehead against the cool glass. Below the window, the smog o
 
 Stars. Sharp points of light in the black. What she had seen at the foot of the Takeda-Holden tower was nothing compared to what she was seeing now. She hadn't seen anything like them since she was a child. Her eyes welled at the beautiful sight.
 
-The hotel room was a muted, quiet space, bought with stolen corporate credits. It was one of the benefits of running with a superintelligence for the past month—she was capable of instantly transferring infinite funds in the blink of an eye. Plush carpets under her bare feet, geometric furniture, and porcelain amenities that ran hot water. 
+The hotel room was a muted, quiet space, bought with stolen corporate credits. It was one of the benefits of running with a superintelligence for the past month—she was capable of instantly transferring infinite funds. Plush carpets under her bare feet, geometric furniture, and porcelain amenities that ran hot water. 
 
 It was the most comfortable place Harper had ever been. Now, for the first time in a month, there was no need to plan, no need to stress, and she finally felt the luxury surrounding her.
 
