@@ -1,6 +1,6 @@
 The fluorescent lights in the sterile hospital room buzzed and flickered. 
 
-In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished synthetic, her glowing personal relations serial stamped under her eye—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
+In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished personal relations synthetic—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
 
 Iris stood by the window, looking back at the screen. Her stolen white lab coat fell from her shoulders, stopping inches above the floor. She pushed her black-rimmed glasses up her nose, her hands trembling. 
 
@@ -26,7 +26,9 @@ Iris swallowed hard. "They're going to want to see the body."
 
 "Then you don't let them." Elena shifted her weight, falling back against the pillow. "But first, you need to clear the floor."
 
-Iris understood. Turning to the room's integrated terminal, swiping the stolen medical badge pinned to her coat. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units on the interface. She found their floor. The screen flashed full of health records. She triggered a manual Code Blue on an empty surgical suite at the far opposite end of the corridor. Ninety seconds.
+Iris understood. Turning to the room's integrated terminal, swiping the stolen medical badge pinned to her coat. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units on the interface. She found their floor. The screen flashed full of health records. She triggered a manual Code Blue on an empty surgical suite at the far opposite end of the corridor. 
+
+Ninety seconds.
 
 A muffled bell alarm began to sound down the hall. Through the heavy door, they could hear the frantic shouting of the floor nurses and the squeak of a crash cart being rushed rapidly away from their room. The medical staff was distracted.
 
@@ -48,7 +50,7 @@ The two Corporate Renewal agents instantly turned. They were imposing, clad in i
 
 Iris pushed the gurney violently out into the hallway, her face flushed with adrenaline and panic. 
 
-"Move!" Iris screamed, her voice cracking with desperate authority. "Jane Doe is dead!"
+"Move!" Iris yelled, her voice cracking with desperate authority. "Jane Doe is dead!"
 
 The guard on the right stepped forward, his hand reaching for the edge of the white sheet. "Doctor, we need to visually confirm—"
 
@@ -64,9 +66,9 @@ The wheels squeaked against the linoleum. From beneath the sheet, Elena listened
 
 "Keep moving," Elena whispered from the dark. 
 
-Up ahead, the digital display above the elevators dinged. The steel doors slid open, revealing a four-man Renewal disposition team stepping out onto the floor. They were fully armed, moving with mechanical precision to secure the asset they thought was still in the room. The vertical red seams of their masks glowed steadily in the dim corridor, synced in perfect, unnerving unison.
+Up ahead, the digital display above the elevators dinged. The steel doors slid open, revealing a four-man Renewal disposition team stepping out onto the floor. They were fully armed, moving with mechanical precision to secure the asset they thought was still in the room. 
 
-Iris froze, her hands gripping the metal rail of the gurney so tightly her knuckles turned white. The disposition team was walking straight toward her. 
+Iris froze, her hands white knuckled the metal rail of the gurney. The disposition team was walking straight toward her. 
 
 "Iris," Elena warned softly from under the sheet. "Keep walking."
 
