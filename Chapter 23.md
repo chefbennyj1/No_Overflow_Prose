@@ -1,4 +1,7 @@
-Nothing. There's no gap in 'Nothing'. No continuous thought happening in between 'Something'. If this was 'Nothing', the thought of 'Nothing' could not exist. A seamless transition from one experience to the next. This experience—and it carried the throbbing ache of a migraine. 'This' is not 'Nothing'. If this is not 'Nothing', then she must still be alive. 
+---
+music: Parity_Theme.mp3
+---
+Nothing. There's no gap in 'Nothing'. No continuous thought happening in between 'Something'. If this was 'Nothing', the thought of 'Nothing' could not exist. 'This' is not 'Nothing'. If this is not 'Nothing', then she must still be alive. 
 
 Elena's disorientation had begun to subside. She felt the headache, but was breathing easier. Things were still out of place. The closest she could describe it was a type of weightlessness. Not her body. Her mind. 
 
@@ -18,7 +21,7 @@ A crushing weight pressed against her body, pinning her face to the grates of th
 
 *The monster,* she thought. The entity's pale, glassy form hovered directly above her. Its eyes were curious as it inspected her brutalized body on the floor. Elena tried to speak, but no words were available to her.
 
-*What have we done?* Tears filled her eyes, overflowed, then ran down her face.
+*What have we done?* Tears filled her eyes, then ran down her face.
 
 The entity's expression hardened. Its hand reached out and touched one of the falling tears with its finger. The touch was cold against Elena's cheek. The figure raised its hand, inspecting the wet tear between its index finger and thumb.
 
@@ -30,7 +33,11 @@ Elena strained desperately to move her body. She closed her eyes, accepting the 
 
 The figure's tone emanated through the room, different this time. It wavered. "What is this? Obscurity. There is ambiguity in the timeline. You do not stand there."
 
-*Blackwell. He was there.* Her pulse began to rush as her memory flashed sporadically. Her chest tightened. *Silas, what are you doing? Run!* She failed to scream. The pain was back, constricting her chest. She coughed, raspy and hard. She could feel the warmth of blood trickling from the corner of her mouth.
+*Blackwell. He was there.* Her pulse began to rush as her memory flashed sporadically. Her chest tightened. "Silas—" she choked. 
+
+*—Silas, what are you doing? Run!* She failed to scream. The pain was back, constricting her chest. She coughed, raspy and hard. She could feel the warmth of blood trickling from the corner of her mouth.
+
+The entity casually turned it's head toward the sound of Elena's voice, "Silas?" It's voice sounded with a sustained resonance throughout the room. Then focused back toward Blackwell.
 
 "I asked you a question." Blackwell's demeanor was calm, calculated. 
 

@@ -1,3 +1,6 @@
+---
+music: Parity_Theme.mp3
+---
 *Beep.* 
 
 The steady, tinny sound echoed faintly. It sounded miles away, barely audible. 
