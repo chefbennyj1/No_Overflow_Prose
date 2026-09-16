@@ -1,10 +1,10 @@
 Harper pressed her forehead against the cool glass. Below the window, the smog of the lower city formed a dense, bruised ceiling. But up here, eighty stories high in the luxury suites of New Veridia, the sky was clear. 
 
-Stars. Sharp points of light in the black. What she had seen at the foot of the Takeda-Holden tower was nothing compared to what she was seeing now. She hadn't seen anything like them since she was a child. Her eye welled at the beautiful sight.
+Stars. Sharp points of light in the black. What she had seen at the foot of the Takeda-Holden tower was nothing compared to what she was seeing now. She hadn't seen anything like them since she was a child. Her eyes welled at the beautiful sight.
 
-The hotel room was a muted quiet space, bought with stolen corporate credits. One of the benefits of friending an alien, superintelligence for the past month; capable of instantly transferring infinite funds in the blink of an eye. Plush carpets felt soft under her bare feet, geometric furniture, and porcelain amenities that ran hot water. 
+The hotel room was a muted, quiet space, bought with stolen corporate credits. It was one of the benefits of running with a superintelligence for the past month—she was capable of instantly transferring infinite funds in the blink of an eye. Plush carpets under her bare feet, geometric furniture, and porcelain amenities that ran hot water. 
 
-It was the most comfortable place Harper had ever been. Now for the first time in a month, there was no need to plan, no need to stress and she finally felt the luxury surrounding her.
+It was the most comfortable place Harper had ever been. Now, for the first time in a month, there was no need to plan, no need to stress, and she finally felt the luxury surrounding her.
 
 Rin sat on the edge of the low, wide bed. She watched Harper at the window. They hadn't been in a room alone together since the chaotic escape from Deep Storage, since the desperate kiss in the dark. The silence between them now was thick, but without pressure. A necessary breath.
 
@@ -12,9 +12,13 @@ In the corner of the room, Vigil stood in the shadows.
 
 The synthetic didn't sit. She hadn't blinked in four minutes. Her vinyl skin was pale, reflecting the dim ambient light of the suite. In the underground storage facility, the temporary synthetic body had been tethered to thick peristaltic pumps, circulating blue bio-compute fluid through its frame. 
 
-Rin had torn those lines out to wake her. For the last four weeks, Harper had herd nothing but the on going requests for "sustenance". Without the Company-supplied fluid, Vigils internal systems were starving.
+Rin had torn those lines out to wake her. For the last four weeks, Harper had heard nothing but the ongoing requests for "sustenance." Without the Company-supplied fluid, Vigil's internal systems were starving. 
 
-Harper, turn toward Rin. "The god has a maintenance schedule." She said with a sly smile and a laugh. "We've been able to get bio fluid for her. But, we'll need more." Harper looked into Rin's eyes. she was relieved she was sitting in the room. Harpers voice trailed off as she turned back to the window. "It's getting worse out there," Harper said, keeping her eyes on the skyline. 
+"The god has a maintenance schedule..." Harper said with a smile and subtle laugh.
+
+Harper turned toward Rin. "We've been able to source bio-fluid for her on the black market," she said, her voice dropping. "But we'll need more soon." Harper looked into Rin's eyes, a wave of relief washing over her just seeing Rin sitting in that room. Harper's voice trailed off as she turned back to the window. 
+
+"It's getting worse out there," Harper said quietly, keeping her eyes on the skyline. 
 
 "—getting worse out there," Vigil echoed, speaking the final four words a half-second before Harper did. The synthetic's tone was casual, unaware of how unsettling the trick landed. 
 
