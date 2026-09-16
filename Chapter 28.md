@@ -24,7 +24,13 @@ She stopped pacing, and looked at the woman in the bed. Physically broken, barel
 
 Iris swallowed hard. "They're going to want to see the body."
 
-"Then you don't let them." Elena shifted her weight, falling back against the pillow. "Now," she breathed. "Flatline the monitor."
+"Then you don't let them." Elena shifted her weight, falling back against the pillow. "But first, you need to clear the floor."
+
+Iris understood. She turned to the room's terminal, swiping the stolen medical badge pinned to her coat. She found the patient chart interface. She triggered a manual Code Blue on an empty surgical suite at the far opposite end of the corridor. It gave them ninety seconds.
+
+A muffled bell alarm began to sound down the hall. Through the heavy door, they could hear the frantic shouting of the floor nurses and the squeak of a crash cart being rushed rapidly away from their room. The medical staff was distracted.
+
+"Now," Elena breathed. "Flatline the monitor."
 
 Iris turned to the console. She tapped the screen, overriding the localized life support sensors. The rhythmic beeping of Elena's heart monitor instantly flatlined into a piercing, continuous alarm. 
 
