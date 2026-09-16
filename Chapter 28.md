@@ -1,4 +1,4 @@
-The fluorescent lights in the sterile hospital room flickered, and buzzed. 
+The fluorescent lights in the sterile hospital room buzzed and flickered. 
 
 In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished synthetic, her glowing personal relations serial stamped under her eye—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
 
@@ -20,7 +20,7 @@ Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital
 
 Iris stopped pacing. She looked at the woman in the bed. Physically broken, barely able to sit up, but Elena's eyes held the hardened, clinical resolve of the architect who had help built the Mnemosyne engine. 
 
-"You are the doctor," Elena said, her voice quiet and absolute. "You are in control. Put the sheet over me."
+"You are a doctor," Elena said, her voice quiet and absolute. "You are not pretending. You are in control. Put the sheet over me. It's time to go."
 
 Iris swallowed hard. "They're going to want to see the body."
 
