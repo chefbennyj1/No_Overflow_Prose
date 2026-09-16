@@ -6,7 +6,7 @@ Iris stood by the window, looking back at the screen. Her stolen white lab coat 
 
 Out the window, the Oshima cloud cover extended out below her. In the distance, red and auburn light glowed and swelled beneath the clouds. Plumes of dark smoke rose and dirtied the air the color of soot.
 
-The lights overhead flickered again. This time, they stayed dim for three long seconds before surging back to a harsh white. 
+The lights overhead flickered again. This time, they stayed dim longer before surging back to a harsh white. 
 
 Iris backed away from the window, her breathing shallow and rapid. "It's chaos out there," she whispered, her voice tight with panic. "The Company is going to lock down the hospital. We're out of time."
 
@@ -18,13 +18,13 @@ Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital
 
 "Iris. Look at me."
 
-Iris stopped pacing. She looked at the woman in the bed. Physically broken, barely able to sit up, but Elena's eyes held the hardened, clinical resolve of the architect who had help built the Mnemosyne engine. 
+She stopped pacing, and looked at the woman in the bed. Physically broken, barely able to sit up, but Elena's eyes held the hardened, clinical resolve of the architect who had help built the Mnemosyne engine. 
 
 "You are a doctor," Elena said, her voice quiet and absolute. "You are not pretending. You are in control. Put the sheet over me. It's time to go."
 
 Iris swallowed hard. "They're going to want to see the body."
 
-"Then you don't let them." Elena shifted her weight. "Now," Elena breathed, her head falling back against the pillow. "Flatline the monitor."
+"Then you don't let them." Elena shifted her weight, falling back against the pillow. "Now," she breathed. "Flatline the monitor."
 
 Iris turned to the console. She tapped the screen, overriding the localized life support sensors. The rhythmic beeping of Elena's heart monitor instantly flatlined into a piercing, continuous alarm. 
 
@@ -38,7 +38,7 @@ Iris shoved her glasses up her nose one last time. She slammed her hand against 
 
 The heavy door slid open. The piercing sound of the flatline alarm flooded the quiet corridor. 
 
-The two Corporate Renewal agents instantly turned, their hands dropping to the grips of their weapons. They were imposing, clad in identical black tactical armor. The thin, vertical red seams cutting down the center of their faceless black helmets flared bright crimson as their internal systems registered the sudden noise of the door.
+The two Corporate Renewal agents instantly turned. They were imposing, clad in identical black tactical armor. The thin, vertical crimson seams cutting down the center of their faceless black helmets.
 
 Iris pushed the gurney violently out into the hallway, her face flushed with adrenaline and panic. 
 
