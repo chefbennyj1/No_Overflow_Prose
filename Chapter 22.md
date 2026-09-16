@@ -1,4 +1,4 @@
-Four weeks, Rin." Detective Victor Graves sounded exhausted.
+"Four weeks, Rin." Detective Victor Graves sounded exhausted.
 
 The orange, one-piece correctional jumpsuit Rin wore was a size too big. It hung loose off her shoulders, exposing the white cotton tank top underneath. A serial number was stenciled across the breast in block lettering: D.O.C. 3 9 8.
 
