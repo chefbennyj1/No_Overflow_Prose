@@ -26,7 +26,7 @@ Iris swallowed hard. "They're going to want to see the body."
 
 "Then you don't let them." Elena shifted her weight, falling back against the pillow. "But first, you need to clear the floor."
 
-Iris understood. She turned to the room's terminal, swiping the stolen medical badge pinned to her coat. She found the patient chart interface. She triggered a manual Code Blue on an empty surgical suite at the far opposite end of the corridor. It gave them ninety seconds.
+Iris understood. Turning to the room's integrated terminal, swiping the stolen medical badge pinned to her coat. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units on the interface. She found their floor. The screen flashed full of health records. She triggered a manual Code Blue on an empty surgical suite at the far opposite end of the corridor. Ninety seconds.
 
 A muffled bell alarm began to sound down the hall. Through the heavy door, they could hear the frantic shouting of the floor nurses and the squeak of a crash cart being rushed rapidly away from their room. The medical staff was distracted.
 
