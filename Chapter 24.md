@@ -107,4 +107,4 @@ A man yelled at one to move. It didn't move.
 
 Fifty officers in the dark, and not one machine moved when told. They had walked to the places where they would be most in the way, and stopped. The precinct synthetics were making a lane.
 
-Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame. He'd watched it happen an minute ago.  She had never been breaking. She'd been waiting on her ride.
+Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame of the Filament. He'd watched it happen an minute ago.  She had never been breaking. She'd been waiting on her ride.
