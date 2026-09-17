@@ -7,7 +7,7 @@ The steel door to the interrogation room unlocked with a whirring mechanical cla
 
 Harlan set a cup in front of Victor, leaning close. "Did you ask her?" He kept his voice low.
 
-Victor took the coffee. The heat burned straight through the cheap cup. "Harlan, it's not like you to entertain this garbage." He leaned closer, dropping his pitch to a harsh rasp. "If you humor this—" Victor got up from his chair to make room for him to sit.
+Victor took the coffee. The heat burned straight through the cheap cup. "Harlan, it's not like you to entertain this garbage." He shifted closer, dropping his pitch to a harsh rasp. "If you humor this—" Victor got up from his chair to make room for him to sit.
 
 Harlan ignored the warning. He sat at the table and stared directly at the girl. "Why were you in Deep Storage at the Takeda-Holden Corporate building?"
 
@@ -95,7 +95,7 @@ The glare punched straight through Victor's eyelids. It took the table, the girl
 
 Victor reached out, grasping into the brightness. His hand closed on a wrist. Warm, a pulse going hard under his fingers, the sleeve of a jumpsuit a size too big bunching into his fist. He had her. He couldn't see but, he had her, and he held on with everything he had left in him.
 
-She didn't pull. She leaned down instead, close enough that he felt the breath of it against his ear, and she wasn't afraid.
+She didn't pull. She stepped close insteadclose enough that he felt the breath of it against his ear, and she wasn't afraid.
 
 "I told you," she said. "They don't have control."
 
