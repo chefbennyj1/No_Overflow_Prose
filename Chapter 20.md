@@ -76,11 +76,11 @@ In the harsh glare of the flashlight, Rin's eyes darted to the side, looking dee
 
 Victor saw the wheels turning in her head. There was a slight shift in the metal of his revolver as he firmed his grip. "Hey. Don't do it."
 
-Rin took a slow, calculated step to the right. 
+The girl took a slow, calculated step to the right. 
 
 "Don't do it," Victor warned again, framing his aim.
 
-Rin bolted. 
+She bolted. 
 
 She sprinted hard to the right, cutting deep into the center of the dormant army. Victor followed her with his light, and began the pursuit.
 

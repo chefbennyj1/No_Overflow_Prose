@@ -67,7 +67,7 @@ The loop is native to the book's physics (Rule 30, the Boundary Paradox). The fi
 
 ### The Coda in Detail (Harlan & Arthur)
 Beat order:
-1. **The introduction:** Harlan says he's a friend of Victor's. Not "partner," not "detective" — he keeps cop language out of the room for the old man's sake.
+1. **The introduction:** Harlan says he's a friend of Victor's. Not "partner," not "detective"—he keeps cop language out of the room for the old man's sake.
 2. **The verdict:** Arthur answers the question the entire book has been asking, and Victor never hears it. *"Oh you know my Victor. He's a good boy. Always doin' the right thing. Didn't learn that from me."* Parity asked Victor if he was a good man and Victor said no. His father says otherwise, and then diagnoses himself in four words.
 3. **The withheld truth:** Harlan does not tell him Victor is dead. It would only upset him. He's just come to check in. Victor died saving him, and he carries that alone.
 4. **The loop:** Arthur has a dementia moment and the conversation restarts. *"You! You smell like a cop."* / *"No Arthur, not today."* / *"Then you should be watchin' the window. You wanna get us strung up?"* The reset spares Harlan from lying twice, and it rhymes with Ch. 7, where Arthur restarts on Victor.

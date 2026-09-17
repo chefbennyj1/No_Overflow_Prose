@@ -5,7 +5,7 @@ The single fluorescent tube overhead flickered, popping with an electrical snap.
 
 The steel door to the interrogation room unlocked with a whirring mechanical clack. A synthetic wearing an Oshima police-issue black bomber jacket pushed the door inward. Harlan stepped through, carrying two steaming foam cups. The synthetic followed him inside, taking up a rigid position against the wall by the door, its eight-point cap worn low over the subtle glow of its eyes.
 
-Harlan set a cup in front of Victor, leaning close. "Did you ask her?" he kept his voice low.
+Harlan set a cup in front of Victor, leaning close. "Did you ask her?" He kept his voice low.
 
 Victor took the coffee. The heat burned straight through the cheap cup. "Harlan, it's not like you to entertain this garbage." He leaned closer, dropping his pitch to a harsh rasp. "If you humor this—" Victor got up from his chair to make room for him to sit.
 
@@ -69,7 +69,7 @@ The room came back as a photograph. Harlan was half out of his chair, the girl's
 
 "Harlan, that isn't a house unit!" 
 
-The last bright image of the room stayed printed as a blue and green negative in Victor's eyes. In the darkness, the glowing `RA-77` stepped off the wall and began to move across the room. He had seen that walk before, on a fifteenth-floor landing, on a squad that climbed the whole way up without taking a breath. 
+The last bright image of the room stayed printed as a blue-and-green negative in Victor's eyes. In the darkness, the glowing `RA-77` stepped off the wall and began to move across the room. He had seen that walk before, on a fifteenth-floor landing, on a squad that climbed the whole way up without taking a breath. 
 
 Victor stepped back. The alarm fired. The guard stood an arm's length away, as still as it had been on the wall.
 
@@ -79,7 +79,7 @@ The alarm fired. The synthetic turned its head toward him without hurrying. Vict
 
 The dark returned. The synthetic reached out and grabbed the barrel of the revolver, causing the magnetic rails to spark and overheat in his hand.
 
-"Ah, shit!" He dropped the weapon to the floor, as the alarm fired again.
+"Ah, shit!" He dropped the weapon to the floor as the alarm fired again.
 
 Victor could feel the synthetic scanning him in the dark. Then it spoke, "You are an obscurity, Victor Graves." Victor's heart took a terrified leap. The synthetic's tone was different from what he knew. Two layered voices were speaking at once. "Tell me, are you a good man?"  Victor couldn't answer, his words gone.
 
@@ -95,7 +95,7 @@ He heard the heavy, sickening thud of a body hitting the steel door. Harlan.
 
 He could hear the sound of the synthetic changing position. The chains drawing tight against the ring on the table. Then the violent crack of the metal ring breaking into pieces.
 
-Victor reached out, grasping into the brightness. His hand closed on a wrist. Warm, a pulse going hard under his fingers, the sleeve of a jumpsuit a size too big bunching into his fist. He had her. He couldn't see but he had her, and he held on with everything he had left in him.
+Victor reached out, grasping into the brightness. His hand closed on a wrist. Warm, a pulse going hard under his fingers, the sleeve of a jumpsuit a size too big bunching into his fist. He had her. He couldn't see but, he had her, and he held on with everything he had left in him.
 
 She didn't pull. She leaned down instead, close enough that he felt the breath of it against his ear, and she wasn't afraid.
 
@@ -109,4 +109,4 @@ A man yelled at one to move. It didn't move.
 
 Fifty officers in the dark, and not one machine moved when told. They had walked to the places where they would be most in the way, and stopped. The precinct synthetics were making a lane.
 
-Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame. He'd watched it happen an hour ago.  She had never been breaking. She'd been waiting on her ride.
+Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame. He'd watched it happen an minute ago.  She had never been breaking. She'd been waiting on her ride.
