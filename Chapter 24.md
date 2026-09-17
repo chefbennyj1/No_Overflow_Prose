@@ -47,9 +47,7 @@ Victor turned around.
 
 The guard hadn't shifted since it took the wall. Shoulders squared, hands loose, weight held with a patience no living body manages. It was looking at the girl. Only at the girl. It had been looking at her since it walked in behind his partner's coffee.
 
-His eyes went to the stamp beneath its left eye.
-
-Not  a `PD` serial designation. The serial glowed `RA-77`.
+His eyes went to the stamp beneath its left eye. Not  a `PD` serial designation. The serial glowed `RA-77`. 
 
 Oshima PD didn't run Renewal units. Oshima PD couldn't afford one.
 
@@ -71,7 +69,7 @@ The room came back as a photograph. Harlan was half out of his chair, the girl's
 
 "Harlan, that isn't a house unit!" 
 
-The last bright image of the room stayed printed in Victor's eyes, a blue and green negative. In the darkness, the glowing `RA-77` stepped off the wall and began to move across the room. He had seen that walk before, on a fifteenth-floor landing, on a squad that climbed the whole way up without taking a breath. 
+The last bright image of the room stayed printed as a blue and green negative in Victor's eyes. In the darkness, the glowing `RA-77` stepped off the wall and began to move across the room. He had seen that walk before, on a fifteenth-floor landing, on a squad that climbed the whole way up without taking a breath. 
 
 Victor stepped back. The alarm fired. The guard stood an arm's length away, as still as it had been on the wall.
 
@@ -89,7 +87,7 @@ Its eyes ignited. A continuous, tearing flare of blue lensing split the room in 
 
 Victor raised his arm and turned away. He caught a final frame of Harlan, still short of the girl, before having to shield his own eyes. 
 
-The glare punched straight through Victor's eyelids. It took the table, the girl and his partner and turned it all into a searing white.
+The glare punched straight through Victor's eyelids. It took the table, the girl and his partner and turned it all white.
 
 He went down on the wet tile with both hands over his eyes, and the white came down with him.
 
@@ -97,9 +95,7 @@ He heard the heavy, sickening thud of a body hitting the steel door. Harlan.
 
 He could hear the sound of the synthetic changing position. The chains drawing tight against the ring on the table. Then the violent crack of the metal ring breaking into pieces.
 
-Victor reached out, grasping into the brightness. His hand closed on a wrist. Warm, a pulse going hard under his fingers, the sleeve of a jumpsuit a size too big bunching into his fist.
-
-He had her. He couldn't see but he had her, and he held on with everything he had left in him.
+Victor reached out, grasping into the brightness. His hand closed on a wrist. Warm, a pulse going hard under his fingers, the sleeve of a jumpsuit a size too big bunching into his fist. He had her. He couldn't see but he had her, and he held on with everything he had left in him.
 
 She didn't pull. She leaned down instead, close enough that he felt the breath of it against his ear, and she wasn't afraid.
 
@@ -109,8 +105,8 @@ She rolled her wrist against his thumb and she was out of his hand.
 
 Victor's eyes adjusted to the room. Harlan was already at the door. Out in the corridor, the shouting changed. Confusion. Frustration. Victor reached the door too. In the bullpen, the intake synthetic unit, the pair of synths on the holding gate, the clerk in evidence. Every machine on the floor came off standby inside the same moment.
 
-A man yelled at one to move.
+A man yelled at one to move. It didn't move. 
 
-It didn't move. Fifty officers in the dark, and not one machine moved when told. They had walked to the places where they would be most in the way, and stopped. The precinct synths were making a lane.
+Fifty officers in the dark, and not one machine moved when told. They had walked to the places where they would be most in the way, and stopped. The precinct synthetics were making a lane.
 
 Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame. He'd watched it happen an hour ago.  She had never been breaking. She'd been waiting on her ride.
