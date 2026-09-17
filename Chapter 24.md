@@ -1,4 +1,7 @@
-The single fluorescent tube overhead flickered, popping with a sharp electrical snap. Victor Graves sat still, staring across the metal table. He had been patient. He wanted the head of the Filament, and Erin Adler was the bait. If she wanted to avoid a concrete cell, she would make a deal.
+---
+music: Interstellar Drift.mp3
+---
+The single fluorescent tube overhead flickered, popping with an electrical snap. Victor Graves sat still, staring across the metal table. He had been patient. He wanted the head of the Filament, and Erin Adler was the bait. If she wanted to avoid a concrete cell, she would make a deal.
 
 The steel door to the interrogation room unlocked with a whirring mechanical clack. A synthetic wearing an Oshima police-issue black bomber jacket pushed the door inward. Harlan stepped through, carrying two steaming foam cups. The synthetic followed him inside, taking up a rigid position against the wall by the door, its eight-point cap worn low over the subtle glow of its eyes.
 
@@ -12,7 +15,7 @@ Rin didn't answer.
 
 Victor watched the fight go out of her hands. The chain slackened against the center ring. Her eyes went past Harlan's shoulder and stayed there, fixed on something at the back of the room.
 
-He followed the line of it to the door, where the guard stood against the wall with its hands loose at its sides.
+He followed her eyeline to the door, where the guard stood against the wall with its hands loose at its sides.
 
 "Door's locked, kid," he said. "And you'll be back in your cell inside the hour."
 
