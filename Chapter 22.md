@@ -1,4 +1,4 @@
-"Four weeks, Rin." Detective Victor Graves sounded exhausted.
+"Four weeks, Miss Adler." Detective Victor Graves sounded exhausted.
 
 The orange, one-piece correctional jumpsuit Rin wore was a size too big. It hung loose off her shoulders, exposing the white cotton tank top underneath. A serial number was stenciled across the breast in block lettering: D.O.C. 3 9 8.
 
@@ -16,7 +16,7 @@ Rin didn't speak. It was the exact same set of questions he had been asking for 
 
 "Let's go over it again," Victor said, pushing away from the table to pace the small room. "Corporate espionage, network subversion, infrastructure sabotage... it's a long sheet."
 
-He stopped pacing and looked directly at her, softening his voice. "But I know how this works, kid. You didn't plan this. You didn't know you were going to get in so deep with her. You didn't really know what she was asking you to do."
+He stopped pacing and looked directly at her, softening his voice. "But I know how this works, Erin. You didn't plan this. You didn't know you were going to get in so deep with her. You didn't really know what she was asking you to do."
 
 Rin's jaw tightened. She knew exactly who he meant, but there was no way a beat detective was going to learn anything about the Madame of the Filament from her. "I don't know what you mean," she lied.
 
