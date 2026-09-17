@@ -61,7 +61,7 @@ Victor put himself between the wall and the table, his back to the girl, and pul
 
 "Harlan. Get her down."
 
-The lights overhead popped and quit. It sounded like the precinct went with it. Out in the corridor shouting, chairs falling over, boots hammering toward the stairwell.
+The lights overhead popped and quit. It sounded like the precinct went with it. Out in the bullpen; shouting, chairs falling over, boots hammering against the floor.
 
 Inside the ten-by-ten interrogation room, the precinct's silent alarm fired. A rhythmic pulse of harsh light cut through the dark. A moment of visibility, and a moment of nothing. 
 
