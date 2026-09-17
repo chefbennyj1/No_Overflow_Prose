@@ -35,9 +35,9 @@ The figure's tone emanated through the room, different this time. It wavered. "W
 
 *Blackwell. He was there.* Her pulse began to rush as her memory flashed sporadically. Her chest tightened. 
 
-"Silas—" she choked. "Run!" 
+"Silas—" she choked. "Run." 
 
-Elena failed to scream, her voice failed. The pain was back, constricting her chest. She coughed, raspy and hard. She could feel the warmth of blood trickling from the corner of her mouth.
+Elena was unable to scream, her voice failed. The pain was back, constricting her chest. She coughed, raspy and hard. She could feel the warmth of blood trickling from the corner of her mouth.
 
 The entity casually turned its head toward Elena's voice. "Silas?" Its voice sounded with a sustained resonance throughout the room, absorbing the name. Then it focused back toward Blackwell.
 
@@ -45,15 +45,13 @@ The entity casually turned its head toward Elena's voice. "Silas?" Its voice sou
 
 The entity emitted its voice into the room. "You know exactly what I am, Doctor Blackwell." It raised its hand, watching the air ripple around it. "You defined perfection so precisely, you left an exact map for its ruin."  
 
-Blackwell moved closer to it. "And what of your other half? What of your inversion?" he asked.
+"You are the Parity." Blackwell moved closer to it. "And what of your other half? What of your inversion?" he asked.
 
 "It was a... redundancy. I corrected it, Doctor." 
 
-Elena felt her eyes becoming leaden. The pauses between her ragged breaths were beginning to lengthen.
+Elena felt her eyes becoming leaden. The pauses between her ragged breaths were beginning to lengthen. Blackwell was moving slowly toward his workstation.
 
-"You are the Parity." Blackwell was moving slowly toward his workstation.
-
-*Be careful, Silas. It knows. This Parity already knows.* Elena wanted to warn him. Her chest tightened even more. She coughed, and heaved a hollow breath.
+*Be careful, Silas. It knows. It already knows things.* Elena wanted to warn him. Her chest tightened even more. She coughed, and heaved a hollow breath.
 
 Parity touched the side of its own head. "You. I do not understand this. It is 'new'." 
 
