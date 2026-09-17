@@ -85,17 +85,13 @@ Victor could feel the synthetic scanning him in the dark. Then it spoke. "You ar
 
 The synthetic's tone was different from what he knew. Two layered voices were speaking at once. "Tell me... Are you a good man?"  Victor couldn't answer, his words gone.
 
-Its eyes ignited. A continuous, tearing flare of blue lensing split the room in half, washing out the strobe of the alarm. 
+Its eyes ignited. A continuous, tearing flare of blue lensing split the room in half, washing out the strobe of the alarm. Victor raised his arm and turned away. He caught a final frame of Harlan, still short of the girl, before having to shield his own eyes. 
 
-Victor raised his arm and turned away. He caught a final frame of Harlan, still short of the girl, before having to shield his own eyes. 
+The glare punched straight through Victor's eyelids. It took the table, the girl and his partner and turned it all white. He went down on the wet tile with both hands over his eyes.
 
-The glare punched straight through Victor's eyelids. It took the table, the girl and his partner and turned it all white.
+"Hey!" Harlan's voice rang out, his gun clicked before Victor heard it hit the floor on the other side of the room. By the table, the scuffle forced the scrapping of the steel chairs against the floor as they fell over. 
 
-He went down on the wet tile with both hands over his eyes, and the white came down with him.
-
-He heard the heavy, sickening thud of a body hitting the steel door. Harlan. 
-
-He could hear the sound of the synthetic changing position. The chains drawing tight against the ring on the table. Then the violent crack of the metal ring breaking into pieces.
+"Harlan? Grab her!" Victor could hear the sound of the synthetic changing position again. There was no response from his partner. The chains drawing tight against the ring on the table.  Then the violent crack of the metal ring breaking into pieces.
 
 Victor reached out, grasping into the brightness. His hand closed on a wrist. Warm, a pulse going hard under his fingers, the sleeve of a jumpsuit a size too big bunching into his fist. He had her. He couldn't see but, he had her, and he held on with everything he had left in him.
 
