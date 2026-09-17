@@ -11,7 +11,7 @@ Victor took the coffee. The heat burned straight through the cheap cup. "Harlan,
 
 Harlan ignored the warning. He sat at the table and stared directly at the girl. "Why were you in Deep Storage at the Takeda-Holden Corporate building?"
 
-Rin didn't answer.
+She didn't answer.
 
 Victor watched the fight go out of her hands. The chain slackened against the center ring. Her eyes went past Harlan's shoulder and stayed there, fixed on something at the back of the room.
 
@@ -33,7 +33,7 @@ It landed in Victor's chest like a win. Four weeks of the folder and the pacing 
 
 "Keep going."
 
-"They built a black hole in the middle of the city." Her eyes came back to Harlan. Then went past him again. "And they don't have control over it."
+"They built a black hole in the middle of the city." Her eyes came back to Harlan. Then went past him again. 
 
 Victor turned his head to catch Harlan's face and caught the mirror instead. The far wall handed him the room in reverse. Himself, bent over the table. Harlan at the end of it. The girl in orange between them. His focus drawn by the door, the guard — its head angled down toward her. Its mouth was moving.
 
@@ -41,7 +41,7 @@ No sound came out. The lips shaped the words anyway, slow, careful, a thing work
 
 And they don't have control over it.
 
-"—and they don't have control over it," Rin said.
+"—and they don't have control over it," she said.
 
 Victor turned around.
 
@@ -99,7 +99,7 @@ Victor reached out, grasping into the brightness. His hand closed on a wrist. Wa
 
 She didn't pull. She leaned down instead, close enough that he felt the breath of it against his ear, and she wasn't afraid.
 
-"I told you," Rin said. "They don't have control."
+"I told you," she said. "They don't have control."
 
 She rolled her wrist against his thumb and she was out of his hand.
 
