@@ -14,7 +14,7 @@ Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital
 
 "Iris," Elena rasped, her throat still raw. 
 
-"I can't do this," Iris said, her hands hovering nervously over the medical monitors, unsure what to touch. "I can't do this. There are two Renewal agents outside that door. If I wheel you out there, they are going to look at me, and they are going to know, and they are going to shoot us."
+"I can't do this," Iris said, her hands hovering nervously over the medical monitors. "I can't do this. Pretending to be on staff is one thing, but escape. There are two Renewal agents outside that door. If I wheel you out there, they are going to look at me, and they are going to know, and they are going to shoot us."
 
 "Iris. Look at me."
 
