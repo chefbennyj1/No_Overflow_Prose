@@ -7,19 +7,19 @@ He didn't own any part of this view. He lacked the inheritance to buy a single s
 
 The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the Zen-like patterns etched into the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
 
-There was't a need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
+There didn't need to turn around to acknowledge he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
 Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
 Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the polished concrete of  the atrium pillars behind her. A gust of wind whipped the terrace, pushing her natural, shoulder-length hair across the dark skin of her face.
 
-"Yes, Doctor Blackwell," she replied. Her golden eyes darted constantly, tracking the weather calculations on the door's blue holograms as they reflected in their glassiness.
+"Yes, Doctor Blackwell," she replied. Her golden eyes darted constantly, tracking the weather calculations on the door's blue holographics as they reflected in their glassiness.
 
 *Nervous*,  Blackwell thought, *and she should be*.  They were about to tear a hole directly into the physical boundaries of their known universe, and fill it with the mass of an anti-star.
 
 "The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But, you've got the three hundred and twenty terawatts," She said.
 
-Blackwell raised the cigarette to his lips one last time, inhaling until the end burned close to the filter. He held the smoke in his lungs for another long second, then exhaled and dropped the butt over the edge of the railing.
+Raising his cigarette to his lips one last time, the doctor inhaled until the end burned close to the filter. He held the smoke in his lungs for another long second, then exhaled and dropped the butt over the edge of the railing.
 
 The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the lower city. The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima, they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
@@ -31,7 +31,7 @@ Past the primary control consoles, the floor was manned by a mix of human techni
 
 Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock. What ascended through the facility's foundation, and protruded into this observation chamber was a cluster of white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
 
-A layer of opaque gas rolled across the engine pit, obscuring the white paneled floor beneath. It broke against the stark topology of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was chilling, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
+A layer of opaque gas rolled across the engine pit, obscuring the white paneled floor beneath. It broke against and circled the edges of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was chilling, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
 
 "Main Fusion's supply is a drop in the bucket for what we're asking it to unearth, Miss Marlowe," Blackwell said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
 
@@ -86,7 +86,7 @@ She cast a quick glance up at the Board's display, and then to Blackwell—an ex
 
 Blackwell side-eyed the exchange, waiting to see how Elena would discipline the irritating disruption. 
 
-Elena stepped into Iris's personal space. She didn't even look at the data. "That is a predicted resonance. Go recalculate the gravity phase changes."
+Stepping into Iris's personal space, she didn't look at the data. "That is a predicted resonance. Go recalculate the gravity phase changes."
 
 Iris flinched, pulling the tablet tight against her chest. "Yes, ma'am. Of course. Predicted resonance."
 

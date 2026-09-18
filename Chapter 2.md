@@ -1,10 +1,13 @@
+---
+music: infiltration.mp3
+---
   Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers", the daunting arcologies of the city. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead. 
   
-  The atmosphere was bitter, and thick with exhaust. Despite the rain, the morning sun struggled to pierce the smog, washing the wet streets in a pale, tarnished light. Under the convective sunshower, droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained from filtering the air. Only the synthetics walked barefaced. The freezing rain beaded off their vinyl skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
+  The atmosphere was bitter, and thick with exhaust. Despite the rain, the morning sun struggled to pierce the smog, washing the wet streets in a pale, tarnished light. Under the convective sun-shower, droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained from filtering the air. Only the synthetics walked barefaced. The freezing rain beaded off their vinyl skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
 
    Battered Takeda-Holden surveillance cameras clung to the steel poles of the intersections, their casings dented from thrown rocks, lenses tracking the crowds.
 
-  Rising from the center of the old blocks was a Company office building. A temporary, security barricade had been erected on the ground floor to protect the building's lower half from the possibility of uneasy gatherings from the lower districts. The monolith structure was a pristine slab of mirrored, tinted glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
+  Rising from the center of the old blocks was a Company office building. A temporary, security barricade had been erected on the ground floor to protect the building's lower half from the possibility of uneasy gatherings. The monolith structure was a pristine slab of mirrored, tinted glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
   
   Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, Rin stood in the company hallway, pulling wires from an office's magnetic lock.
   
@@ -32,7 +35,7 @@ The terminal awoke, projecting a Takeda-Holden Corporation login screen. A minim
 
 Lines of access data spooled across the screen of the SBC, mirroring the forced terminal window on the workstation's display. The malicious code initiated a brute-force assault. The program she named after her own alias: *Null*. She waited impatiently for the firewall to break. 
 
-Down the hall, the elevator doors tried to close on the steel wrench for the fifth time. *Clunk... ding.* The metal doors reopened.
+Down the hall, the elevator doors tried to close on the steel wrench for the fifth time. *Clunk-ding.* The metal doors reopened.
 
 The SBC chirped, and the login on the terminal screen flashed simultaneously, granting access to the executive files. 
 
@@ -72,7 +75,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 Victor reached the steel fire-door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—an augmented revolver that looked like a relic snatched from another century, with retrofitted magnetic rails that vibrated with a low charge, and a red indicator light blinking on the side to signify its readiness to fire. 
 
-Victor stepped onto the landing in silence. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk... ding.* Victor noted the noise, his attention drawn quickly to the opened door. Through the opening in the suite, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
+Victor stepped onto the landing in silence. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk-ding.* Victor noted the noise, his attention drawn quickly to the opened door. Through the opening in the suite, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
 
 Harlan burst through the stairwell door a second later, his weapon raised. "Jesus, Victor! You're being reckless—"
 
@@ -96,7 +99,7 @@ Rin hooked her finger through the grenade's metal ring.
 
 Out in the hall, Victor tightened his grip on his revolver, stepping toward the office door. Harlan sidestepped beside him, carefully pulling back the slide of his pistol. The metal clicked, and he guided the slide softly forward to chamber a round, then gave Victor a tight nod.
 
-But before they could breach the office, the familiar sound echoed through the hallway. *Clunk... ding*.
+But before they could breach the office, the familiar sound echoed through the hallway. *Clunk-ding*.
 
 Only this time, the metallic ring was hollow and slightly out of tune.
 
