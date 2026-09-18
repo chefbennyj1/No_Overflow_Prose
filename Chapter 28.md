@@ -28,11 +28,11 @@ Iris swallowed hard. "They're going to want to see the body."
 
 Iris understood. Turning to the room's integrated terminal, she swiped the stolen medical badge pinned to her coat. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
 
-The screen flashed full of health records. Her hand hovered nervously over the medical monitor, as she found what she was looking for. "This one... maybe?" Her finger found the button. A muffled bell alarm began to sound down the hall, in the empty surgical suite she had triggered the Code Blue in at the far opposite end of the corridor. She looked back at Elena with wide eyes, "Yup. That one..."
+The screen flashed with health records. Her hand hovered nervously over the medical monitor. "This one... maybe?" Her finger found the button. A muffled bell alarm began to sound down the hall from the empty surgical suite at the far opposite end of the corridor. She looked back at Elena with wide eyes. "Yup. That one..."
 
 Ninety seconds.
 
-Through the heavy door, they could hear the frantic shouting of the floor nurses and the squeak of a crash cart being rushed rapidly away from their room. The medical staff was distracted.
+Through the heavy door, they could hear the frantic shouting of the floor nurses and the squeak of a crash cart being rushed away from their room. The medical staff was distracted.
 
 "Now," Elena breathed. "Flatline the monitor."
 
