@@ -75,7 +75,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 Victor reached the steel fire-door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—an augmented revolver resembling a relic snatched from another century. The guns  retrofitted magnetic rails vibrated with a low charge, and a red indicator light blinked, signifying its readiness to fire. 
 
-Victor stepped onto the landing in silence. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk-ding.* Victor noted the noise, his attention drawn quickly to the opened door. Through the opening in the suite, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
+Victor stepped onto the landing in silence. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk-ding.* Victor noted the noise, his attention drawn quickly to the opened door. Through the opening, in the suite, he could see a section of the office's picture window; the glowing blue wireframe projections.
 
 Harlan burst through the stairwell door a second later, his weapon raised. "Jesus, Victor! You're being reckless—"
 
@@ -131,7 +131,7 @@ Victor and Harlan stumbled backward, breaking through the fire door and collapsi
 
 Harlan leaned heavily against the concrete wall, his lungs burning as he gasped for air. "God... damn it!" he wheezed. "Did you... did you get a good look at her?"
 
-Victor remained silent for a moment, his red, bloodshot eyes fixed on the metal of the fire door. He replayed the split-second of eye contact in his mind. The sharp eyes. The feminine silhouette backlit by the bright anomaly data. 
+Victor remained silent for a moment, his red, bloodshot eyes fixed on the metal of the fire door. He replayed the split-second of eye contact in his mind. The sharp eyes. The feminine silhouette backlit by the bright light of the office. 
 
 "I did," Victor said, catching his breath.
 
@@ -143,7 +143,7 @@ Harlan grabbed Victor’s arm, his voice dropping to a harsh whisper. "Victor...
 
 Their humanity was obscured by glossy, faceless helmets. A single, vertical slice of heated crimson cut down the center of the black glass, still flaring from their climb up the stairwell. 
 
-The lead agent didn't speak. He stepped directly into Victor's personal space, towering over him. The red seam down the center of his face pulsed as it scanned Harlan's upheld Oshima police badge. The agent then snapped a deliberately bright tactical light on, burning directly into Victor's sensitive eyes.
+The lead agent didn't speak. He stepped directly into Victor's personal space, towering over him. The red seam down the center of his face pulsed as it scanned Harlan's upheld Oshima police badge. The agent then snapped a deliberately bright tactical light onto Victors face, burning directly into his sensitive eyes.
 
 Victor was still holding his revolver. The entire squad shifted towards him in response. A silent, lethal threat.
 
