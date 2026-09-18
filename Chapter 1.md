@@ -5,9 +5,9 @@ Silas Blackwell took a drag from his cigarette, the ember flaring against the bl
 
 He didn't own any part of this view. He lacked the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke blurring the Zen-like patterns etched into the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
+The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the Zen-like patterns etched into the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
 
-There was no need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
+There was't a need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
 Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
