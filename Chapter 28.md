@@ -1,3 +1,6 @@
+---
+music: Interstellar Drift.mp3
+---
 The fluorescent lights in the sterile hospital room buzzed and flickered. 
 
 In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished personal relations synthetic—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
@@ -56,7 +59,7 @@ Iris pushed the gurney violently out into the hallway, her face flushed with adr
 
 The guard on the right stepped forward, his hand reaching for the edge of the white sheet. "Doctor, we need to visually confirm—"
 
-"Do not touch that sheet!" Iris snapped. She glared up at him, her chest heaving. "The power surge fried her localized life-support. She is in active necrosis. Unless you want to explain to Silas Blackwell why you breached a Class-4 biological containment field, you will get out of my way!"
+"Do not touch that sheet!" Iris snapped. She glared up at him, her chest heaving. "The power surge fried her localized life-support. She is in active necrosis. Unless you want to explain to Silas Blackwell why you breached a Class-4 biological containment, you will get out of my way!"
 
 The guard hesitated, his hand hovering over the sheet. 
 
@@ -64,13 +67,11 @@ The guard hesitated, his hand hovering over the sheet.
 
 The guard took a half-step back, intimidated by the weight of her panic. Iris didn't wait for him to reconsider. She put her weight into the gurney and pushed it rapidly down the polished corridor. 
 
-The wheels squeaked against the linoleum. From beneath the sheet, Elena listened to the heavy, synchronized boots of the Renewal guards falling away behind them. 
-
-"Keep moving," Elena whispered from the dark. 
+The wheels squeaked against the linoleum. From beneath the sheet, Elena whispered, "Keep moving."  
 
 Up ahead, the digital display above the elevators dinged. The steel doors slid open, revealing a four-man Renewal disposition team stepping out onto the floor. They were fully armed, moving with mechanical precision to secure the asset they thought was still in the room. 
 
-Iris froze, her hands white knuckled the metal rail of the gurney. The disposition team was walking straight toward her. 
+Iris slowed her pace, her hands white knuckled the metal rail of the gurney. The disposition team was walking straight toward her. 
 
 "Iris," Elena warned softly from under the sheet. "Keep walking."
 
@@ -80,7 +81,7 @@ Iris reached the open freight elevator and shoved the gurney inside. She slammed
 
 The moment they were alone, Iris collapsed against the wall, sliding down to the floor as she gasped for air. 
 
-Elena pulled the sheet off her face and sat up in the gurney, gripping her ribs. "Leave the bed," Elena ordered, sliding off the mattress and landing unsteadily on her bare feet. 
+Elena pulled the sheet off her face and sat up in the gurney, gripping her ribs. "Leave the bed," Elena ordered, sliding off the mattress and landing unsteadily on her bare feet. "It's got patient tracking in it."
 
 Iris threw Elena's arm over her shoulder, supporting her weight as the elevator descended. When the doors opened to the dark, echoing sub-level morgue, Iris hit the button to send the elevator—and the gurney—back up to the top floor. 
 
