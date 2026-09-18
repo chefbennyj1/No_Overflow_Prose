@@ -53,7 +53,7 @@ As the authorizations copied to her drive, a folder in Blackwell's directory cau
 
 The blue holographic data on the glass was a scaled projection of the exact same tower schematic.
 
-Rin moved away from the desk, and stepped back until the wireframe on the glass lined up with the skyline behind it. The projection perfectly eclipsed a building in the distance. Whatever Blackwell was monitoring, it was in that tower, and it had been tearing at the city's power grid for the better part of a month.
+Rin moved away from the desk. She stepped back until the wireframe on the glass lined up with the skyline behind it. The projection perfectly eclipsed a building in the distance. Whatever Blackwell was monitoring, it was in that tower, and it had been tearing at the city's power grid for the better part of a month.
 
 Before she could dig deeper, the authorization download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. She stopped for a moment, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
@@ -73,7 +73,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 "We gotta get to Null before Corporate Renewal," Victor said, his gaze fixed on the landing above. "If Takeda-Holden finds them first, months of work will have been for nothing." Victor turned back, looking at Harlan on the landing below him. "And we want those mafia bastards."
 
-Victor reached the steel fire-door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—an augmented revolver that looked like a relic snatched from another century, with retrofitted magnetic rails that vibrated with a low charge, and a red indicator light blinking on the side to signify its readiness to fire. 
+Victor reached the steel fire-door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—an augmented revolver resembling a relic snatched from another century. The guns  retrofitted magnetic rails vibrated with a low charge, and a red indicator light blinked, signifying its readiness to fire. 
 
 Victor stepped onto the landing in silence. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk-ding.* Victor noted the noise, his attention drawn quickly to the opened door. Through the opening in the suite, he could see a section of the office's picture window; the glowing blue wireframe projection that outlined a towering building in the distant city skyline.
 
