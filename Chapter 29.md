@@ -1,6 +1,6 @@
 The streets of the lower city were fueled with outrage. Freezing rain hissed into steam against the hulls of the burning mag-cars. The air was black with soot and the sharp spontaneous cracks, and muzzle flashes of the Corporate Renewal's semi-automatic rifles firing into the fog. The boil had finally erupted. 
 
-In the distance, mobs marched menacingly through the streets toward the brigades of heavily shielded Renewal agents. Crude homemade weapons, and rifles in hand. A rogue homemade explosive detonated against the agents line. The shockwave throwing the faceless black soldiers back, creating a gap, and rattling the concrete. The hole immediately filled with replacement agents. And the chaotic march of the citizens continued forward.
+In the distance, mobs marched menacingly through the streets toward the brigades of heavily shielded Renewal agents. Crude homemade weapons, and rifles in hand. A rogue homemade explosive detonated against the agents line—the shockwave throwing the faceless black soldiers back, creating a gap, and rattling the concrete. The hole immediately filled with replacement agents. And the chaotic march of the citizens continued forward.
 
 Fifty stories beneath the burning streets, the subterranean Mnemosyne Core had turned into a tomb of absolute silence. For a month it sat heavily insulated behind its locked blast doors and three feet of lead-lined concrete, detached from the revolution above.
 
@@ -30,7 +30,7 @@ Blackwell’s brow furrowed. He snapped his head back to the left. She was still
 
 He looked back to the right. She was still by the doors. 
 
-A cold, primal dread seized his chest. She hadn't duplicated herself. She was fluidly vibrating between the two points in the room. 
+A cold, primal dread seized his chest. She was fluidly vibrating between the two points in the room. 
 
 He was trapped in the room with something moving faster than biology could process, and this time he was the one cornered.
 
