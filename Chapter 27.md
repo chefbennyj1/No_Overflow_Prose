@@ -1,16 +1,16 @@
-The streets of Oshima had fractured. The usual gridlock of pedestrians in the intersections was gone. The streets were empty, replaced by an unsettled energy. Down the block, the sound of a heavy metal pipe shattering reinforced glass. The falling glass echoed sharply over the rain. The people of the Dead Circuits were targeting Takeda-Holden supply stores. Shadows slipped through the jagged frames of the Company windows, pulling out armfuls of clean air filters, medical supplies, and heavy industrial batteries.
+The streets of Oshima had fractured. The usual gridlock of pedestrians in the intersections was gone. The streets were empty, replaced by an unsettled energy. Down the block, the sound of a heavy metal pipe shattering reinforced glass. The falling glass echoed sharply over the rain. The people of the Dead Circuits were targeting Takeda-Holden supply stores. Shadows slipped through the jagged frames of the Company windows, pulling out armfuls of loot and running into the fog.
 
-A group of civilians rushed past Rin, their shoulders colliding with hers. They were sprinting hard, their faces pale, desperately checking over their shoulders. Rin didn't need to ask them why they were running. The heavy, mechanical thud of synchronized boots echoed from the adjacent block. She knew exactly what was marching up that street. 
+A group of civilians rushed past Rin, their shoulders colliding with hers. They were sprinting hard, their faces pale, desperately checking over their shoulders. The heavy, mechanical thud of synchronized boots echoed from the adjacent block. She knew exactly why they were running and what was marching up that street. 
 
 Rin kept her head down, moving quickly through the flooded intersection. The top half of her orange lockup jumpsuit was peeled down and tied tightly around her waist. She wore a damp white cotton tank top, the intricate, dark ink of her tattoos stark against her skin. 
 
-She was following Vigil. 
+She was following Vigil.
 
-It was jarring to watch the entity move, gravity seemed foreign to her. Vigil's gait was stiff and calculated, as if she were manually processing the physics of every single step. Her heel caught the edge of a cracked paving stone, and the machine stumbled, nearly falling into the street before catching herself on a rusted streetlamp. 
+Seeing the entity move through the physical world was deeply unnerving. Vigil moved with a hyper-optimized precision. Her gait was too perfect, lacking the natural sway of a human. She processed the cracked paving stones and the flooded streets with the exact, calculated efficiency of a Renewal tactical agent, never breaking stride, never wasting a single ounce of kinetic energy. 
 
-"She's still getting used to the hardware," a familiar voice called out over the rain. 
+"She moves like one of them," a familiar voice called out over the rain. 
 
-Rin stopped. Harper was standing in the mouth of a narrow alleyway, her leather jacket glistening with rain, watching the synthetic struggle with the sidewalk. 
+Rin stopped. Harper was standing in the mouth of a narrow alleyway, her leather jacket glistening with rain, her eyes locked on the synthetic. 
 
 A wave of relief crashed into Rin's chest. She ran toward Harper, wrapping her arms around her in a tight, desperate hug. It had been four weeks of hell. 
 
