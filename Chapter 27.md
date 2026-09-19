@@ -10,7 +10,7 @@ Seeing the entity move through the physical world was deeply unnerving. Vigil mo
 
 "She moves like one of them," a familiar voice called out over the rain. 
 
-Rin stopped. Harper was standing in the mouth of a narrow alleyway, her leather jacket glistening with rain, her eyes locked on the synthetic. 
+Rin stopped. Harper was standing in the mouth of a narrow alleyway, her leather jacket glistening with rain, her eyes locked on her. 
 
 A wave of relief crashed into Rin's chest. She ran toward Harper, wrapping her arms around her in a tight, desperate hug. It had been four weeks of hell. 
 
@@ -18,4 +18,4 @@ A wave of relief crashed into Rin's chest. She ran toward Harper, wrapping her a
 
 Harper hugged her back, her grip firm. When they pulled apart, Harper looked past her, out at the chaotic street. The sharp crack of a rifle echoed in the distance. 
 
-"Something is going on out here," Harper said, her voice tight. "I can feel it. The whole city feels like it's holding its breath."
+"Something is going on out here," Harper said, her voice tight. "The pots boiling over."
