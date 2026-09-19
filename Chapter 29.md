@@ -2,7 +2,7 @@ The streets of the lower city were fueled with outrage. Freezing rain hissed int
 
 In the distance, mobs marched menacingly through the streets toward the brigades of heavily shielded Renewal agents. Crude homemade weapons, and rifles in hand. A rogue homemade explosive detonated against the agents line—the shockwave throwing the faceless black soldiers back, creating a gap, and rattling the concrete. The hole immediately filled with replacement agents. And the chaotic march of the citizens continued forward.
 
-Fifty stories beneath the burning streets, the subterranean Mnemosyne Core had turned into a tomb of absolute silence. For a month it sat heavily insulated behind its locked blast doors and three feet of lead-lined concrete, detached from the revolution above.
+Fifty stories beneath the burning streets, the subterranean Mnemosyne Core had turned into a tomb of dead silence. For a month it sat heavily insulated behind its locked blast doors and three feet of lead-lined concrete, detached from the revolution above.
 
 Silas Blackwell walked slowly down the central gantry, his polished shoes clicking against the steel grates. 
 
@@ -10,19 +10,23 @@ In the center of the dark laboratory, the cylindrical containment field was the 
 
 Blackwell stopped at his terminal. The interface's holographic screen displayed the face of the polished public relations synthetic delivering the evening news broadcast. Blackwell could see what was happening outside the lab. Beside the stream were red diagnostic warnings. The engine's core singularity—the black hole he had manufactured to process the being in front of him—was expanding. 
 
-"The architecture is collapsing," Blackwell said, not looking up from the screen. "Without the Vigil to maintain the core. The singularity is in a runaway state." 
+"The architecture is collapsing," Blackwell said, not looking up from the screen. "Without the Vigil to maintain the core, the singularity is in a runaway state." 
 
 "Indeed," Parity's voice resonated across the containment. She pushed her porcelain finger firmly against the containment field. Circling it, along the electricity. "The void is... hungry, Doctor."
 
-Blackwell observed Parity's fingers as they sparked blue and white against the containment cylinder. "The electro-magnetic field is unbreakable, Parity." Blackwell didn't like how comfortable she seemed to be inside the cage. "I've created a special kind of vacuum."
+Blackwell observed Parity's fingers as they sparked blue and white against the containment cylinder. "The electro-magnetic field is unbreakable, Parity." Blackwell didn't like how comfortable she was inside the cage. "I've created a special kind of vacuum."
 
-Parity stopped running her fingers along the containment field. She tilted her glassy head. Her eyes locked onto him through the burning wall of the containment field. Her voice echoed along its perimeter, "You know, Doctor, I have spent quite a bit of time in your cage." Blackwell could feel her stare cutting through him. "Long enough to get to know it..." suddenly her voice was no longer tied to the electricity of the containment field, it spoke though vibrations in the floor, in the glass of the pit. It vibrated in the tools on Blackwell's desk, "... very, very, well." 
+Parity stopped running her fingers along the containment field. She tilted her glassy head. Her eyes locked onto him through the burning wall of the containment field. Her voice echoed along its perimeter. "You know, Doctor, I have spent quite a bit of time in your cage." Blackwell could feel her stare cutting through him. "Long enough to get to know it..." Suddenly her voice was no longer tied to the electricity of the containment field; it spoke through vibrations in the floor, in the glass of the pit. It vibrated in the tools on Blackwell's desk. "... very, very, well." 
+
+On Blackwell's terminal, the digital clock display violently stuttered. It ticked from 23:41, jumped forward to 23:44, and snapped backward to 23:40. 
+
+Localized time was fracturing. 
 
 Before Blackwell could respond, she was no longer floating in the cylindrical containment field. It flickered, groaned, and died. 
 
 Blackwell froze. Parity was out.
 
-His heart spiked. He slowly turned his head to the left, peering into the shadows of the server racks. Parity was standing there, her pale form perfectly still in the red light. 
+His heart spiked. He slowly turned his head to the left, peering into the shadows of the server racks. Parity was standing there, her pale form still in the red light. 
 
 He didn't breathe. Keeping his hand near the terminal's manual override, he carefully turned his head to the right, checking the heavy steel blast doors. 
 
