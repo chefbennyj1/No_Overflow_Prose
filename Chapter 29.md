@@ -1,55 +1,90 @@
-The streets of the lower city were fueled with outrage. Freezing rain hissed into steam against the hulls of the burning mag-cars. The air was black with soot and the sharp spontaneous cracks, and muzzle flashes of the Corporate Renewal's semi-automatic rifles firing into the fog. The boil had finally erupted. 
+---
+music: Interstellar Drift.mp3
+---
+The fluorescent lights in the sterile hospital room buzzed and flickered. 
 
-In the distance, mobs marched menacingly through the streets toward the brigades of heavily shielded Renewal agents. Crude homemade weapons, and rifles in hand. A rogue homemade explosive detonated against the agents line—the shockwave throwing the faceless black soldiers back, creating a gap, and rattling the concrete. The hole immediately filled with replacement agents. And the chaotic march of the citizens continued forward.
+In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished public relations synthetic—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
 
-Fifty stories beneath the burning streets, the subterranean Mnemosyne Core had turned into a tomb of dead silence. For a month it sat heavily insulated behind its locked blast doors and three feet of lead-lined concrete, detached from the revolution above.
+Iris stood by the window, looking back at the screen. Her stolen white lab coat fell from her shoulders, stopping inches above the floor. She pushed her black-rimmed glasses up her nose, her hands trembling. 
 
-Silas Blackwell walked slowly down the central gantry, his polished shoes clicking against the steel grates. 
+Out the window, the Oshima cloud cover extended out below her. In the distance, red and auburn light glowed and swelled beneath the clouds. Plumes of dark smoke rose and dirtied the air the color of soot.
 
-In the center of the dark laboratory, the cylindrical containment field was the only illumination in the room. Inside the cylinder, suspended inches above the floor, the ceramic form of Parity waited. 
+The lights overhead flickered again. This time, they stayed dim longer before surging back to a harsh white. 
 
-Blackwell stopped at his terminal. The interface's holographic screen displayed the face of the polished public relations synthetic delivering the evening news broadcast. Blackwell could see what was happening outside the lab. Beside the stream were red diagnostic warnings. The engine's core singularity—the black hole he had manufactured to process the being in front of him—was expanding. 
+Iris backed away from the window, her breathing shallow and rapid. "It's chaos out there," she whispered, her voice tight with panic. "The Company is going to lock down the hospital. We're out of time."
 
-On the corner of his screen, the digital clock display violently stuttered. It ticked from 23:41, jumped forward to 23:44, and snapped backward to 23:40. Localized time was fracturing.
+Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital gown clinging to her battered frame. She watched Iris pace at the foot of the mattress. 
 
-"The architecture is collapsing," Blackwell said, not looking up from the screen. "Without the Vigil to maintain the core, the singularity is in a runaway state." 
+"Iris," Elena rasped, her throat still raw. 
 
-"Indeed," Parity's voice resonated across the containment. She pushed her porcelain finger firmly against the containment field. Circling it, along the electricity. "The void is... hungry, Doctor."
+"I can't do this," Iris said. "I can't do this. Pretending to be on staff is one thing, but escape. There are two Renewal agents outside that door. If I wheel you out there, they are going to look at me, and they are going to know, and they are going to shoot us."
 
-Blackwell observed Parity's fingers as they sparked blue and white against the containment cylinder. "The electro-magnetic field is unbreakable, Parity." Blackwell didn't like how comfortable she was inside the cage. "I've created a special kind of vacuum."
+"Iris. Look at me."
 
-Parity stopped running her fingers along the containment field. She tilted her glassy head. Her eyes locked onto him through the burning wall of the containment field. Her voice echoed along its perimeter. "You know, Doctor, I have spent quite a bit of time in your cage." Blackwell could feel her stare cutting through him. "Long enough to get to know it..." Suddenly her voice was no longer tied to the electricity of the containment field; it spoke through vibrations in the floor, in the glass of the pit. It vibrated in the tools on Blackwell's desk. "... very, very, well." 
+She stopped pacing, and looked at the woman in the bed. Physically broken, barely able to sit up, but Elena's eyes held the hardened, clinical resolve of the architect who had help built the Mnemosyne engine. 
 
-Before Blackwell could respond, she was no longer floating in the cylindrical containment field. It flickered, groaned, and died. 
+"You are a doctor," Elena said, her voice quiet and absolute. "You are not pretending. You are in control. Put the sheet over me. It's time to go."
 
-Blackwell froze. Parity was out.
+Iris swallowed hard. "They're going to want to see the body."
 
-His heart spiked. He slowly turned his head to the left, peering into the shadows of the server racks. Parity was standing there, her pale form still in the red light. 
+"Then you don't let them." Elena shifted her weight, falling back against the pillow. "But first, you need to clear the floor."
 
-He didn't breathe. Keeping his hand near the terminal's manual override, he carefully turned his head to the right, checking the heavy steel blast doors. 
+Iris understood. Turning to the room's integrated terminal, she swiped the stolen medical badge pinned to her coat. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
 
-Parity was standing there, too. 
+The screen flashed with health records. Her hand hovered nervously over the medical monitor. "This one... maybe?" Her finger found the button. A muffled bell alarm began to sound down the hall from the empty surgical suite at the far opposite end of the corridor. She looked back at Elena with wide eyes. "Yup. That one..."
 
-Blackwell’s brow furrowed. He snapped his head back to the left. She was still by the server racks. 
+Ninety seconds.
 
-He looked back to the right. She was still by the doors. 
+Through the heavy door, they could hear the frantic shouting of the floor nurses and the squeak of a crash cart being rushed away from their room. The medical staff was distracted.
 
-A cold, primal dread seized his chest. She was fluidly vibrating between the two points in the room. 
+"Now," Elena breathed. "Flatline the monitor."
 
-He was trapped in the room with something moving faster than biology could process, and this time he was the one cornered.
+Iris turned to the console. She tapped the screen, overriding the localized life support sensors. The rhythmic beeping of Elena's heart monitor instantly flatlined into a piercing, continuous alarm. 
 
-He turned to watch the one on his right, quickly turning back to the one on his left. While he stared paralyzed at both of her forms... the afterimage on the right drifted an inch closer. 
+Iris pulled the heavy white hospital sheet up, dragging it over Elena's chest, over her face, until the woman was hidden. 
 
-Then the one on the left drifted closer.
+"I can't do this," Iris whispered to the sheet. 
 
-Blackwell blinked. He snapped his gaze to the right, desperate to track the movement. 
+"You can," Elena's muffled voice came from beneath the fabric. 
 
-The space was empty. 
+Iris shoved her glasses up her nose one last time. She slammed her hand against the electronic door release. 
 
-He threw his head back to the left. The shadows by the server racks were bare. Both versions of her were gone. 
+The heavy door slid open. The piercing sound of the flatline alarm flooded the quiet corridor. 
 
-The dark laboratory was still. 
+The two Corporate Renewal agents instantly turned. They were imposing, clad in identical black tactical armor. The thin, vertical crimson seams cutting down the center of their faceless black helmets.
 
-A sudden, sharp cold pricked the fine hairs on the back of his neck. Blackwell froze as he felt the crawling crackle of an electrical static charge building in the millimeter of space between the cotton collar of his lab coat and his bare skin. 
+Iris pushed the gurney violently out into the hallway, her face flushed with adrenaline and panic. 
 
-She was floating directly behind him, her ceramic form locked in a silent rise and fall.
+"Move!" Iris yelled, her voice cracking with desperate authority. "Jane Doe is dead!"
+
+The guard on the right stepped forward, his hand reaching for the edge of the white sheet. "Doctor, we need to visually confirm—"
+
+"Do not touch that sheet!" Iris snapped. She glared up at him, her chest heaving. "The power surge fried her localized life-support. She is in active necrosis. Unless you want to explain to Silas Blackwell why you breached a Class-4 biological containment, you will get out of my way!"
+
+The guard hesitated, his hand hovering over the sheet. 
+
+"I am transporting the body to the sub-level morgue," Iris snapped, pushing the gurney past him. "Now step aside!"
+
+The guard took a half-step back, intimidated by the weight of her panic. Iris didn't wait for him to reconsider. She put her weight into the gurney and pushed it rapidly down the polished corridor. 
+
+The wheels squeaked against the linoleum. From beneath the sheet, Elena whispered, "Keep moving."  
+
+Up ahead, the digital display above the elevators dinged. The steel doors slid open, revealing a four-man Renewal disposition team stepping out onto the floor. They were fully armed, moving with mechanical precision to secure the asset they thought was still in the room. 
+
+Iris slowed her pace, her hands white knuckled the metal rail of the gurney. The disposition team was walking straight toward her. 
+
+"Iris," Elena warned softly from under the sheet. "Keep walking."
+
+Iris forced her legs to move. She kept her head down, pushing the gurney forward. The disposition team marched past her in the opposite direction, their weapons raised, moving toward the room she had just evacuated. They didn't even look twice at the terrified doctor pushing a corpse. 
+
+Iris reached the open freight elevator and shoved the gurney inside. She slammed her hand against the sub-level button and the doors sealed shut. 
+
+The moment they were alone, Iris collapsed against the wall, sliding down to the floor as she gasped for air. 
+
+Elena pulled the sheet off her face and sat up in the gurney, gripping her ribs. "Leave the bed," Elena ordered, sliding off the mattress and landing unsteadily on her bare feet. "It's got patient tracking in it."
+
+Iris threw Elena's arm over her shoulder, supporting her weight as the elevator descended. When the doors opened to the dark, echoing sub-level morgue, Iris hit the button to send the elevator—and the gurney—back up to the top floor. 
+
+The doors closed, sending the telemetry signal away. 
+
+"We did it," Iris breathed, looking at the blinking exit sign at the end of the dark corridor. "We actually did it."
