@@ -3,11 +3,12 @@ music: Final Surge.mp3
 ---
 The streets of Oshima had fractured. They were empty, replaced by an unsettled energy. The usual flow of pedestrians in the intersections gone.  Down the block, the sound of metal shattering glass. The falling glass echoed sharply over the rain. The people of the Dead Circuits were targeting Takeda-Holden supply stores. Shadows slipped through the jagged frames of the Company windows, pulling out armfuls of stolen supplies and running into the night.
 
+Rin and Vigil were moving fast, running through the barren streets. Rin had no idea where they were going, but she was following Vigil.
+
 Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin moved quickly. Broken glass cracked under her worn inmate-issued running shoes. She had peeled down and tied the top half of her jumpsuit tightly around her waist to hide the prisoner orange, and the black D.O.C. stencil. Her white cotton tank top was damp, clinging to her wet skin, leaving her tattooed arms bare. 
 
-She was following Vigil.
+Seeing the Vigil move through the physical world in an unarmored Renewal agents body, was deeply unnerving. She moved with a hyper-optimized precision. Her gait was perfect, lacking even the synthesized natural sway programmed into generic synthetics. 
 
-Seeing the entity move through the physical world in an unarmored Renewal agents body, was deeply unnerving. Vigil moved with a hyper-optimized precision. Her gait was perfect, lacking even the synthesized natural sway programmed into generic synthetics. She processed the cracked pavement and the flooded streets with calculated, kinetic efficiency.
 A group of civilians rushed past them on the pavement. Vigil stepped sideways, but they knocked Rin as they ran. They were sprinting hard, their faces desperately checking over their shoulders. Rin knew exactly why they were running and what was marching up the street.
 One of the looters looked at Rin, then looked at Vigil. His eyes grew wide, all color ran from his face. He stared at the `RA` serial number glowing under Vigil's eye. He fell into Rin, she could hear him curse as he pushed on her frantically before getting his barring and running fast.
 
