@@ -6,13 +6,13 @@ Fifty stories beneath the burning streets, the subterranean Mnemosyne Core had t
 
 Silas Blackwell walked slowly down the central gantry, his polished shoes clicking against the steel grates. 
 
-In the center of the dark laboratory, the cylindrical containment field burned with a harsh, blinding light. It was the only illumination in the room. Inside the cylinder, suspended inches above the floor, the pale, glassy form of Parity waited. 
+In the center of the dark laboratory, the cylindrical containment field was the only illumination in the room. Inside the cylinder, suspended inches above the floor, the ceramic form of Parity waited. 
 
-Blackwell stopped at his terminal. The glass interface was bleeding with red diagnostic warnings. The engine's core singularity—the black hole he had manufactured to process the dead circuits—was expanding. The mathematical boundaries were failing. 
+Blackwell stopped at his terminal. The interfaces holographic screen displaying the face the polished personal relations synthetic telling the evening news broadcast.  Blackwell could see what was happening outside the lab. Beside the stream were red diagnostic warnings. The engine's core singularity—the black hole he had manufactured to process the being in front of him—was expanding. 
 
-"The architecture is collapsing," Blackwell said, not looking up from the screen. "You are pulling too much power from the grid."
+"The architecture is collapsing," Blackwell said, not looking up from the screen. "With out the Vigil to maintain the core. The singularity is in a runaway state."
 
-"I am pulling nothing," Parity's voice resonated through the dark room, vibrating off the steel walls without a source. "The void is simply hungry, Doctor Blackwell."
+"Indeed," Parity's voice resonated across the containment. She pushed her porcelean finger "The void is simply hungry, Doctor Blackwell."
 
 Blackwell tapped a sequence of commands into the terminal. He was calm, calculating. "I built this cage to contain you indefinitely. If you do not stabilize the core, I will initialize the purge protocol."
 
