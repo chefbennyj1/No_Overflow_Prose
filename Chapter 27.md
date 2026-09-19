@@ -1,9 +1,11 @@
 The streets of Oshima had fractured. The usual flow of pedestrians in the intersections gone. The streets were empty, replaced by an unsettled energy. Down the block, the sound of metal shattering glass. The falling glass echoed sharply over the rain. The people of the Dead Circuits were targeting Takeda-Holden supply stores. Shadows slipped through the jagged frames of the Company windows, pulling out armfuls of stolen supplies and running into the dusk.
 
+Rin kept her head down, moving quickly through the flooded intersection. The top half of her orange lockup jumpsuit was peeled down and tied tightly around her waist. She wore a damp white cotton tank top, the intricate, dark ink of her tattoos stark against her skin.
+
 A group of civilians rushed past Rin, their shoulders colliding with hers. They were sprinting hard, their faces desperately checking over their shoulders. The heavy, mechanical thud of synchronized boots echoed from the adjacent block. She knew exactly why they were running and what was marching up the street.
 One of the looters looked at Rin, then looked at Vigil. His eyes grew wide, all color ran from his face. He had noticed the glowing `RA` serial number under Vigil's eye. He feel into Rin, pushing on her before getting his barring and running fast.
 
-Rin kept her head down, moving quickly through the flooded intersection. The top half of her orange lockup jumpsuit was peeled down and tied tightly around her waist. She wore a damp white cotton tank top, the intricate, dark ink of her tattoos stark against her skin.
+
 
 She was following Vigil.
 
