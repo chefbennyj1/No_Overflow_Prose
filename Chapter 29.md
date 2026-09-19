@@ -8,18 +8,20 @@ Silas Blackwell walked slowly down the central gantry, his polished shoes clicki
 
 In the center of the dark laboratory, the cylindrical containment field was the only illumination in the room. Inside the cylinder, suspended inches above the floor, the ceramic form of Parity waited. 
 
-Blackwell stopped at his terminal. The interfaces holographic screen displaying the face the polished public relations synthetic telling the evening news broadcast.  Blackwell could see what was happening outside the lab. Beside the stream were red diagnostic warnings. The engine's core singularity—the black hole he had manufactured to process the being in front of him—was expanding. 
+Blackwell stopped at his terminal. The interface's holographic screen displayed the face of the polished public relations synthetic delivering the evening news broadcast. Blackwell could see what was happening outside the lab. Beside the stream were red diagnostic warnings. The engine's core singularity—the black hole he had manufactured to process the being in front of him—was expanding. 
 
-"The architecture is collapsing," Blackwell said, not looking up from the screen. "With out the Vigil to maintain the core. The singularity is in a runaway state." 
+"The architecture is collapsing," Blackwell said, not looking up from the screen. "Without the Vigil to maintain the core. The singularity is in a runaway state." 
 
 "Indeed," Parity's voice resonated across the containment. She pushed her porcelain finger firmly against the containment field. Circling it, along the electricity. "The void is... hungry, Doctor."
 
-Blackwell observed Parity's fingers as they sparked blue and white against the containment cylinder. "The electro-magnetic field is unbreakable, Parity." Blackwell didn't like how comfortable she seemed to be inside the cage. I've created a special kind of vacuum."
-Parity stopped running her fingers along the containment field. She tilted her glassy head. Her eyes locked onto him through the burning wall of the containment field. Her voice echoed along its perimeter, "You know Doctor. I have spent quite a bit of time in your cage." Blackwell could feel her demonic stare cutting through him.  "Long enough to get to know it..." suddenly her voice was no longer tied to the electricity of the containment field, it spoke though vibrations in the floor, in the glass of the pit. It vibrated in the tools on Blackwell's desk, "... very, very, well." 
+Blackwell observed Parity's fingers as they sparked blue and white against the containment cylinder. "The electro-magnetic field is unbreakable, Parity." Blackwell didn't like how comfortable she seemed to be inside the cage. "I've created a special kind of vacuum."
+
+Parity stopped running her fingers along the containment field. She tilted her glassy head. Her eyes locked onto him through the burning wall of the containment field. Her voice echoed along its perimeter, "You know, Doctor, I have spent quite a bit of time in your cage." Blackwell could feel her stare cutting through him. "Long enough to get to know it..." suddenly her voice was no longer tied to the electricity of the containment field, it spoke though vibrations in the floor, in the glass of the pit. It vibrated in the tools on Blackwell's desk, "... very, very, well." 
 
 Before Blackwell could respond, she was no longer floating in the cylindrical containment field. It flickered, groaned, and died. 
 
-Blackwell froze. Parity was out.  
+Blackwell froze. Parity was out.
+
 His heart spiked. He slowly turned his head to the left, peering into the shadows of the server racks. Parity was standing there, her pale form perfectly still in the red light. 
 
 He didn't breathe. Keeping his hand near the terminal's manual override, he carefully turned his head to the right, checking the heavy steel blast doors. 
@@ -34,7 +36,7 @@ A cold, primal dread seized his chest. She was fluidly vibrating between the two
 
 He was trapped in the room with something moving faster than biology could process, and this time he was the one cornered.
 
-He turned to watch the one on his right, quickly turning back to the one on his. left. While he stared paralyzed at both of her forms... the afterimage on the right took a step closer. 
+He turned to watch the one on his right, quickly turning back to the one on his left. While he stared paralyzed at both of her forms... the afterimage on the right took a step closer. 
 
 Then the one on the left took a step closer.
 
