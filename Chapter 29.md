@@ -1,4 +1,4 @@
-The streets of the lower city were fueled with anger. Freezing rain hissed into steam against the hulls of the burning mag-cars. The air was black with soot and the sharp spontaneous cracks, and muzzle flashes of the Corporate Renewal's semi-automatic rifles firing into the fog. The boil had finally erupted. 
+The streets of the lower city were fueled with outrage. Freezing rain hissed into steam against the hulls of the burning mag-cars. The air was black with soot and the sharp spontaneous cracks, and muzzle flashes of the Corporate Renewal's semi-automatic rifles firing into the fog. The boil had finally erupted. 
 
 In the distance, mobs marched menacingly through the streets toward the brigades of heavily shielded Renewal agents. Crude homemade weapons, and rifles in hand. A rogue homemade explosive detonated against the agents line. The shockwave throwing the faceless black soldiers back, creating a gap, and rattling the concrete. The hole immediately filled with replacement agents. And the chaotic march of the citizens continued forward.
 
@@ -8,7 +8,7 @@ Silas Blackwell walked slowly down the central gantry, his polished shoes clicki
 
 In the center of the dark laboratory, the cylindrical containment field was the only illumination in the room. Inside the cylinder, suspended inches above the floor, the ceramic form of Parity waited. 
 
-Blackwell stopped at his terminal. The interfaces holographic screen displaying the face the polished personal relations synthetic telling the evening news broadcast.  Blackwell could see what was happening outside the lab. Beside the stream were red diagnostic warnings. The engine's core singularity—the black hole he had manufactured to process the being in front of him—was expanding. 
+Blackwell stopped at his terminal. The interfaces holographic screen displaying the face the polished public relations synthetic telling the evening news broadcast.  Blackwell could see what was happening outside the lab. Beside the stream were red diagnostic warnings. The engine's core singularity—the black hole he had manufactured to process the being in front of him—was expanding. 
 
 "The architecture is collapsing," Blackwell said, not looking up from the screen. "With out the Vigil to maintain the core. The singularity is in a runaway state." 
 

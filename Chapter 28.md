@@ -3,7 +3,7 @@ music: Interstellar Drift.mp3
 ---
 The fluorescent lights in the sterile hospital room buzzed and flickered. 
 
-In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished personal relations synthetic—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
+In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished public relations synthetic—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
 
 Iris stood by the window, looking back at the screen. Her stolen white lab coat fell from her shoulders, stopping inches above the floor. She pushed her black-rimmed glasses up her nose, her hands trembling. 
 
