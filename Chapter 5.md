@@ -36,6 +36,6 @@ Past the spinning ring of light, Elena Marlowe’s shutdown command crashed agai
 
 The engine compounded the command into a tidal wave of chaotic change, flowing towards the core. It was immediately swallowed by the singularity's gravitational weight, adding to the machine's momentum. 
 
-It was a churning mass that even Vigil could no longer control. No change or attempt to alter the boundary of the engine was going to affect its perpetuity. It had grown vast.
+No external shutdown command could alter the boundary of the engine. Its perpetuity was mathematically locked; Vigil's existence was the only weight holding the singularity in balance. 
 
 Her world was not going to die today.
