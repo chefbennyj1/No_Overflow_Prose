@@ -20,7 +20,7 @@ Parity stopped running her fingers along the containment field. She tilted her g
 Before Blackwell could respond, she was no longer floating in the cylindrical containment field. It flickered, groaned, and died. 
 
 Blackwell froze. Parity was out.  
-Blackwell’s heart spiked. He slowly turned his head to the left, peering into the shadows of the server racks. Parity was standing there, her pale form perfectly still in the red light. 
+His heart spiked. He slowly turned his head to the left, peering into the shadows of the server racks. Parity was standing there, her pale form perfectly still in the red light. 
 
 He didn't breathe. Keeping his hand near the terminal's manual override, he carefully turned his head to the right, checking the heavy steel blast doors. 
 
@@ -32,7 +32,7 @@ He looked back to the right. She was still by the doors.
 
 A cold, primal dread seized his chest. She hadn't duplicated herself. She was fluidly vibrating between the two points in the room. 
 
-He was trapped in the room with something moving faster than biology could process, and this time he was the cornered.
+He was trapped in the room with something moving faster than biology could process, and this time he was the one cornered.
 
 He turned to watch the one on his right, quickly turning back to the one on his. left. While he stared paralyzed at both of her forms... the afterimage on the right took a step closer. 
 
