@@ -3,22 +3,29 @@ music: Final Surge.mp3
 ---
 The streets of Oshima had fractured. They were empty, replaced by an unsettled energy. The usual flow of pedestrians in the intersections gone.  Down the block, the sound of metal shattering glass. The people of the Dead Circuits were targeting Takeda-Holden supply stores. Shadows slipped through the jagged frames of the Company windows, pulling out armfuls of stolen supplies and running into the night.
 
-Rin and Vigil were moving fast, running through the barren streets. Rin had no idea where they were going, but she was following Vigil.
+Rin and Vigil were moving fast, running through the barren streets. Rin breathing heavily—had no idea where they were going—she was following Vigil.
 
-Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin moved quickly. Broken glass cracked under her worn inmate-issued running shoes. She had peeled down and tied the top half of her jumpsuit tightly around her waist—hiding the prisoner orange, and the black D.O.C. stencil. Her white cotton tank top was damp, clinging to her wet skin, leaving her tattooed arms bare. 
+Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin's lungs burned as the air hit them with every deep inhale. Broken glass cracked under her worn inmate-issued running shoes. She had peeled down and tied the top half of her jumpsuit tightly around her waist—hiding the prisoner orange, and the black D.O.C. stencil. Her white cotton tank top was damp, clinging to her wet skin, leaving her tattooed arms bare. 
 
 Seeing the Vigil move through the physical world in an unarmored Renewal agents body, was deeply unnerving. She moved with a hyper-optimized precision. Her gait was perfect, lacking even the synthesized natural sway programmed into generic synthetics. 
 
-A group of civilians rushed past them on the pavement. Vigil stepped sideways, but they knocked Rin as they ran. They were sprinting hard, their faces desperately checking over their shoulders. Rin knew exactly why they were running and what was marching up the street.
+A group of civilians rushed past them on the pavement. Vigil stepped sideways, but they knocked Rin's exhausted body, as they ran. They were sprinting hard, their faces desperately checking over their shoulders. Rin knew exactly why they were running and what was marching up the street.
 One of the looters looked at Rin, then looked at Vigil. His eyes grew wide, all color ran from his face. He stared at the `RA` serial number glowing under Vigil's eye. He fell into Rin, she could hear him curse as he pushed on her frantically before getting his barring and running fast.
 
-Sirens sounded off behind them. Police mag-cars, their red and blue lights diffusing in the fog, ignored the stop lights, and sped through the intersections behind them.
+Sirens sounded off  behind them. Rin looked back over her shoulder. Blocks away, police mag-cars, their red and blue lights diffusing in the fog, ignored the stop lights, and sped through the intersections behind them.
 
-"Something tells me the police are not out to stop the looting," Rin said, catching her breath. "Did you control all those synths in the prescient, Vigil?"
+"S—Something tells me the police are not out to stop the looting," Rin choked, her hand on her knees, gasping to catch her breath. "Just—just hold on."
+Vigil stepped toward her her dual tones low, "Erin Adler, if you stop here, the next police patrol finds you in thirty-two of your universes atomic seconds."
 
-The synth slowed its pace, and turned toward Rin, it's dual tone voice spoke in the silence. "Control? No... I—I asked them."
+ She heard the warning but she had question. *My Universes?* Rin looked up at the synthetic her breathes still staggered.  "Did—Did you control all those synths in the prescient, Vigil?" She paused for a moment, "—and don't call me that. It's Rin."
 
-Vigil turned back and continued her stride.
+"Control? No... I—I asked them. There is still a way to go. Keep moving , Erin Adler." Vigil paused, "Rin." turned back and continued her stride.
+
+"W—Wait. I—I've been running for blocks. I can't... feel my..." Rin pleas were cut short by two solid bleeps of a Oshima police cruiser turning the corner behind them.
+
+"Erin Adler
+
+
 
 
 
