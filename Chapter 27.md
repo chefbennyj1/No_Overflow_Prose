@@ -43,9 +43,9 @@ The two figures were backlit by the spotlight as they walked forward. Rin could 
 His partner clicked a tactical flashlight in Rin's face. "Holy shit! Sully. Look at this. Ain't this the bitch the Madame showed us a picture of last week?"
 
 Sully took a drag of his cigarette and clicked his flashlight to join his partner's on Rin's face. "I'll be damned. Brask, you and me just made our monthly payouts." He walked into Rin's personal space. "Someone's been lookin' for you." 
-Taking another drag Sully's voice was stern and rough.  He turned his attention to the synthetic. "Why do you have this girl?"
+Taking another drag Sully's voice was stern and rough.  He turned his attention to the synthetic. "Why've  you got this girl?"
 
-Vigil said nothing. 
+Vigil maintained her silence. 
 
 "Well, we'll take it from here, canner. You're done. Get the hell outta here." Sully's voice was harsh.
 
@@ -65,38 +65,38 @@ Sully stopped. His brow furrowed in annoyance. He took a step closer, raising th
 
 Sully's face flushed a deep, furious red. The cigarette trembled in his lips as he shoved the barrel of the gun firmly against Vigil's chest. "I swear to God, you glitchy canner, I'll put a hole in your—"
 
-Brask stiffened, his eye wide. "Sully," the confusion in his voice turned into pure panic. "Sully, put the gun down." 
+Brask stiffened, his eyes wide. "Sully," the confusion in his voice turned into pure panic. "Sully, put the gun down." 
 
 "What? I'm not askin' this machine twice—" Sully pushed the muzzle harder into Vigils black bomber-jacket.
 
 "I said put the gun down!" Brask's hand shook so badly the flashlight beam stuttered across Vigil's unblinking eyes. 
 
-The sharp, mechanical double-clack of a shotgun chambering a round cut through the rain. 
+The sharp, mechanical double-clack of a Renewal-issue assault shotgun chambering a round cut through the rain. 
 
-"Listen to your partner," a familiar voice said from the dark behind him. "I'm gonna get you to drop that gun. It's for your own good, really."
+"Listen to your partner," a familiar voice said from the dark behind Brask. "I'm gonna get you to drop that gun. It's for your own good, really."
 
-Rin looked up at Sully, she focused directly into his eyes. Harper was standing behind Brask, the rain matting her hair flat against her face. She pressed a black double barrels assault shotgun against his back, her head tilted forward, her eyes focused intensely, up through her lashes. 
+Rin looked past Sully. Before she even registered the face, she saw the worn, familiar sleeves of her own leather jacket. Harper was standing behind Brask, the rain matting her hair flat against her face. She jabbed the black barrel of the assault shotgun hard against his back, her head tilted forward with a fierce concentration in her eyes as she looked over his shoulder. 
 
-Brask's hands shook badly, the flashlight beam stuttered across Vigil's unblinking eyes. The light caught the glowing text beneath her left eye. 
-Sully froze, his voice cut through the tension. "What the—?" His voice choked back, "She's Renewal." 
+Sully froze as he caught the glowing text beneath Vigil's left eye. "What the—" His cocky posture vanished. "She's Renewal." He stared at the serial number. He was suddenly a man caught between a military-grade shotgun in his partner's back, and a machine that could snap his neck before his brain told his finger to pull the trigger. 
 
-Sully stared at the serial number. His cocky posture vanished. He was suddenly a man caught between a military-grade rifle in his partner's back, and a machine that could snap his neck before his brain told his finger to pull the trigger. 
+Vigil reached over and twisted the gun from Sully's loose grip. Rin felt her wrists go free. In one swift motion, Vigil slid the magazine free from the handle, pushed the slide back to pop the bullet from the chamber, and handed the empty gun back to the officer.
 
-Vigil reached over and twisted the gun from Sully's loose grip. 
+"I think you've walked into something you shouldn't have," Rin said, walking over to Brask, clutching her hand into a fist. "Bitch!" Rin wound up and hit him in the gut.
 
-Rin felt Vigil's grip let go of her wrists. "I think you've walked into something, you shouldn't have—" Rin walked over to Brask, clutched her fist, "—Bitch!" Rin wound up and hit him in his gut.
-"Get in the car," Harper said, stepping fully out of the shadows. "And get lost." 
+"Get in the car," Harper said, stepping around Brask, the stock of the shotgun firmly against her shoulder. "And get lost." 
 
-Sully didn't need convincing. He kept his eyes locked on the glowing serial number. He backed away toward the idling mag-cruiser, pulling Brask with him. 
+Sully kept his eyes locked on the glowing serial number. He backed away toward the idling mag-cruiser, pulling Brask with him. 
 
-"The Madame is gonna pay a fortune for this," Sully muttered as they climbed into the vehicle. "Null is walking with a rogue RA." 
+"The Madame is gonna pay a fortune for this," Sully muttered as they climbed into the vehicle. "These two walking with a rogue RA." 
 
 The cruiser's doors slammed shut. The magnetic drive whined, and the vehicle bolted down the street, vanishing into the fog. 
 
-Rin exhaled a shaky breath as Vigil finally released her wrists. A wave of relief crashed into Rin's chest. She ran toward Harper, wrapping her arms around her in a tight, desperate hug. It had been four weeks of hell. 
+Rin exhaled a shaky breath as a wave of relief crashed into her chest. She ran toward Harper, wrapping her arms around her in a tight, desperate hug. It had been four weeks of hell. 
 
-"I'm so glad to see you," Rin breathed into Harper's jacket. 
+"I'm so glad to see you," Rin breathed into the worn leather of her own jacket. 
 
-Harper hugged her back, her grip firm. When they pulled apart, Harper looked past her, out at the chaotic street. The sharp crack of a rifle echoed in the distance.
+Harper hugged her back, her grip firm. When they pulled apart, Rin managed a weak, exhausted smile. "The jacket looks better on you."
+
+Harper smiled as she looked past her, her eyes coldly scanning the chaotic street, her grip still tight on the assault shotgun. The sharp crack of a rifle echoed in the distance.
 
 "Something is going on out here," Harper said, her voice tight. "The pot's boiling over."
