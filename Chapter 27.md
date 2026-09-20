@@ -5,9 +5,7 @@ The streets of Oshima had fractured. The usual flow of pedestrians in the inters
 
 Rin and Vigil moved fast, running through the barren streets. Rin was breathing heavily. She had no idea where they were going—she was just following Vigil.
 
-Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin's lungs burned as the night air hit them with every deep inhale. Broken glass cracked under her worn, inmate-issued running shoes. She had peeled down the top half of her jumpsuit and tied it tightly around her waist, hiding the prisoner orange and the black D.O.C. stencil. Her white cotton tank top was damp, clinging to her wet skin. 
-
-Vigil moved through the physical world with a hyper-optimized precision. Her gait was perfect, lacking even the synthesized natural sway programmed into generic synthetics. She was wearing the stolen Oshima police uniform, the dark, waterproof bomber-jacket zipped tight over her synthetic chassis, and the eight-point cap low over her eyes. 
+Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin's lungs burned as the night air hit them with every deep inhale. Broken glass cracked under her worn, inmate-issued running shoes. She had peeled down the top half of her jumpsuit and tied it tightly around her waist, trying to hide the black D.O.C. stencil stamped on her back. But the pants were still unmistakable prisoner orange. Her white cotton tank top was damp, clinging to her wet skin, leaving her tattooed arms bare. Vigil moved through the physical world with a hyper-optimized precision. Her gait was perfect, lacking even the synthesized natural sway programmed into generic synthetics. She was wearing the stolen Oshima police uniform, the dark, waterproof bomber-jacket zipped tight over her synthetic chassis, and the eight-point cap low over her eyes. 
 
 A group of civilians rushed past them on the pavement. They saw Vigil and moved toward the center of the road, yelling obscenities at the synthetic police officer. They were sprinting hard. Rin knew exactly why they were running and what was marching up the street. 
 
@@ -43,7 +41,7 @@ The two figures were backlit by the spotlight as they walked forward. Rin could 
 His partner clicked a tactical flashlight in Rin's face. "Holy shit! Sully. Look at this. Ain't this the bitch the Madame showed us a picture of last week?"
 
 Sully took a drag of his cigarette and clicked his flashlight to join his partner's on Rin's face. "I'll be damned. Brask, you and me just made our monthly payouts." He walked into Rin's personal space. "Someone's been lookin' for you." 
-Taking another drag she said, "Where's your partner, and why do you have this girl?" His voice stern.
+Taking another drag he said, "Where's your partner, and why do you have this girl?" His voice stern.
 
 Vigil said nothing. 
 
@@ -65,27 +63,25 @@ Sully stopped. His brow furrowed in annoyance. He took a step closer, raising th
 
 Sully's face flushed a deep, furious red. The cigarette trembled in his lips as he shoved the barrel of the gun toward Vigil's chest. "I swear to God, you glitchy canner, I'll put a hole in your—"
 
-Brask didn't lower his flashlight. The beam traced up from Rin's tied-off jumper, over the dark fabric of Vigil's stolen police jacket, and stopped on the synthetic's face. 
+The sharp, mechanical double-clack of a rifle chambering a round cut through the rain. 
+
+Brask stiffened as the heavy barrel of a black-market assault rifle pressed firmly into the space between his shoulder blades. 
+
+"She moves like one of them," a familiar voice said from the dark behind him. 
 
 "Sully," Brask's voice dropped, the confusion turning into pure panic. "Sully, put the gun down." 
 
 "What? I'm not askin' this machine twice—"
 
-"Look at her face!" Brask took a step back, his hand shaking so badly the flashlight beam stuttered across Vigil's unblinking eyes. "That's an R-A serial. She's not one of ours. She's Renewal." 
+"I said put the gun down!" Brask's hand shook so badly the flashlight beam stuttered across Vigil's unblinking eyes. The light caught the glowing text beneath her left eye. Brask's breath hitched. "Sully... look at her face. That's an R-A serial. She's not one of ours. She's Renewal." 
 
-Sully froze. He looked at the serial number glowing faintly beneath the synthetic's left eye. His cocky posture vanished. He was suddenly a man pointing a standard-issue sidearm at a machine that could snap his neck before his brain told his finger to pull the trigger.
+Sully froze. He looked past his partner, staring at the serial number. His cocky posture vanished. He was suddenly a man caught between a military-grade rifle in his partner's back, and a machine that could snap his neck before his brain told his finger to pull the trigger. 
 
-The sharp, mechanical double clack of a rifle chambering a round cut through the rain. 
+"Get in the car," Harper said, stepping fully out of the shadows. "And get lost." 
 
-"She moves like one of them," a familiar voice called out from the dark. 
+Sully didn't need convincing. He slowly lowered his weapon, his eyes locked on the glowing serial number. He holstered the gun and backed away toward the idling mag-cruiser, pulling Brask with him. 
 
-Sully flinched, turning his head enough to see the mouth of a narrow alleyway. Harper stepped out of the shadows. She had a heavy, black-market Renewal assault rifle pressed into her shoulder, the optics perfectly aligned with Sully's head. It was the kind of hardware you only got by prying it out of dead hands. 
-
-Brask grabbed his partner's shoulder, pulling him backward. "Sully, let's go. We're out of our league." 
-
-Sully didn't need convincing. Two standard-issue sidearms against a military-grade rifle and a rogue Company machine was suicide. He slowly lowered his weapon, his eyes locked on the glowing serial number. He holstered the gun and backed away toward the idling mag-cruiser. 
-
-"The Madame is gonna pay a fortune for this," Sully muttered to Brask as they climbed into the vehicle. "Null is walking with a rogue RA." 
+"The Madame is gonna pay a fortune for this," Sully muttered as they climbed into the vehicle. "Null is walking with a rogue RA." 
 
 The cruiser's doors slammed shut. The magnetic drive whined, and the vehicle bolted down the street, vanishing into the fog. 
 
@@ -93,6 +89,6 @@ Rin exhaled a shaky breath as Vigil finally released her wrists. A wave of relie
 
 "I'm so glad to see you," Rin breathed into Harper's jacket. 
 
-Harper hugged her back, her grip firm. When they pulled apart, Harper looked past her, out at the chaotic street. The sharp crack of a rifle echoed in the distance. 
+Harper hugged her back, her grip firm. When they pulled apart, Harper looked past her, out at the chaotic street. The sharp crack of a rifle echoed in the distance.
 
 "Something is going on out here," Harper said, her voice tight. "The pot's boiling over."
