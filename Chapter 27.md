@@ -5,13 +5,13 @@ The streets of Oshima had fractured. The usual flow of pedestrians in the inters
 
 Rin and Vigil moved fast, running through the barren streets. Rin was breathing heavily. She had no idea where they were going—she was just following Vigil.
 
-Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin's lungs burned as the night air hit them with every deep inhale. Broken glass cracked under her worn, inmate-issued running shoes. She had peeled down the top half of her jumpsuit and tied it tightly around her waist, hiding the prisoner orange and the black D.O.C. stencil. Her white cotton tank top was damp, clinging to her wet skin, leaving her tattooed arms bare. 
+Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin's lungs burned as the night air hit them with every deep inhale. Broken glass cracked under her worn, inmate-issued running shoes. She had peeled down the top half of her jumpsuit and tied it tightly around her waist, hiding the prisoner orange and the black D.O.C. stencil. Her white cotton tank top was damp, clinging to her wet skin. 
 
-Vigil move through the physical world in the unarmored Renewal agent's body with a hyper-optimized precision. Her gait was perfect, lacking even the synthesized natural sway programmed into generic synthetics. 
+Vigil moved through the physical world with a hyper-optimized precision. Her gait was perfect, lacking even the synthesized natural sway programmed into generic synthetics. She was wearing the stolen Oshima police uniform, the dark, waterproof bomber-jacket zipped tight over her synthetic chassis, and the eight-point cap low over her eyes. 
 
-A group of civilians rushed past them on the pavement. Vigil stepped sideways, but the crowd knocked into Rin's exhausted body as they ran. They were sprinting hard, desperately checking over their shoulders. Rin knew exactly why they were running and what was marching up the street. 
+A group of civilians rushed past them on the pavement. They saw Vigil and moved toward the center of the road, yelling obscenities at the synthetic police officer. They were sprinting hard. Rin knew exactly why they were running and what was marching up the street. 
 
-One of the looters looked at Rin, then looked at Vigil. His eyes grew wide, and all the color ran from his face. He stared at the `RA` serial number glowing under Vigil's eye. He stumbled into Rin, cursing frantically as he pushed off her to get his bearings, before breaking into a terrified run away from them.
+One of the looters looked at Vigil. His eyes grew wide, and all the color ran from his face. He didn't see a cop. He stared at the `RA` serial number glowing under Vigil's eye. He stumbled into Rin, cursing frantically as he pushed off her to get his bearings, before breaking into a terrified sprint.
 
 Sirens sounded behind them. Rin looked back over her shoulder. Blocks away, police mag-cars, their red and blue lights diffusing in the fog, ignored the stoplights and sped through the intersections. 
 
@@ -52,4 +52,4 @@ A wave of relief crashed into Rin's chest. She ran toward Harper, wrapping her a
 
 Harper hugged her back, her grip firm. When they pulled apart, Harper looked past her, out at the chaotic street. The sharp crack of a rifle echoed in the distance. 
 
-"Something is going on out here," Harper said, her voice tight. "The pots boiling over."
+"Something is going on out here," Harper said, her voice tight. "The pot's boiling over."
