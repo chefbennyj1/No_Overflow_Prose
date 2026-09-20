@@ -3,19 +3,19 @@ music: Clock Tick.mp3
 ---
 The streets of Oshima had fractured. The usual flow of pedestrians in the intersections was gone, and replaced by an unsettled, empty energy. Down the block came the sound of metal shattering glass. The people of the Dead Circuits were targeting Takeda-Holden supply stores. Shadows slipped through the jagged frames of the Company windows, pulling out armfuls of stolen supplies and sprinting into the night.
 
-Rin and Vigil moved fast, running through the barren streets. Rin was breathing heavily. She had no idea where they were going—she was just following Vigil.
+Rin and Vigil moved fast, running through the barren streets. Rin was breathing heavily. She had no idea where they were going—she was following Vigil.
 
 Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin's lungs burned as the night air hit them with every deep inhale. Broken glass cracked under her worn, inmate-issued running shoes. She had peeled down the top half of her jumpsuit and tied it tightly around her waist, trying to hide the black D.O.C. stencil stamped on her back. But the pants were still unmistakable prisoner orange. Her white cotton tank top was damp, clinging to her wet skin. 
 
 Vigil moved through the physical world with a hyper-optimized precision. Her gait was perfect, lacking even the synthesized natural sway programmed into generic synthetics. She was wearing the stolen Oshima police uniform, the dark, waterproof bomber-jacket zipped tight over her synthetic chassis, and the eight-point cap low over her eyes. 
 
-A group of civilians rushed past them on the pavement. They saw Vigil and moved toward the center of the road, yelling obscenities at the synthetic police officer. They were sprinting hard. 
+A group of civilians rushed past them on the pavement. They saw Vigil and moved toward the center of the road, yelling obscenities at the synthetic police officer. 
 
 One of the looters looked at Vigil. His eyes grew wide, and all the color ran from his face. He didn't see a cop. He stared at the `RA` serial number glowing beneath Vigil's left eye. He stumbled into Rin, cursing frantically as he pushed off her to get his bearings, before breaking into a terrified sprint.
 
 Sirens sounded behind them. Rin looked back over her shoulder. Blocks away, police mag-cars, their red and blue lights diffusing in the fog, ignored the stoplights and sped through the intersections. 
 
-"Something tells me the police are not out to stop the looting," Rin choked, her hands on her knees, gasping to catch her breath. "Just—just hold on."
+"Something tells me the police are not out to stop the looting," Rin stopped running, hands on her knees, her words choked as she  gasped to catch her breath. "Just—just hold on."
 
 Vigil stepped toward her, her dual tones low. "Erin Adler, if you stop here, the next police patrol finds you in thirty-two of your universe's seconds."
 
@@ -87,7 +87,7 @@ Vigil reached over and twisted the gun from Sully's loose grip. Rin felt her wri
 
 Sully kept his eyes locked on the glowing serial number. He backed away toward the idling mag-cruiser, pulling Brask with him. 
 
-"The Madame is gonna pay a fortune for this," Sully muttered as they climbed into the vehicle. "These two walking with a rogue RA." 
+"The Madame is gonna pay a fortune for this," Sully growled as they climbed into the vehicle. "These two walking with a rogue RA." 
 
 The cruiser's doors slammed shut. The magnetic drive whined, and the vehicle bolted down the street, vanishing into the fog. 
 
@@ -99,4 +99,4 @@ Harper hugged her back, her grip firm. When they pulled apart, Rin managed a wea
 
 Harper smiled as she looked past her, her eyes coldly scanning the chaotic street, her grip still tight on the assault shotgun. The sharp crack of a rifle echoed in the distance.
 
-"Something is going on out here," Harper said, her voice tight. "The pot's boiling over."
+"Something is going on out there," Harper said, her voice tight. "The pot's boiling over."
