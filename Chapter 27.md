@@ -78,7 +78,7 @@ The sharp, mechanical double-clack of a shotgun chambering a round cut through t
 Rin looked up at Sully, she focused directly into his eyes. Harper was standing behind Brask, the rain matting her hair flat against her face. She pressed a black double barrels assault shotgun against his back, her head tilted forward, her eyes focused intensely, up through her lashes. 
 
 Brask's hands shook badly, the flashlight beam stuttered across Vigil's unblinking eyes. The light caught the glowing text beneath her left eye. 
-Sully froze, his voice cut through the tension. "Shit. She's Renewal." 
+Sully froze, his voice cut through the tension. "What the—?" His voice choked back, "She's Renewal." 
 
 Sully stared at the serial number. His cocky posture vanished. He was suddenly a man caught between a military-grade rifle in his partner's back, and a machine that could snap his neck before his brain told his finger to pull the trigger. 
 
