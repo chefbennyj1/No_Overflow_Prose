@@ -1,11 +1,11 @@
 ---
 music: Final Surge.mp3
 ---
-The streets of Oshima had fractured. They were empty, replaced by an unsettled energy. The usual flow of pedestrians in the intersections gone.  Down the block, the sound of metal shattering glass. The falling glass echoed sharply over the rain. The people of the Dead Circuits were targeting Takeda-Holden supply stores. Shadows slipped through the jagged frames of the Company windows, pulling out armfuls of stolen supplies and running into the night.
+The streets of Oshima had fractured. They were empty, replaced by an unsettled energy. The usual flow of pedestrians in the intersections gone.  Down the block, the sound of metal shattering glass. The people of the Dead Circuits were targeting Takeda-Holden supply stores. Shadows slipped through the jagged frames of the Company windows, pulling out armfuls of stolen supplies and running into the night.
 
 Rin and Vigil were moving fast, running through the barren streets. Rin had no idea where they were going, but she was following Vigil.
 
-Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin moved quickly. Broken glass cracked under her worn inmate-issued running shoes. She had peeled down and tied the top half of her jumpsuit tightly around her waist to hide the prisoner orange, and the black D.O.C. stencil. Her white cotton tank top was damp, clinging to her wet skin, leaving her tattooed arms bare. 
+Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin moved quickly. Broken glass cracked under her worn inmate-issued running shoes. She had peeled down and tied the top half of her jumpsuit tightly around her waist—hiding the prisoner orange, and the black D.O.C. stencil. Her white cotton tank top was damp, clinging to her wet skin, leaving her tattooed arms bare. 
 
 Seeing the Vigil move through the physical world in an unarmored Renewal agents body, was deeply unnerving. She moved with a hyper-optimized precision. Her gait was perfect, lacking even the synthesized natural sway programmed into generic synthetics. 
 
@@ -14,7 +14,7 @@ One of the looters looked at Rin, then looked at Vigil. His eyes grew wide, all 
 
 Sirens sounded off behind them. Police mag-cars, their red and blue lights diffusing in the fog, ignored the stop lights, and sped through the intersections behind them.
 
-"Something tells me the police are not out to stop looting," Rin said, catching her breath. "Did you control all those synths in the prescient, Vigil?"
+"Something tells me the police are not out to stop the looting," Rin said, catching her breath. "Did you control all those synths in the prescient, Vigil?"
 
 The synth slowed its pace, and turned toward Rin, it's dual tone voice spoke in the silence. "Control? No... I—I asked them."
 
