@@ -15,7 +15,7 @@ One of the looters looked at Vigil. His eyes grew wide, and all the color ran fr
 
 Sirens sounded behind them. Rin looked back over her shoulder. Blocks away, police mag-cars, their red and blue lights diffusing in the fog, ignored the stoplights and sped through the intersections. 
 
-"Something tells me the police are not out to stop the looting," Rin stopped running, hands on her knees, her words choked as she  gasped to catch her breath. "Just—just hold on."
+"Something tells me the police are not out to stop the looting," Rin choked out. She stopped running, hands on her knees, gasping to catch her breath. "Just—just hold on."
 
 Vigil stepped toward her, her dual tones low. "Erin Adler, if you stop here, the next police patrol finds you in thirty-two of your universe's seconds."
 
@@ -91,12 +91,12 @@ Sully kept his eyes locked on the glowing serial number. He backed away toward t
 
 The cruiser's doors slammed shut. The magnetic drive whined, and the vehicle bolted down the street, vanishing into the fog. 
 
-Rin exhaled a shaky breath as a wave of relief crashed into her chest. She ran toward Harper, wrapping her arms around her in a tight, desperate hug. It had been four weeks of hell. 
+Rin exhaled a shaky breath. She ran toward Harper, wrapping her arms around her in a tight, desperate hug. 
 
 "I'm so glad to see you," Rin breathed into the worn leather of her own jacket. 
 
 Harper hugged her back, her grip firm. When they pulled apart, Rin managed a weak, exhausted smile. "The jacket looks better on you."
 
-Harper smiled as she looked past her, her eyes coldly scanning the chaotic street, her grip still tight on the assault shotgun. The sharp crack of a rifle echoed in the distance.
+Harper smiled as she looked past her, her eyes scanning the flooded street, her grip still tight on the assault shotgun. The sharp crack of a rifle echoed in the distance.
 
-"Something is going on out there," Harper said, her voice tight. "The pot's boiling over."
+"The pot's boiling over," Harper said, her voice tight.
