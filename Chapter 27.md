@@ -13,7 +13,7 @@ A group of civilians rushed past them on the pavement. Vigil stepped sideways, b
 
 One of the looters looked at Rin, then looked at Vigil. His eyes grew wide, and all the color ran from his face. He stared at the `RA` serial number glowing under Vigil's eye. He stumbled into Rin, cursing frantically as he pushed off her to get his bearings, before breaking into a terrified run away from them.
 
-Sirens sounded off behind them. Rin looked back over her shoulder. Blocks away, police mag-cars, their red and blue lights diffusing in the fog, ignored the stoplights and sped through the intersections. 
+Sirens sounded behind them. Rin looked back over her shoulder. Blocks away, police mag-cars, their red and blue lights diffusing in the fog, ignored the stoplights and sped through the intersections. 
 
 "Something tells me the police are not out to stop the looting," Rin choked, her hands on her knees, gasping to catch her breath. "Just—just hold on."
 
@@ -33,7 +33,7 @@ Vigil reached down and grabbed Rin, firmly placing her hands behind her back.
 
 "Remain quiet, Rin." Vigil's dual tones were razor-sharp.
 
-The police cruiser slowly glided along the side of the road.
+The police cruiser glided along the side of the road.
 
 
 
