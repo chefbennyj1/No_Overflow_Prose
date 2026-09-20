@@ -9,7 +9,7 @@ Water rushed through the intersections, spilling over the curbs and flooding the
 
 Vigil move through the physical world in the unarmored Renewal agent's body with a hyper-optimized precision. Her gait was perfect, lacking even the synthesized natural sway programmed into generic synthetics. 
 
-A group of civilians rushed past them on the pavement. Vigil stepped sideways, but the crowd knocked into Rin's exhausted body as they ran. They were sprinting hard, their faces pale, desperately checking over their shoulders. Rin knew exactly why they were running and what was marching up the street. 
+A group of civilians rushed past them on the pavement. Vigil stepped sideways, but the crowd knocked into Rin's exhausted body as they ran. They were sprinting hard, desperately checking over their shoulders. Rin knew exactly why they were running and what was marching up the street. 
 
 One of the looters looked at Rin, then looked at Vigil. His eyes grew wide, and all the color ran from his face. He stared at the `RA` serial number glowing under Vigil's eye. He stumbled into Rin, cursing frantically as he pushed off her to get his bearings, before breaking into a terrified run away from them.
 
