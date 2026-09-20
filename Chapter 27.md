@@ -19,11 +19,17 @@ Vigil stepped toward her her dual tones low, "Erin Adler, if you stop here, the 
 
  She heard the warning but she had question. *My Universes?* Rin looked up at the synthetic her breathes still staggered.  "Did—Did you control all those synths in the prescient, Vigil?" She paused for a moment, "—and don't call me that. It's Rin."
 
-"Control? No... I—I asked them. There is still a way to go. Keep moving , Erin Adler." Vigil paused, "Rin." turned back and continued her stride.
+"Control? No... I—I asked them. There is still a way to go. Keep moving , Erin Adler." Vigil paused, "Rin." The synthetic turned back and continue her stride.
 
-"W—Wait. I—I've been running for blocks. I can't... feel my..." Rin pleas were cut short by two solid bleeps of a Oshima police cruiser turning the corner behind them.
+"W—Wait. I—I've been running for blocks. I can't... feel my..." Rin pleas were cut short. Two solid bleeps of an Oshima police mag-cruiser turning the corner behind them.
 
-"Erin Adler
+"Rin. You will do exactly as I say, or these officers will open fire and they will shoot you. You will not die immediately. However, this outcome produces an undesirable state. Please remain quiet."
+
+Vigil reached down and grabbed Rin, firmly placing her hands behind her back.
+"Okay. Okay. Vigil, that kind of hurts."
+"Remain quiet, Rin" Vigils dual tones were razor sharp.
+
+The police cruiser slowly glided along the side of the road.
 
 
 
