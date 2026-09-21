@@ -18,9 +18,9 @@ A rigid silhouette stood against the shadows. Elena couldn't see a face. A wanin
 
 Then, it moved. 
 
-A half breath. Frozen, misted in front of her face. The ambient  lab heat vanished. She exhaled the rest of her shaky breath. 
+Elena drew half a breath. It froze in a white mist before her face. The warmth vanished from the lab. She exhaled the rest of her shaky breath. 
 
-It didn't walk. It floated, feet together, toes pointed down, suspended a hair's width off the floor. As the figure drifted forward into the dim emergency lighting, the physics around it actively tore apart. The air rippled like a dropped frame-rate in reality. Its movements stuttered, leaving fractured trails behind it—after-images from its prior position in time. Searing bronze holographic circuitry discharged across its ceramic skin. 
+It didn't walk. It floated, feet together, toes pointed down, suspended a hair's width off the floor. As the figure drifted forward into the emergency lighting, the physics around it actively tore apart. The air rippled. Its movements stuttered, leaving fractured trails behind it—after-images from its prior position in time. Searing bronze holographic circuitry discharged across its ceramic skin. 
 
 It stopped at the edge of Elena's workstation, hovering in a calm rise and fall. 
 
