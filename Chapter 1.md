@@ -60,13 +60,13 @@ The room erupted into a synchronized motion.
 
 Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog in a spectral light.
 
-The mechanical drone of the reactor shifted into a rhythmic pulse—a vibration creeping through the concrete and into their bones. 
+The mechanical drone of the reactor shifted into a rhythmic pulse, a vibration creeping through the concrete and into their bones. 
 
 Blackwell’s smile widened. He watched the data stream, fascinated by the magnitude of the activation. He was unaffected by the reverberating force of his creation. 
 
 The Board watched from their remote offices, certain distance would keep them safe. They didn’t understand, if containment failed, the rupture would swallow them as easily as the lab. 
 
-Behind him, technicians on the floor exchanged nervous glances, shrinking back from the railing. They were unnerved by the sheer physical presence of the machine, but Blackwell remained unbothered. 
+Behind him, the technicians exchanged nervous glances and stepped back from the railing. The machine unsettled them. Blackwell remained unbothered. 
 
 Elena stepped up to the railing, studying a datapad in her hand, her tense posture relaxing a fraction. "The initialization sequence is holding steady," she said, a rare note of satisfaction bleeding into her voice. She stepped closer to him, so only he could hear, "The containment calculations were flawless, Silas. You calculated activation. Congratulations."
 
@@ -118,7 +118,7 @@ Blackwell turned, giving her his undivided attention for the first time. "It's p
 
 Elena shook her head. Seeing Blackwell relaxed, she dropped the subject. "You know, it wouldn't hurt you to talk to the Board." She turned, glancing back over the console floor behind them. "You are the lead."
 
-Blackwell returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Elena and the technicians monitored the fluctuating event horizon, Blackwell observed the real experiment begin. 
+Blackwell returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Elena and the technicians monitored the event horizon, Blackwell observed the real experiment begin. 
 
 Listed in the logs, record of a shadow process, quietly expanding in the core. Blackwell caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus to a second synthetic on the far side of the room. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
 

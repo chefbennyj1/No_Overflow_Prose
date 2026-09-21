@@ -14,6 +14,7 @@
 12. **Post-Positive Adjectives (Use Sparingly):** Occasionally place adjectives after the noun (e.g., "a system, alien and indifferent") to break up standard SVO rhythms. This spikes perplexity/burstiness and evades AI detectors by mimicking jagged, intentional human style. Use sparingly so the prose doesn't sound backwards or overly poetic.
 13. **Banish "Mutter" / "Muttered":** Never use the words "mutter" or "muttered." Find sharper, more physical ways to describe quiet or under-the-breath dialogue.
 14. **Banish "Make Sense":** Never use phrases like "It doesn't make sense" or "Didn't make sense." Instead of having characters state their confusion, describe exactly what physical anomaly or contradiction is breaking their understanding.
+15. **Cut Stacked Modifiers:** Replace "X, Y, and Z" phrasing with one strong image or clause. Let the sentence do one job instead of three. Save the grand language for the truly big moments, instead of making every paragraph sound like a thesis statement.
 
 ## Terminology (locked 15 Sep 2026)
 Three overlapping "horizon" terms were collapsed, and the two names for the thing in the core now depend on who is speaking. Applied story-wide.

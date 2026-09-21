@@ -1,10 +1,10 @@
-The darkness of the service corridor was illuminated by strips of yellow emergency lights running through the middle of the corridor walls.
+Strips of yellow emergency lights ran through the middle of the corridor walls, illuminating the darkness.
 
-The counter-weighted vault doors of Deep Storage unlocked with the loud movement of metallic rotary gears. They opened with the grind and squeal of their heavy iron hinges.
+The counter-weighted vault doors of Deep Storage unlocked with the loud movement of metallic rotary gears. They opened with the grind and squeal on their heavy iron hinges.
 
 Victor raised his revolver, and clicked the button on his tactical flashlight, slicing a beam of light through the silent room.
 
-He stopped just inside. The scale of the room was a strategic nightmare.  Plastic-draped synthetics stretched into long uniform rows. The ticks of their peristaltic pumps randomly sounding off in across the floor. A perfect maze for an ambush. Victor swept his light across the grid, calculating the odds. Null was a hacker, but he didn't know if she was armed, or how many people she had brought with her to pull off a physical breach. 
+He stepped inside the door, and stopped. The floor was wide open. Nowhere to step without being seen. Plastic-draped synthetics stretched into long uniform rows. The ticks of their peristaltic pumps randomly sounding off in across the floor. A perfect maze for an ambush. Victor swept his light across the grid, calculating the odds. Null was a hacker, but he didn't know if she was armed, or how many people she had brought with her to pull off a physical breach. 
 
 Harlan was chambering a round in his gun. He raised it and clicked on his own flashlight. His eyes met Victors. They both nodded, as they sidestepped into the vaulted hangar.
 
@@ -18,7 +18,7 @@ A harsh beam of tactical light carved through the dark.
 
 "The service tunnel is guarded. I'm on the main doors," The voice echoed across the room, cold and brutally pragmatic. "You're out of exits, Null. It's over."
 
-"—Null. it's over," Vigil's synthetic voice whispered between them. The synthetic's head lolled to the side, her voice a hollow, broken harmony mirroring the detective's exact inflection. 
+"—Null. it's over," Vigil's synthetic voice whispered between them. The synthetic's head lolled to the side, her voice a broken harmony mirroring the detective's exact inflection. 
 
 Rin immediately crouched down among the plastic-draped synthetics, pulling Harper and Vigil with her into the shadows. 
 
@@ -30,7 +30,7 @@ Harper glared at her, unimpressed. "Yeah. And?"
 
 Rin gestured toward the flashlights with her head. "There were these two cops that showed up."
 
-Harper's eyes widened, the light catching a sudden glossiness that wasn't there before. She threw Vigil's synthetic arm over her shoulder to help move it. Bracing for dead weight, it was shockingly light. Beneath the vinyl skin, there was no dense bone mass, only carbon-fiber framing. 
+Harper's eyes widened, the light catching a worry that wasn't there before. She threw Vigil's synthetic arm over her shoulder to help move it. Bracing for dead weight, it was shockingly light. Beneath the vinyl skin, there was no dense bone mass, only carbon-fiber framing. 
 
 "Okay, okay, listen," Harper whispered frantically, helping Rin drag the wounded Vigil through the maze of plastic-draped bodies. "If we hit the auxiliary lights, we can blind them for two seconds, maybe rush the tunnel—"
 
