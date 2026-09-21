@@ -1,5 +1,5 @@
 ---
-music: Blackwell.mp3
+music: Parity.mp3
 ---
 The Mnemosyne Engine was built to tear a hole directly into the physical boundaries of the known universe and fill it with the mass of an anti-star. 
 
@@ -7,7 +7,7 @@ Silas Blackwell took a drag from his cigarette, the ember flaring against the bl
 
 He didn't own any part of this view. He lacked the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the Zen-like patterns etched into the company's alloy railing. The polished walkways were empty this early. The peak of New Veridia was a sleeping monster, ready to awake.
+The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the Zen-like patterns etched into the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
 
 He didn't need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
@@ -78,7 +78,7 @@ On the executive display above the floor, the grid of silhouettes leaned forward
 
 The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing datapad in her hands. She didn't belong with the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and gold hoops swung from her ears. She compulsively shoved her black-rimmed glasses up the bridge of her nose—her focus snapping back to the glow of her screen. 
 
-"Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a change in the event horizon. A mass displacement anomoly. And—well actually, the mass-displacement is causing a—a localized gravitational shear." Her pressured speech fired rapidly, blurred together in a breathless recitation of awkward tones, "—and—well, you know—that could theoretically pull the primary containment of the horizon's gravity field out of phase—and if we don't recalculate, then the—" 
+"Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a change in the event horizon. A mass displacement anomaly. And—well actually, the mass-displacement is causing a—a localized gravitational shear." Her pressured speech fired rapidly, blurred together in a breathless recitation of awkward tones, "—and—well, you know—that could theoretically pull the primary containment of the horizon's gravity field out of phase—and if we don't recalculate, then the—" 
 
 She trailed off, finally looking up from her screen. 
 
@@ -94,7 +94,7 @@ Iris flinched, pulling the tablet tight against her chest. "Yes, ma'am. Of cours
 
 "I need the tracking data!" Elena demanded, pivoting away.
 
-At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie, liquid crystal iluminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the shining fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
+At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie, liquid crystal luminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the shining fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
 
 "Horizon stability confirmed," the machine reported.
 
