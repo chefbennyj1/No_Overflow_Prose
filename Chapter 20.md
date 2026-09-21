@@ -18,9 +18,9 @@ A harsh beam of tactical light carved through the dark.
 
 "The service tunnel is guarded. I'm on the main doors," the voice echoed across the room. "You're out of exits, Null. It's over."
 
-"—Null. It's over," Vigil's synthetic voice whispered between them. The synthetic's head lolled to the side. Her voice repeated the detective’s words in the same inflection, fractured and hollow. 
+"—Null. It's over," Vigil’s head lolled to the side. In the detective’s exact inflection, she spoke the words back.
 
-Rin immediately crouched down among the plastic-draped synthetics, pulling Harper and Vigil with her into the shadows. 
+Rin crouched down among the plastic-draped synthetics, pulling Harper and Vigil with her into the shadows. 
 
 Harper gripped Rin's arm in the dark, her voice a tight whisper. "Rin, what is it?"
 
@@ -28,23 +28,23 @@ Rin swallowed hard, staring at the approaching beams of light. "There's somethin
 
 Harper glared at her, unimpressed. "Yeah. And?"
 
-Rin gestured toward the flashlights with her head. "There were these two cops that showed up."
+Rin nodded toward the flashlights. "There were these two cops that showed up."
 
-Harper's eyes widened, the light catching a worry that wasn't there before. She threw Vigil's synthetic arm over her shoulder to help move it. Bracing for dead weight, it was shockingly light. Beneath the vinyl skin, there was no dense bone mass, only carbon-fiber framing. 
+Harper's eyes widened. Rin threw Vigil's synthetic arm over her shoulder to help move it. Bracing for dead weight, it was shockingly light. 
 
-"Okay, okay, listen," Harper whispered frantically, helping Rin drag the wounded Vigil through the maze of plastic-draped bodies. "If we hit the auxiliary lights, we can blind them for two seconds, maybe rush the tunnel—"
+"Okay, listen," Harper whispered frantically, helping Rin drag the wounded Vigil through the maze of plastic-draped bodies. "If we hit the auxiliary lights, we can blind them for two seconds, maybe rush the tunnel—"
 
 "—rush the tunnel," Vigil's broken whisper reflecting back at her. The words fell from the synthetic's lips at the exact same moment Harper spoke them. Not an echo. She was reciting a timeline.
 
-Harper's head spun toward the synthetic, "Hey if you know something—now's the time." Her voice a little more than a whisper.
+Harper’s head snapped toward the synthetic. “Hey—if you know something, now’s the time.”
 
 "No," Rin said, her voice dead flat. 
 
 "Okay, then we use the bodies," Harper rambled, her panic spiking. "We push the racks over, create a barricade—"
 
-"—create a barricade," the broken tones of Vigil's speech hung between them. 
+"—create a barricade," Vigil’s broken voice hung between them.
 
-"Harper, stop." Rin halted in the shadows of the dormant army. She looked at the frantic girl, the math already complete in her head. The detective had the main doors. His partner had the tunnel. It was Checkmate. 
+"Harper, stop." Rin stopped in the shadows of the dormant army. She looked at the frantic girl, the math was already complete: the detective had the main doors; his partner had the tunnel. It was Checkmate. 
 
 "Checkmate." Vigil's head fell forward.
 
@@ -60,21 +60,21 @@ Before Harper could argue, Rin stepped away from the cover of the plastic sheets
 
 Victor swept his light across the long rows of the dormant army. Hundreds of plastic-draped bodies stood shoulder to shoulder in the dark, tethered to the IV stands. 
 
-His beam washed over the aisle, catching the pale faces of the synthetics obscured by the plastic sheets, their silicone feeding tubes glowing faintly in the glare. The light swept past another figure standing in the line, moved a few feet further—and then Victor's brain registered what he had seen. 
+His beam passed over pale synthetic faces beneath the plastic sheets. Silicone feeding tubes glowed faintly in the glare. The light swept past another figure standing in the line, moved a few feet further—and then Victor's brain registered what he had seen. 
 
 He snapped the beam back. 
 
-Not a synthetic. A girl. She was wearing a black tank top, her arms covered in dark, intricate ink. She stood in a timid, half-bent stance, her hands raised in the air to surrender.
+Not a synthetic. A girl. She was wearing a black tank top, her arms covered in dark, intricate ink. She stood in a half-bent stance, her hands raised in the air to surrender.
 
-But as the harsh light hit her face, her eyes didn't squint. They were sharp, focused, and defiant. They were the exact same eyes that had stared back at him through the closing gap of the elevator door. 
+But as the harsh light hit her face, her eyes didn't squint, they were sharp and defiant. He recognized them from the elevator.
 
 *Null.* 
 
 Victor didn't lower his revolver. He kept the sight trained directly on her chest. "Harlan!" Victor shouted, his voice echoing in the space. "On me! I got her!"
 
-In the harsh glare of the flashlight, Rin's eyes darted to the side, looking deep into the maze of the hangar. 
+Rin’s eyes darted toward the maze of synthetics.
 
-Victor saw the wheels turning in her head. There was a slight shift in the metal of his revolver as he firmed his grip. "Hey. Don't do it."
+There was a slight shift in the metal of his revolver as Victor firmed his grip. "Hey. Don't do it."
 
 The girl took a slow, calculated step to the right. 
 
@@ -82,9 +82,9 @@ The girl took a slow, calculated step to the right.
 
 She bolted. 
 
-She sprinted hard to the right, cutting deep into the center of the dormant army. Victor followed her with his light, and began the pursuit.
+She sprinted right, cutting deep into the center of the dormant army. Victor followed her with his light, and began the pursuit.
 
-"She's on the move!" Victor roared, his long black coat tailing behind him. She was unarmed, he holstered his revolver, to focus on the chase. He wasn't going to lose her again. "Harlan, cut her off!"
+"She's on the move!" Victor roared, his long black coat tailing behind him. She was unarmed. Victor holstered his revolver so he could run faster. He wasn't going to lose her again. "Harlan, cut her off!"
 
 Victor chased the girl as she wove blindly through the maze of plastic-draped bodies, her boots pounding against the concrete.
 
