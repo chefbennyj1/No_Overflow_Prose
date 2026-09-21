@@ -64,7 +64,7 @@ The mechanical drone of the reactor shifted into a rhythmic pulse—a vibration 
 
 Blackwell’s smile widened. He watched the data stream, entranced by the magnitude of the activation. He was unaffected by the reverberating force of his creation. 
 
-The Board watched from their remote sanctuaries, confident that distance would protect them. They didn't understand the physics. If the containment failed, the resulting rupture would swallow them as easily as the lab. 
+The Board watched from their remote sanctuaries, certain distance would keep them safe. They didn’t understand. If containment failed, the rupture would swallow them as easily as the lab. 
 
 Behind him, technicians on the floor exchanged nervous glances, shrinking back from the railing. They were unnerved by the sheer physical presence of the machine, but Blackwell remained unbothered. 
 
