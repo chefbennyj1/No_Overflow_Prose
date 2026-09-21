@@ -5,9 +5,9 @@ Silas Blackwell took a drag from his cigarette, the ember flaring against the bl
 
 He didn't own any part of this view. He lacked the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the Zen-like patterns etched into the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
+The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the Zen-like patterns etched into the company's alloy railing. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
 
-He didn't need to turn around to acknowledge he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
+He didn't need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
 Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
@@ -23,7 +23,7 @@ Raising his cigarette to his lips one last time, the doctor inhaled until the en
 
 The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the lower city. The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima, they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
-Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The multi-tiered annex was an imposing expanse of sleek, featureless architecture. Sharp, geometric angles soared above and plunged below them, encased in tinted black glass refracting the rays of the rising sun, shifting their direction down forty floors below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping  dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
+Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles soared above and plunged below them. The buildings tinted black glass refracted the rising sun; its rays shifting forty floors below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping  dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
 
 When the doors parted, the air inside the lab moved with a low vibration. It was the terrifying reality of the city's reactor channeling into the floor beneath their feet.
 
@@ -127,3 +127,4 @@ Listed in the logs, record of a shadow process, quietly expanding in the core. B
 "I don't like the Board," he repeated.
 
 Elena exhaled, rubbing her temples. "And everybody knows it."
+
