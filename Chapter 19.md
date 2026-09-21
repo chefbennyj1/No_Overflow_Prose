@@ -16,7 +16,7 @@ Its head tilted, stuttering into fractured trails of motion. It tracked Elena's 
 The air in the lab rippled. A single frame of reality dropped. The entity was across the lab and in one millisecond, it was intimately close to Elena. The physical space between them only freezing molecules of air. 
 The entity caught Elena’s wrist as her fingertips brushed the red steel of the lever. Its necrotic touch felt like burning as the skin of Elena's wrist instantly turned a biting black. With an effortless, sickening twist, there was a sharp crack—the sound of a wet tree branch snapping in half. 
 
-Searing pain shot up Elena’s arm. The entity's open palm struck her chest. Her ribs fractured instantly. The air was violently evacuated from her lungs as she was launched backward into the dark. She flew across the width of the lab, before crashing brutally into the base of the reinforced glass. 
+Searing pain shot up Elena’s arm. The entity's open palm struck her chest. Her ribs fractured instantly. The air was violently evacuated from her lungs as she was launched backward into the dark. She flew across the width of the lab, before crashing brutally into the base of the railing overlooking the 
 
 Elena crumpled to the concrete floor. No breath. No movement. The room narrowed to a dark tunnel.
 
