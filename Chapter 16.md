@@ -1,10 +1,13 @@
+---
+music: Parity_Theme.mp3
+---
 **[VIGIL: Doctor Elena Marlowe. RUN.]**
 
 The command line blinked on the secondary terminal. 
 
 Elena stared at the single word. *Run.* The Mnemosyne engine didn't operate on panic. For it to suddenly understand danger meant it had *learned* to fear—a realization that pulled all sensation from her fingertips. 
 
-She took a slow step backward from the interface, error strings reflected across her face in bands of light.
+She stepped back slowly. The interface, error strings reflected across her face in bands of light.
 
 There was a dull, hollow thud that reverberated up through the concrete under her feet. Somewhere deep within the sub-levels of the tower, a power transformer blew. 
 
@@ -28,8 +31,8 @@ Elena fell backwards, catching herself on the server racks behind her. The entit
 
 "The compression is gone." The entity raised its hand in front of its face. Turning its hand, it inspected the contour of its own palm. "Everything feels so much lighter—" it said, turning its pitch-black focus to Elena, "—so much more... fragile."
 
-The voice didn't come from a vocal synthesizer. It emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
+The voice didn't come directly from the entity in front of her. It emanated from the glass, from the metal grating, from the room itself—an acoustic vibration that rattled the diagnostic tools on Elena's desk. 
 
  Elena had authored the engine's core code. She had helped design the horizon matrix. But she had never designed this. 
 
-The porcelain head of the machine tilted, the sudden movement fracturing into three distinct, lingering trails of motion, folding back on themselves into alignment.
+The porcelain head of the machine tilted, the sudden movement fracturing into three distinct, lingering trails of motion, folding back on themselves into alignment. Then is reached out.
