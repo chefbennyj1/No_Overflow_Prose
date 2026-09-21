@@ -8,11 +8,9 @@ She took a slow step backward from the interface, error strings reflected across
 
 There was a dull, hollow thud that reverberated up through the concrete under her feet. Somewhere deep within the sub-levels of the tower, a power transformer blew. 
 
-The observation deck plunged into darkness as the overhead floodlights died. Small, emergency lights clicked to life above the doors, casting an anemic glow, barely enough to find the exits in the dark. The lab came to a stop with a dragging decrescendo. Across the rest of the observation area, only the bleeding glow of the holographic error strings and the sickly luminescence of the pillars submerged in the coolant pools, lit the floor.
+The observation deck fell into darkness as the overhead floodlights died. Emergency lights clicked to life, casting an anemic glow in the dark. The lab came to a stop with a dragging decrescendo. Across the rest of the observation area, only the sickly luminescence of the pillars submerged in the coolant pools, lit the floor.
 
-Stillness. A skittering static charged across her skin. Then a quiet that crawled up the back of her neck. 
-
-She turned toward the reinforced security doors at the back of the lab, and stopped. 
+Stillness. A skittering static charged across her skin.  She turned toward the reinforced security doors at the back of the lab, and stopped. 
 
 Something's there. Waiting in the dark. 
 
