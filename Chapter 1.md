@@ -2,23 +2,24 @@
 music: Blackwell.mp3
 ---
 The Mnemosyne Engine was built to tear a hole directly into the physical boundaries of the known universe and fill it with the mass of an anti-star. 
-Standing on the wind-swept terrace of the Mnemosyne Lab, Silas Blackwell prepared his thoughts, something he took utmost pleasure in. The ember of his cigarette flared against the blues and ivory color of the early morning sky, as he took a drag. A mop of white hair blew untamed in the morning wind, a contradiction to the sharp, reverent lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He stood behind a pair of circular dark glasses, breathing a thin stream of smoke from his lips , he watched his world.
+
+Standing on the wind-swept terrace of the Mnemosyne Lab, Silas Blackwell prepared his thoughts—something he took utmost pleasure in. The ember of his cigarette flared against the blues and ivory of the early morning sky. A mop of white hair blew untamed in the wind, a contradiction to the sharp, reverent lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. Standing behind a pair of circular dark glasses, he breathed a thin stream of smoke from his lips and watched his world.
 
 He didn't own any part of this view. He lacked the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the Zen-like patterns etched into the company's alloy railing. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
+The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the Zen-like patterns etched into the company's alloy railing. The polished walkways were empty this early. The peak of New Veridia was a sleeping monster, ready to awake.
 
 He didn't need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
-Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
+Blackwell's voice was calm, carrying over the wind. "Are we ready, Miss Marlowe?" 
 
-Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the polished concrete of  the atrium pillars behind her. A gust of wind whipped the terrace, pushing her natural, shoulder-length hair across the dark skin of her face.
+Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the polished concrete of the atrium pillars behind her. A gust of wind whipped the terrace, pushing her natural, shoulder-length hair across the dark skin of her face.
 
 "Yes, Doctor Blackwell," she replied. Her golden eyes darted constantly, tracking the weather calculations on the door's blue holographics.
 
-*Nervous*,  Blackwell thought, *and she should be*.  They were about to tear a hole directly into the physical boundaries of their known universe, and fill it with the mass of an anti-star.
+*Nervous*, Blackwell thought, *and she should be*. 
 
-"The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But, you've got the three hundred and twenty terawatts," She said.
+"The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But, you've got the three hundred and twenty terawatts," she said.
 
 Raising his cigarette to his lips one last time, the doctor inhaled until the end burned close to the filter. He held the smoke in his lungs for another long second, then exhaled and dropped the butt over the edge of the railing.
 
