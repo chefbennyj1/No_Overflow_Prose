@@ -2,23 +2,23 @@ Strips of yellow emergency lights ran through the middle of the corridor walls, 
 
 The counter-weighted vault doors of Deep Storage unlocked with the loud movement of metallic rotary gears. They opened with the grind and squeal on their heavy iron hinges.
 
-Victor raised his revolver, and clicked the button on his tactical flashlight, slicing a beam of light through the silent room.
+Victor raised his revolver and clicked on his tactical flashlight. Its beam sliced through the silent room.
 
 He stepped inside the door, and stopped. The floor was wide open. Nowhere to step without being seen. Plastic-draped synthetics stretched into long uniform rows. The ticks of their peristaltic pumps randomly sounding off in across the floor. A perfect maze for an ambush. Victor swept his light across the grid, calculating the odds. Null was a hacker, but he didn't know if she was armed, or how many people she had brought with her to pull off a physical breach. 
 
-Harlan was chambering a round in his gun. He raised it and clicked on his own flashlight. His eyes met Victors. They both nodded, as they sidestepped into the vaulted hangar.
+Harlan chambered a round, raised his gun, and clicked on his flashlight. His eyes met Victor’s. They nodded and sidestepped into the vaulted hangar.
 
 Victor's eyes scanned the perimeter walls. At the far end of the grid, his beam caught the edge of an emergency service tunnel, its door propped half open.
 
 Victor signaled to Harlan with a quick upward nod. "Over there," he whispered. "Lock it down."
 
-Harlan broke away, moving quietly toward the far end of the hangar to cut off the emergency exit.
+Harlan broke away, moving quietly toward the emergency exit.
 ***
 A harsh beam of tactical light carved through the dark. 
 
-"The service tunnel is guarded. I'm on the main doors," The voice echoed across the room, cold and brutally pragmatic. "You're out of exits, Null. It's over."
+"The service tunnel is guarded. I'm on the main doors," the voice echoed across the room. "You're out of exits, Null. It's over."
 
-"—Null. it's over," Vigil's synthetic voice whispered between them. The synthetic's head lolled to the side, her voice a broken harmony mirroring the detective's exact inflection. 
+"—Null. It's over," Vigil's synthetic voice whispered between them. The synthetic's head lolled to the side. Her voice repeated the detective’s words in the same inflection, fractured and hollow. 
 
 Rin immediately crouched down among the plastic-draped synthetics, pulling Harper and Vigil with her into the shadows. 
 
