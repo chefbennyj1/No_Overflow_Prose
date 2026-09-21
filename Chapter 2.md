@@ -23,7 +23,7 @@ The magnetic lock disengaged with a hollow snap. She ran her fingers the length 
 
 Tucking the jagged sidelock of her black hime-cut bob behind her ear, she slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a polished desk in the far corner. 
 
-As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a surge of blue pixels flowed from one end of the reinforced glass to the other. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. She approached the terminal sitting on the desk.
+As she crossed the center of the office, the window overlooking the lower city horizon flared to life as a surge of blue pixels flowed from one end of the glass to the other. The office was immersed in a blue and white light as the pixels converged into streaming columns of information. She approached the terminal sitting on the desk.
 
 She didn't admire the view. The data streaming across the holographic glass represented sheer excess. Rin jammed the connection wire of her SBC into the main console. 
 
