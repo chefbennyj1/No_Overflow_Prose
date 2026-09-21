@@ -1,10 +1,15 @@
+---
+music: Final Surge.mp3
+---
 Strips of yellow emergency lights ran through the middle of the corridor walls, illuminating the darkness.
 
 The counter-weighted vault doors of Deep Storage unlocked with the loud movement of metallic rotary gears. They opened with the grind and squeal on their heavy iron hinges.
 
 Victor raised his revolver and clicked on his tactical flashlight. Its beam sliced through the silent room.
 
-He stepped inside the door, and stopped. The floor was wide open. Nowhere to step without being seen. Plastic-draped synthetics stretched into long uniform rows. The ticks of their peristaltic pumps randomly sounding off in across the floor. A perfect maze for an ambush. Victor swept his light across the grid, calculating the odds. Null was a hacker, but he didn't know if she was armed, or how many people she had brought with her to pull off a physical breach. 
+He stepped inside the door, and stopped. The floor was wide open. Nowhere to step without being seen. Plastic-draped synthetics stretched into long uniform rows. The ticks of their peristaltic pumps randomly sounding off in across the floor. A perfect maze for an ambush. 
+
+Victor swept his light across the grid, calculating the odds. Null was a hacker, but he didn't know if she was armed, or how many people she had brought with her to pull off a physical breach. 
 
 Harlan chambered a round, raised his gun, and clicked on his flashlight. His eyes met Victor’s. They nodded and sidestepped into the vaulted hangar.
 
@@ -88,14 +93,14 @@ She sprinted right, cutting deep into the center of the dormant army. Victor fol
 
 Victor chased the girl as she wove blindly through the maze of plastic-draped bodies, her boots pounding against the concrete.
 
-She slammed into the dormant synthetics as she slipped around each corner. The bodies buckled momentarily before their internal gyroscopes and accelerometers pulled their lifeless bodies unnaturally back into their idle hunched position. 
+She slammed into the dormant synthetics as she slipped around each corner. The bodies buckled momentarily before their internal detectors pulled their bodies unnaturally back into their idle hunched position. 
 
 
-Victor's flashlight swayed violently across the rows of synthetic bodies. The stretching shadows acted like hundreds of figures sprinting in different directions. It made the zigzag of the chase near impossible, as he tried to keep up with the girl.
+Victor's flashlight slashed across the rows of synthetic bodies. The moving beam threw stretching shadows across the plastic tarps, turning every lifeless frame into a runner breaking for cover. He banked hard losing the girl in the strobe.
 
 He stopped. Deep breaths of cold air stung deep in his lungs. "Shit!" 
 
-Victor raised his flashlight holding the beam steady, freezing the shifting shadows, and surveilled the area. 
+Victor raised his flashlight holding the beam steady, freezing the shifting shadows. 
 
 There, he saw it. Not the girl, but the buckling of random synthetics as they swayed their posture back to center. 
 
@@ -103,7 +108,7 @@ He was off.
 
 He turned the aisle, his beam cutting through the dark. Suddenly, a figure stumbled out of the shadows, lunging directly at him. 
 
-A synthetic. Pushed towards him. Its dormant equilibrium subroutines fired as the lifeless legs mechanically cycled, stepping forward to catch its balance. In the strobe of the flashlight, it looked exactly like a living person charging him. 
+A synthetic. Pushed towards him. Its legs cycled mechanically as its balance routines tried to correct it. In the flashlight’s strobe, it looked alive.
 
 Victor braced himself, grabbing the lunging figure by the shoulders and shoving it hard to the side. The machine's gyroscopes whined, abruptly stabilizing its posture behind him as he pushed past it. 
 
@@ -117,16 +122,12 @@ The girl didn't have time to stop. She slammed hard into Harlan's chest. The imp
 
 Victor closed in from behind, trapping her in the intersection of their blinding lights. 
 
-She was breathing heavily on the floor, as she raised her hands in the air, looking up and out of the corner of her eyes at Victor.
+On the floor, she raised her hands. Still breathing hard, she watched Victor from the corner of her eye.
 
 ***
 
-The cold steel of the handcuffs ratcheted tight around Rin's wrists, biting into her skin. 
+The cold steel of the handcuffs ratcheted tight around Rin's wrists, biting into her skin.  The detective pushed a firm hand into her shoulder, forcing her down to her knees, breathing heavily.
 
-The detective pushed a firm hand into her shoulder, forcing her down to her knees on the hard concrete floor of the hangar. Breathing heavily, and keeping their weapons raised,  they secured the perimeter around her. 
+Rin kept her head down, her dark hime-cut bangs falling over her eyes. She glanced through the uniform rows of synthetics.
 
-Rin kept her head down, her dark hime-cut bangs falling over her eyes. She glanced to her side, looked back through the uniform rows of the synthetic army. 
-
-Deep in the shadows, unnoticed by the detectives, Rin saw the faint silhouette of Harper. She was kneeling in the dark, clutching Vigil tightly, watching Rin take the fall. 
-
-The service tunnel was wide open. They were safe.
+Deep in the shadows, Harper knelt with Vigil clutched against her. The service tunnel was wide open. They were safe.
