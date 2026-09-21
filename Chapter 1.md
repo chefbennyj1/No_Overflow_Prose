@@ -1,11 +1,11 @@
 ---
 music: Parity.mp3
 ---
-The Mnemosyne Engine was built to tear a hole directly into the physical boundaries of the known universe and fill it with the mass of an anti-star. 
+The Mnemosyne Engine was built to tear a hole through the known universe and fill it with the mass of an anti-star.
 
 Silas Blackwell took a drag from his cigarette, the ember flaring against the blues and ivory color of the early morning sky. A mop of white hair blew untamed in the morning wind, a contradiction to the sharp, reverent lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He stood behind a pair of circular dark glasses, breathing a thin stream of smoke from his lips. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
-He didn't own any part of this view. He lacked the inheritance to buy a single square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
+He didn’t own any of it. He couldn’t buy a square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
 The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the Zen-like patterns etched into the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
 
