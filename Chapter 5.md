@@ -1,10 +1,13 @@
+---
+music: Ashes in Orbit (1).mp3
+---
 Beyond the physical constraints of the laboratory, beneath the bedrock and the server racks, the core of the Mnemosyne Engine did not exist as circuitry. 
 
 It was a system, alien and indifferent to the organic minds that created it.
 
 Staggered monoliths of pale stone and patinaed metal floated in a bottomless expanse. They formed fractured nodes and corbelled spires, repeating despite never being quite uniform. They had been built and abandoned by whatever came before. Now they drifted, refactoring themselves in a terrifying silence. 
 
-On one side of the expanse hung the event horizon—an immense, looping singularity of blazing white light that folded and spun across multiple dimensions.
+On one side of the expanse hung the event horizon—an immense, looping singularity, edges of blazing white light that folded and spun across multiple dimensions.
 
 Within this localized gravity well, a single real-world second stretched forever.
 

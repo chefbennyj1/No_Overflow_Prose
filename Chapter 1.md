@@ -1,5 +1,5 @@
 ---
-music: Parity.mp3
+music: Blackwell.mp3
 ---
 Silas Blackwell took a drag from his cigarette, the ember flaring against the blues and ivory color of the early morning sky. A mop of white hair blew untamed in the morning wind, a contradiction to the sharp, reverent lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He stood behind a pair of circular dark glasses, breathing a thin stream of smoke from his lips. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
