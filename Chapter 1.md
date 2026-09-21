@@ -7,7 +7,7 @@ He didn't own any part of this view. He lacked the inheritance to buy a single s
 
 The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the Zen-like patterns etched into the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
 
-There didn't need to turn around to acknowledge he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
+He didn't need to turn around to acknowledge he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
 Blackwell's voice was calm, carrying over the wind, "Are we ready, Miss Marlowe?" 
 
