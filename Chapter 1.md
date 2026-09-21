@@ -7,7 +7,7 @@ Silas Blackwell took a drag from his cigarette, the ember flaring against the bl
 
 He didn’t own any of it. He couldn’t buy a square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The night’s heavy rain had washed the air clean, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the Zen-like patterns etched into the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
+The rain had cleared the air, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the Zen-like patterns etched into the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The polished walkways were empty, this early. The peak of New Veridia was a sleeping monster, ready to awake.
 
 He didn't need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
@@ -33,11 +33,11 @@ Past the primary control consoles, the floor was manned by a mix of human techni
 
 Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock. What ascended through the facility's foundation, and protruded into this observation chamber was a cluster of white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
 
-A layer of opaque gas rolled across the engine pit, obscuring the white paneled floor beneath. It broke against and circled the edges of the pillars like silent rapids before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was chilling, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
+Opaque gas rolled across the engine pit, hiding the white paneled floor beneath. It circled the edges of the pillars before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was chilling, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
 
 "Main Fusion's supply is a drop in the bucket for what we're asking it to unearth, Miss Marlowe," Blackwell said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
 
-Bracing his weight against the railing, he leaned forward, his reflection distorted in the reinforced glass. "The board wants better data compression. A smarter artificial intelligence to predict their margins."
+He braced himself against the railing and leaned forward, his reflection distorted in the safety glass. "The board wants better data compression. A smarter artificial intelligence to predict their margins."
 
 A humorless breath fogged the glass. "What I'm building will pioneer a new era." He paused, listening to the quiet tick of the holographic monitors. "My singularity."
 
