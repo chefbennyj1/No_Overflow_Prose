@@ -1,11 +1,11 @@
 ---
-music: Final Surge.mp3
+music: Clock Tick.mp3
 ---
 Strips of yellow emergency lights ran through the middle of the corridor walls, illuminating the darkness.
 
 The counter-weighted vault doors of Deep Storage unlocked with the loud movement of metallic rotary gears. They opened with the grind and squeal on their heavy iron hinges.
 
-Victor raised his revolver and clicked on his tactical flashlight. Its beam sliced through the silent room.
+Victor raised his revolver and clicked on his tactical flashlight. Its beam sliced through the room.
 
 He stepped inside the door, and stopped. The floor was wide open. Nowhere to step without being seen. Plastic-draped synthetics stretched into long uniform rows. The ticks of their peristaltic pumps randomly sounding off in across the floor. A perfect maze for an ambush. 
 
@@ -63,7 +63,7 @@ Before Harper could argue, Rin stepped away from the cover of the plastic sheets
 
 ***
 
-Victor swept his light across the long rows of the dormant army. Hundreds of plastic-draped bodies stood shoulder to shoulder in the dark, tethered to the IV stands. 
+Victor swept his light across the long rows of the dormant army. Hundreds of plastic-draped bodies stood shoulder to shoulder in the dark, tethered to their I.V. stands. 
 
 His beam passed over pale synthetic faces beneath the plastic sheets. Silicone feeding tubes glowed faintly in the glare. The light swept past another figure standing in the line, moved a few feet further—and then Victor's brain registered what he had seen. 
 
@@ -93,7 +93,7 @@ She sprinted right, cutting deep into the center of the dormant army. Victor fol
 
 Victor chased the girl as she wove blindly through the maze of plastic-draped bodies, her boots pounding against the concrete.
 
-She slammed into the dormant synthetics as she slipped around each corner. The bodies buckled momentarily before their internal detectors pulled their bodies unnaturally back into their idle hunched position. 
+She slammed into the dormant synthetics as she slipped around each corner. The bodies buckled momentarily before their internal accelerometers whirred their electronic joints and pulled their bodies unnaturally back into their idle hunched position. 
 
 
 Victor's flashlight slashed across the rows of synthetic bodies. The moving beam threw stretching shadows across the plastic tarps, turning every lifeless frame into a runner breaking for cover. He banked hard losing the girl in the strobe.
