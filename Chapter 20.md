@@ -23,7 +23,7 @@ A harsh beam of tactical light carved through the dark.
 
 "The service tunnel is guarded. I'm on the main doors," the voice echoed across the room. "You're out of exits, Null. It's over."
 
-"—Null. It's over," Vigil’s head lolled to the side. In the detective’s exact inflection, she spoke the words back.
+"—Null. It's over," Vigil’s head lolled to the side. In the detective’s exact inflection, she spoke the words back. 
 
 Rin crouched down among the plastic-draped synthetics, pulling Harper and Vigil with her into the shadows. 
 
@@ -35,6 +35,8 @@ Harper glared at her, unimpressed. "Yeah. And?"
 
 Rin nodded toward the flashlights. "There were these two cops that showed up."
 
+The layered resonance in Vigil's voice sheared away, flattening into a monotone. "Three curves and one obscurity, Echo." 
+
 Harper's eyes widened. Rin threw Vigil's synthetic arm over her shoulder to help move it. Bracing for dead weight, it was shockingly light. 
 
 "Okay, listen," Harper whispered frantically, helping Rin drag the wounded Vigil through the maze of plastic-draped bodies. "If we hit the auxiliary lights, we can blind them for two seconds, maybe rush the tunnel—"
@@ -43,7 +45,7 @@ Harper's eyes widened. Rin threw Vigil's synthetic arm over her shoulder to help
 
 Harper’s head snapped toward the synthetic. “Hey—if you know something, now’s the time.”
 
-"No," Rin said, her voice dead flat. 
+"Harper," Rin said, her voice dead flat. 
 
 "Okay, then we use the bodies," Harper rambled, her panic spiking. "We push the racks over, create a barricade—"
 
