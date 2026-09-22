@@ -49,13 +49,13 @@ Harper’s head snapped toward the synthetic. “Hey—if you know something, no
 
 "—create a barricade," Vigil’s broken voice hung between them.
 
-"Harper, stop." Rin stopped in the shadows of the dormant army. She looked at the frantic girl, the math was already complete: the detective had the main doors; his partner had the tunnel. It was Checkmate. 
+"Harper, stop." Rin stopped in the shadows of the dormant army. She looked at the frantic girl, the math was already complete: the detective had the main doors; his partner had the tunnel. They had made it this far, and had Vigil. There was no clean way to save them all. It was Checkmate. 
 
 "Checkmate." Vigil's head fell forward.
 
 "What are you doing, Erin?" Harper whispered.
 
-Rin grabbed Harper by the collar of her jacket and pulled her in. She kissed her. It was soft, frantic—stolen as the flashlight beams swept over the plastic sheets beside them.
+If Rin told her the truth, Harper would stop her before she could do the one thing that still mattered. Rin grabbed Harper by the collar of her jacket and pulled her in. She kissed her. It was soft, frantic—stolen as the flashlight beams swept over the plastic sheets beside them.
 
 Rin broke away, shoving the weight of the synthetic entirely onto Harper. She shrugged off her oversized leather jacket and pressed it hard into Harper's chest. "Stay down. When they move, you run. And don't call me that. It's Rin."
 
