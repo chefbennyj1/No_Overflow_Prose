@@ -19,11 +19,11 @@ Before Iris could answer, a dull, hollow thud reverberated through the concrete 
 
 The bright corporate lighting died. The shafts of morning sunlight angled down and cut lines across the floor in the hallway. 
 
-A second later, the backup relays clicked. Battery-powered emergency strips flickered to life along the edges of the walls, their weak yellow light instantly washed out by the sunlight cutting across the room. 
+A second later, the backup relays clicked. Battery-powered emergency strips flickered to life along the edges of the walls, their weak yellow light instantly washed out by the sunlight cutting across the hallway. 
 
 "What? That shouldn't happen," Iris whispered. She pushed her glasses back into position on her face. 
 
-"What 'shouldn't happen', Miss Ito?" Detective Graves looked around the atrium. Mobilizing Renewal agents, workers and synthetics moved quickly toward the end of the hallway.  
+"What 'shouldn't happen', Miss Ito?" Detective Graves looked around the hallway. Mobilizing Renewal agents, workers and synthetics moved quickly toward the end of the hallway.  
 
 "Detectives—" Iris looked frantically at her screen, "There is a containment breach," She scrolled quickly through the data on the screen. 
 
