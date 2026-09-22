@@ -5,13 +5,20 @@ Iris hurried the detectives past the turnstiles, her white lab coat billowing ov
 
 Iris couldn't stop analyzing the man in the trench coat. He was striking— the way his white hair and pale skin looked against the sunlight in the atrium. He lacked the clean cut style of New Veridia's elite, and he moved with a measured stride. 
 
-"I am Detective Victor Graves, and this is my partner Officer Frank Harlan. " His voice was low, his eyes tracking the security cameras overhead. "Who are you?" 
+She risked a glance back toward the atrium. The mezzanine was empty. Blackwell hadn't followed them, but he had figured out she knew the shadow process existed, and what it was.
 
-"Iris Ito." Her words spilling out quickly. "I'm a horizon boundary analyst. I monitor the non-linear dynamics of the... well actually... I ensure the safe state of the gravity well, so that environments don't fall victim to the boundary paradox... because—you know event horizons—" she continued with a nervous laugh, "— we wouldn't want to have a systematic collapse creating an extinction level event." 
+
+"I am Detective Victor Graves, and this is my partner Officer Frank Harlan. " His voice was low, his eyes tracking the security cameras overhead. "Who are you? And who was the suit on the balcony?" 
+
+"Iris Ito." Her words spilled out quickly. "I'm a horizon boundary analyst. I monitor the non-linear dynamics of the... well actually... I ensure the safe state of the gravity well, so that environments don't fall victim to the boundary paradox... because—you know event horizons—" she continued with a nervous laugh, "— we wouldn't want to have a systematic collapse creating an extinction level event." 
 
 Her proud, rapid-fire explanation trailed off. Both men were staring at her with blank confusion. 
 
-Iris swallowed hard, forcing herself to get to the point. "If you're looking for Silas Blackwell, you're already too late."
+Iris swallowed hard, forcing herself to get to the point. "That was Doctor Silas Blackwell."
+
+"That was Blackwell?" Victor started back toward the atrium.
+
+"I'm afraid, you're too late, Detective." Iris yelled after him. Victor stopped and turned to face her.
 
 "What does that mean?" Officer Harlan asked, adjusting his suit. 
 
@@ -23,9 +30,9 @@ A second later, the backup relays clicked. Battery-powered emergency strips flic
 
 "What? That shouldn't happen," Iris whispered. She pushed her glasses back into position on her face. 
 
-"What 'shouldn't happen', Miss Ito?" Detective Graves looked around the hallway. Mobilizing Renewal agents, workers and synthetics moved quickly toward the end of the hallway.  
+"What 'shouldn't happen', Miss Ito?" Detective Graves looked around the hallway. Renewal agents were mobilizing while workers and synthetics moved quickly toward the end of the hallway.  
 
-"Detectives—" Iris looked frantically at her screen, "There is a containment breach," She scrolled quickly through the data on the screen. 
+"Detectives—" Iris looked frantically at her screen. "There is a containment breach," She scrolled quickly through the data on the screen. 
 
 "Miss Ito?" Officer Harlan had an unsteady shift in his voice. He looked toward his partner. "Victor, it might be  time to leave."
 
@@ -35,7 +42,7 @@ A second later, the backup relays clicked. Battery-powered emergency strips flic
 
 "Well... um, actually—there seems to be several things happening, really. You see—remember when I told you about the Boundary Paradox—well—" a hesitant laugh fell into her register, "There's that, but—um— Renewal is reporting unauthorized access to a lower company service tunnel, using a street-level 'Null' override." She took a breath, "I'm not sure if they're related in any—"
 
-Victor froze in the hallway. He took a slow step forward, the blue glare of the datapad highlighting his features as he narrowed his focus toward her. "What did you just say?"
+Victor froze in the hallway. He took a slow step forward, the blue glare of her screen highlighting his features as he narrowed his focus toward her. "What did you just say?"
 
 "Um—yeah—Null system override," Iris repeated, looking up at him. "In a sub-level storage hangar."
 
