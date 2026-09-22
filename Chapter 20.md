@@ -59,8 +59,6 @@ If Rin told her the truth, Harper would stop her before she could do the one thi
 
 Rin broke away, shoving the weight of the synthetic entirely onto Harper. She shrugged off her oversized leather jacket and pressed it hard into Harper's chest. "Stay down. When they move, you run. And don't call me that. It's Rin."
 
-"—Harlan, cut... her... off..." Vigil's dual tone was quiet and broken.
-
 Before Harper could argue, Rin stepped away from the cover of the plastic sheets and into the aisle. 
 
 ***
@@ -73,7 +71,7 @@ He snapped the beam back.
 
 Not a synthetic. A girl. She was wearing a black tank top, her arms covered in dark, intricate ink. She stood in a half-bent stance, her hands raised in the air to surrender.
 
-But as the harsh light hit her face, her eyes didn't squint, they were sharp and defiant. He recognized them from the elevator.
+But as the harsh light hit her face, her eyes didn't squint, they were sharp and defiant. Victor recognized them. The girl from the elevator.
 
 *Null.* 
 
