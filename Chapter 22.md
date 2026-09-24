@@ -1,5 +1,5 @@
 ---
-music: Fractured Time Pulse.mp3
+music: Terrifying_Sadness.mp3
 ---
 "Four weeks, Miss Adler." Detective Victor Graves sounded exhausted.
 
@@ -9,7 +9,7 @@ The orange, one-piece correctional jumpsuit Rin wore was a size too big. It hung
 
 He leaned over the stainless steel table, his colorless eyes catching the harsh fluorescent light. He studied the fading, yellowed bruising along the side of her jaw and the closed scab on her lip. The humor drained out of his expression. He shot a brief glance toward the heavy steel door—out to where the guards were stationed. "Looks like it's healing," he said, sounding like he was reassuring himself. 
 
-Rin didn't speak. What was wrong with this cop? This wasn't the first time she had found herself sitting here, her wrists cuffed to the center ring. 
+Rin didn't speak. What was wrong with this cop? This wasn't the first time she had found herself sitting here, her wrists cuffed to the tables center ring. 
 
 Victor cleared his throat, his brief moment of distraction vanishing behind a hardened stare. 
 
