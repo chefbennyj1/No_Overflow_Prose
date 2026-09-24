@@ -1,3 +1,6 @@
+---
+music: Fractured Time Pulse.mp3
+---
 "Four weeks, Miss Adler." Detective Victor Graves sounded exhausted.
 
 The orange, one-piece correctional jumpsuit Rin wore was a size too big. It hung loose off her shoulders, exposing the white cotton tank top underneath. A serial number was stenciled across the breast in block lettering: D.O.C. 3 9 8.
@@ -10,9 +13,9 @@ Rin didn't speak. What was wrong with this cop? This wasn't the first time she h
 
 Victor cleared his throat, his brief moment of distraction vanishing behind a hardened stare. 
 
-He dropped a plastic folder of thin sheets, their digital ink still shifting, onto the table, pinning it under his index finger as he stared down at her."That file keeps getting bigger."
+He dropped a plastic folder of thin sheets, their digital ink still shifting, onto the table, pinning it under his index finger as he stared down at her. "That file keeps getting bigger."
 
-It was the exact same set of questions he had been asking for a month. She knew better than to open her mouth. She kept her head down, glaring up at him through her bangs.
+It was the exact same set of questions he had been asking for a month. She knew better than to open her mouth. She kept her head down, glaring up at him.
 
 "Let's go over it again," Victor said, pushing away from the table to pace the small room. "Corporate espionage, network subversion, infrastructure sabotage... it's a long sheet."
 
@@ -40,7 +43,7 @@ The reality of her total isolation settled over her. The Madame had abandoned he
 
 He leaned in closer, dropping his voice to a quiet, commanding tone, "I found you. In that place, at that moment. I'm the only person alive who knows where you're sitting." 
 
-Rin heard his voice, *I found you in this place, at this moment.* She stopped fighting, and slumped back in the steel chair, breaking eye contact to stare at the dirty tiles on the floor.
+Rin heard his voice, *I found you in this place, at this moment.* She stopped fighting, and slumped back in the steel chair, breaking eye contact to stare at the dirty tiles on the floor. The echo of Vigil's broken two tone voice play the phrase over in her head. It was what the synthetic had said to her the night in Deep Storage.
 
 "Now, why did you take the job, Erin?" he asked, pinning her with his colorless eyes. "Did you steal that data because you wanted to help the Filament burn this city to the ground... or did you just do it because you were desperate to buy your way out of the slums?"
 
