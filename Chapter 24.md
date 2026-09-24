@@ -1,5 +1,5 @@
 ---
-music: Interstellar Drift.mp3
+music: creeping tension.mp3
 ---
 The single fluorescent tube overhead flickered, popping with an electrical snap. Victor Graves sat still, staring across the metal table. He had been patient. He wanted the head of the Filament, and Erin Adler was the bait. If she wanted to avoid a concrete cell, she would make a deal.
 
@@ -93,13 +93,21 @@ The glare punched straight through Victor's eyelids. It took the table, the girl
 
 "Harlan? Grab her!" Victor could hear the sound of the synthetic changing position again. There was no response from his partner. The chains drawing tight against the ring on the table.  Then the violent crack of the metal ring breaking into pieces.
 
-Victor reached out, grasping into the brightness. His hand closed on a wrist. Warm, a pulse going hard under his fingers, the sleeve of a jumpsuit a size too big bunching into his fist. He had her. He couldn't see but, he had her, and he held on with everything he had left in him.
+Victor reached out from the wet tile, grasping into the brightness. His hand closed on a wrist. Warm, a pulse going hard under his fingers, the sleeve of a jumpsuit a size too big bunching into his fist. He had her. He couldn't see but, he had her, and he held on with everything he had left in him.
 
-She didn't pull. She stepped close insteadclose enough that he felt the breath of it against his ear, and she wasn't afraid.
+She didn't pull. She stepped close instead—close enough that he felt her breath against his ear. She wasn't afraid.
 
-"I told you," she said. "They don't have control."
+"I told you," she whispered. "They don't have control."
 
-She rolled her wrist against his thumb and she was out of his hand.
+She rolled her wrist against his thumb, breaking his grip. 
+
+Victor grasped blindly for her again in the glare, but before he could, her hand clamped down hard on his wrist. She pulled him closer. 
+
+"Ask yourself, Detective. Why does the Filament want custodial access to the Company's Deep Storage? We both saw what's down there. What could the Madame do with an entire army of Renewal synthetics?"
+
+Victor didn't move. The searing blue light still burned through his eyelids, but his mind went dead still. He saw the endless rows of plastic-draped bodies in the dark. 
+
+She let go of his arm. He didn't try to grab her again.
 
 Victor's eyes adjusted to the room. Harlan was already at the door. Out in the corridor, the shouting changed. Confusion. Frustration. Victor reached the door too. In the bullpen, the intake synthetic unit, the pair of synths on the holding gate, the clerk in evidence. Every machine on the floor came off standby inside the same moment.
 
@@ -107,4 +115,4 @@ A man yelled at one to move. It didn't move.
 
 Fifty officers in the dark, and not one machine moved when told. They had walked to the places where they would be most in the way, and stopped. The precinct synthetics were making a lane.
 
-Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame of the Filament. He'd watched it happen an minute ago.  She had never been breaking. She'd been waiting on her ride.
+Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame of the Filament. She had just handed him the Madame on a silver platter, but it wasn't a confession. It was an assignment. She had never been breaking. She'd been waiting on her ride.
