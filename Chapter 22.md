@@ -25,7 +25,7 @@ Rin's jaw tightened. She knew exactly who he meant, but there was no way a beat 
 
 He was asking the wrong questions. Focused on the wrong part of his case.
 
-"Four months," Victor said, shaking his head. "Four months the Tech Division chased Null. Chased you."
+"Ten months ," Victor said, shaking his head. "Ten months the Tech Division chased Null. Chased you."
 
 Rin had finally had enough. The silence broke. "A division?" she laughed, dry and cynical. "What? A division of one?"
 
