@@ -3,19 +3,25 @@ music: Sad_Drone_1.mp3
 ---
 The blueish tinge blurred and resolved into a sterile ceiling. 
 
-The weightlessness was gone. In its place, a crushing ache radiated through Elena’s ribs. A plastic oxygen mask pressed against her face. The rhythmic pulse of a medical monitor counted the seconds beside her. This was a physical body. This was a hospital. 
+The weightlessness was gone. In its place, a crushing ache radiated through Elena’s ribs. A heavy, negative-pressure respirator was strapped over her face. The rhythmic pulse of a medical monitor counted the seconds beside her. This was a physical body. This was a hospital isolation room. 
 
 Voices pulled her attention to the far side of the room. 
 
-A woman stood in the open doorway, her back to the bed. She wore a white lab coat. Iris. Her messy hair was tied back, and she spoke into the hallway with practiced authority. 
+A figure stood in the open doorway, their back to the bed. They were encased in a yellow bio-containment suit. Their face obscured by encapsulating soft hood. An coiled orange air tube extended from the suit to a connection on the ceiling. The figure spoke into the hallway with practiced authority. 
 
-"Negative. Still under," Iris said, her tone clinical. "She suffered significant trauma. We will notify you the moment that changes." 
+"Negative. Still under," the muffled voice said, sounding distinctly clinical. "The biological exposure protocols remain active. We will notify you the moment her status changes." 
 
-A modulated voice answered from the corridor. "Understood, Doctor. We will be right outside." 
+A modulated voice answered from the corridor. "Understood, Doctor. We will maintain the seal." 
 
-The door slid shut. The moment the lock clicked, Iris turned around. Looking at the floor, she slumped her shoulders, her posture breaking. She let out a ragged exhale, shoving her black-rimmed glasses up the bridge of her nose.
+The heavy, airtight door slid shut. The moment the lock hissed into place, the figure turned around. Looking at the floor, they slumped their shoulders, their posture breaking. 
 
-She looked up and froze when she saw Elena watching her. 
+Elena's heart rate spiked on the monitor. She was in bio-containment. 
+
+The figure reached up to the neck seal, unzipped the heavy collar, and pulled the encapsulating hood back over her shoulders to reveal a messy bun and black-rimmed glasses. 
+
+Iris. 
+
+She let out a ragged exhale, shoving her glasses up the bridge of her nose. She looked up and froze when she saw Elena watching her. 
 
 Iris crossed the room in three rapid strides, leaning over the metal bed rail. "Don't—don't talk. Okay? You're—" She shoved her glasses up again. "You're awake. You're actually awake. That's good, that's really good, it's also a problem, but it's good."
 
@@ -27,19 +33,20 @@ Elena’s pulse spiked on the monitor. The steady beep accelerated.
 
 Iris reached down and tapped the screen, muting the audio warning. "I'm not supposed to be here." She checked the intravenous bags by the bed.
 
-"The Company—they brought you in as a Jane Doe. To hide you. Because—well, I don't actually know... did you see something? You—You must have seen something. Was it the shadow process in the engine?" Iris shot a nervous glance toward the door. "We have to keep quiet—those agents—I definitely do not like them."
+"The Company—they brought you in as a Jane Doe. You're in bio-containment... Oh... Actually you can probably see that. They are hiding you, Elena. Because—well, I don't actually know... did you see something? You—You must have seen something." Iris' eyes widened she looked iat Elena. "Was it the shadow process in the engine?" 
 
-She turned back to the monitors beside Elena's bed. "I figured you caught the shadow process. Doctor Blackwell was hiding it. That inversion persona from the thesis—" 
+*Shadow process?*
 
+Iris shot a nervous glance toward the door. "We have to keep quiet—those agents—I definitely do not like them." She turned back to the monitors beside Elena's bed. "I figured you caught the shadow process. Doctor Blackwell was hiding it. That inversion persona from the thesis—" 
 A sharp pain swelled in Elena's chest. Tears welled in her eyes as she stared at the ceiling. A flood of memories—the glassy entity and the fractured laboratory returning in jagged fragments. She caught her breath.
 
-Iris muted the pulse monitor alarm, again. She grabbed a clean cloth from the side table and dabbed Elena's eyes clear. Her voice dropped even lower. "Okay, okay. You're upset. The inversion persona. I shouldn't have brought it up.  Just... take it easy." 
+Iris muted the pulse monitor alarm, again. She grabbed a clean cloth from the side table and dabbed Elena's eyes clear. Her voice dropped even lower. "Okay, okay. You're upset. The inversion persona. I shouldn't have brought it up.  Just... just take it easy." 
 
-Iris forced a lighter tone, flipping up the plastic security badge clipped to her white coat. "I stole the badge." She let out a short nervous laugh, pushed her glasses up, and looked at Elena out of the corner of her eye. For Elena, it felt good to smile, but pain flared in her chest as she tried to join the laugh.
+Iris forced a lighter tone, tapping the plastic security badge clipped to the hip of her yellow containment suit. "I stole the badge." She let out a short nervous laugh, pushed her glasses up, and looked at Elena out of the corner of her eye. For Elena, it felt good to smile, but pain flared in her chest as she tried to join the laugh.
 
-"It took me three weeks to find this room, and I've been wearing this coat for seven days waiting for you to open your eyes." She let out a short breath. "No one's been the wiser, actually."
+"Because you were in direct contact with the entity, the Company classified you as an unknown pathogen risk," Iris explained, gesturing to the heavy yellow fabric. "It took me three weeks to find this Isolation Room, and I've been sweating in this suit for seven days waiting for you to open your eyes." She let out a short breath. "No one's been the wiser, actually."
 
-*Thesis? Shadow process?*
+
 
 "Blackwell is gone," Iris whispered, the words rushing out. Elena's wide eyes found Iris's. "I mean, he's not *gone* gone. He sealed himself inside the Mnemosyne lab the night of the breach. Corporate locked it down. No one goes in. No one comes out. At all."
 

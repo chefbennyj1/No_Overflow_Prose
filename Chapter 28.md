@@ -5,7 +5,7 @@ The lights in the sterile hospital room buzzed and flickered.
 
 In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished public relations synthetic—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
 
-Iris stood by the window, looking back at the screen. Her stolen white lab coat fell from her shoulders, stopping inches above the floor. She pushed her black-rimmed glasses up her nose, her hands trembling. 
+Iris stood by the window, looking back at the screen. The heavy, yellow Level-4 bio-containment suit made every movement clumsy and loud. She pushed her black-rimmed glasses up her nose, her hands trembling inside the thick rubber gloves.
 
 Out the window, the Oshima cloud cover extended out below her. In the distance, red and auburn light glowed and swelled beneath the clouds. Plumes of dark smoke rose and dirtied the air the color of soot.
 
@@ -29,7 +29,7 @@ Iris swallowed hard. "They're going to want to see the body."
 
 "Then you don't let them." Elena shifted her weight, falling back against the pillow. "But first, you need to clear the floor."
 
-Iris understood. Turning to the room's integrated terminal, she swiped the stolen medical badge pinned to her coat. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
+Iris understood. Turning to the room's integrated terminal, she swiped the stolen medical badge pinned to her containment suit. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
 
 The screen flashed with the floor's telemetry network. Iris didn't hesitate. She dragged her finger across the display, manually overriding the vitals for three patients in the intensive care ward down the hall. 
 
@@ -55,13 +55,13 @@ The two Corporate Renewal agents instantly turned. They were imposing, clad in i
 
 Iris shoved the gurney into the hallway, steering it straight at them. 
 
-"Move!" Iris yelled, her voice cracking with desperate authority. "The asset flatlined!"
+"Move!" Iris yelled, her voice muffled but frantic through the heavy rubber of the bio-suit. "Code Orange! The asset flatlined!"
 
 The guard on the right held up a heavy, gloved hand, blocking her path. "Doctor, protocol requires visual confirmation of the—"
 
-"The power surge fried her neural implant!" Iris snapped, slamming the gurney into his armored chest to force him back. "If I don't get this body into the sub-level cryogenic scanners in the next ninety seconds, the Company loses all of her residual brain data." She glared up at the black visor, her chest heaving. "If you want to explain to Silas Blackwell why his multi-billion dollar project is gone, go ahead and lift the sheet."
+"Do not break the negative pressure seal!" Iris snapped, slamming the gurney into his armored chest to force him back. "This is a BSL-4 Airborne Infection Isolation protocol. The asset was in direct contact with an unknown pathogen from the Mnemosyne entity. If you lift that sheet in this hallway, you will contaminate this entire wing." She glared up at his faceless black visor, her chest heaving. "If you want to explain to Silas Blackwell why you forced the Company to incinerate this entire building, go ahead and lift it."
 
-The guard froze. The name carried too much weight. He took a half-step back. 
+The guard froze. He stared at her yellow containment suit, the threat of an unknown biological agent outweighing his orders. He took a half-step back.
 
 Iris didn't wait. She put her weight into the gurney and pushed it rapidly down the polished corridor, fighting to keep the wheels straight.
 
@@ -79,11 +79,11 @@ Before the lead agent could step onto the floor, Iris shoved the gurney violentl
 
 "Going down!" Iris yelled, her voice frantic as she slammed her hand against the sub-level button. 
 
-The lead agent grabbed the edge of the elevator door, stopping it from closing. He looked down at the sheet, then up at Iris. "We are here for the Jane Doe."
+The lead agent grabbed the edge of the elevator door, stopping it from closing. He looked down at the sheet, then up at Iris's yellow suit. "We are here for the Jane Doe."
 
-"You're too late," Iris fired back, her hands trembling on the gurney rail. "The asset flatlined. I have two minutes to scan the residual data before the neural implants degrades." She locked eyes with his black visor. "Do not make me miss this window."
+"You're too late," Iris fired back, her hands trembling on the gurney rail. "The asset flatlined. We have a Code Orange contagion risk. I am transporting her to the sub-level bio-incinerator." She locked eyes with his black visor. "Do not break the seal."
 
-The agent stared at her. Slowly, he released the door. "We will escort the body to the sub-level."
+The agent stared at her hazmat suit. Slowly, he released the door. "We will escort the body to the sub-level."
 
 The heavy steel doors slid shut, sealing Iris inside a metal box with four corporate killers and the woman they were sent to dispose of. 
 
