@@ -38,6 +38,7 @@ Iris reached down and tapped the screen, muting the audio warning. "I'm not supp
 *Shadow process?*
 
 Iris shot a nervous glance toward the door. "We have to keep quiet—those agents—I definitely do not like them." She turned back to the monitors beside Elena's bed. "I figured you caught the shadow process. Doctor Blackwell was hiding it. That inversion persona from the thesis—" 
+
 A sharp pain swelled in Elena's chest. Tears welled in her eyes as she stared at the ceiling. A flood of memories—the glassy entity and the fractured laboratory returning in jagged fragments. She caught her breath.
 
 Iris muted the pulse monitor alarm, again. She grabbed a clean cloth from the side table and dabbed Elena's eyes clear. Her voice dropped even lower. "Okay, okay. You're upset. The inversion persona. I shouldn't have brought it up.  Just... just take it easy." 
