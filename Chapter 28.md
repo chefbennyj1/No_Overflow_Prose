@@ -31,11 +31,11 @@ Iris swallowed hard. "They're going to want to see the body."
 
 Iris understood. Turning to the room's integrated terminal, she swiped the stolen medical badge pinned to her coat. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
 
-The screen flashed with health records. Her hand hovered nervously over the medical monitor. "This one... maybe?" Her finger found the button. A muffled bell alarm began to sound down the hall from the empty surgical suite at the far opposite end of the corridor. She looked back at Elena with wide eyes. "Yup. That one..."
+The screen flashed with the floor's telemetry network. Iris didn't hesitate. She dragged her finger across the display, manually overriding the vitals for three patients in the intensive care ward down the hall. 
 
-Ninety seconds.
+A massive, synchronized Code Blue alarm sounded on the quiet of the floor. 
 
-Through the heavy door, they could hear the frantic shouting of the floor nurses and the squeak of a crash cart being rushed away from their room. The medical staff was distracted.
+Through the door, they could hear the frantic shouting of the triage nurses and the squeal of crash carts sprinting past their room. The corridor descended into instant chaos. 
 
 "Now," Elena breathed. "Flatline the monitor."
 
@@ -51,40 +51,52 @@ Iris shoved her glasses up her nose one last time. She slammed her hand against 
 
 The heavy door slid open. The piercing sound of the flatline alarm flooded the quiet corridor. 
 
-The two Corporate Renewal agents instantly turned. They were imposing, clad in identical black tactical armor. The thin, vertical crimson seams cutting down the center of their faceless black helmets.
+The two Corporate Renewal agents instantly turned. They were imposing, clad in identical black tactical armor. Thin, vertical crimson seams cut down the center of their faceless black helmets.
 
-Iris pushed the gurney violently out into the hallway, her face flushed with adrenaline and panic. 
+Iris shoved the gurney violently into the hallway, steering it straight at them. 
 
-"Move!" Iris yelled, her voice cracking with desperate authority. "Jane Doe is dead!"
+"Move!" Iris yelled, her voice cracking with desperate authority. "The asset flatlined!"
 
-The guard on the right stepped forward, his hand reaching for the edge of the white sheet. "Doctor, we need to visually confirm—"
+The guard on the right held up a heavy, gloved hand, blocking her path. "Doctor, protocol requires visual confirmation of the—"
 
-"Do not touch that sheet!" Iris snapped. She glared up at him, her chest heaving. "The power surge fried her localized life-support. She is in active necrosis. Unless you want to explain to Silas Blackwell why you breached a Class-4 biological containment, you will get out of my way!"
+"The power surge fried her neural implant!" Iris snapped, slamming the gurney into his armored chest to force him back. "If I don't get this body into the sub-level cryogenic scanners in the next ninety seconds, the Company loses all of her residual brain data." She glared up at the black visor, her chest heaving. "If you want to explain to Silas Blackwell why his multi-billion dollar project is gone, go ahead and lift the sheet."
 
-The guard hesitated, his hand hovering over the sheet. 
+The guard froze. The name carried too much weight. He took a half-step back. 
 
-"I am transporting the body to the sub-level morgue," Iris snapped, pushing the gurney past him. "Now step aside!"
-
-The guard took a half-step back, intimidated by the weight of her panic. Iris didn't wait for him to reconsider. She put her weight into the gurney and pushed it rapidly down the polished corridor. 
+Iris didn't wait. She put her weight into the gurney and pushed it rapidly down the polished corridor, fighting to keep the wheels straight.
 
 The wheels squeaked against the linoleum. From beneath the sheet, Elena whispered, "Keep moving."  
 
-Up ahead, the digital display above the elevators dinged. The steel doors slid open, revealing a four-man Renewal disposition team stepping out onto the floor. They were fully armed, moving with mechanical precision to secure the asset they thought was still in the room. 
+Up ahead, the digital display above the heavy freight elevators chimed. The steel doors slid open. 
 
-Iris slowed her pace, her hands white knuckled the metal rail of the gurney. The disposition team was walking straight toward her. 
+Iris's blood ran cold. 
 
-"Iris," Elena warned softly from under the sheet. "Keep walking."
+A four-man Renewal Disposition Team stood inside the car. They were fully armed, their black rifles held tight across their chests, dispatched to secure the exact asset Iris was pushing toward them. 
 
-Iris forced her legs to move. She kept her head down, pushing the gurney forward. The disposition team marched past her in the opposite direction, their weapons raised, moving toward the room she had just evacuated. They didn't even look twice at the terrified doctor pushing a corpse. 
+Iris's hands white-knuckled the metal rail. If they stepped out, the floor guards would tell them the asset was on the gurney. She had zero margin for error. 
 
-Iris reached the open freight elevator and shoved the gurney inside. She slammed her hand against the sub-level button and the doors sealed shut. 
+Before the lead commando could step onto the floor, Iris shoved the gurney violently into the elevator car, forcing the four heavily armed men to step backward to make room. 
 
-The moment they were alone, Iris collapsed against the wall, sliding down to the floor as she gasped for air. 
+"Going down!" Iris yelled, her voice frantic as she slammed her hand against the sub-level button. 
 
-Elena pulled the sheet off her face and sat up in the gurney, gripping her ribs. "Leave the bed," Elena ordered, sliding off the mattress and landing unsteadily on her bare feet. "It's got patient tracking in it."
+The lead commando grabbed the edge of the elevator door, stopping it from closing. He looked down at the sheet, then up at Iris. "We are here for the Jane Doe."
 
-Iris threw Elena's arm over her shoulder, supporting her weight as the elevator descended. When the doors opened to the dark, echoing sub-level morgue, Iris hit the button to send the elevator—and the gurney—back up to the top floor. 
+"You're too late," Iris fired back, her hands trembling on the gurney rail. "The asset flatlined. I have two minutes to scan the residual data before the neural net degrades." She locked eyes with his black visor. "Do not make me miss this window."
 
-The doors closed, sending the telemetry signal away. 
+The commando stared at her. Slowly, he released the door. "We will escort the body to the sub-level."
+
+The heavy steel doors slid shut, sealing Iris inside a metal box with four corporate killers and the woman they were sent to dispose of. 
+
+The elevator descended. The silence was absolute. Iris stood paralyzed, staring at the floor indicators counting down. Beneath the thin white sheet, inches from the commandos' combat boots, Elena didn't breathe. 
+
+When the doors finally opened to the dark, echoing sub-level morgue, Iris shoved the gurney out into the corridor. The commandos followed. 
+
+"I need the room clear for the scan," Iris ordered, her voice trembling but sharp. "Wait by the lifts."
+
+She didn't look back. She pushed the gurney around the corner, instantly out of their line of sight. 
+
+"Leave the bed," Elena whispered from under the sheet, already throwing the fabric back. She slid off the mattress, landing unsteadily on her bare feet, clutching her ribs. "It's got patient tracking in it."
+
+Iris threw Elena's arm over her shoulder. She hit the wall panel, sending the nearest empty service elevator up to the top floor to scramble the telemetry. Together, they vanished into the darkness of the lower grid as the Disposition Team waited by the morgue doors.
 
 "We did it," Iris breathed, looking at the blinking exit sign at the end of the dark corridor. "We actually did it."
