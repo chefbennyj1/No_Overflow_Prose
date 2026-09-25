@@ -51,4 +51,4 @@ Rin gritted her teeth. She turned her head, refusing to back away, and stared di
 
 "If you knew anything, Detective Graves, you would care what I found." She paused, letting the silence stretch. Victor's gaze flickered. She could see he was in deep thought. "Huh—But you already know what it is. Don't you. You saw the schematic in the office tower on the exact same night I did." Rin leaned forward against the cuffs. "You just don't understand what you were looking at."
 
-"The same night?" Victor paused. "Got ya."
+"The same night?" Victor paused. "There it is."

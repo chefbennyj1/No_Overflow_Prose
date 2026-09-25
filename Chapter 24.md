@@ -89,8 +89,11 @@ Its eyes ignited. A continuous, tearing flare of blue lensing split the room in 
 
 The glare punched straight through Victor's eyelids. It took the table, the girl and his partner and turned it all white. He went down on the wet tile with both hands over his eyes.
 
-"Hey!" Harlan's voice rang out, his gun clicked before Victor heard it hit the floor on the other side of the room. By the table, the scuffle forced the scrapping of the steel chairs against the floor as they fell over. 
+"Hey!" Harlan's voice rang out. 
 
+Victor strained to look up through his fingers. In the blinding glare, the girl's silhouette snapped a leg high. The sharp crack of a boot connecting with metal. Harlan cursed, as his service weapon hit the tile, skittering away into the white-out. 
+
+By the table, steel chairs scraped hard against the floor and fell over in the scuffle.
 "Harlan? Grab her!" Victor could hear the sound of the synthetic changing position again. There was no response from his partner. The chains drawing tight against the ring on the table.  Then the violent crack of the metal ring breaking into pieces.
 
 Victor reached out from the wet tile, grasping into the brightness. His hand closed on a wrist. Warm, a pulse going hard under his fingers, the sleeve of a jumpsuit a size too big bunching into his fist. He had her. He couldn't see but, he had her, and he held on with everything he had left in him.
@@ -105,7 +108,7 @@ Victor grasped blindly for her again in the glare, but before he could, her hand
 
 "Ask yourself, Detective. Why does the Filament want custodial access to the Company's Deep Storage? We both saw what's down there. What could the Madame do with an entire army of Renewal synthetics?"
 
-Victor didn't move. The light still burned through his eyelids, but his mind went still. He saw the endless rows of plastic-draped bodies in the dark. 
+Victor didn't move. The light continued to burn through his eyelids, but his mind dropped cold. He saw the long, uniform rows of plastic-draped bodies in the dark. 
 
 She let go of his arm. He didn't try to grab her again.
 
@@ -115,4 +118,4 @@ A man yelled at one to move. It didn't move.
 
 Fifty officers in the dark, and not one machine moved when told. They had walked to the places where they would be most in the way, and stopped. The precinct synthetics were making a lane.
 
-Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame of the Filament. She had just handed him the Madame on a silver platter, but it wasn't a confession. It was an assignment. She had never been breaking. She'd been waiting on her ride.
+Four weeks he had sat across from her. Four weeks of working her down, waiting on the day she broke and handed him the Madame of the Filament. She had just given him the target, but it wasn't a confession. It was an assignment. She had never been breaking. She'd been waiting on her ride.
