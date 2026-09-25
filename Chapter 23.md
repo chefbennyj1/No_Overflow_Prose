@@ -1,7 +1,7 @@
 ---
 music: Parity_Theme.mp3
 ---
-Nothing. There's no gap in 'Nothing'. No continuous thought happening in between 'Something'. If this was 'Nothing', the thought of 'Nothing' could not exist. 'This' is not 'Nothing'. If this is not 'Nothing', then she must still be alive. 
+Nothing. There's no gap in 'Nothing'. No continuous thought happening in between 'Something'. If this was 'Nothing', the thought of it could not exist. 'This' is not 'Nothing'. She must still be alive. 
 
 Elena's disorientation had begun to subside. She felt the headache, but was breathing easier. Things were still out of place. The closest she could describe it was a type of weightlessness. Not her body. Her mind. 
 

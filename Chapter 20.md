@@ -128,8 +128,10 @@ On the floor, she raised her hands. Still breathing hard, she watched Victor fro
 
 ***
 
-The cold steel of the handcuffs ratcheted tight around Rin's wrists, biting into her skin.  The detective pushed a firm hand into her shoulder, forcing her down to her knees, breathing heavily.
+The cold steel of the handcuffs ratcheted tight around Rin's wrists, biting into her skin. The detective hauled her to her feet, his revolver drawn, and pushed her toward the corridor.
 
-Rin kept her head down, her dark hime-cut bangs falling over her eyes. She glanced through the uniform rows of synthetics.
+Rin kept her head down, her dark hime-cut bangs falling over her eyes. As the detective forced her through the intersections, the blast doors were already retracted. The security keypads were dead, their red lockdown indicators dark. 
 
-Deep in the shadows, Harper knelt with Vigil clutched against her. The service tunnel was wide open. They were safe.
+Nobody stopped two cops walking a cuffed girl through the middle of a catastrophic breach. The alarms blared on the upper floors, but their path was silent. 
+
+Rin looked back one final time through the open blast doors. Deep in the shadows of the dormant army, Harper knelt with Vigil clutched against her. The service tunnel was wide open. They were safe.

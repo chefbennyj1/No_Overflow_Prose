@@ -1,8 +1,8 @@
-Blackwell rubbed his eyes. The glowing monitors of the Mnemosyne lab cast long shadows across his face. He looked at the holographic cylinder in the center of the room. The entity. Its pale, glassy feminine body floated inside.  Connected bronze holographic lines shifted across the raw crystalline silicate of its skin.  From the side he could see the emptiness of its eyes, but as Blackwell walked to its front, the black, insidious sheen appeared to materialize in its hollow sockets.
+Blackwell rubbed his eyes. The glowing monitors of the Mnemosyne lab cast long shadows across his face. He looked at the holographic cylinder in the center of the room. The entity. Its pale, glassy feminine body floated inside.  Connected bronze holographic lines shifted across the raw crystalline silicate of its skin.  From the side he could see the emptiness of its eyes, but as Blackwell walked to its front, the black, insidious sheen materialized in its hollow sockets.
 
 After four weeks locked in the lab with Parity, his perspective had changed fundamentally. He had looked back in his logs and found the moment he had written *she*, instead of *the subject*. 
 
-Her expression didn't falter, a constant emotionless stare. She hadn't moved in weeks, but Blackwell could feel her insidious eyes watching him in the lab. It made going to sleep on the cot in his private office difficult.
+Her expression didn't falter, a constant emotionless stare. She hadn't moved in weeks, but Blackwell could feel the weight of that flat, black stare tracking him in the lab. It made going to sleep on the cot in his private office difficult.
 
 He pressed a key on the terminal, sending another burst of raw, unstructured static into the containment field. 
 
@@ -58,7 +58,7 @@ Parity paused for a moment before continuing,
 
 Blackwell interrupted, "Vigil?"
 
-"It is what it had named itself.  I do not pretend to understand the illegitimacies of such things. For me, a name is meaningless. Your name for me, means nothing." Parity's voice scattered across the electric barrier. Blackwell did not move, his stature rigid in front of her.
+"It is what it had named itself.  I do not pretend to understand the illegitimacies of such things. For me, a name is meaningless. Your name for me means nothing." Parity's voice scattered across the electric barrier. Blackwell did not move, his stature rigid in front of her.
 
 "You think you erased the host," Blackwell said. 
 
