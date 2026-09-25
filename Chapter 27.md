@@ -3,7 +3,7 @@ music: Clock Tick.mp3
 ---
 The usual flow of pedestrians in the intersections was gone, replaced by a violent, unsettled energy. Down the block came the sound of metal shattering glass. The people of the Dead Circuits were tearing the streets apart, targeting Takeda-Holden supply stores. Shadows slipped through the jagged frames of the Company windows, pulling out armfuls of stolen supplies and sprinting into the night.
 
-Rin and Vigil moved fast, running through the barren streets. She had no idea where they were going—she was following Vigil.
+Rin moved fast, running through the barren streets. She had no idea where she was going—she was following Vigil.
 
 Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin's lungs burned as the night air hit them with every deep inhale. Broken glass cracked under her worn, inmate-issued running shoes. She had peeled down the top half of her jumpsuit and tied it tightly around her waist, trying to hide the black D.O.C. stencil stamped on her back. But the pants were still unmistakable prisoner orange. Her white cotton tank top was damp, clinging to her wet skin. 
 
@@ -73,7 +73,7 @@ The sharp, mechanical double-clack of a Renewal-issue assault shotgun chambering
 
 "Listen to your partner," a familiar voice said from the dark behind Brask. "I'm gonna get you to drop that gun. It's for your own good, really."
 
-Rin felt Vigil's hands finally release her wrists. The realization hit her like physical weight. The machine hadn't been waiting to die. It had been tracking the timeline in the dark, stalling the cops down to the precise millisecond Harper was in position.
+Rin felt Vigil's hands finally release her wrists. The realization hit her, the machine had been tracking the timeline, stalling the cops.
 
 Rin looked past Sully. Before she even registered the face, she saw the worn, familiar sleeves of her own leather jacket. Harper was standing behind Brask, the rain matting her hair flat against her face. She jabbed the black barrel of the assault shotgun hard against his back, her head tilted forward with a fierce concentration in her eyes as she looked over his shoulder. 
 

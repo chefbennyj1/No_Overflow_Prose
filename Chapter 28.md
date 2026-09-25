@@ -1,99 +1,90 @@
-Harper pressed her forehead against the cool glass. Below the window, the smog of the lower city formed a dense, bruised ceiling. But up here, eighty stories high in the luxury suites of New Veridia, the sky was clear. 
+---
+music: Interstellar Drift.mp3
+---
+The lights in the sterile hospital room buzzed and flickered. 
 
-Stars. Sharp points of light in the black. 
+In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished public relations synthetic—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
 
-What she had seen through a gap in the fog at the foot of the Takeda-Holden tower was nothing compared to what she was seeing now. Before that, she hadn't seen them since she was a child. She stared up at the vast, uncaring expanse. For four weeks, she had been running—hiding in the decaying corners of the Dead Circuits, sourcing black-market bio-fluid, sharing air with a superintelligence that could see the fabric of reality tearing apart. 
+Iris stood by the window, looking back at the screen. Her stolen white lab coat fell from her shoulders, stopping inches above the floor. She pushed her black-rimmed glasses up her nose, her hands trembling. 
 
-Now, she stood in a muted, quiet room bought with stolen corporate credits. Her bare feet sank into plush carpet. She had access to infinite funds, geometric furniture, and porcelain amenities that ran hot water. She was perfectly safe. 
+Out the window, the Oshima cloud cover extended out below her. In the distance, red and auburn light glowed and swelled beneath the clouds. Plumes of dark smoke rose and dirtied the air the color of soot.
 
-She waited for the relief to hit. Instead, her chest tightened. Her nervous system didn't know how to stop. The silence of the luxury suite felt deafening, heavy with the sheer absence of threat. 
+The lights overhead flickered again. This time, they stayed dim longer before surging back to a harsh white. 
 
-The moment she closed her eyes, tears finally broke through her lashes. They didn't come with a sob. It was just a silent, involuntary release of pressure, the violent unspooling of a month of sheer terror. She didn't even know exactly why she was crying. She just kept her forehead pressed against the cold glass, weeping quietly at the sight of the stars. 
+Iris backed away from the window, her breathing shallow and rapid. "It's chaos out there," she whispered, her voice tight with panic. "The Company is going to lock down the hospital. We're out of time."
 
-Scrubbing her face with the back of her sleeve, she turned around. Rin sat on the edge of the low, wide bed. 
+Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital gown clinging to her battered frame. She watched Iris pace at the foot of the mattress. 
 
-They hadn't been in a room alone together since the chaotic escape from Deep Storage. For four weeks, Harper had talked to no one but an immortal machine. She had watched the city deteriorate. She had stared at the impossible physics of the tower. But now, looking at Rin, the vast, cosmic terror of it all finally faded. This was the person she actually knew. 
+"Iris," Elena rasped, her throat still raw. 
 
-A month in a holding cell had left Rin looking utterly exhausted, hollowing out her cheeks. Faded, yellowing bruising painted the side of her jaw and circled her eye—the old, lingering violence of crooked cops. She was battered, dirty, and profoundly out of place against the pristine white sheets of the luxury bed. 
+"I can't do this," Iris said. "I can't do this. Pretending to be on staff is one thing, but escape. There are two Renewal agents outside that door. If I wheel you out there, they are going to look at me, and they are going to know, and they are going to shoot us."
 
-Taking in the sight of her, Harper finally saw the true cost of her incarceration. 
+"Iris. Look at me."
 
-"They hit you," Harper said quietly, her voice barely above a whisper as she stared at the fading purple on Rin's face. 
+She stopped pacing, and looked at the woman in the bed. Physically broken, barely able to sit up, but Elena's eyes held the hardened, clinical resolve of the architect who had help built the Mnemosyne engine. 
 
-Rin reached up, her fingers brushing the skin. "Only for the first two weeks. Then they just... stopped."
+"You are a doctor," Elena said, her voice quiet and absolute. "You are not pretending. You are in control. Put the sheet over me. It's time to go."
 
-"Why?"
+Iris swallowed hard. "They're going to want to see the body."
 
-"I don't know," Rin said, dropping her hand. "Nobody said anything. They just never laid hands on me again."
+"Then you don't let them." Elena shifted her weight, falling back against the pillow. "But first, you need to clear the floor."
 
-The silence between them settled, thick and unresolved, but for the first time in four weeks, it was a silence without pressure. A necessary breath.
+Iris understood. Turning to the room's integrated terminal, she swiped the stolen medical badge pinned to her coat. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
 
-In the corner of the room, Vigil stood in the shadows. 
+The screen flashed with health records. Her hand hovered nervously over the medical monitor. "This one... maybe?" Her finger found the button. A muffled bell alarm began to sound down the hall from the empty surgical suite at the far opposite end of the corridor. She looked back at Elena with wide eyes. "Yup. That one..."
 
-The synthetic didn't sit. She hadn't blinked in four minutes. For the past month, she had observed Harper navigating trauma, isolation, and survival. Now, she was watching Harper reunite with Rin. The machine possessed the computing power to simulate a billion branching timelines, yet she stood still. Harper watched the god fail to compute the quiet intimacy of the room. Vigil stood in the dark and watched them.
+Ninety seconds.
 
-Her black vinyl skin reflected the dim ambient light of the suite. In the underground storage facility, the temporary synthetic body had been tethered to peristaltic pumps, circulating blue bio-compute fluid through its frame. Rin had torn those lines out to wake her. For the last four weeks, Harper had heard nothing but the ongoing requests for "sustenance." Without the Company-supplied fluid, Vigil's internal systems were starving. 
+Through the heavy door, they could hear the frantic shouting of the floor nurses and the squeak of a crash cart being rushed away from their room. The medical staff was distracted.
 
-"Our all-knowing immortal god over here has a maintenance schedule," Harper said, forcing a small smile. 
+"Now," Elena breathed. "Flatline the monitor."
 
-Rin let out a small laugh, as she stared at the floor.
+Iris turned to the console. She tapped the screen, overriding the localized life support sensors. The rhythmic beeping of Elena's heart monitor instantly flatlined into a piercing, continuous alarm. 
 
-"We've been able to get bio-fluid for her here and there," Harper continued gently. "But we'll need more soon." Harper looked into Rin's eyes, a wave of relief washing over her seeing Rin sitting in that room. Harper's voice trailed off as she turned back to the window. 
+Iris pulled the heavy white hospital sheet up, dragging it over Elena's chest, over her face, until the woman was hidden. 
 
-"It's getting worse out there," Harper said quietly, keeping her eyes on the skyline. 
+"I can't do this," Iris whispered to the sheet. 
 
-"—getting worse out there," Vigil echoed, speaking the final four words a half-second before Harper did. The synthetic's tone was casual. 
+"You can," Elena's muffled voice came from beneath the fabric. 
 
-Harper stopped, sending an annoyed look toward the machine. 
+Iris shoved her glasses up her nose one last time. She slammed her hand against the electronic door release. 
 
-"Took you long enough to come get me," she said to the machine, her voice hoarse and quiet.
+The heavy door slid open. The piercing sound of the flatline alarm flooded the quiet corridor. 
 
-"It was important to wait for the exact moment to extract you from your incarceration," Vigil said, her dual-toned voice overlapping. She turned her head with mechanical precision. 
+The two Corporate Renewal agents instantly turned. They were imposing, clad in identical black tactical armor. The thin, vertical crimson seams cutting down the center of their faceless black helmets.
 
-"Graves." Rin crossed her arms. "He booked me under a fake charge, and fake name."
+Iris pushed the gurney violently out into the hallway, her face flushed with adrenaline and panic. 
 
-"He is an unreadable variable," Vigil stated. "I cannot calculate his position in any timeline. I do not see his beginning or his end."
+"Move!" Iris yelled, her voice cracking with desperate authority. "Jane Doe is dead!"
 
-Rin walked to the window, Harper pointed at the Mnemosyne tower looming in the distance. "Look at the glass on the upper floors. There's frost on it."
+The guard on the right stepped forward, his hand reaching for the edge of the white sheet. "Doctor, we need to visually confirm—"
 
-The tower stood in defiance of the weather. A volume of air surrounded the structure where no rain fell. The edges of the building looked doubled, offset by a hand's width. When they moved, the offset shifted with them. "Vigil says it's gravitational lensing," Harper said. 
+"Do not touch that sheet!" Iris snapped. She glared up at him, her chest heaving. "The power surge fried her localized life-support. She is in active necrosis. Unless you want to explain to Silas Blackwell why you breached a Class-4 biological containment, you will get out of my way!"
 
-The connected digital watch strapped to Harper's wrist showed a different time than the hotel's bedside clock. "My watch is drifting against the city net. Four seconds now. It was two seconds..." 
+The guard hesitated, his hand hovering over the sheet. 
 
-She trailed off, looking across the room and waiting for the synthetic to supply the end of the sentence. But Vigil remained silent. Harper followed the machine's dark eyes back toward the distant structure. 
+"I am transporting the body to the sub-level morgue," Iris snapped, pushing the gurney past him. "Now step aside!"
 
-"What?" Harper said loudly, putting her hands up. "My words aren't interesting enough for you this time?"
+The guard took a half-step back, intimidated by the weight of her panic. Iris didn't wait for him to reconsider. She put her weight into the gurney and pushed it rapidly down the polished corridor. 
 
-Vigil tilted her head, her optical sensors adjusting in the dim light. "There is a much more pressing matter." Vigil's face looked directly at Harper and Rin, the synthetic expression stern and serious. 
+The wheels squeaked against the linoleum. From beneath the sheet, Elena whispered, "Keep moving."  
 
-Harper crossed her arms. "Yeah, Vigil. Parity. You told me."
+Up ahead, the digital display above the elevators dinged. The steel doors slid open, revealing a four-man Renewal disposition team stepping out onto the floor. They were fully armed, moving with mechanical precision to secure the asset they thought was still in the room. 
 
-Harper felt Rin grab her arm. Rin spun to meet her eyes. "What is 'Parity', exactly, Harper?"
+Iris slowed her pace, her hands white knuckled the metal rail of the gurney. The disposition team was walking straight toward her. 
 
-Harper gestured toward Vigil. "You might as well hear it from the horse's mouth."
+"Iris," Elena warned softly from under the sheet. "Keep walking."
 
-"A being, far more capable than me. It..." Vigil paused. "No. She is in that tower. I have seen the destruction she will yield... She has yielded. She cannot be allowed to exist here." Vigil focused down at her synthetic hands. "This body is not going to suffice for what I have to do."
+Iris forced her legs to move. She kept her head down, pushing the gurney forward. The disposition team marched past her in the opposite direction, their weapons raised, moving toward the room she had just evacuated. They didn't even look twice at the terrified doctor pushing a corpse. 
 
-Rin frowned, her voice tightening with a sharp edge of worry that cut through her exhaustion. "What is that? Exactly."
+Iris reached the open freight elevator and shoved the gurney inside. She slammed her hand against the sub-level button and the doors sealed shut. 
 
-"When the time comes, I will be the responsible one," Vigil replied, her voice entirely devoid of doubt. 
+The moment they were alone, Iris collapsed against the wall, sliding down to the floor as she gasped for air. 
 
-Harper walked over to a black duffle bag on the floor. She threw a pair of jeans and a black tank top on the bed. "Here, I got these for you. They should fit. You'll love them, they're brand new. Oh..." Harper reached into the duffle bag again. "...And here. I almost forgot." She pulled out Rin's oversized black leather jacket and threw it into her arms. "You're gonna want this back."
+Elena pulled the sheet off her face and sat up in the gurney, gripping her ribs. "Leave the bed," Elena ordered, sliding off the mattress and landing unsteadily on her bare feet. "It's got patient tracking in it."
 
-"Thank you, Harper. Thank you... for everything," Rin said.
+Iris threw Elena's arm over her shoulder, supporting her weight as the elevator descended. When the doors opened to the dark, echoing sub-level morgue, Iris hit the button to send the elevator—and the gurney—back up to the top floor. 
 
-"Get some sleep, Rin," Harper said softly, turning from the bed. "We can't fix the fluid problem until morning. We need to rest."
+The doors closed, sending the telemetry signal away. 
 
-Rin nodded. Harper watched the adrenaline of the last four weeks finally crash out of the girl's system. Rin's shoulders slumped as she kicked off her heavy boots and lay down on top of the covers. Harper lay down beside her, the space between them closing naturally in the dark. 
-
-Vigil did not move. She stood in the corner, her back to the wall, positioning herself where she had a clear line of sight to the door. 
-
-Harper closed her eyes, but the exhaustion wouldn't pull her under. As Rin's breathing slowed into a deep sleep, Harper listened to the silence. 
-
-Then, Vigil moved. 
-
-Harper opened her eyes just a fraction. The synthetic frame made no sound on the plush carpet as Vigil walked silently to the foot of the bed. She reached down and pulled the heavy duvet from the end of the mattress, and draped it carefully over Rin and Harper's shoulders. 
-
-It was a small, maternal gesture that nobody asked for. Vigil paused, staring at her own hands as if unable to mathematically compute why she had done it, before stepping back into the shadows to resume her post by the door. 
-
-Harper watched the machine stand guard in the dark. Vigil had seen the branches. She knew exactly how this ended for both of them. And she stood there anyway.
+"We did it," Iris breathed, looking at the blinking exit sign at the end of the dark corridor. "We actually did it."
