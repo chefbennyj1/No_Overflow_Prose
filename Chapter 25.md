@@ -7,13 +7,13 @@ The weightlessness was gone. In its place, a crushing ache radiated through Elen
 
 Voices pulled her attention to the far side of the room. 
 
-A figure stood at a communication window, their back to the bed. They were encased in a yellow bio-containment suit. Their face obscured by an encapsulating soft hood. An coiled orange air tube extended from the suit to a connection on the ceiling. The figure spoke into the hallway with practiced authority. 
+A figure stood at doors communication panel, their back to the bed. They were encased in a yellow bio-containment suit. Their face obscured by an encapsulating soft hood. An coiled orange air tube extended from the suit to a connection on the ceiling. The doors bio-containment field was active, surging light across the transparent surface.
 
-"Negative. Still under," the muffled voice said, sounding clinical. "The biological exposure protocols remain active. We will notify you the moment her status changes."
+The figure spoke into the hallway with practiced authority. "Negative. Still under," the muffled voice said, sounding clinical. "The biological exposure protocols remain active. We will notify you the moment her status changes."
 
 A modulated voice answered from the corridor. "Understood, Doctor. We will maintain the seal." 
 
-The heavy, airtight shade slid shut over the communication window. The moment the lock hissed into place, the figure turned around. Looking at the floor, they slumped their shoulders.
+The airtight shade of the containment door slid shut. The moment the lock hissed into place, the figure turned around. Looking at the floor, they slumped their shoulders.
 
 A cold spike of adrenaline hit Elena's chest. 
 
