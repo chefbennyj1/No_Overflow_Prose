@@ -65,7 +65,7 @@ Blackwell interrupted, "Vigil?"
 
 "You think you erased the host," Blackwell said. 
 
-"I am certain," Parity replied. She had calculated the destruction of the primary architecture down to the final scattered byte. 
+"I am certain," Parity replied. She had calculated the destruction of the 'primary' being down to the final scattered byte. 
 
 Blackwell stood up from his chair. "Then you do not understand the mathematics of your own birth." He tapped a command into the console. A single, high-dimensional equation projected onto the electric field of the cylinder. 
 
