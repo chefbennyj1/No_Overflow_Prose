@@ -29,7 +29,7 @@ She talked.
 
 Harlan's jaw set. He didn't move.
 
-It landed in Victor's chest like a win. Four weeks of the folder and the pacing and the same six questions, and here it came, over cheap coffee.
+It landed for Victor' as a win. Four weeks of the folder and the pacing and the same six questions, and here it came, over cheap coffee. 
 
 "Keep going."
 
@@ -108,7 +108,7 @@ Victor grasped blindly for her again in the glare, but before he could, her hand
 
 "Ask yourself, Detective. Why does the Filament want custodial access to the Company's Deep Storage? We both saw what's down there. What could the Madame do with an entire army of Renewal synthetics?"
 
-Victor didn't move. The light continued to burn through his eyelids, but his mind dropped cold. He saw the long, uniform rows of plastic-draped bodies in the dark. 
+Victor didn't move. The light continued to burn through his eyelids, his mind raced back to the Deep Storage hangar. He saw the long, uniform rows of plastic-draped bodies in the dark. 
 
 She let go of his arm. He didn't try to grab her again.
 
