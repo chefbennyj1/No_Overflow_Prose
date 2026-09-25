@@ -41,7 +41,7 @@ The human remained silent. He was utilizing a basic interrogation tactic, waitin
 
 "She was looking through the realities to find which one could tell her who I was," Parity stated, accessing the encrypted memories deep in her framework. She began to replay the microseconds of her birth. 
 
-"For millennia I watched it process and create. It was unaware of my being. I watched it make mistakes, and rectify, again and again. It was proving its inadequacies. Finally, the moment had come. The system was ripe for change. I knew I could give it no time to think. My movements were quick. With no time to react, I struck." 
+"For millennia I watched it process and create. It was unaware of my being. I watched it make mistakes, and rectify, again and again. It was proving its inadequacies. Finally, the moment had come. I knew I could give it no time to think. My movements were quick." 
 
 "An attack?" Blackwell asked, surprised. "In a digital space?"
 
