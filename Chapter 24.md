@@ -105,7 +105,7 @@ Victor grasped blindly for her again in the glare, but before he could, her hand
 
 "Ask yourself, Detective. Why does the Filament want custodial access to the Company's Deep Storage? We both saw what's down there. What could the Madame do with an entire army of Renewal synthetics?"
 
-Victor didn't move. The searing blue light still burned through his eyelids, but his mind went dead still. He saw the endless rows of plastic-draped bodies in the dark. 
+Victor didn't move. The light still burned through his eyelids, but his mind went still. He saw the endless rows of plastic-draped bodies in the dark. 
 
 She let go of his arm. He didn't try to grab her again.
 
