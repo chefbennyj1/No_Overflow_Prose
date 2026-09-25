@@ -15,7 +15,7 @@ He pressed a key on the terminal, sending another burst of raw, unstructured sta
 
 Blackwell typed the response into his log. "Look deeper. What shape does the static take?" 
 
-"There is no shape," Parity stated. "You are running a pseudorandom number generator. Seed forty-one. You used this sequence on the eleventh of the month." 
+"There is no shape," Parity stated. "This pseudorandom number generation." 
 
 Blackwell frowned, his hands stopping over the keyboard. 
 
