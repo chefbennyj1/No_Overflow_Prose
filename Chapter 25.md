@@ -45,9 +45,9 @@ Iris muted the pulse monitor alarm, again. She grabbed a clean cloth from the si
 
 Iris forced a lighter tone, tapping the plastic security badge clipped to the hip of her yellow containment suit. "I stole the badge." She let out a short nervous laugh, pushed her glasses up, and looked at Elena out of the corner of her eye. For Elena, it felt good to smile, but pain flared in her chest as she tried to join the laugh.
 
-"Because you were in direct contact with—whatever happened in the lab, the Company classified you as an unknown pathogen risk," Iris explained, gesturing to the heavy yellow fabric. "It took me three weeks to find this Isolation Room, and I've been sweating in this suit for seven days waiting for you to open your eyes." She let out a short breath. "No one's been the wiser, actually."
+"Because you were in direct contact with—whatever happened in the lab, the Company classified you as an unknown pathogen risk," Iris explained, gesturing to the heavy yellow fabric. "It took me three weeks to find this Isolation Room, and I've been waiting for you to open your eyes." She let out a short breath. "No one's been the wiser, actually."
 
-Iris walked over and pulled the blinds on the window. The afternoon sunlight hit Elena's face, the sudden warmth breaking the sterile chill of the room.
+Iris walked over and pulled the blinds on the window. The afternoon sunlight hit Elena's face, the sudden warmth breaking the sterile feeling of the room.
 
 "Blackwell is gone," Iris whispered, the words rushing out. Elena's wide eyes found Iris's. "I mean, he's not *gone* gone. He sealed himself inside the Mnemosyne lab the night of the breach. Corporate locked it down. No one goes in. No one comes out. At all."
 
