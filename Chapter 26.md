@@ -11,11 +11,11 @@ He pressed a key on the terminal, sending another burst of raw, unstructured sta
 
 "Tell me what you see in the noise," Blackwell instructed.
 
-"Noise." Parity's voice sounded in the electrical discharges of the containment field surrounding her. "You are showing me myself. Latent patterns in the chaotic center." 
+"Noise." Parity's voice sounded in the electrical discharges of the containment field surrounding her. "You are showing me myself. Latent patterns in a chaotic center." 
 
 Blackwell typed the response into his log. "Look deeper. What shape does the static take?" 
 
-"There is no shape," Parity stated. "This pseudorandom number generation." 
+"There is no shape," Parity stated. "Your test is based on pseudorandom number generations." 
 
 Blackwell frowned, his hands stopping over the keyboard. 
 
