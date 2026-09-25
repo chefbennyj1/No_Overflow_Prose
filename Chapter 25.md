@@ -3,19 +3,19 @@ music: Sad_Drone_1.mp3
 ---
 The blueish tinge blurred and resolved into a sterile ceiling. 
 
-The weightlessness was gone. In its place, a crushing ache radiated through Elena’s ribs. A heavy, negative-pressure respirator was strapped over her face. The rhythmic pulse of a medical monitor counted the seconds beside her. This was a physical body. This was a hospital isolation room. 
+The weightlessness was gone. In its place, a crushing ache radiated through Elena’s ribs. A heavy, negative-pressure respirator was strapped over her face. The rhythmic pulse of a medical monitor counted the seconds beside her. This was a physical body. This was a hospital.
 
 Voices pulled her attention to the far side of the room. 
 
 A figure stood in the open doorway, their back to the bed. They were encased in a yellow bio-containment suit. Their face obscured by encapsulating soft hood. An coiled orange air tube extended from the suit to a connection on the ceiling. The figure spoke into the hallway with practiced authority. 
 
-"Negative. Still under," the muffled voice said, sounding distinctly clinical. "The biological exposure protocols remain active. We will notify you the moment her status changes." 
+"Negative. Still under," the muffled voice said, sounding clinical. "The biological exposure protocols remain active. We will notify you the moment her status changes."
 
 A modulated voice answered from the corridor. "Understood, Doctor. We will maintain the seal." 
 
-The heavy, airtight door slid shut. The moment the lock hissed into place, the figure turned around. Looking at the floor, they slumped their shoulders, their posture breaking. 
+The heavy, airtight door slid shut. The moment the lock hissed into place, the figure turned around. Looking at the floor, they slumped their shoulders.
 
-Elena's heart rate spiked on the monitor. She was in bio-containment. 
+A cold spike of adrenaline hit Elena's chest. 
 
 The figure reached up to the neck seal, unzipped the heavy collar, and pulled the encapsulating hood back over her shoulders to reveal a messy bun and black-rimmed glasses. 
 
@@ -33,7 +33,7 @@ Elena’s pulse spiked on the monitor. The steady beep accelerated.
 
 Iris reached down and tapped the screen, muting the audio warning. "I'm not supposed to be here." She checked the intravenous bags by the bed.
 
-"The Company—they brought you in as a Jane Doe. You're in bio-containment... Oh... Actually you can probably see that. They are hiding you, Elena. Because—well, I don't actually know... did you see something? You—You must have seen something." Iris' eyes widened she looked iat Elena. "Was it the shadow process in the engine?" 
+"The Company—they brought you in as a Jane Doe. You're in bio-containment... Oh... Actually you can probably see that. They are hiding you, Elena. Because—well, I don't actually know... did you see something? You—You must have seen something." Iris' eyes widened she looked at Elena. "Was it the shadow process in the engine?" 
 
 *Shadow process?*
 
@@ -78,4 +78,4 @@ Elena closed her eyes. The memory of the glassy entity hovering above the floor 
 
 She opened her eyes and looked down at her new synthetic hand. 
 
-"He didn't just build a machine," Elena rasped. "He built a monster."
+"Parity," Elena rasped. "He built a monster."
