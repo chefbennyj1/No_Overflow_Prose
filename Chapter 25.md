@@ -7,7 +7,7 @@ The weightlessness was gone. In its place, a crushing ache radiated through Elen
 
 Voices pulled her attention to the far side of the room. 
 
-A figure stood at the door's communication panel, their back to the bed. They were encased in a yellow bio-containment suit, their face obscured by the plastic hood. Particles speckled across the transparent surface of the containment door, as the active field singed the dust moving through it.
+A figure stood at the door's communication panel, their back to the bed. They were encased in a yellow bio-containment suit, their face obscured by the plastic hood. Particles speckled across the transparent surface of the isolation field in the doorway, as it singed the dust moving through it.
 
 The figure spoke into the hallway with practiced authority. "Negative. Still under," the muffled voice said, sounding clinical. "The biological exposure protocols remain active. We will notify you the moment her status changes."
 
@@ -39,9 +39,9 @@ Iris reached down and tapped the screen, muting the audio warning. "I'm not supp
 
 Iris shot a nervous glance toward the door. "We have to keep quiet—those agents—I definitely do not like them." She turned back to the monitors beside Elena's bed. "I figured you caught the shadow process. Doctor Blackwell was hiding it. That inversion persona from the thesis—" 
 
-A sharp pain swelled in Elena's chest. Tears welled in her eyes as she stared at the ceiling. A flood of memories—the glassy entity and the fractured laboratory returning in jagged fragments. She caught her breath.
+*Thesis?* A sharp pain swelled in Elena's chest. Tears welled in her eyes as she stared at the ceiling. A flood of memories—the glassy entity and the fractured laboratory returning in jagged fragments. She caught her breath.
 
-Iris muted the pulse monitor alarm, again. She grabbed a clean cloth from the side table and dabbed Elena's eyes clear. Her voice dropped even lower. "Okay, okay. You're upset. The inversion persona. I shouldn't have brought it up.  Just... just take it easy." 
+Iris muted the pulse monitor alarm, again. She grabbed a clean cloth from the side table and dabbed Elena's eyes clear. Her voice dropped even lower. "Okay, okay. You're upset. The inversion persona. I shouldn't have brought it up.  Just take it easy." 
 
 Iris forced a lighter tone, tapping the plastic security badge clipped to the hip of her yellow containment suit. "I stole the badge." She let out a short nervous laugh, pushed her glasses up, and looked at Elena out of the corner of her eye. For Elena, it felt good to smile, but pain flared in her chest as she tried to join the laugh.
 
