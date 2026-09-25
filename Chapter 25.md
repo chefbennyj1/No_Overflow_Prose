@@ -7,13 +7,13 @@ The weightlessness was gone. In its place, a crushing ache radiated through Elen
 
 Voices pulled her attention to the far side of the room. 
 
-A figure stood in the open doorway, their back to the bed. They were encased in a yellow bio-containment suit. Their face obscured by encapsulating soft hood. An coiled orange air tube extended from the suit to a connection on the ceiling. The figure spoke into the hallway with practiced authority. 
+A figure stood at a communication window, their back to the bed. They were encased in a yellow bio-containment suit. Their face obscured by an encapsulating soft hood. An coiled orange air tube extended from the suit to a connection on the ceiling. The figure spoke into the hallway with practiced authority. 
 
 "Negative. Still under," the muffled voice said, sounding clinical. "The biological exposure protocols remain active. We will notify you the moment her status changes."
 
 A modulated voice answered from the corridor. "Understood, Doctor. We will maintain the seal." 
 
-The heavy, airtight door slid shut. The moment the lock hissed into place, the figure turned around. Looking at the floor, they slumped their shoulders.
+The heavy, airtight shade slid shut over the communication window. The moment the lock hissed into place, the figure turned around. Looking at the floor, they slumped their shoulders.
 
 A cold spike of adrenaline hit Elena's chest. 
 
@@ -46,7 +46,7 @@ Iris forced a lighter tone, tapping the plastic security badge clipped to the hi
 
 "Because you were in direct contact with the entity, the Company classified you as an unknown pathogen risk," Iris explained, gesturing to the heavy yellow fabric. "It took me three weeks to find this Isolation Room, and I've been sweating in this suit for seven days waiting for you to open your eyes." She let out a short breath. "No one's been the wiser, actually."
 
-Iris walked over, and pulled the blinds on the window. Soft afternoon sun light entered the room
+Iris walked over, and pulled the blinds on the window. Soft afternoon sun light entered the room.
 
 "Blackwell is gone," Iris whispered, the words rushing out. Elena's wide eyes found Iris's. "I mean, he's not *gone* gone. He sealed himself inside the Mnemosyne lab the night of the breach. Corporate locked it down. No one goes in. No one comes out. At all."
 
