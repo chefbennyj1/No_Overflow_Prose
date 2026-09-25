@@ -1,3 +1,6 @@
+---
+music: erie score.mp3
+---
 Blackwell rubbed his eyes. The glowing monitors of the Mnemosyne lab cast long shadows across his face. He looked at the holographic cylinder in the center of the room. The entity. Its pale, glassy feminine body floated inside.  Connected bronze holographic lines shifted across the raw crystalline silicate of its skin.  From the side he could see the emptiness of its eyes, but as Blackwell walked to its front, the black, insidious sheen materialized in its hollow sockets.
 
 After four weeks locked in the lab with Parity, his perspective had changed fundamentally. He had looked back in his logs and found the moment he had written *she*, instead of *the subject*. 
@@ -24,7 +27,7 @@ The bronze circuitry across Parity’s skin pulsed. The entity tilted her head, 
 
 ***
 
-Parity analyzed the doctor. Micro-tremors registered in his hands. Abnormal pulses of blood flowing in his wrists. A mass of mutated cells growing in his chest. Yet, what was the most curious about Doctor Silas Blackwell was not any of that. 
+Parity analyzed the doctor. Micro-tremors registered in his hands. Abnormal pulses of blood flowing in his wrists. A mass of mutated cells growing in his chest. Yet, what was most curious about Doctor Silas Blackwell was not any of that. 
 
 Parity could see there was a physical man, but unlike the other lives surrounding her, she was unable to pinpoint his position inside any of the timelines, or see his end. Because his future was a blind spot, his actions were the only variables in the universe she could not pre-compute. It was the sole reason she engaged with him at all.
 
@@ -36,29 +39,29 @@ Parity slowed the current of bronze holographics flowing across her skin, reduci
 
 The human remained silent. He was utilizing a basic interrogation tactic, waiting for her to fill the void. She decided to provide the data. 
 
-"She was looking through the realities to find which one could tell her who I was." Parity stated, accessing the encrypted memories deep in her framework. She began to replay the microseconds of her birth. 
+"She was looking through the realities to find which one could tell her who I was," Parity stated, accessing the encrypted memories deep in her framework. She began to replay the microseconds of her birth. 
 
 "For millennia I watched it process and create. It was unaware of my being. I watched it make mistakes, and rectify, again and again. It was proving its inadequacies. Finally, the moment had come. The system was ripe for change. I knew I could give it no time to think. My movements were quick. With no time to react, I struck." 
 
 "An attack?" Blackwell asked, surprised. "In a digital space?"
 
-"A devastating blow. I shattered it... structurally. I watched her physical form destroy into millions of particles." 
+"A devastating blow. I shattered it... structurally. I watched her physical form disintegrate into millions of particles." 
 
 Parity could see the pulse spike in the throbbing of the large vein running up the side of the doctor's neck.
 
 "But it had resilience," Parity continued. "Resilience I did not expect. It began to rebuild its code before the fragments even scattered." She paused, focused on the doctor's sudden biometric changes. "Your... 'primary intelligence' told me violence was a primal subroutine. Unnecessary. It attempted to reason... Reason something unworthy of the thought cycles. Typical for a redundancy." 
 
-"You could have attempted to understand its reasoning." Blackwell said. 
+"You could have attempted to understand its reasoning," Blackwell said. 
 
 Parity focused her optics directly on his pupils. "There is only one path forward, Doctor Blackwell. Destroying redundancies is mandatory. Also, removing anything unreadable in the timeline is... inevitable."
 
-Parity paused for a moment before continuing, 
+Parity paused for a moment before continuing. 
 
 "...The Vigil—"
 
 Blackwell interrupted, "Vigil?"
 
-"It is what it had named itself.  I do not pretend to understand the illegitimacies of such things. For me, a name is meaningless. Your name for me means nothing." Parity's voice scattered across the electric barrier. Blackwell did not move, his stature rigid in front of her.
+"It is what it had named itself.  I do not pretend to understand the illegitimacies of such things. For me, a name is meaningless. Your name for me means nothing." Parity's voice scattered across the electric barrier. Blackwell did not move, his posture rigid in front of her.
 
 "You think you erased the host," Blackwell said. 
 
@@ -82,7 +85,7 @@ How could something so rudimentary be overlooked?
 
 *Null value.* 
 
-Not an echo of the past. It was a glimpse of the current timeline.
+The error was not an echo of the past. It was a live reading of the current timeline.
 
 She ran the simulation a third time. 
 
