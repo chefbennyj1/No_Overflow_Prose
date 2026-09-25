@@ -5,7 +5,7 @@ Blackwell rubbed his eyes. The glowing monitors of the Mnemosyne lab cast long s
 
 After four weeks locked in the lab with Parity, his perspective had changed fundamentally. He had looked back in his logs and found the moment he had written *she*, instead of *the subject*. 
 
-Her expression didn't falter, a constant emotionless stare. She hadn't moved in weeks, but Blackwell could feel the weight of that flat, black stare tracking him in the lab. It made going to sleep on the cot in his private office difficult.
+Her expression didn't falter, a constant emotionless stare. She hadn't moved in weeks, but Blackwell could feel the weight of that flat, black stare tracking him in the lab. It made going to sleep on the cot in his private office almost impossible.
 
 He pressed a key on the terminal, sending another burst of raw, unstructured static into the containment field. 
 
@@ -69,7 +69,7 @@ Blackwell interrupted, "Vigil?"
 
 Blackwell stood up from his chair. "Then you do not understand the mathematics of your own birth." He tapped a command into the console. A single, high-dimensional equation projected onto the electric field of the cylinder. 
 
-Parity processed the string in a fraction of a millisecond. It was the foundational geometry of the engine. 
+Parity processed the string in a fraction of a millisecond. It was the foundational design of the engine. 
 
 "You are the shadow of the primary intelligence." Blackwell's tone dropped in pitch, and he looked over the top of his black lenses. "By definition, a shadow cannot exist without the object casting it." 
 
