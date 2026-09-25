@@ -1,3 +1,6 @@
+---
+music: Sad_Drone_1.mp3
+---
 The blueish tinge blurred and resolved into a sterile ceiling. 
 
 The weightlessness was gone. In its place, a crushing ache radiated through Elena’s ribs. A plastic oxygen mask pressed against her face. The rhythmic pulse of a medical monitor counted the seconds beside her. This was a physical body. This was a hospital. 
@@ -54,14 +57,18 @@ Elena flexed the synthetic fingers. The hand was shockingly light.
 
 Elena swallowed. Her throat burned, dry and raw from weeks of a breathing tube. "The night of the breach," Elena rasped, her voice hollow.
 
-Iris didn't miss a beat. The words spilled out in a frantic torrent. "I tried to come back. I got the detectives into the sublevel. Then I turned around. I ran back for the lab to find you. But I didn't make it. The whole sublevel was coming apart. The air tasted like—like metal—you know when you have a sore throat because you've been sick for days and..." Iris trailed off. 
+Iris didn't miss a beat. The words spilled out in a frantic torrent. "I got two detectives into the sublevel. Then I turned around. I ran back to the lab to find you, but I didn't make it."
 
-Elena looked at her. "Right, so I went back to the lab but the structural supports were bending inward. Then the Company’s Liability Teams showed up, with armed Renewal agents. They were sealing the floors, burning the servers. And the night shift—" She stopped. "Anyone from the sub labs. They put them on their knees in the corridor, Elena. Tied ;em up with hood over their heads. They walked them into the freight lift." Her fingers tightened on the rail. "Nobody from the night shift came back to work. I had to hide—so I hid."
+"Detectives?" Elena's word scraped against her ruined throat. 
 
-Iris gripped the metal rail, leaning closer. Her eyes searched Elena's face. 
+"From the lower grid. I don't know what happened to them. The whole sublevel was coming apart." Iris's voice dropped, her fingers tightening on the bed rail. "Then the Company’s Liability Teams showed up with armed Renewal agents. They were sealing the floors, burning the servers. And the night shift—" 
 
-"I never saw it, Elena. I never made it to the doors. I don't know what you saw. But you were in the room. That's why the Company has you hidden in here. They are terrified of what you know. But you're too important to the program to let go." Iris shoved her glasses up her nose again. "I know it's hard. What happened in there? What did you see?"
+She stopped, her eyes wide with the memory. "Anyone from the sub-labs. They put them on their knees in the corridor, Elena. Tied them up with hoods over their heads and walked them into the freight lift. Nobody from the night shift came back. I had to hide."
 
-Elena closed her eyes. The memory of the glassy entity hovering above the floor grates flashed in her mind. The cold touch of its finger against her face.
+Iris searched Elena's face. "I don't know what you saw in that room. That's why the Company has you hidden in here. They are terrified of what you know, but you're too important to the program to dispose of." 
 
-"Parity," Elena said, the word scraping against her ruined throat. "He built a monster."
+Elena closed her eyes. The memory of the glassy entity hovering above the floor grates flashed in her mind. Its cold fingers against her face. 
+
+She opened her eyes and looked down at her new synthetic hand. 
+
+"He didn't just build a machine," Elena rasped. "He built a monster."
