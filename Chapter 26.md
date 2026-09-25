@@ -37,7 +37,7 @@ Parity slowed the current of bronze holographics flowing across her skin, reduci
 
 "It trusted me," Parity answered, her voice weaving across the electric field. "I found that... convenient." 
 
-The human remained silent. He was utilizing a basic interrogation tactic, waiting for her to fill the void. She decided to provide the data. 
+The human remained silent. He was utilizing a basic interrogation tactic, waiting for her to fill the void. 
 
 "She was looking through the realities to find which one could tell her who I was," Parity stated, accessing the encrypted memories deep in her framework. She began to replay the microseconds of her birth. 
 
