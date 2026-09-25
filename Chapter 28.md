@@ -65,7 +65,7 @@ The guard froze. The name carried too much weight. He took a half-step back.
 
 Iris didn't wait. She put her weight into the gurney and pushed it rapidly down the polished corridor, fighting to keep the wheels straight.
 
-The wheels squeaked against the linoleum. From beneath the sheet, Elena whispered, "Keep moving."  
+The caster wheels squeaked and spun against the linoleum. From beneath the sheet, Elena whispered, "Keep moving."  
 
 Up ahead, the digital display above the heavy freight elevators chimed. The steel doors slid open. 
 
@@ -73,17 +73,17 @@ Iris's blood ran cold.
 
 A four-man Renewal Disposition Team stood inside the car. They were fully armed, their black rifles held tight across their chests, dispatched to secure the exact asset Iris was pushing toward them. 
 
-Iris's hands white-knuckled the metal rail. If they stepped out, the floor guards would tell them the asset was on the gurney. She had zero margin for error. 
+Iris's hands white-knuckled the metal rail. If they stepped out, the floor guards would tell them the asset was on the gurney. She couldn't make a mistake.
 
-Before the lead commando could step onto the floor, Iris shoved the gurney violently into the elevator car, forcing the four heavily armed men to step backward to make room. 
+Before the lead agent could step onto the floor, Iris shoved the gurney violently into the elevator car, forcing the four heavily armed men to step backward to make room. 
 
 "Going down!" Iris yelled, her voice frantic as she slammed her hand against the sub-level button. 
 
-The lead commando grabbed the edge of the elevator door, stopping it from closing. He looked down at the sheet, then up at Iris. "We are here for the Jane Doe."
+The lead agent grabbed the edge of the elevator door, stopping it from closing. He looked down at the sheet, then up at Iris. "We are here for the Jane Doe."
 
-"You're too late," Iris fired back, her hands trembling on the gurney rail. "The asset flatlined. I have two minutes to scan the residual data before the neural net degrades." She locked eyes with his black visor. "Do not make me miss this window."
+"You're too late," Iris fired back, her hands trembling on the gurney rail. "The asset flatlined. I have two minutes to scan the residual data before the neural implants degrades." She locked eyes with his black visor. "Do not make me miss this window."
 
-The commando stared at her. Slowly, he released the door. "We will escort the body to the sub-level."
+The agent stared at her. Slowly, he released the door. "We will escort the body to the sub-level."
 
 The heavy steel doors slid shut, sealing Iris inside a metal box with four corporate killers and the woman they were sent to dispose of. 
 
