@@ -1,7 +1,7 @@
 ---
 music: Clock Tick.mp3
 ---
-The usual flow of pedestrians in the intersections was gone, replaced by a violent, unsettled energy. Down the block came the sound of metal shattering glass. The people of the Dead Circuits were tearing the streets apart, targeting Takeda-Holden supply stores. Shadows slipped through the jagged frames of the Company windows, pulling out armfuls of stolen supplies and sprinting into the night.
+The usual flow of pedestrians in the intersections were gone, replaced by an unsettled energy. Down the block came the sound of metal shattering glass. The people of the Dead Circuits were tearing the streets apart, targeting Takeda-Holden supply stores. Shadows slipped through the jagged frames of the Company windows, pulling out armfuls of stolen supplies and sprinting into the night.
 
 Rin moved fast, running through the barren streets. She had no idea where she was going—she was following Vigil.
 
@@ -79,7 +79,7 @@ Rin looked past Sully. Before she even registered the face, she saw the worn, fa
 
 Sully froze as he caught the glowing text beneath Vigil's left eye. "What the—" His cocky posture vanished. "She's Renewal." He stared at the serial number. He was suddenly a man caught between a military-grade shotgun in his partner's back, and a corporate killer.
 
-Vigil reached out, her mechanical speed tearing the gun from Sully's grip before he could even flinch. Rin felt her wrists go free. In one swift motion, Vigil slid the magazine free from the handle, pushed the slide back to pop the bullet from the chamber, and handed the empty gun back to the officer.
+Vigil reached out, her mechanical speed tearing the gun from Sully's grip before he could even flinch. In one swift motion, Vigil slid the magazine free from the handle, pushed the slide back to pop the bullet from the chamber, and handed the empty gun back to the officer.
 
 
 
@@ -87,7 +87,7 @@ Vigil reached out, her mechanical speed tearing the gun from Sully's grip before
 
 Sully kept his eyes locked on the glowing serial number. He backed away toward the idling mag-cruiser, pulling Brask with him. 
 
-"The Madame is gonna pay a fortune for this," Sully growled as they climbed into the vehicle. "These two walking with a rogue RA." 
+"The Madame is gonna pay a fortune for this," Sully growled as they climbed into the vehicle. "These two walking with a rogue `RA`." 
 
 The cruiser's doors slammed shut. The magnetic drive whined, and the vehicle bolted down the street, vanishing into the fog. 
 
@@ -95,8 +95,8 @@ Rin exhaled a shaky breath. She ran toward Harper, wrapping her arms around her 
 
 "I'm so glad to see you," Rin breathed into the worn leather of her own jacket. 
 
-Harper hugged her back, her grip firm. When they pulled apart, Rin managed a weak, exhausted smile. "The jacket looks better on you."
+Harper dropped the gun, and hugged her back, her grip firm. When they pulled apart, Rin managed a weak, exhausted smile. "The jacket looks better on you."
 
-Harper smiled as she looked past her, her eyes scanning the flooded street, her grip still tight on the assault shotgun. The sharp crack of a rifle echoed in the distance.
+Harper smiled as she looked past her, her eyes scanning the flooded street. The sharp crack of a rifle echoed in the distance.
 
-"The pot's boiling over," Harper said, her voice tight.
+"The pot's boiling over," Harper said, her voice tight. "C'mon, we gotta place to go."
