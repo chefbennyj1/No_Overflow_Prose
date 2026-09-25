@@ -53,7 +53,7 @@ The heavy door slid open. The piercing sound of the flatline alarm flooded the q
 
 The two Corporate Renewal agents instantly turned. They were imposing, clad in identical black tactical armor. Thin, vertical crimson seams cut down the center of their faceless black helmets.
 
-Iris shoved the gurney violently into the hallway, steering it straight at them. 
+Iris shoved the gurney into the hallway, steering it straight at them. 
 
 "Move!" Iris yelled, her voice cracking with desperate authority. "The asset flatlined!"
 
