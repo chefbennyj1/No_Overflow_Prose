@@ -46,7 +46,7 @@ Iris forced a lighter tone, tapping the plastic security badge clipped to the hi
 
 "Because you were in direct contact with the entity, the Company classified you as an unknown pathogen risk," Iris explained, gesturing to the heavy yellow fabric. "It took me three weeks to find this Isolation Room, and I've been sweating in this suit for seven days waiting for you to open your eyes." She let out a short breath. "No one's been the wiser, actually."
 
-
+Iris walked over, and pulled the blinds on the window. Soft afternoon sun light entered the room
 
 "Blackwell is gone," Iris whispered, the words rushing out. Elena's wide eyes found Iris's. "I mean, he's not *gone* gone. He sealed himself inside the Mnemosyne lab the night of the breach. Corporate locked it down. No one goes in. No one comes out. At all."
 
