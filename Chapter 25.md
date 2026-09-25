@@ -7,7 +7,7 @@ The weightlessness was gone. In its place, a crushing ache radiated through Elen
 
 Voices pulled her attention to the far side of the room. 
 
-A figure stood at doors communication panel, their back to the bed. They were encased in a yellow bio-containment suit. Their face obscured by an encapsulating soft hood. An coiled orange air tube extended from the suit to a connection on the ceiling. The doors bio-containment field was active, surging light across the transparent surface.
+A figure stood at the door's communication panel, their back to the bed. They were encased in a yellow bio-containment suit, their face obscured by the plastic hood. Particles speckled across the transparent surface of the containment door, as the active field singed the dust moving through it.
 
 The figure spoke into the hallway with practiced authority. "Negative. Still under," the muffled voice said, sounding clinical. "The biological exposure protocols remain active. We will notify you the moment her status changes."
 
@@ -17,7 +17,7 @@ The airtight shade of the containment door slid shut. The moment the lock hissed
 
 A cold spike of adrenaline hit Elena's chest. 
 
-The figure reached up to the neck seal, unzipped the heavy collar, and pulled the encapsulating hood back over her shoulders to reveal a messy bun and black-rimmed glasses. 
+The figure reached up to the neck seal, unzipped the heavy collar, and pulled the hood back to reveal a messy bun and black-rimmed glasses. 
 
 Iris. 
 
@@ -33,7 +33,7 @@ Elena’s pulse spiked on the monitor. The steady beep accelerated.
 
 Iris reached down and tapped the screen, muting the audio warning. "I'm not supposed to be here." She checked the intravenous bags by the bed.
 
-"The Company—they brought you in as a Jane Doe. You're in bio-containment... Oh... Actually you can probably see that. They are hiding you, Elena. Because—well, I don't actually know... did you see something? You—You must have seen something." Iris' eyes widened she looked at Elena. "Was it the shadow process in the engine?" 
+"The Company—they brought you in as a Jane Doe. You're in bio-containment... Oh... Actually you can probably see that. They are hiding you, Elena. Because—well, I don't actually know... did you see something? You—You must have seen something." Iris's eyes widened as she looked at Elena. "Was it the shadow process in the engine?" 
 
 *Shadow process?*
 
@@ -47,11 +47,11 @@ Iris forced a lighter tone, tapping the plastic security badge clipped to the hi
 
 "Because you were in direct contact with the entity, the Company classified you as an unknown pathogen risk," Iris explained, gesturing to the heavy yellow fabric. "It took me three weeks to find this Isolation Room, and I've been sweating in this suit for seven days waiting for you to open your eyes." She let out a short breath. "No one's been the wiser, actually."
 
-Iris walked over, and pulled the blinds on the window. The afternoon sun light entered the room, making it feel less clinical for a moment.
+Iris walked over and pulled the blinds on the window. The afternoon sunlight hit Elena's face, the sudden warmth breaking the sterile chill of the ward.
 
 "Blackwell is gone," Iris whispered, the words rushing out. Elena's wide eyes found Iris's. "I mean, he's not *gone* gone. He sealed himself inside the Mnemosyne lab the night of the breach. Corporate locked it down. No one goes in. No one comes out. At all."
 
-Elena gripped the edge of the oxygen mask with her left hand, pulled the elastic band over her hair, and threw the plastic aside. Ignoring the pain radiating through her chest, she pushed against the mattress to force herself into a sitting position. 
+Elena gripped the edge of the heavy respirator with her left hand, pulled the elastic band over her hair, and threw the plastic aside. Ignoring the pain radiating through her chest, she pushed against the mattress to force herself into a sitting position. 
 
 Her right hand didn't feel the sheets. Elena looked down. 
 
