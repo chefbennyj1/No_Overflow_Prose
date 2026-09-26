@@ -89,7 +89,7 @@ The heavy steel doors slid shut, sealing Iris inside a metal box with four corpo
 
 The elevator descended. The silence was absolute. Iris stood paralyzed, staring at the floor indicators counting down. Beneath the thin white sheet, inches from the commandos' combat boots, Elena didn't breathe. 
 
-When the doors finally opened to the dark, echoing sub-level morgue, Iris shoved the gurney out into the corridor. The commandos followed. 
+When the doors finally opened to the dark, echoing sub-level morgue, Iris shoved the gurney out into the corridor. The agent followed. 
 
 "I need the room clear for the scan," Iris ordered, her voice trembling but sharp. "Wait by the lifts."
 
