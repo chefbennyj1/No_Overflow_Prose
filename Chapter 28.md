@@ -91,13 +91,13 @@ Iris swallowed. Her voice rasped, "Very well, Agents. Going down." She pushed th
 
 The heavy steel doors slid shut, sealing Iris inside a metal box with four corporate killers and the woman they were sent to dispose of. 
 
-The elevator descended. Inches from the commandos' combat boots, the white plastic of the body bag quietly rose and fell. A necessary breath. A cold sweat broke across Iris's neck. She forced her head up, snapping her gaze to the floor indicators counting down above the doors, desperate to keep the agents from following her stare.
+The elevator descended. Inches from the agents' combat boots, the white plastic of the body bag quietly rose and fell. A necessary breath. A cold sweat broke across Iris's neck. She forced her head up, snapping her gaze to the floor indicators counting down above the doors, desperate to keep the agents from following her stare.
 
-When the doors finally opened to the dark, echoing sub-level morgue, Iris shoved the gurney out into the corridor. The agent followed. 
+When the doors finally opened to the dark, echoing sub-level hallway, Iris shoved the gurney out into the corridor. The agent followed. 
 
 "I need the room clear for the scan," Iris ordered, her voice trembling but sharp. "Wait by the lifts."
 
-She kept her eyes steady towards the end of the hall,  and  passed the *Mortuary* sign pointing in her direction. Iris pushed the gurney through the double doors of the sub-level morgue.  The room was a long stretch of checkered flooring. Along the far end of the room, the stainless doors of the cadaver coolers tiled the wall.
+She kept her eyes steady on the end of the hall, passing the Mortuary sign pointing her way. Iris pushed the gurney through the double doors of the sub-level morgue.  The room was a long stretch of checkered flooring. Along the far end of the room, the stainless doors of the cadaver coolers tiled the wall.
 
 "Leave the bed," Elena whispered from inside the bag, already tearing the silver zipper open. She pushed the white plastic aside and slid off the mattress, landing unsteadily on her bare feet, clutching her ribs. "It's got patient tracking in it."
 
