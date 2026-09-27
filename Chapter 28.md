@@ -5,7 +5,7 @@ The lights in the sterile hospital room buzzed and flickered.
 
 In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished public relations synthetic—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
 
-Iris stood by the window, looking back at the screen. The heavy, yellow Level-4 bio-containment suit made every movement clumsy and loud. She pushed her black-rimmed glasses up her nose, her hands trembling inside the thick rubber gloves.
+Iris stood by the window, looking back at the screen. The yellow Level-4 bio-containment suit made every movement clumsy and loud. She pushed her black-rimmed glasses up her nose, her hands trembling inside the thick rubber gloves.
 
 Out the window, the Oshima cloud cover extended out below her. In the distance, red and auburn light glowed and swelled beneath the clouds. Plumes of dark smoke rose and dirtied the air the color of soot.
 
@@ -33,7 +33,7 @@ Iris understood. Turning to the room's hospital terminal, she swiped the stolen 
 
 The screen flashed with the floor's telemetry network. Iris didn't hesitate. She dragged her finger across the display, manually overriding the vitals for three patients in the intensive care room at the other side of the ward. 
 
-A bell of a synchronized Code Blue alarm sounded on the quiet of the floor. 
+The piercing bell of a synchronized Code Blue alarm shattered the quiet of the floor. 
 
 Through the door, they could hear the shouting of the triage nurses and the squeal of crash carts sprinting past their room. The corridor erupted into action. 
 
@@ -47,7 +47,7 @@ Iris unrolled the white body bag across the mattress. The thick plastic was stam
 
 "You can," Elena spoke from beneath the plastic. "We need to get out of here."
 
-Iris shoved her glasses up her nose one last time. She slammed her hand against the electronic door release. 
+Iris pushed her glasses up her nose one last time. She slammed her hand against the electronic door release. 
 
 The door slid open, and the containment field dropped. The piercing sound of the flatline alarm flooded the corridor. 
 
@@ -55,9 +55,9 @@ The two Corporate Renewal agents instantly turned. They were imposing, clad in i
 
 Iris shoved the gurney into the hallway, steering it straight at them. 
 
-"Move!" Iris yelled, her voice muffled but frantic through the heavy rubber of the bio-suit. "Code Orange! The asset flatlined!"
+"Move!" Iris yelled, her voice muffled but frantic through the rubber of the bio-suit. "Code Orange! The asset flatlined!"
 
-The guard on the right held up a heavy, gloved hand, blocking her path. He reached down, his armored fingers catching the silver zipper of the body bag. "Doctor, protocol requires visual confirmation of the—"
+The guard on the right held up a black, mechanical gloved hand, blocking her path. He reached down, his armored fingers catching the silver zipper of the body bag. "Doctor, protocol requires visual confirmation of the—"
 
 "Do not break the seal!" Iris snapped. "This is a BSL-4 Airborne Infection Isolation protocol. The asset was in direct contact with an unknown pathogen in the Mnemosyne lab. If you open that bag in this hallway, you will contaminate this entire wing." She glared up at his faceless black visor, her chest heaving. "If you want to explain to people upstairs why you forced them to incinerate this entire hospital ward, go ahead and unzip it."
 
@@ -73,31 +73,36 @@ Iris lost a breath.
 
 A four-man Renewal Disposition Team stood inside the elevator. They were fully armed, their black rifles held tight across their chests, dispatched to secure the exact asset Iris was pushing toward them. 
 
-Iris's hands white-knuckled the metal rail. If they stepped out, the floor guards would tell them the asset was on the gurney. She couldn't make a mistake.
+Iris's hands white-knuckled the metal rail. She couldn't make a mistake.
 
 The lead agent stepped out onto the floor. He looked down at the white body bag, then up at Iris's yellow suit. He looked past her toward the room they had come from. He grabbed the edge of the elevator door, stopping it from closing. 
 
 
 "This is the asset." The agent asserted in a modulated voice.
 
-"The asset has been in a coma in isolation for a month. She finally succumbed to her injuries." Iris shoved the gurney violently into the elevator car. 
+"The asset has been in a coma and in isolation for a month. She finally succumbed to her injuries." Iris pushed the gurney into the elevator car. 
 
 The agent nodded to her. Her white-knuckled grip on the metal rail loosened.
 
 "Fine, Doctor. We'll accompany you to the sub-level morgue." 
 
-Iris swallowed. Her voice rasped, "Very well, Agents. Going down." She pushed the gurney into the elevator with the four agents, and slammed her hand against the sub-level button. 
+Iris swallowed. Her voice rasped, "You are not wearing the proper protective equipment to be in close quarters with the subject."
+The agent's faceless visor locked onto her. Inside the ballooned bio-suit, a line of sweat crawled down Iris's spine.
+
+"That will not be an issue, Doctor." The modulated voice of the agent was absolute.
+
+"Very well, Agents. Going down." She pushed the gurney into the elevator with the four agents, and slammed her hand against the sub-level button. 
 
 
 The heavy steel doors slid shut, sealing Iris inside a metal box with four corporate killers and the woman they were sent to dispose of. 
 
 The elevator descended. Inches from the agents' combat boots, the white plastic of the body bag quietly rose and fell. A necessary breath. A cold sweat broke across Iris's neck. She forced her head up, snapping her gaze to the floor indicators counting down above the doors, desperate to keep the agents from following her stare.
 
-When the doors finally opened to the dark, echoing sub-level hallway, Iris shoved the gurney out into the corridor. The agent followed. 
+When the doors finally opened to the sub-level hallway, Iris shoved the gurney out into the corridor. The agent followed. 
 
 "I need the room clear for the scan," Iris ordered, her voice trembling but sharp. "Wait by the lifts."
 
-She kept her eyes steady on the end of the hall, passing the Mortuary sign pointing her way. Iris pushed the gurney through the double doors of the sub-level morgue.  The room was a long stretch of checkered flooring. Along the far end of the room, the stainless doors of the cadaver coolers tiled the wall.
+She kept her eyes locked on the end of the hall, pushing the gurney past the illuminated Mortuary sign and through the double doors of the sub-level morgue. The room was a sterile expanse of checkered tile. Along the far wall, the stainless steel doors of the cadaver coolers were stacked in perfect, clinical rows.
 
 "Leave the bed," Elena whispered from inside the bag, already tearing the silver zipper open. She pushed the white plastic aside and slid off the mattress, landing unsteadily on her bare feet, clutching her ribs. "It's got patient tracking in it."
 
