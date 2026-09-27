@@ -11,7 +11,7 @@ Out the window, the Oshima cloud cover extended out below her. In the distance, 
 
 The lights overhead flickered again. This time, they stayed dim longer before surging back to a harsh white. 
 
-Iris backed away from the window, her breathing shallow and rapid. "It's chaos out there," she whispered, her voice tight with panic. "The Company is going to lock down the hospital. We're out of time."
+Iris backed away from the window, her breathing shallow and rapid. "The Company is going to lock down the hospital," she whispered, her voice tight with panic. "We're out of time."
 
 Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital gown clinging to her battered frame. She watched Iris pace at the foot of the mattress. 
 
