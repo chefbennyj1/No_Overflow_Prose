@@ -17,7 +17,7 @@ Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital
 
 "Iris," Elena rasped, her throat still raw. 
 
-"I can't do this," Iris said. "I can't do this. Pretending to be on staff is one thing, but escape. There are two Renewal agents outside that door. If I wheel you out there, they are going to look at me, and they are going to know, and they are going to shoot us."
+"I can't do this," Iris said. "I can't do this. Pretending to be on staff is one thing... But escape? There are two Renewal agents outside that door. If I wheel you out there, they are going to look at me, and they are going to know, and they are going to shoot us."
 
 "Iris. Look at me."
 
@@ -31,7 +31,7 @@ Iris swallowed hard. "They're going to want to see the body."
 
 Iris understood. Turning to the room's hospital terminal, she swiped the stolen medical badge pinned to her containment suit. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
 
-The screen flashed with the floor's patient network. Iris didn't hesitate. She dragged her finger across the display, manually overriding the vitals for three patients in the intensive care room at the other side of the ward. 
+The screen flashed with the floor's patient network. Iris didn't hesitate. She dragged her finger across the display, manually overriding the vitals for three patients in the intensive care room at the other side of the floor. 
 
 The bell alarm of a Code Blue sounded across the ward. 
 
@@ -59,11 +59,11 @@ Iris shoved the gurney into the hallway, steering it straight at them.
 
 The guard on the right held up a black, mechanical gloved hand, blocking her path. He reached down, his armored fingers catching the silver zipper of the body bag. "Doctor, protocol requires visual confirmation of the—"
 
-"Do not break the seal!" Iris snapped. "This is a BSL-4 Airborne Infection Isolation protocol. The asset was in direct contact with an unknown pathogen in the Mnemosyne lab. If you open that bag in this hallway, you will contaminate this entire wing." She glared up at his faceless black visor, her chest heaving. "If you want to explain to people upstairs why you forced them to incinerate this entire hospital ward, go ahead and unzip it."
+"Do not break the seal!" Iris snapped. "This is a BSL-4 Airborne Infection Isolation protocol. The asset was in direct contact with an unknown pathogen in the Mnemosyne lab. If you open that bag in this hallway, you will contaminate this entire wing." She glared up at his faceless black visor, her chest heaving. "If you want to explain to the people upstairs why you forced them to incinerate this entire hospital ward, go ahead and unzip it."
 
 The guard froze. His faceless helmet turned down toward the yellow bio-hazard symbol on the white body-bag. He lifted his hand away from the zipper, and took a half-step back.
 
-Iris didn't wait. She put her weight into the gurney and pushed it rapidly down the polished corridor, fighting to keep the wheels straight.
+Iris didn't wait. She put her weight into the gurney and pushed it rapidly down the corridor, fighting to keep the wheels straight.
 
 The caster wheels squeaked and spun against the linoleum. From beneath the plastic, Elena whispered, "Keep moving."  
 
