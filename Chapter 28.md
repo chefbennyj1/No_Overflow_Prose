@@ -78,7 +78,7 @@ Iris's hands white-knuckled the metal rail. She couldn't make a mistake.
 The lead agent stepped out onto the floor. He looked down at the white body bag, then up at Iris's yellow suit. He looked past her toward the room they had come from. He grabbed the edge of the elevator door, stopping it from closing. 
 
 
-"The asset. This team is tasked with the retrieval of this patient." The agent asserted in a modulated voice.
+"This is the asset." The agent asserted in a modulated voice.
 
 "The asset has been in a coma and in isolation for a month. She finally succumbed to her injuries." Iris pushed the gurney into the elevator car. 
 
@@ -94,7 +94,7 @@ The agent's faceless visor locked onto her. Inside the ballooned bio-suit, a lin
 "Very well, Agents." She pushed the gurney into the elevator with the four agents, and slammed her hand against the sub-level button. 
 
 
-The heavy steel doors slid shut, sealing Iris inside with four corporate killers and the woman they were sent to dispose of. 
+The heavy steel doors slid shut, sealing Iris inside with four corporate killers and the woman they were tasked to deal with. 
 
 The elevator descended. Inches from the agents' combat boots, the white plastic of the body bag quietly rose and fell. A necessary breath. Iris forced her head up, snapping her gaze to the floor indicators counting down above the doors, desperate to keep the agents from following her stare.
 
