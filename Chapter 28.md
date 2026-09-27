@@ -89,7 +89,7 @@ The agent nodded to her. Her grip on the metal rail loosened.
 Iris swallowed. Her voice rasped, "You are not wearing the proper protective equipment to be in close quarters with the subject."
 The agent's faceless visor locked onto her. Inside the ballooned bio-suit, a line of sweat crawled down Iris's spine.
 
-"That will not be an issue, Doctor." The modulated voice of the agent was absolute.
+"Exposure is a non-issue, Doctor." The modulated voice of the agent was absolute.
 
 "Very well, Agents. Going down." She pushed the gurney into the elevator with the four agents, and slammed her hand against the sub-level button. 
 
