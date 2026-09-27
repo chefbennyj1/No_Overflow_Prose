@@ -80,7 +80,7 @@ The lead agent stepped out onto the floor. He looked down at the white body bag,
 
 "This is the asset." The agent asserted in a modulated voice.
 
-"The asset has been in a coma and in isolation for a month. She finally succumbed to her injuries." Iris pushed the gurney into the elevator car. 
+"The asset has been in a coma and in isolation for a month. She finally succumbed to her injuries." 
 
 The agent nodded to her. Her grip on the metal rail loosened.
 
