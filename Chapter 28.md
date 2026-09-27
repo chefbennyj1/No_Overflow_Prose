@@ -29,27 +29,27 @@ Iris swallowed hard. "They're going to want to see the body."
 
 "Then you don't let them." Elena shifted her weight, falling back against the pillow. "But first, you need to clear the floor."
 
-Iris understood. Turning to the room's integrated terminal, she swiped the stolen medical badge pinned to her containment suit. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
+Iris understood. Turning to the room's hospital terminal, she swiped the stolen medical badge pinned to her containment suit. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
 
-The screen flashed with the floor's telemetry network. Iris didn't hesitate. She dragged her finger across the display, manually overriding the vitals for three patients in the intensive care ward down the hall. 
+The screen flashed with the floor's telemetry network. Iris didn't hesitate. She dragged her finger across the display, manually overriding the vitals for three patients in the intensive care room at the other side of the ward. 
 
-A deafening, synchronized Code Blue alarm sounded on the quiet of the floor. 
+A bell of a synchronized Code Blue alarm sounded on the quiet of the floor. 
 
-Through the door, they could hear the frantic shouting of the triage nurses and the squeal of crash carts sprinting past their room. The corridor descended into instant chaos. 
+Through the door, they could hear the shouting of the triage nurses and the squeal of crash carts sprinting past their room. The corridor erupted into action. 
 
 "Now," Elena breathed. "Flatline the monitor."
 
-Iris turned to the console. She tapped the screen, overriding the localized life support sensors. The rhythmic beeping of Elena's heart monitor instantly flatlined into a piercing, continuous alarm. 
+Iris turned to the console. She tapped the screen, overriding the localized life support sensors. The rhythmic beeping of Elena's heart monitor instantly flatlined into a continuous tone. 
 
 Iris unrolled the white body bag across the mattress. The thick plastic was stamped with a yellow bio-hazard symbol. She pulled the material over Elena's chest, over her face, and pulled the silver zipper closed.
 
 "I can't do this," Iris whispered to the bag. 
 
-"You can," Elena spoke from beneath the plastic. 
+"You can," Elena spoke from beneath the plastic. "We need to get out of here."
 
 Iris shoved her glasses up her nose one last time. She slammed her hand against the electronic door release. 
 
-The heavy door slid open. The piercing sound of the flatline alarm flooded the corridor. 
+The door slid open, and the containment field dropped. The piercing sound of the flatline alarm flooded the corridor. 
 
 The two Corporate Renewal agents instantly turned. They were imposing, clad in identical black tactical armor. Thin, vertical crimson seams cut down the center of their faceless black helmets.
 
@@ -61,13 +61,13 @@ The guard on the right held up a heavy, gloved hand, blocking her path. He reach
 
 "Do not break the seal!" Iris snapped. "This is a BSL-4 Airborne Infection Isolation protocol. The asset was in direct contact with an unknown pathogen in the Mnemosyne lab. If you open that bag in this hallway, you will contaminate this entire wing." She glared up at his faceless black visor, her chest heaving. "If you want to explain to people upstairs why you forced them to incinerate this entire hospital ward, go ahead and unzip it."
 
-The guard froze. He stared at the yellow bio-hazard symbol, the threat of an unknown biological agent outweighing his orders. He lifted his hand away from the zipper, and took a half-step back.
+The guard froze. His faceless helmet turned down toward the yellow bio-hazard symbol on the white body-bag. He lifted his hand away from the zipper, and took a half-step back.
 
 Iris didn't wait. She put her weight into the gurney and pushed it rapidly down the polished corridor, fighting to keep the wheels straight.
 
 The caster wheels squeaked and spun against the linoleum. From beneath the plastic, Elena whispered, "Keep moving."  
 
-Up ahead, the digital display above the heavy freight elevators chimed. The steel doors slid open. 
+Up ahead, the digital display above the service elevators chimed. The steel doors slid open. 
 
 Iris lost a breath. 
 
