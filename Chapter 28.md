@@ -82,7 +82,7 @@ The lead agent stepped out onto the floor. He looked down at the white body bag,
 
 "The asset has been in a coma in isolation for a month. She finally succumbed to her injuries." Iris shoved the gurney violently into the elevator car. 
 
-The agent nodded to her. Her white-knuckled grip on the metal rail loosened a fraction.
+The agent nodded to her. Her white-knuckled grip on the metal rail loosened.
 
 "Fine, Doctor. We'll accompany you to the sub-level morgue." 
 
@@ -101,6 +101,14 @@ She didn't look back. She pushed the gurney around the corner, instantly out of 
 
 "Leave the bed," Elena whispered from inside the bag, already tearing the silver zipper open. She pushed the white plastic aside and slid off the mattress, landing unsteadily on her bare feet, clutching her ribs. "It's got patient tracking in it."
 
-Iris threw Elena's arm over her shoulder. She hit the wall panel, sending the nearest empty service elevator up to the top floor to scramble the telemetry. Together, they vanished into the darkness of the lower grid as the Disposition Team waited by the morgue doors.
+Iris threw Elena's arm over her shoulder. She held her weight awkwardly as it dragged against her. Elena's breathing was shallow. 
 
-"We did it," Iris breathed, looking at the blinking exit sign at the end of the dark corridor. "We actually did it."
+"The agents will check the room," Iris whispered, her eyes darting across the sterile tile of the morgue. 
+
+"They won't find us," Elena said. She pointed a trembling finger toward the far wall. 
+
+Behind the steel autopsy tables sat an unpainted industrial door—the maintenance access for the bio-incinerator vents. It dropped straight into the structural ruins of Oshima.
+
+Iris pulled Elena toward it. She shoved her shoulder against the latch. The metal gave way to a concrete stairwell. A draft of rusted iron rushed up from the dark, the bitter scent of the lower city. 
+
+They stepped through the frame. Iris looked back at the empty white plastic resting on the gurney. She pulled the door shut, sealing them in the dark. 
