@@ -82,7 +82,7 @@ The lead agent stepped out onto the floor. He looked down at the white body bag,
 
 "The asset has been in a coma and in isolation for a month. She finally succumbed to her injuries." Iris pushed the gurney into the elevator car. 
 
-The agent nodded to her. Her white-knuckled grip on the metal rail loosened.
+The agent nodded to her. Her grip on the metal rail loosened.
 
 "Fine, Doctor. We'll accompany you to the sub-level morgue." 
 
@@ -102,13 +102,13 @@ When the doors finally opened to the sub-level hallway, Iris shoved the gurney o
 
 "I need the room clear for the scan," Iris ordered, her voice trembling but sharp. "Wait by the lifts."
 
-She kept her eyes locked on the end of the hall, pushing the gurney past the illuminated Mortuary sign and through the double doors of the sub-level morgue. The room was a sterile expanse of checkered tile. Along the far wall, the stainless steel doors of the cadaver coolers were stacked in perfect, clinical rows.
+She kept her eyes locked on the end of the hall, pushing the gurney past the illuminated Mortuary sign and through the double doors of the sub-level morgue. Along the far wall, across the checkered tiles, the stainless steel doors of the cadaver coolers were stacked in clinical rows.
 
 "Leave the bed," Elena whispered from inside the bag, already tearing the silver zipper open. She pushed the white plastic aside and slid off the mattress, landing unsteadily on her bare feet, clutching her ribs. "It's got patient tracking in it."
 
 Iris threw Elena's arm over her shoulder. She held her weight awkwardly as it dragged against her. Elena's breathing was shallow. 
 
-"The agents will check the room," Iris whispered, her eyes darting across the sterile tile of the morgue. 
+"The agents will check the room," Iris whispered, her eyes darting across the tile of the morgue. 
 
 "They won't find us," Elena said. She pointed a trembling finger toward the far wall. 
 
