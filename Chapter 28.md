@@ -33,7 +33,7 @@ Iris understood. Turning to the room's hospital terminal, she swiped the stolen 
 
 The screen flashed with the floor's telemetry network. Iris didn't hesitate. She dragged her finger across the display, manually overriding the vitals for three patients in the intensive care room at the other side of the ward. 
 
-The piercing bell of a synchronized Code Blue alarm shattered the quiet of the floor. 
+The bell of a Code Blue alarm sounded across the ward. 
 
 Through the door, they could hear the shouting of the triage nurses and the squeal of crash carts sprinting past their room. The corridor erupted into action. 
 
