@@ -89,20 +89,22 @@ The agent nodded to her. Her grip on the metal rail loosened.
 Iris swallowed. Her voice rasped, "You are not wearing the proper protective equipment to be in close quarters with the subject."
 The agent's faceless visor locked onto her. Inside the ballooned bio-suit, a line of sweat crawled down Iris's spine.
 
-"Exposure is a non-issue, Doctor." The modulated voice of the agent was absolute.
+"Exposure is a non-issue, Doctor." The modulated voice of the agent was implicit.
 
-"Very well, Agents. Going down." She pushed the gurney into the elevator with the four agents, and slammed her hand against the sub-level button. 
+"Very well, Agents." She pushed the gurney into the elevator with the four agents, and slammed her hand against the sub-level button. 
 
 
-The heavy steel doors slid shut, sealing Iris inside a metal box with four corporate killers and the woman they were sent to dispose of. 
+The heavy steel doors slid shut, sealing Iris inside with four corporate killers and the woman they were sent to supervise. 
 
-The elevator descended. Inches from the agents' combat boots, the white plastic of the body bag quietly rose and fell. A necessary breath. A cold sweat broke across Iris's neck. She forced her head up, snapping her gaze to the floor indicators counting down above the doors, desperate to keep the agents from following her stare.
+The elevator descended. Inches from the agents' combat boots, the white plastic of the body bag quietly rose and fell. A necessary breath. Iris forced her head up, snapping her gaze to the floor indicators counting down above the doors, desperate to keep the agents from following her stare.
+
+The lead agent pressed two armored fingers to the side of his helmet. "This is Disposition Five One, Lead. Update primary objective. The asset has expired. Viability is at zero." He paused, listening to a voice in his earpiece. "Affirmative. We are escorting the remains to sub-level for incineration."
 
 When the doors finally opened to the sub-level hallway, Iris shoved the gurney out into the corridor. The agent followed. 
 
 "I need the room clear for the scan," Iris ordered, her voice trembling but sharp. "Wait by the lifts."
 
-She kept her eyes locked on the end of the hall, pushing the gurney past the illuminated Mortuary sign and through the double doors of the sub-level morgue. Along the far wall, across the checkered tiles, the stainless steel doors of the cadaver coolers were stacked in clinical rows.
+She kept her eyes locked on the end of the hall, pushing the gurney past the illuminated Mortuary sign and through the double doors of the sub-level morgue.  Along the far wall, across the checkered tiles, the stainless steel doors of the cadaver coolers were stacked in clinical rows.
 
 "Leave the bed," Elena whispered from inside the bag, already tearing the silver zipper open. She pushed the white plastic aside and slid off the mattress, landing unsteadily on her bare feet, clutching her ribs. "It's got patient tracking in it."
 
