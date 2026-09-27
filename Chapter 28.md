@@ -75,23 +75,23 @@ A four-man Renewal Disposition Team stood inside the elevator. They were fully a
 
 Iris's hands white-knuckled the metal rail. If they stepped out, the floor guards would tell them the asset was on the gurney. She couldn't make a mistake.
 
-The lead agent stepped out onto the floor. Looked down at the white body bag, then up at Iris's yellow suit. He looked past her toward the room they had come form. He grabbed the edge of the elevator door, stopping it from closing. 
+The lead agent stepped out onto the floor. He looked down at the white body bag, then up at Iris's yellow suit. He looked past her toward the room they had come from. He grabbed the edge of the elevator door, stopping it from closing. 
 
 
-"This is the asset." The agents asserted in a modulated voice.
+"This is the asset." The agent asserted in a modulated voice.
 
-"The asset has been in a coma in isolation for a month. She finally succumb to her injuries." Iris shoved the gurney violently into the elevator car. 
+"The asset has been in a coma in isolation for a month. She finally succumbed to her injuries." Iris shoved the gurney violently into the elevator car. 
 
-The agent nodded to her. Iris felt a second of calm wash over her.
+The agent nodded to her. Her white-knuckled grip on the metal rail loosened a fraction.
 
-"Fine Doctor. We'll accompany you to the sub-level morgue level." 
+"Fine, Doctor. We'll accompany you to the sub-level morgue." 
 
-Iris swallowed hard. Her voice rasped hard, "Very well, Agents. Going down." She pushed the gurney in to the elevator with the four agents, and slammed her hand against the sub-level button. 
+Iris swallowed. Her voice rasped, "Very well, Agents. Going down." She pushed the gurney into the elevator with the four agents, and slammed her hand against the sub-level button. 
 
 
 The heavy steel doors slid shut, sealing Iris inside a metal box with four corporate killers and the woman they were sent to dispose of. 
 
-The elevator descended. The silence was absolute. Iris stood paralyzed, staring at the floor indicators counting down. Beneath the thick white plastic, inches from the commandos' combat boots, Elena didn't breathe. 
+The elevator descended. Inches from the commandos' combat boots, the white plastic of the body bag quietly rose and fell. A necessary breath. A cold sweat broke across Iris's neck. She forced her head up, snapping her gaze to the floor indicators counting down above the doors, desperate to keep the agents from following her stare.
 
 When the doors finally opened to the dark, echoing sub-level morgue, Iris shoved the gurney out into the corridor. The agent followed. 
 
