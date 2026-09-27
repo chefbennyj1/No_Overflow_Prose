@@ -97,7 +97,7 @@ When the doors finally opened to the dark, echoing sub-level morgue, Iris shoved
 
 "I need the room clear for the scan," Iris ordered, her voice trembling but sharp. "Wait by the lifts."
 
-She kept her eyes steady towards the end of the hall. She passed the *Mortuary* sign pointing straight ahead. She pushed the gurney through the double doors of the sub-level morgue.  The room was a long stretch of checked tile. Along the far wall, the stainless doors of the cadaver coolers tiled the wall.
+She kept her eyes steady towards the end of the hall,  and  passed the *Mortuary* sign pointing in her direction. Iris pushed the gurney through the double doors of the sub-level morgue.  The room was a long stretch of checkered flooring. Along the far end of the room, the stainless doors of the cadaver coolers tiled the wall.
 
 "Leave the bed," Elena whispered from inside the bag, already tearing the silver zipper open. She pushed the white plastic aside and slid off the mattress, landing unsteadily on her bare feet, clutching her ribs. "It's got patient tracking in it."
 
