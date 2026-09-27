@@ -27,13 +27,13 @@ She stopped pacing, and looked at the woman in the bed. She was physically broke
 
 Iris swallowed hard. "They're going to want to see the body."
 
-"Then you don't let them." Elena shifted her weight, falling back against the pillow. "But first, you need to clear the floor."
+"Then you don't let them." Elena shifted her weight, falling back against the pillow. "—you need to clear the floor."
 
 Iris understood. Turning to the room's hospital terminal, she swiped the stolen medical badge pinned to her containment suit. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
 
-The screen flashed with the floor's telemetry network. Iris didn't hesitate. She dragged her finger across the display, manually overriding the vitals for three patients in the intensive care room at the other side of the ward. 
+The screen flashed with the floor's patient network. Iris didn't hesitate. She dragged her finger across the display, manually overriding the vitals for three patients in the intensive care room at the other side of the ward. 
 
-The bell of a Code Blue alarm sounded across the ward. 
+The bell alarm of a Code Blue sounded across the ward. 
 
 Through the door, they could hear the shouting of the triage nurses and the squeal of crash carts sprinting past their room. The corridor erupted into action. 
 
