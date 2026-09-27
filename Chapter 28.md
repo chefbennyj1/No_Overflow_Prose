@@ -104,7 +104,7 @@ When the doors finally opened to the sub-level hallway, Iris shoved the gurney o
 
 "I need the room clear for the scan," Iris ordered, her voice trembling but sharp. "Wait by the lifts."
 
-She kept her eyes locked on the end of the hall, pushing the gurney past the illuminated Mortuary sign and through the double doors of the sub-level morgue.  Along the far wall, across the checkered tiles, the stainless steel doors of the cadaver coolers were stacked in clinical rows.
+She kept her eyes locked on the end of the hall, pushing the gurney past the illuminated Mortuary sign and through the double doors of the sub-level morgue.  Along the far wall, across the checkered tiles and rows of steel autopsy tables, the stainless steel doors of the cadaver coolers were stacked in clinical rows.
 
 "Leave the bed," Elena whispered from inside the bag, already tearing the silver zipper open. She pushed the white plastic aside and slid off the mattress, landing unsteadily on her bare feet, clutching her ribs. "It's got patient tracking in it."
 
@@ -114,7 +114,7 @@ Iris threw Elena's arm over her shoulder. She held her weight awkwardly as it dr
 
 "They won't find us," Elena said. She pointed a trembling finger toward the far wall. 
 
-Behind the rows of steel autopsy tables sat an unpainted industrial door—the maintenance access for the bio-incinerator vents. It dropped straight into the structural ruins of Oshima.
+Behind the rows of autopsy tables sat an unpainted industrial door—the maintenance access for the bio-incinerator vents. It dropped straight into the structural ruins of Oshima.
 
 Iris pulled Elena toward it. She shoved her shoulder against the latch. The metal gave way to a concrete stairwell. A draft of rusted iron rushed up from the dark, the bitter scent of the lower city. 
 
