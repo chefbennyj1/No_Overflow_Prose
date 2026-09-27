@@ -3,7 +3,7 @@ music: Interstellar Drift.mp3
 ---
 The lights in the sterile hospital room buzzed and flickered. 
 
-In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished public relations synthetic—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. The upheaval had finally boiled over. 
+In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished public relations synthetic—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. 
 
 Iris stood by the window, looking back at the screen. The yellow Level-4 bio-containment suit made every movement clumsy and loud. She pushed her black-rimmed glasses up her nose, her hands trembling inside the thick rubber gloves.
 
@@ -21,7 +21,7 @@ Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital
 
 "Iris. Look at me."
 
-She stopped pacing, and looked at the woman in the bed. She was physically broken, barely able to sit up. But her eyes held the hardened, clinical resolve of the architect who had help built the Mnemosyne engine. 
+She stopped pacing, and looked at the woman in the bed. She was physically broken, barely able to sit up. But her eyes held the hardened, clinical resolve of the architect who had helped built the Mnemosyne engine. 
 
 "You are a doctor," Elena said, her voice quiet and absolute. "You are not pretending. You are in control. Zip the bag. It's time to go."
 
