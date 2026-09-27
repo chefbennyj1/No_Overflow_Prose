@@ -21,7 +21,7 @@ Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital
 
 "Iris. Look at me."
 
-She stopped pacing, and looked at the woman in the bed. She was physically broken, barely able to sit up. But her eyes held the hardened, clinical resolve of the architect who had helped built the Mnemosyne engine. 
+She stopped pacing and looked at the woman in the bed. She was physically broken, barely able to sit up. But her eyes held the hardened, clinical resolve of the architect who had helped build the Mnemosyne engine. 
 
 "You are a doctor," Elena said, her voice quiet and absolute. "You are not pretending. You are in control. Zip the bag. It's time to go."
 
@@ -78,7 +78,7 @@ Iris's hands white-knuckled the metal rail. She couldn't make a mistake.
 The lead agent stepped out onto the floor. He looked down at the white body bag, then up at Iris's yellow suit. He looked past her toward the room they had come from. He grabbed the edge of the elevator door, stopping it from closing. 
 
 
-"This is the asset." The agent asserted in a modulated voice.
+"The asset. This team is tasked with the retrieval of this patient." The agent asserted in a modulated voice.
 
 "The asset has been in a coma and in isolation for a month. She finally succumbed to her injuries." Iris pushed the gurney into the elevator car. 
 
@@ -89,16 +89,16 @@ The agent nodded to her. Her grip on the metal rail loosened.
 Iris swallowed. Her voice rasped, "You are not wearing the proper protective equipment to be in close quarters with the subject."
 The agent's faceless visor locked onto her. Inside the ballooned bio-suit, a line of sweat crawled down Iris's spine.
 
-"Exposure is a non-issue, Doctor." The modulated voice of the agent was implicit.
+"Exposure is a non-issue, Doctor." The modulated voice of the agent was firm.
 
 "Very well, Agents." She pushed the gurney into the elevator with the four agents, and slammed her hand against the sub-level button. 
 
 
-The heavy steel doors slid shut, sealing Iris inside with four corporate killers and the woman they were sent to supervise. 
+The heavy steel doors slid shut, sealing Iris inside with four corporate killers and the woman they were sent to dispose of. 
 
 The elevator descended. Inches from the agents' combat boots, the white plastic of the body bag quietly rose and fell. A necessary breath. Iris forced her head up, snapping her gaze to the floor indicators counting down above the doors, desperate to keep the agents from following her stare.
 
-The lead agent pressed two armored fingers to the side of his helmet. "This is Disposition Five One, Lead. Update primary objective. The asset has expired. Viability is at zero." He paused, listening to a voice in his earpiece. "Affirmative. We are escorting the remains to sub-level for incineration."
+The lead agent pressed two armored fingers to the side of his helmet. "This is Disposition Five One, Lead. Update primary objective. The asset is unsuitable for retrieval. She has expired. Viability is at zero." He paused, listening to a voice in his earpiece. "Affirmative. We are escorting the remains to sub-level for incineration."
 
 When the doors finally opened to the sub-level hallway, Iris shoved the gurney out into the corridor. The agent followed. 
 
