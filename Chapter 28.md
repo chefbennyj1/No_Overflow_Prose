@@ -71,7 +71,7 @@ Up ahead, the digital display above the service elevators chimed. The steel door
 
 Iris lost a breath. 
 
-A four-man Renewal Disposition Team stood inside the elevator. They were fully armed, their black rifles held tight across their chests, dispatched to secure the exact asset Iris was pushing toward them. 
+A four-man Renewal Extraction Team stood inside the elevator. They were fully armed, their black rifles held tight across their chests, dispatched to secure the exact asset Iris was pushing toward them. 
 
 Iris's hands white-knuckled the metal rail. She couldn't make a mistake.
 
@@ -94,7 +94,7 @@ The agent's faceless visor locked onto her. Inside the ballooned bio-suit, a lin
 "Very well, Agents." She pushed the gurney into the elevator with the four agents, and slammed her hand against the sub-level button. 
 
 
-The heavy steel doors slid shut, sealing Iris inside with four corporate killers and the woman they were tasked to deal with. 
+The heavy steel doors slid shut, sealing Iris inside with four corporate killers and the woman they were tasked to extract. 
 
 The elevator descended. Inches from the agents' combat boots, the white plastic of the body bag quietly rose and fell. A necessary breath. Iris forced her head up, snapping her gaze to the floor indicators counting down above the doors, desperate to keep the agents from following her stare.
 
