@@ -97,6 +97,12 @@ Rin exhaled a shaky breath. She ran toward Harper, wrapping her arms around her 
 
 Harper dropped the gun, and hugged her back, her grip firm. When they pulled apart, Rin managed a weak, exhausted smile. "The jacket looks better on you."
 
-Harper smiled as she looked past her, her eyes scanning the flooded street. The sharp crack of a rifle echoed in the distance.
+Harper smiled, she pulled out the mag-train ticket from the jacket pocket.
 
-"The pot's boiling over," Harper said, her voice tight. "C'mon, we gotta place to go."
+Rin looked at the ticket then up at Harper face. "You could've left." She said.
+
+Harper's smile widened. She looked past Rin, her eyes scanning the flooded street. 
+
+The sharp crack of a rifle echoed in the distance.
+
+"It's not safe out here," Harper said, her voice tight. "C'mon, we gotta place to go."
