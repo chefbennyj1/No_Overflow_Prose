@@ -48,11 +48,11 @@ The three monitors above her desk flared to life, washing her face pale.
 
 "The Filament? Jesus, Erin, they're practically terrorists." Harper crushed her cigarette into an overflowing ashtray on the desk. 
 
-Rin didn't need to hear it.  "Don't call me that."
+Rin didn't need to hear it.  "Don't call me that." 
 
-Harper smirked, her fingers found their familiar places on the worn keys of her keyboard. The letters had rubbed off years ago, but she didn't need them. She opened the file structure.
+Harper smirked, her fingers found their familiar places on the worn keys of her keyboard. The letters had rubbed off years ago, but she didn't need them. She opened the file structure. "Shit like this doesn't happen in  Senora." 
 
-"I got them what they wanted— " Rin started.
+"I got them what they wanted— " Rin started, she looked at her leather jacket laying on the arm of the couch.
 
 "—'course you did. Did ya ask 'em why'd they wanted access to the mop closet?" Harper laughed. She didn't turn around, only remained focused on her screens.
 
