@@ -29,6 +29,6 @@ Before Victor could say a word, Arthur's head snapped toward him. The brief clar
 
 "Victor," Arthur whispered, his voice trembling as his fingers dug back into the corduroy. "You gotta watch that window. You got one job."
 
-Two sharp raps on the wooden doorframe broke the tension. Harlan stood in the doorway, holding his police radio. "Vic. Dispatch just called a Code Orange at the Takeda-Holden sub-levels."
+Two sharp raps on the wooden doorframe broke the tension. Harlan stood in the doorway, holding his police radio. "Vic. Dispatch just called, they want everyone back at the prescient. The whole city's gone crazy."
 
 Victor stood up instantly. He didn't look back at the old man in the chair. He pushed the plastic chair away and walked out into the hall. He had lasted exactly two minutes.
