@@ -106,9 +106,9 @@ She rolled her wrist against his thumb, breaking his grip.
 
 Victor grasped blindly for her again in the glare, but before he could, her hand clamped down hard on his wrist. She pulled him closer. 
 
-"Ask yourself, Detective. Why does the Filament want custodial access to the Company's Deep Storage? We both saw what's down there. What could the Madame do with an entire army of Renewal synthetics?"
+"Ask yourself, Detective. What would the Madame want with Takeda-Holden janitorial access?"
 
-Victor didn't move. The light continued to burn through his eyelids, his mind raced back to the Deep Storage hangar. He saw the long, uniform rows of plastic-draped bodies in the dark. 
+Victor didn't move. The light continued to burn through his eyelids, his mind raced. *Janitorial Access?*
 
 She let go of his arm. He didn't try to grab her again.
 
