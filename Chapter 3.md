@@ -48,6 +48,8 @@ The Madame studied Rin for a long moment, then a grim  smile painted its way acr
 
 "Yes, ma'am," Rin said, acknowledging an offer she had no intention of accepting.
 
-The Madame gave a slight nod. The broad-shouldered man reached into his suit jacket and flicked something through the open window.
-  
-Rin snatched it out of the freezing rain. It was a smooth, featureless slip of matte-black glass. Burner credits. Almost enough to buy a way out.
+The Madame gave a slight nod. The broad-shouldered man reached into his suit jacket and held something out the open window.
+
+Rin snatched it out of the freezing rain. It was exactly what she had asked for. The gold lettering on the single mag-lev transit pass caught the red glow of the taillights: *SONORA TERRITORIES*.
+
+The Madame let the smoke spill from her lips, her eyes dropping to the ticket in Rin's hand. "The Sonora Territories," she said, a knowing smile pulling at the deep lines around her mouth. "A very long way from the rain, Erin Adler."
