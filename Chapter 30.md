@@ -1,23 +1,33 @@
-The streets of the lower city were fueled with outrage. Freezing rain hissed into steam against the hulls of the burning mag-cars. The air was black with soot and the sharp spontaneous cracks, and muzzle flashes of the Corporate Renewal's semi-automatic rifles firing into the fog. The boil had finally erupted. 
+Fifty stories beneath the burning streets, the subterranean Mnemosyne Core sat in dead silence. For four weeks, Silas Blackwell had been sealed behind its locked blast doors and three feet of lead-lined concrete. A military cot lay unmade in the corner. 
 
-In the distance, mobs marched menacingly through the streets toward the brigades of heavily shielded Renewal agents. Crude homemade weapons, and rifles in hand. A rogue homemade explosive detonated against the agents line—the shockwave throwing the faceless black soldiers back, creating a gap, and rattling the concrete. The hole immediately filled with replacement agents. And the chaotic march of the citizens continued forward.
+Blackwell stood at his terminal, placing a bent cigarette between his lips and sparking his lighter. He inhaled deeply, watching the holographic screen on mute. The face of a public relations synthetic delivered the evening news, the background filled with the muzzle flashes of Corporate Renewal agents holding the line. 
 
-Fifty stories beneath the burning streets, the subterranean Mnemosyne Core had turned into a tomb of dead silence. For a month it sat heavily insulated behind its locked blast doors and three feet of lead-lined concrete, detached from the revolution above.
-
-Silas Blackwell walked slowly down the central gantry, his polished shoes clicking against the steel grates. 
-
-In the center of the dark laboratory, the cylindrical containment field was the only illumination in the room. Inside the cylinder, suspended inches above the floor, the ceramic form of Parity waited. 
-
-Blackwell stopped at his terminal. He placed a bent cigarette between his lips and lit it. He inhaled the smoke deeply, watching the interface's holographic screen. The face of a public relations synthetic delivered the evening news. Blackwell could see what was happening outside the lab. He let the smoke go from his lungs.
-
-Red diagnostic warnings flashed on his terminal. The engine's core singularity—the black hole he had manufactured to process the being in front of him—was expanding. 
+He let the smoke go from his lungs as a red diagnostic warning flashed across his terminal. The engine's core singularity—the black hole he had manufactured to process the being in front of him—was expanding. 
 
 On the corner of his screen, the digital clock display violently stuttered. It ticked from 23:41, jumped forward to 23:44, and snapped backward to 23:40. Localized time was fracturing.
 
-"The architecture is collapsing," Blackwell said, not looking up from the screen. "Without the Vigil to maintain the core, the singularity is in a runaway state." 
+"The architecture is collapsing," Blackwell said. He didn't look up from the screen. "Without the Vigil to maintain the core, the singularity is in a runaway state." 
 
-"Indeed," Parity's voice resonated across the containment. She pushed her porcelain finger firmly against the containment field. Circling it, along the electricity. "The void is... hungry, Doctor."
+"Indeed," Parity's voice resonated across the containment pit. 
 
-Blackwell observed Parity's fingers as they sparked blue and white against the containment cylinder. "The electro-magnetic field is unbreakable, Parity." Blackwell didn't like how comfortable she was inside the cage. "I've created a special kind of vacuum."
+Blackwell looked up. It was the first time she had moved in weeks. She pushed her porcelain finger against the containment boundary, tracing the perimeter. 
 
-Parity stopped running her fingers along the containment field. She tilted her glassy head. Her eyes locked onto him through the burning wall of the containment field. Her voice echoed along its perimeter. "You know, Doctor, I have spent quite a bit of time in your cage." Blackwell could feel her stare cutting through him. "Long enough to get to know it..." Suddenly her voice was no longer tied to the electricity of the containment field; it spoke through vibrations in the floor, in the glass of the pit. It vibrated in the tools on Blackwell's desk. "... very, very, well."
+"The void is... hungry, Doctor," she said.
+
+Blackwell watched her fingers spark white and bronze against the barrier. "The electromagnetic tether is mathematically absolute, Parity." He didn't like how comfortable she was inside the cage. "There is no physical vector for escape."
+
+Parity stopped tracing the glass. She tilted her glassy head, her unblinking eyes locking onto him through the burning wall of the field. 
+
+Blackwell's eyes shifted from her to the diagnostic readout. The field's power output was fluctuating. With every micro-stutter of the fracturing clock, the electromagnetic tether dipped. 
+
+She wasn't testing the cage. She was timing the power surges. 
+
+Before Blackwell could reach for the manual override, Parity stepped forward.
+
+She didn't hit the glass. She simply ceased to be on one side of the barrier, and appeared on the other. A white-and-bronze afterimage lingered in the cage for a fraction of a second before fading out. 
+
+Blackwell froze. His jaw tightened so hard the cigarette snapped between his teeth, spilling ash and burning tobacco down his shirt. He didn't brush it off. 
+
+Parity stood inches from him. Her voice was no longer tied to the electricity of the containment field. It vibrated in the steel floor grates, in the glass of the pit, and in the tools on Blackwell's desk. 
+
+"You know, Doctor, I have spent quite a bit of time in your cage," she said, the vibrations rattling the bones in his inner ear. "Long enough to get to know it very, very, well."
