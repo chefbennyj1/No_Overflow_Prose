@@ -59,7 +59,7 @@ Harper’s head snapped toward the synthetic. “Hey—if you know something, no
 
 If Rin told her the truth, Harper would stop her before she could do the one thing that still mattered.  Rin grabbed Harper by the collar of her jacket and pulled her in. She kissed her. It was soft, frantic—stolen as the flashlight beams swept over the plastic sheets beside them.
 
-Rin broke away, shoving the weight of the synthetic entirely onto Harper. She shrugged off her oversized leather jacket and pressed it hard into Harper's chest. "Stay down. When they move, you run. And don't call me that. It's Rin."
+Rin broke away, shoving the weight of the synthetic entirely onto Harper. She shrugged off her oversized leather jacket and pressed it hard into Harper's chest. The corner of the mag-train ticket poked out of the pocket. She pushed the ticket back into her pocket. "Stay down. When they move, you run. And don't call me that. It's Rin."
 
 Before Harper could argue, Rin stepped away from the cover of the plastic sheets and into the aisle. 
 
