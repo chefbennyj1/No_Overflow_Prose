@@ -108,7 +108,7 @@ Victor grasped blindly for her again in the glare, but before he could, her hand
 
 "Ask yourself, Detective. What would the Madame want with Takeda-Holden janitorial access?"
 
-Victor didn't move. The light continued to burn through his eyelids, his mind raced. *Janitorial Access?*
+Victor didn't move. The light continued to burn through his eyelids, his mind raced. *Janitorial access?*
 
 She let go of his arm. He didn't try to grab her again.
 
