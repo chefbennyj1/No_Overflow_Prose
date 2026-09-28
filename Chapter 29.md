@@ -30,3 +30,10 @@ Before Victor could say a word, Arthur's head snapped toward him. The brief clar
 Two sharp raps on the wooden doorframe broke the tension. Harlan stood in the doorway, holding his police radio. "Vic. Dispatch just called. They want everyone back at the precinct. The whole city's gone crazy."
 
 Victor stood up instantly. He didn't look back at the old man in the chair. He pushed the plastic chair away and walked out into the hall.
+
+"She's going for the synths in the Company Deep Storage, Harlan." They hurried back down the corridor.
+
+"Jesus Vic, which one? The Company's got Deep Storage everywhere."
+
+
+
