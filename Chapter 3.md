@@ -30,7 +30,7 @@ The man sat back. Across from him sat a skeletal woman beneath an impeccably tai
 
 The man snatched the drive up. He turned it over in his heavy hands before presenting it to the old woman. 
 
-The Madame took it, an indulgent smile pulling at the deep lines around her mouth. "It seems you have a small issue of the Renewal following you down here, Erin Adler," her voice was low and gritty. Hearing the Madame of the Filament speaking her full name didn't sit well with Rin.
+The Madame took it, turning the drive over in her diamond-ringed fingers. "It seems you have a small issue of the Renewal following you down here, Erin Adler," her voice was low and gritty. Hearing the Madame of the Filament speaking her full name didn't sit well with Rin.
 
 The Madame looked over the top of her wire-rimmed glasses, her eyes locking onto her. "They are sweeping the lower city. That is an awful lot of heat for service access. Tell me... is this all you took?"
 
@@ -44,12 +44,12 @@ A long second later, the power surged back into the grid. The streetlights flick
 
 Rin felt the weight of the red drive in her pocket. She looked the Madame dead in the eye. "That's all of it. Nothing else."
 
-The Madame studied Rin for a long moment, then a grim  smile painted its way across her face. "You should be more careful when you bring heat into my house," the Madame said, letting the smoke spill out of her mouth and nostrils as she spoke. "But, because you have been of service to us, if the Filament can be of assistance to you... we will."
+The Madame studied Rin for a long moment. "You should be more careful when you bring heat into my house," the Madame said, exhaling a slow, steady cloud of gray smoke. "But, because you have been of service to us, if the Filament can be of assistance to you... we will."
 
 "Yes, ma'am," Rin said, acknowledging an offer she had no intention of accepting.
 
 The Madame gave a slight nod. The broad-shouldered man reached into his suit jacket and held something out the open window.
 
-Rin snatched it out of the freezing rain. It was exactly what she had asked for. The gold lettering on the single mag-lev transit pass caught the red glow of the taillights: *SONORA TERRITORIES*.
+Rin snatched it out of the freezing rain. It was exactly what she had asked for. The gold lettering on the single mag-train ticket caught the red glow of the taillights: *SONORA TERRITORIES*.
 
-The Madame let the smoke spill from her lips, her eyes dropping to the ticket in Rin's hand. "The Sonora Territories," she said, a knowing smile pulling at the deep lines around her mouth. "A very long way from the rain, Erin Adler."
+The Madame leaned forward slightly, her eyes dropping to the ticket in Rin's hand. "The Sonora Territories," she said, a faint smile pulling at the deep lines around her mouth. "A very long way from the rain, Erin Adler."
