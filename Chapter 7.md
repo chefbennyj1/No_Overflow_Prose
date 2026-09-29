@@ -1,4 +1,4 @@
-Victor walked down the faded seafoam colored hallway of the long-term care facility. The blue and yellow checkered linoleum under foot. The fluorescent lights overhead dying with an electrical buzz. He stopped at the front desk, dragging the chained stylus across the visitor log. He looked up at the nurse behind the desk. "Victor Graves, for Arthur Graves". 
+Victor walked down the faded seafoam colored hallway of Oshima Civic Care. The blue and yellow checkered linoleum under foot. The fluorescent lights overhead dying with an electrical buzz. He stopped at the front desk, dragging the chained stylus across the visitor log. He looked up at the nurse behind the desk. "Victor Graves, for Arthur Graves". 
 
 The nurse turned her screen toward him before he finished signing. The balance had a second number under it now. 
 

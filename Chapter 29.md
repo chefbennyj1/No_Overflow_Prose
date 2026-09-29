@@ -1,7 +1,7 @@
 ---
 music: Terrifying_Sadness.mp3
 ---
-Victor walked down the faded seafoam colored hallway of the long-term care facility. The blue and yellow checkered linoleum stuck to his boots. The fluorescent lights overhead died with an electrical buzz, then flickered back to life. 
+Victor walked down the faded seafoam colored hallway of Oshima Civic Care. The blue and yellow checkered linoleum stuck to his boots. The fluorescent lights overhead died with an electrical buzz, then flickered back to life. 
 
 He stopped at the front desk, dragging the chained stylus across the visitor log. He looked up at the nurse behind the desk. "Victor Graves, for Arthur Graves." 
 
