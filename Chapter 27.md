@@ -1,7 +1,7 @@
 ---
 music: Clock Tick.mp3
 ---
-Rin moved fast, following Vigil through the ruined streets of the lower city. The skeleton of a flipped mag-car burned in the intersection, the rain hissing into steam against the scorched metal. Heavy concrete Renewal barricades had been dragged across the pavement, covered in wet spray paint; washing away in the rain. No bodies, but every storefront on the block had their glass shattered across the sidewalk. The unfortunate price of the upheaval.
+Rin moved fast, following Vigil through the ruined streets of the lower city. The skeleton of a flipped mag-car burned in the intersection, the rain hissing into steam against the scorched metal. Heavy concrete Renewal barricades had been dragged across the pavement, covered in wet spray paint, washing away in the rain. No bodies. Every storefront on the block had its glass shattered across the sidewalk. The unfortunate price of the upheaval.
 
 From the adjacent streets came the rhythmic chants of a large crowd. As Rin and Vigil ran, the chanting resolved into the overlapping roar of a mob. A synthesized Renewal agent voice spoke through a vehicle-mounted loud speaker, accompanied by a warning siren.
 
