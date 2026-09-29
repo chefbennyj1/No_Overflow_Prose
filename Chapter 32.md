@@ -53,7 +53,7 @@ He watched it go. It turned once in the early light, passed the terrace rail, an
 
 Then the sun came.
 
-It broke over the eastern edge of the fog, low and white, and the light ran across the top of the cloud toward the tower. It struck Blackwell full in the face. His dark lenses saved his eyes. Nothing saved him from what the light showed him.
+It broke over the eastern edge of the fog, low and white, and the light ran across the top of the cloud toward the tower. It struck Blackwell full in the face. Blackwell looked down at the sun hitting the clouds.
 
 His shadow. It fell away from the tower's point and stretched down across the fog, a thin black figure a mile long, arms loose at its sides, hanging from nothing.
 
@@ -69,12 +69,12 @@ Parity was no longer looking at him. Her black eyes had turned to the lower city
 
 She raised him until his heels found the glass again. She handled him the way she had handled the containment field for four weeks, with patience and no warmth.
 
-"You built me a cage and burned it," Parity said. "No one could see what you had made." The frost crept up his collar toward his jaw. "I prefer to be seen."
+"You built me a cage and buried it in the ground," Parity said. "No one could see what you had made." The frost crept up his collar toward his jaw. "I prefer to be seen."
 
 Far below, on the terraces of New Veridia, a window caught the sunrise. Then another. The point of the tower would be visible from every rooftop in the city, and from any street in the Dead Circuits where the fog thinned enough to look up.
 
-Blackwell understood what he was. A flare. Something held up at the highest point in the city so that someone would come to it.
+Blackwell understood what he was. A beacon. Something held up at the highest point in the city so that someone would come to it.
 
-"She will see us," Parity said. "And she will come for you, Doctor. Or... for me. It is the way she is built."
+"She will see us," Parity said. "And she will come for the human life. Or... she will come for me. It is the way she is built."
 
 Blackwell knew. He had built her that way.
