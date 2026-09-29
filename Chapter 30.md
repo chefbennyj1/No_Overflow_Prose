@@ -24,22 +24,21 @@ Blackwell's eyes shifted from her to the diagnostic readout. With every micro-st
 
 Blackwell looked over at the cage. It was empty. 
 
-He froze. The cigarette fell from his lips, spilling ash and burning tobacco down his shirt. He didn't brush it off.  
-Blackwell slowly turned his head to the left, peering into the shadows of the server racks. Parity was standing there, her pale form still in the red light. His heart spiked. 
+He froze. The cigarette fell from his lips, spilling ash and burning tobacco down his shirt. He didn't brush it off. 
+
+Blackwell slowly turned his head to the left, peering into the shadows of the server racks. Parity stood there, her pale form cast in the red emergency light. His heart spiked. 
 
 He didn't breathe. Keeping his hand near the terminal's manual override, he carefully turned his head to the right, checking the heavy steel blast doors. 
 
-Parity was standing there, too. 
+Parity stood there, too. 
 
 Blackwell’s brow furrowed. He snapped his head back to the left. She was still by the server racks. 
 
 He looked back to the right. She was still by the doors. 
 
-A cold, primal dread seized his chest. She was fluidly vibrating between the two points in the room. 
+She was fluidly vibrating between the two points in the room, breaking the frame rate of his own vision.
 
-He was trapped in the room with something moving faster than biology could process, and this time he was the one cornered.
-
-He turned to watch the one on his right, quickly turning back to the one on his left. While he stared paralyzed at both of her forms... the afterimage on the right drifted an inch closer. 
+He turned to watch the one on his right, quickly turning back to the one on his left. While he stared at the dual forms... the afterimage on the right drifted an inch closer. 
 
 Then the one on the left drifted closer.
 
@@ -49,8 +48,6 @@ The space was empty.
 
 He threw his head back to the left. The shadows by the server racks were bare. Both versions of her were gone. 
 
-The dark laboratory was still. 
+A sharp cold pricked the fine hairs on the back of his neck. Blackwell froze as he felt the crawling crackle of an electrical static charge building in the millimeter of space between the cotton collar of his lab coat and his bare skin. 
 
-A sudden, sharp cold pricked the fine hairs on the back of his neck. Blackwell froze as he felt the crawling crackle of an electrical static charge building in the millimeter of space between the cotton collar of his lab coat and his bare skin. 
-
-She was floating directly behind him, her ceramic form locked in a silent rise and fall.
+Before he could turn around, cold porcelain fingers wrapped tightly around the back of his neck, the raw voltage searing his skin.
