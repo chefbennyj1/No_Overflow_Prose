@@ -38,7 +38,7 @@ The synthetic didn't look at the woman with the shotgun. Its optical sensors loc
 
 "Doctor Elena Marlowe," the machine spoke in perfect, dual tones. "You are injured." 
 
-The woman with the frayed, blue-tipped hair scowled at the synthetic. "You brought Company into my place?" 
+The woman with the frayed, blue-tipped hair scowled at the synthetic. "You drag us down here in the dark to wait on Company?" 
 
 She lowered the shotgun an inch, staring hard at Elena. "Wait. Marlowe?" She glanced back at the woman behind her. "Your name was on the Mnemosyne schematic."
 
