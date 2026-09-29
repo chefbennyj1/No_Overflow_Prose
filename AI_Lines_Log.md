@@ -6,3 +6,4 @@ Claude-written prose kept in the manuscript (verbatim or lightly edited). See `w
 |---|---|---|---|
 | 2026-09-29 | 31 | "You drag us down here in the dark to wait on Company?" (Harper, replaces "You brought Company into my place?") | As-is |
 | 2026-09-29 | 32 | Entire chapter draft ("Wind found him before his eyes did." … "He had built her that way.") | First draft, for author rework |
+| 2026-09-29 | 9 | "Black hair fell straight to the small of her back, untouched by the mist curling around it." (Parity intro; sets up Ch. 32) | As-is |

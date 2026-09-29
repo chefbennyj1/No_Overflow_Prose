@@ -10,7 +10,7 @@ The voice did not come from behind him. It came up through the tower, through th
 
 Blackwell looked up first. It was the only direction he could stand.
 
-Parity floated above him with one arm extended, her fingers closed around the back of his collar. Her toes pointed at the city. Her long black hair lay still against her shoulders while the wind tore at everything else. Frost was spreading across the lapels of his coat, outward from her knuckles.
+Parity floated above him with one arm extended, her fingers closed around the back of his collar. The hem of his shirt dug into his skin, painfully under his arms. Her toes pointed at the city. Her long black hair lay still against her shoulders while the wind tore at everything else. Frost was spreading across the lapels of his coat, outward from her knuckles.
 
 Then he looked down.
 

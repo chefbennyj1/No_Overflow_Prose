@@ -24,7 +24,7 @@ The stone nodes fractured, tearing open a jagged passage in front of Vigil, forc
 
 Heavy shards of debris broke apart and slowed to a crawl, suspended in a wave of dilated time. The shrapnel drifted out in the freezing air at an undetectable pace.
 
-Mist swirled outwards from the door, as a figure emerged from the stillness onto the plane. A feminine statue, porcelain white. She floated across from Vigil, a rigid figure, cold emanating from her form.
+Mist swirled outwards from the door, as a figure emerged from the stillness onto the plane. A feminine statue, porcelain white. Black hair fell straight to the small of her back, untouched by the mist curling around it. She floated across from Vigil, a rigid figure, cold emanating from her form.
 
 Bronze holographic circuitry seared across her skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
 
