@@ -1,11 +1,11 @@
 ---
 music: Clock Tick.mp3
 ---
-Rin moved fast, following Vigil through the ruined streets of the lower city. The skeleton of a flipped mag-car burned in the intersection, the rain hissing into steam against the scorched metal. Heavy concrete Renewal barricades had been dragged across the pavement, covered in wet spray paint, washing away in the rain. No bodies. Every storefront on the block had its glass shattered across the sidewalk. The unfortunate price of the upheaval.
+Rin moved fast, following Vigil through the ruined streets of the lower city. The skeleton of a flipped mag-car burned in the intersection, the rain hissing into steam against the scorched metal. Heavy concrete Renewal barricades had been dragged across the pavement, covered in wet spray paint, washing away in the rain. No bodies. Every storefront on the block had its glass shattered across the sidewalk.
 
 From the adjacent streets came the rhythmic chants of a large crowd. As Rin and Vigil ran, the chanting resolved into the overlapping roar of a mob. A synthesized Renewal agent voice spoke through a vehicle-mounted loud speaker, accompanied by a warning siren.
 
-Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin's lungs burned as the night air hit them with every deep inhale. Broken glass cracked under her worn, inmate-issued running shoes. She had peeled down the top half of her jumpsuit and tied it tightly around her waist, trying to hide the black D.O.C. stencil stamped on her back. But the pants were still unmistakable prisoner orange. Her white cotton tank top was damp, clinging to her wet skin. 
+Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin's lungs burned as the night air hit them with every deep inhale. Broken glass cracked under her worn, inmate-issued running shoes. She had peeled down the top half of her jumpsuit and tied it tightly around her waist, trying to hide the black D.O.C. stencil stamped on her back. But the pants were still an unmistakable prisoner orange. Her white cotton tank top was damp, clinging to her wet skin. 
 
 Vigil moved through the physical world with a hyper-optimized precision. Her gait was perfect, lacking even the synthesized natural sway programmed into generic synthetics. She was wearing the stolen Oshima police uniform, the dark, waterproof bomber-jacket zipped tight over her synthetic chassis, and the eight-point cap low over her eyes. 
 

@@ -6,7 +6,7 @@ He let the smoke go from his lungs as a red diagnostic warning flashed across hi
 
 On the corner of his screen, the digital clock display violently stuttered. It ticked from 23:41, jumped forward to 23:44, and snapped backward to 23:40. Localized time was fracturing.
 
-"The architecture is collapsing," Blackwell said. He didn't look up from the screen. "Without the Vigil to maintain the core, the singularity is in a runaway state." 
+"The core is collapsing," Blackwell said. He didn't look up from the screen. "Without the Vigil to maintain the core, the singularity is in a runaway state." 
 
 "Indeed," Parity's voice resonated across the containment pit. 
 
