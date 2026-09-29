@@ -14,20 +14,17 @@ Blackwell looked up. It was the first time she had moved in weeks. She pushed he
 
 "The void can will be contained, Doctor," she said.
 
-Blackwell watched her fingers spark white and bronze against the barrier. "The electromagnetic tether is mathematically absolute, Parity." He didn't like how comfortable she was inside the cage. "There is no physical vector for escape."
+Blackwell watched her fingers spark white and bronze against the barrier. "That electromagnetic shielding is unbreakable, Parity." He didn't like how comfortable she was inside the cage. "There is no physical way for escape."
 
-Parity stopped tracing the glass. She tilted her glassy head, her unblinking eyes locking onto him through the burning wall of the field. 
+Parity stopped tracing the field. She tilted her glassy head, her unblinking eyes locking onto him through the electric wall. "You know, Doctor, I have spent quite a bit of time in your cage." She said, her voice sounding across the electric field.
+Blackwell's eyes shifted from her to the diagnostic readout. With every micro-stutter of the fracturing clock, the fields power draw fluctuated.  It was insignificant, but it fluctuated. The realization of his situation hit him. She was timing the power surges. 
 
-Blackwell's eyes shifted from her to the diagnostic readout. The field's power output was fluctuating. With every micro-stutter of the fracturing clock, the electromagnetic tether dipped. 
+"Long enough to get to know it very, very, well." Parity's voice was no longer tied to the electricity of the containment field. It rattled in the steel floor grates, in the glass of the pit, and in the steel of the server racks, and the bones in his ear. 
 
-She wasn't testing the cage. She was timing the power surges. 
+Blackwell  looked over at the cage. It was empty. 
 
-Before Blackwell could reach for the manual override, Parity stepped forward.
+He froze. The cigarette fell from his lips, spilling ash and burning tobacco down his shirt. He didn't brush it off. 
 
-She didn't hit the glass. She simply ceased to be on one side of the barrier, and appeared on the other. A white-and-bronze afterimage lingered in the cage for a fraction of a second before fading out. 
+Parity stood inches from him. 
 
-Blackwell froze. His jaw tightened so hard the cigarette snapped between his teeth, spilling ash and burning tobacco down his shirt. He didn't brush it off. 
 
-Parity stood inches from him. Her voice was no longer tied to the electricity of the containment field. It vibrated in the steel floor grates, in the glass of the pit, and in the tools on Blackwell's desk. 
-
-"You know, Doctor, I have spent quite a bit of time in your cage," she said, the vibrations rattling the bones in his inner ear. "Long enough to get to know it very, very, well."
