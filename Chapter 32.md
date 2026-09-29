@@ -5,7 +5,7 @@ The wind hit him before he opened his eyes.
 It came up under the lab coat, snapping the hem against his legs. The collar bit into his throat hard enough to stop his breath.
 Blackwell opened his eyes. Grey light. The hem of his shirt dug into his skin, under his arms. His shoes hung over nothing. 
 
-He did not remember leaving the lab. The last thing he had was static crawling under his collar, and then this—cold air, and the fabric of his own coat holding his whole weight by the neck.
+He did not remember leaving the lab. The last thing he felt was the static charge on his neck. Now, the fabric of his own coat held his entire weight by the neck.
 
 "Good morning, Doctor."
 
@@ -59,7 +59,7 @@ His shadow. It fell away from the tower's point and stretched west across the fo
 
 No arm reached down to its collar. No second figure hung above it.
 
-He looked up at her. The sun reflected off her porcelian skin and out the other side.
+He looked up at her. The morning light bent around her porcelain skin.
 
 Parity was no longer looking at him. Her black eyes had turned to the lower city, to the columns of smoke threading up through the fog where the riots burned.
 
