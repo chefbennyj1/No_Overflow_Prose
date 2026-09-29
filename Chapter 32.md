@@ -45,7 +45,7 @@ Her fingers shifted on his collar.
 
 "So we will look here. At the edge. If your end exists, it should be close enough to read."
 
-Blackwell knew the shape of the experiment. He had designed a hundred like it. Remove the support. Observe.
+Blackwell recognized the experiment. He had designed a hundred like it. Remove the support. Observe.
 
 She opened her fingers a fraction. The collar slipped. His weight dropped half an inch and caught, and his lighter slid out of his coat pocket.
 
@@ -69,12 +69,12 @@ Parity was no longer looking at him. Her black eyes had turned to the lower city
 
 She raised him until his heels found the glass again. She handled him the way she had handled the containment field for four weeks, with patience and no warmth.
 
-"You built me a cage and buried it," Parity said. "No one could see what you had made." The frost crept up his collar toward his jaw. "I prefer to be seen."
+"You built me a cage and burned it," Parity said. "No one could see what you had made." The frost crept up his collar toward his jaw. "I prefer to be seen."
 
 Far below, on the terraces of New Veridia, a window caught the sunrise. Then another. The point of the tower would be visible from every rooftop in the city, and from any street in the Dead Circuits where the fog thinned enough to look up.
 
 Blackwell understood what he was. A flare. Something held up at the highest point in the city so that someone would come to it.
 
-"She will see us," Parity said. "And she will come for you, Doctor. She is built that way."
+"She will see us," Parity said. "And she will come for you, Doctor. Or... for me. It is the way she is built."
 
-He knew. He had built her that way.
+Blackwell knew. He had built her that way.
