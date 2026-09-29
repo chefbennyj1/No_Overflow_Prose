@@ -1,6 +1,9 @@
-Wind found him before his eyes did.
-
-It came up under the lab coat and filled it, snapping the hem against his legs, and the collar bit into his throat hard enough to stop his breath. Blackwell opened his eyes. Grey light. His shoes hung over nothing.
+---
+music: Parity_Theme.mp3
+---
+The wind hit him before he opened his eyes. 
+It came up under the lab coat, snapping the hem against his legs. The collar bit into his throat hard enough to stop his breath.
+Blackwell opened his eyes. Grey light. The hem of his shirt dug into his skin, under his arms. His shoes hung over nothing. 
 
 He did not remember leaving the lab. The last thing he had was static crawling under his collar, and then this—cold air, and the fabric of his own coat holding his whole weight by the neck.
 
@@ -10,7 +13,7 @@ The voice did not come from behind him. It came up through the tower, through th
 
 Blackwell looked up first. It was the only direction he could stand.
 
-Parity floated above him with one arm extended, her fingers closed around the back of his collar. The hem of his shirt dug into his skin, under his arms. Her toes pointed at the city. Her long black hair lay still against her shoulders while the wind tore at everything else. Frost was spreading across the lapels of his coat, outward from her knuckles.
+Parity floated above him with one arm extended, her fingers closed around the front of his collar.  Her toes pointed at the city. Her long black hair lay still against her shoulders while the wind tore at everything else. Frost was spreading across the lapels of his coat, outward from her knuckles.
 
 Then he looked down.
 
@@ -22,19 +25,19 @@ Below the bridges, the fog.
 
 It lay across the city the way it always had, pale and even. He had always thought of it as a floor. A man falling through it would find out it was air.
 
-His mind went to work because it always had. Eighty stories. Three hundred meters, give or take the spire. Drag on a man in a lab coat. Terminal velocity in—
+His mind went to work. Eighty stories. Three hundred meters, give or take the spire. Drag on a man in a lab coat. Terminal velocity in—
 
 The edge of the tower doubled.
 
-The line of glass below him split in two, a hand's width apart, and drifted. The terrace slid sideways. The fog sat in two places at once, one layer slightly lower than the other, and when he blinked the gap widened. His stomach went looking for the lower one.
+The line of glass below him split in two, a hand's width apart, and drifted. The terrace slid sideways. The fog sat in two places at once, one layer slightly lower than the other, and when he blinked the gap widened. His stomach turned again.
 
-He could not measure it. The distance to the ground was no longer a number. The singularity beneath the tower was bending the light between him and the earth, and every figure he reached for bent with it.
+Blackwell tried to blink it away. Not vertigo. The singularity beneath the tower was bending the light between him and the earth, and every figure he reached for bent with it. The distance to the ground was no longer a number. He could not measure it.
 
 Blackwell closed his eyes. It made things worse. With his eyes shut, the wind was the only thing telling him which way was down, and the wind came from everywhere.
 
 "Your pulse has doubled," Parity said. The words vibrated in the panes under his heels. "Your breathing is irregular. The mass in your chest is unchanged. Everything about you reports, except the one thing I require."
 
-"Put me down." The wind took the words out of his mouth and carried them west.
+"Put me down." The wind took the words out of his mouth.
 
 "I have looked for your end, Doctor." She lowered him. One inch. His heels left the glass, and nothing touched him now but her hand. "In the cage, I searched every branch I could reach. I see the woman whose hand I took, and where she ends. Where you end, there is nothing."
 
