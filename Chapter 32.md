@@ -49,13 +49,13 @@ Blackwell knew the shape of the experiment. He had designed a hundred like it. R
 
 She opened her fingers a fraction. The collar slipped. His weight dropped half an inch and caught, and his lighter slid out of his coat pocket.
 
-He watched it go. It turned once in the grey light, passed the terrace rail, and fell toward the sky-bridges, shrinking to a point. The fog took it without a mark. He listened for it to land. Nothing came back up.
+He watched it go. It turned once in the early light, passed the terrace rail, and fell toward the sky-bridges, shrinking to a point. The fog took it without a mark. He listened for it to land. Nothing came back up.
 
 Then the sun came.
 
 It broke over the eastern edge of the fog, low and white, and the light ran across the top of the cloud toward the tower. It struck Blackwell full in the face. His dark lenses saved his eyes. Nothing saved him from what the light showed him.
 
-His shadow. It fell away from the tower's point and stretched west across the fog, a thin black figure a mile long, arms loose at its sides, hanging from nothing.
+His shadow. It fell away from the tower's point and stretched down across the fog, a thin black figure a mile long, arms loose at its sides, hanging from nothing.
 
 No arm reached down to its collar. No second figure hung above it.
 
@@ -63,7 +63,7 @@ He looked up at her. The morning light bent around her porcelain skin.
 
 Parity was no longer looking at him. Her black eyes had turned to the lower city, to the columns of smoke threading up through the fog where the riots burned.
 
-"The experiment is inconclusive," she said. "It will keep."
+"The experiment is... inconclusive," she said looking down at him.
 
 "Then why are we up here?"
 
@@ -71,10 +71,10 @@ She raised him until his heels found the glass again. She handled him the way sh
 
 "You built me a cage and buried it," Parity said. "No one could see what you had made." The frost crept up his collar toward his jaw. "I prefer to be seen."
 
-Far below, on the terraces of New Veridia, a window caught the sunrise and flashed. Then another. The point of the tower would be visible from every rooftop in the city, and from any street in the Dead Circuits where the fog thinned enough for a machine to look up.
+Far below, on the terraces of New Veridia, a window caught the sunrise. Then another. The point of the tower would be visible from every rooftop in the city, and from any street in the Dead Circuits where the fog thinned enough to look up.
 
 Blackwell understood what he was. A flare. Something held up at the highest point in the city so that someone would come to it.
 
-"She will see you," Parity said. "And she will come for you, Doctor. She is built that way."
+"She will see us," Parity said. "And she will come for you, Doctor. She is built that way."
 
 He knew. He had built her that way.
