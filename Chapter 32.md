@@ -10,7 +10,7 @@ The voice did not come from behind him. It came up through the tower, through th
 
 Blackwell looked up first. It was the only direction he could stand.
 
-Parity floated above him with one arm extended, her fingers closed around the back of his collar. The hem of his shirt dug into his skin, painfully under his arms. Her toes pointed at the city. Her long black hair lay still against her shoulders while the wind tore at everything else. Frost was spreading across the lapels of his coat, outward from her knuckles.
+Parity floated above him with one arm extended, her fingers closed around the back of his collar. The hem of his shirt dug into his skin, under his arms. Her toes pointed at the city. Her long black hair lay still against her shoulders while the wind tore at everything else. Frost was spreading across the lapels of his coat, outward from her knuckles.
 
 Then he looked down.
 
@@ -56,7 +56,7 @@ His shadow. It fell away from the tower's point and stretched west across the fo
 
 No arm reached down to its collar. No second figure hung above it.
 
-He looked up at her. The sun passed straight into her crystal skin and out the other side, and left no mark on the cloud at all.
+He looked up at her. The sun reflected off her porcelian skin and out the other side.
 
 Parity was no longer looking at him. Her black eyes had turned to the lower city, to the columns of smoke threading up through the fog where the riots burned.
 
