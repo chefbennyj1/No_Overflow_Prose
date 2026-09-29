@@ -19,7 +19,7 @@ Then he looked down.
 
 His shoes. Below them, the tower fell away in a narrowing slope of white-crusted panes. Twenty feet down, the terrace. His terrace. The alloy railing where he had stood the morning the engine woke and told Elena to give the board a show. From here, the patterns etched along its rail were small enough to cover with a thumb.
 
-Below the terrace, the sky-bridges. He had walked them for years. Now he saw their roofs, thin grey ribs strung between towers, and the sight of a roof from above turned something over in his stomach.
+Below the terrace, the sky-bridges. He had walked them for years. Now he saw their roofs strung between the towers, and the sight of a roof from above turned something over in his stomach.
 
 Below the bridges, the fog.
 
@@ -29,13 +29,13 @@ His mind went to work. Eighty stories. Three hundred meters, give or take the sp
 
 The edge of the tower doubled.
 
-The line of glass below him split in two, a hand's width apart, and drifted. The terrace slid sideways. The fog sat in two places at once, one layer slightly lower than the other, and when he blinked the gap widened. His stomach turned again.
+The line of glass below him split in two, a hand's width apart, and drifted. The terrace slid sideways. The fog sat in two places at once, one layer slightly lower than the other. His stomach turned again.
 
-Blackwell tried to blink it away. Not vertigo. The singularity beneath the tower was bending the light between him and the earth, and every figure he reached for bent with it. The distance to the ground was no longer a number. He could not measure it.
+Blackwell tried to blink it away. Not vertigo. The singularity beneath the tower was bending the light between him and the earth, and every figure he reached for bent with it. The distance to the ground was no longer measurable.
 
 Blackwell closed his eyes. It made things worse. With his eyes shut, the wind was the only thing telling him which way was down, and the wind came from everywhere.
 
-"Your pulse has doubled," Parity said. The words vibrated in the panes under his heels. "Your breathing is irregular. The mass in your chest is unchanged. Everything about you reports, except the one thing I require."
+"Your pulse has doubled," Parity said. The words vibrated in the panes under his heels. "Your breathing is irregular. Everything about you reports, except the one thing I require."
 
 "Put me down." The wind took the words out of his mouth.
 
