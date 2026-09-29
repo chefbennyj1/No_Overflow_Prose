@@ -24,7 +24,7 @@ The sharp, mechanical double-clack of an assault shotgun chambering a round echo
 
 Iris stepped through the door, throwing her hands up in the glare of a mounted floodlight. Elena squinted through the harsh light. 
 
-A woman with frayed, blue-tipped hair stood holding the shotgun, aiming it directly at Iris's chest. She held a cigarette between her lips. She hauled on it and blew the smoke out her nose. A muffled explosion from the riots above rattled the concrete ceiling, sending fine dust drifting down through the harsh light. The woman's aim didn't waver a millimeter. Beside her stood another woman with wet, black hair and inmate-issued clothing. 
+A woman with frayed, blue-tipped hair stood holding the shotgun, aiming it directly at Iris's chest. She held a cigarette between her lips. She hauled on it and blew the smoke out her nose. A muffled explosion from the riots above rattled the concrete ceiling, sending fine dust drifting down through the harsh light. The woman maintained her aim. Beside her stood another woman with wet, black hair and inmate-issued clothing. 
 
 "You look like Company," the woman with the shotgun said, her drawl thick with distrust. Her eyes flicked from Iris's clean clothes to Elena's hospital gown. "And you look like a liability. Turn around and walk back into the dark."
 
@@ -44,7 +44,7 @@ She lowered the shotgun an inch, staring hard at Elena. "Wait. Marlowe?" She gla
 
 The woman in the prisoner clothing stepped out from behind her, her dark eyes assessing the blood on Elena's hospital gown. 
 
-Elena stared at the riot-model chassis. She didn't see a corporate enforcer. The machine was stripped down to the mathematics of its movement. She saw the familiar articulation of the micro-servos, the precise weight distribution of the skeletal frame. 
+Elena stared at the Renewal-model chassis. She didn't see a corporate enforcer. The machine was stripped down to the mathematics of its movement. She saw the familiar articulation of the micro-servos, the precise weight distribution of the skeletal frame. 
 
 The synthetic stepped forward, lowering its hand toward Elena. 
 
