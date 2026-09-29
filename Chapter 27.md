@@ -9,7 +9,7 @@ Water rushed through the intersections, spilling over the curbs and flooding the
 
 Vigil moved through the physical world with a hyper-optimized precision. Her gait was perfect, lacking even the synthesized natural sway programmed into generic synthetics. She was wearing the stolen Oshima police uniform, the dark, waterproof bomber-jacket zipped tight over her synthetic chassis, and the eight-point cap low over her eyes. 
 
-A looter rushed past them on the pavement. He looked at Vigil, his eyes growing wide as all the color ran from his face. He didn't see a cop. He stared at the `RA` serial number glowing beneath Vigil's left eye. He stumbled into Rin, cursing frantically as he pushed off her to get his bearings, before breaking into a terrified sprint.
+A looter rushed past them on the pavement. He looked at Vigil, his eyes growing wide as all the color ran from his face. He stumbled into Rin, cursing frantically as he pushed off her to get his bearings, before breaking into a terrified sprint.
 
 Sirens sounded behind them. Rin looked back over her shoulder. Blocks away, police mag-cars, their red and blue lights diffusing in the fog, ignored the stoplights and sped through the intersections. 
 
@@ -97,7 +97,7 @@ Rin exhaled a shaky breath. She ran toward Harper, wrapping her arms around her 
 
 Harper dropped the gun, and hugged her back, her grip firm. When they pulled apart, Rin managed a weak, exhausted smile. "The jacket looks better on you."
 
-Harper smiled. She pulled the mag-train ticket from the jacket pocket.
+Harper smiled. She pulled the Madame's mag-train ticket from the jacket pocket.
 
 Rin looked at the ticket then up at Harper's face. "You could've left," she said.
 
