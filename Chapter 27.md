@@ -1,9 +1,9 @@
 ---
 music: Clock Tick.mp3
 ---
-The usual flow of pedestrians in the intersections were gone, replaced by an unsettled energy. Down the block came the sound of metal shattering glass. The people of the Dead Circuits were tearing the streets apart, targeting Takeda-Holden supply stores. Shadows slipped through the jagged frames of the Company windows, pulling out armfuls of stolen supplies and sprinting into the night.
+Rin moved fast, following Vigil through the ruined streets of the lower city. They were running through the immediate aftermath of a riot. The skeleton of a flipped mag-car burned in the intersection, the rain hissing into steam against the scorched metal. Heavy concrete Renewal barricades had been dragged across the pavement, covered in wet spray paint; washing away in the rain. No bodies, but every storefront on the block had their glass shattered across the sidewalk. The unfortunate price of the upheaval.
 
-Rin moved fast, running through the barren streets. She had no idea where she was going—she was following Vigil.
+From the adjacent streets came the rhythmic chants of a large crowd. As Rin and Vigil ran closer, the chanting resolved into the overlapping roar of a mob. A synthesized Renewal agent voice spoke through a vehicle-mounted loud speaker, accompanied by a warning siren.
 
 Water rushed through the intersections, spilling over the curbs and flooding the gutters. Rin's lungs burned as the night air hit them with every deep inhale. Broken glass cracked under her worn, inmate-issued running shoes. She had peeled down the top half of her jumpsuit and tied it tightly around her waist, trying to hide the black D.O.C. stencil stamped on her back. But the pants were still unmistakable prisoner orange. Her white cotton tank top was damp, clinging to her wet skin. 
 
