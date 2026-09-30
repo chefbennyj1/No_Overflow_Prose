@@ -63,9 +63,7 @@ Victor pulled the strap tight and shut his locker.
 
 The fog was thick down on the market streets. Victor parked the car on the side of the flooded street, lights off, and watched the corner through the smeared windshield.
 
-It was the same corner. Three blocks deep into the slums, where the road opened out and the gutters flooded. He had read the report of a black cruiser idling here the night of the breach, the night the lights went out. Nobody had followed that report. He was following it now.
-
-Sullivan and Brask's cruiser was parked across the street, its unpainted front panel pale in the dark. Neither of them had gotten out.
+There was a good view of the adjacent corner. Three blocks deep into the slums, where the road opened out and the gutters flooded where Sullivan and Brask had pulled their cruiser over. Neither of them had gotten out.
 
 Harlan shifted in the passenger seat. The springs complained under him. "We're supposed to be on the line, Vic. You know what this is, right? We're sitting on two cops. Our cops."
 
