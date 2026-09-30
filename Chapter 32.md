@@ -23,7 +23,7 @@ Below the terrace, the sky-bridges. He had walked them for years. Now he saw the
 
 Below the bridges, the fog.
 
-It lay across the city the way it always had, pale and even. He had always thought of it as a floor. A man falling through it would find out it was air.
+It lay across the city the way it always had, gray and even. He had always thought of it as a floor. A man falling through it would find out it was air.
 
 His mind went to work. Eighty stories. Three hundred meters, give or take the spire. Drag on a man in a lab coat. Terminal velocity in—
 
@@ -35,7 +35,7 @@ Blackwell tried to blink it away. Not vertigo. The singularity beneath the tower
 
 Blackwell closed his eyes. It made things worse. With his eyes shut, the wind was the only thing telling him which way was down, and the wind came from everywhere.
 
-"Your pulse has doubled," Parity said. The words vibrated in the panes under his heels. "Your breathing is irregular. Everything about you reports, except the one thing I require."
+"Your pulse has doubled," Parity said. The words vibrated in the window panes under his heels. "Your breathing is irregular. Everything about you reports, except the one thing I require."
 
 "Put me down." The wind took the words out of his mouth.
 
@@ -47,7 +47,7 @@ Her fingers shifted on his collar.
 
 Blackwell recognized the experiment. He had designed a hundred like it. Remove the support. Observe.
 
-She opened her fingers a fraction. The collar slipped. His weight dropped half an inch and was caught, and his lighter slid out of his coat pocket. He let out a cry and heavy breath.
+She opened her fingers a fraction. The collar slipped. His weight dropped half an inch. He let out a cry and heavy breath before he was caught. His lighter slid out of his coat pocket. 
 
 He watched it go. It turned once in the early light, passed the terrace rail, and fell toward the sky-bridges, shrinking to a point and disappearing into the fog. 
 
