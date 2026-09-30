@@ -17,7 +17,7 @@ Parity floated above him with one arm extended, her fingers closed around the fr
 
 Then he looked down.
 
-His shoes. Below them, the tower fell away in a narrowing slope of white-crusted panes. Twenty feet down, the terrace. His terrace. The alloy railing where he had stood the morning the engine woke and told Elena to give the board a show. From here, the patterns etched along its rail were small enough to cover with a thumb.
+His shoes. Below them, the tower fell away in a narrowing slope of white-crusted panes. Twenty feet down, his terrace. The alloy railing where he had stood the morning the engine woke and told Elena to give the board a show. From here, the patterns etched along its rail were small enough to cover with a thumb.
 
 Below the terrace, the sky-bridges. He had walked them for years. Now he saw their roofs strung between the towers, and the sight of a roof from above turned something over in his stomach.
 
@@ -49,13 +49,13 @@ Blackwell recognized the experiment. He had designed a hundred like it. Remove t
 
 She opened her fingers a fraction. The collar slipped. His weight dropped half an inch and caught, and his lighter slid out of his coat pocket.
 
-He watched it go. It turned once in the early light, passed the terrace rail, and fell toward the sky-bridges, shrinking to a point. The fog took it without a mark. He listened for it to land. Nothing came back up.
+He watched it go. It turned once in the early light, passed the terrace rail, and fell toward the sky-bridges, shrinking to a point and disappearing into the fog. 
 
-Then the sun came.
+Then the sun came up over the horizon. The familiar blue and ivory sky.
 
-It broke over the eastern edge of the fog, low and white, and the light ran across the top of the cloud toward the tower. It struck Blackwell full in the face. Blackwell looked down at the sun hitting the clouds.
+The sun broke over the eastern edge of the fog, low and white, its light ran across the top of the cloud toward the tower. It struck Blackwell full in the face.
 
-His shadow. It fell away from the tower's point and stretched down across the fog, a thin black figure a mile long, arms loose at its sides, hanging from nothing.
+He looked down. His shadow. It fell away from the tower's point and stretched down across the fog, a thin black figure a mile long, arms loose at its sides, hanging from nothing.
 
 No arm reached down to its collar. No second figure hung above it.
 
