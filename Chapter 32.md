@@ -15,7 +15,7 @@ The precinct was half empty. The phones rang and nobody picked them up. A rookie
 
 They passed the holding cells. The precinct synthetics stood inside the cage. All of them. The intake unit, the pair from the gate, the evidence clerk. Someone had powered them down and walked them in there, and they stood shoulder to shoulder behind the bars, eyes dark, the blue `PD` serials beneath them gone out. A uniform had hung his wet coat over the head of the nearest one.
 
-Victor didn't slow down. Somewhere out in the city, a woman in charge of the cities most capable cartels was holding the keys to thousands of machines like these, sleeping under every Company building in Oshima. He knew what the janitors' credentials were for. And there was no one in this building who could stop an entire army of synthetics.
+Victor didn't slow down. Somewhere out there, a woman in charge of the city's most capable cartel was holding the keys to thousands of machines like these, sleeping under every Company building in Oshima. He knew what the janitors' credentials were for. And there was no one in this building who could stop an entire army of synthetics.
 
 Upstairs, the light in the captain's office was on. Victor didn't look at it. To explain what he knew, he would have to explain the girl. The fake charge. The four weeks. The Renewal unit that had walked out of Interview Two with her. The captain would have his badge before he finished the first sentence, and the Madame would still have her keys.
 
@@ -45,7 +45,7 @@ On the other side of the row of lockers, a door slammed. Sullivan and Brask had 
 
 "You want to give the money back?" Brask slammed his locker. "Didn't think so."
 
-Sullivan sneered. "The Madame's man said six o'clock. We show up, we get the rest, we forget we ever saw a canner in a PD jacket."
+Sullivan sneered. "The Madame's man said six o'clock. We show up, we get the rest. Forget we ever saw an `RA` canner in PD jacket."
 
 "And the girl?"
 
@@ -53,7 +53,7 @@ Sullivan sneered. "The Madame's man said six o'clock. We show up, we get the res
 
 Victor's hands stopped on the strap of his vest.
 
-He didn't turn his head. A canner in a PD jacket. A girl. Four weeks he had sat across a steel table from her, and one night had undone all of it. She was out there with that machine. And two cops from his own precinct had sold her to the woman he'd spent his career trying to reach.
+He didn't turn his head. `RA`canner in a PD jacket. A girl. Four weeks he had sat across a steel table from her, and one night had undone all of it. She was out there with that machine. And two cops from his own precinct had sold her to the woman he'd spent his career trying to reach.
 
 "Vic." Harlan had seen his face. "No."
 
