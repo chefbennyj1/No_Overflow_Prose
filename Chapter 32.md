@@ -2,8 +2,8 @@
 music: Parity_Theme.mp3
 ---
 The wind hit him before he opened his eyes. 
-It came up under the lab coat, snapping the hem against his legs. The collar bit into his throat hard enough to stop his breath.
-Blackwell opened his eyes. Grey light. The hem of his shirt dug into his skin, under his arms. His shoes hung over nothing. 
+It whipped up under the lab coat, snapping the hem against his ankles. The collar bit into his throat hard enough to stop his breath.
+Blackwell opened his eyes. A blurry light. The hem of his shirt dug into his skin, under his arms. His shoes hung over nothing. 
 
 He did not remember leaving the lab. The last thing he felt was the static charge on his neck. Now, the fabric of his own coat held his entire weight.
 
