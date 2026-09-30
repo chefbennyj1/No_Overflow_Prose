@@ -20,7 +20,11 @@ A minute later, Victor stood up and walked back out into the hall.
 
 Harlan was waiting by the degraded wooden door, his eyes resting on the fake blue flowers. He didn't ask him how the visit went. He'd stood in the hallway before.
 
-"Is it still worth it, Vic?" Harlan said, keeping his voice low as they walked back down the peeling seafoam corridor. "You know, we can't save everyone the Filament touches."
+"Jackie and the kids wanted to know how Arthur's doing," Harlan said.
+
+"The same."
+
+They started back down the peeling seafoam corridor. Harlan kept his voice low. "Is it still worth it, Vic? You know, we can't save everyone the Filament touches."
 
 Victor tightened his jaw. "They hollowed him out as a Minder... —left him to waste away in that room."
 
