@@ -61,7 +61,7 @@ Victor pulled the strap tight and shut his locker.
 
 ***
 
-The fog was thick down on the market streets. Victor parked the car under the broken awning of a noodle stand, lights off, and watched the corner through the smeared windshield.
+The fog was thick down on the market streets. Victor parked the car on the side of the flooded street, lights off, and watched the corner through the smeared windshield.
 
 It was the same corner. Three blocks deep into the slums, where the road opened out and the gutters flooded. He had read the report of a black cruiser idling here the night of the breach, the night the lights went out. Nobody had followed that report. He was following it now.
 
