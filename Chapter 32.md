@@ -9,7 +9,7 @@ He did not remember leaving the lab. The last thing he felt was the static charg
 
 "Good morning, Doctor."
 
-The voice did not come from behind him. It came up through the tower, through the rimed glass his heels scraped against, and settled somewhere behind his teeth.
+The voice did not come from above him. It sounded through the tower, through the buildings glass his heels scraped against, in the bones of his ears and behind his teeth.
 
 Blackwell looked up first. It was the only direction he could stand.
 
