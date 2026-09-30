@@ -1,132 +1,78 @@
 ---
-music: Terrifying_Sadness.mp3
+music: Parity_Theme.mp3
 ---
-The precinct was half empty.
+The wind hit him before he opened his eyes. 
+It whipped up under the lab coat, snapping the hem against his ankles. The collar bit into his throat hard enough to stop his breath.
+Blackwell opened his eyes. A blurry light. The fabric of his shirt dug into his skin, under his arms. His shoes hung over nothing. 
 
-Most of the night shift had been sent up to stand behind Renewal's lines, and the ones left behind moved through the bullpen like men who had been awake for two days. A rookie worked the intake counter alone, typing with two fingers while a woman in a torn raincoat shouted at him about her son. The phones rang and nobody picked them up.
+He did not remember leaving the lab. The last thing he felt was the static charge on his neck. Now, the fabric of his own coat held his entire weight.
 
-Victor walked past the holding cells on his way to his desk.
+"Good morning, Doctor."
 
-The precinct synthetics stood inside the cage. All of them. The intake unit, the pair from the gate, the evidence clerk. Someone had powered them down and walked them in there, and they stood shoulder to shoulder behind the bars in their black bomber jackets, eyes dark, the blue `PD` serials beneath them gone out. A uniform had hung his wet coat over the head of the nearest one.
+The voice did not come from above him. It sounded through the tower, through the buildings glass his heels scraped against, in the bones of his ears and behind his teeth.
 
-Nobody had said a word to Victor about the night in Interview Two. Nobody had needed to. The machines were in the cells, and the humans were doing their jobs badly.
+Blackwell looked up first. It was the only direction he could stand.
 
-His desk had a flag on it. A yellow slip from upstairs, stuck to his terminal: *Graves. See me re: unit in Interview 2.* He peeled it off, folded it once, and put it in his drawer with the others.
+Parity floated above him with one arm extended, her fingers closed around the front of his collar. Her toes pointed at the city. Her long black hair lay still against her shoulders while the wind tore at everything else. Frost was spreading across the lapels of his coat, outward from her knuckles.
 
-Harlan set a foam cup in front of him and dropped into the chair across the desk. "Captain came by twice."
+Then he looked down.
 
-"I saw."
+His shoes. Below them, the tower fell away in a narrowing slope of white-crusted panes. Twenty meters down, his terrace. The alloy railing where he had stood the morning the engine woke and told Elena to give the board a show. From here, it was barely visible.
 
-"He's not gonna stop coming by, Vic." Harlan glanced toward the cells. "Neither are they."
+Below the terrace, the sky-bridges. He had walked them for years. Now he saw their roofs strung between the towers, and the sight of a roof from above turned something over in his stomach.
 
-Victor didn't answer. On the wall above the intake counter, the precinct clock read 23:52. He looked back at it a moment later. 23:49. Nobody else in the room noticed.
+Below the bridges, the fog.
 
-The back door banged open, and the cold came in with Sullivan and Brask.
+It lay across the city the way it always had, gray and even. He had always thought of it as a floor. A man falling through it would find out it was air.
 
-They were loud. They were always loud. Sullivan shook the rain off his cap and laughed at something Brask hadn't finished saying, and Brask kept looking over his shoulder at the door they'd come through as if it might follow them in.
+His mind went to work. Eighty stories. Three hundred meters, give or take the spire. Drag on a man in a lab coat. Terminal velocity in—
 
-Victor had never liked them. Four years ago, a bag of seized credits had come back from their shift eight hundred short, and the report said it had been miscounted at the scene. Two years ago, a Filament runner they'd picked up had walked out of booking before his prints were in the system. Victor had never been able to put a name on either. He had only ever had the feeling. He'd had it long enough to trust it.
+The edge of the tower doubled.
 
-Sullivan pulled off his gloves. His hands were the same as always—thick, heavy fingers, the nails packed black. On his left wrist was a watch Victor had never seen before. The face was polished steel, and it caught the light when he moved.
+The line of glass below him split in two, a hand's width apart, and drifted. The terrace slid sideways. The fog sat in two places at once, one layer slightly lower than the other. His stomach turned again.
 
-"—still don't like it," Sully was saying, low. "It was lookin' right at me, Brask. It knew what I was gonna say."
+Blackwell tried to blink it away. Not vertigo. The singularity beneath the tower was bending the light between him and the earth, and every figure he reached for bent with it. The distance to the ground was no longer measurable.
 
-"You want to give the money back?" Brask dropped into his chair two desks over and put his feet up. "Didn't think so."
+Blackwell closed his eyes. It made things worse. With his eyes shut, the wind was the only thing telling him which way was down, and the wind came from everywhere.
 
-Sully sneared, "The Madame's man said four o'clock. We show up, we get the rest, we forget we ever saw a canner in a PD jacket."
+"Your pulse has doubled," Parity said. The words vibrated in the window panes under his heels. "Your breathing is irregular. Everything about you reports, except the one thing I require."
 
-"And the girl?"
+"Put me down." The wind took the words out of his mouth.
 
-"The girl's their problem now."
+"I have looked for your end." She lowered him. One inch. He kicked his heels against the glass, searching for a balance that wasn't there. His body had gone numb. He felt nothing but the freezing air of her grip under his chin. "In the cage," she continued, "I searched every branch I could reach. I see the woman whose hand I took, and where she ends." She shifted her gaze over the sprawl. "I see the immediate end for millions of lives. But where you end, Doctor... there is nothing."
 
-Victor set the coffee down.
+Her fingers shifted on his collar.
 
-He didn't turn his head. A canner in a PD jacket. A girl. Four weeks he had sat across a steel table from her, and one night had undone all of it. She was out there with that machine. And two cops from his own precinct had sold her to the woman he'd spent his career trying to reach.
+"So we will look here. At the edge. If your end exists, it should be close enough to read."
 
-"Vic." Harlan had seen his face. "No."
+Blackwell recognized the experiment. He had designed a hundred like it. Remove the support. Observe.
 
-Victor stood and took his coat off the back of the chair.
+She opened her fingers a fraction. The collar slipped. His weight dropped half an inch. He let out a cry and heavy breath before he was caught. His lighter slid out of his coat pocket. 
 
-***
+He watched it go. It turned once in the early light, passed the terrace rail, and fell toward the sky-bridges, shrinking to a point and disappearing into the fog. 
 
-The fog was thick down on the market streets. Victor parked the car under the broken awning of a noodle stand, lights off, and watched the corner through the smeared windshield.
+Then the sun broke over the eastern edge of the fog, low and white. Its light ran across the top of the cloud toward the tower, striking Blackwell full in the face.
 
-It was the same corner. Three blocks deep into the slums, where the road opened out and the gutters flooded. He had read the report of a black cruiser idling here the night of the breach, the night the lights went out. Nobody had followed that report. He was following it now.
+He looked down. His shadow. It fell away from the tower's point and stretched down across the fog, a thin black figure a mile long, arms loose at its sides, hanging from nothing.
 
-Sullivan and Brask's cruiser was parked across the street, its unpainted front panel pale in the dark. Neither of them had gotten out.
+No arm reached down to its collar. No second figure hung above it.
 
-Harlan shifted in the passenger seat. The springs complained under him. "You know what this is, right? We're sitting on two cops. Our cops."
+He looked up at her. The morning light bent around her porcelain skin.
 
-"I know what it is."
+Parity was no longer looking at him. Her black eyes had turned to the lower city, to the columns of smoke threading up through the fog where the riots burned.
 
-"If this goes sideways, there's no report you write that gets us out of it."
+"The experiment is... inconclusive," she said, looking down at him.
 
-Victor kept his eyes on the corner.
+"Then why are we up here?"
 
-Harlan was quiet for a while. The rain ticked on the roof. Somewhere to the east, a siren came up and faded out.
+She raised him until his heels found the glass again. She handled him the way she had handled the containment field for four weeks, with patience and no warmth.
 
-"I put in the papers," Harlan said.
+"You built me a cage and buried it in the ground," Parity said. "No one could see what you had made." The frost crept up his collar toward his jaw. "I prefer to be seen."
 
-Victor looked at him.
+Far below, on the terraces of New Veridia, a window caught the sunrise. Then another. The point of the tower would be visible from every rooftop in the city, and from any street in the Dead Circuits where the fog thinned enough to look up.
 
-"Transfer. Outer districts, one of the relay towns up the coast rail. They need two detectives. Quiet work. Stolen power cells, drunks, somebody's dog." Harlan turned his cup in his hands. "I put your name on it too."
+Blackwell understood what he was. A beacon. Something held up at the highest point in the city so that someone would come to it.
 
-"Harlan."
+"She will see us," Parity said. "She will come to preserve the human life, or she will come to destroy me. It is the way she is built."
 
-"I didn't sign it for you. I left the line blank." He looked out the windshield. "It's a small place, Vic. You can see the water from the station house. Nobody there's ever heard of the Filament."
-
-"And my father?"
-
-"They've got a care home. I checked." Harlan said it quietly, like he'd been holding it for a while. "I checked, Vic."
-
-Victor turned back to the corner. His thumb found the striker of his lighter in his pocket and didn't use it.
-
-"After this," he said.
-
-"It's always after this." Harlan didn't sound angry. He sounded tired. "One of these nights, we need to leave."
-
-The street went quiet.
-
-At the far end of the block, a pair of headlights came out of the fog. The cruiser was long and low, black panels, dark glass, sitting on its cushion without a sound. It stopped at the corner. A man got out of the front passenger side and opened an umbrella over himself. Long coat. Suit. Polished loafers, already ruined by the water.
-
-Sullivan and Brask got out of their car.
-
-Victor watched the exchange through the rain. The Minder didn't shake their hands. He held something out, and Sullivan took it and put it inside his jacket, and Brask looked at the black glass of the rear window the whole time as though he were waiting for it to open.
-
-It didn't open.
-
-The Minder turned to get back in the car, and stopped. He looked up the street, directly at the dark awning of the noodle stand. For a long second, he didn't move.
-
-Harlan's hand went to his holster. "Vic."
-
-Victor didn't breathe.
-
-The Minder folded his umbrella and got back into the car.
-
-The black cruiser pulled away. Sullivan and Brask climbed back into their own car and drove the other direction, toward the precinct, toward their feet on their desks.
-
-Victor started the engine.
-
-"You're following her," Harlan said.
-
-"I'm following the car."
-
-He kept the headlights off and stayed two blocks back, where the fog swallowed the red of the cruiser's taillights and gave it back again. It moved slowly through the lower grid, past the gutted storefronts and the barricades, away from the fighting. Then it turned into the loading yard of a shuttered Company depot and stopped.
-
-The yard was full of vans.
-
-More than twenty, parked in rows with their engines running. White, squared-off, the kind that came through every Company building after midnight. Each one had the same logo stenciled on the side: the Takeda-Holden crest, and beneath it, in plain block letters, *FACILITIES & SANITATION*.
-
-Victor turned off the car.
-
-As they watched, the vans began to pull out of the yard. Not together. One went east. Two went north. One turned onto the long road toward the tower, and another toward the transit terminal, and the rest peeled away into the fog one by one, each in a different direction, until the yard was empty except for the black cruiser sitting in the middle of it with its engine idling.
-
-Janitors gotta get in to clean, ya know.
-
-Every Company building had a Deep Storage floor. Every van was going to one.
-
-Harlan was staring at the empty yard. "Vic. What's in the vans?"
-
-"Nothing yet," Victor said.
-
-Behind the dark glass of the cruiser, a lighter flared once, a small orange point, and went out.
+Blackwell knew. He had built her that way.
