@@ -19,7 +19,7 @@ Harlan set a foam cup in front of him and dropped into the chair across the desk
 
 "He's not gonna stop coming by, Vic." Harlan glanced toward the cells. "Neither are they."
 
-Victor didn't answer. On the wall above the intake counter, the precinct clock read 05:52. He looked back at it a moment later. 05:49. Nobody else in the room noticed.
+Victor didn't answer. On the wall above the intake counter, the precinct clock read 23:52. He looked back at it a moment later. 23:49. Nobody else in the room noticed.
 
 The back door banged open, and the cold came in with Sullivan and Brask.
 
@@ -29,9 +29,11 @@ Victor had never liked them. Four years ago, a bag of seized credits had come ba
 
 Sullivan pulled off his gloves. His hands were the same as always—thick, heavy fingers, the nails packed black. On his left wrist was a watch Victor had never seen before. The face was polished steel, and it caught the light when he moved.
 
-"—still don't like it," Brask was saying, low. "It was lookin' right at me, Sully. It knew what I was gonna say."
+"—still don't like it," Sully was saying, low. "It was lookin' right at me, Brask. It knew what I was gonna say."
 
-"You want to give the money back?" Sullivan dropped into his chair two desks over and put his feet up. "Didn't think so. The Madame's man said six o'clock. We show up, we get the rest, we forget we ever saw a canner in a PD jacket."
+"You want to give the money back?" Brask dropped into his chair two desks over and put his feet up. "Didn't think so."
+
+Sully sneared, "The Madame's man said four o'clock. We show up, we get the rest, we forget we ever saw a canner in a PD jacket."
 
 "And the girl?"
 
@@ -39,7 +41,7 @@ Sullivan pulled off his gloves. His hands were the same as always—thick, heavy
 
 Victor set the coffee down.
 
-He didn't turn his head. He didn't need to. A canner in a PD jacket. A girl. Four weeks he had sat across a steel table from her, and one night had undone all of it. She was alive. She was out there with that machine. And two cops from his own precinct had sold her to the woman he'd spent his career trying to reach.
+He didn't turn his head. A canner in a PD jacket. A girl. Four weeks he had sat across a steel table from her, and one night had undone all of it. She was out there with that machine. And two cops from his own precinct had sold her to the woman he'd spent his career trying to reach.
 
 "Vic." Harlan had seen his face. "No."
 
@@ -67,29 +69,21 @@ Harlan was quiet for a while. The rain ticked on the roof. Somewhere to the east
 
 Victor looked at him.
 
-"Transfer. Outer districts, one of the relay towns up the coast rail." Harlan turned his cup in his hands. "Jackie and I are taking the kids. We're getting out of Oshima."
+"Transfer. Outer districts, one of the relay towns up the coast rail. They need two detectives. Quiet work. Stolen power cells, drunks, somebody's dog." Harlan turned his cup in his hands. "I put your name on it too."
 
-Victor looked back at the corner. The cruiser across the street hadn't moved.
+"Harlan."
 
-"When?"
+"I didn't sign it for you. I left the line blank." He looked out the windshield. "It's a small place, Vic. You can see the water from the station house. Nobody there's ever heard of the Filament."
 
-"End of the month." Harlan waited. "It's a small place, Vic. You can see the water from the school. Nobody there's ever heard of the Filament."
+"And my father?"
 
-Victor's thumb found the striker of his lighter in his pocket. He rolled it once. Twice. He didn't light it.
+"They've got a care home. I checked." Harlan said it quietly, like he'd been holding it for a while. "I checked, Vic."
 
-"Who's taking your desk?"
+Victor turned back to the corner. His thumb found the striker of his lighter in his pocket and didn't use it.
 
-Harlan let out a breath that was almost a laugh. "That's what you got?"
+"After this," he said.
 
-"Somebody's gotta take the desk."
-
-"I've been asking you to leave with me for six years," Harlan said quietly. "I stopped asking. That's all this is."
-
-The striker turned under Victor's thumb again.
-
-"After this," Victor said.
-
-"It's always after this." Harlan didn't sound angry. He sounded tired. "We need to leave, Vic. I'm the one who's doing it."
+"It's always after this." Harlan didn't sound angry. He sounded tired. "One of these nights, we need to leave."
 
 The street went quiet.
 
@@ -127,7 +121,7 @@ Victor turned off the car.
 
 As they watched, the vans began to pull out of the yard. Not together. One went east. Two went north. One turned onto the long road toward the tower, and another toward the transit terminal, and the rest peeled away into the fog one by one, each in a different direction, until the yard was empty except for the black cruiser sitting in the middle of it with its engine idling.
 
-*Janitors gotta get in to clean, ya know.*
+Janitors gotta get in to clean, ya know.
 
 Every Company building had a Deep Storage floor. Every van was going to one.
 
