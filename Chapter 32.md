@@ -7,10 +7,6 @@ Harlan was a step behind him, breathing hard. The radio calls monitored the upri
 
 Harlan's radio crackled on his belt. "—all units, Sector Nine is breached, fall back to—" He turned it down.
 
-"Ten minutes," Harlan said. "They want everybody out in ten."
-
-Victor was already moving.
-
 The precinct was half empty. The phones rang and nobody picked them up. A rookie worked the intake counter alone, poking at a terminal keyboard with two fingers while a woman in a torn raincoat shouted at him about her son.
 
 They passed the holding cells. The precinct synthetics stood inside the cage. All of them. The intake unit, the pair from the gate, the evidence clerk. Someone had powered them down and walked them in there, and they stood shoulder to shoulder behind the bars, eyes dark, the blue `PD` serials beneath them gone out. A uniform had hung his wet coat over the head of the nearest one.
