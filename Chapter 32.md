@@ -7,6 +7,7 @@ Harlan was a step behind him, breathing hard. The radio calls monitored the upri
 
 Harlan's radio crackled on his belt. "—all units, Sector Nine is breached, fall back to—" He turned it down.
 
+
 The precinct was half empty. The phones rang and nobody picked them up. A rookie worked the intake counter alone, poking at a terminal keyboard with two fingers while a woman in a torn raincoat shouted at him about her son.
 
 They passed the holding cells. The precinct synthetics stood inside the cage. All of them. The intake unit, the pair from the gate, the evidence clerk. Someone had powered them down and walked them in there, and they stood shoulder to shoulder behind the bars, eyes dark, the blue `PD` serials beneath them gone out. A uniform had hung his wet coat over the head of the nearest one.
@@ -27,7 +28,7 @@ Brask laughed.
 
 Victor stepped around them.
 
-He had never liked them. Four years ago, a bag of seized Company scrip had come back from their shift eight hundred short, and the report said it had been miscounted at the scene. Two years ago, a Filament runner they'd picked up had walked out of booking before his prints were in the system. Victor had never been able to put a name on either. He had only ever had the feeling. He'd had it long enough to trust it.
+He had never liked them. Four years ago, a bag of seized Company scrip had come back from their shift eight hundred short, and the report said it had been miscounted at the scene. Two years ago, a Filament runner they'd picked up had walked out of booking before his prints were in the system. There was no evidence to put it on them, but Victor had the feeling. He'd had it long enough to trust it.
 
 Sullivan pulled off his gloves. His hands were the same as always except this time he noticed his left wrist. A watch Victor had never seen before. The face was polished steel, and it caught the light when he moved.
 
