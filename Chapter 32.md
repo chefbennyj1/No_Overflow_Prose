@@ -12,15 +12,15 @@ The precinct was half empty. The phones rang and nobody picked them up. A rookie
 
 They passed the holding cells. The precinct synthetics stood inside the cage. All of them. The intake unit, the pair from the gate, the evidence clerk. Someone had powered them down and walked them in there, and they stood shoulder to shoulder behind the bars, eyes dark, the blue `PD` serials beneath them gone out. A uniform had hung his wet coat over the head of the nearest one.
 
-Victor didn't slow down. Somewhere out there, a woman in charge of the city's most capable cartel was holding the keys to thousands of machines like these, sleeping under every Company building in Oshima. He knew what the janitors' credentials were for. And there was no one in this building who could stop an entire army of synthetics.
+Victor didn't slow down. Somewhere out there, a woman in charge of the city's most capable cartel was holding the keys to thousands of machines, even more dangerous than these, sleeping under every Company building in Oshima. He knew what the janitors' credentials were for. And there was no one in this building who could stop an entire army of synthetics.
 
-Upstairs, the light in the captain's office was on. Victor didn't look at it. To explain what he knew, he would have to explain the girl. The fake charge. The four weeks. The Renewal unit that had walked out of Interview Two with her. The captain would have his badge before he finished the first sentence, and the Madame would still have her keys.
+Upstairs, the light in the captain's office was on. Victor didn't look at it. To explain what he knew, he would have to explain the girl. The fake charge. The Renewal unit that had walked out of Interview Two with her. The captain would have his badge before he finished the first sentence, and the Madame would still have her keys.
 
 On the wall above the intake counter, the clock read 05:52. Victor glanced back at it from the locker room corridor. 05:49. Nobody else noticed.
 
 Sullivan and Brask were coming down the corridor the other way.
 
-They were loud. They were always loud. Sullivan had his cap pushed back and a toothpick in the corner of his mouth, and he stopped in the middle of the corridor so that Victor had to stop too.
+They were loud. They were always loud. Sullivan had his cap pushed back and a cigarette in the corner of his mouth, and he stopped in the middle of the corridor so that Victor had to stop too. He breathed the smoke between them.
 
 "Graves." Sullivan looked him up and down. "You look pale. Maybe you need to get some sun."
 
@@ -28,11 +28,11 @@ Brask laughed.
 
 Victor stepped around them.
 
-He had never liked them. Four years ago, a bag of seized Company scrip had come back from their shift eight hundred short, and the report said it had been miscounted at the scene. Two years ago, a Filament runner they'd picked up had walked out of booking before his prints were in the system. There was no evidence to put it on them, but Victor had the feeling. He'd had it long enough to trust it.
+He had never liked them. Four years ago, a bag of seized Company scrip had come back from their shift eight hundred short, and the report said it had been miscounted at the scene. Two years ago, a Filament runner they'd picked up had walked out of booking before his prints were in the system. There was no evidence to put it on them, but Victor had a feeling. 
 
 Sullivan pulled off his gloves. His hands were the same as always except this time he noticed his left wrist. A watch Victor had never seen before. The face was polished steel, and it caught the light when he moved.
 
-They thought being dirty made them clever. Victor had known what they were for years. He didn't need to answer them. He needed the woman who was paying them.
+They thought being dirty made them clever. Victor didn't need to answer them. He needed the woman who was paying them.
 
 In the locker room, he dragged his ballistic vest out and pulled it over his head. Harlan was beside him, working the side straps. Victor checked his revolver. The barrel still carried a scorch mark from the machine's hand. The red indicator lit up anyway.
 
