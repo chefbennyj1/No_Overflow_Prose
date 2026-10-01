@@ -37,7 +37,7 @@ Sullivan pulled off his gloves. His hands were the same as always except this ti
 
 They thought being dirty made them clever. Victor had known what they were for years. He didn't need to answer them. He needed the woman who was paying them.
 
-In the locker room, he dragged his ballistic vest out and pulled it over his head. Harlan was beside him, working the side straps. Victor checked the revolver. The barrel still carried a scorch mark from the machine's hand. The red indicator came up anyway.
+In the locker room, he dragged his ballistic vest out and pulled it over his head. Harlan was beside him, working the side straps. Victor checked his revolver. The barrel still carried a scorch mark from the machine's hand. The red indicator lit up anyway.
 
 On the other side of the row of lockers, a door slammed. Sullivan and Brask had followed them in.
 
@@ -62,7 +62,7 @@ Victor pulled the strap tight and shut his locker. He tossed his long black coat
 
 ***
 
-The air was thick down on the market streets. It was mare then fog now, dust and smoke form the uprising in the preceding blocks. Victor cuts the lights of his mag-car, and glided to a quiet stop, on the side of the flooded street. He watched the corner through the smeared windshield.
+The air was thick down on the market streets. It was mare then fog now, dust and smoke form the uprising in the preceding blocks. Victor cut the lights of his mag-car, and glided to a quiet stop, on the side of the flooded street. He watched the corner through the smeared windshield.
 
 There was a good view of the adjacent corner. Three blocks deep into the slums, where the road opened out and the gutters flooded where Sullivan and Brask had pulled their cruiser over. Neither of them had gotten out.
 
@@ -92,7 +92,7 @@ Victor's thumb found the striker of his lighter in his pocket. He rolled it once
 
 "Who's taking your desk?"
 
-Harlan let out a breath that was almost a laugh. "That's what you got?"
+Harlan let out a breath that was almost a laugh.
 
 "Somebody's gotta take the desk."
 
