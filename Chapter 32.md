@@ -14,13 +14,11 @@ They passed the holding cells. The precinct synthetics stood inside the cage. Al
 
 Victor didn't slow down. Somewhere out there, a woman in charge of the city's most capable cartel was holding the keys to thousands of machines, even more dangerous than these, sleeping under every Company building in Oshima. He knew what the janitors' credentials were for. And there was no one in this building who could stop an entire army of synthetics.
 
-Upstairs, the light in the captain's office was on. Victor didn't look at it. To explain what he knew, he would have to explain the girl. The fake charge. The Renewal unit that had walked out of Interview Two with her. The captain would have his badge before he finished the first sentence, and the Madame would still have her keys.
-
-On the wall above the intake counter, the clock read 05:52. Victor glanced back at it from the locker room corridor. 05:49. Nobody else noticed.
+Upstairs, the light in the captain's office was on. Victor didn't look at it. To explain what he knew, he would have to explain the girl, the fake charges, and the Renewal unit that had walked out of Interview Two with her. The captain would have his badge before he finished the first sentence, and the Madame would still have her keys.
 
 Sullivan and Brask were coming down the corridor the other way.
 
-They were loud. They were always loud. Sullivan had his cap pushed back and a cigarette in the corner of his mouth, and he stopped in the middle of the corridor so that Victor had to stop too. He breathed the smoke between them.
+They were loud. They were always loud. Sullivan had his cap pushed back and a cigarette in the corner of his mouth. He stopped in the middle of the corridor so that Victor had to stop too, and breathed smoke between them.
 
 "Graves." Sullivan looked him up and down. "You look pale. Maybe you need to get some sun."
 
@@ -61,7 +59,7 @@ Victor pulled the strap tight and shut his locker. He tossed his long black coat
 
 The air was thick down on the market streets. It was more than fog now—dust and smoke from the uprising in the preceding blocks. Victor cut the lights of his mag-car and glided to a quiet stop on the side of the flooded street. 
 
-It was the same corner he'd read about in the report. Three blocks deep into the slums, where the road opened out and the gutters flooded. Sullivan and Brask's cruiser was parked across the street, its unpainted front panel pale in the dark. Neither of them had gotten out.
+Three blocks deep into the slums, where the road opened out and the gutters flooded. Sullivan and Brask's cruiser was parked across the street, its unpainted front panel pale in the dark. Neither of them had gotten out.
 
 Harlan shifted in the passenger seat. "Vic. You know what this is, right? Sitting on two cops. Our cops."
 
@@ -73,7 +71,7 @@ Harlan was quiet for a while. The rain ticked on the roof. Somewhere to the east
 
 Victor looked at him.
 
-"Transfer. Outer districts, one of the towns up the coast." Harlan looked down at his hands. "Jackie and I are taking the kids. We're getting out of Oshima."
+"Transfer. One of the towns up the coast." Harlan looked down at his hands. "Jackie and I are taking the kids. We're getting out of Oshima."
 
 Victor looked back at the corner. The cruiser across the street hadn't moved.
 
