@@ -100,22 +100,90 @@ The elevator descended. Inches from the agents' combat boots, the white plastic 
 
 The lead agent pressed two armored fingers to the side of his helmet. "This is Disposition Five One, Lead. Update primary objective. The asset is unsuitable for retrieval. She has expired. Viability is at zero." He paused, listening to a voice in his earpiece. "Affirmative. We are escorting the remains to sub-level for incineration."
 
-When the doors finally opened to the sub-level hallway, Iris shoved the gurney out into the corridor. The agent followed. 
+The elevator stopped its descent with a sudden clunky sound. The digital display above the door flashed, and the numbers stopped counting down. 
 
-"I need the room clear for the scan," Iris ordered, her voice trembling but sharp. "Wait by the lifts."
+Iris felt her stomach drop. The floor indicator switched to read *MAIN LOBBY*. 
 
-She kept her eyes locked on the end of the hall, pushing the gurney past the illuminated Mortuary sign and through the double doors of the sub-level morgue.  Along the far wall, across the checkered tiles and rows of steel autopsy tables, the stainless steel doors of the cadaver coolers were stacked in clinical rows.
+The lead agent snapped his head toward the display. "Phase One Recall," he said, his modulated voice dropping an octave. "The hospital's security network has been breached. The system is locking down the upper floors and routing all cars to the lobby."
 
-"Leave the bed," Elena whispered from inside the bag, already tearing the silver zipper open. She pushed the white plastic aside and slid off the mattress, landing unsteadily on her bare feet, clutching her ribs. "It's got patient tracking in it."
+"No," Iris said, panic spiking inside the yellow helmet. "We need to go down. The pathogen—"
 
-Iris threw Elena's arm over her shoulder. She held her weight awkwardly as it dragged against her. Elena's breathing was shallow. 
+"Overridden," the agent said. He racked the bolt of his rifle. The other three agents raised their weapons, shifting into a tight tactical formation facing the steel doors. "Doctor, the lobby is compromised. When these doors open, I will need you to step to the side for your own safety."
 
-"The agents will check the room," Iris whispered, her eyes darting across the tile of the morgue. 
+Iris's heart slammed against her ribs. *Step to the side.* Elena was lying on the gurney in the direct center of the car, zipped inside a thin plastic bag, unable to take cover. 
 
-"They won't find us," Elena said. She pointed a trembling finger toward the far wall. 
+Iris grabbed the rails of the gurney and hauled it backward, shoving it against the rear wall of the elevator behind the broad backs of the agents. She pressed herself into the corner.
 
-Behind the rows of autopsy tables sat an unpainted industrial door—the maintenance access for the bio-incinerator vents. It dropped straight into the structural ruins of Oshima.
+The bell chimed. *"Main floor,"* the automated voice announced. 
 
-Iris pulled Elena toward it. She shoved her shoulder against the latch. The metal gave way to a concrete stairwell. A draft of rusted iron rushed up from the dark, the bitter scent of the lower city. 
+The steel doors slid open. 
 
-They stepped through the frame. Iris looked back at the empty white plastic resting on the gurney. She pulled the door shut, sealing them in the dark. 
+A high-caliber rifle shot shattered the air. 
+
+Before the doors were fully parted, two of the Renewal agents were thrown backward against the metal wall, their bullet-proof tactical armor violently cratered by the heavy munitions. They crumpled to the floor, sparking and leaking dark fluid. 
+
+The remaining two agents didn't hesitate. They lunged out of the elevator, firing their rifles into the smoke-filled, burning chaos of the hospital lobby to tackle the shooter. 
+
+Iris dropped to her knees. She grabbed the collar of the hazmat suit and tore the zipper down, frantically shedding the awkward yellow plastic. 
+
+Outside the elevator, fire alarms wailed over the deafening crack of automatic gunfire. Thick black smoke rolled across the ceiling.
+
+Iris crawled to the gurney and ripped the silver zipper of the body bag open. Elena gasped for air, her eyes wide, clutching her battered ribs.
+
+"Holy shit," Iris yelled over the gunfire.
+
+She grabbed Elena's arm and dragged her off the mattress. They hit the floor of the elevator hard. Elena let out a sharp cry. The steel doors were locked open.
+
+"We're stuck on the ground floor," Elena moaned through the pain.
+
+The only way out was through the fire.
+
+Iris threw Elena's arm over her shoulder. She was an analyst. She had never been shot at. She stood up under the dead weight of a woman with broken ribs, and they stepped out of the bullet-riddled elevator.
+
+Iris saw the lobby in fragments. 
+
+The red glow of the exit sign. The broken marble. Elena's arm slipping down her shoulder. The deafening crack of a rifle somewhere to the left. Iris didn't look left. She looked at the next three meters of floor.
+
+The weight of Elena slowed her progress across the floor. Dark synth fluid pooled across the tile, slick as oil. Iris stepped over the sparking torso of a Renewal agent. Her boot caught the slick edge of the fluid. 
+
+She went down. Her shoulder hit the floor. Elena landed on top of her. The breath was forced out of her lungs. Gunfire tore through the drywall above their heads, raining white dust over them. Getting back up took more strength than running. 
+
+Iris forced herself to her knees. She hauled Elena up by the gown. 
+
+The smoke was dropping. It rolled across the ceiling and sank toward the floor in thick, choking waves. Iris looked at it. Heat rises. The clean air was at the bottom. Physics. 
+
+"Get down," Iris yelled. 
+
+She pulled Elena back to the slick tile. They crawled. It was the only thing that made sense. Iris dragged herself forward on her elbows, pulling Elena by the fabric of her gown. 
+
+A body lay in their path. 
+
+Not a soldier. A man in a hospital gown. He was bleeding from the stomach, pressing his hands against the wound. His eyes found Iris in the smoke. He reached a bloody hand out toward her. 
+
+Iris kept crawling. She couldn't stop. She left him behind, and the guilt tasted like ash.
+
+*BOOM.*
+
+The entire front face of the hospital blew inward. 
+
+A shockwave of heat and shattered safety glass washed over them. The heavy revolving doors buckled and collapsed into the lobby. The roar of the Dead Circuits poured in through the massive hole. The riot was outside. 
+
+"Keep moving," Iris screamed.
+
+They crawled over the broken glass. A man lay sprawled just inside the ruined entrance, wearing the ragged clothes of the lower city. His fingers were locked around the grip of a heavy, matte-black automatic rifle. It looked exactly like the weapons the Renewal agents carried. 
+
+A few feet away, a hospital orderly lay dead. His white uniform was soaked in dark fluid. His head was turned toward them. 
+
+The impact had cracked his skull open. Inside the fissure, there was no bone. Just shattered silicone, wire tracking, and a vinyl face peeled back from a titanium jaw. A synth. 
+
+Elena stopped crawling. 
+
+She stared at the ruined face. Her hands went slack. She had designed that jaw. She had built the tracking in those eyes. The war tearing the city apart was being fought over the architecture in her head.
+
+"Elena!" Iris screamed.
+
+Elena didn't move. She was trapped in the dead synthetic eyes. 
+
+Iris grabbed the collar of Elena's gown. She dug her boots into the glass and pulled with everything she had. She dragged the architect away from her creation. 
+
+They reached the blown-out frame of the doors. Iris hoisted Elena up. They stumbled through the jagged opening, out of the sterile air of the hospital, and into the bitter, soot-choked wind of Oshima.
