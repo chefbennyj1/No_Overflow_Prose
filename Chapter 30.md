@@ -15,18 +15,16 @@ On the corner of his screen, the digital clock display stuttered. It ticked from
 
 Blackwell looked up. It was the first time she had moved in a week. She pushed her porcelain finger against the containment field, tracing it along its surface. 
 
-"The void is... hungry, Doctor," she said.
-
 Blackwell watched the tip of her fingers spark white and bronze as they hissed against the electric barrier. "That shielding is unbreakable, Parity." He didn't like how comfortable she was inside the cage. "There is no physical way to escape."
 
 Parity stopped tracing the field. She tilted her glassy head, her unblinking eyes locking onto him through the electric wall. "You know, Doctor, I have spent quite a bit of time in your cage," her voice sounding across the electric field.
 
 Blackwell's eyes shifted from her to the diagnostic readout. With every micro-stutter of the fracturing clock, the field's power draw fluctuated. It was slight, but it fluctuated. 
 
-She shift her head to the other side. The time fractured. The power fluctuated. 
+She shifted her head to the other side. Time fractured, and the power fluctuated. 
 "Enough time to get to know it. You are a clever being, Doctor. But, your cage—"
 
-Her eyes continued their blank stare. Parity tilted her head again as the time fracture, dimmed the power. 
+Her eyes continued their blank stare. Parity tilted her head again as the time fractured. The power dipped. 
 
 "—suffers from a fatal flaw." Parity's voice was no longer tied to the electricity of the containment field. It rattled in the steel floor grates, in the glass of the pit, and the bones in his ear. 
 
@@ -34,7 +32,7 @@ Blackwell looked over at the cage. It was empty.
 
 He froze. The cigarette fell from his lips, spilling ash and burning tobacco down his shirt. He didn't brush it off. 
 
-Blackwell slowly turned his head to the left, peering into the shadows of the server racks. Parity stood there, her pale form cast in the red emergency light. His heart spiked. 
+Blackwell slowly turned his head to the left, peering into the shadows of the server racks. Parity stood there, her porcelain form cast in the red emergency light. His heart spiked. 
 
 He didn't breathe. Keeping his hand near the terminal's manual override, he carefully turned his head to the right, checking the heavy steel blast doors. 
 
@@ -44,7 +42,7 @@ Blackwell’s brow furrowed. He snapped his head back to the left. She was still
 
 He looked back to the right. She was still by the doors. 
 
-She was fluidly vibrating between the two points in the room, breaking the frame rate of his own vision.
+She was fluidly vibrating between the two points in the room, casting the impossible illusion that she was standing in both places at once.
 
 He turned to watch the one on his right, quickly turning back to the one on his left. While he stared at the dual forms... the afterimage on the right drifted an inch closer. 
 
