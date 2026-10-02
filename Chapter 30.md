@@ -9,21 +9,26 @@ He let the smoke go from his lungs as a red diagnostic warning flashed across hi
 
 On the corner of his screen, the digital clock display stuttered. It ticked from 23:41, jumped forward to 23:44, and snapped backward to 23:40. Time was fracturing.
 
-"The architecture is collapsing," Blackwell said. He didn't look up from the screen. "Without the Vigil to maintain the system, the singularity is in a runaway state." 
+"The entire framework is collapsing," Blackwell said. He didn't look up from the screen. "Without the Vigil to maintain the system, the singularity is in a runaway state." 
 
 "Indeed," Parity's voice resonated across the containment field. 
 
-Blackwell looked up. It was the first time she had moved in weeks. She pushed her porcelain finger against the containment field, tracing the perimeter. 
+Blackwell looked up. It was the first time she had moved in a week. She pushed her porcelain finger against the containment field, tracing it along its surface. 
 
 "The void is... hungry, Doctor," she said.
 
-Blackwell watched her fingers spark white and bronze against the barrier. "That electromagnetic shielding is unbreakable, Parity." He didn't like how comfortable she was inside the cage. "There is no physical way to escape."
+Blackwell watched the tip of her fingers spark white and bronze as they hissed against the electric barrier. "That shielding is unbreakable, Parity." He didn't like how comfortable she was inside the cage. "There is no physical way to escape."
 
-Parity stopped tracing the field. She tilted her glassy head, her unblinking eyes locking onto him through the electric wall. "You know, Doctor, I have spent quite a bit of time in your cage," she said, her voice sounding across the electric field.
+Parity stopped tracing the field. She tilted her glassy head, her unblinking eyes locking onto him through the electric wall. "You know, Doctor, I have spent quite a bit of time in your cage," her voice sounding across the electric field.
 
-Blackwell's eyes shifted from her to the diagnostic readout. With every micro-stutter of the fracturing clock, the field's power draw fluctuated. It was insignificant, but it fluctuated. She was timing the power surges. 
+Blackwell's eyes shifted from her to the diagnostic readout. With every micro-stutter of the fracturing clock, the field's power draw fluctuated. It was slight, but it fluctuated. 
 
-"Long enough to get to know it very, very well." Parity's voice was no longer tied to the electricity of the containment field. It rattled in the steel floor grates, in the glass of the pit, and the bones in his ear. 
+She shift her head to the other side. The time fractured. The power fluctuated. 
+"Enough time to get to know it. You are a clever being, Doctor. But, your cage—"
+
+Her eyes continued their blank stare. Parity tilted her head again as the time fracture, dimmed the power. 
+
+"—suffers from a fatal flaw." Parity's voice was no longer tied to the electricity of the containment field. It rattled in the steel floor grates, in the glass of the pit, and the bones in his ear. 
 
 Blackwell looked over at the cage. It was empty. 
 
