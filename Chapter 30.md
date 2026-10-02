@@ -44,15 +44,13 @@ He looked back to the right. She was still by the doors.
 
 She was fluidly vibrating between the two points in the room, casting the impossible illusion that she was standing in both places at once.
 
-He turned to watch the one on his right, quickly turning back to the one on his left. While he stared at the dual forms... the afterimage on the right drifted an inch closer. 
-
-Then the one on the left drifted closer.
+The afterimage on the right drifted an inch closer. Then the one on the left.
 
 Blackwell blinked. He snapped his gaze to the right, desperate to track the movement. 
 
 The space was empty. 
 
-He threw his head back to the left. The shadows by the server racks were bare. Both versions of her were gone. 
+He threw his head back to the left. The shadows by the server racks were bare. Both versions—gone. 
 
 A sharp cold pricked the fine hairs on the back of his neck. Blackwell froze as he felt the crawling crackle of an electrical static charge building in the millimeter of space between the cotton collar of his lab coat and his bare skin. 
 
