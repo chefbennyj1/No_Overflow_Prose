@@ -14,3 +14,6 @@ Claude-written prose kept in the manuscript (verbatim or lightly edited). See `w
 | 2026-10-02 | 28 | Opening trim; reworded window lines ("The Oshima cloud cover lay below her…") | Light edit of author text |
 | 2026-10-02 | 28 | Ambulance ending ("The street outside was worse." … "I don't know," she said, and drove.) | First draft, for author rework |
 | 2026-10-02 | 28 | "Her prosthetic hand lifted off the glass and hung in the air above the shattered jaw, black carbon fiber over bare titanium, the same joints, the same spacing." | As-is |
+| 2026-10-02 | 28 | Phase One Recall: elevator announcement + Iris's drill-card paragraph ("Iris knew the protocol…"), agent line "Lobby." | First draft, for author rework |
+| 2026-10-02 | 28 | Escape tightening: elevator agents ambiguous ("spray of sparks"); merged dead man + rifle ("A Renewal rifle lay beside him, too big for the narrow shoulders that had carried it."); cut slip/fall and second dead rioter | Light rewrite of author text |
+| 2026-10-02 | 31 | New ambulance opening ("The ambulance had stopped on its own." … "Close those doors and keep driving."), adapted location lines, Harper: "You had us standin' out here in the rain for Company?" | First draft, for author rework |

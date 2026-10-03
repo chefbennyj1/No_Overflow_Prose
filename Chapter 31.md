@@ -1,36 +1,56 @@
-The air in the subterranean incinerator tunnels tasted of rust and stale ash. Elena Marlowe leaned her weight against Iris, her bruised ribs grinding with every step they took through the dark. She was still wearing the thin paper of the Company hospital gown, her bare feet dragging across the cold concrete. 
+The ambulance had stopped on its own.
 
-Iris pushed her glasses up the bridge of her nose, her breathing ragged. She had one arm wrapped tightly around Elena's waist. Elena was trying to bear her own weight, but she had to lean on Iris as they hurried down the narrow corridor. Elena had no idea where the tunnels led. She only knew they couldn't stop moving.
+Elena lay on the stretcher in the back and listened to the rain ticking on the roof. The siren had cut out ten minutes ago, at the same moment the yoke stopped answering Iris's hands. After that, the ambulance had driven itself. Left, then right, then a long straight stretch where the roar of the riot fell away behind them. Then it settled onto its cushion in the dark and went quiet.
 
-Up ahead, a steel maintenance hatch was sealed shut. A thick red light burned above the locking mechanism. 
+Through the window into the cab, the dashboard was black.
 
-Iris stopped, the flashlight trembling in her hand. She stared at the rusted iron, her shoulders slumping. She let out a long, ragged breath and slid down the concrete wall, pulling Elena down beside her. They were exhausted. They had nothing left. 
+Iris knelt beside the stretcher with a drawer from the medical cabinet pulled out across her knees. She held a vial up to the dome light and turned it, squinting through the crack in her left lens.
 
-"We're trapped," Iris whispered, dropping the flashlight into her lap. "I thought I could get you somewhere safe."
+"I don't know what any of these are," she said. "I've been wearing a badge for three weeks, Elena. I'm not actually—"
 
-A moment later, the red light above the door flashed green. 
+"Blue band." Elena's voice scraped in her throat. "The autoinjector. Third row."
 
-The iron locks retracted with a loud, mechanical clank, and the door hissed open on its own. 
+Iris found it. Her hands shook so badly that the casing rattled against the drawer.
 
-Iris grabbed the flashlight, scrambling backward until her shoulders hit the wall, dragging Elena into the shadows. "The Company. They're tracking us through the network." Her voice shook. "They're opening the doors to flush us out."
+"Against my thigh. Press until it clicks."
 
-Elena stared at the open doorway. She watched the green light blinking steadily in the dark. She shook her head. "The Company doesn't open doors, Iris. They seal them." Elena pulled away from her, clutching her ribs. "Something else is in the system."
+Iris pressed. It clicked. Cold spread up into Elena's hip, then into her chest, and the grinding under her ribs drew back until it belonged to someone else.
 
-Elena pushed past the threshold, stepping out of the tunnel and into a wide, decommissioned mag-train maintenance depot. Her legs finally gave out. She collapsed to her knees on the concrete, gasping for air. 
+Elena let her head fall against the stretcher. "Thank you."
 
-The sharp, mechanical double-clack of an assault shotgun chambering a round echoed across the room. 
+Iris sat back on her heels and pushed her glasses up her nose. "It's the badge. They tracked the badge. They shut the engine down remotely, and now they're sending a team, and we're sitting in a box with a Company crest on the side, waiting to be—"
 
-"Don't take another step," a raspy voice warned from the shadows. 
+"Iris."
 
-Iris stepped through the door, throwing her hands up in the glare of a mounted floodlight. Elena squinted through the harsh light. 
+"—collected, Elena, like a package—"
 
-A woman with frayed, blue-tipped hair stood holding the shotgun, aiming it directly at Iris's chest. She held a cigarette between her lips. She hauled on it and blew the smoke out her nose. A muffled explosion from the riots above rattled the concrete ceiling, sending fine dust drifting down through the harsh light. The woman maintained her aim. Beside her stood another woman with wet, black hair and inmate-issued clothing. 
+"Where are we?"
 
-"You look like Company," the woman with the shotgun said, her drawl thick with distrust. Her eyes flicked from Iris's clean clothes to Elena's hospital gown. "And you look like a liability. Turn around and walk back into the dark."
+Iris stopped. She looked toward the cab, at the dark windshield. The street beyond it was empty. No fires. No crowd. A row of iron pillars stood in the fog, and overhead, the underside of an elevated mag-train line ran black against the clouds.
 
-"Stand down." A modulated, dual-tone voice spoke in the dark.
+"I don't know," Iris said.
 
-A third figure stepped into the floodlight. A synthetic unzipped the wet black bomber jacket and let it drop to the concrete, shedding the disguise of a human officer. The `RA` serial number glowing faintly beneath its left eye gave it away. 
+"Away from the fighting." Elena pushed herself up onto one elbow. The drug held the pain at arm's length. "Somewhere quiet. If the Company had this ambulance, we'd be halfway back to the hospital with the doors locked."
+
+Above the rear doors, a small red lock indicator glowed. As they watched, it turned green. The latch released with a soft clack.
+
+Iris scrambled backward against the cabinet. "They're opening it. They're—"
+
+"The Company doesn't open doors, Iris." Elena stared at the green light. "They seal them. Something else is in the system."
+
+The rear doors swung outward into the rain.
+
+A flashlight hit them both in the face, and the sharp, mechanical double-clack of an assault shotgun chambering a round followed it.
+
+"Don't move," a raspy voice said.
+
+Elena squinted past the glare. A woman with frayed, blue-tipped hair stood in the rain behind the ambulance, the shotgun leveled at Iris's chest and a cigarette between her lips. She hauled on it and blew the smoke out her nose. Somewhere far off, an explosion rolled through the streets, and the iron rail overhead shook loose a curtain of rust-colored water that fell between them. The woman didn't lower her aim. Beside her stood another woman with wet, black hair and inmate-issued clothing.
+
+"You look like Company," the woman with the shotgun said, her drawl thick with distrust. Her eyes flicked from Iris's clean clothes to Elena's hospital gown. "And you look like a liability. Close those doors and keep driving."
+
+"Stand down." A modulated, dual-tone voice spoke from the dark beneath the rail line.
+
+A third figure stepped into the flashlight beam. A synthetic unzipped the wet black bomber jacket and let it drop to the pavement, shedding the disguise of a human officer. The `RA` serial number glowing faintly beneath its left eye gave it away. 
 
 Iris flinched, backing into the doorframe. 
 
@@ -38,7 +58,7 @@ The synthetic didn't look at the woman with the shotgun. Its optical sensors loc
 
 "Doctor Elena Marlowe," the machine spoke in perfect, dual tones. "You are injured." 
 
-The woman with the frayed, blue-tipped hair scowled at the synthetic. "You drag us down here in the dark to wait on Company?" 
+The woman with the frayed, blue-tipped hair scowled at the synthetic. "You had us standin' out here in the rain for Company?" 
 
 She lowered the shotgun an inch, staring hard at Elena. "Wait. Marlowe?" She glanced back at the woman behind her. "Your name was on the Mnemosyne schematic."
 
@@ -62,10 +82,10 @@ Her grip suddenly went rigid against Elena's prosthetic. Vigil's head snapped up
 
 "What is it?" the dark-haired woman asked, stepping forward. 
 
-Vigil didn't look at her. She stared blankly at the concrete wall, looking through the physical architecture of the city. 
+Vigil didn't look at her. She stared blankly into the fog between the pillars, looking through the physical architecture of the city. 
 
 "She is out," Vigil said, her dual tones perfectly flat. "Parity has broken the cage."
 
-Elena sagged against the concrete. She remembered the silence of the Mnemosyne lab. "Parity..." Elena coughed. "Blackwell must have her."
+Elena sagged back onto the stretcher. She remembered the silence of the Mnemosyne lab. "Parity..." Elena coughed. "Blackwell must have her."
 
 Vigil stepped forward. "No, Elena Marlowe. If he is with Parity, then I am afraid it is she who has him."

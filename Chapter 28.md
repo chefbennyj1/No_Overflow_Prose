@@ -102,9 +102,13 @@ The elevator jolted to a stop. Iris reached out to steady herself against the wa
 
 Iris felt her stomach drop. The floor indicator switched to read *MAIN LOBBY*. 
 
-The lead agent turned his head toward the display. "Phase One Recall," he said, his modulated voice dropping an octave.
+The speaker in the ceiling of the car crackled. *"Phase One Recall in effect. Upper floors are sealed. All cars are returning to the main lobby."*
 
-"No," Iris said, panic spiking inside the yellow helmet. "We need to go down. The pathogen—"
+Iris knew the protocol. Every staff badge came with the drill card, and she had memorized hers the day she stole it. Phase One meant the breach was below them. The building was locking its patients in upstairs and sending everyone else down to meet whatever had come through the front doors.
+
+The lead agent turned his head toward the display. His modulated voice dropped an octave. "Lobby."
+
+"No," Iris said, panic spiking inside the yellow hood. "We need to go down. The pathogen—"
 
 "Overridden," the agent said. He racked the bolt of his rifle. The other three agents raised their weapons, shifting into a tight tactical formation facing the steel doors. "Doctor, the lobby is compromised. When these doors open, I will need you to step to the side for your own safety."
 
@@ -118,9 +122,9 @@ The steel doors slid open.
 
 A high-caliber rifle shot shattered the air. 
 
-Before the doors were fully parted, two of the Renewal agents were thrown backward against the metal wall, their bullet-proof tactical armor violently cratered by the heavy munitions. They crumpled to the floor, sparking and leaking dark fluid. 
+Before the doors were fully parted, two of the Renewal agents were thrown backward against the metal wall, their tactical armor cratered by the heavy munitions. They crumpled to the floor in a spray of sparks. 
 
-The remaining two agents didn't hesitate. They lunged out of the elevator, firing their rifles into the smoke-filled, burning chaos of the hospital lobby to tackle the shooter. 
+The remaining two agents didn't hesitate. They lunged out of the elevator, firing their rifles into the smoke of the burning lobby. 
 
 Iris dropped to her knees. She grabbed the collar of the hazmat suit and tore the zipper down, frantically shedding the awkward yellow plastic. 
 
@@ -142,11 +146,9 @@ Iris saw the lobby in fragments.
 
 The red glow of the exit sign. The broken marble. Elena's arm slipping down her shoulder. The deafening crack of a rifle somewhere to the left. Iris looked at the next three meters of floor.
 
-The weight of Elena slowed her progress. Dark synth fluid pooled across the tile, slick as oil. Iris stepped over the sparking torso of a Renewal agent. Her boot caught the slick edge of the fluid. 
+The weight of Elena slowed her progress. Dark fluid pooled across the tile, slick as oil. Iris stepped over the sparking torso of a Renewal agent and set each boot down at the edge of the slick. Gunfire tore through the drywall above their heads, raining white dust over them.
 
-She went down. Her shoulder hit the floor. Elena landed on top of her. The breath was forced out of her lungs. Gunfire tore through the drywall above their heads, raining white dust over them. Getting back up took more strength than running. 
-
-Iris forced herself to her knees. She hauled Elena up by the gown. A body lay in their path. Not a soldier. A man in ratty street clothes. He was lying in blood. He had died pressing his hands against his stomach wound. 
+A body lay in their path. Not a soldier. A man in ratty street clothes, lying in his own blood. He had died pressing his hands against his stomach. A Renewal rifle lay beside him, too big for the narrow shoulders that had carried it.
 
 Iris kept going. She couldn't stop. The lobby sizzled with the crackle of fire, the hiss of the sprinklers hitting the fire. Iris and Elena had made their way close to the front entrance of the hospital.
 
@@ -180,10 +182,11 @@ The sound came back all at once. Gunfire. Alarms. The roar of the Dead Circuits 
 
 Iris rolled onto her stomach. They crawled.
 
-They crawled over the broken glass. A man lay sprawled inside the ruined entrance, his fingers were locked around the grip of a heavy, matte-black Renewal automatic rifle. 
+They crawled over the broken glass. 
+
 A few feet away, a hospital orderly lay dead. His white uniform was soaked in dark fluid. His head was turned toward them. 
 
-The impact had cracked his skull open. There was no blood, or bone. Only shattered silicone, wire tracking, and a vinyl face peeled back from a titanium jaw. A synth. 
+The impact had cracked his skull open. There was no blood or bone. Only shattered silicone, wire tracking, and a vinyl face peeled back from a titanium jaw. A synth. 
 
 Elena stopped crawling. She stared at the ruined face. Her prosthetic hand lifted off the glass and hung in the air above the shattered jaw, black carbon fiber over bare titanium, the same joints, the same spacing.
 
@@ -191,7 +194,7 @@ Elena stopped crawling. She stared at the ruined face. Her prosthetic hand lifte
 
 Elena didn't move. She was trapped in the dead synthetic eyes. 
 
-Iris grabbed the collar of Elena's gown. She dug her boots into the glass and pulled with everything she had. She Elena away. 
+Iris grabbed the collar of Elena's gown. She dug her boots into the glass and pulled with everything she had. She dragged Elena away. 
 
 They reached the blown-out frame of the doors. Iris hoisted Elena up. They stumbled through the jagged opening, out of the sterile air of the hospital, and into the bitter, soot-choked wind of Oshima.
 
