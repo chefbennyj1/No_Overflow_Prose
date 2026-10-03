@@ -103,7 +103,7 @@ Vigil didn't look at her. She stared blankly into the fog between the pillars, l
 
 The rain ticked on the roof of the ambulance. Vigil's eyes stayed on the fog.
 
-Elena sagged back onto the stretcher. She remembered the silence of the Mnemosyne lab, the cold of the grates against her cheek, the cylinder of light slamming down around the thing that had broken her. She coughed, and the drug kept the pain far away.
+Elena sagged back onto the stretcher. She remembered the silence of the Mnemosyne lab, the cold of the grates against her cheek, the cylinder of light slamming down around the thing that had broken her. She coughed, raspy and hard.
 
 Iris touched Elena's shoulder. "It's the cage," she said, to Vigil, to all of them. "Blackwell's locked in the lab with her. She's not going anywhere."
 
