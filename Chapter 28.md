@@ -146,29 +146,21 @@ The weight of Elena slowed her progress. Dark synth fluid pooled across the tile
 
 She went down. Her shoulder hit the floor. Elena landed on top of her. The breath was forced out of her lungs. Gunfire tore through the drywall above their heads, raining white dust over them. Getting back up took more strength than running. 
 
-Iris forced herself to her knees. She hauled Elena up by the gown. 
+Iris forced herself to her knees. She hauled Elena up by the gown. A body lay in their path. Not a soldier. A man in ratty street clothes. He was lying in blood. He had died pressing his hands against his stomach wound. 
 
-The smoke was coming down. It had sunk halfway to the floor, a black ceiling dropping lower with every breath. Iris looked at it. "We need to stay low," Iris yelled. 
-
-She pulled Elena back to the tile. They crawled. Iris dragged herself forward on her elbows, pulling Elena by the fabric of her gown. 
-
-A body lay in their path. 
-
-Not a soldier. A man in ratty street clothes. He was lying in blood. He had died pressing his hands against his stomach wound. 
-
-Iris kept crawling. She couldn't stop. The lobby sizzled with the crackle of fire, the hiss of broken water mains. Iris and Elena had made their way close to the front entrance of the hospital.
+Iris kept going. She couldn't stop. The lobby sizzled with the crackle of fire, the hiss of broken water mains. Iris and Elena had made their way close to the front entrance of the hospital.
 
 "Almost there, Elena."
 
-Outside the entrance, a crowd's worth of voices rose together.
+Outside the entrance, a crowd of voices rose together.
 
 The front of the hospital blew in.
 
-Iris didn't hear it. She felt it. A hand of heat picked her up off the tile and set her down a meter to the left. Safety glass came across the lobby in a glittering sheet. The revolving doors folded in on themselves and fell.
+Iris didn't hear it. She felt it. The heat threw her off the tile and she hit the ground. The glass of the front entrance flew across the lobby in a glittering sheet. The revolving doors folded in on themselves and crashed to the floor.
 
-Then there was no sound at all.
+Then no sound at all.
 
-A single high note filled her head, thin and pure, like a wet finger drawn around the rim of a glass. Everything else was gone. The fire moved without crackling. The sprinklers fell without a hiss. Somewhere to her right, the muzzle of a rifle flashed, and flashed again, and made no noise.
+A single thin high whine filled her head. Everything else was gone. The fire moved without crackling. The sprinklers fell without a hiss. Somewhere to her right, the muzzle of a rifle flashed, and flashed again, and made no noise.
 
 She was lying on her back. She didn't remember turning over. Dust hung in the smoke above her, falling too slowly. Her glasses were still on her face, one lens cracked straight across, splitting the ceiling in two.
 
@@ -188,15 +180,12 @@ The sound came back all at once. Gunfire. Alarms. The roar of the Dead Circuits 
 
 Iris rolled onto her stomach. They crawled.
 
-They crawled over the broken glass. A man lay sprawled inside the ruined entrance, wearing the ragged clothes of the lower city. His fingers were locked around the grip of a heavy, matte-black automatic rifle. It looked exactly like the weapons the Renewal agents carried. 
-
+They crawled over the broken glass. A man lay sprawled inside the ruined entrance, his fingers were locked around the grip of a heavy, matte-black Renewal automatic rifle. 
 A few feet away, a hospital orderly lay dead. His white uniform was soaked in dark fluid. His head was turned toward them. 
 
-The impact had cracked his skull open. Inside the fissure, there was no bone. Only shattered silicone, wire tracking, and a vinyl face peeled back from a titanium jaw. A synth. 
+The impact had cracked his skull open. There was no blood, or bone. Only shattered silicone, wire tracking, and a vinyl face peeled back from a titanium jaw. A synth. 
 
-Elena stopped crawling. 
-
-She stared at the ruined face. Her hands went slack. She had designed that jaw. She had built the tracking in those eyes. The war tearing the city apart was being fought over the architecture in her head.
+Elena stopped crawling. She stared at the ruined face. Her hands went slack. The war tearing the city apart was being fought over the architecture Elena had built.
 
 "Elena!" Iris screamed.
 
