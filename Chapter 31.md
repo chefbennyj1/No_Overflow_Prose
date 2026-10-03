@@ -1,11 +1,11 @@
 ---
 music: Vacuum Hush.mp3
 ---
-Elena lay on the stretcher in the back of the ambulance, clutching her ribs. She watched the prismatic glow of the amber streetlights bleed through the wet glass of the rear windows. 
+Elena lay on the stretcher in the back of the ambulance, clutching her ribs. She watched the prismatic glow of the amber streetlights through the wet glass of the rear windows. 
 
-Ten minutes ago, the siren had cut out. The ambulance had hijacked itself, ignoring Iris's hands on the yoke, driving them away from the roar of the riot and deep into the silent, abandoned lower grid. Now, it had killed the power and settled onto its cushion in the dark.
+Ten minutes ago, the siren had cut out. The ambulance had hijacked itself, ignoring Iris's hands on the steering wheel, driving them away from the roar of the riot and deep into the silent, abandoned lower grid. Now, it had killed the power and settled onto its cushion in the dark.
 
-From the driver's seat, Iris slammed her hands against the frozen steering yoke. 
+From the driver's seat, Iris slammed her hands against the dash. 
 
 "It's dead," Iris said, her voice thin and panicked. She stared through the cracked windshield into the dark. "Elena, they locked us out."
 
