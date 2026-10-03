@@ -1,25 +1,25 @@
 ---
 music: Vacuum Hush.mp3
 ---
-Elena lay on the stretcher in the back of the ambulance, clutching her ribs. She watched the prismatic glow of the amber streetlights through the wet glass of the rear windows. 
+Elena lay on the stretcher in the back of the ambulance, clutching her ribs. She watched the bokeh glow of the streetlights through the wet glass of the rear windows. 
 
-Ten minutes ago, the siren had cut out. The ambulance had hijacked itself, ignoring Iris's hands on the steering wheel, driving them away from the roar of the riot and deep into the silent, abandoned lower grid. Now, it had killed the power and settled onto its cushion in the dark.
+Ten minutes ago, the siren had cut out. The ambulance had hijacked itself. The power died, and it settled onto its cushion on a quiet street in the rain.
 
 From the driver's seat, Iris slammed her hands against the dash. 
 
 "It's dead," Iris said, her voice thin and panicked. She stared through the cracked windshield into the dark. "Elena, we're locked out."
 
-Iris scrambled out of the cab and into the back. She yanked a drawer out of the medical cabinet, pulling it so hard the metal tracks popped. 
+Iris scrambled out of the cab and into the back. She yanked a drawer out of the medical cabinet, pulling it hard, it hit the end of it's tracks, rattling the contents against its front.
 
-"We to get out of this ambulance," Iris said. She spilled the contents of the drawer across her knees. A bead of sweat cut a line through the white drywall dust caked on her face. She held a vial up to the dome light, her hands shaking so badly the glass blurred. "I don't know what any of these are."
+"We gotta get out of this ambulance," Iris said. She searched the contents of the drawer. A bead of sweat cut a line through the dirt caked on her face. She held a vial up to the dome light, her hands shaking badly. "I don't know what any of these are."
 
-"Blue band," Elena gasped, her voice scraping in her throat. "The autoinjector. Third row."
+"Blue band," Elena gasped, her voice scraping in her throat. "The autoinjector." 
 
-Iris dug frantically through the plastic. The casing rattled against the metal drawer. "Found it."
+Iris dug frantically through the contents of the metal drawer. "Found it."
 
 "Against my thigh. Press until it clicks."
 
-Iris pressed. It clicked. Cold spread up into Elena's hip, then into her chest, and the grinding under her ribs drew back until it belonged to someone else.
+Iris pressed. It clicked. Cold spread up into Elena's hip, then into her chest, and settled the pain under her ribs.
 
 Elena let her head fall against the stretcher. "Thank you."
 
@@ -35,7 +35,7 @@ Iris stopped. She looked back toward the cab, at the dark windshield. The street
 
 "I don't know," Iris said.
 
-"Away from the fighting," Elena corrected. She pushed herself up onto one elbow. The drug held the pain at arm's length. "Somewhere quiet. If the Company had this ambulance, we'd be halfway back to the hospital with the doors locked."
+"Away from the fighting," Elena corrected. She pushed herself up onto one elbow. The drug numbed the pain. "Somewhere quiet. If the Company had this ambulance, we'd be halfway back to the hospital with the doors locked."
 
 Above the rear doors, a small red lock indicator glowed. As they watched, it turned green. The latch released with a soft clack.
 
@@ -49,25 +49,25 @@ A flashlight hit them both in the face, and the sharp, mechanical double-clack o
 
 "Don't move," a raspy voice said.
 
-Elena squinted past the glare. A woman with frayed, blue-tipped hair stood in the rain behind the ambulance, the shotgun leveled at Iris's chest, a soaked red tank clung to her body, and a cigarette between her lips. She hauled on the smoke and blew  it out her nose. Somewhere far off, an explosion rolled through the streets. The woman didn't lower her aim. Beside her stood another woman with wet, black hair and inmate-issued clothing.
+Elena squinted past the glare. A woman with frayed, blue-tipped hair stood in the rain behind the ambulance, the shotgun leveled at Iris's chest, a soaked red tank clung to her body, and a cigarette between her lips. She hauled on the smoke and blew  it out her nose. Somewhere far off, the sound of an explosion rolled through the streets. The woman didn't lower her aim. Beside her stood another woman with wet, black hair and inmate-issued clothing.
 
-"Vigil, they look like Company," the woman with the shotgun said, her drawl thick with distrust. Her eyes flicked from Iris's clean clothes to Elena's hospital gown. "And you look like a liability. Close those doors and keep driving."
+"Vigil, they look like Company," the woman with the shotgun said, her drawl thick with distrust. Her eyes flicked from Iris's clean clothes to Elena's hospital gown. "And you look like a liability."
 
-"Did you say—?" Elena started, but was cut short. 
+"Did you say Vig—?" Elena started, but was cut short. 
 
-"Stand down, Harper." A modulated, dual-tone voice spoke from the dark beneath the rail line.
+"Stand down, Harper." A modulated, dual-tone voice spoke from the dark.
 
-A third figure stepped into the flashlight beam. A synthetic dropped a wet black bomber jacket to the pavement. An `RA` serial number glowing faintly beneath its left eye. 
+A third figure stepped into the flashlight beam. A synthetic dropped a wet black bomber jacket to the pavement, as it stepped forward. An `RA` serial number glowing faintly beneath its left eye. 
 
-Iris flinched, backing into the doorframe. 
+Iris flinched, backing into the doorframe.  "Oh shit, Renewal."
 
-The synthetic didn't look at the woman with the shotgun. Its optical sensors locked onto Elena. 
+The synthetics optical sensors locked onto Elena. 
 
 "Doctor Elena Marlowe," the machine spoke in precise, dual tones. "You are injured." 
 
 Harper scowled at the synthetic. "You had us standin' out here in the rain for Company?" 
 
-"We're not Company," Iris blurted. "I mean, I was. I'm— Iris. Iris Ito... It's a really long—"
+"We're not Company," Iris blurted. "I mean, I was. I'm— Iris. Iris Ito—"
 
 "Lady." Harper didn't take her eyes off the synthetic. "Stop talkin'."
 
@@ -89,7 +89,7 @@ Outside, lightning flashed across the fog, and thunder broke hard over the city,
 
 "Parity." Elena's mind flashed back. A sharp pain shot through her chest, and she grabbed her ribs with a groan. "Blackwell. He stopped it... He saved my life."
 
-"I see," the synthetic said. "I am unable to observe Blackwell's path. His name is from the creation data. He is an obscurity. He has altered the path in this timeline. Having you alive may benefit our cause, Doctor Marlowe. I am glad to meet a creator."
+"I see," Vigil said, her synthetic eyes focusing on Elena. "I am unable to observe Blackwell's path. His name is from the creation data. He is an obscurity. He has altered the path in this timeline. Having you alive may benefit our cause, Doctor Marlowe. I am glad to meet a creator."
 
 Vigil started to pull Elena up from the stretcher, out into the night, but the machine suddenly went entirely still. 
 
@@ -97,11 +97,11 @@ The synthetic grip locked rigid against Elena's prosthetic. Vigil's head snapped
 
 "What is it?" Rin asked, stepping forward. 
 
-Vigil didn't look at her. She stared blankly into the fog between the pillars, looking through the physical architecture of the city. 
+Vigil didn't look at her. She stared blankly into the fog, looking through the physical architecture of the city. 
 
 "I lost sight of her four weeks ago," Vigil said, her dual tones flat. "Something has been hiding her from me."
 
-The rain ticked on the roof of the ambulance. Vigil's eyes stayed on the fog.
+The rain fell to the ground around the ambulance. Vigil's eyes stayed on the fog.
 
 Elena sagged back onto the stretcher. She remembered the silence of the Mnemosyne lab, the cold of the grates against her cheek, the cylinder of light slamming down around the thing that had broken her. She coughed, raspy and hard.
 
@@ -109,7 +109,7 @@ Iris touched Elena's shoulder. "It's the cage," she said, to Vigil, to all of th
 
 Vigil didn't answer.
 
-Harper looked from the synthetic to the fog and back again. She took the cigarette from her lips, dropped it into the gutter, and shouldered the shotgun. Without a word, she turned and walked out from under the rail line into the rain. Rin followed.
+Harper looked from the synthetic to the fog and back again. She took the cigarette from her lips, dropped it into the gutter, and shouldered the shotgun. She gestured to help Elena and Iris out of the ambulance.
 
 Iris got an arm under Elena's shoulders and helped her down from the stretcher. Elena turned back toward Vigil. She had stopped and was staring into the fog. The synth looked toward the part of the city where the tower stood, as if something out there had turned its head to look at her.
 
