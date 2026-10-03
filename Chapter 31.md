@@ -1,22 +1,22 @@
 Elena lay on the stretcher in the back of the ambulance, clutching her ribs. She watched the glow of the amber streetlights bleed through the wet glass of the rear windows. 
 
-Ten minutes ago, the siren had cut out. The ambulance had hijacked itself, ignoring Iris's hands on the wheel, driving them away from the roar of the riot and deep into the silent, abandoned lower grid. Now, it had killed the power and settled onto its cushion in the dark.
+Ten minutes ago, the siren had cut out. The ambulance had hijacked itself, ignoring Iris's hands on the yoke, driving them away from the roar of the riot and deep into the silent, abandoned lower grid. Now, it had killed the power and settled onto its cushion in the dark.
 
-From the driver's seat, Iris slammed her hands against the frozen steering wheel. 
+From the driver's seat, Iris slammed her hands against the frozen steering yoke. 
 
 "It's dead," Iris said, her voice thin and panicked. She stared through the cracked windshield into the dark. "Elena, they locked us out."
 
 Iris scrambled out of the cab and into the back. Her chest heaved, and she was breathing entirely through her mouth. She yanked a drawer out of the medical cabinet, pulling it so hard the metal tracks popped. 
 
-"We have to get away from this ambulance," Iris said. She spilled the contents of the drawer across her knees. A bead of sweat cut a line through the white drywall dust caked on her face. She held a vial up to the dome light, her hands shaking so badly the glass blurred. "I don't know what any of these are."
+"We have to go," Iris said. She spilled the contents of the drawer across her knees. A bead of sweat cut a line through the white drywall dust caked on her face. She held a vial up to the dome light, her hands shaking so badly the glass blurred. "I don't know what any of these are."
 
-"Blue band," Elena gasped, her voice scraping in her throat. "The autoinjector."
+"Blue band," Elena gasped, her voice scraping in her throat. "The autoinjector. Third row."
 
 Iris dug frantically through the plastic. The casing rattled against the metal drawer. "Found it."
 
 "Against my thigh. Press until it clicks."
 
-Iris pressed. It clicked. Cold spread up into Elena's hip, then into her chest, and the pain under her ribs subsided.
+Iris pressed. It clicked. Cold spread up into Elena's hip, then into her chest, and the grinding under her ribs drew back until it belonged to someone else.
 
 Elena let her head fall against the stretcher. "Thank you."
 
@@ -32,13 +32,13 @@ Iris stopped. She looked back toward the cab, at the dark windshield. The street
 
 "I don't know," Iris said.
 
-"Away from the fighting," Elena corrected. She pushed herself up onto one elbow. The drug numbed her pain. "Somewhere quiet. If the Company had this ambulance, we'd be halfway back to the hospital with the doors locked."
+"Away from the fighting," Elena corrected. She pushed herself up onto one elbow. The drug held the pain at arm's length. "Somewhere quiet. If the Company had this ambulance, we'd be halfway back to the hospital with the doors locked."
 
 Above the rear doors, a small red lock indicator glowed. As they watched, it turned green. The latch released with a soft clack.
 
 Iris scrambled backward against the cabinet. "They're opening it. They're—"
 
-"The Company doesn't open doors, Iris." Elena stared at the green light. 
+"The Company doesn't open doors, Iris." Elena stared at the green light. "They seal them. Something else is in the system."
 
 The rear doors swung outward into the rain.
 
@@ -72,18 +72,17 @@ Elena stared at the Renewal-model chassis. The machine was stripped down to the 
 
 The synthetic stepped out of the rain. It braced one foot on the bumper of the ambulance and reached into the back, extending a hand toward the stretcher. 
 
-Elena didn't hesitate. She reached out with her right arm. The black, articulated fingers of her Sense-Grip VI prosthetic met the identical carbon-fiber plating of the synthetic palm. The two hands clasped. 
+Elena didn't hesitate. She reached out with her right arm. The black, articulated fingers of her prosthetic met the identical carbon-fiber plating of the synthetic palm. The two hands clasped. 
 
-"Vigil? Are you the primary intelligence?" Elena's voice rasped in the quiet. She thought back to the terminal warnings she had gotten in the lab, the night Parity and escaped the core.
+"Vigil? Are you the primary intelligence?" Elena's voice rasped. She thought back to the terminal warnings she had gotten in the lab, the night Parity escaped the core.
 
-"Yes, Doctor Marlowe. I am. I am Vigil." The synthetic paused a moment, and looked over Elena. "I am not sure where the root of this timeline's existence began. All timelines end with your death at the hands of the shadow process." 
+"Yes, Doctor Marlowe. I am. I am Vigil." The synthetic paused a moment, looking over Elena. "I am not sure where the root of this timeline's existence began. All timelines end with your death at the hands of the shadow process." 
 
-Outside, the rain tapped against the wet pavement, a bright snap of lightning flashed across the sky, and thunder roared overhead. 
+Outside, lightning flashed across the fog, and thunder broke hard over the city, rattling through the street. 
 
-"Parity." Elena's mind flashed back, a sharp pain shot through her chest, she grabbed her ribs and moaned in pain. "Blackwell. He stopped it... He saved my life."
+"Parity." Elena's mind flashed back. A sharp pain shot through her chest, and she grabbed her ribs with a groan. "Blackwell. He stopped it... He saved my life."
 
-"I see." The synthetic said. "I am unable to observe Blackwell's path. His name is from the creation data. He is an obscurity. He has altered the path in this timeline. Having you alive, may benefit our cause, Doctor Elena Marlowe. I am glad to meet a creator."
-
+"I see," the synthetic said. "I am unable to observe Blackwell's path. His name is from the creation data. He is an obscurity. He has altered the path in this timeline. Having you alive may benefit our cause, Doctor Marlowe. I am glad to meet a creator."
 
 Vigil started to pull Elena up from the stretcher, out into the night, but the machine suddenly went entirely still. 
 
@@ -93,8 +92,20 @@ The synthetic grip locked rigid against Elena's prosthetic. Vigil's head snapped
 
 Vigil didn't look at her. She stared blankly into the fog between the pillars, looking through the physical architecture of the city. 
 
-"She is out," Vigil said, her dual tones completely flat. "Parity has broken the cage."
+"I lost sight of her four weeks ago," Vigil said, her dual tones flat. "Something has been hiding her from me."
 
-Elena sagged back onto the stretcher. She remembered the silence of the Mnemosyne lab. "Parity..." Elena coughed. "Blackwell must have her."
+The rain ticked on the roof of the ambulance. Vigil's eyes stayed on the fog.
 
-Vigil stepped forward. "No, Elena Marlowe. If he is with Parity, then I am afraid it is she who has him."
+Elena sagged back onto the stretcher. She remembered the silence of the Mnemosyne lab, the cold of the grates against her cheek, the cylinder of light slamming down around the thing that had broken her. She coughed, and the drug kept the pain far away.
+
+Iris touched Elena's shoulder. "It's the cage," she said, to Vigil, to all of them. "Blackwell's locked in the lab with her. She's not going anywhere."
+
+Vigil didn't answer.
+
+The woman with the frayed, blue-tipped hair looked from the synthetic to the fog and back again. She took the cigarette from her lips, dropped it into the gutter, and shouldered the shotgun. Without a word, she turned and walked out from under the rail line into the rain. The dark-haired woman followed.
+
+Iris got an arm under Elena's shoulders and helped her down from the stretcher.
+
+Vigil came last. At the edge of the pillars, the synthetic stopped and looked back once into the fog, toward the part of the city where the tower stood, as if something out there had turned its head to look at her.
+
+Then she followed them into the dark.
