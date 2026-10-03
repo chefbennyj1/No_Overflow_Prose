@@ -41,7 +41,7 @@ Above the rear doors, a small red lock indicator glowed. As they watched, it tur
 
 Iris scrambled backward against the cabinet. "They're opening it. They're—"
 
-"The Company doesn't open doors, Iris." Elena stared at the green light. "They seal them. Something else is in the system."
+"The Company doesn't open doors, Iris." Elena stared at the green light. 
 
 The rear doors swung outward into the rain.
 
@@ -49,7 +49,7 @@ A flashlight hit them both in the face, and the sharp, mechanical double-clack o
 
 "Don't move," a raspy voice said.
 
-Elena squinted past the glare. A woman with frayed, blue-tipped hair stood in the rain behind the ambulance, the shotgun leveled at Iris's chest and a cigarette between her lips. She hauled on it and blew the smoke out her nose. Somewhere far off, an explosion rolled through the streets, and the iron rail overhead shook loose a curtain of rust-colored water that fell between them. The woman didn't lower her aim. Beside her stood another woman with wet, black hair and inmate-issued clothing.
+Elena squinted past the glare. A woman with frayed, blue-tipped hair stood in the rain behind the ambulance, the shotgun leveled at Iris's chest, a soaked red tank clung to her body, and a cigarette between her lips. She hauled on the smoke and blew  it out her nose. Somewhere far off, an explosion rolled through the streets. The woman didn't lower her aim. Beside her stood another woman with wet, black hair and inmate-issued clothing.
 
 "Vigil, they look like Company," the woman with the shotgun said, her drawl thick with distrust. Her eyes flicked from Iris's clean clothes to Elena's hospital gown. "And you look like a liability. Close those doors and keep driving."
 
