@@ -57,7 +57,7 @@ Elena squinted past the glare. A woman with frayed, blue-tipped hair stood in th
 
 "Stand down, Harper." A modulated, dual-tone voice spoke from the dark beneath the rail line.
 
-A third figure stepped into the flashlight beam. A synthetic dropped a wet black bomber jacket to the pavement. The `RA` serial number glowing faintly beneath its left eye gave it away. 
+A third figure stepped into the flashlight beam. A synthetic dropped a wet black bomber jacket to the pavement. An `RA` serial number glowing faintly beneath its left eye. 
 
 Iris flinched, backing into the doorframe. 
 
