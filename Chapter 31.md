@@ -1,4 +1,4 @@
-The ambulance had stopped on its own.
+Iris lifted her hands off the steering wheel as the power cut, and the ambulance had stopped on its own.
 
 Elena lay on the stretcher in the back and listened to the rain ticking on the roof. The siren had cut out ten minutes ago, at the same moment the yoke stopped answering Iris's hands. After that, the ambulance had driven itself. Left, then right, then a long straight stretch where the roar of the riot fell away behind them. Then it settled onto its cushion in the dark and went quiet.
 
