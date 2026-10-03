@@ -1,12 +1,12 @@
-Iris lifted her hands off the steering wheel as the power cut, and the ambulance had stopped on its own.
+Elena looked toward the cabin of the ambulance as Iris lifted her hands off the steering wheel. The power cut, and it stopped on its own, settling, idle on its cushion.
 
-Elena lay on the stretcher in the back and listened to the rain ticking on the roof. The siren had cut out ten minutes ago, at the same moment the yoke stopped answering Iris's hands. After that, the ambulance had driven itself. Left, then right, then a long straight stretch where the roar of the riot fell away behind them. Then it settled onto its cushion in the dark and went quiet.
+Elena lay on the stretcher in the back, she looked back to the amber streetlights bleed through the wet glass of the rear windows. The siren had cut out ten minutes ago, at the same moment the yoke stopped answering Iris's hands. After that, the ambulance had driven itself. It drove a long straight stretch where the roar of the riot fell away behind them.  
 
 Through the window into the cab, the dashboard was black.
 
 Iris knelt beside the stretcher with a drawer from the medical cabinet pulled out across her knees. She held a vial up to the dome light and turned it, squinting through the crack in her left lens.
 
-"I don't know what any of these are," she said. "I've been wearing a badge for three weeks, Elena. I'm not actually—"
+"I'm not sure what any of these are," she said. 
 
 "Blue band." Elena's voice scraped in her throat. "The autoinjector. Third row."
 
@@ -50,7 +50,7 @@ Elena squinted past the glare. A woman with frayed, blue-tipped hair stood in th
 
 "Stand down." A modulated, dual-tone voice spoke from the dark beneath the rail line.
 
-A third figure stepped into the flashlight beam. A synthetic unzipped the wet black bomber jacket and let it drop to the pavement, shedding the disguise of a human officer. The `RA` serial number glowing faintly beneath its left eye gave it away. 
+A third figure stepped into the flashlight beam. A synthetic unzipped the wet black bomber jacket and let it drop to the pavement. The `RA` serial number glowing faintly beneath its left eye gave it away.
 
 Iris flinched, backing into the doorframe. 
 
@@ -74,7 +74,7 @@ Elena didn't hesitate. She reached out with her right arm. The black, articulate
 
 "Yes, Elena Marlowe. I am. I am Vigil." 
 
-The rain drummed heavily on the metal roof of the ambulance. 
+Outside, the rain hissed against the wet pavement. 
 
 Vigil started to pull Elena up from the stretcher, out into the night, but the machine suddenly went perfectly still. 
 
