@@ -3,35 +3,33 @@ music: Interstellar Drift.mp3
 ---
 The lights in the sterile hospital room buzzed and flickered. 
 
-In the corner of the room, a muted wall-mounted television played the local broadcast. The news anchor—a polished public relations synthetic—was speaking impassively over frantic, handheld footage of the lower city. The screen flashed with images of rising smoke, shattered barricades, and swarms of people moving against Corporate Renewal riot lines. 
+Iris stood at the window. The yellow Level-4 bio-containment suit made every movement clumsy. She pushed her black-rimmed glasses up her nose, her hands trembling inside the thick rubber gloves.
 
-Iris stood by the window, looking back at the screen. The yellow Level-4 bio-containment suit made every movement clumsy. She pushed her black-rimmed glasses up her nose, her hands trembling inside the thick rubber gloves.
-
-Out the window, the Oshima cloud cover extended out below her. In the distance, red and auburn light glowed and swelled beneath the clouds. Plumes of dark smoke rose and dirtied the air the color of soot.
+The Oshima cloud cover lay below her. In the distance, red and auburn light swelled beneath it, and plumes of dark smoke rose through the clouds and dirtied the air.
 
 The lights overhead flickered again. This time, they stayed dim longer before surging back to a harsh white. 
 
-Iris backed away from the window, her breathing shallow and rapid. "The Company is going to lock down the hospital," she whispered, her voice tight with panic. "We're out of time."
+Iris backed away from the window, her breathing shallow and rapid. "The Company is going to lock down the hospital," she whispered. "We're out of time."
 
 Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital gown clinging to her battered frame. She watched Iris pace at the foot of the mattress. 
 
 "Iris," Elena rasped, her throat still raw. 
 
-"I can't do this," Iris said. "I can't do this. Pretending to be on staff is one thing... But escape? There are two Renewal agents outside that door. If I wheel you out there, they are going to look at me, and they are going to know, and they are going to shoot us."
+"I can't do this," Iris said. "Pretending to be on staff is one thing... But escape? There are two Renewal agents outside that door. If I wheel you out there, they are going to look at me, and they are going to know, and they are going to shoot us."
 
 "Iris. Look at me."
 
-She stopped pacing and looked at the woman in the bed. She was physically broken, barely able to sit up. But her eyes held the hardened, clinical resolve of the architect who had helped build the Mnemosyne engine. 
+She stopped pacing and looked at the woman in the bed. She was physically broken, barely able to sit up. But her eyes held a hardened, clinical resolve. 
 
 "You are a doctor," Elena said, her voice quiet and absolute. "You are not pretending. You are in control. Zip the bag. It's time to go."
 
 Iris swallowed hard. "They're going to want to see the body."
 
-"Then you don't let them." Elena shifted her weight, falling back against the pillow. "—you need to clear the floor."
+"Then you don't let them." Elena shifted her weight, falling back against the bed. "—you need to clear the floor."
 
-Iris understood. Turning to the room's hospital terminal, she swiped the stolen medical badge pinned to her containment suit. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
+Iris turned to the room's hospital terminal and swiped the stolen medical badge pinned to her containment suit. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
 
-The screen flashed with the floor's patient network. Iris didn't hesitate. She dragged her finger across the display, manually overriding the vitals for three patients in the intensive care room at the other side of the floor. 
+The screen flashed with the floor's patient network. Iris didn't hesitate. She dragged her finger across the display, manually triggering the critical vital alarms for three patients in the intensive care room at the other side of the floor. 
 
 The bell alarm of a Code Blue sounded across the ward. 
 
@@ -59,7 +57,7 @@ Iris shoved the gurney into the hallway, steering it straight at them.
 
 The guard on the right held up a black, mechanical gloved hand, blocking her path. He reached down, his armored fingers catching the silver zipper of the body bag. "Doctor, protocol requires visual confirmation of the—"
 
-"Do not break the seal!" Iris snapped. "This is a Biosafety Level 4 Airborne Infection Isolation protocol. The asset was in direct contact with an unknown pathogen in the Mnemosyne lab. If you open that bag in this hallway, you will contaminate this entire wing." She glared up at his faceless black visor, her chest heaving. "If you want to explain to the people upstairs why you forced them to incinerate this entire hospital ward, go ahead and unzip it."
+"Do not break the seal!" Iris snapped. "This is a Level 4 Biosafety Airborne Infection Protocol. The asset was in direct contact with an unknown pathogen in the Mnemosyne lab. If you open that bag in this hallway, you will contaminate this entire wing." She glared up at his faceless black visor, her chest heaving. "If you want to explain to the people upstairs why you forced them to incinerate this entire hospital ward, go ahead and unzip it."
 
 The guard froze. His faceless helmet turned down toward the yellow bio-hazard symbol on the white body-bag. He lifted his hand away from the zipper, and took a half-step back.
 
@@ -71,7 +69,7 @@ Up ahead, the digital display above the service elevators chimed. The steel door
 
 Iris lost a breath. 
 
-A four-man Renewal Extraction Team stood inside the elevator. They were fully armed, their black rifles held tight across their chests, dispatched to secure the exact asset Iris was pushing toward them. 
+A four-man Renewal Extraction Team stood inside the elevator. They were fully armed, their black rifles held tight across their chests. 
 
 Iris's hands white-knuckled the metal rail. She couldn't make a mistake.
 
@@ -98,13 +96,13 @@ The heavy steel doors slid shut, sealing Iris inside with four corporate killers
 
 The elevator descended. Inches from the agents' waist, the white plastic of the body bag quietly rose and fell. A necessary breath. Iris forced her head up, snapping her gaze to the elevators  indicator panel, counting down the floors above the door. 
 
-The lead agent pressed two armored fingers to the side of his helmet. "This is Disposition Five One, Lead. Update primary objective. The asset is unsuitable for retrieval. She has expired. Viability is at zero." He paused, listening to a voice in his earpiece. "Affirmative. We are escorting the remains to sub-level for incineration."
+The lead agent pressed two armored fingers to the side of his helmet. "This is Extraction Five One, Lead. Update primary objective. The asset is unsuitable for retrieval. She has expired. Viability is at zero." He paused, listening to a voice in his earpiece. "Affirmative. We are escorting the remains to sub-level for incineration."
 
 The elevator stopped its descent with a sudden clunky sound, jolting the lift. Iris reached out to steady herself against the wall. The digital display above the door flashed, and the numbers stopped counting down. 
 
 Iris felt her stomach drop. The floor indicator switched to read *MAIN LOBBY*. 
 
-The lead agent turned his head toward the display. "Phase One Recall," he said, his modulated voice dropping an octave. "The hospital's security network has been breached. The system is locking down the upper floors and routing all cars to the lobby."
+The lead agent turned his head toward the display. "Phase One Recall," he said, his modulated voice dropping an octave.
 
 "No," Iris said, panic spiking inside the yellow helmet. "We need to go down. The pathogen—"
 

@@ -11,3 +11,4 @@ Claude-written prose kept in the manuscript (verbatim or lightly edited). See `w
 | 2026-09-30 | 32 | Revised stakeout dialogue (Harlan leaving with Jackie and the kids; "Who's taking your desk?"; "I'm the one who's doing it.") | First draft, for author rework |
 | 2026-09-30 | 32 | Gear-up rewrite of precinct opening (riot line, synths in cells, captain's light, corridor run-in, locker room) + restored Jackie stakeout dialogue | First draft, for author rework |
 | 2026-10-02 | 28 | Lobby establishing paragraph ("From the floor of the car, Iris could see a slice of the lobby…"), smoke-descending line, and the explosion/shell-shock passage ("The front of the hospital blew in." … "Iris rolled onto her stomach. They crawled.") | First draft, for author rework |
+| 2026-10-02 | 28 | Opening trim; reworded window lines ("The Oshima cloud cover lay below her…") | Light edit of author text |
