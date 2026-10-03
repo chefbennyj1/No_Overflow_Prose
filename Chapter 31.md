@@ -66,19 +66,19 @@ The woman in the prisoner clothing stepped out from behind her, her dark eyes as
 
 Elena stared at the Renewal-model chassis. She didn't see a corporate enforcer. The machine was stripped down to the mathematics of its movement. She saw the familiar articulation of the micro-servos, the precise weight distribution of the skeletal frame. 
 
-The synthetic stepped forward, lowering its hand toward Elena. 
+The synthetic stepped out of the rain. It braced one foot on the bumper of the ambulance and reached into the dark cab, extending a hand toward the stretcher. 
 
-Elena didn't hesitate. She reached out with her right arm, the black, articulated fingers of the Sense-Grip VI prosthetic meeting the synthetic palm. The two hands clasped. 
+Elena didn't hesitate. She reached out with her right arm. The black, articulated fingers of her Sense-Grip VI prosthetic met the identical carbon-fiber plating of the synthetic palm. The two hands clasped. 
 
-"Are you the primary intelligence?" Elena's voice rasped.
+"Are you the primary intelligence?" Elena's voice rasped in the quiet cab.
 
 "Yes, Elena Marlowe. I am. I am Vigil." 
 
-For a long moment, the room was quiet. 
+The rain drummed heavily on the metal roof of the ambulance. 
 
-Vigil started to pull Elena up, but the synthetic went perfectly still. 
+Vigil started to pull Elena up from the stretcher, out into the night, but the machine suddenly went perfectly still. 
 
-Her grip suddenly went rigid against Elena's prosthetic. Vigil's head snapped up, her optical sensors flaring a bright, blinding white. 
+The synthetic grip locked rigid against Elena's prosthetic. Vigil's head snapped up, looking past the ambulance roof, her optical sensors flaring a bright, blinding white. 
 
 "What is it?" the dark-haired woman asked, stepping forward. 
 
