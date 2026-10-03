@@ -7,11 +7,11 @@ Ten minutes ago, the siren had cut out. The ambulance had hijacked itself, ignor
 
 From the driver's seat, Iris slammed her hands against the dash. 
 
-"It's dead," Iris said, her voice thin and panicked. She stared through the cracked windshield into the dark. "Elena, they locked us out."
+"It's dead," Iris said, her voice thin and panicked. She stared through the cracked windshield into the dark. "Elena, we're locked out."
 
-Iris scrambled out of the cab and into the back. Her chest heaved, and she was breathing entirely through her mouth. She yanked a drawer out of the medical cabinet, pulling it so hard the metal tracks popped. 
+Iris scrambled out of the cab and into the back. She yanked a drawer out of the medical cabinet, pulling it so hard the metal tracks popped. 
 
-"We have to go," Iris said. She spilled the contents of the drawer across her knees. A bead of sweat cut a line through the white drywall dust caked on her face. She held a vial up to the dome light, her hands shaking so badly the glass blurred. "I don't know what any of these are."
+"We to get out of this ambulance," Iris said. She spilled the contents of the drawer across her knees. A bead of sweat cut a line through the white drywall dust caked on her face. She held a vial up to the dome light, her hands shaking so badly the glass blurred. "I don't know what any of these are."
 
 "Blue band," Elena gasped, her voice scraping in her throat. "The autoinjector. Third row."
 
