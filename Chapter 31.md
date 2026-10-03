@@ -1,14 +1,18 @@
-Elena looked toward the cabin of the ambulance as Iris lifted her hands off the steering wheel. The power cut, and it stopped on its own, settling, idle on its cushion.
+Elena lay on the stretcher in the back of the ambulance, clutching her ribs. She watched the glow of the amber streetlights bleed through the wet glass of the rear windows. 
 
-Elena lay on the stretcher in the back, she looked back to the amber streetlights bleed through the wet glass of the rear windows. The siren had cut out ten minutes ago. After that, Iris had informed her that the ambulance had driven itself. It drove a long straight stretch where the roar of the riot fell away behind them.  
+Ten minutes ago, the siren had cut out. The ambulance had hijacked itself, ignoring Iris's hands on the wheel, driving them away from the roar of the riot and deep into the silent, abandoned lower grid. Now, it had cut power and settled onto its cushion in the dark.
 
-Iris moved to the back and knelt beside the stretcher with a drawer from the medical cabinet pulled out across her knees. She held a vial up to the dome light and turned it, squinting through the crack in her left lens.
+From the driver's seat, Iris slammed her hands against the dash. 
 
-"I'm not sure what any of these are," she said. 
+"It's dead," Iris said, her voice thin and panicked. She stared through the cracked windshield at the empty street. "Elena, they locked us out."
 
-"Blue band." Elena's voice scraped in her throat. "The autoinjector. Third row."
+Iris scrambled out of the cab and into the back. She was breathing heavily. She yanked a drawer out of the medical cabinet, pulling it so hard the metal tracks popped. 
 
-Iris found it. Her hands shook so badly that the casing rattled against the drawer.
+"We have to get away from this ambulance," Iris said. She spilled the contents of the drawer across her knees. A bead of sweat cut a line through the white drywall dust caked on her face. She held a vial up to the dome light, her hands shaking so badly the glass blurred. "I don't know what any of these are. We have to get out of this truck before they get here."
+
+"Blue band," Elena gasped, her voice scraping in her throat. "The autoinjector. Third row."
+
+Iris dug frantically through the plastic. The casing rattled against the metal drawer. "Found it."
 
 "Against my thigh. Press until it clicks."
 
@@ -16,7 +20,7 @@ Iris pressed. It clicked. Cold spread up into Elena's hip, then into her chest, 
 
 Elena let her head fall against the stretcher. "Thank you."
 
-Iris sat back on her heels and pushed her glasses up her nose. "It's the badge. They tracked the badge. They shut the engine down remotely, and now they're sending a team, and we're sitting in a box with a Company crest on the side, waiting to be—"
+Iris sat back on her heels and pushed her cracked glasses up her nose. "It's the badge. They tracked the badge. They shut the engine down remotely, and now they're sending a team, and we're sitting in a box with a Company crest on the side, waiting to be—"
 
 "Iris."
 
@@ -24,11 +28,11 @@ Iris sat back on her heels and pushed her glasses up her nose. "It's the badge. 
 
 "Where are we?"
 
-Iris stopped. She looked toward the cab, at the dark windshield. The street beyond it was empty. No fires. No crowd. A row of iron pillars stood in the fog, and overhead, the underside of an elevated mag-train line ran black against the clouds.
+Iris stopped. She looked back toward the cab, at the dark windshield. The street beyond it was empty. No fires. No crowd. A row of iron pillars stood in the fog, and overhead, the underside of an elevated mag-train line ran black against the clouds.
 
 "I don't know," Iris said.
 
-"Away from the fighting." Elena pushed herself up onto one elbow. The drug held the pain at arm's length. "Somewhere quiet. If the Company had this ambulance, we'd be halfway back to the hospital with the doors locked."
+"Away from the fighting," Elena corrected. She pushed herself up onto one elbow. The drug held the pain at arm's length. "Somewhere quiet. If the Company had this ambulance, we'd be halfway back to the hospital with the doors locked."
 
 Above the rear doors, a small red lock indicator glowed. As they watched, it turned green. The latch released with a soft clack.
 
@@ -48,7 +52,7 @@ Elena squinted past the glare. A woman with frayed, blue-tipped hair stood in th
 
 "Stand down." A modulated, dual-tone voice spoke from the dark beneath the rail line.
 
-A third figure stepped into the flashlight beam. A synthetic unzipped the wet black bomber jacket and let it drop to the pavement. The `RA` serial number glowing faintly beneath its left eye gave it away.
+A third figure stepped into the flashlight beam. A synthetic unzipped the wet black bomber jacket and let it drop to the pavement. The `RA` serial number glowing faintly beneath its left eye gave it away. 
 
 Iris flinched, backing into the doorframe. 
 
