@@ -1,10 +1,8 @@
 Elena looked toward the cabin of the ambulance as Iris lifted her hands off the steering wheel. The power cut, and it stopped on its own, settling, idle on its cushion.
 
-Elena lay on the stretcher in the back, she looked back to the amber streetlights bleed through the wet glass of the rear windows. The siren had cut out ten minutes ago, at the same moment the yoke stopped answering Iris's hands. After that, the ambulance had driven itself. It drove a long straight stretch where the roar of the riot fell away behind them.  
+Elena lay on the stretcher in the back, she looked back to the amber streetlights bleed through the wet glass of the rear windows. The siren had cut out ten minutes ago. After that, Iris had informed her that the ambulance had driven itself. It drove a long straight stretch where the roar of the riot fell away behind them.  
 
-Through the window into the cab, the dashboard was black.
-
-Iris knelt beside the stretcher with a drawer from the medical cabinet pulled out across her knees. She held a vial up to the dome light and turned it, squinting through the crack in her left lens.
+Iris moved to the back and knelt beside the stretcher with a drawer from the medical cabinet pulled out across her knees. She held a vial up to the dome light and turned it, squinting through the crack in her left lens.
 
 "I'm not sure what any of these are," she said. 
 
