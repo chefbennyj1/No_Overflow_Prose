@@ -111,8 +111,6 @@ Vigil didn't answer.
 
 Harper looked from the synthetic to the fog and back again. She took the cigarette from her lips, dropped it into the gutter, and shouldered the shotgun. Without a word, she turned and walked out from under the rail line into the rain. Rin followed.
 
-Iris got an arm under Elena's shoulders and helped her down from the stretcher.
+Iris got an arm under Elena's shoulders and helped her down from the stretcher. Elena turned back toward Vigil. She had stopped and was staring into the fog. The synth looked toward the part of the city where the tower stood, as if something out there had turned its head to look at her.
 
-Vigil came last. At the edge of the pillars, the synthetic stopped and looked back once into the fog, toward the part of the city where the tower stood, as if something out there had turned its head to look at her.
-
-Then she followed them into the dark.
+The five of them walk into the rain swept streets of the lower city.
