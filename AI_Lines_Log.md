@@ -12,3 +12,5 @@ Claude-written prose kept in the manuscript (verbatim or lightly edited). See `w
 | 2026-09-30 | 32 | Gear-up rewrite of precinct opening (riot line, synths in cells, captain's light, corridor run-in, locker room) + restored Jackie stakeout dialogue | First draft, for author rework |
 | 2026-10-02 | 28 | Lobby establishing paragraph ("From the floor of the car, Iris could see a slice of the lobby…"), smoke-descending line, and the explosion/shell-shock passage ("The front of the hospital blew in." … "Iris rolled onto her stomach. They crawled.") | First draft, for author rework |
 | 2026-10-02 | 28 | Opening trim; reworded window lines ("The Oshima cloud cover lay below her…") | Light edit of author text |
+| 2026-10-02 | 28 | Ambulance ending ("The street outside was worse." … "I don't know," she said, and drove.) | First draft, for author rework |
+| 2026-10-02 | 28 | "Her prosthetic hand lifted off the glass and hung in the air above the shattered jaw, black carbon fiber over bare titanium, the same joints, the same spacing." | As-is |

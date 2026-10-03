@@ -61,7 +61,7 @@ The guard on the right held up a black, mechanical gloved hand, blocking her pat
 
 The guard froze. His faceless helmet turned down toward the yellow bio-hazard symbol on the white body-bag. He lifted his hand away from the zipper, and took a half-step back.
 
-Iris didn't wait. She put her weight into the gurney and pushed it rapidly down the corridor, fighting to keep the wheels straight.
+Iris didn't wait. She put her weight into the gurney and pushed it rapidly down the corridor.
 
 The caster wheels squeaked and spun against the linoleum. From beneath the plastic, Elena whispered, "Keep moving."  
 
@@ -89,7 +89,7 @@ The agent's faceless visor locked onto her. Inside the ballooned bio-suit, a lin
 
 "Exposure is a non-issue, Doctor." The modulated voice of the agent was firm.
 
-"Very well, Agents." She pushed the gurney into the elevator with the four agents, and slammed her hand against the sub-level button. 
+"Very well, Agents." She pushed the gurney into the elevator, and slammed her hand against the sub-level button. 
 
 
 The heavy steel doors slid shut, sealing Iris inside with four corporate killers and the woman they were tasked to extract. 
@@ -98,7 +98,7 @@ The elevator descended. Inches from the agents' waist, the white plastic of the 
 
 The lead agent pressed two armored fingers to the side of his helmet. "This is Extraction Five One, Lead. Update primary objective. The asset is unsuitable for retrieval. She has expired. Viability is at zero." He paused, listening to a voice in his earpiece. "Affirmative. We are escorting the remains to sub-level for incineration."
 
-The elevator stopped its descent with a sudden clunky sound, jolting the lift. Iris reached out to steady herself against the wall. The digital display above the door flashed, and the numbers stopped counting down. 
+The elevator jolted to a stop. Iris reached out to steady herself against the wall. The digital display above the door flashed, and the numbers stopped counting down. 
 
 Iris felt her stomach drop. The floor indicator switched to read *MAIN LOBBY*. 
 
@@ -124,7 +124,7 @@ The remaining two agents didn't hesitate. They lunged out of the elevator, firin
 
 Iris dropped to her knees. She grabbed the collar of the hazmat suit and tore the zipper down, frantically shedding the awkward yellow plastic. 
 
-Outside the elevator, fire alarms wailed over the crack of automatic gunfire. From the floor of the car, Iris could see a slice of the lobby through the open doors. White stone rose three stories to a skylight. Above the reception desk, the brass Takeda-Holden crest hung by one corner. The waiting chairs had once stood bolted to the floor in neat rows. Someone had torn them up and piled them into a barricade across the entrance. Sprinklers rained over the marble, and black smoke rolled along the ceiling, lit orange from underneath.
+Outside the elevator, fire alarms wailed over the crack of automatic gunfire. From the floor of the car, Iris could see a slice of the lobby through the open doors. White stone rose three stories to a skylight. Above the reception desk, the brass Takeda-Holden crest hung by one corner. The waiting chairs had once stood bolted to the floor in neat rows. Someone had torn them up and piled them into a barricade across the entrance. Sprinklers rained over the marble, and black smoke rolled along the ceiling.
 
 Iris crawled to the gurney and ripped the silver zipper of the body bag open. Elena gasped for air, her eyes wide, clutching her battered ribs.
 
@@ -140,7 +140,7 @@ Iris threw Elena's arm over her shoulder. She was an analyst. She had never been
 
 Iris saw the lobby in fragments. 
 
-The red glow of the exit sign. The broken marble. Elena's arm slipping down her shoulder. The deafening crack of a rifle somewhere to the left. Iris didn't look left. She looked at the next three meters of floor.
+The red glow of the exit sign. The broken marble. Elena's arm slipping down her shoulder. The deafening crack of a rifle somewhere to the left. Iris looked at the next three meters of floor.
 
 The weight of Elena slowed her progress. Dark synth fluid pooled across the tile, slick as oil. Iris stepped over the sparking torso of a Renewal agent. Her boot caught the slick edge of the fluid. 
 
@@ -148,7 +148,7 @@ She went down. Her shoulder hit the floor. Elena landed on top of her. The breat
 
 Iris forced herself to her knees. She hauled Elena up by the gown. A body lay in their path. Not a soldier. A man in ratty street clothes. He was lying in blood. He had died pressing his hands against his stomach wound. 
 
-Iris kept going. She couldn't stop. The lobby sizzled with the crackle of fire, the hiss of broken water mains. Iris and Elena had made their way close to the front entrance of the hospital.
+Iris kept going. She couldn't stop. The lobby sizzled with the crackle of fire, the hiss of the sprinklers hitting the fire. Iris and Elena had made their way close to the front entrance of the hospital.
 
 "Almost there, Elena."
 
@@ -168,9 +168,9 @@ A shape leaned over her. Its mouth was moving.
 
 Elena.
 
-The note held. Iris watched Elena's lips shape words she couldn't hear. A hand knotted itself in her collar—black fingers, carbon-fiber joints—and pulled.
+Iris watched Elena's lips shape words she couldn't hear. A hand knotted itself in her collar—black fingers, carbon-fiber joints—and pulled.
 
-The note thinned. Under it, far away, something like a voice.
+Under the ringing in her ear, something like a voice.
 
 "—on! Come on!"
 
@@ -185,12 +185,46 @@ A few feet away, a hospital orderly lay dead. His white uniform was soaked in da
 
 The impact had cracked his skull open. There was no blood, or bone. Only shattered silicone, wire tracking, and a vinyl face peeled back from a titanium jaw. A synth. 
 
-Elena stopped crawling. She stared at the ruined face. Her hands went slack. The war tearing the city apart was being fought over the architecture Elena had built.
+Elena stopped crawling. She stared at the ruined face. Her prosthetic hand lifted off the glass and hung in the air above the shattered jaw, black carbon fiber over bare titanium, the same joints, the same spacing.
 
 "Elena!" Iris screamed.
 
 Elena didn't move. She was trapped in the dead synthetic eyes. 
 
-Iris grabbed the collar of Elena's gown. She dug her boots into the glass and pulled with everything she had. She dragged the architect away from her creation. 
+Iris grabbed the collar of Elena's gown. She dug her boots into the glass and pulled with everything she had. She Elena away. 
 
 They reached the blown-out frame of the doors. Iris hoisted Elena up. They stumbled through the jagged opening, out of the sterile air of the hospital, and into the bitter, soot-choked wind of Oshima.
+
+The street outside was worse.
+
+A barricade of overturned mag-cars burned across the intersection, and beyond it, the crowd moved like water against the black shields of a Renewal line. Somewhere a megaphone was shouting a slogan Iris couldn't make out, and a hundred voices threw it back.
+
+Iris turned and looked up. The hospital rose out of the street and disappeared into the cloud cover overhead, and the fog where it swallowed the upper floors glowed orange from inside.
+
+"Iris." Elena's weight sagged against her. "We can't walk out of this."
+
+Thirty meters down the sidewalk, under a concrete overhang, sat the ambulance bay. Two of the white vehicles had been tipped onto their sides. The third rested on its cushion with its rear doors hanging open and no one inside. The Takeda-Holden crest was printed on its flank above a row of red medical chevrons.
+
+Iris got Elena to the back of the ambulance and half lifted, half rolled her onto the stretcher. Elena bit down on a scream and held it. Iris slammed the rear doors and ran for the cab.
+
+The driver's seat was still warm. The dashboard was dark.
+
+A scanner glowed beside the steering yoke, waiting for a credential. Iris looked down at the stolen badge clipped to her chest.
+
+She swiped it.
+
+The dashboard woke. The cushion engaged with a shudder, and the ambulance lifted off the concrete and hung there, rocking.
+
+Iris had never driven one of these. She had never driven anything larger than a commuter car. She stared at the controls through the crack running across her left lens, which split the windshield into two uneven halves, and she read the console the way she read the boundary readouts in the lab. Throttle. Yoke. Cushion trim. Siren.
+
+Something hit the windshield. A white star bloomed in the glass, inches from her face.
+
+Iris hit the siren.
+
+The sound tore down the street. Iris pushed the throttle forward. The ambulance lurched, scraped a burning car with a shriek of metal, and nosed out into the street.
+
+"Iris." Elena's voice came from the back, thin under the siren. "Where are we going?"
+
+Iris pushed her cracked glasses up her nose.
+
+"I don't know," she said, and drove.
