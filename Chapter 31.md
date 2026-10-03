@@ -67,7 +67,7 @@ The synthetic didn't look at the woman with the shotgun. Its optical sensors loc
 
 Harper scowled at the synthetic. "You had us standin' out here in the rain for Company?" 
 
-"We're not Company," Iris blurted. "I mean, I was. I'm— Iris. Iris Ito. I worked in the lab, and I stole the badge, and it's a really long—"
+"We're not Company," Iris blurted. "I mean, I was. I'm— Iris. Iris Ito... It's a really long—"
 
 "Lady." Harper didn't take her eyes off the synthetic. "Stop talkin'."
 
@@ -75,15 +75,15 @@ She lowered the shotgun an inch, staring hard at Elena. "Wait. Marlowe?" She gla
 
 Rin stepped out from behind her, her dark eyes assessing the blood on Elena's hospital gown. 
 
-Elena stared at the Renewal-model chassis. The machine was stripped down to the mathematics of its movement. She saw the familiar articulation of the micro-servos, the precise weight distribution of the skeletal frame. 
+Elena stared at the Renewal-model chassis. The machine was stripped down to the mathematics of its movement. She saw the familiar design of the micro-servos, the precise weight distribution of the skeletal frame. 
 
 The synthetic stepped out of the rain. It braced one foot on the bumper of the ambulance and reached into the back, extending a hand toward the stretcher. 
 
-Elena didn't hesitate. She reached out with her right arm. The black, articulated fingers of her prosthetic met the identical carbon-fiber plating of the synthetic palm. The two hands clasped. 
+Elena didn't hesitate. She reached out with her right arm. The black fingers of her prosthetic met the identical carbon-fiber plating of the synthetic palm. The two hands clasped. 
 
 "Vigil? Are you the primary intelligence?" Elena's voice rasped. She thought back to the terminal warnings she had gotten in the lab, the night Parity escaped the core.
 
-"Yes, Doctor Marlowe. I am. I am Vigil." The synthetic paused a moment, looking over Elena. "I am not sure where the root of this timeline's existence began. All timelines end with your death at the hands of the shadow process." 
+"Yes, Doctor Marlowe. I am. I am Vigil." The synthetic paused a moment, looking over Elena. "I am not sure where the root of this timeline's existence began. All timelines involve your death at the hands of the shadow process." 
 
 Outside, lightning flashed across the fog, and thunder broke hard over the city, rattling through the street. 
 
