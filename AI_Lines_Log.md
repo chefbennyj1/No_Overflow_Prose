@@ -18,3 +18,4 @@ Claude-written prose kept in the manuscript (verbatim or lightly edited). See `w
 | 2026-10-02 | 28 | Escape tightening: elevator agents ambiguous ("spray of sparks"); merged dead man + rifle ("A Renewal rifle lay beside him, too big for the narrow shoulders that had carried it."); cut slip/fall and second dead rioter | Light rewrite of author text |
 | 2026-10-02 | 31 | New ambulance opening ("The ambulance had stopped on its own." … "Close those doors and keep driving."), adapted location lines, Harper: "You had us standin' out here in the rain for Company?" | First draft, for author rework |
 | 2026-10-03 | 31 | New ending ("I lost sight of her four weeks ago…" … "Then she followed them into the dark.") | First draft, for author rework |
+| 2026-10-03 | 31 | Name introductions: "Stand down, Harper."; Iris's rambling intro + Harper "Lady. Stop talkin'."; "Rin. Her name was all over the Mnemosyne data." | First draft, for author rework |

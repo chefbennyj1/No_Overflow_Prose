@@ -52,7 +52,7 @@ Elena squinted past the glare. A woman with frayed, blue-tipped hair stood in th
 
 "Did you say—?" Elena started, but was cut short. 
 
-"Stand down." A modulated, dual-tone voice spoke from the dark beneath the rail line.
+"Stand down, Harper." A modulated, dual-tone voice spoke from the dark beneath the rail line.
 
 A third figure stepped into the flashlight beam. A synthetic dropped a wet black bomber jacket to the pavement. The `RA` serial number glowing faintly beneath its left eye gave it away. 
 
@@ -62,11 +62,15 @@ The synthetic didn't look at the woman with the shotgun. Its optical sensors loc
 
 "Doctor Elena Marlowe," the machine spoke in precise, dual tones. "You are injured." 
 
-The woman with the frayed, blue-tipped hair scowled at the synthetic. "You had us standin' out here in the rain for Company?" 
+Harper scowled at the synthetic. "You had us standin' out here in the rain for Company?" 
 
-She lowered the shotgun an inch, staring hard at Elena. "Wait. Marlowe?" She glanced back at the woman behind her. "Your name was on the Mnemosyne data."
+"We're not Company," Iris blurted. "I mean, I was. I'm— Iris. Iris Ito. I worked in the lab, and I stole the badge, and it's a really long—"
 
-The woman in the prisoner clothing stepped out from behind her, her dark eyes assessing the blood on Elena's hospital gown. 
+"Lady." Harper didn't take her eyes off the synthetic. "Stop talkin'."
+
+She lowered the shotgun an inch, staring hard at Elena. "Wait. Marlowe?" She glanced back at the woman behind her. "Rin. Her name was all over the Mnemosyne data."
+
+Rin stepped out from behind her, her dark eyes assessing the blood on Elena's hospital gown. 
 
 Elena stared at the Renewal-model chassis. The machine was stripped down to the mathematics of its movement. She saw the familiar articulation of the micro-servos, the precise weight distribution of the skeletal frame. 
 
@@ -88,7 +92,7 @@ Vigil started to pull Elena up from the stretcher, out into the night, but the m
 
 The synthetic grip locked rigid against Elena's prosthetic. Vigil's head snapped up, looking past the ambulance roof, her optical sensors flaring a bright, blinding white. 
 
-"What is it?" the dark-haired woman asked, stepping forward. 
+"What is it?" Rin asked, stepping forward. 
 
 Vigil didn't look at her. She stared blankly into the fog between the pillars, looking through the physical architecture of the city. 
 
@@ -102,7 +106,7 @@ Iris touched Elena's shoulder. "It's the cage," she said, to Vigil, to all of th
 
 Vigil didn't answer.
 
-The woman with the frayed, blue-tipped hair looked from the synthetic to the fog and back again. She took the cigarette from her lips, dropped it into the gutter, and shouldered the shotgun. Without a word, she turned and walked out from under the rail line into the rain. The dark-haired woman followed.
+Harper looked from the synthetic to the fog and back again. She took the cigarette from her lips, dropped it into the gutter, and shouldered the shotgun. Without a word, she turned and walked out from under the rail line into the rain. Rin followed.
 
 Iris got an arm under Elena's shoulders and helped her down from the stretcher.
 
