@@ -1,8 +1,8 @@
-The cigarette burned down to the filter, stinging Victor's fingers. He didn't drop it. He didn't blink. He sat in the passenger seat of the rusted cruiser and stared up at the sky. 
+The cigarette burned in Victor's fingers. He didn't blink. His hands gripping the steering wheel so hard his knuckles were white. 
 
-Harlan sat beside him, his hands gripping the steering wheel so hard his knuckles were white. 
+Harlan sat beside him in the passenger seat of the rusted cruiser and stared up at the sky. 
 
-High above the Takeda-Holden plaza, the shape hung motionless in the morning light. It was a silhouette, suspended against the rising sun. From its outstretched arm, a second figure dangled over the abyss. 
+High above the Takeda-Holden plaza, the shape hung motionless in the morning light. It was a silhouette, suspended against the rising sun. From its outstretched arm, a second figure dangled above the spire. 
 
 "Vic," Harlan whispered. His voice was ragged. "What is that?"
 
