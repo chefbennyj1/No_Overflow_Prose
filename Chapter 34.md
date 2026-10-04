@@ -1,3 +1,6 @@
+---
+music: The Engine.mp3
+---
 The ambulance moved through the lower city with its lights off and the siren silent.
 
 Iris sat on the jump seat beside the stretcher, counting the turns. Fourteen so far. She could hear the riot through the walls, rifles and a crowd shouting somewhere to the east, but every street the synthetic chose was empty. They passed a barricade of mag-cars with nobody behind it. A block later, a Renewal riot shield lay face-up in the gutter, filling with rain.
@@ -214,13 +217,13 @@ She did the math in her head. The engine was growing because nothing was inside 
 
 She didn't say it out loud.
 
-At six thirty-eight, the ambulance turned onto the avenue and started to climb.
+The ambulance turned onto the avenue and started to climb.
 
 Vigil was back in the driver's seat. The incline was steep, the heavy vehicle groaning as it pushed up the concrete ramp. The thick, soot-choked fog of the lower grid began to thin, tearing into gray wisps against the windshield. A black car with mirrored windows passed them on the climb without a sound. Rin turned her head and watched it until it was gone. A second car followed a block behind it with its lights off.
 
 And then they broke through. 
 
-They crested the cloud cover, entering the pristine, freezing air of New Veridia. The morning sun breached the horizon, flooding the cab with a harsh, brilliant gold. It was a world entirely divorced from the warzone below. 
+They crested the cloud cover, entering the pristine, freezing air of New Veridia. The morning sun breached the horizon, flooding the cab with a harsh, brilliant gold. It was a world entirely separate from the warzone below. 
 
 Vigil stopped the ambulance in the middle of the empty avenue. 
 
