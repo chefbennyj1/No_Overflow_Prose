@@ -123,27 +123,13 @@ Victor started the engine.
 
 "I'm following the car."
 
-He kept the headlights off and stayed two blocks back, following red of the cruiser's taillights through the fog. It moved slowly through the lower grid, past the gutted storefronts and the barricades, away from the fighting. Then it turned into the loading yard of a shuttered Company depot and stopped.
+He kept the headlights off and stayed two blocks back, following the red of the cruiser's taillights through the fog. It moved slowly through the lower grid, past the gutted storefronts and the barricades, away from the fighting. Then it turned onto the wide, elevated avenue that climbed toward New Veridia.
 
-The yard was full of vans.
+Harlan sat forward. "She's going uptown."
 
-More than twenty, parked in rows with their engines running. White, squared-off, the kind that came through every Company building after midnight. Each one had the same logo stenciled on the side: the Takeda-Holden crest, and beneath it, in plain block letters, *FACILITIES & SANITATION*.
+Victor watched the taillights start up the incline. The Madame had the janitors' keys. There was only one Deep Storage floor in the city he had seen with his own eyes, and he had walked a girl in handcuffs out of it.
 
-Victor turned off the car.
-
-As they watched, the vans began to pull out of the yard. Not together. One went east. Two went north. One turned onto the long road toward the tower, and another toward the transit terminal, and the rest peeled away into the fog one by one, each in a different direction, until the yard was empty except for the black cruiser sitting in the middle of it with its engine idling.
-
-Every Company building had a Deep Storage floor. Every van was going to one.
-
-Harlan was staring at the empty yard. "Vic. What's in the vans?"
-
-"Nothing yet," Victor said.
-
-Then the cruiser's engine pitched up, and it pulled out of the yard. It turned onto the wide, elevated avenue that climbed toward New Veridia. 
-
-"They're scattering," Harlan said, watching the taillights of the last van disappear into the smog. "Which one do we take?"
-
-"We don't," Victor said. He put the car in gear. "We take her."
+"She's going to the tower," he said.
 
 They followed the black cruiser up out of the slums. As the elevation rose, the thick fog of the lower city began to thin, falling away beneath them. The morning sun broke over the eastern edge of the cloud layer, blinding and pale. 
 
