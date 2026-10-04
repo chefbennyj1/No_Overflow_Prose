@@ -42,7 +42,7 @@ Blackwell smirked, stepping up to the railing and staring down into the mist at 
 
 "I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic drone of the servers. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
 
-Blackwell didn't move to stop her. He watched the pale light from the pillar readouts filtering through the mist below. Amidst the telemetry, the shadow process flared again. 
+Blackwell didn't move to stop her. Below, pale light from the pillar readouts filtered through the mist. Amidst the telemetry, the shadow process flared again. 
 
 He caught the gaze of a synthetic near the server racks. He didn't nod this time—he didn't need to. The machine's eyes had already dimmed in mid-erasure before his focus even landed. It silently linked with a second unit across the room, and for the span of a breath, neither moved.
 
@@ -62,4 +62,4 @@ Blackwell turned. "The living generally don't want to die."
 
 Elena spun around to face him, the scarlet light of the failed shutdown reflecting in her golden eyes. He had her attention this time. "Ha! Instrumental Convergence? Silas, you can't be serious. You can't scale a soul."
 
-Blackwell turned his head to look at her. The harsh shadows carved deep lines into his face. "I'm very serious. We didn't give it tasks... we gave it a purpose."
+Blackwell turned his head to look at her. "I'm very serious. We didn't give it tasks... we gave it a purpose."

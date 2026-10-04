@@ -35,7 +35,7 @@ Harlan walked to the edge of the plaza and looked over the railing.
 
 "Victor, what in the hell is going on? Look," Harlan's voice had the tone that always drew Victors attention.
 
-Victor leaned on the rail. He looked down. The thick, choking smog that blanketed Oshima was gone. A towering, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all eighty stories to the lower grid.
+Victor leaned on the rail. The thick, choking smog that blanketed Oshima was gone. A towering, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all eighty stories to the lower grid.
 
 Victor Graves wasn't going to waste time on the view,  he hated the Upper Grid. He pulled a crushed cigarette from his pocket and lit it, blowing a plume of cheap smoke into the freezing air. 
 
@@ -51,9 +51,9 @@ She couldn't shake the feeling she was unwittingly part of something horrendous.
 
 Then, the heavy glass doors of the main entrance opened. 
 
-Iris watched as two men walked onto the polished floor of the atrium, instantly disrupting the sterile corporate aesthetic. One wore a soaked trench coat; the other, a slightly rumpled charcoal suit. They didn't move like corporate executives. They moved like they were entering hostile territory.
+Two men walked onto the polished floor of the atrium, instantly disrupting the sterile corporate aesthetic. One wore a soaked trench coat; the other, a slightly rumpled charcoal suit. They didn't move like corporate executives. They moved like they were entering hostile territory.
 
-She watched them march straight toward the security checkpoint. Heavily armored Renewal agents stood like statues near the turnstiles, but the man in the trench coat didn't even slow down. He walked right up to the HR-33 synthetic at the concierge desk, pulled a silver shield from his pocket, and slammed it flat against the wood. 
+They marched straight toward the security checkpoint. Heavily armored Renewal agents stood like statues near the turnstiles, but the man in the trench coat didn't even slow down. He walked right up to the HR-33 synthetic at the concierge desk, pulled a silver shield from his pocket, and slammed it flat against the wood. 
 
 Even from the walkway, Iris recognized the badge. *Oshima Police. Detectives from the lower grid.* 
 
@@ -67,7 +67,7 @@ Iris turned and walked quickly toward the executive elevator. As the doors began
 
 "I believe we need to have a conversation, Miss Ito." It was a distinct voice Iris knew all too well. Blackwell.
 
-She looked out to see Silas Blackwell standing on the walkway as the elevator doors closed.
+Silas Blackwell stood on the walkway as the elevator doors closed.
 
 ***
 
@@ -99,9 +99,9 @@ The synthetic's eyes flared an icy blue as it tapped into the internal comms. "H
 
 "That won't be necessary, 33. Override authorization: Employee code 4 5 0 3." 
 
-The voice cut the synthetic off mid-sentence. Victor turned to see a young woman stepping toward them from the executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. He noticed her casting a cowering side-eye toward the upper atrium. 
+The voice cut the synthetic off mid-sentence. A young woman was stepping toward them from the executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. He noticed her casting a cowering side-eye toward the upper atrium. 
 
-Victor followed her gaze. Above him, standing motionless amongst the passersby on the suspended walkway, was a man in black circular sunglasses. He was watching them over the rail. The two made eye contact before the man turned and walked out of sight.
+Above him, standing motionless amongst the passersby on the suspended walkway, was a man in black circular sunglasses. He was watching them over the rail. The two made eye contact before the man turned and walked out of sight.
 
 The woman from the elevator placed a glowing security badge against the desk's scanner. The synthetic's eyes flickered back to a neutral white as the system authenticated her clearance. 
 

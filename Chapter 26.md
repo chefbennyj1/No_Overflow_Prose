@@ -1,7 +1,7 @@
 ---
 music: erie score.mp3
 ---
-Blackwell rubbed his eyes. The glowing monitors of the Mnemosyne lab cast long shadows across his face. He looked at the holographic cylinder in the center of the room. The entity. Its pale, glassy feminine body floated inside.  Connected bronze holographic lines shifted across the raw crystalline silicate of its skin.  From the side he could see the emptiness of its eyes, but as Blackwell walked to its front, the black, insidious sheen materialized in its hollow sockets.
+Blackwell rubbed his eyes. The glowing monitors of the Mnemosyne lab cast long shadows across his face. Inside the holographic cylinder in the center of the room, the entity's pale, glassy feminine body floated.  Connected bronze holographic lines shifted across the raw crystalline silicate of its skin.  From the side he could see the emptiness of its eyes, but as Blackwell walked to its front, the black, insidious sheen materialized in its hollow sockets.
 
 After four weeks locked in the lab with Parity, his perspective had changed fundamentally. He had looked back in his logs and found the moment he had written *she*, instead of *the subject*. 
 

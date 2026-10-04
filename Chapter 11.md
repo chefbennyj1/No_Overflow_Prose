@@ -4,15 +4,13 @@ His hands clasped behind his back, Doctor Silas Blackwell stood on the mezzanine
 
 Blackwell didn't reply. He turned away from the railing and walked into his private office. He stopped at his wooden desk.
 
-His gaze snapped to the bookshelf.
-
-Wedged between two volumes was a black portfolio containing his original thesis paper on the Parity Effect. The spine, he always kept flush with the leather books beside it, now was jutting out of place.
+On the bookshelf, wedged between two volumes, was a black portfolio containing his original thesis paper on the Parity Effect. The spine, he always kept flush with the leather books beside it, now was jutting out of place.
 
 He stepped closer, pulling the portfolio from the shelf. He turned it over in his hands. The pristine matte finish bore the faint, oily smudge of a fingerprint near the edge.
 
 Someone had been in the office. 
 
-Blackwell set the portfolio back on the shelf, aligning it into it's place. He turned and walked back to the doorway, looking down at the lab floor. 
+Blackwell set the portfolio back on the shelf, aligning it into it's place. He turned and walked back to the doorway. 
 
 "Elena," Blackwell called out, his voice level. "Has anyone else been on the floor off-schedule this week?"
 

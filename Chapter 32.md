@@ -28,7 +28,7 @@ Victor stepped around them.
 
 He had never liked them. Four years ago, a bag of seized Company scrip had come back from their shift eight hundred short, and the report said it had been miscounted at the scene. Two years ago, a Filament runner they'd picked up had walked out of booking before his prints were in the system. There was no evidence to put it on them, but Victor had a feeling. 
 
-Sullivan pulled off his gloves. His hands were the same as always except this time he noticed his left wrist. A watch Victor had never seen before. The face was polished steel, and it caught the light when he moved.
+Sullivan pulled off his gloves. His hands were the same as always. On his left wrist was a watch Victor had never seen before. The face was polished steel, and it caught the light when he moved.
 
 They thought being dirty made them clever. Victor didn't need to answer them. He needed the woman who was paying them.
 
@@ -101,13 +101,13 @@ At the far end of the block, a pair of headlights emerged from the fog. The crui
 
 Sullivan and Brask got out of their car.
 
-Victor watched the exchange through the rain. The Minder didn't shake their hands. He held something out.
+The Minder didn't shake their hands. He held something out.
 "Dirty cops." Harlan said, watching Sullivan take it and put it inside his jacket. Brask looked at the black glass of the rear window the whole time as though he were waiting for it to open.
 
 It didn't open.
 
 
-The Minder turned to get back in the car, and stopped. He looked up the street, directly toward Victors car idling in the dark. For a long second, he didn't move.
+The Minder turned to get back in the car, and stopped. He looked up the street, directly toward Victor's car idling in the dark. For a long second, he didn't move.
 
 Harlan's hand went to his holster. "Vic."
 

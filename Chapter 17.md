@@ -1,4 +1,4 @@
-Rin looked down at the SBC in her hand. The string of text Vigil had given her stabilized, resolving into a specific serial number on the small green screen: **RA-77**.
+On the SBC in her hand, the string of text Vigil had given her stabilized, resolving into a specific serial number on the small green screen: **RA-77**.
 
 "RA?" Rin stopped walking. She stared at the small screen, a stunned expression pulling at her features.
 

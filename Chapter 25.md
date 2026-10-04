@@ -37,7 +37,7 @@ Iris reached down and tapped the screen, muting the audio warning. "I'm not supp
 
 *Shadow process?*
 
-Iris shot a nervous glance toward the door. "We have to keep quiet—those agents—I definitely do not like them." She turned back to the monitors beside Elena's bed. "I figured you caught the shadow process. Doctor Blackwell was hiding it. That inversion persona from the thesis—" 
+"We have to keep quiet—those agents—I definitely do not like them." She turned back to the monitors beside Elena's bed. "I figured you caught the shadow process. Doctor Blackwell was hiding it. That inversion persona from the thesis—" 
 
 *Thesis?* A sharp pain swelled in Elena's chest. Tears welled in her eyes as she stared at the ceiling. A flood of memories—the glassy entity and the fractured laboratory returning in jagged fragments. She caught her breath.
 
@@ -53,7 +53,7 @@ Iris walked over and pulled the blinds on the window. The afternoon sunlight hit
 
 Elena gripped the edge of the heavy respirator with her left hand, pulled the elastic band over her hair, and threw the plastic aside. Ignoring the pain radiating through her chest, she pushed against the mattress to force herself into a sitting position. 
 
-Her right hand didn't feel the sheets. Elena looked down. 
+Her right hand didn't feel the sheets. 
 
 *The Synthetic Sense-Grip VI Neural Articulation.*
 
@@ -61,7 +61,7 @@ She stared at the carbon-fiber. The two-millimeter joint spacing. The neurologic
 
 Elena flexed the synthetic fingers. The hand was shockingly light.
 
-"You shouldn't sit up," Iris blurted, her eyes darting to the door. Her hands hovered nervously over the bed rail. She looked like she wanted to push Elena back down but didn't dare touch her. "Okay—it's just that... you know, you have two cracked ribs, internal bruising, a dozen micro-fractures, and... well, your hand. But you're up. Okay. Okay, you're up."
+"You shouldn't sit up," Iris blurted. Her hands hovered nervously over the bed rail. She looked like she wanted to push Elena back down but didn't dare touch her. "Okay—it's just that... you know, you have two cracked ribs, internal bruising, a dozen micro-fractures, and... well, your hand. But you're up. Okay. Okay, you're up."
 
 Elena swallowed. Her throat burned, dry and raw from weeks of a breathing tube. "The night of the breach," Elena rasped, her voice hollow.
 
@@ -77,6 +77,6 @@ Iris searched Elena's face. "I don't know what you saw in that room. That's why 
 
 Elena closed her eyes. The memory of the glassy entity hovering above the floor grates flashed in her mind. Its cold fingers against her face. 
 
-She opened her eyes and looked down at her new synthetic hand. 
+She opened her eyes. Her new synthetic hand lay on the sheet. 
 
 "Parity," Elena rasped. "He built a monster."

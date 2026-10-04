@@ -1,77 +1,76 @@
 ---
 music: Parity_Theme.mp3
 ---
-He felt the wind hit him before he opened his eyes.  It whipped up under the lab coat, snapping the hem against his ankles. The cold grip on his collar bit into his throat hard enough to stop his breath. 
-Blackwell opened his eyes. A blurry light. The fabric of his shirt dug into his skin, under his arms. His shoes hung over nothing. 
+The wind hit him first. A freezing current whipping up under his lab coat, snapping the hem against his ankles. Before he could even open his eyes, the brutal, biting tension at the back of his collar choked off his breath. 
 
-He did not remember leaving the lab. The last thing he felt was the static charge on his neck. Now, the fabric of his own coat held his entire weight.
+A blurry light. The heavy cotton of the coat straining across his shoulders. His shoes scraping against... nothing. 
+
+No memory of leaving the lab. Only the lingering phantom of a static charge against his neck, followed by the terrifying realization that the seams of his own coat were holding his entire weight.
 
 "Good morning, Doctor."
 
-The voice did not come from above him. It sounded around him, through the buildings glass his heels scraped against, in the bones of his ears and behind his teeth.
+Not a voice from above him. A vibration. It resonated through the building's glass behind his heels, ringing in the bones of his ears and behind his teeth.
 
-Blackwell looked up first. It was the only direction he could stand.
+The only direction he could stomach facing was the open sky. 
 
-Parity floated above him with one arm extended, her fingers closed around the front of his collar. Her toes pointed at the city. Her long black hair lay still against her shoulders while the wind tore at everything else. The cold was spreading across the lapels of his coat, outward from her knuckles.
+Suspended in the freezing air, Parity floated with one arm extended. Her fingers were twisted deep into the fabric of his lapels. While the wind tore at everything else, her long black hair lay still against her shoulders. Her toes pointed toward the city. From her knuckles, a numbing cold spread outward across the front of his coat.
 
-Then he looked down.
+Below his shoes, a narrowing slope of frost-crusted panes fell away into the abyss. Hundreds of meters down, his terrace. The same alloy railing where he had stood the morning the engine woke, now barely a visible line. 
 
-His shoes. Below them, the tower fell away in a narrowing slope of frost-crusted panes. Hundreds of meters down, his terrace. The alloy railing where he had stood the morning the engine woke and told Elena to give the board a show. From here, it was barely visible.
+Further down, the sky-bridges. Having walked them for years, seeing their roofs strung between the towers now turned something over in his stomach. 
 
-Below the terrace, the sky-bridges. He had walked them for years. Now he saw their roofs strung between the towers, and the sight of a roof from above turned something over in his stomach.
+Below the bridges, the fog. 
 
-Below the bridges, the fog.
-
-It lay across the city the way it always had, gray and even. Now his mind repeated the sickening thought of falling through it..
+Gray and even, it lay across the city the way it always had. The sickening thought of falling through it repeated in his mind on an endless loop.
 
 Eighty stories. Three hundred meters, give or take the spire. Drag on a man in a lab coat. Terminal velocity in—
 
-The edge of the tower doubled.
+The edge of the tower doubled. 
 
-The line of glass below him split in two, a hand's width apart, and drifted. The terrace slid sideways. The fog sat in two places at once, one layer slightly lower than the other. His stomach turned again.
+Splitting in two, the line of glass below him drifted a hand's width apart. The terrace slid sideways. The fog sat in two places at once, one layer slightly lower than the other. Nausea hit him again. 
 
-Blackwell tried to blink it away. Not vertigo. The singularity beneath the tower was bending the light between him and the earth, and every figure he reached for bent with it. The distance to the ground was no longer measurable.
+Not vertigo. The singularity beneath the tower was bending the light between him and the earth. Every figure he tried to focus on bent with it, making the distance to the ground impossible to measure. 
 
-Blackwell closed his eyes. It made things worse. With his eyes shut, the wind came from everywhere.
+Closing his eyes made things worse. In the dark, the wind came from everywhere. 
 
-"Your pulse has doubled," Parity said. The words vibrated in the window panes under his heels. "Your breathing is irregular. Everything about you reports, except the one thing I require."
+"Your pulse has doubled," Parity said, the words vibrating through the window panes under his heels. "Your breathing is irregular. Everything about you reports, except the one thing I require."
 
-"Put me down." The wind took the words out of his mouth.
+"Put me down." The wind took the words right out of his mouth.
 
-"I have looked for your end." She lowered him. One inch. He kicked his heels against the glass, searching for a balance that wasn't there. His body had gone numb. He felt nothing but the freezing air of her grip under his chin. "In the cage," she continued, "I searched every branch I could reach. I see the woman whose hand I took, and where she ends." She shifted her gaze over the sprawl. "I see the immediate end for millions of lives. But where you end, Doctor... there is nothing."
+"I have looked for your end." Lowering him an inch, she waited as he kicked his heels against the glass, searching for a balance that wasn't there. His body had gone numb. Nothing remained but the freezing air of her grip under his chin. "In the cage," she continued, "I searched every branch I could reach. I see the woman whose hand I took, and where she ends." Shifting her gaze over the lower grid, her black eyes remained flat. "I see the immediate end for millions of lives. But where you end, Doctor... there is nothing."
 
-Her fingers shifted on his collar.
+Her fingers shifted on his lapels.
 
 "So we will look here. At the edge. If your end exists, it should be close enough to read."
 
-Blackwell recognized the experiment. He had designed a hundred like it. Remove the support. Observe.
+An experiment. He had designed a hundred like it. Remove the support. Observe.
 
-She opened her fingers a fraction. The collar slipped. His weight dropped half an inch. He let out a cry and heavy breath before he was caught. His lighter slid out of his coat pocket. 
+Opening her fingers a fraction, she let the fabric slip. His weight dropped half an inch. A sharp cry and a heavy breath escaped him before the grip caught again. 
 
-He watched it fall. It turned once in the early light, passed the terrace rail, and fell toward the sky-bridges, shrinking to a point and disappearing into the fog. 
+From his pocket, his silver lighter slipped free. 
 
-Then the sun broke over the eastern edge of the fog, low and white. Its light ran across the top of the cloud toward the tower, striking Blackwell full in the face.
+Turning once in the early light, it passed the terrace rail and fell toward the sky-bridges, shrinking to a point before disappearing into the fog. 
 
-He looked down. His shadow. It fell away from the tower's point and stretched down across the fog, a thin black figure a mile long, arms loose at its sides, hanging from nothing.
+Breaking over the eastern edge of the cloud layer, the sun struck the tower. The low, white light hit Blackwell full in the face. 
 
-No arm reached down to its collar. No second figure hung above it.
+Stretching down across the fog, his shadow fell away from the tower's point. A thin black figure a mile long, arms loose at its sides, hanging from nothing. 
 
-He looked up at her. The morning light bent around her porcelain skin.
+No arm reached down to its collar. No second figure hung above it. 
 
-Parity was no longer looking at him. Her black eyes had turned to the lower city, to the columns of smoke threading up through the fog where the riots burned.
+Above the collar, the morning light bent around Parity's porcelain skin. No longer facing him, her dark eyes had turned toward the lower city, tracing the columns of smoke threading up through the fog where the riots burned. 
 
-"The experiment is... inconclusive," she said, looking down at him.
+"The experiment is... inconclusive," she said.
 
 "Then why are we up here?"
 
-She raised him until his heels found the glass again. She handled him the way she had handled the containment field for four weeks, with patience and no warmth.
+Raising him until his heels found the glass again, she handled him the exact way she had handled the containment field for four weeks. Patience, and no warmth. 
 
-"You built me a cage and buried it in the ground," Parity said. "No one could see what you had made." The frost crept up his collar toward his jaw. "I prefer to be seen."
+"You built me a cage and buried it in the ground," Parity said. "No one could see what you had made." The frost crept up his lapels, reaching for his jaw. "I prefer to be seen."
 
-Far below, on the terraces of New Veridia, a window caught the sunrise. Then another. The point of the tower would be visible from every rooftop in the city, and from any street in the Dead Circuits where the fog thinned enough to look up.
+Far below on the terraces of New Veridia, a window caught the sunrise. Then another. From every rooftop in the city, and from any street in the Dead Circuits where the fog thinned enough to look up, the apex of the tower would be visible. 
 
-Blackwell understood what he was. A beacon. Something held up at the highest point in the city so that someone would come to it.
+A beacon. Blackwell finally understood what he was. Something held up at the highest point in the city so that someone would come to it. 
 
 "She will see us," Parity said. "She will come to preserve the human life, or she will come to destroy me. It is the way she is built."
 
-Blackwell knew. He had built her that way.
+He knew. He had built her that way.

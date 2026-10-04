@@ -103,7 +103,7 @@ But before they could breach the office, the familiar sound echoed through the h
 
 Only this time, the metallic ring was hollow and slightly out of tune.
 
-Victor looked down. A canister with a faded yellow band had rolled to a stop against the toe of his standard-issue dress shoes, having bounced off the metal doorframe of the office.
+A canister with a faded yellow band had rolled to a stop against the toe of his standard-issue dress shoes, having bounced off the metal doorframe of the office.
 
 He felt the abrupt, hardened force of Harlan grabbing his coat with both hands, twisting him backward as they fell against the wall. 
 

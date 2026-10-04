@@ -35,7 +35,7 @@ Rin shot back, her voice tightening. "If I give you the Madame, the Filament wil
 
 Victor's posture instantly shifted. He closed the distance until she could feel his breath against her cheek. His voice was absolute. "Do you want to know why you're still sitting here, kid?" He didn't wait for her to answer. "Because nobody at Renewal saw us walk you out of that building. They don't know you're in my custody. They don't know we caught their little security issue."
 
-Rin blinked her eyes, turned her head and looked up at him. For the first time in a month, the reality clicked into place. It answered the single question she had been asking herself repeatedly in her cell: Why hadn't Renewal come to take care of her?
+Rin looked up at him. For the first time in a month, the reality clicked into place. It answered the single question she had been asking herself repeatedly in her cell: Why hadn't Renewal come to take care of her?
 
 Victor shot a subtle glance toward the security camera in the top corner of the room. "They think you're sitting in a cell for auto theft. The Madame left you to rot here for a month. She already burned you. I am the only wall between you and Renewal."
 

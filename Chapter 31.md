@@ -1,7 +1,7 @@
 ---
 music: Vacuum Hush.mp3
 ---
-Elena lay on the stretcher in the back of the ambulance, clutching her ribs. She watched the bokeh glow of the streetlights through the wet glass of the rear windows. 
+Elena lay on the stretcher in the back of the ambulance, clutching her ribs. Streetlights blurred through the wet glass of the rear windows. 
 
 Ten minutes ago, the siren had cut out. The ambulance had hijacked itself. The power died, and it settled onto its cushion on a quiet street in the rain.
 
@@ -31,7 +31,7 @@ Iris sat back on her heels and pushed her cracked glasses up her nose. "It's the
 
 "Where are we?"
 
-Iris stopped. She looked back toward the cab, at the dark windshield. The street beyond it was empty. No fires. No crowd. A row of iron pillars stood in the fog, and overhead, the underside of an elevated mag-train line ran black against the clouds.
+Iris stopped. Beyond the dark windshield, the street was empty. No fires. No crowd. A row of iron pillars stood in the fog, and overhead, the underside of an elevated mag-train line ran black against the clouds.
 
 "I don't know," Iris said.
 

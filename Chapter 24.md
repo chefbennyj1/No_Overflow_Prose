@@ -75,7 +75,7 @@ Victor stepped back. The alarm fired. The guard stood an arm's length away, as s
 
 The room went dark. Victor trained his revolver on the synthetic's silhouette. "Stop right there, canner."
 
-The alarm fired. The synthetic turned its head toward him without hurrying. Victor could see the machine's expression wasn't generic. There was a soulish feature hidden in the eyes. 
+The alarm fired. The synthetic turned its head toward him without hurrying. The machine's expression wasn't generic. There was a soulish feature hidden in the eyes. 
 
 The dark returned. The synthetic reached out and grabbed the barrel of the revolver, causing the magnetic rails to spark and overheat in his hand.
 

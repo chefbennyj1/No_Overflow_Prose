@@ -14,7 +14,7 @@ Blackwell's voice still echoed in her head, sharp enough to make her wince.
 
 When the shadow process had appeared in the readout, her brain hadn't filtered it out. She had seen the exact moment the shadow process was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
 
-Iris looked at the lifeless synths down on the main floor, in their long white laboratory coats. Their optical sensors pulsed out of rhythm, lowly against their vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
+Down on the main floor, the synths stood lifeless in their long white laboratory coats. Their optical sensors pulsed out of rhythm, lowly against their vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
 
 The synthetics weren't only executing maintenance cycles; they were active accomplices in Blackwell's lie. 
 
@@ -32,7 +32,7 @@ Iris stood up. Her footsteps were silent on the metal grating as she crossed the
 
 Thirty floors above, Elena Marlowe walked alone across a high-altitude pedestrian sky-bridge, the morning sun breaking harsh and blinding against the expanse of the Towers. 
 
-She glanced out through the glass. Blackwell preferred to take his breaks on the lower terraces. Up here, the sector was a marvel of pristine order. An expanse of towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
+Blackwell preferred to take his breaks on the lower terraces. Up here, the sector was a marvel of pristine order. An expanse of towers pierced the sky, connected by the intricate web of tiered walkways. Small, precise holographic readouts hovered at every intersection, glowing with crisp level names and directions. 
 
 
 Elena turned away from the glass and approached the main concourse, exiting the sky-bridge to step out onto a suspended walkway midway up the Takeda-Holden corporate atrium. 
@@ -44,7 +44,7 @@ Elena didn't break stride, moving through the turnstiles with practiced authorit
 She was early. She hadn't slept well. The inability to shut down the horizon memory the day before still nagged at the back of her mind, despite Blackwell's confident dismissals. She stepped into the private executive elevator, pressing her thumb to the button for the lab level. The descent was smooth, and silent.
 
 ***
-Iris looked around the office. Framed diplomas hung next to shelves filled with rows of thick books. No one had physical books anymore.
+Framed diplomas hung next to shelves filled with rows of thick books. No one had physical books anymore.
 
 Iris approached the shelf, reaching out. Her fingertips brushed the textured spines. It was rare to feel the dry, fibrous friction of real paper. She stepped closer, her hip catching the edge of a glass award sitting on the desk. 
 
@@ -56,7 +56,7 @@ Out on the lab floor, the blue optical sensor of a dormant synthetic's iris flic
 
 A long, agonizing second passed. The synthetic's sensor finally dimmed back to a dull standby glow. 
 
-She exhaled a long breath of relief. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data-pads scattered everywhere. Then, her eyes drifted back to the shelf. 
+She exhaled a long breath of relief. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data-pads scattered everywhere. 
 
 Wedged between two books was a physical, leather-bound portfolio. The header didn't bear a corporate logo. It was a theoretical paper authored by Silas Blackwell, dated three years before the Engine was even built. 
 
@@ -81,7 +81,7 @@ The lab doors parted. Elena stepped into the main lab, the overhead lights autom
 
 Across the floor, the dormant synthetics woke in unison. Their optics switched from the slow sleepy pulse to their recognizable glow. They turned smoothly to acknowledge Elena's arrival.
 
-Elena paused, her eyes adjusting to the glare. She looked up toward the mezzanine. Sitting still at her terminal, was Iris. 
+Elena paused, her eyes adjusting to the glare. Up on the mezzanine, Iris sat still at her terminal. 
 
 The boundary analyst was tapping a stylus against her desk. 
 

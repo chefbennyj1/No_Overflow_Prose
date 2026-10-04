@@ -11,7 +11,7 @@ Vigil moved through the physical world with a hyper-optimized precision. Her gai
 
 A looter rushed past them on the pavement. He looked at Vigil, his eyes growing wide as all the color ran from his face. He stumbled into Rin, cursing frantically as he pushed off her to get his bearings, before breaking into a terrified sprint.
 
-Sirens sounded behind them. Rin looked back over her shoulder. Blocks away, police mag-cars, their red and blue lights diffusing in the fog, ignored the stoplights and sped through the intersections. 
+Sirens sounded behind them. Blocks away, police mag-cars, their red and blue lights diffusing in the fog, ignored the stoplights and sped through the intersections. 
 
 "Something tells me the police are not out to stop the looting," Rin choked out. She stopped running, resting her hands on her knees. "Just—just hold on."
 
@@ -34,7 +34,7 @@ The police cruiser came to an idle at the side of the road. The spotlight focuse
 
 Vigil remained silent. 
 
-The two figures were backlit by the spotlight as they walked forward. Rin could see their untucked and disheveled standard-issue Oshima police uniforms. 
+The two figures were backlit by the spotlight as they walked forward. Their standard-issue Oshima police uniforms were untucked. 
 
 "I'm talkin' to you, canner," the officer yelled, lighting a cigarette and blowing the smoke into the fog. "You know, after today, I don't like canners who don't do what they're told."
 
@@ -75,7 +75,7 @@ The sharp, mechanical double-clack of a Renewal-issue assault shotgun chambering
 
 Rin felt Vigil's hands finally release her wrists. The realization hit her, the machine had been tracking the timeline, stalling the cops.
 
-Rin looked past Sully. Before she even registered the face, she saw the worn, familiar sleeves of her own leather jacket. Harper was standing behind Brask, the rain matting her hair flat against her face. She jabbed the black barrel of the assault shotgun hard against his back, her head tilted forward with a fierce concentration in her eyes as she looked over his shoulder. 
+Behind Sully, before the face even registered, Rin knew the worn sleeves of her own leather jacket. Harper was standing behind Brask, the rain matting her hair flat against her face. She jabbed the black barrel of the assault shotgun hard against his back, her head tilted forward with a fierce concentration in her eyes as she looked over his shoulder. 
 
 Sully froze as he caught the glowing text beneath Vigil's left eye. "What the—" His cocky posture vanished. "She's Renewal." He stared at the serial number. He was suddenly a man caught between a military-grade shotgun in his partner's back, and a corporate killer.
 

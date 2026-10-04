@@ -68,5 +68,5 @@ The recursive energy of the singularity was unalterable. Vigil herself could not
 
 Parity turned her gaze back with a vacant condescension. Bronze holographic circuitry flared across her skin as she closed her hand into a fist.
 
-Vigil looked back toward the singularity. Flares of white light were already fracturing across the horizon.
+Flares of white light were already fracturing across the horizon.
 

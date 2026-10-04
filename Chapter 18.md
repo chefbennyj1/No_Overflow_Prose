@@ -29,7 +29,7 @@ A second later, the backup relays clicked. Battery-powered emergency strips flic
 
 "What? That shouldn't happen," Iris whispered. She pushed her glasses back into position on her face. 
 
-"What 'shouldn't happen', Miss Ito?" Detective Graves looked around the hallway. Renewal agents were mobilizing while workers and synthetics moved quickly toward the end of the hallway.
+"What 'shouldn't happen', Miss Ito?" Detective Graves asked. Renewal agents were mobilizing while workers and synthetics moved quickly toward the end of the hallway.
 
 "Detectives—" Iris looked frantically at her screen. "There is a containment breach." She scrolled quickly through the data.
 
@@ -47,6 +47,6 @@ Victor froze in the hallway. He took a slow step forward, the blue glare of her 
 
 "Vic," Harlan said, grabbing his partner's arm. "I know what you're thinking, but when a person in a lab coat says 'paradox', and 'extinction', I think it's time to leave."
 
-Looking at the detectives, Iris let out a nervous half laugh. "Well, technically nowhere is safe—so, there is also that." 
+Iris let out a nervous half laugh. "Well, technically nowhere is safe—so, there is also that." 
 
 Victor Graves cut her off. "Take me to the sub-level, Miss Ito!"

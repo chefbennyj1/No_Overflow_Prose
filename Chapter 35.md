@@ -8,13 +8,11 @@ Victor knew where that ramp went. Four weeks ago, he had brought Null up it in c
 
 "They already got in," Harlan said.
 
-"Yeah." Victor looked at the open doors. "Sometime last night."
+"Yeah," Victor said. "Sometime last night."
 
 He got out of the car.
 
 The cold went straight through his coat. His breath clouded in front of him. The statues of gods and goddesses that lined the plaza were covered in frost, their faces glittering in the early light.
-
-He looked up.
 
 From the avenue, it had been a shape at the top of the spire. From here, it had a body.
 

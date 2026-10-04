@@ -11,7 +11,7 @@ The lights overhead flickered again. This time, they stayed dim longer before su
 
 Iris backed away from the window, her breathing shallow and rapid. "The Company is going to lock down the hospital," she whispered. "We're out of time."
 
-Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital gown clinging to her battered frame. She watched Iris pace at the foot of the mattress. 
+Elena Marlowe lay in the mechanical bed, her ribs wrapped tight, a thin hospital gown clinging to her battered frame. Iris paced at the foot of the mattress. 
 
 "Iris," Elena rasped, her throat still raw. 
 
@@ -202,7 +202,7 @@ The street outside was worse.
 
 A barricade of overturned mag-cars burned across the intersection, and beyond it, the crowd moved like water against the black shields of a Renewal line. Somewhere a megaphone was shouting a slogan Iris couldn't make out, and a hundred voices threw it back.
 
-Iris turned and looked up. The hospital rose out of the street and disappeared into the cloud cover overhead, and the fog where it swallowed the upper floors glowed orange from inside.
+Behind them, the hospital rose out of the street and disappeared into the cloud cover overhead, and the fog where it swallowed the upper floors glowed orange from inside.
 
 "Iris." Elena's weight sagged against her. "We can't walk out of this."
 

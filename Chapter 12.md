@@ -8,7 +8,7 @@ She stared up through the clearing. For the first time in years, she saw stars. 
 
 "You're staring," Rin said. 
 
-Harper broke her gaze from the sky and looked back down at the street. She turned her attention to Rin, who stood steps away, her jacket collar turned up against the localized cold. 
+Rin stood a few steps away, her jacket collar turned up against the localized cold. 
 
 "We're never gettin' through that lobby," Harper said, her voice cynical. The main concourse of the building was a fortress, and she knew it. 
 

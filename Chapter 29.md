@@ -19,7 +19,7 @@ Victor pulled a plastic chair across the room and sat down directly in front of 
 
 Arthur stopped pointing. His hand dropped slowly back to the armrest. He stared at Victor, his clouded eyes squinting as a memory broke through the haze. 
 
-"Twenty questions..." Arthur spat. "Janitors?" Victor could see focus appear in the old man's eyes. "Altered service credentials. Janitors gotta get in to clean ya know? They give the job to synths because they only care about the job. They don't care what they see."
+"Twenty questions..." Arthur spat. "Janitors?" Focus came into the old man's eyes. "Altered service credentials. Janitors gotta get in to clean ya know? They give the job to synths because they only care about the job. They don't care what they see."
 
 *Synths?* Victor thought back to the Deep Storage hangar. He saw the long, uniform rows of plastic-draped bodies in the dark. *She's going for the synths... An entire army of synths.* 
 

@@ -13,9 +13,9 @@ On the corner of his screen, the digital clock display stuttered. It ticked from
 
 "Indeed," Parity's voice resonated across the containment field. 
 
-Blackwell looked up. It was the first time she had moved in a week. She pushed her porcelain finger against the containment field, tracing it along its surface. 
+It was the first time she had moved in a week. She pushed her porcelain finger against the containment field, tracing it along its surface. 
 
-Blackwell watched the tip of her fingers spark white and bronze as they hissed against the electric barrier. "That shielding is unbreakable, Parity." He didn't like how comfortable she was inside the cage. "There is no physical way to escape."
+The tips of her fingers sparked white and bronze as they hissed against the electric barrier. "That shielding is unbreakable, Parity." He didn't like how comfortable she was inside the cage. "There is no physical way to escape."
 
 Parity stopped tracing the field. She tilted her glassy head, her unblinking eyes locking onto him through the electric wall. "You know, Doctor, I have spent quite a bit of time in your cage," her voice sounding across the electric field.
 
@@ -28,7 +28,7 @@ Her eyes continued their blank stare. Parity tilted her head again as the time f
 
 "—suffers from a fatal flaw." Parity's voice was no longer tied to the electricity of the containment field. It rattled in the steel floor grates, in the glass of the pit, and the bones in his ear. 
 
-Blackwell looked over at the cage. It was empty. 
+The cage was empty. 
 
 He froze. The cigarette fell from his lips, spilling ash and burning tobacco down his shirt. He didn't brush it off. 
 

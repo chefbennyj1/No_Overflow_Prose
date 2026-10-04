@@ -51,7 +51,7 @@ Harper’s head snapped toward the synthetic. “Hey—if you know something, no
 
 "—create a barricade," Vigil’s broken voice hung between them.
 
-"Harper, stop." Rin stopped in the shadows of the dormant army. She looked at the frantic girl, the math was already complete: the detective had the main doors; his partner had the tunnel. They had made it this far, and had Vigil. There was no clean way to save them all. It was Checkmate. 
+"Harper, stop." Rin stopped in the shadows of the dormant army. The math was already complete: the detective had the main doors; his partner had the tunnel. They had made it this far, and had Vigil. There was no clean way to save them all. It was Checkmate. 
 
 "Checkmate." Vigil's head fell forward.
 

@@ -61,14 +61,14 @@ The entity vanished toward Blackwell in a blur of fractured motion. *No!* Elena 
 
 There was a deafening crack of electrical current that shook the floor grates beneath her cheek. A cylindrical field of light crashed down in the center of the room, surrounding Parity. *Blackwell had made it to his station.*
 
-Parity slammed its body violently against the beam, sending electrical discharges rippling over the container's surface and grounding to the floor. Finally, silence. It stopped. Elena could see the figures toes floating above the floor. 
+Parity slammed its body violently against the beam, sending electrical discharges rippling over the container's surface and grounding to the floor. Finally, silence. It stopped. The figure's toes floated above the floor. 
 
 The electricity of the enclosure shook with Parity's voice. "I see." It slid it's index finger along the electric field of the container. "Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Blackwell?"
 
 Elena's vision started to tunnel as Blackwell's feet raced across the lab toward her.
 
 The weightlessness was back. The crushing pain in her chest subsided.
-Elena looked up. Far above her, the space had changed. It no longer appeared empty; instead, it took on a blueish tinge.
+Far above her, the space had changed. It no longer appeared empty; instead, it took on a blueish tinge.
 
 *This is not 'Nothing'. This is 'Something'.* 
 
