@@ -16,13 +16,13 @@ Parity floated above him with one arm extended, her fingers closed around the fr
 
 Then he looked down.
 
-His shoes. Below them, the tower fell away in a narrowing slope of frost-crusted panes. Twenty meters down, his terrace. The alloy railing where he had stood the morning the engine woke and told Elena to give the board a show. From here, it was barely visible.
+His shoes. Below them, the tower fell away in a narrowing slope of frost-crusted panes. Hundreds of meters down, his terrace. The alloy railing where he had stood the morning the engine woke and told Elena to give the board a show. From here, it was barely visible.
 
 Below the terrace, the sky-bridges. He had walked them for years. Now he saw their roofs strung between the towers, and the sight of a roof from above turned something over in his stomach.
 
 Below the bridges, the fog.
 
-It lay across the city the way it always had, gray and even. He had always thought of it as a floor. A man falling through it would find out it was air.
+It lay across the city the way it always had, gray and even. Now his only mind repeated the sickening thought of falling through it..
 
 His mind went to work. Eighty stories. Three hundred meters, give or take the spire. Drag on a man in a lab coat. Terminal velocity in—
 
@@ -48,7 +48,7 @@ Blackwell recognized the experiment. He had designed a hundred like it. Remove t
 
 She opened her fingers a fraction. The collar slipped. His weight dropped half an inch. He let out a cry and heavy breath before he was caught. His lighter slid out of his coat pocket. 
 
-He watched it go. It turned once in the early light, passed the terrace rail, and fell toward the sky-bridges, shrinking to a point and disappearing into the fog. 
+He watched it fall. It turned once in the early light, passed the terrace rail, and fell toward the sky-bridges, shrinking to a point and disappearing into the fog. 
 
 Then the sun broke over the eastern edge of the fog, low and white. Its light ran across the top of the cloud toward the tower, striking Blackwell full in the face.
 
