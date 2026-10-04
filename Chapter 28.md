@@ -212,13 +212,13 @@ Iris got Elena to the back of the ambulance and half lifted, half rolled her ont
 
 The driver's seat was still warm. The dashboard was dark.
 
-A scanner glowed beside the steering yoke, waiting for a credential. Iris looked down at the stolen badge clipped to her chest.
+A scanner glowed beside the steering wheel, waiting for a credential. Iris looked down at the stolen badge clipped to her chest.
 
 She swiped it.
 
 The dashboard woke. The cushion engaged with a shudder, and the ambulance lifted off the concrete and hung there, rocking.
 
-Iris had never driven one of these. She had never driven anything larger than a commuter car. She stared at the controls through the crack running across her left lens, which split the windshield into two uneven halves, and she read the console the way she read the boundary readouts in the lab. Throttle. Yoke. Cushion trim. Siren.
+Iris had never driven one of these. She had never driven anything larger than a commuter car. She stared at the controls through the crack running across her left lens, which split the windshield into two uneven halves, and she read the console the way she read the boundary readouts in the lab. Throttle. Cushion trim. Siren.
 
 Something hit the windshield. A white star bloomed in the glass, inches from her face.
 
