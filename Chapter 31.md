@@ -113,4 +113,4 @@ Harper looked from the synthetic to the fog and back again. She took the cigaret
 
 Iris got an arm under Elena's shoulders and helped her down from the stretcher. Elena turned back toward Vigil. She had stopped and was staring into the fog. The synth looked toward the part of the city where the tower stood, as if something out there had turned its head to look at her.
 
-The five of them walk into the rain swept streets of the lower city.
+Vigil turned away from the fog and got into the driver's seat. Harper and Iris lifted Elena back onto the stretcher, and Rin pulled the rear doors shut.
