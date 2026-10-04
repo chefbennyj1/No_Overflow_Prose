@@ -1,8 +1,7 @@
 ---
 music: Parity_Theme.mp3
 ---
-The wind hit him before he opened his eyes. 
-It whipped up under the lab coat, snapping the hem against his ankles. The collar bit into his throat hard enough to stop his breath.
+He felt the wind hit him before he opened his eyes.  It whipped up under the lab coat, snapping the hem against his ankles. The cold grip on his collar bit into his throat hard enough to stop his breath. 
 Blackwell opened his eyes. A blurry light. The fabric of his shirt dug into his skin, under his arms. His shoes hung over nothing. 
 
 He did not remember leaving the lab. The last thing he felt was the static charge on his neck. Now, the fabric of his own coat held his entire weight.
@@ -13,11 +12,11 @@ The voice did not come from above him. It sounded through the tower, through the
 
 Blackwell looked up first. It was the only direction he could stand.
 
-Parity floated above him with one arm extended, her fingers closed around the front of his collar. Her toes pointed at the city. Her long black hair lay still against her shoulders while the wind tore at everything else. Frost was spreading across the lapels of his coat, outward from her knuckles.
+Parity floated above him with one arm extended, her fingers closed around the front of his collar. Her toes pointed at the city. Her long black hair lay still against her shoulders while the wind tore at everything else. The cold was spreading across the lapels of his coat, outward from her knuckles.
 
 Then he looked down.
 
-His shoes. Below them, the tower fell away in a narrowing slope of white-crusted panes. Twenty meters down, his terrace. The alloy railing where he had stood the morning the engine woke and told Elena to give the board a show. From here, it was barely visible.
+His shoes. Below them, the tower fell away in a narrowing slope of frost-crusted panes. Twenty meters down, his terrace. The alloy railing where he had stood the morning the engine woke and told Elena to give the board a show. From here, it was barely visible.
 
 Below the terrace, the sky-bridges. He had walked them for years. Now he saw their roofs strung between the towers, and the sight of a roof from above turned something over in his stomach.
 
