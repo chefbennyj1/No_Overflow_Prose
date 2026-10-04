@@ -32,7 +32,7 @@ The line of glass below him split in two, a hand's width apart, and drifted. The
 
 Blackwell tried to blink it away. Not vertigo. The singularity beneath the tower was bending the light between him and the earth, and every figure he reached for bent with it. The distance to the ground was no longer measurable.
 
-Blackwell closed his eyes. It made things worse. With his eyes shut, the wind was the only thing telling him which way was down, and the wind came from everywhere.
+Blackwell closed his eyes. It made things worse. With his eyes shut, the wind came from everywhere.
 
 "Your pulse has doubled," Parity said. The words vibrated in the window panes under his heels. "Your breathing is irregular. Everything about you reports, except the one thing I require."
 

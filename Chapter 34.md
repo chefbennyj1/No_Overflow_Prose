@@ -4,7 +4,7 @@ Harper keyed the door open, and the heavy mahogany swung inward. The luxury suit
 
 Iris pushed through the door, half-carrying Elena. She was shivering, clutching her battered ribs beneath the hospital gown. Iris guided her to the edge of the low, wide bed, easing her down onto the pristine white sheets. 
 
-Rin followed them inside, her heavy boots leaving faint tracks of soot on the carpet. A month in a holding cell had left the former detective looking utterly exhausted, hollowing out her cheeks. Faded, yellowing bruising painted the side of her jaw and circled her eye—the old, lingering violence of crooked cops. She was battered, dirty, and profoundly out of place in the luxury suite. 
+Rin followed them inside, her heavy boots leaving faint tracks of dirt on the carpet. A month in a holding cell had left the her looking utterly exhausted, hollowing out her cheeks. Faded, yellowing bruising painted the side of her jaw and circled her eye—the old, lingering violence of crooked cops. She was battered, dirty, and profoundly out of place in the luxury suite. 
 
 Taking in the sight of her in the bright light of the room, Harper finally saw the true physical cost of her incarceration. 
 
@@ -16,11 +16,9 @@ Rin reached up, her fingers brushing the skin along her jaw. "Only for the first
 
 "I don't know," Rin said, dropping her hand. "Nobody said anything. They just never laid hands on me again."
 
-Vigil stepped into the room last. The synthetic closed the mahogany door, the lock clicking loudly in the quiet suite. She didn't sit. For the past month, she had observed Harper navigating trauma and survival. Now, she was calculating the variables of an entire room of desperate humans. 
+Vigil stepped into the room last. The synthetic closed the door, the lock clicking loudly in the quiet suite. She didn't sit. For the past month, she had observed Harper navigating trauma and survival. Now, she was calculating the variables of an entire room of desperate humans. 
 
-Elena stared at the machine from the edge of the bed. Her creation. 
-
-Her black vinyl skin reflected the dim ambient light of the suite. In the underground storage facility, the temporary synthetic body had been tethered to peristaltic pumps, circulating blue bio-compute fluid through its frame. Rin had torn those lines out to wake her. Without the Company-supplied fluid, Vigil's internal systems were starving. 
+Elena stared at the machine from the edge of the bed. Her creation. Her black vinyl skin reflected the dim ambient light of the suite. 
 
 "We've been able to get bio-fluid for her here and there," Harper said, noticing Elena's gaze. "But she needs more. Soon."
 
