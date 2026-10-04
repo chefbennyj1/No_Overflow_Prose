@@ -22,9 +22,9 @@ Below the terrace, the sky-bridges. He had walked them for years. Now he saw the
 
 Below the bridges, the fog.
 
-It lay across the city the way it always had, gray and even. Now his only mind repeated the sickening thought of falling through it..
+It lay across the city the way it always had, gray and even. Now his mind repeated the sickening thought of falling through it..
 
-His mind went to work. Eighty stories. Three hundred meters, give or take the spire. Drag on a man in a lab coat. Terminal velocity in—
+Eighty stories. Three hundred meters, give or take the spire. Drag on a man in a lab coat. Terminal velocity in—
 
 The edge of the tower doubled.
 

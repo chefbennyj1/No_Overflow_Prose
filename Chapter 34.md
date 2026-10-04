@@ -20,8 +20,6 @@ Vigil stepped into the room last. The synthetic closed the door, the lock clicki
 
 Elena stared at the machine from the edge of the bed. Her creation. Her black vinyl skin reflected the dim ambient light of the suite. 
 
-"We've been able to get bio-fluid for her here and there," Harper said, noticing Elena's gaze. "But she needs more. Soon."
-
 Iris stood up from the bed, pushing her cracked glasses up her nose. She looked around the immaculate room, then walked toward the massive floor-to-ceiling window. Below them, the smog of the lower city formed a dense, bruised ceiling. But up here, eighty stories high, the sky was clear. 
 
 "What is happening to it?" Iris asked, her voice trembling.
