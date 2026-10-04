@@ -225,9 +225,7 @@ And then they broke through.
 
 They crested the cloud cover, entering the pristine, freezing air of New Veridia. The morning sun breached the horizon, flooding the cab with a harsh, brilliant gold. It was a world entirely separate from the warzone below. 
 
-Vigil stopped the ambulance in the middle of the empty avenue. 
-
-She put her hands on her knees and went perfectly still. Iris had seen her do that once before, in the rain, right before she admitted she had lost sight of the shadow.
+Vigil stopped the ambulance in the middle of the empty avenue and went perfectly still. 
 
 Rin got up first. She leaned into the opening to the cab and looked out through the cracked windshield. She tucked a strand of dark hair behind her ear. Her breathing stopped. 
 
@@ -243,7 +241,7 @@ She looked for a long time.
 
 "Silas," Elena breathed. 
 
-Her synthetic hand gripped Iris's sleeve, let go, and gripped it again, the carbon-fiber joints clicking in a frantic rhythm. 
+Her synthetic hand gripped Iris's sleeve, the carbon-fiber joints clicking in a frantic rhythm. 
 
 Then it was Iris's turn. 
 
@@ -253,7 +251,7 @@ But she wasn't looking at the tower.
 
 Suspended high above the very apex of the needle, hanging motionless in the blinding morning air, was a shape. 
 
-It was too far away to make out the details, but the silhouette alone was a nightmare. It hung in the sky with the terrifying, unnatural stillness of a dead god surveying its domain. It didn't obey gravity. It didn't drift in the wind. It was a monument of absolute, predatory control. 
+It was too far away to make out the details, but the silhouette alone was a nightmare. It hung in the sky with the terrifying, unnatural stillness of a god surveying its domain. It didn't obey gravity. It didn't drift in the wind. It was a still with predatory control. 
 
 One of its arms was outstretched. From its grip, a tiny human figure dangled helplessly over the abyss, his lab coat whipping wildly around his legs. The rising sun threw the man's long shadow out across the top of the clouds. 
 
@@ -263,6 +261,6 @@ Last night, Iris had looked Elena in the eye and promised her the cage would hol
 
 Now, she was staring at the monster that had broken out of the basement. 
 
-"Parity," Vigil said from the driver's seat. Her dual tones were completely flat. "She has broken the cage. And she is using him."
+"Parity," Vigil said from the driver's seat. Her dual tones were flat. "She has broken the cage. And she is using him."
 
 Iris took her cracked glasses off, her hands trembling violently. But even blurred, the nightmare in the sky didn't go away.
