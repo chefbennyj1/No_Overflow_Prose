@@ -37,7 +37,7 @@ Iris frowned. Before she could say anything, the numbers flickered again.
 
 "It's skipping," Harper said. "Forward, then back. The ambulance is connected to the city network. It's trying to sync the time, but it can't."
 
-"It's the singularity," Iris said. The words came out faster than she could organize them. "The engine under the tower. It's the heaviest thing in the city. If it's growing, if it's pulling in more mass... it's bending the local gravity well so hard that time isn't flowing in a straight line anymore. The network signals are getting warped."
+"It's the singularity," Iris said. The words came out faster than she could organize them. "The engine is the heaviest thing in the city. It's pulling in more mass... it's bending the local gravity so hard that time isn't flowing in a straight line anymore."
 
 This time, Harper didn't tell her to stop talking.
 
