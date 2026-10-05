@@ -1,6 +1,6 @@
 The ambulance moved through the lower city with its lights off and the siren silent.
 
-Iris sat on the jump seat beside the stretcher, counting the turns. She could hear the riot through the walls, rifles and a crowd shouting somewhere to the east, but every street the synthetic chose was empty. They passed a barricade of mag-cars with nobody behind it. A block later, a Renewal riot shield lay face-up in the gutter, filling with rain.
+Iris sat on the jump seat beside the stretcher, counting the turns. The walls of the ambulance cut off the sound of the city, but the evidence of the riot was everywhere. They passed a barricade of mag-cars with nobody behind it. A block later, a Renewal riot shield lay face-up in the gutter, filling with rain. Yet every street the synthetic chose was dead empty.
 
 The dashboard had restarted the moment the synthetic sat down in the driver's seat. It knew where the fighting would be before they got there. Iris had spent years reading boundary data. She knew a calculated route when she saw one.
 
