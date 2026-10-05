@@ -19,7 +19,7 @@ Below his shoes, a narrowing slope of frost-crusted panes fell away into the spr
 
 Further down, his terrace. The same alloy railing where he had stood the morning the engine woke, now barely a visible line. 
 
-Below the bridges, the fog. 
+Below the terrace, the fog. 
 
 Gray and even, it lay across the city the way it always had. The sickening thought of falling through it repeated in his mind.
 
