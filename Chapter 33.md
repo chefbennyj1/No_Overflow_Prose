@@ -1,27 +1,27 @@
 ---
 music: Parity_Theme.mp3
 ---
-The wind hit him first. A freezing current whipping up under his lab coat, snapping the hem against his ankles. Before he could even open his eyes, the brutal, biting tension at the back of his collar choked off his breath. 
+The wind hit him first. A freezing current whipping up under his lab coat, snapping the hem against his ankles. Before he could even open his eyes, the cold grip at his throat bit in hard enough to stop his breath.
 
-A blurry light. The heavy cotton of the coat straining across his shoulders. His shoes scraping against... nothing. 
+A blurry light. The fabric of his shirt dug into his skin, under his arms. His shoes hung over nothing—scraping against... nothing. 
 
-No memory of leaving the lab. Only the lingering phantom of a static charge against his neck, followed by the terrifying realization that the seams of his own coat were holding his entire weight.
+No memory of leaving the lab. Only the haunting feeling of a static charge against his neck, followed by the terrifying realization that the seams of his own coat were holding his entire weight.
 
 "Good morning, Doctor."
 
-Not a voice from above him. A vibration. It resonated through the building's glass behind his heels, ringing in the bones of his ears and behind his teeth.
+Not a voice from above him. A vibration. It resonated through the building's glass under him, ringing in the bones of his ears and behind his teeth.
 
-The only direction he could stomach facing was the open sky. 
+The only direction he could stomach facing was up toward the sky. 
 
-Suspended in the freezing air, Parity floated with one arm extended. Her fingers were twisted deep into the fabric of his lapels. While the wind tore at everything else, her long black hair lay still against her shoulders. Her toes pointed toward the city. From her knuckles, a numbing cold spread outward across the front of his coat.
+Suspended in the freezing air, Parity floated with one arm extended. Her fingers were twisted deep into the fabric of his lapel. While the wind tore at everything else, her long black hair lay still against her shoulders. Her toes pointed toward the city. From her knuckles, a numbing cold spread outward across the front of his coat.
 
-Below his shoes, a narrowing slope of frost-crusted panes fell away into the abyss. Hundreds of meters down, his terrace. The same alloy railing where he had stood the morning the engine woke, now barely a visible line. 
+Below his shoes, a narrowing slope of frost-crusted panes fell away into the sprawl of New Veridia. Hundreds of meters down, the sky-bridges. Having walked them for years, seeing their roofs strung between the towers now turned something over in his stomach. 
 
-Further down, the sky-bridges. Having walked them for years, seeing their roofs strung between the towers now turned something over in his stomach. 
+Further down, his terrace. The same alloy railing where he had stood the morning the engine woke, now barely a visible line. 
 
 Below the bridges, the fog. 
 
-Gray and even, it lay across the city the way it always had. The sickening thought of falling through it repeated in his mind on an endless loop.
+Gray and even, it lay across the city the way it always had. The sickening thought of falling through it repeated in his mind.
 
 Eighty stories. Three hundred meters, give or take the spire. Drag on a man in a lab coat. Terminal velocity in—
 
