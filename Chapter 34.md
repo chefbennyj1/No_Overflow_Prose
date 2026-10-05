@@ -8,25 +8,13 @@ Elena lay on the stretcher under a thermal blanket, strapped in at the chest and
 
 Iris unclipped the stolen badge from her shirt. The name on it was of a doctor she had never met. She set it face-down on the cabinet.
 
-Harper sat back. She stared at the digital clock glowing on the dashboard of the ambulance. She watched it for a long time before she leaned forward. 
-
-"Lady..."
+Harper sat back. She stared at the digital clock glowing on the dashboard of the ambulance. She watched it for a long time before she leaned forward. "Lady..."
 
 Iris looked up.
 
 "You're a scientist," Harper said. She pointed a finger at the dashboard. "Look at the clock."
 
-Iris leaned across the stretcher to see. The digital numbers glowed green in the dark cab. 
-
-`05:42`
-
-Then the numbers flickered. 
-
-`05:44`
-
-Iris frowned. Before she could say anything, the numbers flickered again. 
-
-`05:41`
+Iris leaned across the stretcher to see. The digital numbers glowed green in the dark cab. The time jumped forward by twenty seconds. Then the numbers flickered and jumped back. Iris frowned. Before she could say anything, the numbers flickered again and jumped forward.
 
 "It's skipping," Harper said. "Forward, then back. The ambulance is connected to the city network. It's trying to sync the time, but it can't."
 
