@@ -1,10 +1,10 @@
 The ambulance moved through the lower city with its lights off and the siren silent.
 
-Iris sat on the jump seat beside the stretcher, counting the turns. The walls of the ambulance cut off the sound of the city, but the evidence of the riot was everywhere. They passed a barricade of mag-cars with nobody behind it. A block later, a Renewal riot shield lay face-up in the gutter, filling with rain. Yet every street the synthetic chose was dead empty.
+Iris sat on the jump seat beside the stretcher, counting the turns. The walls of the ambulance cut off the sound of the city, but the evidence of the riot was everywhere. They passed a barricade of mag-cars with nobody behind it. A block later, a Renewal riot shield lay face-up in the gutter, filling with rain. Yet every street Vigil chose was dead empty.
 
 The dashboard had restarted the moment the synthetic sat down in the driver's seat. It knew where the fighting would be before they got there. Iris recognized a calculated route when she saw one.
 
-Elena lay on the stretcher under a thermal blanket, strapped in at the chest and knees. The autoinjector had made her drowsy. Harper sat on the bench across from them with the shotgun on her lap. Rin leaned against her shoulder, still in the orange prison pants and a dirty tank top. The back of the ambulance was quiet, save for the whirring of the magnetic cushion on the wet pavement.
+Elena lay on the stretcher under a thermal blanket, strapped in at the chest and knees. The pain medicine had made her drowsy. Harper sat on the bench across from them with the shotgun on her lap. Rin leaned against her shoulder, still in the orange prison pants and a dirty tank top. The back of the ambulance was quiet, save for the whirring of the magnetic cushion on the wet pavement.
 
 Iris unclipped the stolen badge from her shirt. The name on it was of a doctor she had never met. She set it face-down on the cabinet.
 
@@ -20,7 +20,7 @@ Iris leaned across the stretcher to see. The digital numbers glowed green in the
 
 "It's the singularity," Iris said. The words came out faster than she could organize them. "The engine under the tower. It's the heaviest thing in the city. If it's growing, if it's pulling in more mass... it's bending the local gravity well so hard that time isn't flowing in a straight line anymore. The network signals are getting warped."
 
-This time, Harper didn't tell her to stop talking.
+Harper's eyes were focused, listening intently.
 
 Iris pushed her glasses up. "The clock is saying the engine got heavier."
 
@@ -36,7 +36,7 @@ Iris told her about Blackwell's office, and the leather portfolio she had found 
 
 *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
 
-Elena didn't move. The strap across her chest rose and fell.
+Elena shook her head. There was an agony in her eyes put there by something much worse than her fractured ribs. Iris recognized the look immediately: the stare of someone who had realized they were exploited.
 
 "Years," she said. "He wrote it before the engine had a name."
 
@@ -46,19 +46,19 @@ The ambulance bounced over something in the road.
 
 "He built the cage first," Elena said.
 
-Under the blanket, her synthetic hand moved. The fingers slowly closed around the steel rail of the stretcher, then opened again. They closed and opened a second time. The servos clicked in each knuckle, one after another.
+Under the blanket, her synthetic hand moved. The fingers slowly closed around the steel rail of the stretcher, then opened again. The servos clicked in each knuckle, one after another.
 
-"He saved my life," Elena said. "And he had the cage ready."
+“He saved my life.” Elena paused. Something in her expression changed. A realization seemed to deaden her eyes. She hadn't been rescued. She had been salvaged. “—he had the cage ready.”
 
 Iris didn't know what to say to that.
 
-The day the engine came online, Elena had told her *negative* in front of the Board and sent her away to recalculate. Now Elena turned her head on the pillow and looked at her.
+The day the engine came online, Elena had told her negative in front of the Board and sent her away to recalculate. Now Elena turned her head on the pillow and looked at her.
 
-"What else did you see?"
+“What else did you see?”
 
 Iris hesitated.
 
-"The synthetics," she said. "In the lab. He had them erasing log entries. It had to have been the shadow process."
+"The synthetics," she said. "In the lab. He had them erasing log entries. It had to have been to hide the shadow process."
 
 Elena's hand stopped halfway closed. "Synthetics aren't supposed to lie." Her voice resonated with disappointment. 
 
