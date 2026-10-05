@@ -4,17 +4,13 @@ Iris sat on the jump seat beside the stretcher, counting the turns. She could he
 
 The dashboard had restarted the moment the synthetic sat down in the driver's seat. It knew where the fighting would be before they got there. Iris had spent years reading boundary data. She knew a calculated route when she saw one.
 
-Elena lay on the stretcher under a thermal blanket, strapped in at the chest and knees. The autoinjector had made her drowsy. Harper sat on the bench across from them with the shotgun on her lap. Rin leaned against her shoulder, still in the orange prison pants and a dirty tank top. The back of the ambulance was quiet, save for the hiss of the magnetic cushion on the wet pavement.
+Elena lay on the stretcher under a thermal blanket, strapped in at the chest and knees. The autoinjector had made her drowsy. Harper sat on the bench across from them with the shotgun on her lap. Rin leaned against her shoulder, still in the orange prison pants and a dirty tank top. The back of the ambulance was quiet, save for the whirring of the magnetic cushion on the wet pavement.
 
 Iris unclipped the stolen badge from her shirt. The name on it was of a doctor she had never met. She set it face-down on the cabinet.
 
-Harper leaned toward the opening to the cab. "We've passed that pharmacy twice."
-
-"Three times," the synthetic said. Its two voices spoke together, one slightly lower than the other. "The Renewal line at the bottom of the avenue changes shift at six thirty-eight. For nine minutes, no one will be guarding it. Until then, every road to the avenue is blocked."
-
 Harper sat back. She stared at the digital clock glowing on the dashboard of the ambulance. She watched it for a long time before she leaned forward. 
 
-"Lady... Iris."
+"Lady..."
 
 Iris looked up.
 
