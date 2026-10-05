@@ -71,6 +71,12 @@ Far below on the terraces of New Veridia, a window caught the sunrise. Then anot
 
 A beacon. Blackwell finally understood what he was. Something held up at the highest point in the city so that someone would come to it. 
 
+"You could go to her," Blackwell said.
+
+"Why would I go anywhere?" Parity's eyes stayed on the New Veridia. "Everyone comes to me, Doctor. Eventually."
+
+A singularity never hunted anything. It waited, and its prey simply fell in.
+
 "She will see us," Parity said. "She will come to preserve the human life, or she will come to destroy me. It is the way she is built."
 
 He knew. He had built her that way.
