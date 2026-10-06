@@ -1,7 +1,7 @@
 ---
 music: Interstellar Drift.mp3
 ---
-Iris stood at the window. The yellow Level-4 bio-containment suit made every movement clumsy. Its hood hung down her back. She pushed her black-rimmed glasses up her nose, her hands trembling inside the thick rubber gloves.
+Iris stood at the window. The yellow bio-containment suit made every movement clumsy. Its hood hung down her back. She pushed her black-rimmed glasses up her nose, her hands trembling inside the thick rubber gloves.
 
 The Oshima cloud cover lay below her. In the distance, red light swelled beneath it, and smoke rose through the clouds.
 
