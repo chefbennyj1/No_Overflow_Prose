@@ -52,7 +52,7 @@ Under the blanket, her synthetic hand moved. The fingers slowly closed around th
 
 Iris didn't know what to say to that.
 
-The day the engine came online, Elena had told her negative in front of the Board and sent her away to recalculate. Now Elena turned her head on the pillow and looked at her.
+Elena turned her head on the pillow and looked at her.
 
 “What else did you see?”
 
@@ -64,9 +64,6 @@ Elena's hand stopped halfway closed. "Synthetics aren't supposed to lie." Her vo
 
 She had designed every one of them. She stared blankly at the ceiling until her hand relaxed on the rail, and the drug pulled her back to sleep.
 
-Iris leaned her head back against the cabinet and closed her eyes. She didn't sleep.
-
-The bench creaked.
 
 "Let me see." Harper's voice was low.
 
