@@ -1,3 +1,6 @@
+---
+music: infiltration.mp3
+---
 The ambulance moved through the lower city with its lights off and the siren silent.
 
 Iris sat on the jump seat beside the stretcher, counting the turns. The walls of the ambulance cut off the sound of the city, but the evidence of the riot was everywhere. They passed a barricade of mag-cars with nobody behind it. A block later, a Renewal riot shield lay face-up in the gutter, filling with rain. Yet every street Vigil chose was dead empty.
@@ -14,11 +17,12 @@ Iris looked up.
 
 "You're a scientist," Harper said. She pointed a finger at the dashboard. "Look at the clock."
 
-Iris leaned across the stretcher to see. The digital numbers glowed green in the dark cab. The time jumped forward by twenty seconds. Then the numbers flickered and jumped back. Iris frowned. Before she could say anything, the numbers flickered again and jumped forward.
+Leaning across the stretcher Iris could see the digital numbers glowing green in the dark cab. The time jumped forward by twenty seconds. Then the numbers flickered and jumped back. Iris frowned. Before she could say anything, the numbers flickered again and jumped forward.
 
 "It's skipping," Harper said. "Forward, then back. The ambulance is connected to the city network. It's trying to sync the time, but it can't."
 
-"It's the singularity," Iris said. The words came out faster than she could organize them. "The engine under the tower. It's the heaviest thing in the city. If it's growing, if it's pulling in more mass... it's bending the local gravity well so hard that time isn't flowing in a straight line anymore. The network signals are getting warped."
+“It's the singularity,” Iris said. The words came out faster than she could organize them. “The engine under the tower. It's the heaviest thing in the city. Actually, that's not right. It's not the weight, it's the mass. If it's growing, if it's pulling in more mass... then the gravity well is getting stronger. Which means time isn't flowing in a straight line anymore. Well, it is, technically. Just not at the same rate. The network signals are getting warped.”
+
 
 Harper's eyes were focused, listening intently.
 
@@ -26,11 +30,7 @@ Iris pushed her glasses up. "The clock is saying the engine got heavier."
 
 The ambulance turned. 
 
-"Iris."
-
-Elena was awake.
-
-"In the hospital," Elena said. "You said thesis."
+"Iris." Elena was awake. "In the hospital," Elena's voice was sounding stronger. "You said thesis."
 
 Iris told her about Blackwell's office, and the leather portfolio she had found on his shelf. It was dated years before the engine was built. She knew the abstract by heart. She hadn't been able to forget it since the night she read it.
 
