@@ -106,7 +106,7 @@ The building was in lock down. Safety measures were sending the elevators to the
 
 The lead agent turned his head toward the display. His modulated voice dropped an octave. "Lobby."
 
-"No," Iris said, panic spiking inside the yellow hood. "We need to go down. The pathogen—"
+"No," Iris said, panic spiking inside the yellow hood. "The pathogen—"
 
 A rhythmic, echoing gunfire rattled up the elevator shaft from the floors below. 
 
@@ -136,13 +136,13 @@ Iris ripped the silver zipper of the body bag open. Elena gasped for air, her ey
 
 "Holy shit," Iris yelled over the gunfire.
 
-She grabbed Elena's arm and dragged her off the mattress. They hit the floor of the elevator hard. Elena let out a sharp cry. The steel doors were locked open.
+She grabbed Elena's arm and dragged her off the mattress. They hit the floor of the elevator hard. Elena let out a sharp cry. 
 
 "We're stuck on the ground floor," Elena moaned through the pain.
 
 The only way out was through the fire.
 
-Iris threw Elena's arm over her shoulder. She was an analyst. She had never been shot at. She stood up under the dead weight of a woman with broken ribs, and they stepped out of the bullet-riddled elevator.
+Iris threw Elena's arm over her shoulder. She stood up under the dead weight of a woman with broken ribs, and they stepped out of the bullet-riddled elevator.
 
 Iris saw the lobby in fragments. 
 
@@ -150,7 +150,7 @@ The red glow of the exit sign. The broken marble. Elena's arm slipping down her 
 
 The weight of Elena slowed her progress. Iris stepped over the sparking torso of a Renewal agent. Gunfire tore through the drywall above their heads, raining white dust over them.
 
-A body lay in their path. Not a soldier. A man in ratty street clothes, lying in his own blood. He had died pressing his hands against his stomach. A Renewal rifle lay beside him.
+A body lay in their path. A man in ratty street clothes, lying in his own blood. He had died pressing his hands against his stomach. A Renewal rifle lay beside him.
 
 Iris kept going. She couldn't stop. The lobby sizzled and hissed with the sprinklers hitting the fire. Iris and Elena had made their way close to the front entrance of the hospital.
 
