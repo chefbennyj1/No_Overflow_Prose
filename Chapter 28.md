@@ -3,7 +3,7 @@ music: Interstellar Drift.mp3
 ---
 The lights in the sterile hospital room buzzed and flickered. 
 
-Iris stood at the window. The yellow Level-4 bio-containment suit made every movement clumsy. She pushed her black-rimmed glasses up her nose, her hands trembling inside the thick rubber gloves.
+Iris stood at the window. The yellow Level-4 bio-containment suit made every movement clumsy. Its hood hung down her back. She pushed her black-rimmed glasses up her nose, her hands trembling inside the thick rubber gloves.
 
 The Oshima cloud cover lay below her. In the distance, red and auburn light swelled beneath it, and plumes of dark smoke rose through the clouds and dirtied the air.
 
@@ -29,11 +29,11 @@ Iris swallowed hard. "They're going to want to see the body."
 
 Iris turned to the room's hospital terminal and swiped the stolen medical badge pinned to her containment suit. The panel's blurred privacy screen came into focus. She scanned the list of inpatient units. 
 
-The screen flashed with the floor's patient network. Iris didn't hesitate. She dragged her finger across the display, manually triggering the critical vital alarms for three patients in the intensive care room at the other side of the floor. 
+The screen flashed with the floor's patient network. She dragged her finger across the display, manually triggering the critical vital alarms for three patients in the intensive care room at the other side of the floor. 
 
 The bell alarm of a Code Blue sounded across the ward. 
 
-Through the door, they could hear the shouting of the triage nurses and the squeal of crash carts sprinting past their room. The corridor erupted into action. 
+Through the door, they could hear the shouting of the triage nurses and the squeal of crash carts sprinting past their room. 
 
 "Now," Elena breathed. "Flatline the monitor."
 
@@ -45,7 +45,7 @@ Iris unrolled the white body bag across the mattress. The thick plastic was stam
 
 "You can," Elena spoke from beneath the plastic. "We need to get out of here."
 
-Iris pushed her glasses up her nose one last time. She slammed her hand against the electronic door release. 
+Iris pulled the hood up over her head and sealed it. She slammed her hand against the electronic door release. 
 
 The door slid open, and the containment field dropped. The piercing sound of the flatline alarm flooded the corridor. 
 
@@ -71,7 +71,7 @@ Iris lost a breath.
 
 A four-man Renewal Extraction Team stood inside the elevator. They were fully armed, their black rifles held tight across their chests. 
 
-Iris's hands white-knuckled the metal rail. She couldn't make a mistake.
+Iris's hands white-knuckled the metal rail.
 
 The lead agent stepped out onto the floor. He looked down at the white body bag, then up at Iris's yellow suit. He looked past her toward the room they had come from. He grabbed the edge of the elevator door, stopping it from closing. 
 
@@ -86,7 +86,7 @@ The agent nodded to her. Her grip on the metal rail loosened.
 Iris swallowed. Her voice rasped, "You are not wearing the proper protective equipment to be in close quarters with the subject."
 The agent's faceless visor locked onto her. Inside the ballooned bio-suit, a line of sweat crawled down Iris's spine.
 
-"Exposure is a non-issue, Doctor." The modulated voice of the agent was firm.
+"Exposure is a non-issue, Doctor."
 
 "Very well, Agents." She pushed the gurney into the elevator, and slammed her hand against the sub-level button. 
 
@@ -98,11 +98,9 @@ The lead agent pressed two armored fingers to the side of his helmet. "This is E
 
 The elevator jolted to a stop. Iris reached out to steady herself against the wall. The digital display above the door flashed, and the numbers stopped counting down. 
 
-Iris felt her stomach drop. The floor indicator switched to read *MAIN LOBBY*. 
+The floor indicator switched to read *MAIN LOBBY*. 
 
 The speaker in the ceiling of the car crackled. *"Phase One Recall in effect. Upper floors are sealed. All cars are returning to the main lobby."*
-
-The building was in lock down. Safety measures were sending the elevators to the main floor and keeping them there.
 
 The lead agent turned his head toward the display. His modulated voice dropped an octave. "Lobby."
 
@@ -112,7 +110,7 @@ A rhythmic, echoing gunfire rattled up the elevator shaft from the floors below.
 
 "Overridden," the agent said. He racked the bolt of his rifle. The other three agents raised their weapons, shifting into a tight tactical formation facing the steel doors. "Doctor, the lobby is compromised. When these doors open, I will need you to step to the side for your own safety."
 
-Iris's pulse pounded. *Step to the side.* Elena was lying on the gurney in the direct center of the car, zipped inside a thin plastic bag, unable to take cover. 
+*Step to the side.* Elena was lying on the gurney in the direct center of the car, zipped inside a thin plastic bag, unable to take cover. 
 
 Iris grabbed the rails of the gurney and hauled it backward, shoving it against the rear wall of the elevator behind the broad backs of the agents. She pressed herself into the corner.
 
@@ -126,7 +124,7 @@ Two of the Renewal agents were thrown backward against the metal wall, their tac
 
 The remaining two agents lunged out of the elevator, firing their rifles into the smoke of the burning lobby. 
 
-Iris dropped to her knees. She grabbed the collar of the hazmat suit and tore the zipper down, frantically shedding the awkward yellow plastic. 
+Iris dropped to her knees. She grabbed the collar of the hazmat suit and tore the zipper down, frantically shedding the awkward yellow plastic. She pulled the stolen badge off the suit and clipped it to her shirt. 
 
 Outside the elevator, fire alarms wailed over the crack of automatic gunfire. Iris could see the lobby exit through the open doors. Past the three story white stone, and the broken reception desk, where the brass Takeda-Holden crest hung by one corner. Behind the piled barricade of torn up waiting chairs—ripped from their bolts and thrown against the windows.
 
@@ -146,11 +144,11 @@ Iris threw Elena's arm over her shoulder. She stood up under the dead weight of 
 
 Iris saw the lobby in fragments.  The red glow of the exit sign. The broken marble. Elena's arm slipping down her shoulder. The deafening crack of a rifle somewhere to the left. Iris looked at the next three meters of floor.
 
-The weight of Elena slowed her progress. Iris stepped over the sparking torso of a Renewal agent. Gunfire tore through the drywall above their heads, raining white dust over them.
+Iris stepped over the sparking torso of a Renewal agent. Gunfire tore through the drywall above their heads, raining white dust over them.
 
 A body lay in their path. A man in ratty street clothes, lying in his own blood. He had died pressing his hands against his stomach. A Renewal rifle lay beside him.
 
-Iris kept going. She couldn't stop. The lobby sizzled and hissed as the sprinklers hit the fire. The entrance of the hospital was close.
+Iris kept going. The lobby sizzled and hissed as the sprinklers hit the fire. The entrance of the hospital was close.
 
 "Almost there, Elena."
 
@@ -216,7 +214,7 @@ She swiped it.
 
 The dashboard woke. The cushion engaged with a shudder, and the ambulance lifted off the concrete and hung there, rocking.
 
-Iris had never driven one of these. She had never driven anything larger than a commuter car. She stared at the controls through the crack running across her left lens, which split the windshield into two uneven halves, and she read the console the way she read the boundary readouts in the lab. Throttle. Cushion trim. Siren.
+She had never driven anything larger than a commuter car. She stared at the controls through the crack running across her left lens, which split the windshield into two uneven halves, and she read the console the way she read the boundary readouts in the lab. Throttle. Cushion trim. Siren.
 
 Something hit the windshield. A white star bloomed in the glass, inches from her face.
 
