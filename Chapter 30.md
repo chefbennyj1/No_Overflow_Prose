@@ -32,27 +32,22 @@ The cage was empty.
 
 He froze. The cigarette fell from his lips, spilling ash and burning tobacco down his shirt. 
 
-Slowly turning his head to his left, Blackwell peered into the shadows of the server racks. Parity stood there, her porcelain form cast in the red emergency light. His heart spiked. 
+He didn't turn his head. He didn't dare.
 
-He didn't breathe. Something caught his eye, he carefully turned his head right, checking the heavy steel blast doors. 
+ At the left edge of his vision, Parity stood by the server racks, white in the red emergency light. At the right edge, she stood by the blast doors.
 
-Parity stood there, too. 
+ She was moving between the two places faster than his eyes could follow. 
+ Blackwell staggered backward, extending his arms to catch his balance as his mind unraveled.
 
-Blackwell snapped his head back to the server racks. She was there.
+ The cold inched across the concrete toward him.
 
-He looked toward the doors. Still there.
+Both of her drifted an inch closer.
 
-The cold inched across the concrete floor toward Blackwell.
+ He blinked.
 
-On the right, she drifted an inch closer. He stepped away. Then on the left she moved even closer. 
+ She was no longer by the server racks, and no longer by the blast doors —*gone*.  Both places were empty.
 
-Blackwell blinked. He snapped his gaze to the right, desperate to track the movement. 
-
-The space was empty. 
-
-He spun his head to the left. Staggering backward, he extended his arms, trying to find his balance as his thoughts unraveled . The shadows by the server racks were bare. Both versions—gone. 
-
-A sharp cold pricked the fine hairs on the back of his neck. Blackwell felt the crawling crackle of an electrical static charge building in the space between the cotton collar of his lab coat and his bare skin. His legs felt like stone. Nowhere to go, he let out a shaky breath.
+ A sharp cold pricked the fine hairs on the back of his neck. Static crawled in the space between the collar of his lab coat and his skin. His legs felt like stone. There was nowhere to go.
 
 Behind him.
 
