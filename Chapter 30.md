@@ -48,7 +48,7 @@ Blackwell blinked. He snapped his gaze to the right, desperate to track the move
 
 The space was empty. 
 
-He threw his head back to the left. The shadows by the server racks were bare. Both versions—gone. 
+He spun his head to the left. He extended his arms, trying to find his balance as his thoughts unraveled . He staggering backward again. The shadows by the server racks were bare. Both versions—gone. 
 
 A sharp cold pricked the fine hairs on the back of his neck. Blackwell felt the crawling crackle of an electrical static charge building in the millimeter of space between the cotton collar of his lab coat and his bare skin. His legs felt like stone. Nowhere to go, he let out a, shaky breath.
 
