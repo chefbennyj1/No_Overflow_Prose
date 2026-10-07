@@ -119,7 +119,7 @@ The bell chimed. *"Main floor."*
 
 The steel doors slid open.
 
-A high-caliber rifle shot shattered the air.
+A high-caliber rifle shot broken the air.
 
 The lead agent was still looking back when it hit him. He and the agent beside him were thrown backward, their tactical armor cratered by the heavy munitions. They crumpled to the floor in a spray of sparks.
 
@@ -201,7 +201,7 @@ Overturned mag-cars burned across the intersection. Beyond them, a crowd pushed 
 
 "Iris." Elena's weight sagged against her. "We can't walk out of this."
 
-Thirty meters down the sidewalk, two ambulances lay tipped on their sides. A third sat on its cushion with its rear doors hanging open, the Takeda-Holden crest printed on its flank.
+Thirty meters down the sidewalk, two ambulances lay tipped on their sides. A third sat on its cushion with its rear doors hanging open, the Takeda-Holden crest printed on its side.
 
 Iris got Elena to the back of the ambulance and half lifted, half rolled her onto the stretcher. Elena bit down on a scream and held it. Iris slammed the rear doors and ran for the cab.
 
