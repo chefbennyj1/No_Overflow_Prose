@@ -125,7 +125,7 @@ The lead agent was still looking back when it hit him. He and the agent beside h
 
 A round tore through the middle of the car, where the gurney had been a moment before.
 
-The last two agents lunged out of the elevator, firing into the smoke of the burning lobby. One of them looked back at Iris before the smoke took him.
+The last two agents lunged out of the elevator, firing into the smoke of the burning lobby. One of them looked back at Iris before disappearing into the smoke.
 
 Iris dropped flat behind the fallen agents. Rounds sparked off the doorframe above her. Inside the hood, her own breathing was the loudest thing in the world.
 
