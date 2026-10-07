@@ -30,21 +30,19 @@ Her eyes continued their blank stare. Parity tilted her head again as the time f
 
 The cage was empty. 
 
-He froze. The cigarette fell from his lips, spilling ash and burning tobacco down his shirt. He didn't brush it off. 
+He froze. The cigarette fell from his lips, spilling ash and burning tobacco down his shirt. 
 
-Blackwell slowly turned his head to the left, peering into the shadows of the server racks. Parity stood there, her porcelain form cast in the red emergency light. His heart spiked. 
+Slowly turning his head to his left, Blackwell peered into the shadows of the server racks. Parity stood there, her porcelain form cast in the red emergency light. His heart spiked. 
 
-He didn't breathe. Keeping his hand near the terminal's manual override, he carefully turned his head to the right, checking the heavy steel blast doors. 
+He didn't breathe. Keeping his hand near the terminal's manual override, he carefully turned his head right, checking the heavy steel blast doors. 
 
 Parity stood there, too. 
 
-Blackwell’s brow furrowed. He snapped his head back to the left. She was still by the server racks. 
+Blackwell snapped his head back to the left. She was still by the server racks.  Then again, back to the right. She was still by the doors. 
 
-He looked back to the right. She was still by the doors. 
+Fluidly vibrating between the two points in the room, casting the impossible illusion that she was standing in both places at once, Blackwell thought.
 
-She was fluidly vibrating between the two points in the room, casting the impossible illusion that she was standing in both places at once.
-
-The afterimage on the right drifted an inch closer. Then the one on the left.
+The afterimage on the right drifted an inch closer. Blackwell stepped away. Then the one on the left inched toward him. 
 
 Blackwell blinked. He snapped his gaze to the right, desperate to track the movement. 
 
@@ -52,6 +50,6 @@ The space was empty.
 
 He threw his head back to the left. The shadows by the server racks were bare. Both versions—gone. 
 
-A sharp cold pricked the fine hairs on the back of his neck. Blackwell froze as he felt the crawling crackle of an electrical static charge building in the millimeter of space between the cotton collar of his lab coat and his bare skin. 
+A sharp cold pricked the fine hairs on the back of his neck. Blackwell felt the crawling crackle of an electrical static charge building in the millimeter of space between the cotton collar of his lab coat and his bare skin. His legs felt like stone. Nowhere to go, he let out a, shaky breath.
 
 Before he could turn around, cold porcelain fingers wrapped tightly around the back of his neck, the raw voltage searing his skin.
