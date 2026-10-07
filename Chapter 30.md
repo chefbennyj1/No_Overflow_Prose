@@ -34,10 +34,9 @@ He froze. The cigarette fell from his lips, spilling ash and burning tobacco dow
 
 He didn't turn his head. He didn't dare.
 
- At the left edge of his vision, Parity stood by the server racks, white in the red emergency light. At the right edge, she stood by the blast doors.
+ At the left edge of his vision, Parity stood by the server racks, white in the red emergency light. At the right edge, she stood by the blast doors too.
 
- She was moving between the two places faster than his eyes could follow. 
- Blackwell staggered backward, extending his arms to catch his balance as his mind unraveled.
+Blackwell staggered backward, extending his arms to catch his balance as his mind unraveled.
 
  The cold inched across the concrete toward him.
 
