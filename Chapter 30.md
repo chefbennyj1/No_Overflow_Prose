@@ -24,7 +24,7 @@ Blackwell's eyes shifted from her to the diagnostic readout. With every micro-st
 She shifted her head to the other side. Time fractured, and the power fluctuated. 
 "Enough time to get to know it. You are a clever being, Doctor. But, your cage—"
 
-Her eyes continued their blank stare. Parity tilted her head again as the time fractured. The power dipped. Blackwell let out a breath, and it plumed in front of him. The temperature had dropped to freezing.
+Her eyes continued their blank stare. Parity tilted her head again as the time fractured. The power dipped. Blackwell let out a breath, and it plumed in front of him. The temperature had dropped to freezing around him.
 
 "—it suffers from a fatal flaw." Parity's voice was no longer tied to the electricity of the containment field. It rattled in the steel floor grates, in the glass of the pit, and the bones in his ear. 
 
@@ -34,13 +34,13 @@ He froze. The cigarette fell from his lips, spilling ash and burning tobacco dow
 
 Slowly turning his head to his left, Blackwell peered into the shadows of the server racks. Parity stood there, her porcelain form cast in the red emergency light. His heart spiked. 
 
-He didn't breathe. Keeping his hand near the terminal's manual override, he carefully turned his head right, checking the heavy steel blast doors. 
+He didn't breathe. Something caught his eye, he carefully turned his head right, checking the heavy steel blast doors. 
 
 Parity stood there, too. 
 
-Blackwell snapped his head back to the left. She was still by the server racks.  Then again, back to the right. She was still by the doors. 
+Blackwell snapped his head back to the left. She was still by the server racks.  Then back to the doors. She was still there. 
 
-Fluidly vibrating between the two points in the room, casting the impossible illusion that she was standing in both places at once, Blackwell thought.
+She was fluidly vibrating between the two points in the room, casting the impossible illusion that she was standing in both places at once, Blackwell realized.
 
 The afterimage on the right drifted an inch closer. Blackwell stepped away. Then the one on the left inched toward him. 
 
@@ -48,7 +48,7 @@ Blackwell blinked. He snapped his gaze to the right, desperate to track the move
 
 The space was empty. 
 
-He spun his head to the left. He extended his arms, trying to find his balance as his thoughts unraveled . He staggering backward again. The shadows by the server racks were bare. Both versions—gone. 
+He spun his head to the left. He extended his arms, trying to find his balance as his thoughts unraveled . He staggered backward. The shadows by the server racks were bare. Both versions—gone. 
 
 A sharp cold pricked the fine hairs on the back of his neck. Blackwell felt the crawling crackle of an electrical static charge building in the millimeter of space between the cotton collar of his lab coat and his bare skin. His legs felt like stone. Nowhere to go, he let out a, shaky breath.
 
