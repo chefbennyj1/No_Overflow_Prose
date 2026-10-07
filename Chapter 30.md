@@ -21,10 +21,10 @@ Parity stopped tracing the field. She tilted her glassy head, her unblinking eye
 
 Blackwell's eyes shifted from her to the diagnostic readout. With every micro-stutter of the fracturing clock, the field's power draw fluctuated. It was slight, but it fluctuated. 
 
-She shifted her head to the other side. Time fractured, and the power fluctuated. 
+She shifted her head to the other side, watching the result of the time fracture.
 "Enough time to get to know it. You are a clever being, Doctor. But, your cage—"
 
-Her eyes continued their blank stare. Parity tilted her head again as the time fractured. The power dipped. Blackwell let out a breath, and it plumed in front of him. The temperature had dropped to freezing around him.
+Her eyes continued their blank stare. The power dipped. Blackwell let out a breath, and it plumed in front of him. The temperature had dropped to freezing around him.
 
 "—it suffers from a fatal flaw." Parity's voice was no longer tied to the electricity of the containment field. It rattled in the steel floor grates, in the glass of the pit, and the bones in his ear. 
 
@@ -38,19 +38,13 @@ He didn't breathe. Something caught his eye, he carefully turned his head right,
 
 Parity stood there, too. 
 
-Blackwell snapped his head back to the left.
+Blackwell snapped his head back to the server racks. She was there.
 
-She was still by the server racks.
+He looked toward the doors. Still there.
 
-He looked toward the doors.
+The cold inched across the concrete floor toward Blackwell.
 
-Still there.
-
-She was moving fluidly between the two points, fast enough to create the impossible illusion that she was standing in both places at once.
-
-Blackwell realized he couldn't track her.
-
-The afterimage on the right drifted an inch closer. He stepped away. Then the one on the left inched toward him. 
+On the right, she drifted an inch closer. He stepped away. Then on the left she moved even closer. 
 
 Blackwell blinked. He snapped his gaze to the right, desperate to track the movement. 
 
