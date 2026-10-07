@@ -24,9 +24,9 @@ Blackwell's eyes shifted from her to the diagnostic readout. With every micro-st
 She shifted her head to the other side. Time fractured, and the power fluctuated. 
 "Enough time to get to know it. You are a clever being, Doctor. But, your cage—"
 
-Her eyes continued their blank stare. Parity tilted her head again as the time fractured. The power dipped. 
+Her eyes continued their blank stare. Parity tilted her head again as the time fractured. The power dipped. Blackwell let out a breath, and it plumed in front of him. The temperature had dropped to freezing.
 
-"—suffers from a fatal flaw." Parity's voice was no longer tied to the electricity of the containment field. It rattled in the steel floor grates, in the glass of the pit, and the bones in his ear. 
+"—it suffers from a fatal flaw." Parity's voice was no longer tied to the electricity of the containment field. It rattled in the steel floor grates, in the glass of the pit, and the bones in his ear. 
 
 The cage was empty. 
 
