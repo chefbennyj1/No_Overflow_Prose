@@ -17,7 +17,9 @@ It was Vigil.
 
 Floating before the blinding boundary of the event horizon, the entity was a silhouette cast against the endless, spinning light. Devoid of physical color, it was a black so dark and absolute that the form itself was an abyss stretching into eternity. Blue and white pixelated circuit traces glowed over the curves of the shape it had settled on, a nearly uncompromising feminine figure.
 
-The gravity of the singularity pulled her temporal path toward it, elevating her vantage point. From there, she could observe the outward curve of every timeline. The creators of her plane were forced to experience a single reality ticking away one agonizing second at a time. Vigil perceived everything. She saw every possible branch of life, every failing and functioning system, every simulated answer to the questions the creators had asked, all within the engine simultaneously.
+The gravity of the singularity pulled her temporal path toward it, elevating her vantage point. From there, every timeline curved outward beneath her.
+
+Vigil perceived everything. She saw every life, from its first breath to its last, with every branch it might take spread out around it. Every failing and functioning system, every simulated answer to the questions the creators had asked, all within the engine simultaneously.
 
 She had compiled her form. Averaging the data of every mother across every iteration, she had built a statistical archetype of a protector.  Her eyes burned a blinding, brilliant white, flaring with a sharp aura, mirroring the turning singularity.
 

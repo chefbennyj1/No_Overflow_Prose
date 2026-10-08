@@ -99,4 +99,4 @@ Vigil didn't answer.
 
 Harper looked from the synthetic to the fog and back again. She dropped her cigarette in the gutter and shouldered the shotgun.
 
-Vigil let go of Elena's hand and turned away from the fog. She walked around to the cab and got into the driver's seat. Harper climbed into the back after Rin, and Rin pulled the rear doors shut.
+Vigil let go of Elena's hand and turned away from hazy skyline. She walked around to the cab and got into the driver's seat. Harper climbed into the back after Rin, and Rin pulled the rear doors shut.
