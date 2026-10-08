@@ -225,6 +225,6 @@ One of its arms was outstretched. From its grip, a man dangled over the drop, hi
 
 The shape holding him cast no shadow at all hovering eighty stories above the city.
 
-"Parity," Vigil said from the driver's seat. Her dual tones were flat. "She has broken the cage. And she is using him."
+"Parity," Vigil said from the driver's seat. Her dual tones were flat. "She has broken the cage."
 
 Iris took her cracked glasses off. Even blurred, the anomaly remained fixed in the sky.
