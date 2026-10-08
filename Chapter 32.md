@@ -123,18 +123,64 @@ Victor started the engine.
 
 "I'm following the car."
 
-He kept the headlights off and stayed two blocks back, following the red of the cruiser's taillights through the fog. It moved slowly through the lower grid, past the gutted storefronts and the barricades, away from the fighting. Then it turned onto the wide, elevated avenue that climbed toward New Veridia.
+He kept the headlights off and stayed two blocks back, following the red of the cruiser's taillights through the fog. It moved slowly through the lower grid, past the gutted storefronts and the barricades, away from the fighting.
 
-Harlan sat forward. "She's going uptown."
+At the next intersection, it turned. Victor took the corner a few seconds behind it.
 
-Victor watched the taillights start up the incline. The Madame had the janitors' keys. There was only one Deep Storage floor in the city he had seen with his own eyes, and he had walked a girl in handcuffs out of it.
+The street ahead was empty.
 
-"She's going to the tower," he said.
+He pushed the car faster. One block. Two. Every cross street ended in the same gray wall. No taillights.
 
-They followed the black cruiser out of the slums. As the elevation rose, the thick fog of the lower city began to thin, falling away beneath them. The morning sun broke over the eastern edge of the cloud layer, blinding and pale. 
+"No," Victor said. He braked at the next corner and stared down both directions. "No, no, no."
 
-Victor kept his distance, tailing the cruiser toward the corporate plaza. Harlan shifted in the passenger seat. "What the hell is that?" He wasn't watching the Madame's car anymore. He was looking at the sky. 
+"Vic." Harlan kept his voice even. "She's gone. Let it go."
 
-Victor leaned forward over the steering wheel, following his partner's gaze up the length of the central Takeda-Holden tower on the horizon. 
+Victor's hands stayed tight on the wheel. He had chased her his whole career. He had been two blocks behind her, and he had lost her in the fog.
 
-There, at the very apex of the spire, eighty stories above the fog, a figure was suspended against the morning light. It cast no shadow, and it appeared to be floating on nothing but the empty air.
+The Madame had the janitors' keys. There was only one Deep Storage floor in the city he had seen with his own eyes, and he had walked a girl in handcuffs out of it.
+
+"The tower," he said, and turned the car toward it.
+
+The fog got colder the closer they came. Frost crept in from the edges of the windshield.
+
+Then the fog ended.
+
+They drove out of it into clear, freezing air. A month ago, the open space around the tower had been the width of the plaza. Now it ran for blocks. A fine snow drifted down over the empty streets, and in the middle of it, the Takeda-Holden tower rose out of the lower city and disappeared into the sky.
+
+Harlan leaned forward. "What the hell is that?"
+
+At the top of the spire, eighty stories up, a white figure hung in the air. It held something out over the edge. A man. Even from here, the white of it stung Victor's eyes.
+
+Harlan grabbed his arm. "Vic. Behind us."
+
+At the edge of the clearing, two red lights glowed inside the fog.
+
+Taillights.
+
+Victor swung the car around and rolled back toward them. The black cruiser sat half inside the fog. Both rear doors hung open. The engine was still running.
+
+They got out.
+
+"What the fuck?" Harlan said.
+
+The cruiser was empty. In the ashtray between the seats, a cigarette burned at the end of a long filter.
+
+Victor didn't move. The Minder on the corner. That long look up the street, straight at a car with its lights off.
+
+She had known the whole time. He had driven exactly where she wanted him.
+
+Footsteps came out of the fog.
+
+The Madame walked into the clearing. White silk. Wire-rimmed glasses. Snow settled on her shoulders, and she didn't brush it off. She was smiling at Victor.
+
+Two Minders stepped out of the fog on either side of her.
+
+Harlan's hand went to his gun.
+
+Behind her, a light came on in the fog. A serial number, glowing faint blue at the height of a face.
+
+Then two.
+
+Then ten.
+
+Then the fog behind her was full of them. Hundreds of serials, row after row, all at the same height, all of them still.

@@ -21,7 +21,9 @@ Further down, his terrace. The same alloy railing where he had stood the morning
 
 Below the terrace, the fog. 
 
-Gray and even, it lay across the city the way it always had. The sickening thought of falling through it repeated in his mind.
+Gray and even, it lay across the city the way it always had, except around the tower. There it stopped. For blocks in every direction the cold had eaten it away, and through the hole the streets of the lower city lay bare, eighty stories down.
+
+There was no fog under him to fall through. Only air, all the way to the street.
 
 Eighty stories. Three hundred meters, give or take the spire. Drag on a man in a lab coat. Terminal velocity in—
 
@@ -49,7 +51,7 @@ Opening her fingers a fraction, she let the fabric slip. His weight dropped half
 
 From his pocket, his silver lighter slipped free. 
 
-Turning once in the early light, it passed the terrace rail and fell toward the sky-bridges, shrinking to a point before disappearing into the fog. 
+Turning once in the early light, it passed the terrace rail and fell toward the sky-bridges, shrinking to a point until he lost it against the street. 
 
 Breaking over the eastern edge of the cloud layer, the sun struck the tower. The low, white light hit Blackwell full in the face. 
 
@@ -67,13 +69,13 @@ Raising him until his heels found the glass again, she handled him the exact way
 
 "You built me a cage and buried it in the ground," Parity said. "No one could see what you had made." The frost crept up his lapels, reaching for his jaw. "I prefer to be seen."
 
-Far below on the terraces of New Veridia, a window caught the sunrise. Then another. From every rooftop in the city, and from any street in the Dead Circuits where the fog thinned enough to look up, the apex of the tower would be visible. 
+Far below on the terraces of New Veridia, a window caught the sunrise. Then another. From every rooftop in the city, and from every street inside the clearing, the apex of the tower would be visible. 
 
 A beacon. Blackwell finally understood what he was. Something held up at the highest point in the city so that someone would come to it. 
 
 "You could go to her," Blackwell said.
 
-"Why would I go anywhere?" Parity's eyes stayed on the New Veridia. "Everyone comes to me, Doctor. Eventually."
+"Why would I go anywhere?" Parity's eyes stayed on New Veridia. "Everyone comes to me, Doctor. Eventually."
 
 A singularity never hunted anything. It waited, and its prey simply fell in.
 

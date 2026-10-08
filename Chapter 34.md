@@ -187,6 +187,8 @@ Elena's fingers closed and opened.
 
 Elena held on to Vigil's hand. "Neither can I."
 
+Iris knew the building. There was only one way into the lab: the executive lift, down from the atrium. To get under the tower, they would have to go up into New Veridia first.
+
 On the dashboard, the clock flickered from `06:12` to `06:09`.
 
 Iris did the math in her head. The engine was growing because nothing was inside it to keep it in balance anymore. It wouldn't stop until something went back in.
@@ -195,7 +197,7 @@ She didn't say it out loud.
 
 At six thirty-eight, the ambulance turned onto the avenue and started to climb.
 
-Vigil was back in the driver's seat. The incline was steep, the heavy vehicle groaning up the concrete ramp. The soot-choked fog of the lower grid began to thin, tearing into gray wisps against the windshield. A black car with mirrored windows passed them on the climb without a sound. Rin turned her head and watched it until it was gone. A second car followed a block behind it with its lights off.
+Vigil was back in the driver's seat. The incline was steep, the heavy vehicle groaning up the concrete ramp. The soot-choked fog of the lower grid began to thin, tearing into gray wisps against the windshield.
 
 And then they broke through the cloud cover, into the freezing air of New Veridia. The morning sun came up over the fog and flooded the cab with gold.
 
@@ -215,7 +217,7 @@ Elena looked for a long time.
 
 Her synthetic hand gripped Iris's sleeve, the carbon-fiber joints clicking in a frantic rhythm.
 
-Across the sunlit cloud cover, the Mnemosyne tower rose into the sky. The edges of the building looked doubled, offset by a hand's width. It was gravitational lensing. The engine was warping the physical space around it.
+Ahead, the cloud cover ended. For blocks around the tower there was no fog at all, only clear air straight down to the streets of the lower city. In the middle of it, the Mnemosyne tower rose into the sky. The edges of the building looked doubled, offset by a hand's width. It was gravitational lensing. The engine was warping the physical space around it.
 
 Suspended high above the very apex of the needle, a shape held its position in the morning air.
 
@@ -223,7 +225,7 @@ It was too far away to make out, but it didn't drift in the wind. It didn't move
 
 One of its arms was outstretched. From its grip, a man dangled over the drop, his lab coat whipping around his legs. The rising sun threw his long shadow out across the top of the clouds.
 
-The shape holding him cast no shadow at all hovering eighty stories above the city.
+Hovering eighty stories above the city, the shape holding him cast no shadow at all.
 
 "Parity," Vigil said from the driver's seat. Her dual tones were flat. "She has broken the cage."
 
