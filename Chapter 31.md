@@ -47,7 +47,7 @@ Elena squinted past the glare. A woman with blue-tipped hair stood in the rain b
 
 "Vigil, they look like Company," the woman with the shotgun said. Her eyes flicked from the Takeda-Holden badge on Iris's shirt to Elena's hospital gown. "And you look like a liability."
 
-"Did you say Vigil—?"
+"Did you say Vigil—?" Elena coughed raspy and hard.
 
 "Stand down, Harper." A dual-toned voice spoke from the dark.
 
@@ -93,7 +93,7 @@ Vigil didn't look at her. She stared into the fog, toward the part of the city w
 
 "I lost sight of her four weeks ago," Vigil said, her dual tones flat. "Something has been hiding her from me."
 
-Elena touched Iris's shoulder. "It's the cage," she said, to Vigil, to all of them. "Blackwell's locked in the lab with her. She's not going anywhere."
+"It's the cage," Elena said. "Blackwell's locked in the lab with her. She's not going anywhere."
 
 Vigil didn't answer.
 
