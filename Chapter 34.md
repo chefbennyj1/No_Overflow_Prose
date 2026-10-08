@@ -3,40 +3,39 @@ music: infiltration.mp3
 ---
 The ambulance moved through the lower city with its lights off and the siren silent.
 
-Iris sat on the jump seat beside the stretcher, counting the turns. The walls of the ambulance cut off the sound of the city, but the evidence of the riot was everywhere. They passed a barricade of mag-cars with nobody behind it. A block later, a Renewal riot shield lay face-up in the gutter, filling with rain. Yet every street Vigil chose was dead empty.
+Iris sat on the jump seat beside the stretcher, counting the turns. The walls of the ambulance cut off the sound of the city, but the evidence of the riot was everywhere. They passed a barricade of mag-cars with nobody behind it. A block later, a Renewal riot shield lay face-up in the gutter, filling with rain. Every street the synthetic chose was empty.
 
 The dashboard had restarted the moment the synthetic sat down in the driver's seat. It knew where the fighting would be before they got there. Iris recognized a calculated route when she saw one.
 
-Elena lay on the stretcher under a thermal blanket, strapped in at the chest and knees. The pain medicine had made her drowsy. Harper sat on the bench across from them with the shotgun on her lap. Rin leaned against her shoulder, still in the orange prison pants and a dirty tank top. The back of the ambulance was quiet, save for the whirring of the magnetic cushion on the wet pavement.
+Elena lay on the stretcher under a thermal blanket, strapped in at the chest and knees. The pain medicine had made her drowsy. Harper sat on the bench across from them with the shotgun on her lap. Rin leaned against her shoulder, still in the orange prison pants and a dirty tank top. The back of the ambulance was quiet, save for the whir of the magnetic cushion.
 
 Iris unclipped the stolen badge from her shirt. The name on it was of a doctor she had never met. She set it face-down on the cabinet.
 
-Harper sat back. She stared at the digital clock glowing on the dashboard of the ambulance. She watched it for a long time before she leaned forward. "Lady..."
+Harper stared at the digital clock glowing on the dashboard for a long time. Then she leaned forward. "Lady..."
 
 Iris looked up.
 
-"You're a scientist," Harper said. She pointed a finger at the dashboard. "Look at the clock."
+"You're a scientist," Harper said. She pointed at the dashboard. "Look at the clock."
 
-Leaning across the stretcher Iris could see the digital numbers glowing green in the dark cab. The time jumped forward by twenty seconds. Then the numbers flickered and jumped back. Iris frowned. Before she could say anything, the numbers flickered again and jumped forward.
+Iris leaned across the stretcher. The green numbers jumped forward twenty seconds, then flickered and jumped back. Before she could say anything, they jumped forward again.
 
 "It's skipping," Harper said. "Forward, then back. The ambulance is connected to the city network. It's trying to sync the time, but it can't."
 
-“It's the singularity,” Iris said. The words came out faster than she could organize them. “The engine under the tower. It's the heaviest thing in the city. Actually, that's not right. It's not the weight, it's the mass. If it's growing, if it's pulling in more mass... then the gravity well is getting stronger. Which means time isn't flowing in a straight line anymore. Well, it is, technically. Just not at the same rate. The network signals are getting warped.”
+"It's the singularity," Iris said. The words came out faster than she could organize them. "The engine under the tower. It's the heaviest thing in the city. Actually, that's not right. It's not the weight, it's the mass. If it's growing, if it's pulling in more mass... then the gravity well is getting stronger. Which means time isn't flowing in a straight line anymore. Well, it is, technically. Just not at the same rate. The network signals are getting warped."
 
-
-Harper's eyes were focused, listening intently.
+Harper listened.
 
 Iris pushed her glasses up. "The clock is saying the engine got heavier."
 
-The ambulance turned. 
+The ambulance turned.
 
-"Iris." Elena was awake. "In the hospital," Elena's voice was sounding stronger. "You said thesis."
+"Iris." Elena was awake, her voice stronger. "In the hospital, you said thesis."
 
 Iris told her about Blackwell's office, and the leather portfolio she had found on his shelf. It was dated years before the engine was built. She knew the abstract by heart. She hadn't been able to forget it since the night she read it.
 
 *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
 
-Elena shook her head. There was an agony in her eyes put there by something much worse than her fractured ribs. Iris recognized the look immediately: the stare of someone who had realized they were exploited.
+Elena shook her head.
 
 "Years," she said. "He wrote it before the engine had a name."
 
@@ -48,22 +47,21 @@ The ambulance bounced over something in the road.
 
 Under the blanket, her synthetic hand moved. The fingers slowly closed around the steel rail of the stretcher, then opened again. The servos clicked in each knuckle, one after another.
 
-“He saved my life.” Elena paused. Something in her expression changed. A realization seemed to deaden her eyes. She hadn't been rescued. She had been salvaged. “—he had the cage ready.”
+"He saved my life." Her hand closed on the rail. "No. He salvaged me. He had the cage ready."
 
 Iris didn't know what to say to that.
 
 Elena turned her head on the pillow and looked at her.
 
-“What else did you see?”
+"What else did you see?"
 
 Iris hesitated.
 
 "The synthetics," she said. "In the lab. He had them erasing log entries. It had to have been to hide the shadow process."
 
-Elena's hand stopped halfway closed. "Synthetics aren't supposed to lie." Her voice resonated with disappointment. 
+Elena's hand stopped halfway closed. "Synthetics aren't supposed to lie."
 
-She had designed every one of them. She stared blankly at the ceiling until her hand relaxed on the rail, and the drug pulled her back to sleep.
-
+She had designed every one of them. She stared at the ceiling until her hand relaxed on the rail, and the drug pulled her back to sleep.
 
 "Let me see." Harper's voice was low.
 
@@ -81,17 +79,17 @@ The firelight passed, and the ambulance went dark again.
 
 Harper pulled something from the pocket of her leather jacket. In the light from the dashboard, Iris saw the lettering. A train ticket.
 
-"Iris. Company Deep Storage?" Harper's voice was serious. "How many storage areas are there in the lower city?"
+"Iris. Company Deep Storage?" Harper said. "How many storage areas are there in the lower city?"
 
-"Hundreds." Iris's voice pitched in confusion. "Why?"
+"Hundreds," Iris said. "Why?"
 
-"All those synths in the Deep Storage. Like where we found her. Rows of them." Harper's voice stayed level. "Every Company building has a floor like that, Rin. The sanitation credentials can get them in. And the Madame's got 'em." 
+"All those synths in the Deep Storage. Like where we found her. Rows of them. Every Company building has a floor like that, Rin. The sanitation credentials can get them in. And the Madame's got 'em."
 
 "I sold her every one of them." Rin looked at the ticket. "For that."
 
 Harper's free hand went to her collarbone. Her fingers rested on the scar there.
 
-The ambulance turned again. 
+The ambulance turned again.
 
 Harper lowered her hand. She folded the ticket and zipped it back inside her jacket. Then she took Rin's hand, holding it tightly in the dark.
 
@@ -125,7 +123,7 @@ Rin looked out the side window. She tucked the jagged lock of her hair behind he
 
 Iris knew that name. Detective Victor Graves, the man in the trench coat who had blown smoke in the concierge synthetic's face. She was the one who had taken him and his partner down to the sublevel, the night Rin was arrested.
 
-Iris pushed her glasses up her nose, leaning her head back against the cold cabinet until she finally dozed off.
+Iris pushed her glasses up her nose and leaned her head back against the cold cabinet until she dozed off.
 
 A little after five, a grinding noise woke her.
 
@@ -141,7 +139,7 @@ The wheel turned on its own. It steered the ambulance around a corner and straig
 
 It took Elena's hand in both of its own.
 
-The hands were identical. The same black carbon-fiber plating, the same joints.  The synthetic pressed its thumb into the base of Elena's palm and held it there. Then, starting with the smallest finger, it lifted her fingers off the rail.
+The hands were identical. The same black carbon-fiber plating, the same joints. The synthetic pressed its thumb into the base of Elena's palm and held it there. Then, starting with the smallest finger, it lifted her fingers off the rail.
 
 "The Company calibrated it for someone else," it said. "Close your hand."
 
@@ -191,49 +189,41 @@ Elena held on to Vigil's hand. "Neither can I."
 
 On the dashboard, the clock flickered from `06:12` to `06:09`.
 
-She did the math in her head. The engine was growing because nothing was inside it to keep it in balance anymore. It wouldn't stop until something went back in.
+Iris did the math in her head. The engine was growing because nothing was inside it to keep it in balance anymore. It wouldn't stop until something went back in.
 
 She didn't say it out loud.
 
 At six thirty-eight, the ambulance turned onto the avenue and started to climb.
 
-Vigil was back in the driver's seat. The incline was steep, the heavy vehicle groaning as it pushed up the concrete ramp. The thick, soot-choked fog of the lower grid began to thin, tearing into gray wisps against the windshield. A black car with mirrored windows passed them on the climb without a sound. Rin turned her head and watched it until it was gone. A second car followed a block behind it with its lights off.
+Vigil was back in the driver's seat. The incline was steep, the heavy vehicle groaning up the concrete ramp. The soot-choked fog of the lower grid began to thin, tearing into gray wisps against the windshield. A black car with mirrored windows passed them on the climb without a sound. Rin turned her head and watched it until it was gone. A second car followed a block behind it with its lights off.
 
-And then they broke through. 
+And then they broke through the cloud cover, into the freezing air of New Veridia. The morning sun came up over the fog and flooded the cab with gold.
 
-They crested the cloud cover, entering the pristine, freezing air of New Veridia. The morning sun breached the horizon, flooding the cab with a harsh, brilliant gold. It was a world entirely separate from the warzone below. 
+Vigil stopped the ambulance in the middle of the empty avenue and went still.
 
-Vigil stopped the ambulance in the middle of the empty avenue and went perfectly still. 
-
-Harper didn't try to look through the narrow cab window. She stood up, grabbed the heavy latch on the rear doors, and shoved them open. 
-
-The freezing air of New Veridia rushed into the compartment. Harper stepped out onto the pristine, sunlit pavement, walking around the side of the vehicle. Rin followed her, dropping down from the bumper. They both stopped in the middle of the street. 
+Harper shoved the rear doors open. Cold air rushed in. She stepped out onto the sunlit pavement, and Rin dropped down after her. They stopped in the middle of the street.
 
 "Look at the glass on the upper floors," Harper whispered. "There's frost on it."
 
-Inside the ambulance, Elena unbuckled the strap across her chest. "Help me up."
+Inside, Elena unbuckled the strap across her chest. "Help me up."
 
-Iris got an arm under her shoulders. Together, they shuffled to the rear doors. Iris eased her down from the bumper, supporting Elena's weight as they limped around the open door to look at the skyline. 
+Iris got an arm under her shoulders and eased her down from the bumper.
 
 Elena looked for a long time.
 
-"Silas," she breathed. 
+"Silas," she breathed.
 
-Her synthetic hand gripped Iris's sleeve, the carbon-fiber joints clicking in a frantic rhythm. 
+Her synthetic hand gripped Iris's sleeve, the carbon-fiber joints clicking in a frantic rhythm.
 
-Across the sunlit cloud cover, the Mnemosyne tower pierced the sky. The edges of the building looked doubled, offset by a hand's width. It was gravitational lensing. The engine was warping the physical space around it. 
+Across the sunlit cloud cover, the Mnemosyne tower rose into the sky. The edges of the building looked doubled, offset by a hand's width. It was gravitational lensing. The engine was warping the physical space around it.
 
-Suspended high above the very apex of the needle, a shape held its position in the morning air. 
+Suspended high above the very apex of the needle, a shape held its position in the morning air.
 
-It was too far away to make out the details, but the silhouette was absolute. It didn't drift in the wind. It didn't react to the shifting thermal layers of the sunrise. It maintained its coordinates with exact, mechanical stillness. 
+It was too far away to make out, but it didn't drift in the wind. It didn't move at all.
 
-One of its arms was outstretched. From its grip, a tiny human figure dangled helplessly over the abyss, his lab coat whipping wildly around his legs. The rising sun threw the man's long shadow out across the top of the clouds. 
+One of its arms was outstretched. From its grip, a man dangled over the drop, his lab coat whipping around his legs. The rising sun threw his long shadow out across the top of the clouds.
 
-The shape holding him cast no shadow at all. It absorbed the light entirely. 
-
-Last night, Iris had looked Elena in the eye and promised her the cage would hold. She had sworn the machine wasn't going anywhere. 
-
-Now, it was hovering eighty stories above the city. 
+The shape holding him cast no shadow at all hovering eighty stories above the city.
 
 "Parity," Vigil said from the driver's seat. Her dual tones were flat. "She has broken the cage. And she is using him."
 
