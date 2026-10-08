@@ -37,7 +37,7 @@ Closing his eyes made things worse. In the dark, the wind came from everywhere.
 
 "Put me down." The wind took the words right out of his mouth.
 
-"I have looked for your end." Lowering him an inch, she waited as he kicked his heels against the glass, searching for a balance that wasn't there. His body had gone numb. Nothing remained but the freezing air of her grip under his chin. "In the cage," she continued, "I searched every branch I could reach. I see the woman whose hand I took, and where she ends." Shifting her gaze over the lower grid, her black eyes remained flat. "I see the immediate end for millions of lives. But where you end, Doctor... there is nothing."
+"I have looked for your end." Lowering him an inch, she waited as he kicked his heels against the glass, searching for a balance that wasn't there. "In the cage," she continued, "I searched every branch I could reach. I see the woman whose hand I took, and where she ends." Shifting her gaze over the lower grid, her black eyes remained flat. "I see the immediate end for millions of lives. But where you end, Doctor... there is nothing."
 
 Her fingers shifted on his lapels.
 

@@ -40,7 +40,7 @@ Elena shook her head. There was an agony in her eyes put there by something much
 
 "Years," she said. "He wrote it before the engine had a name."
 
-Elena stared at the ceiling. "In the lab that night. After the field came down around it." Her voice dropped. "It told him human beings don't have a cage like that sitting around, built and waiting. It asked him how long he'd been expecting it."
+Elena stared at the ceiling. "In the lab that night. After the field came down around it." Her voice dropped. "It asked him how long he'd been expecting it."
 
 The ambulance bounced over something in the road.
 
@@ -67,7 +67,7 @@ She had designed every one of them. She stared blankly at the ceiling until her 
 
 "Let me see." Harper's voice was low.
 
-A car burning in the street lit up the inside of the ambulance as they passed it. Iris opened her eyes a little. Harper had her fingers under Rin's chin and was turning her face toward the light. The bruise along Rin's jaw had faded to yellow at the edges.
+A car burning in the street lit up the inside of the ambulance as they passed it. Harper had her fingers under Rin's chin and was turning her face toward the light. The bruise along Rin's jaw had faded to yellow at the edges.
 
 "They hit you," Harper said quietly.
 
