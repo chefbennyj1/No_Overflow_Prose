@@ -59,7 +59,7 @@ Victor pulled the strap tight and shut his locker. He tossed his long black coat
 
 The air was thick down on the market streets. It was more than fog now—dust and smoke from the uprising in the preceding blocks. Victor cut the lights of his mag-car and glided to a quiet stop on the side of the flooded street. 
 
-Three blocks deep into the slums, where the road opened out and the gutters flooded. Sullivan and Brask's cruiser was parked across the street, its unpainted front panel pale in the dark. Neither of them had gotten out.
+Three blocks deep into the slums, where the road opened out and the gutters flooded. Sullivan and Brask's cruiser was parked across the street, mud covered its unpainted front panel, and the worn Oshima Police crest. Neither of them had gotten out.
 
 Harlan shifted in the passenger seat. "Vic. You know what this is, right? Sitting on two cops. Our cops."
 
