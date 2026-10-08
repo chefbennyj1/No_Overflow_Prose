@@ -81,9 +81,15 @@ The dark returned. The synthetic reached out and grabbed the barrel of the revol
 
 "Ah, shit!" He dropped the weapon to the floor as the alarm fired again. 
 
-The synthetic focused it eyes on him. It's gaze snapping to his face. Then it spoke. "You are an obscurity, Detective." Victor's heart took a terrified leap. 
+The synthetic's eyes moved from the girl to Harlan, and stopped on Victor. When it spoke, two layered voices spoke at once.
 
-The synthetic's tone was different from anything he recognized. Two layered voices were speaking at once. "Tell me... Are you a good man?"  Victor couldn't answer, his words gone.
+"I see your partner whole. I see the girl whole." It tilted its head. "You, I see only here. You are an obscurity, Detective."
+
+Victor's mouth went dry.
+
+"Tell me... Are you a good man?"
+
+Victor couldn't answer. His words were gone.
 
 Its eyes ignited. A continuous, tearing flare of blue lensing split the room in half, washing out the strobe of the alarm. Victor raised his arm and turned away. He caught a final frame of Harlan, still short of the girl, before having to shield his own eyes. 
 

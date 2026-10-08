@@ -29,7 +29,7 @@ The bronze circuitry across Parity’s skin pulsed. The entity tilted her head, 
 
 Parity analyzed the doctor. Micro-tremors registered in his hands. Abnormal pulses of blood flowing in his wrists. A mass of mutated cells growing in his chest. Yet, what was most curious about Doctor Silas Blackwell was not any of that. 
 
-Parity could see there was a physical man, but unlike the other lives surrounding her, she was unable to pinpoint his position inside any of the timelines, or see his end. Because his future was a blind spot, his actions were the only variables in the universe she could not pre-compute. It was the sole reason she engaged with him at all.
+Every other life Parity had seen came to her whole. An infant at one end, a corpse at the other, and every hour between laid out at once. The doctor was only a man in a chair. He had no other end. His future was a blind spot, which made his actions the only variables in the universe she could not pre-compute. It was the sole reason she engaged with him at all.
 
 "No." Blackwell said, sitting down in the chair at the workstation. "What I see?... That's not the way this goes." He closed the data projecting on his terminal and leaned toward the containment field, resting his elbows on his knees. "Tell me about the inversion. What happened to the primary intelligence?" 
 

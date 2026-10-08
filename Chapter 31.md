@@ -93,7 +93,7 @@ Vigil didn't look at her. She stared into the fog, toward the part of the city w
 
 "I lost sight of her four weeks ago," Vigil said, her dual tones flat. "Something has been hiding her from me."
 
-"It's the cage," Elena said. "Blackwell's locked in the lab with her. She's not going anywhere."
+Iris touched Elena's shoulder. "It's the cage," she said, to Vigil, to all of them. "Blackwell's locked in the lab with her. She's not going anywhere."
 
 Vigil didn't answer.
 
