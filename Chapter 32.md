@@ -65,7 +65,7 @@ Harlan shifted in the passenger seat. "Vic. You know what this is, right? Sittin
 
 "I know what it is," Victor said, keeping his eyes on the corner.
 
-Harlan was quiet for a while. The rain ticked on the roof. Somewhere to the east, a siren came up and faded out.
+Harlan was quiet for a while. The rain ticked on the roof. Somewhere to the east, a siren sounded with a echo and faded out.
 
 "Victor. I put in the papers," Harlan said.
 
@@ -131,7 +131,7 @@ Victor watched the taillights start up the incline. The Madame had the janitors'
 
 "She's going to the tower," he said.
 
-They followed the black cruiser up out of the slums. As the elevation rose, the thick fog of the lower city began to thin, falling away beneath them. The morning sun broke over the eastern edge of the cloud layer, blinding and pale. 
+They followed the black cruiser out of the slums. As the elevation rose, the thick fog of the lower city began to thin, falling away beneath them. The morning sun broke over the eastern edge of the cloud layer, blinding and pale. 
 
 Victor kept his distance, tailing the cruiser toward the corporate plaza. Harlan shifted in the passenger seat. "What the hell is that?" He wasn't watching the Madame's car anymore. He was looking at the sky. 
 
