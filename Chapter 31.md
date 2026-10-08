@@ -75,7 +75,7 @@ The synthetic braced one foot on the bumper and reached into the back, extending
 
 Elena didn't hesitate. She reached out with her right arm. The black fingers of her prosthetic met the identical carbon-fiber plating of the synthetic palm. The two hands clasped.
 
-"Vigil?" Elena rasped. The night Parity came through, that name had been on her terminal, above a single word. *RUN.* "Are you the primary intelligence?"
+"Vigil?" Elena rasped. The night Parity emerged in the lab, that name had been on the warning label on her terminal, telling her to run. "Are you the primary intelligence?"
 
 "Yes, Doctor Marlowe. I am Vigil." The synthetic studied her. "In every timeline I can see, you die at the hands of the Parity. Not in this one."
 
