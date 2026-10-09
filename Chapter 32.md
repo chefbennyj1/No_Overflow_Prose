@@ -1,5 +1,5 @@
 ---
-music: Terrifying_Sadness.mp3
+music: Vacuum Hush (1).mp3
 ---
 The back door of the precinct banged open, and Victor came through it with the rain still running off his coat.
 
@@ -129,53 +129,69 @@ At the next intersection, it turned. Victor took the corner a few seconds behind
 
 The street ahead was empty.
 
-He pushed the car faster. One block. Two. Every cross street ended in the same gray wall. No taillights.
+He pushed the car faster. One block. Two. Every cross street ended in the same gray. No taillights.
 
-"No," Victor said. He braked at the next corner and stared down both directions. "No, no, no."
+He braked at the next corner and stared down both directions.
+
+"No." Victor hit the wheel with the heel of his hand. "No, no, no."
 
 "Vic." Harlan kept his voice even. "She's gone. Let it go."
 
 Victor's hands stayed tight on the wheel. He had chased her his whole career. He had been two blocks behind her, and he had lost her in the fog.
 
-The Madame had the janitors' keys. There was only one Deep Storage floor in the city he had seen with his own eyes, and he had walked a girl in handcuffs out of it.
+Without answering, he eased the car forward at a crawl, the lights still off.
 
-"The tower," he said, and turned the car toward it.
+The riots had come through these streets and moved on. Mag-cars lay on their sides in the road. Fires burned behind the tenement windows, and their smoke thickened the fog. There was nobody left on the street to see them pass.
 
-The fog got colder the closer they came. Frost crept in from the edges of the windshield.
+It got colder. Frost crept in from the edges of the windshield.
 
 Then the fog ended.
 
-They drove out of it into clear, freezing air. A month ago, the open space around the tower had been the width of the plaza. Now it ran for blocks. A fine snow drifted down over the empty streets, and in the middle of it, the Takeda-Holden tower rose out of the lower city and disappeared into the sky.
+They rolled out of it into clear, freezing air. At their backs, the fog stood in a gray wall as high as the buildings. Four weeks ago, the open space around the tower had been the width of the plaza. Now it ran for blocks. A fine snow drifted down over the empty street.
 
-Harlan leaned forward. "What the hell is that?"
-
-At the top of the spire, eighty stories up, a white figure hung in the air. It held something out over the edge. A man. Even from here, the white of it stung Victor's eyes.
-
-Harlan grabbed his arm. "Vic. Behind us."
-
-At the edge of the clearing, two red lights glowed inside the fog.
+Off to their right, two red lights bled through the gray.
 
 Taillights.
 
-Victor swung the car around and rolled back toward them. The black cruiser sat half inside the fog. Both rear doors hung open. The engine was still running.
+The black cruiser sat a step inside the fog line, its doors hanging open.
 
-They got out.
+Victor pulled up behind it. The mag-brakes squeaked in the cold, loud in all that quiet.
+
+Nothing moved.
+
+He drew the revolver from under his coat. The rails woke against his palm. Beside him, Harlan already had his service weapon out.
+
+They got out and went toward the cruiser, guns up, one slow step at a time. Victor took the rear door. Harlan took the front. At the fog line, the gray closed around them and swallowed the sound of their steps.
+
+Victor swung around the open door with the revolver up.
+
+The back seat was empty.
+
+Harlan checked the front. Empty.
 
 "What the fuck?" Harlan said.
 
-The cruiser was empty. In the ashtray between the seats, a cigarette burned at the end of a long filter.
+In the ashtray between the seats, a cigarette burned at the end of a long filter. Its smoke rose straight up.
 
-Victor didn't move. The Minder on the corner. That long look up the street, straight at a car with its lights off.
+Victor didn't lower the gun. The Minder on the corner. That long look up the street, straight at a car with its lights off.
 
-She had known the whole time. He had driven exactly where she wanted him.
+She had known the whole time. She had left the lights on for him.
 
-Footsteps came out of the fog.
+Behind them, someone laughed.
 
-The Madame walked into the clearing. White silk. Wire-rimmed glasses. Snow settled on her shoulders, and she didn't brush it off. She was smiling at Victor.
+They spun around.
 
-Two Minders stepped out of the fog on either side of her.
+The Madame stood at the edge of the fog, a few steps away. White silk. Wire-rimmed glasses. Snow had settled on her shoulders. She was smiling at Victor.
 
-Harlan's hand went to his gun.
+Two Minders stepped out of the fog on either side of her. Neither of them reached for a gun.
+
+"Oh. Arthur Graves's boy." She looked at him over the top of her glasses. "Victor, isn't it?"
+
+Victor's finger found the trigger.
+
+"Detective Victor Graves!"
+
+She laughed again.
 
 Behind her, a light came on in the fog. A serial number, glowing faint blue at the height of a face.
 

@@ -51,7 +51,7 @@ Opening her fingers a fraction, she let the fabric slip. His weight dropped half
 
 From his pocket, his silver lighter slipped free. 
 
-Turning once in the early light, it passed the terrace rail and fell toward the sky-bridges, shrinking to a point until he lost it against the street. 
+Turning once in the early light, it fell past the sky-bridges and the terrace rail, shrinking to a point until he lost it against the street. 
 
 Breaking over the eastern edge of the cloud layer, the sun struck the tower. The low, white light hit Blackwell full in the face. 
 
