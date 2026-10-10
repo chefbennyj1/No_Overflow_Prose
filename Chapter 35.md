@@ -29,7 +29,7 @@ He worked it through.
 
 The Madame had her army. Now she had the bodies marching beside the car.
 
-*They built a black hole in the middle of the city,* Erin Adler had said. *And they don't have control over it.*  Blackwell's Mnemosyne laboratory from the logs. Iris Ito had warned them about the dangers of Blackwell's lab experiment, she was adamant they had run out of time. He had ignored her requests for help because he wanted to catch Null. He wanted to catch the Madame.   
+*They built a black hole in the middle of the city,* Erin Adler had said. *And they don't have control over it.*  Blackwell's Mnemosyne laboratory. Iris Ito had warned them about the dangers of Blackwell's lab experiment, she was adamant they had run out of time. He had ignored her requests for help because he wanted to catch Null. He wanted to catch the Madame.   
 
 "This was never about the riots, or the synths," Victor said.
 
@@ -59,7 +59,7 @@ Victor went still.
 
 *The Madame don't just trust anyone, ya know.* His father had said it a hundred times, pointing at the window with a shaking hand. Victor had never once pictured the car.
 
-Across from him, the Minder from the corner still held the revolver. Polished loafers. Eyes on nothing.
+Across from him, the Minder still held the revolver. Polished loafers. Eyes on nothing.
 
 This was what his father had been.
 
