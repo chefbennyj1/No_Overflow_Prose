@@ -27,15 +27,15 @@ Victor didn't answer. He had put Harlan in this car. He was going to have to get
 
 He worked it through.
 
-The Madame had succeeded in obtaining her army. Now the bodies were walking beside the car.
+The Madame had her army. Now the bodies were walking beside the car.
 
 *They built a black hole in the middle of the city,* Erin Adler had said. *And they don't have control over it.* The night he first chased her, a wireframe of that same tower had been glowing on an office window, with a laboratory drawn inside it.
 
-"This was never about the riots, or synths." Victor said.
+"This was never about the riots, or the synths," Victor said.
 
 The Madame drew on her cigarette.
 
-"You're going for what's  in that lab. Whatever they built under that tower."
+"You're going for what's in that lab. Whatever they built under that tower."
 
 She looked at him over the top of her wire-rimmed glasses.
 
@@ -47,9 +47,9 @@ She looked at him over the top of her wire-rimmed glasses.
 
 "Why bring us?"
 
-She tapped her ash into the tray. "I know who you are Graves. I've heard I'm somewhat of a celebrity in your little world." She laughed a long raspy laugh. "You should see how it ends."
+She tapped her ash into the tray. "I know who you are, Graves. I've heard I'm something of a celebrity in your little world." She laughed a long raspy laugh. "You should see how it ends."
 
-The cruiser crept on. Victor shifted uncomfortably in his seat.
+The cruiser crept on. Under him, by the door, the leather was worn smooth, where someone had sat for years.
 
 "Your father used to sit there," she said.
 
@@ -69,15 +69,17 @@ The Minder held the revolver out, grip first.
 
 Victor took it. The rails woke against his palm, a charge crawling up into his wrist. She sat close enough to touch, her face turned to the window.
 
-Across from him, the other Minder slid a hand inside his coat. Something under the coat pressed into Harlan's ribs, and Harlan froze.
+Across from him, the other Minder slid a hand inside his coat, pressing a gun hard into Harlan's ribs. Harlan froze.
 
 "Vic," Harlan said.
 
 Victor laid the revolver on his knee.
 
-The cruiser left the snow and went back into the fog. A few blocks later, the road tilted up under them, and they started to climb.
+The cruiser left the snow and went back into the fog. The road tilted up under them, and they started the climb toward New Veridia.
 
 Through the rear glass, the rest of the army climbed after them. The rows came up the ramp out of the fog, in step. The fog gave them up a row at a time, and there were still more inside it.
+
+Behind the last rows, people were coming up out of the fog too. Dirty masks, coats soaked through. They followed the army up the ramp into New Veridia.
 
 Then the cruiser broke out of the fog, and the morning sun filled the car. Victor shut his eyes against it.
 
@@ -89,7 +91,7 @@ At the top of the tower steps, a Renewal line was waiting. The agents stood behi
 
 Behind the cruiser, the army walked onto the plaza and spread out across it.
 
-A Minder opened Victor's door, and the cold came in.
+A Minder opened Victor's door, and the cold rushed in.
 
 They got out.
 
@@ -148,6 +150,8 @@ It went past Victor on both sides. Plastic brushed his coat. A feeding tube drag
 The Renewal line fired.
 
 The front rows jerked and went down on the stones. The rows behind them stepped over the bodies and kept walking. None of them fired back. None of them ran. They walked into the guns.
+
+Behind them, the crowd came up onto the plaza and filled the gaps between the statues. Some of them looked up at the tower and stopped. The people behind them pushed them on.
 
 Victor looked up one more time. It hurt.
 
