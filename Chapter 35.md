@@ -7,7 +7,7 @@ It got smaller in the rear glass of the Madame's cruiser.
 
 At the fog line, the Minders had taken their guns and walked them to the car. Nobody had said a word.
 
-The back of the cruiser was warm and smelled of leather and smoke. Two benches faced each other. Victor sat on the rear one, by the door. Across from him, Harlan sat between the two Minders with his hands in his lap. The Minder on the left was the one from the corner, and Victor's revolver rested on his thigh.
+The back of the cruiser was warm and smelled of leather and smoke. Two benches faced each other. Victor sat on the rear one, by the door. Across from him, Harlan sat between the two Minders with his hands in his lap. The Minder on the left had Victor's revolver resting on his thigh.
 
 Up front, behind a glass partition, a synthetic drove. Its serial showed blue in the rearview mirror.
 
