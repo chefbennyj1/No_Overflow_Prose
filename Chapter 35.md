@@ -87,17 +87,23 @@ New Veridia was empty. Nobody stood on the terraces, and nobody crossed the sky-
 
 The cruiser rolled onto the tower's front plaza and stopped. Along its edges, the black statues of gods and goddesses stood white with frost.
 
-At the top of the tower steps, a Renewal line was waiting. The agents stood behind locked shields, the red seams glowing down the centers of their helmets. Their rifles were already up.
+The plaza was full of people from the lower city. Barricades stood half-built between the statues. A man by the nearest one still had a bottle raised over his head. Nobody was fighting. Nobody was moving at all. Every face on the plaza was turned up.
 
-Behind the cruiser, the army walked onto the plaza and spread out across it.
+A Renewal line held the top of the tower steps. The agents stood behind locked shields, the red seams glowing down the centers of their helmets. Every rifle was pointed straight up. Spent brass lay on the frost around their boots.
+
+Behind the cruiser, the army stopped with it.
 
 A Minder opened Victor's door, and the cold rushed in.
 
 They got out.
 
-Above them, the tower went up in a single sheet of frosted glass, its edges doubled a hand's width apart. At the top of the spire, something white hung in the air.
+Hundreds of people, and not one of them made a sound. Victor followed their faces up.
+
+Above them, the tower went up in a single sheet of frosted glass, its edges lensed and shifted. At the top of the spire, something white hung in the air.
 
 It was shaped like a woman, with long black hair hanging straight down her back. She held a man by the collar, out over the drop. The wind up there whipped his coat around him. It didn't touch her hair. His legs kicked. He was alive.
+
+Renewal had fired at her with a man in her hand. There wasn't a mark on either of them.
 
 Victor tried to keep his eyes on her. He couldn't. The white of her hurt to look at. His eyes watered, and the edges of everything went bright. He dropped his eyes to the frost on the stones and waited for the burning to stop.
 
@@ -119,7 +125,11 @@ Whatever the doctor had built was holding him off the top of his own building.
 
 Victor turned to the Madame and waited for her face to change.
 
-It didn't. She drew on the cigarette and let the smoke out. Then she walked out to the front of her army.
+It didn't. She drew on the cigarette and let the smoke out. Then she walked out to the front of the plaza alone.
+
+The crowd turned to watch her go, and saw what was standing behind the cruiser. People stumbled back between the statues.
+
+On the steps, the rifles came down out of the sky. The whole line turned to face the army.
 
 Her back was to him. The revolver hung at his side. The Minder behind Harlan kept a hand on his collar.
 
@@ -137,7 +147,7 @@ Harlan almost laughed. It didn't come out.
 
 At the front of the plaza, the Madame lifted one hand.
 
-Behind her, the army stopped. Hundreds of bodies, all at once.
+Behind the cruiser, the army took one step. Hundreds of bodies, all at once.
 
 The Renewal loudspeaker came on, a synthesized voice ordering them to disperse.
 
@@ -147,11 +157,13 @@ The army walked.
 
 It went past Victor on both sides. Plastic brushed his coat. A feeding tube dragged across his shoe and left a blue streak on the frost.
 
+Ahead of it, the crowd split and pressed back against the statues.
+
 The Renewal line fired.
 
 The front rows jerked and went down on the stones. The rows behind them stepped over the bodies and kept walking. None of them fired back. None of them ran. They walked into the guns.
 
-Behind them, the crowd came up onto the plaza and filled the gaps between the statues. Some of them looked up at the tower and stopped. The people behind them pushed them on.
+Behind them, the crowd didn't move. The bodies took every round.
 
 Victor looked up one more time. It hurt.
 
