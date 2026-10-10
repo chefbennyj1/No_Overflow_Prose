@@ -129,15 +129,9 @@ Her back was to him. The revolver hung at his side. The Minder behind Harlan kep
 
 Victor didn't raise it.
 
-"Vic," Harlan said quietly. "That thing in the interview room. Before it lit the place up, it asked you something."
+"Vic," Harlan said quietly. "That thing in the interview room. Is that it up there?"
 
-Victor said nothing.
-
-"It asked if you were a good man." Harlan kept his eyes on the steps. "You never answered it."
-
-"Ask me after this," Victor said.
-
-Harlan almost laughed. It didn't come out.
+"I'm not sure." Victor kept his eyes on the figure. 
 
 At the front of the plaza, the Madame lifted one hand.
 
