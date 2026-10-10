@@ -27,7 +27,7 @@ Victor didn't answer. He had put Harlan in this car. He was going to have to get
 
 He worked it through.
 
-The Madame had her army. Now she had the bodies marching beside the car.
+The Madame had her army. She had them marching beside the car.
 
 *They built a black hole in the middle of the city,* Erin Adler had said. *And they don't have control over it.*  Blackwell's Mnemosyne laboratory. Iris Ito had warned them about the dangers of Blackwell's lab experiment, she was adamant they had run out of time. He had ignored her requests for help because he wanted to catch Null. He wanted to catch the Madame.   
 
