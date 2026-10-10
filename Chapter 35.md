@@ -27,9 +27,9 @@ Victor didn't answer. He had put Harlan in this car. He was going to have to get
 
 He worked it through.
 
-The Madame had her army. Now the bodies were walking beside the car.
+The Madame had her army. Now she had the bodies marching beside the car.
 
-*They built a black hole in the middle of the city,* Erin Adler had said. *And they don't have control over it.* The night he first chased her, a wireframe of that same tower had been glowing on an office window, with a laboratory drawn inside it.
+*They built a black hole in the middle of the city,* Erin Adler had said. *And they don't have control over it.*  Blackwell's Mnemosyne laboratory from the logs. Iris Ito had warned them about the dangers of Blackwell's lab experiment, she was adamant they had run out of time. He had ignored her requests for help because he wanted to catch Null. He wanted to catch the Madame.   
 
 "This was never about the riots, or the synths," Victor said.
 
@@ -39,17 +39,19 @@ The Madame drew on her cigarette.
 
 She looked at him over the top of her wire-rimmed glasses.
 
-"The Company has dropped something, Detective," she said. "I intend to pick it up."
+"The Company has developed the ability to breed something extremely powerful, Detective. But they have dropped it," she said. "I intend to pick it up."
 
-"The girl said it got out."
+"Erin Adler said it got out."
 
-"Then it will need a new owner."
+"Erin Adler?" the Madame laughed. "I knew that little street rat lifted more then my access keys." She cleared her throat. "If what's in that lab got out, then it will need a new owner."
 
-"Why bring us?"
+The Madame hadn't seen the blinding power of the synthetics eyes like he had. She had no idea what she was messing with.  
+
+"Why bring us?" Victor asked.
 
 She tapped her ash into the tray. "I know who you are, Graves. I've heard I'm something of a celebrity in your little world." She laughed a long raspy laugh. "You should see how it ends."
 
-The cruiser crept on. Under him, by the door, the leather was worn smooth, where someone had sat for years.
+The cruiser crept on. 
 
 "Your father used to sit there," she said.
 
@@ -77,9 +79,7 @@ Victor laid the revolver on his knee.
 
 The cruiser left the snow and went back into the fog. The road tilted up under them, and they started the climb toward New Veridia.
 
-Through the rear glass, the rest of the army climbed after them. The rows came up the ramp out of the fog, in step. The fog gave them up a row at a time, and there were still more inside it.
-
-Behind the last rows, people were coming up out of the fog too. Dirty masks, coats soaked through. They followed the army up the ramp into New Veridia.
+Through the rear glass, the rest of the army climbed after them. The rows came up the ramp out of the fog, and there were still more inside it.
 
 Then the cruiser broke out of the fog, and the morning sun filled the car. Victor shut his eyes against it.
 
@@ -87,7 +87,7 @@ New Veridia was empty. Nobody stood on the terraces, and nobody crossed the sky-
 
 The cruiser rolled onto the tower's front plaza and stopped. Along its edges, the black statues of gods and goddesses stood white with frost.
 
-The plaza was full of people from the lower city. Barricades stood half-built between the statues. A man by the nearest one still had a bottle raised over his head. Nobody was fighting. Nobody was moving at all. Every face on the plaza was turned up.
+The plaza was full of armed people from the lower city. Barricades stood half-built between the statues. Nobody was fighting. Nobody was moving at all. Every face on the plaza was turned up.
 
 A Renewal line held the top of the tower steps. The agents stood behind locked shields, the red seams glowing down the centers of their helmets. Every rifle was pointed straight up. Spent brass lay on the frost around their boots.
 
@@ -111,13 +111,7 @@ On the other side of the cruiser, Harlan was holding the roof with both hands.
 
 "Vic." His voice cracked. "That's a person. It's holding a person."
 
-"I see it."
-
-"He's in a lab coat."
-
-Victor made himself look again, a second at a time. A lab coat, at the top of this tower.
-
-"Blackwell," Victor said.
+"I see it." Victor made himself look again, a second at a time. A lab coat, at the top of this tower. "Blackwell," Victor said.
 
 Harlan stared at him. "The doctor?"
 
