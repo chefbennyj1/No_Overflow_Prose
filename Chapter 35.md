@@ -23,17 +23,15 @@ Harlan hadn't taken his eyes off the revolver.
 
 "Jackie's gonna kill me," he said.
 
-Victor didn't answer. He had put Harlan in this car. Two blocks back, with the lights off, he had put him in it.
+Victor didn't answer. He had put Harlan in this car. He was going to have to get them out of it.
 
 He worked it through.
 
-The janitors' keys. Four weeks ago, he had walked a girl in handcuffs out of a Deep Storage floor under the Takeda-Holden tower, past rows of bodies sleeping under plastic. In the interview room, with the light burning through his eyelids, she had asked him what the Madame would want with janitorial access.
+The Madame had succeeded in obtaining her army. Now the bodies were walking beside the car.
 
-Now the bodies were walking beside the car.
+*They built a black hole in the middle of the city,* Erin Adler had said. *And they don't have control over it.* The night he first chased her, a wireframe of that same tower had been glowing on an office window, with a laboratory drawn inside it.
 
-*They built a black hole in the middle of the city,* she had said. *And they don't have control over it.* The night he first chased her, a wireframe of that same tower had been glowing on an office window, with a laboratory drawn inside it.
-
-"This was never about the riots," Victor said.
+"This was never about the riots, or synths." Victor said.
 
 The Madame drew on her cigarette.
 
