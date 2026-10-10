@@ -35,7 +35,7 @@ The Madame had succeeded in obtaining her army. Now the bodies were walking besi
 
 The Madame drew on her cigarette.
 
-"You're going for the lab. Whatever they built under that tower."
+"You're going for what's  in that lab. Whatever they built under that tower."
 
 She looked at him over the top of her wire-rimmed glasses.
 
@@ -47,15 +47,15 @@ She looked at him over the top of her wire-rimmed glasses.
 
 "Why bring us?"
 
-She tapped her ash into the tray. "You have chased me your whole career. You should see how it ends."
+She tapped her ash into the tray. "I know who you are Graves. I've heard I'm somewhat of a celebrity in your little world." She laughed a long raspy laugh. "You should see how it ends."
 
-The cruiser crept on. Under him, by the door, the leather was worn smooth, where someone had sat for years.
+The cruiser crept on. Victor shifted uncomfortably in his seat.
 
 "Your father used to sit there," she said.
 
 Victor went still.
 
-*The Madame don't just trust anyone, ya know.* His father had said it from the corduroy chair a hundred times, pointing at the window with a shaking hand. Victor had never once pictured the car.
+*The Madame don't just trust anyone, ya know.* His father had said it a hundred times, pointing at the window with a shaking hand. Victor had never once pictured the car.
 
 Across from him, the Minder from the corner still held the revolver. Polished loafers. Eyes on nothing.
 
