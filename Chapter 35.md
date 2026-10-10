@@ -1,5 +1,5 @@
 ---
-music: Uneasy Half-Step.mp3
+music: The Madame.mp3
 ---
 Victor's car sat at the edge of the clearing, still running on its cushion. Both doors hung open. Snow drifted in and settled on the seats. The street around it was empty.
 
@@ -103,7 +103,7 @@ Above them, the tower went up in a single sheet of frosted glass, its edges lens
 
 It was shaped like a woman, with long black hair hanging straight down her back. She held a man by the collar, out over the drop. The wind up there whipped his coat around him. It didn't touch her hair. His legs kicked. He was alive.
 
-Renewal had fired at her with a man in her hand. There wasn't a mark on either of them.
+Renewal had fired at her. There wasn't a mark on either of them.
 
 Victor tried to keep his eyes on her. He couldn't. The white of her hurt to look at. His eyes watered, and the edges of everything went bright. He dropped his eyes to the frost on the stones and waited for the burning to stop.
 
@@ -111,7 +111,7 @@ On the other side of the cruiser, Harlan was holding the roof with both hands.
 
 "Vic." His voice cracked. "That's a person. It's holding a person."
 
-"I see it." Victor made himself look again, a second at a time. A lab coat, at the top of this tower. "Blackwell," Victor said.
+"I see it." Victor made himself look again, a second at a time. A person in a lab coat, at the top of the tower. "Blackwell," Victor said.
 
 Harlan stared at him. "The doctor?"
 
