@@ -107,7 +107,7 @@ The Minder didn't shake their hands. He held something out.
 It didn't open.
 
 
-The Minder turned to get back in the car, and stopped. He looked up the street, directly toward Victor's car idling in the dark. He didn't move for two slow passes of the windshield wipers clearing the sheeting rain.
+The Minder turned to get back in the car, and stopped. He looked up the street, directly toward Victor's car idling in the dark. He didn't move for two slow passes of the windshield wipers clearing the rain.
 
 Harlan's hand went to his holster. "Vic."
 

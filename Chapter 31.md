@@ -1,9 +1,9 @@
 ---
 music: Vacuum Hush.mp3
 ---
-Elena lay on the stretcher in the back of the ambulance, clutching her ribs. Streetlights blurred through the wet glass of the rear windows.
+Elena lay on the stretcher in the back of the ambulance, clutching her ribs. Through the wet glass of the rear doors, the blurred orange halos of the streetlights had slowed from a frantic smear to a crawl, until the last ring of amber hung completely motionless in the condensation. 
 
-Ten minutes ago, the siren had cut out and the ambulance had hijacked itself. Now it sat dead on its cushion on a quiet street in the rain.
+The siren had cut out and the ambulance had hijacked itself. Now it sat dead on its cushion on a quiet street in the rain.
 
 From the driver's seat, Iris slammed her hands against the dash.
 
