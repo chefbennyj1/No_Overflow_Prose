@@ -113,7 +113,7 @@ On the other side of the cruiser, Harlan was holding the roof with both hands.
 
 "Vic." His voice cracked. "That's a person. It's holding a person."
 
-"I see it." Victor made himself look again, a second at a time. A person in a lab coat, at the top of the tower. "Blackwell," Victor said.
+"I see it." Victor forced his eyes back up, taking in the spire in short, stinging blinks. A person in a lab coat, at the top of the tower. "Blackwell," Victor said.
 
 Harlan stared at him. "The doctor?"
 
