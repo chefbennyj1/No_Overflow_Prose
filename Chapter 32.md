@@ -107,7 +107,7 @@ The Minder didn't shake their hands. He held something out.
 It didn't open.
 
 
-The Minder turned to get back in the car, and stopped. He looked up the street, directly toward Victor's car idling in the dark. For a long second, he didn't move.
+The Minder turned to get back in the car, and stopped. He looked up the street, directly toward Victor's car idling in the dark. He didn't move for two slow passes of the windshield wipers clearing the sheeting rain.
 
 Harlan's hand went to his holster. "Vic."
 
@@ -125,7 +125,7 @@ Victor started the engine.
 
 He kept the headlights off and stayed two blocks back, following the red of the cruiser's taillights through the fog. It moved slowly through the lower grid, past the gutted storefronts and the barricades, away from the fighting.
 
-At the next intersection, it turned. Victor took the corner a few seconds behind it.
+At the next intersection, it turned. Victor let the cruiser's churning wake of mist settle across the asphalt before taking the corner.
 
 The street ahead was empty.
 
