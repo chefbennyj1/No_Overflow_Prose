@@ -5,7 +5,7 @@ Victor's car sat at the edge of the clearing, still running on its cushion. Both
 
 It got smaller in the rear glass of the Madame's cruiser.
 
-High above the fog, the first wash of morning had begun to touch the upper spires, practically invisible from down below. Here in the lower grid, the streets were still drowned in murk. Every few seconds, the glowing orange of a sodium streetlight cut through the tinted glass, dragging slow, rhythmic lines across the cabin and streaking amber over the passengers inside.
+High above the fog, the first wash of morning had begun to touch the upper spires, practically invisible from down below. Here in the lower grid, the streets were still drowned in murk. Every second cycle of the cars magnetic cushion, the glowing orange of a sodium streetlight cut through the tinted glass, dragging slow, rhythmic lines across the cabin and streaking amber over the passengers inside.
 
 At the fog line, the Minders had taken their guns and walked them to the car.
 
