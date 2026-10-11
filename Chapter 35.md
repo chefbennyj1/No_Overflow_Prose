@@ -7,7 +7,7 @@ It got smaller in the rear glass of the Madame's cruiser.
 
 High above the fog, the first wash of morning had begun to touch the upper spires, practically invisible from down below. Here in the lower grid, the streets were still drowned in murk. Every few seconds, the glowing orange of a sodium streetlight cut through the tinted glass, dragging slow, rhythmic lines across the cabin and streaking amber over the passengers inside.
 
-At the fog line, the Minders had taken their guns and walked them to the car. Nobody had said a word.
+At the fog line, the Minders had taken their guns and walked them to the car.
 
 The back of the cruiser was warm and smelled of leather and smoke. Two benches faced each other. Victor sat on the rear one, by the door. Across from him, Harlan sat between the two Minders with his hands in his lap. The Minder on the left had Victor's revolver resting on his thigh.
 
