@@ -11,7 +11,7 @@ Elena lay on the stretcher under a thermal blanket, strapped in at the chest and
 
 Iris unclipped the stolen badge from her shirt. The name on it was of a doctor she had never met. She set it face-down on the cabinet.
 
-Harper stared at the digital clock glowing on the dashboard for a long time. Then she leaned forward. "Lady..."
+Half a dozen sodium streetlights swept past the wet rear glass, dragging rhythmic bands of orange across the cabin floor. Across from the stretcher, Harper leaned forward, her eyes fixed on the cab. "Lady..."
 
 Iris looked up.
 
