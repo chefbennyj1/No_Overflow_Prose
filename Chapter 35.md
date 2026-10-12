@@ -5,8 +5,6 @@ Victor's car sat at the edge of the clearing, still running on its cushion. Both
 
 It got smaller in the rear glass of the Madame's cruiser.
 
-High above the fog, the first wash of morning had begun to touch the upper spires, practically invisible from down below. Here in the lower grid, the streets were still drowned in murk. Every second cycle of the cars magnetic cushion, the glowing orange of a sodium streetlight cut through the tinted glass, dragging slow, rhythmic lines across the cabin and streaking amber over the passengers inside.
-
 At the fog line, the Minders had taken their guns and walked them to the car.
 
 The back of the cruiser was warm and smelled of leather and smoke. Two benches faced each other. Victor sat on the rear one, by the door. Across from him, Harlan sat between the two Minders with his hands in his lap. The Minder on the left had Victor's revolver resting on his thigh.
@@ -31,7 +29,9 @@ He worked it through.
 
 The Madame had her army. She had them marching beside the car.
 
-*They built a black hole in the middle of the city,* Erin Adler had said. *And they don't have control over it.*  Blackwell's Mnemosyne laboratory. Iris Ito had warned them about the dangers of Blackwell's lab experiment, she was adamant they had run out of time. He had ignored her requests for help because he wanted to catch Null. He wanted to catch the Madame.   
+*They built a black hole in the middle of the city,* Erin Adler had said. *And they don't have control over it.* 
+
+Blackwell's laboratory. Back at the precinct, Iris Ito had warned them the experiment was running out of time. He had brushed her off to chase Null. To chase the Madame.
 
 "This was never about the riots, or the synths," Victor said.
 
@@ -45,9 +45,9 @@ She looked at him over the top of her wire-rimmed glasses.
 
 "Erin Adler said it got out."
 
-"Erin Adler?" the Madame laughed. "I knew that little street rat lifted more then my access keys." She cleared her throat. "If what's in that lab got out, then it will need a new owner."
+"Erin Adler?" The Madame laughed. "I knew that little street rat lifted more than my access keys." She cleared her throat. "If what's in that lab got out, then it will need a new owner."
 
-The Madame hadn't seen the blinding power of the synthetics eyes like he had. She had no idea what she was messing with.  
+The Madame hadn't seen the blinding power of the synthetics' eyes like he had. She had no idea what she was messing with.  
 
 "Why bring us?" Victor asked.
 
@@ -79,7 +79,7 @@ Across from him, the other Minder slid a hand inside his coat, pressing a gun ha
 
 Victor laid the revolver on his knee.
 
-The cruiser left the snow and went back into the fog. The road tilted up under them, and they started the climb toward New Veridia.
+The cruiser left the snow and went back into the fog. The road tilted up under them, and they started the climb toward New Veridia. Every second cycle of the car's magnetic cushion, a sodium streetlight cut through the murk, dragging rhythmic bars of orange across the cabin.
 
 Through the rear glass, the rest of the army climbed after them. The rows came up the ramp out of the fog, and there were still more inside it.
 
@@ -93,7 +93,7 @@ The plaza was full of armed people from the lower city. Barricades stood half-bu
 
 A Renewal line held the top of the tower steps. The agents stood behind locked shields, the red seams glowing down the centers of their helmets. Every rifle was pointed straight up. Spent brass lay on the frost around their boots.
 
-Behind the cruiser, the army stopped with it.
+The army stopped with it, holding ranks in the frost.
 
 A Minder opened Victor's door, and the cold rushed in.
 
@@ -123,7 +123,7 @@ Victor turned to the Madame and waited for her face to change.
 
 It didn't. She drew on the cigarette and let the smoke out. Then she walked out to the front of the plaza alone.
 
-The crowd turned to watch her go, and saw what was standing behind the cruiser. People stumbled back between the statues.
+The crowd turned to watch her go, and saw what stood assembled at her back. People stumbled back between the statues.
 
 On the steps, the rifles came down out of the sky. The whole line turned to face the army.
 
