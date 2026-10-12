@@ -11,7 +11,7 @@ Veering away from the main thoroughfare, Rin stepped through piles of garbage an
 
 Rin tuned it out, as she pulled the red drive from her pocket. A muffled siren wailed deep in the city blocks behind her.  She turned the metal casing over, her thumb tracing the edges. *Renewal wouldn't care about stolen sanitation data.* She paused. *They're looking for this.* Pocketing the drive she stepped back out from under the awning. 
 
-Degraded vehicles suspended above the broken pavement on magnetic cushions glided past sluggishly, under the orange sodium glow of the overhead street lights along the wet road. They vibrated loudly, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars and vanished into the fog.
+The orange sodium burn of the streetlights illuminated the wet road, as degraded vehicles suspended above the broken pavement on magnetic cushions glided past sluggishly. They vibrated loudly, pushing the flooding rainwater away in a continuous ripple. Rin crossed the road between the passing mag-cars and vanished into the fog.
 
 Three blocks deep into the slums, an angled luxury cruiser idled in the rain, out of place. It was a low-slung wedge of glossy black panels and dark mirror glass that reflected the city's lights. Its magnetic cushion was a flawless, silent vibration.
 
@@ -54,3 +54,5 @@ The Madame gave a slight nod. The broad-shouldered man reached into his suit jac
 Rin snatched it out of the freezing rain. It was exactly what she had asked for. The gold lettering on the single mag-train ticket caught the red glow of the taillights: *SONORA TERRITORIES*.
 
 The Madame leaned forward slightly, her eyes dropping to the ticket in Rin's hand. "The Sonora Territories," she said, a faint smile pulling at the deep lines around her mouth. "A very long way from the rain, Erin Adler."
+
+Degraded vehicles glided sluggishly along the wet pavement on magnetic cushions, passing under the orange glow of the streetlights. They vibrated, pushing the rainwater away in continuous ripples. Rin crossed between the passing mag-cars and vanished into the fog.
