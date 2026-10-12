@@ -55,7 +55,7 @@ Parity could see the pulse spike in the throbbing of the large vein running up t
 
 Parity focused her optics directly on his pupils. "There is only one path forward, Doctor Blackwell. Destroying redundancies is mandatory. Also, removing anything unreadable in the timeline is... inevitable."
 
-Parity paused for a moment before continuing. 
+She watched his pupils dilate in the reflected light of the containment field. 
 
 "...The Vigil—"
 

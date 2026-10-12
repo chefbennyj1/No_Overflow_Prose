@@ -131,7 +131,7 @@ Victor and Harlan stumbled backward, breaking through the fire door and collapsi
 
 Harlan leaned heavily against the concrete wall, his lungs burning as he gasped for air. "God... damn it!" he wheezed. "Did you... did you get a good look at her?"
 
-Victor remained silent for a moment, his red, bloodshot eyes fixed on the metal of the fire door. He replayed the split-second of eye contact in his mind. The sharp eyes. The feminine silhouette backlit by the bright light of the office. 
+Harlan choked on another dry, burning gasp. Victor didn't look away from the fire door. In his mind, the split-second of eye contact looped again: the sharp eyes, the feminine silhouette backlit by the office light. 
 
 "I did," Victor said, catching his breath.
 

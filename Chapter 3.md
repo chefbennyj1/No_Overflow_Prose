@@ -38,13 +38,11 @@ Before Rin could answer, the streetlights above them died.
 
 The neon signs down the block spasmed and shut off. The entire area of the lower city plunged into a sudden blackout. People shouted out from deep in the city, as the lights of passing mag-cars painted long shadows on the broken brick. The only steady light left on the flooded street came from the red glow of the cruiser's taillights.
 
-The Madame didn't even flinch. She took a slow drag from her long cigarette, the end burning bright.
-
-A long second later, the power surged back into the grid. The streetlights flickered to life. 
+The Madame didn't even flinch. She took a slow drag from her long cigarette, the ember flaring bright in the dark. Smoke spilled from her lips just as the power surged back into the grid. The streetlights flickered to life. 
 
 Rin felt the weight of the red drive in her pocket. She looked the Madame dead in the eye. "That's all of it. Nothing else."
 
-The Madame studied Rin for a long moment. "You should be more careful when you bring heat into my house," the Madame said, exhaling a slow, steady cloud of gray smoke. "But, because you have been of service to us, if the Filament can be of assistance to you... we will."
+The streetlights hummed overhead, warming from a flash of violet toward the orange of their sodium burn. In the growing light, the Madame studied Rin without blinking. "You should be more careful when you bring heat into my house," she said, exhaling a slow, steady cloud of gray smoke. "But, because you have been of service to us, if the Filament can be of assistance to you... we will."
 
 "Yes, ma'am," Rin said, acknowledging an offer she had no intention of accepting.
 

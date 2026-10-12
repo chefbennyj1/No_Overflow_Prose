@@ -14,9 +14,9 @@ Arthur’s head snapped toward him, his expression twisting into sudden, fierce 
 
 Victor held his hands up, instantly retreating. He pulled a plastic chair across from him and sat down directly in front of the glass. "Alright, Pop. I'll watch the window." 
 
-Victor stared out at the smog-choked skyline of the lower city.  
+Across the gap between the tenements, a rattly old subway mag-train crawled along a rusted lower-city track. Victor watched the dirty passenger cars shudder past one by one, until the red marker on the rear vanished into the dark mouth of a broken subway tunnel.
 
-A minute later, Victor stood up and walked back out into the hall. 
+He stood up and walked back out into the hall. 
 
 Harlan was waiting by the degraded wooden door, his eyes resting on the fake blue flowers. He didn't ask him how the visit went. He'd stood in the hallway before.
 

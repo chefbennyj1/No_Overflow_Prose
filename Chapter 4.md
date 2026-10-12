@@ -32,7 +32,7 @@ Standing before a glowing interface was Elena Marlowe. The cool light of the mon
 
 A few yards away stood Iris, the Horizon Boundary Analyst. She adjusted her black-rimmed glasses, the lenses reflecting the light from the screens in the lab. She swallowed hard. "The boundary is working independently... some kind of advanced learning algorithm." 
 
-Blackwell watched her analyze the data. She cleared her throat, then continued, "We don't control the wave of permutations being rendered in the core." She paused for a moment. "It's processing these changes at a godly speed."
+Blackwell watched her analyze the data. She cleared her throat, then continued, "We don't control the wave of permutations being rendered in the core." She paused. "It's processing these changes at a godly speed."
 
 "Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the analyst. He already knew the shutdown command wasn't an error. Iris was getting too close. "It is not 'godly'," he said.
 

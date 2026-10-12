@@ -23,11 +23,11 @@ Victor gripped the wheel. Twenty years working the slums had taught him to trust
 
 He brought the car to rest outside the tower's front plaza. The headlights dimmed, the car settling into silence.
 
-Victor raised the car door open, his breath instantly pluming white in the air. The morning sun was glaring, but it carried absolutely no warmth. The air was razor-sharp, a dead, freezing chill that bit right through his trench coat the second his boots hit the pavement. 
+Victor raised the car door open. The morning sun was glaring, but it carried absolutely no warmth—a dead, razor-sharp chill biting right through his trench coat the second his boots hit the pavement. 
 
-He stopped for a moment, exhaling slowly, analyzing the crystallizing heat in the unorthodox cold. 
+He watched the white cloud of his breath hang suspended in the bright air, thick and still, refusing to dissolve. 
 
-Harlan stepped out of the passenger side, shivering as he saw his own breath plume in the bright light. "—The hell is it so cold up here for?" Harlan's voice sounded choked in the freezing air.
+Across the hood, Harlan stepped out of the passenger side, shivering. "—The hell is it so cold up here for?" Harlan's voice sounded choked in the freezing air.
 
 The plaza in front of the imposing Takeda-Holden tower was lined with polished, black statues of mythic gods and goddesses, their features glittering with an unnatural layer of fresh frost.
 

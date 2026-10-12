@@ -20,7 +20,7 @@ Harper didn't stop her. She shut the door, working the deadbolt, and the chain, 
 
 "Harper." Rin said it quietly, the hard edge gone from her voice.
 
-Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke a moment before exhaling the white cloud. "How bad are we talkin'?"
+Harper's hand paused on the chain. She turned, pulling the cigarette from her lips and holding the smoke before exhaling the white cloud. "How bad are we talkin'?"
 
 "Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a dark tank, a faded sleeve of ink, and fresh, dark bruising swelling along her ribs and shoulder. She threw the jacket over the arm of a beaten green sofa.
 
@@ -32,7 +32,7 @@ Rin's eyes tracked the motion until she caught herself staring and looked away.
 
 "I wouldn't be here if I had another choice."
 
-Harper studied her for a long moment, the cigarette burning between her fingers. She sighed, turning away to a cramped kitchenette built into the wall. She poured thick, black coffee from a battered French press into two ceramic mugs and shoved one into Rin's hands without looking at her.
+Harper watched her while a gray cylinder of ash lengthened on the cigarette between her knuckles. She sighed, turning away to a cramped kitchenette built into the wall. She poured thick, black coffee from a battered French press into two ceramic mugs and shoved one into Rin's hands without looking at her.
 
 The heat of the ceramic instantly bled into Rin's rain-soaked skin, grounding her.
 
