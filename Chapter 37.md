@@ -13,7 +13,7 @@ Her sight returned whole.
 
 The architecture of spacetime reopened around her. Infinite branches unfurled outward, every life in the city laid out from birth to ash.
 
-Below the lab, there was no longer a floor. The pit had opened all the way down, unveiling the anti-star. It sat under the tower where the bedrock had been, dark at its heart and ringed in folding white light Pieces of the building were falling into it. The sub-levels hung in broken pieces above its edge. Pieces of the engines pillars dangled by broken steel supports. The grating was twisted. Dormant synthetics in their lab coats, all gone, fallen into the hole.
+Below the lab, there was no longer a floor. The pit had opened all the way down, unveiling the anti-star. It sat under the tower where the bedrock had been, dark at its heart and ringed in folding white light. Pieces of the building were falling into it. The sub-levels hung in broken pieces above its edge. Pieces of the engines pillars dangled by broken steel supports. The grating was twisted. Dormant synthetics in their lab coats, all gone, fallen into the hole.
 
 In the four meters beneath the falling ceiling, her calculation struck a wall.
 
@@ -33,7 +33,7 @@ Far below, the atrium's marble floor had split and tipped. The synth with her fa
 
 The horizon pulled at her back.
 
-With every meter she climbed away from the core, the singularity tugged at the edges of her compiled form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below.
+With every meter she climbed away from the core, the singularity tugged at the edges of her  form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below.
 
 She set Elena against a frosted pillar on the plaza, then dropped back into the well.
 
