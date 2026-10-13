@@ -23,7 +23,7 @@ When she got in, Vigil started to drive.
 
 They went slowly. Nothing else moved in the clearing. The snow lay smooth and orange under the lamps, and the only tracks in it were their own.
 
-Near the fog line, a car sat at the curb, still running on its cushion. Both doors hung open. Snow had drifted in across the seats and piled on the dashboard. Whatever footprints had led away from it were filled in.
+Near the fog line, a white mag-car sat at the curb, still running on its cushion, blending into the ever growing white of the snowy street. Both doors hung open. Snow had drifted in across the seats and piled on the dashboard. Whatever footprints had led away from it were filled in.
 
 Rin turned in her seat and watched it until the snow took it. Whoever had been driving had never come back to close the doors.
 
