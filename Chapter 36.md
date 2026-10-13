@@ -29,9 +29,9 @@ Rin turned in her seat and watched it until it was lost in the snow. Whoever had
 
 A block on, the street was trampled.
 
-The snow had been churned to gray slush in a band as wide as the road. Bare footprints, hundreds of them, pressed one inside another. Blue streaks ran through the slush where something had dragged. A plastic sheet lay twisted in the gutter, half buried.
+The snow had been churned to gray slush in a band as wide as the road. Bare footprints, hundreds of them, pressed one inside another. Blue streaks ran through the slush where something had been dragged. Plastic sheets tossed in the wind, wrapped loosely around street signs, and lay twisted in the gutter, half buried.
 
-One way, the band ran off into the fog, toward the ramp up to New Veridia. The other way, it ran straight to the foot of the tower.
+One way, the trudged snow ran off into the fog, the other way, it ran straight to the foot of the tower.
 
 Vigil followed it.
 
