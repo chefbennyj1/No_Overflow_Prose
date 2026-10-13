@@ -1,7 +1,7 @@
 ---
 music: Clock Tick.mp3
 ---
-Rin's breath smoked under the streetlights. The cold came straight through her tank top. Snow landed on her bare arms and didn't melt.
+Rin's breath smoked under the streetlights. The cold came straight through her sleeveless top. Snow landed on her bare arms and didn't melt.
 
 She couldn't stop looking up.
 
@@ -72,8 +72,6 @@ The face was narrow, with blunt bangs cut straight across.
 Rin knew that face. Vigil was wearing it.
 
 Elena let go of Iris and lowered herself to her knees beside it. Her synthetic hand hovered over the face and didn't touch it.
-
-"Seven," she said. "I only ever drew seven."
 
 "It's still on," Harper said.
 
