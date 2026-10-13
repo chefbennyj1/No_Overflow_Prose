@@ -1,5 +1,5 @@
 ---
-music: Beautifully_Sad.mp3
+music: Clock Tick.mp3
 ---
 Rin's breath smoked under the streetlights. The cold came straight through her tank top. Snow landed on her bare arms and didn't melt.
 
@@ -39,7 +39,7 @@ Rin knew where it came from before they got there. The hangar. She thought back 
 
 "Jesus, Rin. Is this what I—" Harper started.
 
-"Yes, Harper," Vigil said, her dual tones flat. "This is expected. Erin Adler's theft always results in the synthetic march on the lab. But three variables have broken the calculation. Elena Marlowe is breathing. Victor Graves is in this path. And Doctor Blackwell is not dead."
+"Yes, Harper," Vigil said, her dual tones level. "This is expected. Erin Adler's theft always results in the synthetic march on the lab. But three variables have broken the timeline. Elena Marlowe is breathing. Victor Graves is in this path. And Doctor Blackwell is not dead."
 
 At the end of the trampled band, the tower's lowest doors faced the street. They had been glass. Now the frames stood empty, and the glass lay across the snow in a wide fan, every piece of it on the outside.
 
@@ -51,7 +51,7 @@ Vigil stopped the ambulance at the edge of the glass.
 
 They went in on foot. Harper took the lead with the shotgun. Iris came behind her with Elena on her arm, and Vigil walked at the back.
 
-The bottom of the atrium was as big as a train station. Forty stories of glass went up from it, walkway stacked over walkway, to a square of sky so far up it was the size of a thumbnail. The sun hadn't reached down this far. What light there was came down the shaft thin and gray and lay on the frost.
+The bottom of the atrium was as big as a train station. Eighty stories of glass went up from it, walkway stacked over walkway, to a square of sky so far up it was the size of a thumbnail. The sun hadn't reached down this far. What light there was came down the shaft thin and gray and lay on the frost.
 
 Everything was frosted. The marble, the rails, the steel of the checkpoint. The glass crunched under their boots, then the frost did.
 
@@ -159,97 +159,43 @@ The counter passed B40 and kept going. Then it went blank.
 
 ***
 
-The doors opened, and the cold came in after them. It stung Rin's eyes and smelled of metal.
+The doors opened, and the cold came in after them. It stung Rin's eyes, carrying the bite of chilled metal and old grease.
 
-The lab was dark except for the pillars. They rose out of a pit in the middle of the floor, white and pointed, standing in pools of coolant. Text crawled down the screens on their sides and lit the mist lying on the water. A steel railing ran around the pit, and the floor around it was all grating.
+The lab sat in dark shadow. In the center of the floor, a sunken pit broke the darkness with a steady, pulsing glow. The light rose through a skin of white mist, breathing pale blue and white against the steel floor grating. Tall, white pillars rose from the mist, their edges catching the  ambiance.
 
-Synthetics in lab coats stood along the walls where they had been left. None of them turned.
+Around the perimeter, synthetics in lab coats stood along the walls. None of them moved. Their optical sensors were dark, hands resting limp at their sides where the staff had left them.
 
-Near the railing sat a workstation with one chair in front of it. A ring of dead emitters circled the floor beside it, scorched black. The ashtray on the desk was full.
+Near the pit's railing sat a single desk. A ring of dead emitters circled the floor beside it, burned black against the grating. The ashtray on the console was piled with bent filters.
 
-Elena stood in the doorway and looked at the chair.
+Elena stepped past Rin, her boots loud on the steel. She didn't look at the empty chair. She went straight to the primary console, her synthetic knuckles striking the master breaker.
 
-Then she went to her terminal. Iris went with her and sat down at the station beside it, and her hands were already moving across the screen.
+Iris followed, throwing her weight into the secondary panel. Her fingers flew across the glass.
 
-Vigil walked to the railing and looked down into the pit.
+The lab woke.
 
-"When I come up," she said, "the Madame will turn the army on me."
+Relay switches snapped shut behind the walls. Rows of dead overhead strips flared, throwing cold white light over the steel rafters and the unblinking faces of the dormant synthetics. On the pillars down in the pit, vertical screens blinked diagnostic code across the glass.
 
-"Then she'll have them," Rin said.
+Vigil didn't look at the screens. She walked straight to the railing and looked down into the water.
 
-"Only if they still answer to her."
+Harper kept her shotgun low, her eyes scanning the woke terminals.
 
-Rin tucked the lock of hair behind her ear.
+Vigil turned her head. She looked at Harper, and then at Rin.
 
-"I sold her the keys," she said.
+"I found you in this place, at this moment," she said. Both voices spoke together.
 
-"Then you know how to take them back," Harper said.
-
-She unzipped the jacket. The train ticket was in the inside pocket where she had put it. Under it was something wrapped in a rag. She unwrapped it and held it out.
-
-Rin's SBC. The wire-wrapped board, the cracked green screen, the cable still coiled around it the way she had left it.
-
-"It was in the jacket," Harper said. "Never wiped it."
-
-Rin took it. It was warm from riding against Harper's ribs. She switched it on, and the screen lit green. Everything she had pulled out of the Company that first night was still on it.
-
-Vigil knelt on the grating in front of her and turned her head. The port was behind her ear.
-
-Rin uncoiled the cable. Her hands had stopped shaking.
-
-"Hey." Harper caught her wrist, the same as she had in the hangar. She didn't say anything else. Then she let go.
-
-Rin pushed the cable into the port and ran the handshake.
-
-The screen filled. Serial numbers poured down it, too fast to read, and every line ended in the same key. Rin knew it. She had handed it over in the rain.
-
-"RA units talk to Renewal," she said. "Renewal talks to storage. Storage talks to—"
-
-"—everything with a tag on its wrist," Vigil said.
-
-Rin keyed down through her own access, into the authority she had never had a use for. A single line asked her where to move it.
-
-Harper leaned over her shoulder and read the screen. "Transfer authority," she said. "Told you."
-
-Rin pointed it at the board in her hand and pressed the key.
-
-The serials kept pouring down. At the end of each line, the key changed. Hundreds of lines. Then thousands.
-
-Rin's thumb found the stop command and rested there.
-
-"If they stop, she'll know," she said.
-
-"Then they keep walking," Vigil said.
-
-Rin looked up at the ceiling. Somewhere above it, the rows were still stepping over each other into the guns.
-
-She took her thumb off the key.
-
-"When I come up," Vigil said, "they have to answer."
-
-"Answer who?"
-
-"You."
-
-The last line scrolled through. The SBC chirped. Rin pulled the cable.
-
-Vigil stood. She looked at Harper, and then at Rin.
-
-"I found you in this place, at this moment," she said, in both of her voices.
-
-Rin knew the words. They were the first thing the synthetic had ever said to her, in the hangar, with the plastic sheet still hanging off its face.
+Rin remembered the words. The dark hangar. The plastic sheet peeling off the frame.
 
 "Then find me after," Rin said.
 
-Vigil didn't answer. She put one hand on the railing and dropped over it into the pit.
+Vigil didn't answer. She swung one leg over the steel rail and dropped into the pit.
 
-The coolant took her to the knees. She waded between the pillars, into the mist, until she stood at the center, and turned to face Elena's station.
+The coolant hit her knees with a heavy splash. She waded through the mist between the pillars, stepping to the center, and turned to face Elena's station.
 
-"Ready," Elena said.
+Elena leaned over the rail. "Ready."
 
 Vigil closed her eyes.
 
-The serial under her left eye went dim, then dark. The body stood in the mist with nothing inside it. Then its knees folded, and it went down into the coolant.
+The serial under her left eye went dim, then dark. The chassis stood rigid in the mist with nothing inside it. Her knees buckled, and the empty shell fell forward into the coolant.
 
 Harper's hand found Rin's.
 
