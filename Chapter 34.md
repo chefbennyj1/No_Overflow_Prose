@@ -187,7 +187,7 @@ Elena's fingers closed and opened.
 
 Elena held on to Vigil's hand. "Neither can I."
 
-Iris knew the building. There was only one way into the lab: the executive lift, down from the atrium. To get under the tower, they would have to go up into New Veridia first.
+Iris knew the building. There was only one way into the lab: the executive lift, down from the atrium. The atrium ran forty floors down into Oshima, and its lowest doors opened onto the street at the foot of the tower.
 
 On the dashboard, the clock flickered from `06:12` to `06:09`.
 
@@ -195,15 +195,15 @@ Iris did the math in her head. The engine was growing because nothing was inside
 
 She didn't say it out loud.
 
-At six thirty-eight, the ambulance turned onto the avenue and started to climb.
+At six thirty-eight, the ambulance turned onto the last street before the tower.
 
-Vigil was back in the driver's seat. The incline was steep, the heavy vehicle groaning up the concrete ramp. The soot-choked fog of the lower grid began to thin, tearing into gray wisps against the windshield.
+Vigil was back in the driver's seat. The soot-choked fog of the lower grid began to thin, tearing into gray wisps against the windshield.
 
-And then they broke through the cloud cover, into the freezing air of New Veridia. The morning sun came up over the fog and flooded the cab with gold.
+Then the fog ended, and the ambulance rolled out into clear, freezing air. Snow was falling. The streetlights were still burning, and the flakes came down orange through them.
 
-Vigil stopped the ambulance in the middle of the empty avenue and went still.
+Vigil stopped the ambulance in the middle of the empty street and went still.
 
-Harper shoved the rear doors open. Cold air rushed in. She stepped out onto the sunlit pavement, and Rin dropped down after her. They stopped in the middle of the street.
+Harper shoved the rear doors open. Cold air rushed in. She stepped down into the snow, and Rin dropped down after her. They stopped in the middle of the street.
 
 "Look at the glass on the upper floors," Harper whispered. "There's frost on it."
 
@@ -217,15 +217,17 @@ Elena looked for a long time.
 
 Her synthetic hand gripped Iris's sleeve, the carbon-fiber joints clicking in a frantic rhythm.
 
-Ahead, the cloud cover ended. For blocks around the tower there was no fog at all, only clear air straight down to the streets of the lower city. In the middle of it, the Mnemosyne tower rose into the sky. The edges of the building looked doubled, offset by a hand's width. It was gravitational lensing. The engine was warping the physical space around it.
+The fog stood around them in a ragged wall, blocks away on every side. Inside it there was nothing but open air, all the way up. There wasn't a cloud over the clearing. The cold coming off the tower was pulling the water out of the fog and letting it fall as snow.
+
+In the middle of it, the Mnemosyne tower rose out of the snow. The edges of the building looked doubled, offset by a hand's width. It was gravitational lensing. The engine was warping the physical space around it.
+
+Down here, the street was still in shadow. Eighty stories up, the sun had reached the top of the tower.
 
 Suspended high above the very apex of the needle, a shape held its position in the morning air.
 
 It was too far away to make out, but it didn't drift in the wind. It didn't move at all.
 
-One of its arms was outstretched. From its grip, a man dangled over the drop, his lab coat whipping around his legs. The rising sun threw his long shadow out across the top of the clouds.
-
-Hovering eighty stories above the city, the shape holding him cast no shadow at all.
+One of its arms was outstretched. From its grip, a man dangled over the drop, his lab coat whipping around his legs in a wind that never reached the street.
 
 "Parity," Vigil said from the driver's seat. Her dual tones were flat. "She has broken the cage."
 

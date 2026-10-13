@@ -1,112 +1,125 @@
-Rin's breath smoked in the sunlight. The cold up here came straight through her tank top. Harper had her jacket.
+---
+music: Beautifully_Sad.mp3
+---
+Rin's breath smoked under the streetlights. The cold came straight through her tank top. Snow landed on her bare arms and didn't melt.
 
-Nothing moved on the avenue. Past the last row of towers, the street opened onto the plaza, and above it the Mnemosyne tower went up into the sky with the white shape fixed over its point.
+She couldn't stop looking up.
 
-"We can't go in the front," Iris said. She had her cracked glasses back on and an arm around Elena's waist. "Renewal will be holding the steps. And the lift is in the atrium, and the atrium only opens onto the plaza." She stopped. "Actually, that's not right. It opens onto—"
+Eighty stories above her, the white shape hung over the point of the tower with the doctor in its hand. It was shaped like a woman. Even from down here it was too bright to hold her eyes on. She had first seen its name on Harper's screens, the night all of this started. Now she knew one more thing about it. It had broken Vigil once.
 
-"The bridges," Elena said.
+She looked for Vigil instead.
 
-She raised her synthetic hand and pointed. High over the avenue, glass walkways ran between the towers, their roofs catching the sun. The joints in her fingers clicked.
+Vigil sat in the driver's seat with the door hanging open, her face turned up through the windshield. Snow was collecting on her sleeve where her arm rested on the frame. Rin had watched her strip a gun out of a cop's hand before he could blink. Now she wasn't moving at all.
 
-"I came in that way every morning. Up through the building next door and across. It lets you out on the atrium walkway, above the checkpoint."
+"Can it see us?" Harper asked.
 
-Harper looked at the tower next door. "Doors'll be locked."
+Vigil didn't answer.
 
-"I'll get us in," Rin said.
+Elena had started to shake. Iris got her back onto the stretcher and pulled the blanket up to her chin, and Harper climbed in after them. Rin went around to the cab.
 
-Vigil climbed down from the driver's seat and left the door hanging open. Her eyes were on the top of the tower.
+When she got in, Vigil started to drive.
 
 ***
 
-The lobby doors were sealed. A red light burned on the panel beside them.
+They went slowly. Nothing else moved in the clearing. The snow lay smooth and orange under the lamps, and the only tracks in it were their own.
 
-Rin knelt in front of it. Her fingers were already stiff from the cold. No SBC, no tools. She worked a thumbnail under the edge of the cover plate and pried until it popped loose. Behind it, a bundle of wires ran into the reader.
+Near the fog line, a car sat at the curb, still running on its cushion. Both doors hung open. Snow had drifted in across the seats and piled on the dashboard. Whatever footprints had led away from it were filled in.
 
-She found the two she wanted and stripped the first one with her teeth.
+Rin turned in her seat and watched it until the snow took it. Whoever had been driving had never come back to close the doors.
 
-The light turned green.
+A block on, the street was trampled.
 
-The lock clunked, and the doors slid apart.
+The snow had been churned to gray slush in a band as wide as the road. Bare footprints, hundreds of them, pressed one inside another. Blue streaks ran through the slush where something had dragged. A plastic sheet lay twisted in the gutter, half buried.
 
-Rin stayed on her knees with the wire between her teeth. She hadn't crossed anything.
+One way, the band ran off into the fog, toward the ramp up to New Veridia. The other way, it ran straight to the foot of the tower.
 
-"Well," Harper said. "Look at you."
+Vigil followed it.
 
-Rin spat the wire out and stood. Behind her, Vigil was helping Elena up the steps.
+Rin knew where it came from before they got there. Under this tower was the transit terminal, and a green door in the tunnel wall, and the hangar behind it where she had pulled a plastic sheet off RA-77. Rows of them had stood around her that night, hundreds, waiting.
 
-Inside, the lights were on and nobody was at the desk. A coffee cup sat on the counter with a skin of ice across the top.
+She had sold the keys to that floor too.
 
-The lift took them up. Elena leaned against the back wall with her eyes closed. Harper stood at the doors with the shotgun across her chest, and when they opened on the bridge level, she went out first.
+At the end of the trampled band, the tower's lowest doors faced the street. They had been glass. Now the frames stood empty, and the glass lay across the snow in a wide fan, every piece of it on the outside.
 
-The sky-bridge was a long tube of glass. The sun came through it from the east and lay in bright squares on the floor. Frost had grown over the outside of the panes, thin at this end, thicker the closer it got to the Takeda-Holden tower.
+Rin read it the way she would have read a lock. Nobody had broken in. Something had pushed its way out.
 
-Halfway across, Rin looked down.
+Vigil stopped the ambulance at the edge of the glass.
 
-The plaza was packed with people from the lower city, hundreds of them, standing among the statues and the half-built barricades. Every face was turned up. On the tower steps, the Renewal line stood behind locked shields with its rifles aimed at the sky. Beyond the plaza's edge, where the cold had eaten the fog away, she could see straight down to the streets of the lower city, still orange under their lamps. Snow was falling down there.
+***
 
-A long cruiser rolled up off the ramp and stopped.
+They went in on foot. Harper took the lead with the shotgun. Iris came behind her with Elena on her arm, and Vigil walked at the back.
 
-Rin knew that car. She had stood in the rain beside it with a ticket in her hand.
+The bottom of the atrium was as big as a train station. Forty stories of glass went up from it, walkway stacked over walkway, to a square of sky so far up it was the size of a thumbnail. The sun hadn't reached down this far. What light there was came down the shaft thin and gray and lay on the frost.
 
-Behind it, the army came up out of the fog.
+Everything was frosted. The marble, the rails, the steel of the checkpoint. The glass crunched under their boots, then the frost did.
 
-They came in rows. Plastic sheets dragged from their shoulders. Even from up here she could see the tubes swinging from their arms. The rows kept climbing the ramp, and there were more behind them in the fog.
+The army had come through here. Plastic sheets hung from the rails of the lowest walkway where bodies had brushed past and left them. IV stands lay on their sides across the floor, dozens of them, wheels in the air. Feeding fluid had run out of the cut tubes and frozen into the marble in long blue streaks, all of them pointing at the doors. Snapped wrist tags lay everywhere, stamped into the frost.
 
-Rin stopped walking.
+At the Renewal post, a riot shield leaned against the desk. A helmet sat upside down on the floor beside it, its red seam dark. Nobody was there.
 
-Every Company building had a floor like that. She had handed over the keys to all of them.
+Iris stopped beside Rin. "There was a fountain," she said. "Right there. Well, not right there, it was more toward the— It doesn't matter." She pushed her glasses up.
 
-"Rin," Harper said.
+Where she had pointed, a basin of black stone stood full of ice. A plastic sheet was frozen into the top of it.
 
-A woman in white silk walked out alone to the front of the crowd. She raised one hand. On the steps, the rifles came down out of the sky. When she lowered her hand, the army walked.
+Near the turnstiles, one of them hadn't made it out.
 
-The crowd split away in front of it. Light rippled all along the steps, and the sound reached the glass after it, a dry crackle with no weight to it.
+It lay on its back on the marble with its arms at its sides. A plastic sheet was tangled around its legs, and one knee bent the wrong way. The serial under its eye still glowed. Its eyes were open, turned up at the light coming down the shaft.
 
-The front rows went down. The rows behind them stepped over the bodies and kept walking.
+The face was narrow, with blunt bangs cut straight across.
 
-Rin put her hand on the glass. The cold of the frost on the other side bit into her palm.
+Rin knew that face. Vigil was wearing it.
+
+Elena let go of Iris and lowered herself to her knees beside it. Her synthetic hand hovered over the face and didn't touch it.
+
+"Seven," she said. "I only ever drew seven."
+
+"It's still on," Harper said.
+
+Vigil came past them and knelt on the other side of the body. She pressed her thumb to the skin under its eye and held it there. The serial dimmed and went dark. The eyes stayed open.
+
+Then the sound came down the shaft.
+
+It came from high above, from the top of the atrium, where the plaza was. A dry crackle, flattened by the distance and the glass. Then another, rolling down from walkway to walkway until it reached the floor.
+
+Rin had followed the tracks here. She knew where the other end of them went.
+
+Iris was counting under her breath. Rin heard her reach four. Five.
+
+Another crackle came down the glass. Iris stopped counting.
+
+Harper's hand lay flat on the frosted rail beside her. It was nowhere near the scar.
+
+Rin had grown up listening to gunfire through the walls. She knew what a fight sounded like. This was one sound, over and over.
 
 "They're not shooting back," she said.
 
 "They were not told to," Vigil said.
 
-Another ripple of light. More rows folded.
+Rin turned. Vigil was still kneeling by the body, her eyes on its face, the serial glowing under her own left eye. Rin couldn't tell whether that was an answer, or something Vigil remembered.
 
-Harper's hand lay flat on the glass beside hers. It was nowhere near the scar.
-
-"Rin." Vigil had stopped a few steps ahead. "We cannot stay here."
-
-Rin lifted her eyes past the rooftops, past the frost line, to the top of the tower.
-
-The white figure had its head bowed toward the plaza. The man in the lab coat hung from its arm.
-
-Then its head turned. It came around slowly, away from the plaza, across the rooftops, until it faced the bridge. It stopped there.
-
-Rin couldn't feel her hand on the glass anymore.
-
-"She's looking at us," she said.
-
-"Yes," Vigil said, and walked on.
-
-Iris pulled Elena along after her. Harper took Rin by the wrist, and Rin let her.
+Vigil stood. "We cannot stay here."
 
 ***
 
-The security doors at the end of the bridge were built to seal. Two slabs of glass as thick as a fist, the Takeda-Holden mark etched at eye level. Both stood open. Frost had furred their edges, and nobody had touched them.
+The turnstiles were locked. A red light burned on the panel at the end of the row.
 
-Rin slowed as she passed through. That was two.
+Rin knelt in front of it. Her fingers were stiff from the cold. No SBC, no tools. She worked a thumbnail under the edge of the cover plate and pried until it popped loose. Behind it, a bundle of wires ran into the reader.
 
-Past the doors, the walkway hung halfway up the atrium, forty stories of glass with the sun pouring through the east wall. Far below, the marble floor was empty. Through the front wall, the plaza was a blur behind the frost. Dark shapes moved in it and fell.
+She found the two she wanted and stripped the first one with her teeth.
 
-A synthetic in a concierge's uniform stood at a station on the walkway. The serial under its eye read HR-33. It turned as they came near, and the light moved in its hair.
-
-"Good morning, Doctor Marlowe."
-
-Elena stopped. Her synthetic hand clicked once at her side. She didn't answer it. Iris got her moving again.
-
-The turnstiles ran across the walkway in a row of steel bars. Iris let go of Elena long enough to step up to the nearest pad. She pushed her glasses up and keyed the first number, a four.
+The light turned green.
 
 The bars folded back. All of them, down the line, one after another.
+
+Rin stayed on her knees with the wire between her teeth. She hadn't crossed anything.
+
+"Well," Harper said. "Look at you."
+
+Rin spat the wire out and stood.
+
+Past the turnstiles, a steel shutter closed off the lift lobby. Iris let go of Elena long enough to step up to the keypad beside it. She pushed her glasses up and keyed the first number, a four.
+
+The shutter rolled up into the ceiling.
 
 Iris stood with her finger in the air.
 
@@ -114,7 +127,7 @@ Rin turned to Vigil. "Is that you?"
 
 "No."
 
-Vigil's eyes went up, past forty floors of glass, toward the top of the tower.
+Vigil's eyes went up the shaft, past forty floors of glass, toward the top of the tower.
 
 Rin had known before she asked.
 
@@ -124,7 +137,7 @@ Rin had known before she asked.
 
 ***
 
-The executive lift stood open at the end of the walkway. Inside were steel walls and a single column of buttons.
+The executive lift stood open at the back of the lobby. Inside were steel walls and a single column of buttons.
 
 Elena stepped in first. She reached for the lowest button with her right hand and pressed her thumb to it.
 
@@ -136,11 +149,11 @@ Elena turned the hand over and looked at the carbon-fiber thumb. Then she lifted
 
 The button lit. The doors closed, and they went down.
 
-The floor counter ran backward in red. Twenty. Nineteen. Eighteen. Then sixteen, and eighteen again, and seventeen. Rin's stomach told her they were still falling.
+The floor counter ran down in red. B2. B3. B4. Then B6, and B4 again, and B5. Rin's stomach told her they were still falling.
 
 Iris didn't say anything. Her lips were moving, counting.
 
-The counter dropped past zero and kept going. Then it went blank.
+The counter passed B40 and kept going. Then it went blank.
 
 ***
 
