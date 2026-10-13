@@ -35,9 +35,11 @@ One way, the trudged snow ran off into the fog, the other way, it ran straight t
 
 Vigil followed it.
 
-Rin knew where it came from before they got there. Under this tower was the transit terminal, and a green door in the tunnel wall, and the hangar behind it where she had pulled a plastic sheet off RA-77. Rows of them had stood around her that night, hundreds, waiting.
+Rin knew where it came from before they got there. The hangar. She thought back to the rows, full of synths who had stood waiting. She looked back at Harper, who's pale complexion and wide eyes said it all. She knew exactly what the trials of blue liquid on the road was, and where it came from.
 
-She had sold the keys to that floor too.
+"Jesus, Rin. Is this what I—" Harper began whispered under her breath.
+
+"Yes, Harper." Vigil interrupted. "This is expected. Erin Adler's theft always results in Elena Marlowe's synth army marching on the lab. However, three variables change this timeline, and make the outcome unreadable. Elena Marlowe is alive, Detective Victor Graves exists in this timeline, and Doctor Blackwell is not dead."
 
 At the end of the trampled band, the tower's lowest doors faced the street. They had been glass. Now the frames stood empty, and the glass lay across the snow in a wide fan, every piece of it on the outside.
 
