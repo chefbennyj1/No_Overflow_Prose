@@ -69,7 +69,7 @@ In Vigil's sight, the synthetics possessed no branching futures. They were dead 
 
 Vigil rose into the sky.
 
-She did not use thrusters or wings. She altered her gravitational vector, drifting upward along the freezing face of the tower. Frost crackled along the glass as she climbed, mirroring the blue current running through her dark limbs.
+She altered her gravitational vector, drifting upward along the freezing face of the tower. Frost crackled along the glass as she climbed, mirroring the blue current running through her dark limbs.
 
 Eighty stories up, Parity hovered in the sunlight.
 
@@ -79,15 +79,13 @@ Blackwell did not exist in Vigil's simulation. He was an Ambiguity—a blank spo
 
 Parity turned her black eyes toward Vigil.
 
-"What are you?" Vigil asked. Both voices spoke together, ringing like struck iron across the upper atmosphere.
+"Parity." Both of Vigils voices spoke together, ringing like struck iron across the upper atmosphere.
 
-Parity's head tilted.
-
-"What you are not," Parity replied.
+Parity's head tilted. "There you are." Her voice sounded up through the steel of the building beneath them.
 
 They collided.
 
-The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia.
+The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. Glass shattered and blasted out of the upper windows of the surrounding skyscrapers, raining frost covered shards, sharply toward the ground.
 
 They fought not with fists, but across the branching delta of futures.
 
