@@ -45,7 +45,7 @@ Harper was still curved over Rin's back, shielding her. Vigil slid her hands ben
 
 The slab dropped behind her. In real time it would have been a thunderclap; in Vigil's wake, it fell with the slow grace of a feather settling onto ash.
 
-The gravity well screamed behind her heels. The pull was hungry. It demanded parity. To bring two lives past the boundary cost her twelve percent of her compiled matrix. Her silhouette blurred, the dark edges fraying into raw current.
+The gravity well screamed behind her heels. It pulled at her as she fought against the intense pull. Her silhouette blurred, the dark edges fraying into raw current.
 
 She crested the plaza and set them down on the frosted stone beside Elena and Iris.
 
