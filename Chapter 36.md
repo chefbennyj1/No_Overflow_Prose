@@ -209,13 +209,13 @@ The coolant began to churn.
 
 The white mist didn't drift anymore—it spun, coiling into a tight funnel that whipped freezing spray across the floor grating. Relays rattled in the walls. Overhead, the lights flickered and died, leaving only the violent flashes of lightning in the pit.
 
-"Jesus!" Iris shouted over the roar. 
+"My god!" Iris shouted over the roar. 
 
 In the eye of the vortex, the RA unit rose.
 
-It didn't climb. It lifted straight out of the churning water, suspended three feet in the air by the electrical storm. The stolen police jacket ripped to shreds in the gale, black fabric tearing away into the dark. Beneath it, current seared across the bare carbon-fiber frame, heating the joints to a dull red.
+It didn't climb. It lifted straight out of the churning water, suspended meters in the air by the electrical storm. Current seared across the bare carbon-fiber frame, heating the joints to a glowing red.
 
-The serial under its eye flared with a raw, blinding intensity.
+The serial under its eye flared with a blinding intensity.
 
 The synthetic frame locked rigid. Its arms snapped wide.
 
@@ -227,9 +227,9 @@ The thunder died.
 
 Rin lowered her arm, blinking through the red afterimages burned into her vision.
 
-Floating in the center of the mist, where the ruined shell had hung, hung Vigil.
+Floating in the center of the mist, where the ruined shell had hung, was Vigil.
 
-She was not metal. She was not a machine. A figure carved from absolute shadow, darker than the room itself, hovering weightless above the churning water. Fine, living traces of silver and pale blue light pulsed across her form like neural fire, shifting with cold, geometric precision.
+She was not metal. She was not a machine. A figure carved from absolute shadow, darker than the room itself, hovering weightless above the churning mist. Fine, living traces of silver and pale blue light pulsed across her form like neural fire, shifting with cold, geometric precision.
 
 Elena let out a ragged breath, leaning against the glass rail. "Vigil."
 
