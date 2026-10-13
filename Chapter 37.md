@@ -1,5 +1,5 @@
 ---
-music: Ashes in Orbit.mp3
+music: Fractured Time Pulse.mp3
 ---
 Time slowed, she was back in control.
 
@@ -35,7 +35,7 @@ She took Iris next. The analyst was mid-stride, black-rimmed glasses tilted on h
 
 She returned for Harper and Rin.
 
-Harper was still curved over Rin's back, shielding her with her own ribs. Vigil slid her hands beneath them both, locking them together against her chest, and kicked off the buckling floor grating.
+Harper was still curved over Rin's back, shielding her. Vigil slid her hands beneath them both, locking them together against her chest, and kicked off the buckling floor grating.
 
 The slab dropped behind her. In real time it would have been a thunderclap; in Vigil's wake, it fell with the slow grace of a feather settling onto ash.
 

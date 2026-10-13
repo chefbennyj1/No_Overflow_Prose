@@ -111,29 +111,6 @@ The light turned green.
 
 The bars folded back. All of them, down the line, one after another.
 
-Rin stayed on her knees with the wire between her teeth. She hadn't crossed anything.
-
-"Well," Harper said. "Look at you."
-
-Rin spat the wire out and stood.
-
-Past the turnstiles, a steel shutter closed off the lift lobby. Iris let go of Elena long enough to step up to the keypad beside it. She pushed her glasses up and keyed the first number, a four.
-
-The shutter rolled up into the ceiling.
-
-Iris stood with her finger in the air.
-
-Rin turned to Vigil. "Is that you?"
-
-"No."
-
-Vigil's eyes went up the shaft, past forty floors of glass, toward the top of the tower.
-
-Rin had known before she asked.
-
-"Why is she letting us in?"
-
-"I cannot see why," Vigil said.
 
 ***
 
@@ -149,11 +126,11 @@ Elena turned the hand over and looked at the carbon-fiber thumb. Then she lifted
 
 The button lit. The doors closed, and they went down.
 
-The floor counter ran down in red. B2. B3. B4. Then B6, and B4 again, and B5. Rin's stomach told her they were still falling.
+The floor counter ran down in red. Rin's stomach told her they were still falling.
 
 Iris didn't say anything. Her lips were moving, counting.
 
-The counter passed B40 and kept going. Then it went blank.
+The counter passed a sublevel marker for 40 and kept going. Then it went blank.
 
 ***
 
@@ -211,7 +188,7 @@ The white mist didn't drift anymore—it spun, coiling into a tight funnel that 
 
 In the eye of the vortex, the RA unit rose.
 
-It didn't climb. It lifted straight out of the churning water, suspended meters in the air by the electrical storm. Current seared across the bare carbon-fiber frame, heating the joints to a glowing red.
+It didn't climb. It lifted straight out of the churning mist, suspended meters in the air by the electrical storm. Current seared across the bare carbon-fiber frame, heating the joints to a glowing red.
 
 The serial under its eye flared with a blinding intensity.
 
@@ -219,7 +196,7 @@ The synthetic frame locked rigid. Its arms snapped wide.
 
 The chassis detonated.
 
-The carbon-fiber shell blew apart in a deafening crack, disintegrating into thousands of burning shards. A raw sheet of blinding white light flooded the room, so fierce Rin had to throw an arm across her face to keep from burning her retinas.
+The carbon-fiber shell blew apart in a deafening crack, disintegrating into thousands of burning shards. A raw sheet of blinding white light flooded the room. Rin threw an arm across her face to keep from burning her retinas.
 
 The thunder died.
 
