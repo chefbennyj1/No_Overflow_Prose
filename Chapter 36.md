@@ -175,71 +175,73 @@ The lab woke.
 
 Relay switches snapped shut behind the walls. Rows of dead overhead strips flared, throwing cold white light over the steel rafters and the unblinking faces of the dormant synthetics. On the pillars down in the pit, vertical screens blinked diagnostic code across the glass.
 
-Vigil didn't look at the screens. She walked straight to the railing and looked down into the water.
+Vigil didn't look at the screens. She stepped to the steel railing.
 
-Harper kept her shotgun low, her eyes scanning the woke terminals.
+"Clear the railing," she said. Both voices cut through the room, sharp and simultaneous. "Step behind the consoles. Now."
 
-Vigil turned her head. She looked at Harper, and then at Rin.
+Harper didn't ask questions. She caught Rin by the arm and hauled her back against the terminal housings.
 
-"I found you in this place, at this moment," she said. Both voices spoke together.
+Vigil vaulted the rail.
 
-Rin remembered the words. The dark hangar. The plastic sheet peeling off the frame.
+She dropped into the pit. A splash echoed off the concrete as she struck the coolant.
 
-"Then find me after," Rin said.
+Then, silence.
 
-Vigil didn't answer. She swung one leg over the steel rail and dropped into the pit.
+The ripples of mist rolled up and dispersed against tops of the white pillars before going flat. No movement. The blue and white glow under the mist pulsed in a steady glow.
 
-The coolant hit her knees with a heavy splash. She waded through the mist between the pillars, stepping to the center, and turned to face Elena's station.
+Seconds passed.
 
-Elena leaned over the rail. "Ready."
+Rin looked at Harper. Harper had the shotgun tucked hard against her shoulder, her jaw set, eyes locked on the pillars.
 
-Vigil closed her eyes.
+Across the walkway, Iris watched with her hands hovering over the keypad. She glanced at Elena.
 
-The serial under her left eye went dim, then dark. The chassis stood rigid in the mist with nothing inside it. Her knees buckled, and the empty shell fell forward into the coolant.
+Elena gripped the edge of the console with her synthetic hand, the black joints locked rigid. She didn't blink.
 
-Harper's hand found Rin's.
+"Is it working?" Rin whispered.
 
-***
+Elena didn't answer.
 
-"Iris," Elena said.
+A deafening snap broke the dark.
 
-"The boundary's stable. Well, not stable. It's inside tolerance." Iris's fingers flew. "Going."
+A bolt of blinding electricity leaped between two pillars, bridging the pit in a jagged arc. Another cracked behind it. Then four more, lashing through the mist like whips.
 
-The text on the pillars stopped scrolling. Every screen went black at once.
+The coolant began to churn.
 
-In the mist above the fallen body, something began to form.
+The white mist didn't drift anymore—it spun, coiling into a tight funnel that whipped freezing spray across the floor grating. Relays rattled in the walls. Overhead, the lights flickered and died, leaving only the violent flashes of lightning in the pit.
 
-It came together from the edges in. Shoulders. The line of a back. It was darker than anything in the room, and fine traces of blue and white light crawled across it like current across a board.
+"Jesus!" Iris shouted over the roar. 
 
-It hung there half made. Rin could see the pillars through its legs.
+In the eye of the vortex, the RA unit rose.
 
-Iris's voice went up. "It isn't holding."
+It didn't climb. It lifted straight out of the churning water, suspended three feet in the air by the electrical storm. The stolen police jacket ripped to shreds in the gale, black fabric tearing away into the dark. Beneath it, current seared across the bare carbon-fiber frame, heating the joints to a dull red.
 
-"Keep going."
+The serial under its eye flared with a raw, blinding intensity.
 
-"Doctor, the clock—" Iris turned her screen. The time in its corner jumped forward and back, faster than Rin could read it.
+The synthetic frame locked rigid. Its arms snapped wide.
 
-"Keep going."
+The chassis detonated.
 
-The pillar screens lit again.
+The carbon-fiber shell blew apart in a deafening crack, disintegrating into thousands of burning shards. A raw sheet of blinding white light flooded the room, so fierce Rin had to throw an arm across her face to keep from burning her retinas.
 
-They didn't show text. Small triangles marched in from the edges of every screen, row after row, each row copying the last, nesting inside each other in perfect order. Toward the center, the pattern came apart. The triangles broke into noise there, and the noise grew.
+The thunder died.
 
-Iris stopped typing. "That's not ours."
+Rin lowered her arm, blinking through the red afterimages burned into her vision.
 
-The frost came next. It crept across the grating from the walls in the same shapes, clean and repeating, closing in on the pit. Rin stepped back from it. Where it reached the railing, the steel split with a crack like a gunshot.
+Floating in the center of the mist, where the ruined shell had hung, hung Vigil.
 
-In the center of the pit, the coolant boiled and froze at once. Light came up out of it from underneath, from much farther down than the pit went.
+She was not metal. She was not a machine. A figure carved from absolute shadow, darker than the room itself, hovering weightless above the churning water. Fine, living traces of silver and pale blue light pulsed across her form like neural fire, shifting with cold, geometric precision.
 
-The shape above the water held for one more breath. Then it tore apart.
+Elena let out a ragged breath, leaning against the glass rail. "Vigil."
 
-"Elena!" Iris shouted.
+The new mass tore through the lab's physics.
 
-The floor tilted. Overhead, a long groan ran through the whole building. Dust sifted down out of the dark onto Rin's face.
+Gravitational shear screamed through the foundations. The pillar screens shattered in unison, showering the pit in dark glass. The floor grating buckled upward beneath Rin's boots.
 
-She looked up. A crack opened in the ceiling, straight across the lab.
+Overhead, eighty stories of concrete and steel groaned under the sudden weight.
 
-Harper hit her from the side. They went down on the grating together, Harper on top, her arms locked around Rin's head, her whole weight pressing her flat.
+A fissure tore across the ceiling, spitting dust and chunks of mortar down into the light.
+
+Harper hit Rin from the side, driving her down behind the workstation, her body covering Rin's head.
 
 "Erin—"
 
