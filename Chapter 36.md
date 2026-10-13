@@ -161,7 +161,7 @@ The counter passed B40 and kept going. Then it went blank.
 
 The doors opened, and the cold came in after them. It stung Rin's eyes, carrying the bite of chilled metal and old grease.
 
-The lab sat in dark shadow. In the center of the floor, a sunken pit broke the darkness with a steady, pulsing glow. The light rose through a skin of white mist, breathing pale blue and white against the steel floor grating. Tall, white pillars rose from the mist, their edges catching the  ambiance.
+The lab sat in dark shadow. In the center of the floor, a sunken pit broke the darkness with a steady, pulsing glow. The light rose through a skin of white mist, breathing pale blue and white against the steel floor grating. Tall, white pillars rose from the mist, their edges catching the light.
 
 Around the perimeter, synthetics in lab coats stood along the walls. None of them moved. Their optical sensors were dark, hands resting limp at their sides where the staff had left them.
 
@@ -183,11 +183,11 @@ Harper didn't ask questions. She caught Rin by the arm and hauled her back again
 
 Vigil vaulted the rail.
 
-She dropped into the pit. A splash echoed off the concrete as she struck the coolant.
+She dropped into the pit. A splash echoed through the lab as she struck the coolant.
 
 Then, silence.
 
-The ripples of mist rolled up and dispersed against tops of the white pillars before going flat. No movement. The blue and white glow under the mist pulsed in a steady glow.
+The ripples of mist rolled up and dispersed against the tops of the white pillars before going flat. No movement. The blue and white glow under the mist kept pulsing.
 
 Seconds passed.
 
@@ -201,7 +201,7 @@ Elena gripped the edge of the console with her synthetic hand, the black joints 
 
 Elena didn't answer.
 
-A deafening snap broke the dark.
+A deafening snap broke the silence.
 
 A bolt of blinding electricity leaped between two pillars, bridging the pit in a jagged arc. Another cracked behind it. Then four more, lashing through the mist like whips.
 
@@ -231,7 +231,7 @@ Floating in the center of the mist, where the ruined shell had hung, was Vigil.
 
 She was not metal. She was not a machine. A figure carved from absolute shadow, darker than the room itself, hovering weightless above the churning mist. Fine, living traces of silver and pale blue light pulsed across her form like neural fire, shifting with cold, geometric precision.
 
-Elena let out a ragged breath, leaning against the glass rail. "Vigil."
+Elena let out a ragged breath, leaning on the console. "Vigil."
 
 The new mass tore through the lab's physics.
 
