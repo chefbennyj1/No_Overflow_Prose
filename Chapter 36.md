@@ -25,7 +25,7 @@ They went slowly. Nothing else moved in the clearing. The snow lay smooth and or
 
 Near the fog line, a white mag-car sat at the curb, still running on its cushion, blending into the ever growing white of the snowy street. Both doors hung open. Snow had drifted in across the seats and piled on the dashboard. Whatever footprints had led away from it were filled in.
 
-Rin turned in her seat and watched it until the snow took it. Whoever had been driving had never come back to close the doors.
+Rin turned in her seat and watched it until it was lost in the snow. Whoever had been driving had left and never come back to close the doors.
 
 A block on, the street was trampled.
 
