@@ -6,9 +6,9 @@ Time slowed, she was back in control.
 In the dilated silence between two vibrations of light, the concrete ceiling hung in the air. Cracks frozen open, dark veins caught mid-fracture. Dust drifted down, motionless in the glare. Beneath the falling stone, Harper was locked against Rin, her lips shaped around a syllable that could not finish.
 
 *Erin—*
+Above the pit, Vigil floated.
 
-Her body was gone. The Renewal chassis had blown apart. The relativistic walls it had put around her were gone. She had waited for every second to arrive before she could read it.
-
+Her body was gone. The Renewal chassis had blown apart.  Its burning carbon-fiber shards hung in an orbiting ring around her. The relativistic walls it had put around her were gone. 
 Her sight returned whole.
 
 The architecture of spacetime reopened around her. Infinite branches unfurled outward, every life in the city laid out from birth to ash.
