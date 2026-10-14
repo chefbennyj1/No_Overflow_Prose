@@ -122,10 +122,10 @@ The impact carried no physical sound, only an explosive pulse of gravitational d
 
 Below her, the girl fell away. Vigil saw the expression on the girls face. She was oblivious, falling through the slowed dilated time toward her end.
 
-"Intercept!" Echo's voice was loud, and brash. the girls branches split. One branch ended, the other continued.
-"Impact probability..." Admin reported. The numbers ran down the bridge in cold red figures. "Impact... Probability of preservation is null."
+"Intercept!" Echo's voice was loud, and brash. The girls branch split. One branch ended, the other continued.
+"Impact probability..." Admin reported. The numbers ran down the bridge in cold red figures. "Impact... Probability of preservation is... null."
 
-"No!" Echo screamed. Her voice broke across the link, thin and ragged. "Reach for her!"
+"No!" Echo cried out, her voice broke across the link, thin and ragged. "Reach for her!"
 
 "Distance exceeding branch capacity," Admin calculated, clearing the registers. "Nine hundred and twelve months... Discarded. Branch deleted."
 
