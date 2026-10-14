@@ -1,9 +1,9 @@
 ---
 music: Vigil.mp3
 ---
-Time slowed, she was back in control.
+Time dilated. She was back in control.
 
-In the dilated silence between two vibrations of light, the concrete ceiling hung in the air. Cracks frozen open, dark veins caught mid-fracture. Dust drifted down, motionless in the glare. Beneath the falling stone, Harper was locked against Rin, her lips shaped around a syllable that could not finish.
+In the stretched silence between two vibrations of light, the five-ton concrete ceiling descended at a microscopic crawl. Cracks tore open like dark veins, spitting a slow mist of mortar dust that drifted sideways, dragged horizontally toward the pit by the screaming vacuum of the anti-star. Beneath the falling stone, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
 
 Above the pit, Vigil floated.
 
@@ -18,7 +18,7 @@ Below her feet, there was no longer a floor. The pit had opened all the way down
 
  Inside the compressing space beneath falling ceiling, her calculation struck a wall.
 
-"Terminations inevitable," Admin calculated, transmitting across the internal bridge. "The mass of the concrete permits no divergence."
+"Terminations unavoidable," Admin calculated, transmitting across the internal bridge. "The mass of the concrete permits no divergence."
 
 "No," Echo answered across the link. "Their world lines will not end here."
 
