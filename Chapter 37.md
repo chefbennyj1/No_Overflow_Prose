@@ -42,6 +42,8 @@ With every meter she climbed away from the core, the singularity tugged at the e
 
 She set Elena against a frosted pillar on the plaza, then dropped back into the well.
 
+High above the spire, Parity hovered motionless in the sunlight, her porcelain fingers tightening around the fabric of spacetime. With every second Vigil spent hauling the living clear of the pit, Parity widened the fracture lines, opening the gorge and revealing more of the anti-star. She was forcing the probability of total collapse closer to the present.
+
 She took Iris next. The analyst was mid-stride, black-rimmed glasses tilted on her nose. The pull from the pit doubled. Admin registered the loss of coherence—pieces of her neural density stripped away into the gravity well.
 
 She returned for Harper and Rin.
