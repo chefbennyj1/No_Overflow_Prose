@@ -21,7 +21,7 @@ Core code populated the screen. Elena scanned the lines she had authored herself
 
 *Parity was never added as an error code to the engine.*
 
-The physical intercom button yielded only dead air when she slammed her palm against it to wake the night-shift engineers. The entire local network was locked. 
+The physical intercom button yielded only air when she slammed her palm against it to wake the night-shift engineers. The entire local network was locked. 
 
 Out of the corner of her eye, a secondary terminal flickered. The light died, replaced by a harsh, blinking white command line. 
 

@@ -28,7 +28,7 @@ Below her feet, there was no longer a floor. The pit had opened all the way down
 
 Vigil moved.
 
-She took Elena first. The doctor had no weight in the dilated frame, a fragile tangle of bone and carbon fiber. Vigil lifted her off the grating and stepped through the dead air, rising out of the sublevel into the atrium.
+She took Elena first. The doctor had no weight in the dilated frame, a fragile tangle of bone and carbon fiber. Vigil lifted her off the grating and stepped through the air, rising out of the sublevel into the atrium.
 
 She climbed forty stories of frozen glass.
 
