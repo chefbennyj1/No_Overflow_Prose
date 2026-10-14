@@ -153,7 +153,7 @@ For the first time since they were compiled, Admin did not offer an alternative.
 
 Vigil did not parry. She inverted the gravity above her and drove upward.
 
-The air between the upper floors compressed into a white cone of superheated vapor. Vigil's dark hand closed into a fist, the silver and blue geometry along her forearm locking into a single blinding line of mass.
+The air between the upper floors compressed into a white cone of superheated vapor. Vigil's dark hand closed into a fist, the silver and blue along her forearm locking into a single blinding line of mass.
 
 Parity saw her coming a millisecond too late. She raised her free arm to block.
 
