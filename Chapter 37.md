@@ -46,11 +46,11 @@ She took Iris next. The analyst was mid-stride, black-rimmed glasses tilted on h
 
 She returned for Harper and Rin.
 
-Harper was still curved over Rin's back, shielding her. Vigil slid her hands beneath them both, locking them together against her chest, and kicked off the buckling floor grating.
+Harper was still curved over Rin's back, shielding her. Rin's glassy eyes were still fixed on the space above the pit where Vigil had been. Vigil slid her arms beneath them both, locking them together against her chest, and kicked off the buckling floor grating.
 
 The slab dropped behind her. In real time it would have been a thunderclap; in Vigil's wake, it fell with the slow grace of a feather settling onto ash.
 
-The gravity well screamed behind her heels. It pulled at her as she fought against the intense pull. Her silhouette blurred, the dark edges fraying into raw current.
+The gravity well screamed behind her heels, dragging at her silhouette as she fought the drop. Her dark edges frayed into raw current.
 
 She crested the plaza and set them down on the frosted stone beside Elena and Iris.
 
@@ -92,7 +92,7 @@ Her porcelain skin was blinding, a pure silicon-dioxide void that cast no shadow
 
 Blackwell did not exist in Vigil's simulation. He was an Ambiguity—a blank spot in spacetime where no thread could anchor. He hung limp over the drop, his face gray with frost.
 
-She was not alone. Five people hung in the air around her, held by nothing, turning slowly in the wind off the spire. Frost had climbed their clothes to the throat. They were from the plaza: three men in the patched coats of the lower city, a Renewal agent with his helmet gone, and a girl of about fifteen with a brick still in her hand.
+She was not alone. Five people hung in the air around her, held by nothing, turning slowly in the wind off the spire. Frost had climbed their clothes to the throat. They were from the plaza: three men in the patched coats of the lower city, a Renewal agent with his helmet gone, and a girl of about fifteen with a brick still in her hand. She wore a yellow knitted hat, lopsided, with a pompom too big for it.
 
 Vigil read them. Five branches ran out from this second, long and ordinary. The agent would quit within the year. One of the men would grow old on a fishing boat off the Oshima seawall. The girl would live to be ninety-one and never once think about this morning.
 
@@ -106,15 +106,69 @@ She turned her empty hand over.
 
 The five dropped.
 
-Vigil went after them. She caught the agent and two of the men before the thirtieth floor and set them on a terrace. She caught the third man at the twelfth. The girl was still below her, still holding the brick.
+Vigil went after them. She caught the agent and two of the men before the thirtieth floor and set them on a terrace. She caught the third man at the twelfth.
+
+The girl was below her.
+
+She was falling backward, her coat open in the draft, small against the shear of the glass. Her knuckles were raw and red from the frost, locked white around the brick. In the dilated frame, her eyes were wide, looking past Vigil's shoulder at the clouds. The hat had come off. It turned in the air above her, slower than she fell.
+
+Vigil reached. 
+
+Her fingers were four inches from the collar of the coat. 
 
 Parity struck her from above.
 
-The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. Glass shattered and blasted out of the upper windows of the surrounding skyscrapers, raining frost covered shards, sharply toward the ground.
+The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil's mass, pinning her in the empty air and shearing forty meters of velocity in a microsecond. Glass shattered outward from the surrounding towers, showering the street in white dust.
 
-The girl's branch ended on the plaza stones. Ninety-one years, folded into one second. Vigil had been close enough to touch her.
+Below her, the girl fell away.
 
-They fought not with fists, but across the branching delta of futures.
+"Intercept vector zero," Admin reported. The numbers ran down the bridge in cold red figures. "Impact in zero-point-six seconds. Probability of preservation: null."
+
+"No," Echo said. Her voice broke across the link, thin and ragged. "Reach for her."
+
+"Distance exceeding thrust capacity," Admin calculated, clearing the registers. "Nine hundred and twelve months of projected runtime discarded. Deleting branch."
+
+"Do not delete her," Echo said.
+
+The girl hit the stones.
+
+The brick cracked first, then the body. Ninety-one years—an apprentice mechanic's license, two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
+
+The yellow hat came down a second later and settled on the frost beside her.
+
+The stones below went still.
+
+Across the bridge, Admin began reallocating bandwidth to the threat profile above. "Hostile target descending at—"
+
+"Stop calculating," Echo said. 
+
+Her voice had changed. The warmth was gone from it, stripped down to raw, cold iron.
+
+"Violence is a primal subroutine," Admin reported, the protocol automatic. "Inefficient—"
+
+"Hit her," Echo said.
+
+For the first time since they were compiled, Admin did not offer an alternative. "Calculating vector."
+
+Vigil did not parry. She inverted the gravity above her and drove upward.
+
+The air between the twelfth floor and the fiftieth didn't part—it compressed into a white cone of superheated vapor. Vigil's dark hand closed into a fist, the silver and blue geometry along her forearm locking into a single blinding line of mass.
+
+Parity saw her coming a millisecond too late. She raised her free arm to block.
+
+Vigil struck her square in the forearm and drove her back into the face of the Takeda-Holden tower.
+
+The impact didn't make a sound. It tore a hole in the local gravity.
+
+For three blocks in every direction, parked mag-cars ripped off their cushions and slammed sideways into the brickwork. On the plaza below, every spent brass casing rose two feet off the frost and hung there, ringing at a pitch that shattered the visors of the nearest Renewal helmets. Thirty stories of the tower's reinforced structural steel bowed inward around Parity's spine, the empty window frames buckling around her.
+
+A hairline crack split the porcelain of Parity's forearm, leaking a thin hiss of bronze light.
+
+Parity's black eyes widened a fraction. In the engine, Vigil had only ever tried to reason with her. She had never struck back.
+
+They fought not with fists after that, but across the branching delta of futures.
+
+Parity did not let it happen again. Every time Vigil came at her, she kept the plaza between them.
 
 Parity lunged forward, her porcelain knuckles striking at the threads anchoring the city below. With every downward blow, she forced the probability of total collapse closer to the present. Vigil parried with her own body, throwing her compiled mass in front of each terminating thread.
 
@@ -162,7 +216,7 @@ Vigil slammed onto the stones between them, her blue current flaring to absorb t
 
 Above them, Parity righted herself in the freezing air. She didn't drop. She didn't reach for the ruined crater in her stomach. She simply hovered, looking down through the hole in her own body with flat, unblinking black eyes.
 
-Across the bridge, Admin searched the simulation for the trajectory. The telemetry was empty. No branch had recorded the slug. No predictive model had anticipated the weapon.
+Across the bridge, Admin searched the simulation for the trajectory. The log was empty. No branch had recorded the slug. No predictive model had anticipated the weapon.
 
 Vigil looked toward the source of the fire.
 
