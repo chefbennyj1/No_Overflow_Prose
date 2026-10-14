@@ -104,7 +104,7 @@ Parity turned her black eyes toward Vigil.
 
 Parity's head tilted.  She turned her empty hand over.
 
-The five dropped. Vigil watched the five branches shatter into chaos.
+The three dropped. Vigil watched the five branches shatter into chaos.
 
 Vigil went after them. She caught the agent and two of the men before the thirtieth floor and set them on a terrace. She caught the third man at the twelfth.
 
