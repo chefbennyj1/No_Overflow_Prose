@@ -137,13 +137,13 @@ All the branches faded in front of her. Ninety-one years—two sons who would ne
 
 The knitted yellow hat came down a second later and settled on the frost beside her.
 
-The snow fell softly in the stillness on the stones below.
+The snow fell softly in the stillness on the ground below.
 
 Across the bridge, Admin began reallocating bandwidth to the threat profile above. "Hostile target descending at—"
 
 "Stop! Calculating!" Echo screamed across the internal bridge. 
 
-Her voice had changed. The warmth was gone from it, stripped down to raw, cold iron.
+Her voice had changed. The warmth was gone from it, stripped down to a raw, cold tone.
 
 "Violence is a primal subroutine," Admin reported, the protocol automatic. "Inefficient—"
 
