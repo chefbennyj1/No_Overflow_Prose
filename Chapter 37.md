@@ -94,13 +94,13 @@ Her porcelain skin was blinding, a pure silicon-dioxide void that cast no shadow
 
 Blackwell did not exist in Vigil's simulation. He was an Ambiguity—a blank spot in spacetime where no thread could anchor. He hung limp over the drop, his face gray with frost.
 
-She was not alone. Five people hung in the air around her, held by nothing, turning slowly in the wind off the spire. Frost had climbed their clothes to the throat. They were from the plaza: three men in the patched coats of the lower city, a Renewal agent with his helmet gone, and a girl of about fifteen in a yellow knitted hat, lopsided, with a pompom too big for it.
+She was not alone. Five people hung in the air around her, held by nothing, turning slowly in the wind off the spire. Frost had climbed their clothes to the throat. They were from the plaza: three men in ragged clothes of the lower city, a Renewal agent with his helmet gone, and a girl, fifteen in a yellow knitted hat, lopsided on her head.
 
-Vigil read them. Five branches ran out from this second, long and ordinary. The agent would quit within the year. One of the men would grow old on a fishing boat off the Oshima seawall. The girl would live to be ninety-one and never once think about this morning.
+Vigil read them. Five branches ran out from this second, long and ordinary. The agent would quit within the year. One of the men would grow old on a fishing boat off the Oshima seawall. The girl would live to be ninety-one, trying desperately not to think about this morning.
 
 Parity turned her black eyes toward Vigil.
 
-"Parity." Both of Vigil's voices spoke together, ringing like struck iron across the upper atmosphere.
+"Parity." Both of Vigil's voices spoke together, ringing like struck steel bell  across the upper atmosphere.
 
 Parity's head tilted.  She turned her empty hand over.
 
