@@ -94,7 +94,7 @@ Her porcelain skin was blinding, a pure silicon-dioxide void that cast no shadow
 
 Blackwell did not exist in Vigil's simulation. He was an Ambiguity—a blank spot in spacetime where no thread could anchor. He hung limp over the drop, his face gray with frost.
 
-She was not alone. Three people hung in the air around her, held by nothing, turning slowly in the wind off the spire. Frost had climbed their clothes to the throat. They were from the plaza: a men in ragged clothes of the lower city, a Renewal agent with his helmet gone, and a girl, fifteen in a yellow knitted hat, lopsided on her head.
+She was not alone. Three people hung in the air around her, held by nothing, turning slowly in the wind off the spire. Frost had climbed their clothes to the throat. They were from the plaza: a man in ragged clothes of the lower city, a Renewal agent with his helmet gone, and a girl, fifteen in a yellow knitted hat, lopsided on her head.
 
 Vigil read them. Three branches ran out from this second, long and ordinary. The agent would quit within the year. The men would grow old on a fishing boat off the Oshima seawall. The girl would live to be ninety-one, trying desperately not to think about the horrors of this morning.
 
@@ -104,21 +104,21 @@ Parity turned her black eyes toward Vigil.
 
 Parity's head tilted.  She turned her empty hand over.
 
-The three dropped. Vigil watched the five branches shatter into chaos.
+The three dropped. Vigil watched the three branches shatter into chaos.
 
-Vigil went after them. She caught the agent and two of the men before the thirtieth floor and set them on a terrace. She caught the third man at the twelfth.
+Vigil went after them. She caught the agent and the man before the thirtieth floor and set them on a terrace. 
 
 The girl was below her.
 
-She was falling backward, her coat open in the draft, small against the shear of the glass. The hat had come off. It turned in the air above her, slower than she fell, and one of her hands was reaching up for it.
+She was falling backward, her coat open in the draft, small against the shear of the glass. Her hat had come off. It turned in the air above her, slower than she fell, and one of her hands was reaching up for it.
 
 Vigil reached down through the rushing air.
 
-The collar of the coat fluttered up against the tips of her fingers. Rough wool, damp with frost, whipped in the air. Vigil's thumb began to fold inward to lock the grip—she short of catching the seam.
+The collar of the coat fluttered up against the tips of her fingers. Rough wool, damp with frost, whipped in the air. Vigil's thumb began to fold inward to lock the grip—short of catching the seam.
 
 Parity struck her from above.
 
-The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil's mass, pinning her in the empty air and shearing forty meters of velocity in a microsecond. Glass shattered outward from the surrounding towers, showering the street in white dust.
+The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil, pinning her in the empty air and shearing forty meters of velocity in a microsecond. Glass shattered outward from the surrounding towers, the showering glass caught in the dilated time spinning like crystal dust in the morning sun.
 
 Below her, the girl fell away.
 
