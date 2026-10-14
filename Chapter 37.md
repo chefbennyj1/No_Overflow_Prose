@@ -18,7 +18,7 @@ Below her feet, there was no longer a floor. The pit had opened all the way down
 
  Inside the compressing space beneath falling ceiling, her calculation struck a wall.
 
-"Terminations unavoidable," Admin calculated, transmitting across the internal bridge. "The mass of the concrete permits no divergence."
+"Terminations near unavoidable," Admin calculated, transmitting across the internal bridge. "The mass of the concrete permits no divergence."
 
 "No," Echo answered across the link. "Their world lines will not end here."
 
@@ -32,13 +32,13 @@ She took Elena first. The doctor had no weight in the dilated frame, a fragile t
 
 She climbed forty stories of frozen glass.
 
-Around her, the physical world slowed as if moving through a thick viscus fluid . In the middle of the shaft, brass shell casings from a Renewal volley hung in midair, caught in the light from the eastern windows. Vigil passed them without slowing.
+Around her, the physical world slowed as if moving through a thick viscus fluid . In the middle of the shaft, brass shell casings from a Renewal volley hung in the air, caught in the light from the eastern windows. Vigil passed them without slowing.
 
 Far below, the atrium's marble floor had split and tipped. The synth with her face lay on it, sliding toward the dark.
 
 The horizon pulled at her back.
 
-With every meter she climbed away from the core, the singularity tugged at the edges of her  form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below.
+With every meter she climbed away from the core, the singularity tugged at the edges of her form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below.
 
 She set Elena against a frosted pillar on the plaza, then dropped back into the well.
 
