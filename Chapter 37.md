@@ -157,7 +157,7 @@ The air between the upper floors compressed into a white cone of superheated vap
 
 Parity saw her coming a millisecond too late. She raised her free arm to block.
 
-Vigil struck her square in the forearm and drove her back into the face of the Takeda-Holden tower.
+Vigil struck her and drove her back into the face of the Takeda-Holden tower.
 
 The impact didn't make a sound. It tore a hole in the local gravity.
 
@@ -181,9 +181,7 @@ Vigil was losing.
 
 "She knows how we protect," Echo answered.
 
-Parity pressed her advantage. She did not need to predict the chaotic variables of the universe; she only needed to predict Vigil. A protector was bound by the duty to preserve. Every move Vigil made was constrained by the lives standing on the stones below.
-
-Parity broke the clinch and dove.
+Parity pressed her advantage, broke the clinch and dove.
 
 She dropped toward the plaza like a falling spear, cutting through the freezing air.
 
@@ -203,9 +201,9 @@ In an instant, Vigil saw every branch belonging to the three of them collapse. A
 
 Vigil dove, pushing her velocity past the boundary limits, but the distance was an absolute mathematical barrier. She was thirty meters behind. Parity's white hand reached out, inches from Rin's face.
 
-A hole opened in Parity.
 
-The kinetic crack of a magnetic-rail slug broke the sky a fraction of a second after the impact. The heavy projectile punched clean through her midsection, tearing a ragged void through the center of her porcelain torso. White crystalline shards blasted out across the frost, glittering like crushed sugar.
+
+The kinetic crack of a magnetic-rail slug broke the sky. A hole opened in Parity. A blast of gun fire a fraction of a second after the impact. The heavy projectile punched clean through her midsection, tearing a ragged void through the center of her porcelain torso. White crystalline shards blasted out across the frost, glittering like crushed sugar.
 
 There was no blood. No organic tissue tore inside the cavity. Only severed bronze bus lines, snapping and sparking against fractured silicon. Through the hollow in her waist, the frosted stones of the plaza showed bare.
 
