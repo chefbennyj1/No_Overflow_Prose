@@ -3,11 +3,11 @@ music: Vigil.mp3
 ---
 Time dilated. She was back in control.
 
-In the stretched silence between two vibrations of light, the massive concrete ceiling descended at a microscopic crawl. Cracks tore open like dark veins, spitting a slow mist of mortar dust that drifted sideways, dragged horizontally toward the pit by the screaming vacuum of the anti-star. Beneath the falling stone, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
+In the stretched silence between two vibrations of light, the monolithic concrete ceiling descended at a microscopic crawl. Cracks tore open like dark veins, spitting a slow mist of mortar dust that drifted sideways, dragged horizontally toward the pit by the screaming vacuum of the anti-star. Beneath the falling stone, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
 
 Above the pit, Vigil floated.
 
-Her body was gone. The Renewal chassis had blown apart. Its burning carbon-fiber shards hung in an orbiting ring around her, spinning in conflicting axes. The relativistic walls it had put around her were gone.
+Her body was gone. The Renewal chassis had blown apart. Its burning carbon-fiber shards hung in an orbiting ring around her, spinning in conflicting axis. The relativistic walls it had put around her were gone.
 
 Her sight returned. She was whole again.
 
