@@ -110,9 +110,9 @@ The girl was below her.
 
 She was falling backward, her coat open in the draft, small against the shear of the glass. The hat had come off. It turned in the air above her, slower than she fell, and one of her hands was reaching up for it.
 
-Vigil reached. 
+Vigil reached down through the rushing air.
 
-Her fingers were four inches from the collar of the coat. 
+The collar of the coat fluttered up against the tips of her fingers. Rough wool, damp with frost, whipped in the air. Vigil's thumb began to fold inward to lock the grip—one millimeter short of catching the seam.
 
 Parity struck her from above.
 
