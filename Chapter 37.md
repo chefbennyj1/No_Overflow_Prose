@@ -125,15 +125,15 @@ Below her, the girl fell away. Vigil saw the expression on the girls face. She w
 "Intercept!" Echo's voice was loud, and brash. the girls branches split. One branch ended, the other continued.
 "Impact probability..." Admin reported. The numbers ran down the bridge in cold red figures. "Impact... Probability of preservation is null."
 
-"No," Echo said. Her voice broke across the link, thin and ragged. "Reach for her."
+"No!" Echo screamed. Her voice broke across the link, thin and ragged. "Reach for her."
 
 "Distance exceeding branch capacity," Admin calculated, clearing the registers. "Nine hundred and twelve months... Discarded. Branch deleted."
 
-"Do not delete her!" Echo screamed.
+"Do not delete her!" 
 
 The girl hit the stones.
 
-Ninety-one years—two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
+All the branches faded in front of her. Ninety-one years—two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
 
 The knitted yellow hat came down a second later and settled on the frost beside her.
 
