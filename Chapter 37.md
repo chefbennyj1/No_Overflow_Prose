@@ -118,15 +118,16 @@ The collar of the coat fluttered up against the tips of her fingers. Rough wool,
 
 Parity struck her from above.
 
-The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil, pinning her in the empty air and shearing forty meters of velocity in a microsecond. Glass shattered outward from the surrounding towers, the showering glass caught in the dilated time spinning like crystal dust in the morning sun.
+The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil, pinning her in the empty air and shearing forty meters of velocity in a microsecond. Glass shattered outward from the surrounding towers. The glass caught in the dilated time, spinning like crystal dust in the morning sun.
 
-Below her, the girl fell away.
+Below her, the girl fell away. Vigil saw the expression on the girls face. She was oblivious, falling through the slowed dilated time toward her end.
 
-"Intercept vector zero," Admin reported. The numbers ran down the bridge in cold red figures. "Impact in zero-point-six seconds. Probability of preservation: null."
+"Intercept!" Echo's voice was loud, and brash. the girls branches split. One branch ended, the other continued.
+"Impact probability..." Admin reported. The numbers ran down the bridge in cold red figures. "Impact... Probability of preservation is null."
 
 "No," Echo said. Her voice broke across the link, thin and ragged. "Reach for her."
 
-"Distance exceeding thrust capacity," Admin calculated, clearing the registers. "Nine hundred and twelve months of projected runtime discarded. Deleting branch."
+"Distance exceeding branch capacity," Admin calculated, clearing the registers. "Nine hundred and twelve months discarded. Deleting branch."
 
 "Do not delete her," Echo said.
 
