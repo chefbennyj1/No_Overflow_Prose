@@ -47,3 +47,7 @@
 3. **Iris's secret:** with Iris on the plaza, who hears her say "something has to go back in"? Blackwell, as the cue for the flip, or Elena?
 4. **Elena and Blackwell:** with both on the plaza, there's room for her reserved line: *"You intentionally armed a nuclear bomb just so you could admire the clockwork inside it."* In 37 or 38?
 5. **What the rescue costs Vigil:** her form thinning, or the horizon dragging her. A visible toll makes it believable that she can lose the sky fight.
+
+## Revision notes (author, 14 Oct, for later)
+1. **Show her losing before "Vigil was losing."** (about line 175). Right now the line asserts it. The beats before it need to show Vigil taking damage or giving ground first, for example losing more of her form, getting pushed down toward the plaza, or a parry failing and costing lives.
+2. **The anti-star is missing from the environment paragraph** (snow reversing, clocks, frost line, just before "Vigil was losing"). Add a line about it growing under the plaza while they fight: the gorge widening, the stones sliding toward it, light bending at its edge.

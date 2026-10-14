@@ -12,13 +12,13 @@ Her sight returned. She was whole again.
 
 Her form was an absence of light, a silhouette cut straight out of the dark between the stars. Across the curve of her shoulders and down her weightless limbs, fine traces of silver and pale blue shifted in a slow, living currents. Her eyes burned white, twin singularities holding the room in balance.
 
-The architecture of spacetime reopened around her. Infinite branches unfurled outward, every life in the city laid out from birth to ash.
+The structure of spacetime reopened around her. Infinite branches unfurled outward, every life in the city laid out from birth to ash.
 
 Below her feet, there was no longer a floor. The pit had opened all the way down, unveiling the anti-star. It sat under the tower where the bedrock had been, dark at its heart and ringed in folding white light. Pieces of the building were falling into it. The sub-levels hung in broken pieces above its edge. Pieces of the engines pillars dangled by broken steel supports. The grating was twisted. Dormant synthetics in their lab coats, all gone, fallen into the hole.
 
-In the four meters beneath the falling ceiling, her calculation struck a wall.
+ Inside the compressing space beneath falling ceiling, her calculation struck a wall.
 
-"Four biological terminations in zero-point-zero-four seconds," Admin calculated, transmitting across the internal bridge. "The mass of the concrete permits no divergence."
+"Terminations inevitable," Admin calculated, transmitting across the internal bridge. "The mass of the concrete permits no divergence."
 
 "No," Echo answered across the link. "Their world lines will not end here."
 
@@ -163,8 +163,6 @@ For three blocks in every direction, parked mag-cars ripped off their cushions a
 A hairline crack split the porcelain of Parity's forearm, leaking a thin hiss of bronze light.
 
 Parity's black eyes widened a fraction. In the engine, Vigil had only ever tried to reason with her. She had never struck back.
-
-They fought not with fists after that, but across the branching delta of futures.
 
 Parity did not let it happen again. Every time Vigil came at her, she kept the plaza between them.
 
