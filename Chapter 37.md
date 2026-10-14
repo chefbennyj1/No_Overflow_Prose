@@ -215,13 +215,13 @@ A hole opened in Parity.
 
 The crack of a magnetic-rail slug breached the air a fraction of a second later. The heavy projectile had punched clean through her midsection, tearing a ragged void through the center of her porcelain torso. White crystalline shards blasted out across the frost, glittering like crushed sugar.
 
-Severed bronze bus lines, snapping and sparking against fractured silicon inside the cavity. Through the hollow in her waist, the frosted stones of the plaza showed bare.
+Severed bronze bus lines snapped and sparked against fractured silicon. Through the hollow in her waist, the frosted stones of the plaza showed bare.
 
 The force spun Parity three feet off her axis. Her reach missed Rin by an inch.
 
 Vigil slammed onto the stones between them, her blue current flaring to absorb the kinetic shockwave.
 
-Above them, Parity righted herself in the freezing air. She didn't drop. She didn't reach for the ruined crater in her stomach. She simply hovered, looking down through the hole in her own body with flat, unblinking black eyes.
+Above them, Parity righted herself in the freezing air. She didn't drop. She didn't reach for the ruined crater in her stomach. She hovered, looking down through the hole in her own body with flat, unblinking black eyes.
 
 Across the bridge, Admin searched the simulation for the trajectory. The log was empty. No branch had recorded the slug. No predictive model had anticipated the weapon.
 
