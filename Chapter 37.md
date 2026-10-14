@@ -1,5 +1,5 @@
 ---
-music: Vigil.mp3
+music: Gloria in Silentium.mp3
 ---
 Time dilated. She was back in control.
 
@@ -174,6 +174,12 @@ Parity's black eyes widened a fraction. In the engine, Vigil had only ever tried
 Parity did not let it happen again. Every time Vigil came at her, she kept the plaza between them.
 
 Parity lunged forward, her porcelain knuckles striking at the threads anchoring the city below. Vigil parried with her own body, throwing her compiled mass in front of each terminating thread.
+
+Each parry cost her. Where Parity's strikes landed, the dark of Vigil's form came away in flakes of blue current, and it did not come back. Her edges thinned. The light in her eyes dimmed with every blow.
+
+She could not cover every thread. Parity struck at three at once, and Vigil reached two. At the eastern edge of the plaza, the stones dropped into the gorge, and the barricade went with them, and the people behind it. Vigil watched eleven branches end before the stones stopped falling.
+
+Each exchange drove her lower. They had met at the spire. Now they fought at the thirtieth floor, then the twentieth, and the crowd was close enough beneath her that she could no longer strike down without falling on them.
 
 Every strike tore through physical reality on the streets below.
 
