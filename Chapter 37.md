@@ -105,9 +105,9 @@ She opened her right hand. Blackwell didn't fall. He hung where she had left him
 
 Parity's head tilted. She turned her hand over.
 
-The three dropped. Vigil watched the three branches shatter into chaos.
+The three dropped, their long, ordinary branches splitting into tangles of probability.
 
-Vigil went after them. She caught the agent and the man before the thirtieth floor and set them on a terrace. 
+Vigil went after them. She caught the agent and the man before the thirtieth floor and set them on a terrace. Their branches closed back into one, long and ordinary.
 
 The girl was below her.
 
@@ -131,9 +131,9 @@ Below her, the girl fell away. Vigil saw the expression on the girl's face. She 
 
 "Distance exceeding branch capacity," Admin calculated, clearing the registers. "Nine hundred and twelve months... Discarded. Branch deleted."
 
-"No." 
+"No!" The sound wrenched out into the open air, tearing through the cold draft like a physical blow. "Do not delete her," Echo said.
 
-The girl hit the stones.
+The girl hit the stone.
 
 All the branches faded in front of her. Ninety-one years—two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
 
