@@ -215,7 +215,7 @@ A hole opened in Parity.
 
 The crack of a magnetic-rail slug breached the air a fraction of a second later. The heavy projectile had punched clean through her midsection, tearing a ragged void through the center of her porcelain torso. White crystalline shards blasted out across the frost, glittering like crushed sugar.
 
-There was no blood. No organic tissue tore inside the cavity. Only severed bronze bus lines, snapping and sparking against fractured silicon. Through the hollow in her waist, the frosted stones of the plaza showed bare.
+Severed bronze bus lines, snapping and sparking against fractured silicon inside the cavity. Through the hollow in her waist, the frosted stones of the plaza showed bare.
 
 The force spun Parity three feet off her axis. Her reach missed Rin by an inch.
 
