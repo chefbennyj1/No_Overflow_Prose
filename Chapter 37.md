@@ -14,7 +14,7 @@ Her form was an absence of light, a silhouette cut straight out of the dark betw
 
 The structure of spacetime reopened around her. Infinite branches unfurled outward, every life in the city laid out from birth to ash.
 
-Below her feet, there was no longer a floor. The pit had opened all the way down, unveiling the anti-star. It sat under the tower where the bedrock had been, dark at its heart and ringed in folding white light. Pieces of the building were falling into it. The sub-levels hung in broken pieces above its edge. Pieces of the engines pillars dangled by broken steel supports. The grating was twisted. Dormant synthetics in their lab coats, all gone, fallen into the hole.
+Below her feet, there was no longer a floor. The pit had opened all the way down, unveiling the anti-star. It sat under the tower where the bedrock had been, dark at its heart and ringed in folding white light. Pieces of the building were falling into it. The sub-levels hung in broken pieces above its edge. The engines pillars dangled by broken steel supports. The grating was twisted. Dormant synthetics in their lab coats, all gone, fallen into the hole.
 
  Inside the compressing space beneath falling ceiling, her calculation struck a wall.
 
@@ -32,9 +32,9 @@ She took Elena first. The doctor had no weight in the dilated frame, a fragile t
 
 She climbed forty stories of frozen glass.
 
-Around her, the physical world slowed as if moving through a thick viscus fluid . In the middle of the shaft, brass shell casings from a Renewal volley hung in the air, caught in the light from the eastern windows. Vigil passed them without slowing.
+Around her, the physical world slowed as if moving through a thick viscus fluid. In the middle of the shaft, brass shell casings from a Renewal volley hung in the air, caught in the light from the eastern windows. Vigil passed them without slowing.
 
-Far below, the atrium's marble floor had split and tipped. The synth with her face lay on it, sliding toward the dark.
+Far below, the atrium's marble floor had split and tipped. Broken synths, and riot casualties lay on it, sliding toward the dark.
 
 The horizon pulled at her back.
 
