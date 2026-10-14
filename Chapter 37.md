@@ -32,7 +32,7 @@ She took Elena first. The doctor had no weight in the dilated frame, a fragile t
 
 She climbed forty stories of frozen glass.
 
-Around her, the physical world sat trapped in amber. In the middle of the shaft, brass shell casings from a Renewal volley hung in midair, caught in the light from the eastern windows. Vigil passed them without slowing.
+Around her, the physical world slowed as if moving through a thick viscus fluid . In the middle of the shaft, brass shell casings from a Renewal volley hung in midair, caught in the light from the eastern windows. Vigil passed them without slowing.
 
 Far below, the atrium's marble floor had split and tipped. The synth with her face lay on it, sliding toward the dark.
 
