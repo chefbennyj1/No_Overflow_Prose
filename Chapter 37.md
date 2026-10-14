@@ -1,9 +1,9 @@
 ---
-music: Gloria in Silentium.mp3
+music: Vigil.mp3
 ---
 Time dilated. She was back in control.
 
-In the stretched silence between two vibrations of light, the five-ton concrete ceiling descended at a microscopic crawl. Cracks tore open like dark veins, spitting a slow mist of mortar dust that drifted sideways, dragged horizontally toward the pit by the screaming vacuum of the anti-star. Beneath the falling stone, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
+In the stretched silence between two vibrations of light, the massive concrete ceiling descended at a microscopic crawl. Cracks tore open like dark veins, spitting a slow mist of mortar dust that drifted sideways, dragged horizontally toward the pit by the screaming vacuum of the anti-star. Beneath the falling stone, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
 
 Above the pit, Vigil floated.
 
@@ -29,7 +29,13 @@ Inside the compressing space beneath the falling ceiling, her calculation struck
 
 Vigil moved.
 
-She took Elena first. The doctor had no weight in the dilated frame, a fragile tangle of bone and carbon fiber. Vigil lifted her off the grating and stepped through the air, rising out of the sublevel into the atrium.
+She gathered them. Harper was still curved over Rin's back, shielding her. Rin's glassy eyes were fixed on the space above the pit where Vigil had been. Vigil slid her arms beneath them both and locked them against her chest.
+
+Elena lay on the grating, a fragile tangle of bone and carbon fiber. Iris was mid-stride, black-rimmed glasses tilted on her nose. Vigil bent the gravity around them and lifted them off the floor, held by nothing, close at her side.
+
+She kicked off the buckling grating and rose out of the sublevel into the atrium.
+
+The slab dropped behind her. In real time it would have been a thunderclap; in Vigil's wake, it fell with the slow grace of a feather settling onto ash.
 
 She climbed forty stories of frozen glass.
 
@@ -39,23 +45,15 @@ Far below, the atrium's marble floor had split and tipped. The synth with her fa
 
 The horizon pulled at her back.
 
-With every meter she climbed away from the core, the singularity tugged at the edges of her form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below.
+In the dilated frame, the four of them weighed almost nothing. The weight was in the pull. With every meter she climbed, the singularity tugged at the edges of her form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below. Admin registered each one as it went, pieces of Vigil's own neural density stripped away into the gravity well.
 
-She set Elena against a frosted pillar on the plaza, then dropped back into the well.
+Then the pull doubled.
 
 High above the spire, Parity hovered motionless in the sunlight, her porcelain fingers tightening around the fabric of spacetime. With every second Vigil spent hauling the living clear of the pit, Parity widened the fracture lines, opening the gorge and revealing more of the anti-star. She was forcing the probability of total collapse closer to the present.
 
-She took Iris next. The analyst was mid-stride, black-rimmed glasses tilted on her nose. The pull from the pit doubled. Admin registered the loss of coherence—pieces of her neural density stripped away into the gravity well.
+The gravity well screamed behind Vigil's heels. Her dark edges frayed into raw current. She did not let go.
 
-She returned for Harper and Rin.
-
-Harper was still curved over Rin's back, shielding her. Rin's glassy eyes were still fixed on the space above the pit where Vigil had been. Vigil slid her arms beneath them both, locking them together against her chest, and kicked off the buckling floor grating.
-
-The slab dropped behind her. In real time it would have been a thunderclap; in Vigil's wake, it fell with the slow grace of a feather settling onto ash.
-
-The gravity well screamed behind her heels, dragging at her silhouette as she fought the drop. Her dark edges frayed into raw current.
-
-She crested the plaza and set them down on the frosted stone beside Elena and Iris.
+She crested the plaza and set the four of them down on the frosted stone.
 
 Time snapped back into gear.
 
