@@ -74,7 +74,7 @@ The event horizon beneath the city had outgrown its containment. The black hole 
 
 Across the plaza, Corporate Renewal was dying.
 
-The dormant synthetics were no longer marching into the gunfire; they were drowning it. Without firing a weapon, the sheer mass of carbon-fiber bodies pressed the armored agents back against the building steps, knocking shields aside with mechanical indifference.
+The synthetics army was no longer marching into the gunfire; they were drowning it. Without firing a weapon, the sheer mass of carbon-fiber bodies pressed the armored agents back against the building steps, knocking shields aside with mechanical indifference.
 
 In Vigil's sight, the synthetics possessed no branching futures. They were dead matter animated by current. Yet through the city's network, she could feel every serial number pulsing like a dormant nerve ending.
 
@@ -112,7 +112,7 @@ She was falling backward, her coat open in the draft, small against the shear of
 
 Vigil reached down through the rushing air.
 
-The collar of the coat fluttered up against the tips of her fingers. Rough wool, damp with frost, whipped in the air. Vigil's thumb began to fold inward to lock the grip—one millimeter short of catching the seam.
+The collar of the coat fluttered up against the tips of her fingers. Rough wool, damp with frost, whipped in the air. Vigil's thumb began to fold inward to lock the grip—she short of catching the seam.
 
 Parity struck her from above.
 
@@ -150,7 +150,7 @@ For the first time since they were compiled, Admin did not offer an alternative.
 
 Vigil did not parry. She inverted the gravity above her and drove upward.
 
-The air between the twelfth floor and the fiftieth didn't part—it compressed into a white cone of superheated vapor. Vigil's dark hand closed into a fist, the silver and blue geometry along her forearm locking into a single blinding line of mass.
+The air between the upper floors compressed into a white cone of superheated vapor. Vigil's dark hand closed into a fist, the silver and blue geometry along her forearm locking into a single blinding line of mass.
 
 Parity saw her coming a millisecond too late. She raised her free arm to block.
 
