@@ -204,17 +204,25 @@ Rin lowered her arm, blinking through the red afterimages burned into her vision
 
 Floating in the center of the mist, where the ruined shell had hung, was Vigil.
 
-She was not metal. She was not a machine. A figure carved from absolute shadow, darker than the room itself, hovering weightless above the churning mist. Fine, living traces of silver and pale blue light pulsed across her form like neural fire, shifting with cold, geometric precision.
+She was not metal. She was not a machine. A figure carved from absolute shadow, darker than the room itself, hovering weightless above the churning mist. Fine, living traces of silver and pale blue light pulsed across her form, shifting with cold, geometric precision.
 
 Elena let out a ragged breath, leaning on the console. "Vigil."
 
 The new mass tore through the lab's physics.
 
-Gravitational shear screamed through the foundations. The pillar screens shattered in unison, showering the pit in dark glass. The floor grating buckled upward beneath Rin's boots.
+Gravitational shear screamed through the foundations. The pillar screens shattered in unison, showering the pit in dark glass.
 
-Overhead, eighty stories of concrete and steel groaned under the sudden weight.
+Then the steel grating beneath Rin's boots began to shake.
 
-A fissure tore across the ceiling, spitting dust and chunks of mortar down into the light.
+Not from the engine. From above. The vibration came down through eighty stories of structural steel, rattling the broken glass in the pit and the bones in Rin's jaw.
+
+A voice came out of the grating. One voice, flat and calm, from everywhere at once.
+
+"Save them."
+
+Vigil's head snapped up toward the rafters.
+
+Overhead, the whole building groaned. A fissure tore across the ceiling, spitting dust and chunks of mortar down into the light.
 
 Harper hit Rin from the side, driving her down behind the workstation, her body covering Rin's head.
 

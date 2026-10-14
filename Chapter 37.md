@@ -21,6 +21,10 @@ In the four meters beneath the falling ceiling, her calculation struck a wall.
 
 "No," Echo answered across the link. "Their world lines will not end here."
 
+"She wants us to carry them," Admin said.
+
+"Then she already knows we will," Echo answered.
+
 Vigil moved.
 
 She took Elena first. The doctor had no weight in the dilated frame, a fragile tangle of bone and carbon fiber. Vigil lifted her off the grating and stepped through the dead air, rising out of the sublevel into the atrium.
