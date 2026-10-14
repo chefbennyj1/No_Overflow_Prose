@@ -92,7 +92,7 @@ Her porcelain skin was blinding, a pure silicon-dioxide void that cast no shadow
 
 Blackwell did not exist in Vigil's simulation. He was an Ambiguity—a blank spot in spacetime where no thread could anchor. He hung limp over the drop, his face gray with frost.
 
-She was not alone. Five people hung in the air around her, held by nothing, turning slowly in the wind off the spire. Frost had climbed their clothes to the throat. They were from the plaza: three men in the patched coats of the lower city, a Renewal agent with his helmet gone, and a girl of about fifteen with a brick still in her hand. She wore a yellow knitted hat, lopsided, with a pompom too big for it.
+She was not alone. Five people hung in the air around her, held by nothing, turning slowly in the wind off the spire. Frost had climbed their clothes to the throat. They were from the plaza: three men in the patched coats of the lower city, a Renewal agent with his helmet gone, and a girl of about fifteen in a yellow knitted hat, lopsided, with a pompom too big for it.
 
 Vigil read them. Five branches ran out from this second, long and ordinary. The agent would quit within the year. One of the men would grow old on a fishing boat off the Oshima seawall. The girl would live to be ninety-one and never once think about this morning.
 
@@ -100,9 +100,7 @@ Parity turned her black eyes toward Vigil.
 
 "Parity." Both of Vigil's voices spoke together, ringing like struck iron across the upper atmosphere.
 
-Parity's head tilted. "There you are." Her voice sounded up through the steel of the building beneath them.
-
-She turned her empty hand over.
+Parity's head tilted.  She turned her empty hand over.
 
 The five dropped.
 
@@ -110,7 +108,7 @@ Vigil went after them. She caught the agent and two of the men before the thirti
 
 The girl was below her.
 
-She was falling backward, her coat open in the draft, small against the shear of the glass. Her knuckles were raw and red from the frost, locked white around the brick. In the dilated frame, her eyes were wide, looking past Vigil's shoulder at the clouds. The hat had come off. It turned in the air above her, slower than she fell.
+She was falling backward, her coat open in the draft, small against the shear of the glass. The hat had come off. It turned in the air above her, slower than she fell, and one of her hands was reaching up for it.
 
 Vigil reached. 
 
@@ -132,7 +130,7 @@ Below her, the girl fell away.
 
 The girl hit the stones.
 
-The brick cracked first, then the body. Ninety-one years—an apprentice mechanic's license, two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
+Ninety-one years—an apprentice mechanic's license, two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
 
 The yellow hat came down a second later and settled on the frost beside her.
 
