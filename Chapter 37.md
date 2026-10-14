@@ -127,21 +127,21 @@ Below her, the girl fell away. Vigil saw the expression on the girls face. She w
 
 "No," Echo said. Her voice broke across the link, thin and ragged. "Reach for her."
 
-"Distance exceeding branch capacity," Admin calculated, clearing the registers. "Nine hundred and twelve months discarded. Deleting branch."
+"Distance exceeding branch capacity," Admin calculated, clearing the registers. "Nine hundred and twelve months... Discarded. Branch deleted."
 
-"Do not delete her," Echo said.
+"Do not delete her!" Echo screamed.
 
 The girl hit the stones.
 
-Ninety-one years—an apprentice mechanic's license, two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
+Ninety-one years—two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
 
-The yellow hat came down a second later and settled on the frost beside her.
+The knitted yellow hat came down a second later and settled on the frost beside her.
 
 The stones below went still.
 
 Across the bridge, Admin began reallocating bandwidth to the threat profile above. "Hostile target descending at—"
 
-"Stop calculating," Echo said. 
+"Stop! Calculating!" Echo screamed across the internal bridge. 
 
 Her voice had changed. The warmth was gone from it, stripped down to raw, cold iron.
 
