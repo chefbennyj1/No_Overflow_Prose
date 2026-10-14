@@ -1,9 +1,9 @@
 ---
-music: Fractured Time Pulse.mp3
+music: Vigil.mp3
 ---
 Time slowed, she was back in control.
 
-In the dilated silence between two vibrations of light, the concrete ceiling hung in the air. Cracks frozen open, dark veins caught mid-fracture. Dust drifted down like salt, motionless in the glare. Beneath the falling stone, Harper was locked against Rin, her lips shaped around a syllable that could not finish.
+In the dilated silence between two vibrations of light, the concrete ceiling hung in the air. Cracks frozen open, dark veins caught mid-fracture. Dust drifted down, motionless in the glare. Beneath the falling stone, Harper was locked against Rin, her lips shaped around a syllable that could not finish.
 
 *Erin—*
 
