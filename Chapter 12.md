@@ -70,7 +70,7 @@ The female agent moved into position at the entrance of the tunnel, guarding the
 
 The huge mag-lift commuter train rocketed past them and into the terminal. The warm air pulled in from New Veridia. Harper squinted against the sudden rush of air, her tangled hair whipping across her eyes. The massive blast nearly took them off their feet. They braced themselves against the tunnel wall. 
 
-The male agent jumped onto the edge of the catwalk, unfazed. The grit on the catwalk jump as he landed. "You have been ordered to stop!" The modulated voice echoed through the tunnel behind them, as the agent marched toward them. 
+The male agent jumped onto the edge of the catwalk, unfazed. The grit on the catwalk jumped as he landed. "You have been ordered to stop!" The modulated voice echoed through the tunnel behind them, as the agent marched toward them. 
 
 The card dragged smoothly upward through the reader a second time. The magnetic lock clacked.  
 

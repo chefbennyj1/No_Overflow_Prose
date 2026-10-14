@@ -20,7 +20,7 @@ Harper pulled the plastic sheet back slightly. A small serial designation was st
 
 "An enforcer?" Harper stared at the letters. "You wouldn't guess it. Usually, they're buried inside a hundred pounds of black tactical armor."
 
-"Makes you wonder," Harper said quietly, her hand drifting up to brush across the scar on her collarbone. "How many of the agents walking the streets are actually human under all that plating. There's no way to tell."
+"Makes you wonder," she said quietly, her hand drifting up to brush across the scar on her collarbone. "How many of the agents walking the streets are actually human under all that plating. There's no way to tell."
 
 Rin dropped to her knees, inspecting the floor panel beneath the dormant body. She found a small access panel flush with the floor tile. Pressing it down, it popped up, revealing a recessed array of industrial ports lining the base. She found a braided cable coiled inside. She pulled the connector free, and inspected the end. The metal housing was stamped: **NET-CONN**. 
 

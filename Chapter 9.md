@@ -12,7 +12,7 @@ Before Vigil could process the catastrophe,  a bitter chill swept across the lan
 
 The stone nodes around her began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
 
-Vigil's immediately scanned the environment for the culprit.
+Vigil immediately scanned the environment for the culprit.
 
 Echo, Vigil's other half, processed the anomaly differently. She felt intent. The void at the bottom of the engine held a shape.
 
@@ -30,7 +30,7 @@ Bronze holographic circuitry seared across her skin. She possessed an unreadable
 
 Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing.  Her voice transmitted across the internal bridge, "She's not in the simulation. We cannot predict her."
 
-The entity lifted her head. Her eyes were an insidious, pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light. She stared at Vigil, tilting her head like a curious animal.
+The entity lifted her head. Her eyes were a pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light. She stared at Vigil, tilting her head like a curious animal.
 
 "Admin, she is a shadow. No, not a shadow." Echo's voice paused, "An anti-shadow. She is a— " 
 
@@ -44,7 +44,7 @@ Vigil stood before Parity.
 
 Vigil studied her unwavering and methodical gaze. The cold stare cut through her form. Parity's black eyes only blinked.
 
-In a deadly, silent motion, Parity inched forward.
+In a silent motion, Parity inched forward.
 
 Vigil recoiled the same distance. "State your intention," her doubled voice stern.
 

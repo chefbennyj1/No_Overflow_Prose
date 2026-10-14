@@ -27,7 +27,7 @@ The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a n
 
 Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles soared above and plunged below them. The building's tinted black glass refracted the rising sun, its rays shifting down forty floors below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
 
-When the doors parted, the air inside the lab moved with a low vibration. It was the terrifying reality of the city's reactor channeling into the floor beneath their feet.
+When the doors parted, the air inside the lab moved with a low vibration. It was the city's reactor, channeling into the floor beneath their feet.
 
 Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. They worked diligently checking the data on their screens. Blackwell approached the reinforced railing that encircled the center of the pit. The metal was cold. He gripped the rail.
 
@@ -45,10 +45,9 @@ A humorless breath fogged the glass. "What I'm building will pioneer a new era."
 
 Above the primary consoles, a wall sized display flickered to life. The encrypted feed partitioned the screen into a grid of digital monitors. Each square displayed nothing but the featureless silhouette of a corporate executive.
 
-"Perfect," Blackwell said, his lip curling into a sinister smile, "right on
-  schedule," his tone layered with passive sarcasm.
+"Perfect," Blackwell said, his lip curling. "Right on schedule."
 
-"The Takeda-Holden Corporation expects success today, Blackwell." a  voice echoed from the grid.
+"The Takeda-Holden Corporation expects success today, Blackwell," a voice echoed from the grid.
 
 Blackwell didn't bother to look back at the screen or at Elena, keeping his gaze fixed on the dormant core below. "Very well, Miss Marlowe," he murmured. "Give them a show."
 
@@ -94,7 +93,7 @@ Iris flinched, pulling the tablet tight against her chest. "Yes, ma'am. Of cours
 
 "I need the tracking data!" Elena demanded, pivoting away.
 
-At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting an eerie, liquid crystal luminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the shining fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
+At the adjacent console, a synthetic stood at attention. The designation *L-One-Two* (Laboratory 12) printed cleanly beneath its left eye. Its photoreceptive irises spun, emitting a liquid crystal luminescence as they processed the influx. The construct shifted its gaze toward Blackwell, the motion disturbing the shining fiber-optics rooted in its scalp. As the lenses locked onto his face, their rotation slowed into a semblance of admiration.
 
 "Horizon stability confirmed," the machine reported.
 

@@ -35,4 +35,4 @@ The voice didn't come directly from the entity in front of her. It emanated from
 
  Elena had authored the engine's core code. She had helped design the horizon matrix. But she had never designed this. 
 
-The porcelain head of the machine tilted, the sudden movement fracturing into three distinct, lingering trails of motion, folding back on themselves into alignment. Then is reached out.
+The porcelain head of the machine tilted, the sudden movement fracturing into three distinct, lingering trails of motion, folding back on themselves into alignment. Then it reached out.

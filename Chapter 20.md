@@ -7,7 +7,7 @@ The counter-weighted vault doors of Deep Storage unlocked with the loud movement
 
 Victor raised his revolver and clicked on his tactical flashlight. Its beam sliced through the room.
 
-He stepped inside the door, and stopped. The floor was wide open. Nowhere to step without being seen. Plastic-draped synthetics stretched into long uniform rows. The ticks of their peristaltic pumps randomly sounding off in across the floor. A perfect maze for an ambush. 
+He stepped inside the door, and stopped. The floor was wide open. Nowhere to step without being seen. Plastic-draped synthetics stretched into long uniform rows. The ticks of their peristaltic pumps randomly sounding off across the floor. A perfect maze for an ambush. 
 
 Victor swept his light across the grid, calculating the odds. Null was a hacker, but he didn't know if she was armed, or how many people she had brought with her to pull off a physical breach. 
 

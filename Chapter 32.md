@@ -65,7 +65,7 @@ Harlan shifted in the passenger seat. "Vic. You know what this is, right? Sittin
 
 "I know what it is," Victor said, keeping his eyes on the corner.
 
-Harlan was quiet for a while. The rain ticked on the roof. Somewhere to the east, a siren sounded with a echo and faded out.
+Harlan was quiet for a while. The rain ticked on the roof. Somewhere to the east, a siren sounded with an echo and faded out.
 
 "Victor. I put in the papers," Harlan said.
 

@@ -119,7 +119,7 @@ The bell chimed. *"Main floor."*
 
 The steel doors slid open.
 
-A high-caliber rifle shot broken the air.
+A high-caliber rifle shot broke the air.
 
 The lead agent was still looking back when it hit him. He and the agent beside him were thrown backward, their tactical armor cratered by the heavy munitions. They crumpled to the floor in a spray of sparks.
 

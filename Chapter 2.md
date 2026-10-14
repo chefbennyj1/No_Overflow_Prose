@@ -57,7 +57,7 @@ Rin moved away from the desk. She stepped back until the wireframe on the glass 
 
 Before she could dig deeper, the authorization download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. Down the hall, the elevator jammed against the wrench once more, chiming as the doors recoiled. Rin froze with the drive in her palm, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
 
-Decidedly, she connected the red drive to the terminal. Her fingers instinctively hooked the loose strand of hair back behind her ear before she hammered the key to start the copy.
+She connected the red drive to the terminal. Her fingers instinctively hooked the loose strand of hair back behind her ear before she hammered the key to start the copy.
 
 ***
 
@@ -73,7 +73,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 "We gotta get to Null before Corporate Renewal," Victor said, his gaze fixed on the landing above. "If Takeda-Holden finds them first, months of work will have been for nothing." Victor turned back, looking at Harlan on the landing below him. "And we want those mafia bastards."
 
-Victor reached the steel fire-door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—an augmented revolver resembling a relic snatched from another century. The guns  retrofitted magnetic rails vibrated with a low charge, and a red indicator light blinked, signifying its readiness to fire. 
+Victor reached the steel fire-door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—an augmented revolver resembling a relic snatched from another century. The gun's retrofitted magnetic rails vibrated with a low charge, and a red indicator light blinked, signifying its readiness to fire. 
 
 Victor stepped onto the landing in silence. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk-ding.* Victor noted the noise, his attention drawn quickly to the opened door. Through the opening, in the suite, he could see a section of the office's picture window; the glowing blue wireframe projections.
 
@@ -143,11 +143,11 @@ Harlan grabbed Victor’s arm, his voice dropping to a harsh whisper. "Victor...
 
 Their humanity was obscured by glossy, faceless helmets. A single, vertical slice of heated crimson cut down the center of the black glass, still flaring from their climb up the stairwell. 
 
-The lead agent didn't speak. He stepped directly into Victor's personal space, towering over him. The red seam down the center of his face pulsed as it scanned Harlan's upheld Oshima police badge. The agent then snapped a deliberately bright tactical light onto Victors face, burning directly into his sensitive eyes.
+The lead agent didn't speak. He stepped directly into Victor's personal space, towering over him. The red seam down the center of his face pulsed as it scanned Harlan's upheld Oshima police badge. The agent then snapped a deliberately bright tactical light onto Victor's face, burning directly into his sensitive eyes.
 
 Victor was still holding his revolver. The entire squad shifted towards him in response. A silent, lethal threat.
 
-Victor made a point of slowly dropping his gun into his holster and rise his hands, so as not to instigate them. He winced, blinking through the blinding light. "Oh, look," he said, his sarcastic tone masking a spike of genuine adrenaline. "The cavalry finally showed up. Just in time, as always."
+Victor made a point of slowly dropping his gun into his holster and raising his hands, so as not to instigate them. He winced, blinking through the blinding light. "Oh, look," he said, masking a spike of adrenaline. "The cavalry finally showed up. Just in time, as always."
 
 He didn't argue further. He stepped aside, letting the silent, black-armored squad push past them to secure the executive suite.
 
@@ -155,6 +155,6 @@ He didn't argue further. He stepped aside, letting the silent, black-armored squ
 
 Harlan pushed himself off the wall, wiping a streak of sweat and soot from the dark skin of his forehead. "What's so important that Null would risk so much to access?"
 
-"'What' indeed, Harlan," Victor started the long descent back down to the Dead Circuits. He paused on the first step, his eyes narrowing. "But the name on the office she just hit... said Doctor L. Blackwell."
+"'What' indeed, Harlan," Victor started the long descent back down to the Dead Circuits. He paused on the first step, his eyes narrowing. "But the name on the office she just hit... said Doctor Silas Blackwell."
 
 Harlan frowned, staring after him into the stairwell. "Blackwell?"

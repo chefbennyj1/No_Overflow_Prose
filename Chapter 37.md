@@ -25,7 +25,7 @@ Vigil moved.
 
 She took Elena first. The doctor had no weight in the dilated frame, a fragile tangle of bone and carbon fiber. Vigil lifted her off the grating and stepped through the dead air, rising out of the sublevel into the atrium.
 
-She climbed eighty stories of frozen glass.
+She climbed forty stories of frozen glass.
 
 Around her, the physical world sat trapped in amber. In the middle of the shaft, brass shell casings from a Renewal volley hung in midair, caught in the light from the eastern windows. Vigil passed them without slowing.
 

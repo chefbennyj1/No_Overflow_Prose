@@ -1,4 +1,4 @@
-Living in the Dead Circuits rarely had its benefits,. As Rin approached her apartment building, a light flickered over the doorway. 
+Living in the Dead Circuits rarely had its benefits. As Rin approached her apartment building, a light flickered over the doorway. 
 
 She pulled open the front door of the lower lobby. The air inside smelled stale. Chipped green paint curled off the walls, and the corners choked with shadows and dirt. She walked down the first-floor hallway, passing a long row of identical, battered apartment doors. Some were heavily locked, others broken and vacant, their hinges snapped. On one, a faded welcome mat. On another, a child's drawing taped at eye level.
 
@@ -34,11 +34,11 @@ Rin didn't wait to grab the gun. She shoved past the staggered agent and stumble
 
 Rin turned in the hallway to face them, posturing with outstretched arms, feeling the walls with her fingertips. She stepped back, tasting the  gunpowder residue from the close-encounter gunshot. The air was drying every terrified inch of her eyes as she fixed her attention on the two agents.
 
-The face of the agent's black mask snapped toward Rin, the red seam of her helmet flaring. She stood up menacingly slow, as her partner stepped beside her. Both agents raised their tactical rifles.
+The face of the agent's black mask snapped toward Rin, the red seam of her helmet flaring. She stood up slowly as her partner stepped beside her. Both agents raised their tactical rifles.
 
 Orange muzzle flashes erupted as they opened fire. The deafening gunfire was reduced to a muffled, rhythmic thumping beneath the high-pitched ringing in Rin's ears. She threw herself backwards, as a hail of bullets chewed through the plaster exactly where she had been standing. Hot brass casings showered the filthy hallway carpet. Her heel caught the scattered pile of the old man's belongings. She hit the floor hard, scrambling on her hands and knees around the elevator buildout toward the emergency stairwell.
 
-"Shit!" Rin gasped. Her back pressed against the wall, she squeezed her wrist between her thumb and forefinger, drumming her numb fingers in the air to draw the feeling back. Instinctively, she patted her jacket pocket. 
+"Shit!" Rin gasped. Her back pressed against the wall, she squeezed her wrist between her thumb and forefinger, drumming her numb fingers in the air to draw the feeling back. She patted her jacket pocket. 
 
 Empty. 
 

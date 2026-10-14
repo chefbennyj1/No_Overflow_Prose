@@ -10,7 +10,7 @@ He stepped closer, pulling the portfolio from the shelf. He turned it over in hi
 
 Someone had been in the office. 
 
-Blackwell set the portfolio back on the shelf, aligning it into it's place. He turned and walked back to the doorway. 
+Blackwell set the portfolio back on the shelf, aligning it into its place. He turned and walked back to the doorway. 
 
 "Elena," Blackwell called out, his voice level. "Has anyone else been on the floor off-schedule this week?"
 
@@ -21,7 +21,7 @@ Blackwell didn't react. He found a crumpled package of cigarettes from his pocke
 He tapped the cigarette again. 
 
 The exact moment the shadow process had appeared in the readout, the synthetics scrubbed the log.  At the time he was focused on the logs, but Blackwell saw everything in the lab. 
-He went to tap the cigarette again and stopped. Iris's demeanor. Her stylus had stopped it's rhythm. There was a subtle stagger in her breath. An awkward shift in her eyes as she looked away. 
+He went to tap the cigarette again and stopped. Iris's demeanor. Her stylus had stopped its rhythm. There was a subtle stagger in her breath. An awkward shift in her eyes as she looked away. 
 
 Iris had seen the synthetics scrub the logs. 
 

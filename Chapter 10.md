@@ -12,7 +12,7 @@ Smoke curled out through the gap before she did. Harper stood in the doorway, a 
 
 She leaned into the frame, brown eyes tracking down the length of Rin's soaked jacket and back up again.
 
-"You've got a lot of nerve showing up here, Erin Adler." Her voice carried a slow, raspy drawl that had no business existing in the chokehold of Oshima.
+"You've got a lot of nerve showing up here, Erin Adler." Her voice carried the slow, raspy drawl of the Sonora Territories. It had no business existing in the chokehold of Oshima.
 
 "Don't call me that. It's Rin." She pushed past her into the apartment without waiting for an invitation. "—I need you to look at something." 
 
@@ -38,7 +38,7 @@ The heat of the ceramic instantly bled into Rin's rain-soaked skin, grounding he
 
 "Fine," Harper said, leaning against the counter. "Leaving's one thing, but I'm not gonna let you bleed out in the rain. Show me what you've gotten yourself into."
 
-Rin took a sip from the mug in her hand, while reaching into her back pocket and pulling out the red-and-silver USB drive with the other. She held it out.
+Rin took a sip from the mug in her hand, while reaching into her back pocket and pulling out the red metal thumb drive with the other. She held it out.
 
 Harper took it, her fingers brushing Rin's palm. She crossed to her primary workstation — an oversized, air-gapped rig built from stolen corporate hardware, liquid-cooled by a radiator loud enough to rattle the shelf above it. She dropped into her chair, pulled the keyboard onto her lap, and slotted the drive into a modified port.
 
@@ -50,9 +50,11 @@ The three monitors above her desk flared to life, washing her face pale.
 
 Rin didn't need to hear it.  "Don't call me that." 
 
-Harper smirked, her fingers found their familiar places on the worn keys of her keyboard. The letters had rubbed off years ago, but she didn't need them. She opened the file structure. "Shit like this doesn't happen in  Sonora." 
+Harper smirked, her fingers found their familiar places on the worn keys of her keyboard. The letters had rubbed off years ago, but she didn't need them. She opened the file structure. "Shit like this doesn't happen in Sonora."
 
-"I got them what they wanted—" Rin started. She looked at her leather jacket lying on the arm of the sofa.
+It was Harper's oldest line. She said it about the rent, about the rain, about Renewal. Rin had never once heard her say she was going back.
+
+"I got them what they wanted—" Rin started. She looked at her leather jacket lying on the arm of the sofa. The ticket was still in the pocket.
 
 "—'course you did. Did ya ask 'em why'd they wanted access to the mop closet?" Harper laughed. She didn't turn around, only remained focused on her screens.
 
@@ -76,7 +78,7 @@ Rin watched her lips moving silently as she read.
 
 "What?" Rin didn't like it when Harper lost focus.
 
-She turned her chair to face Rin, staring in silence before she spoke again. "A singularity." Harper took a slow long sip of her coffee, looking directly into Rin's eyes. "This project Mnemosyne. Erin, they've built a fucking black hole in the middle of the city." she said.
+She turned her chair to face Rin, staring in silence before she spoke again. "A singularity." Harper took a slow long sip of her coffee, looking directly into Rin's eyes. "This project Mnemosyne. Erin, they've built a fucking black hole in the middle of the city," she said.
 
 "They must know I have it." 
 

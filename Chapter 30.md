@@ -1,7 +1,7 @@
 ---
 music: Parity_Theme.mp3
 ---
-Fifty stories beneath the burning streets, the subterranean Mnemosyne Core was destabilizing. For four weeks, Silas Blackwell had been sealed behind its locked blast doors and three feet of lead-lined concrete.  
+Forty stories beneath the burning streets, the subterranean Mnemosyne Core was destabilizing. For four weeks, Silas Blackwell had been sealed behind its locked blast doors and three feet of lead-lined concrete.  
 
 He stood at his terminal, placing a bent cigarette between his lips and sparking his lighter. He inhaled deeply, watching the holographic screen on mute. The face of a public relations synthetic delivered the evening news, the background filled with the muzzle flashes of Corporate Renewal agents holding the line. 
 

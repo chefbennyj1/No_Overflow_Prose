@@ -51,7 +51,7 @@ Vigil stopped the ambulance at the edge of the glass.
 
 They went in on foot. Harper took the lead with the shotgun. Iris came behind her with Elena on her arm, and Vigil walked at the back.
 
-The bottom of the atrium was as big as a train station. Eighty stories of glass went up from it, walkway stacked over walkway, to a square of sky so far up it was the size of a thumbnail. The sun hadn't reached down this far. What light there was came down the shaft thin and gray and lay on the frost.
+The bottom of the atrium was as big as a train station. Forty stories of glass went up from it, walkway stacked over walkway, to a square of sky so far up it was the size of a thumbnail. The sun hadn't reached down this far. What light there was came down the shaft thin and gray and lay on the frost.
 
 Everything was frosted. The marble, the rails, the steel of the checkpoint. The glass crunched under their boots, then the frost did.
 
@@ -130,7 +130,7 @@ The floor counter ran down in red. Rin's stomach told her they were still fallin
 
 Iris didn't say anything. Her lips were moving, counting.
 
-The counter passed a sublevel marker for 40 and kept going. Then it went blank.
+The counter reached sublevel 40 and stopped. Then it went blank.
 
 ***
 

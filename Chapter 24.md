@@ -29,7 +29,7 @@ She talked.
 
 Harlan's jaw set. He didn't move.
 
-It landed for Victor' as a win. Four weeks of the folder and the pacing and the same six questions, and here it came, over cheap coffee. 
+It landed for Victor as a win. Four weeks of the folder and the pacing and the same six questions, and here it came, over cheap coffee. 
 
 "Keep going."
 

@@ -63,7 +63,7 @@ There was a deafening crack of electrical current that shook the floor grates be
 
 Parity slammed its body violently against the beam, sending electrical discharges rippling over the container's surface and grounding to the floor. Finally, silence. It stopped. The figure's toes floated above the floor. 
 
-The electricity of the enclosure shook with Parity's voice. "I see." It slid it's index finger along the electric field of the container. "Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Blackwell?"
+The electricity of the enclosure shook with Parity's voice. "I see." It slid its index finger along the electric field of the container. "Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Blackwell?"
 
 Elena's vision started to tunnel as Blackwell's feet raced across the lab toward her.
 

@@ -33,7 +33,7 @@ The plaza in front of the imposing Takeda-Holden tower was lined with polished, 
 
 Harlan walked to the edge of the plaza and looked over the railing. 
 
-"Victor, what in the hell is going on? Look," Harlan's voice had the tone that always drew Victors attention.
+"Victor, what in the hell is going on? Look," Harlan's voice had the tone that always drew Victor's attention.
 
 Victor leaned on the rail. The thick, choking smog that blanketed Oshima was gone. A towering, unnatural thermal void had cleared the atmosphere in a perfect radius around the tower. For the first time, he could see straight down the sheer glass exterior, all eighty stories to the lower grid.
 
