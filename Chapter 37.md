@@ -7,7 +7,7 @@ In the stretched silence between two vibrations of light, the five-ton concrete 
 
 Above the pit, Vigil floated.
 
-Her body was gone. The Renewal chassis had blown apart.  Its burning carbon-fiber shards hung in an orbiting ring around her. The relativistic walls it had put around her were gone. 
+Her body was gone. The Renewal chassis had blown apart.  Its burning carbon-fiber shards hung in an orbiting ring around her, spinning in conflicting axis. The relativistic walls it had put around her were gone. 
 Her sight returned. She was whole again.
 
 Her form was an absence of light, a silhouette cut straight out of the dark between the stars. Across the curve of her shoulders and down her weightless limbs, fine traces of silver and pale blue shifted in a slow, living currents. Her eyes burned white, twin singularities holding the room in balance.
