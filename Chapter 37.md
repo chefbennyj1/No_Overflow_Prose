@@ -1,7 +1,7 @@
 ---
 music: Vigil_Theme.mp3
 ---
-Time dilated. She was back in control.
+Her reach broke outward through the Mnemosyne lab, stretching time from her point space. The pulse of the overhead lighting diodes stalled between cycles. She was back in control.
 
 In the stretched silence between two vibrations of light, the monolithic concrete ceiling descended at a microscopic crawl. Cracks tore open like dark veins, spitting a slow mist of mortar dust that drifted sideways, dragged horizontally toward the pit by the screaming vacuum of the anti-star. Beneath the falling stone, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
 
@@ -76,10 +76,6 @@ Across the plaza, Corporate Renewal was dying.
 The synthetics army was no longer marching into the gunfire; they were drowning it. Without firing a weapon, the sheer mass of carbon-fiber bodies pressed the armored agents back against the building steps, knocking shields aside with mechanical indifference.
 
 In Vigil's sight, the synthetics possessed no branching futures. They were dead matter animated by current. Yet through the city's network, she could feel every serial number pulsing like a dormant nerve ending.
-
-"Ten thousand units," Echo observed, reaching toward the network. "We can take them."
-
-"Not yet," Admin calculated, severing the link. "Parity is above."
 
 Vigil rose into the sky.
 
