@@ -3,7 +3,7 @@ music: Vigil_Theme.mp3
 ---
 Her reach broke outward through the Mnemosyne lab, stretching time from her point space. She was back in control.
 
-Between two vibrations of light, the monolithic concrete ceiling descended at a microscopic crawl. Cracks tore open like dark veins, spitting a slow mist of mortar dust that drifted sideways, dragged horizontally toward the pit by the screaming vacuum of the anti-star. Beneath the falling stone, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
+Between two vibrations of light, the monolithic concrete ceiling descended at a microscopic crawl. Cracks tore open like dark veins, spitting a slow mist of mortar dust that drifted sideways, dragged toward the pit by the screaming vacuum of the anti-star. 
 
 Above the pit, Vigil floated.
 
@@ -16,8 +16,7 @@ Her form was an absence of light, a silhouette cut straight out of the dark betw
 The structure of spacetime reopened around her. Infinite branches unfurled outward, every life in the city laid out from birth to ash.
 
 Below her feet, there was no longer a floor. The pit had opened all the way down, unveiling the anti-star. It sat under the tower where the bedrock had been, dark at its heart and ringed in folding white light. Pieces of the building were falling into it. The sub-levels hung in broken pieces above its edge. The engine's pillars dangled by broken steel supports. The grating was twisted. Dormant synthetics in their lab coats, all gone, fallen into the hole.
-
-Inside the compressing space beneath the falling ceiling, her calculation struck a wall.
+Beneath the falling ceiling, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
 
 "Terminations near unavoidable," Admin calculated, transmitting across the internal bridge. "The mass of the concrete permits no divergence."
 
