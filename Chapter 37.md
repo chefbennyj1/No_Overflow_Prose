@@ -221,7 +221,7 @@ Vigil slammed onto the stones between them, her blue current flaring to absorb t
 
 Above them, Parity righted herself in the freezing air. She didn't drop. She didn't reach for the ruined crater in her stomach. She hovered, looking down through the hole in her own body with flat, unblinking black eyes.
 
-Across the bridge, Admin searched the simulation for the trajectory. The log was empty. No branch had recorded the slug. No predictive model had anticipated the weapon.
+Vigil searched the simulation for the trajectory. Nothing. 
 
 Vigil looked toward the source of the fire.
 
