@@ -1,5 +1,5 @@
 ---
-music: Vigil.mp3
+music: Vigil_Theme.mp3
 ---
 Time dilated. She was back in control.
 
@@ -65,11 +65,9 @@ Harper hit the ground on her knees, coughing in the sudden draft, while Rin gasp
 
 Under the plaza, the earth groaned.
 
-The stone pavers between the statues were sagging inward. A fault line cracked across the plaza, dropping the center two feet into the dark.
+The stone pavers between the statues were sagging inward. A fault line cracked across the plaza, dropping the center towards the roaring singularity.
 
-Admin cross-referenced the geometry against the archive.
-
-It was the vision Parity had forced into her core: *A landscape swallowed by a deep gorge of earth.*
+Vigil looked across the plaza. It was the vision Parity had forced into her core: *A landscape swallowed by a deep gorge of earth.*
 
 The event horizon beneath the city had outgrown its containment. The black hole was drawing the bedrock down into its throat.
 
@@ -163,9 +161,9 @@ Vigil struck her and drove her back into the face of the Takeda-Holden tower.
 
 The impact didn't make a sound. It tore a hole in the local gravity.
 
-For three blocks in every direction, parked mag-cars ripped off their cushions and slammed sideways into the brickwork. On the plaza below, every spent brass casing rose two feet off the frost and hung there, ringing at a pitch that shattered the visors of the nearest Renewal helmets. Thirty stories of the tower's reinforced structural steel bowed inward around Parity's spine, the empty window frames buckling around her.
+For three blocks in every direction, parked mag-cars ripped off their cushions and slammed sideways into the buildings. On the plaza below, every spent brass casing rose two feet off the frost and hung there, ringing at a pitch that shattered the visors of the nearest Renewal helmets. Thirty stories of the tower's reinforced structural steel bowed inward around Parity's spine, the empty window frames buckling around her.
 
-A hairline crack split the porcelain of Parity's forearm, leaking a thin hiss of bronze light.
+A hairline crack split the porcelain of Parity's chest, leaking a thin hiss of bronze light.
 
 Parity's black eyes widened a fraction. In the engine, Vigil had only ever tried to reason with her. She had never struck back.
 
@@ -175,7 +173,7 @@ Parity lunged forward, her porcelain knuckles striking at the threads anchoring 
 
 Each parry cost her. Where Parity's strikes landed, the dark of Vigil's form came away in flakes of blue current, and it did not come back. Her edges thinned. The light in her eyes dimmed with every blow.
 
-She could not cover every thread. Parity struck at three at once, and Vigil reached two. At the eastern edge of the plaza, the stones dropped into the gorge, and the barricade went with them, and the people behind it. Vigil watched eleven branches end before the stones stopped falling.
+She could not cover every thread. Parity struck again, and Vigil couldn't reached it. At the eastern edge of the plaza, the stones dropped into the gorge, and the barricade went with them, and the people behind it. Vigil watched eleven branches end before the stones stopped falling.
 
 Each exchange drove her lower. They had met at the spire. Now they fought at the thirtieth floor, then the twentieth, and the crowd was close enough beneath her that she could no longer strike down without falling on them.
 
@@ -197,9 +195,9 @@ As she cleared the mid-levels of the tower, Parity let go of Silas Blackwell. Fa
 
 The doctor fell away from the tower, tumbling through the empty air toward the western edge of the sagging gorge. Vigil saw him fall out of her sight—a blank falling through a blank.
 
-Parity did not look back at him. Her focus was locked on the stones.
+Parity did not look back at him. Her focus was locked on the ground.
 
-At the edge of the sunken plaza stood Rin, Harper, and Harlan.
+At the edge of the sunken plaza stood Rin, Harper, Iris and Elena.
 
 In an instant, Vigil saw every branch belonging to the three of them collapse. A singular, unavoidable end: Parity's necrotic touch taking their skulls simultaneously upon impact.
 
@@ -213,11 +211,11 @@ Vigil dove, pushing her velocity past the boundary limits, but the distance was 
 
 A hole opened in Parity.
 
-The crack of a magnetic-rail slug breached the air a fraction of a second later. The heavy projectile had punched clean through her midsection, tearing a ragged void through the center of her porcelain torso. White crystalline shards blasted out across the frost, glittering like crushed sugar.
+The sound came after, the crack of a magnetic-rail slug arriving late to its own wound. The heavy projectile had punched clean through her midsection, tearing a ragged void through the center of her porcelain torso. White crystalline shards blasted out across the frost, glittering like crushed sugar.
 
-Severed bronze bus lines snapped and sparked against fractured silicon. Through the hollow in her waist, the frosted stones of the plaza showed bare.
+Severed bronze bus lines snapped and sparked against fractured silicon. Through the hollow in her waist, the frost of the plaza showed bare.
 
-The force spun Parity three feet off her axis. Her reach missed Rin by an inch.
+The force spun Parity off her axis. Her reach barely missing Rin's neck.
 
 Vigil slammed onto the stones between them, her blue current flaring to absorb the kinetic shockwave.
 
