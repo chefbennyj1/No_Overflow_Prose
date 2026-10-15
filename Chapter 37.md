@@ -1,13 +1,13 @@
 ---
 music: Vigil_Theme.mp3
 ---
-Her reach broke outward through the Mnemosyne lab, stretching time from her point space. She was back in control.
+Her reach broke outward through the Mnemosyne lab, stretching time from her point in space. She was back in control.
 
 Between two vibrations of light, the monolithic concrete ceiling descended at a microscopic crawl. Cracks tore open like dark veins, spitting a slow mist of mortar dust that drifted sideways, dragged toward the pit by the screaming vacuum of the anti-star. 
 
 Above the pit, Vigil floated.
 
-Her body was gone. The Renewal chassis had blown apart. Its burning carbon-fiber shards hung in an orbiting ring around her, spinning in conflicting axis. The relativistic walls it had put around her were gone.
+Her body was gone. The Renewal chassis had blown apart, its burning carbon-fiber shards orbiting her like an atomic shell—rings spinning in conflicting axes. The relativistic walls fell away, and something vast and weightless surged through her.
 
 Her sight returned. She was whole again.
 
