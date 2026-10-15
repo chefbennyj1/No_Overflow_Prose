@@ -17,8 +17,8 @@ The composition of spacetime reopened around her. Infinite branches unfurled out
 
 Below her feet, there was no longer a floor. The pit had opened all the way down, unveiling the anti-star. Vigil had only ever seen it from her universes, a horizon of burning light at the edge of her world. This was the other side, the one Blackwell had opened. It sat under the tower where the bedrock had been, dark at its heart and ringed in folding white light. The back of her sky.
 
-
 Pieces of the building were falling into it. The sub-levels hung in broken pieces above its edge. The engine's pillars dangled by broken steel supports. The grating was twisted. Dormant synthetics in their lab coats, all gone, fallen into the hole.
+
 Beneath the falling ceiling, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
 
 "Terminations near unavoidable," Admin calculated, transmitting across the internal bridge. "The mass of the concrete permits no divergence."
