@@ -3,7 +3,7 @@ music: Vigil_Theme.mp3
 ---
 Her reach broke outward through the Mnemosyne lab, stretching time from her point space. She was back in control.
 
-In the space between two vibrations of light, the monolithic concrete ceiling descended at a microscopic crawl. Cracks tore open like dark veins, spitting a slow mist of mortar dust that drifted sideways, dragged horizontally toward the pit by the screaming vacuum of the anti-star. Beneath the falling stone, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
+Between two vibrations of light, the monolithic concrete ceiling descended at a microscopic crawl. Cracks tore open like dark veins, spitting a slow mist of mortar dust that drifted sideways, dragged horizontally toward the pit by the screaming vacuum of the anti-star. Beneath the falling stone, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
 
 Above the pit, Vigil floated.
 
