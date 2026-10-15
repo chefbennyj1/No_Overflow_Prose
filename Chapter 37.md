@@ -207,11 +207,9 @@ In an instant, Vigil saw every branch belonging to the three of them collapse. A
 
 Vigil dove, pushing her velocity past the boundary limits, but the distance was an absolute mathematical barrier. She was thirty meters behind. Parity's white hand reached out, inches from Rin's face.
 
-
-
 A hole opened in Parity.
 
-The sound came after, the crack of a magnetic-rail slug arriving late to its own wound. The heavy projectile had punched clean through her midsection, tearing a ragged void through the center of her porcelain torso. White crystalline shards blasted out across the frost, glittering like crushed sugar.
+The sound came after, the crack of a magnetic-rail slug arriving late after the heavy projectile had punched clean through her midsection, tearing a ragged void through the center of her porcelain torso. White crystalline shards blasted out across the frost, glittering like crushed sugar.
 
 Severed bronze bus lines snapped and sparked against fractured silicon. Through the hollow in her waist, the frost of the plaza showed bare.
 
