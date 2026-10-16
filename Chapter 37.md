@@ -215,7 +215,7 @@ The force spun Parity off her axis. Her reach barely missing Rin's neck.
 
 Vigil slammed onto the stones between them, her blue current flaring to absorb the kinetic shockwave.
 
-Above them, Parity righted herself in the freezing air. She didn't drop. She didn't reach for the ruined crater in her stomach. She hovered, looking down through the hole in her own body with flat, unblinking black eyes.
+Above them, Parity righted herself in the freezing air. She didn't drop. She didn't reach for the ruined crater in her stomach. She hovered, looking down through the hole in her own body with flat, unblinking eyes.
 
 Vigil searched the simulation for the trajectory. Nothing. 
 
