@@ -143,7 +143,7 @@ Across the bridge, Admin began reallocating bandwidth to the threat profile abov
 
 Her voice had changed. The warmth was gone from it, stripped down to a raw, cold tone.
 
-"Violence is a primal subroutine," Admin reported, the protocol automatic. "Inefficient—"
+"Violence then." Admin stated, the protocol became automatic. 
 
 "Hit her," Echo said.
 
