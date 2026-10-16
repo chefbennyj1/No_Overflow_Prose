@@ -129,7 +129,7 @@ Vigil's increased her downward velocity.
 
 "No!" The sound wrenched out into the open air, tearing through the cold draft like a physical blow. 
 
-The girl hit the ground. The branch deleted.
+The girl hit the ground. 
 
 All the branches faded in front of her. Ninety-one years—two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
 
