@@ -203,7 +203,7 @@ In an instant, Vigil saw every branch belonging to the three of them collapse. A
 
 "We cannot reach them," Echo cried across the link.
 
-Vigil dove, pushing her velocity past the boundary limits, but the distance was an absolute mathematical barrier. She was thirty meters behind. Parity's white hand reached out, inches from Rin's face.
+Vigil dove, pushing her velocity past her limits, but the distance was a barrier she couldn't overcome. Parity's white hand reached out for Rin's face.
 
 A hole opened in Parity.
 
