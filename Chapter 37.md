@@ -37,11 +37,11 @@ Elena lay on the grating, a fragile tangle of bone and carbon fiber. Iris was mi
 
 She kicked off the buckling grating and rose out of the sublevel into the atrium.
 
-The slab dropped behind her. In real time it would have been a thunderclap; in Vigil's wake, it fell with the slow grace of a feather settling onto ash.
+The slab dropped behind her. In real time it would have been a crash of steel and concrete; in Vigil's wake, it fell with the slow grace of a feather settling onto ash.
 
 She climbed forty stories of frozen glass.
 
-Around her, the physical world slowed as if moving through a thick viscous fluid. In the middle of the shaft, brass shell casings from a Renewal volley hung in the air, caught in the light from the eastern windows. Vigil passed them without slowing.
+Around her, the physical world slowed as if moving through a thick viscous fluid. In a shaft of morning sun breaking through the atrium, brass shell casings from a Renewal volley hung in the air, caught in the light. Vigil passed them without slowing.
 
 Far below, the atrium's marble floor had split and tipped. The synth with her face lay on it, sliding toward the dark.
 
