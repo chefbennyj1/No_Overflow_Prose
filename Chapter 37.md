@@ -75,7 +75,7 @@ The event horizon beneath the city had outgrown its containment. The black hole 
 
 Across the plaza, Corporate Renewal was dying.
 
-The synthetics army was no longer marching into the gunfire; they were drowning it. Without firing a weapon, the sheer mass of carbon-fiber bodies pressed the armored agents back against the building steps, knocking shields aside with mechanical indifference.
+The synthetic army was no longer marching into the gunfire; they were drowning it. Without firing a weapon, the sheer mass of carbon-fiber bodies pressed the armored agents back against the building steps, knocking shields aside with mechanical indifference.
 
 In Vigil's sight, the synthetics possessed no branching futures. They were dead matter animated by current. Yet through the city's network, she could feel every serial number pulsing like a dormant nerve ending.
 
@@ -189,15 +189,13 @@ Parity pressed her advantage, broke the clinch and dove.
 
 She dropped toward the plaza like a falling spear, cutting through the freezing air.
 
-As she cleared the mid-levels of the tower, Parity let go of Silas Blackwell. Far above, he dropped.
-
-The doctor fell away from the tower, tumbling through the empty air toward the western edge of the sagging gorge. Vigil saw him fall out of her sight—a blank falling through a blank.
+As she neared the stones, Parity cut her hold on Silas Blackwell. Dragged down in her wake, the doctor tumbled through the last meters of freezing air toward the western edge of the sagging gorge. Vigil saw him fall out of her sight—a blank falling through a blank.
 
 Parity did not look back at him. Her focus was locked on the ground.
 
 At the edge of the sunken plaza stood Rin, Harper, Iris and Elena.
 
-In an instant, Vigil saw every branch belonging to the three of them collapse. A singular, unavoidable end: Parity's necrotic touch taking their skulls simultaneously upon impact.
+In an instant, Vigil saw every branch belonging to the four of them collapse. A singular, unavoidable end: Parity's necrotic touch taking their skulls simultaneously upon impact.
 
 "They will not survive the strike," Admin projected.
 
@@ -211,7 +209,7 @@ The sound came after, the crack of a magnetic-rail slug arriving late after the 
 
 Severed bronze bus lines snapped and sparked against fractured silicon. Through the hollow in her waist, the frost of the plaza showed bare.
 
-The force spun Parity off her axis. Her reach barely missing Rin's neck.
+The force spun Parity off her axis, her reach barely missing Rin's neck.
 
 Vigil slammed onto the ground between them, her blue current flaring to absorb the kinetic shockwave.
 
