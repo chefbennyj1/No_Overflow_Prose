@@ -43,7 +43,7 @@ She climbed forty stories of frozen glass.
 
 Around her, the physical world slowed as if moving through a thick viscous fluid. In a shaft of morning sun breaking through the atrium, brass shell casings from a Renewal volley hung in the air, caught in the light. Vigil passed them without slowing.
 
-Far below, the atrium's marble floor had split and tipped. The synth with her face lay on it, sliding toward the dark.
+Far below, the atrium's marble floor had split and tipped. The whole of the bottom atrium sliding toward the dark.
 
 The horizon pulled at her back.
 
