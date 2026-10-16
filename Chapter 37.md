@@ -113,7 +113,7 @@ Vigil reached down through the rushing air.
 
 The collar of the coat fluttered up against the tips of her fingers. Rough wool, damp with frost, whipped in the air. Vigil's thumb began to fold inward to lock the grip—short of catching the seam.
 
-Parity struck her from above. Her movements where instant. 
+Parity struck her from above. Her movements were instant. 
 
 The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil, pinning her in the empty air with a  shearing velocity. Glass shattered outward from the surrounding towers. The glass caught in the dilated time, spinning like crystal dust in the morning sun.
 
@@ -121,15 +121,15 @@ Below her, the girl fell away. Vigil saw the expression on the girl's face. She 
 
 "Intercept!" Echo's voice was loud and brash. The girl's branch split. For one frame, a second branch opened.
 
-"Impact probability..." Admin reported. The numbers ran down the bridge in cold red figures. "Impact... Probability of preservation is... null."
+"Impact probability..." Admin reported. The numbers ran down the bridge in cold red figures. "Impact... Probability of preservation is..."
 
 "No!" Echo cried out, her voice broke across the link, thin and ragged. "Reach for her!"
 
-"Distance exceeding branch capacity," Admin calculated, clearing the registers. "Nine hundred and twelve months... Discarded. Branch deleted."
+Admin calculated. The branch was deleted.
 
-"No!" The sound wrenched out into the open air, tearing through the cold draft like a physical blow. "Do not delete her," Echo said.
+"No!" The sound wrenched out into the open air, tearing through the cold draft like a physical blow. 
 
-The girl hit the stone.
+The girl hit the ground.
 
 All the branches faded in front of her. Ninety-one years—two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
 
