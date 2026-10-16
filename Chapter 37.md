@@ -113,7 +113,7 @@ Vigil reached down through the rushing air.
 
 The collar of the coat fluttered up against the tips of her fingers. Rough wool, damp with frost, whipped in the air. Vigil's thumb began to fold inward to lock the grip—short of catching the seam.
 
-Parity struck her from above.
+Parity struck her from above. Her movements where instant. 
 
 The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil, pinning her in the empty air with a  shearing velocity. Glass shattered outward from the surrounding towers. The glass caught in the dilated time, spinning like crystal dust in the morning sun.
 
