@@ -91,7 +91,7 @@ Blackwell did not exist in Vigil's simulation. He was an Ambiguity—a blank spo
 
 She was not alone. Three people hung in the air around her, held by nothing, turning slowly in the wind off the spire. Frost had climbed their clothes to the throat. They were from the plaza: a man in ragged clothes of the lower city, a Renewal agent with his helmet gone, and a girl of fifteen in a yellow knitted hat, lopsided on her head.
 
-Vigil read them. Three branches ran out from this second, long and ordinary. The agent would quit within the year. The man would grow old on a fishing boat off the Oshima seawall. The girl would live to be ninety-one, trying desperately not to think about the horrors of this morning.
+Vigil read them. Three branches ran out from this second, long and ordinary. The agent would quit within the year. The man would grow old on a fishing boat off the Oshima seawall. The girl would live to be ninety-one.
 
 Parity turned her black eyes toward Vigil.
 
@@ -115,17 +115,17 @@ The collar of the coat fluttered up against the tips of her fingers. Rough wool,
 
 Parity struck her from above. Her movements were instant. 
 
-The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil, pinning her in the empty air with a  shearing velocity. Glass shattered outward from the surrounding towers. The glass caught in the dilated time, spinning like crystal dust in the morning sun.
+The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil, pinning her in the empty air with a shearing velocity. Glass shattered outward from the surrounding towers. The glass caught in the dilated time, spinning like crystal dust in the morning sun.
 
-Below her, the girl fell away. Vigil saw the expression on the girl's face. She was oblivious, falling through the slowed dilated time toward her end.
+Below her, the girl fell away through the dilated time. Her eyes were still on her hat.
 
 "Intercept!" Echo's voice was loud and brash. The girl's branch split. For one frame, a second branch opened.
 
 "Impact probability..." Admin reported. The numbers ran down the bridge in red figures. "Impact... Probability of preservation is..."
 
-"No!" Echo cried out, her voice broke across the link, thin and ragged. "Reach for her!"
+"No!" Echo cried out. Her voice broke across the link, thin and ragged. "Reach for her!"
 
-Vigil's increased her downward velocity. 
+Vigil increased her downward velocity. 
 
 "No!" The sound wrenched out into the open air, tearing through the cold draft like a physical blow. 
 
@@ -139,11 +139,11 @@ The snow fell softly in the stillness on the ground below.
 
 Across the bridge, Admin began reallocating bandwidth to the threat profile above. "Hostile target descending at—"
 
-"Stop! Calculating!" Echo screamed across the internal bridge. 
+"Stop calculating!" Echo screamed across the internal bridge. 
 
 Her voice had changed. The warmth was gone from it, stripped down to a raw, cold tone.
 
-"Violence then." Admin stated, the protocol became automatic. 
+"Violence, then," Admin stated. The protocol became automatic. 
 
 "Hit her," Echo said.
 
@@ -153,13 +153,13 @@ Vigil did not parry. She inverted the gravity above her and drove upward.
 
 The air between the upper floors compressed into a white cone of superheated vapor. Vigil's dark hand closed into a fist, the silver and blue along her forearm locking into a single blinding line of mass.
 
-Parity saw her coming a millisecond too late. She raised her arm to block.
+Parity saw her coming too late. She raised her arm to block.
 
 Vigil struck her and drove her back into the face of the Takeda-Holden tower.
 
 The impact didn't make a sound. It tore a hole in the local gravity.
 
-For three blocks in every direction, parked mag-cars ripped off their cushions and slammed sideways into the buildings. On the plaza below, every spent brass casing rose two feet off the frost and hung there, ringing at a pitch that shattered the visors of the nearest Renewal helmets. Thirty stories of the tower's reinforced structural steel bowed inward around Parity's spine, the empty window frames buckling around her.
+In every direction, parked mag-cars ripped off their cushions and slammed sideways into the buildings. On the plaza below, every spent brass casing rose off the frost and hung there, ringing at a pitch that shattered the visors of the nearest Renewal helmets. The tower's reinforced structural steel bowed inward around Parity's spine, the empty window frames buckling around her.
 
 A hairline crack split the porcelain of Parity's chest, leaking a thin hiss of bronze light.
 
@@ -171,13 +171,13 @@ Parity lunged forward, her porcelain knuckles striking at the threads anchoring 
 
 Each parry cost her. Where Parity's strikes landed, the dark of Vigil's form came away in flakes of blue current, and it did not come back. Her edges thinned. The light in her eyes dimmed with every blow.
 
-She could not cover every thread. Parity struck again, and Vigil couldn't reached it. At the eastern edge of the plaza, the stones dropped into the gorge, and the barricade went with them, and the people behind it. Vigil watched eleven branches end before the stones stopped falling.
+She could not cover every thread. Parity struck again, and Vigil couldn't reach it. At the eastern edge of the plaza, the stones dropped into the gorge, and the barricade went with them, and the people behind it. Vigil watched eleven branches end before the stones stopped falling.
 
 Each exchange drove her lower. They had met at the spire. Now they fought at the thirtieth floor, then the twentieth, and the crowd was close enough beneath her that she could no longer strike down without falling on them.
 
 Every strike tore through physical reality on the streets below.
 
-Snow stopped falling. Flakes hung motionless three feet above the heads of the rioters, then reversed, drifting slowly toward the clouds. Across the skyline, digital clocks skipped forward twelve hours, then spun backward into error codes. A frost line raced down the eighty stories of the Takeda-Holden tower, over the empty window frames.
+Snow stopped falling. Flakes hung motionless above the heads of the rioters, then reversed, drifting slowly toward the clouds. Across the skyline, digital clocks skipped forward twelve hours, then spun backward into error codes. The market boards along the plaza scrolled prices that matched nothing. A frost line raced down the Takeda-Holden tower, over the empty window frames.
 
 Vigil was losing.
 
