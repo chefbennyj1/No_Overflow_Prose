@@ -121,15 +121,15 @@ Below her, the girl fell away. Vigil saw the expression on the girl's face. She 
 
 "Intercept!" Echo's voice was loud and brash. The girl's branch split. For one frame, a second branch opened.
 
-"Impact probability..." Admin reported. The numbers ran down the bridge in cold red figures. "Impact... Probability of preservation is..."
+"Impact probability..." Admin reported. The numbers ran down the bridge in red figures. "Impact... Probability of preservation is..."
 
 "No!" Echo cried out, her voice broke across the link, thin and ragged. "Reach for her!"
 
-Admin calculated. The branch was deleted.
+Vigil's increased her downward velocity. 
 
 "No!" The sound wrenched out into the open air, tearing through the cold draft like a physical blow. 
 
-The girl hit the ground.
+The girl hit the ground. The branch deleted.
 
 All the branches faded in front of her. Ninety-one years—two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
 
