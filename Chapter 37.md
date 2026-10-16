@@ -115,7 +115,7 @@ The collar of the coat fluttered up against the tips of her fingers. Rough wool,
 
 Parity struck her from above.
 
-The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil, pinning her in the empty air and shearing forty meters of velocity in a microsecond. Glass shattered outward from the surrounding towers. The glass caught in the dilated time, spinning like crystal dust in the morning sun.
+The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil, pinning her in the empty air with a  shearing velocity. Glass shattered outward from the surrounding towers. The glass caught in the dilated time, spinning like crystal dust in the morning sun.
 
 Below her, the girl fell away. Vigil saw the expression on the girl's face. She was oblivious, falling through the slowed dilated time toward her end.
 
