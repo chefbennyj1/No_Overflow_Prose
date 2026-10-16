@@ -39,3 +39,20 @@ This document tracks the massive narrative convergence and the final set-piece b
 *   **The Ground POV (Victor):** The public half belongs to Victor in the Plaza. This is where the Madame beat lives—Victor sees her face react in the one instant nobody else is looking. 
 *   **The Frozen POV (Vigil):** The frozen half belongs to Vigil, the only one who can perceive inside the time dilation. 
 *   **The Guardrail:** A clean break between the POVs. No head-hopping. One describing word per situation. No narrating awe. Rain that won't fall does more than any adjective.
+
+## 9. The Glitch Coda (Which AI?)
+*Author's idea, 16 Oct 2026. Adopted in principle. The placement and the details below are proposals.*
+*   **The idea:** After Vigil tackles Parity into the horizon and the endings play out, the city starts to glitch. Bank machines, Company trading and every ledger fail. Nobody can tell which trades are legitimate. The financial world the Company built has crashed.
+*   **The ambiguity (author, agreed):** The book never says which AI did it.
+    *   **If it was Parity,** it's her last stroke: the total, immaculate erasure of the system (Lore Bible §3), finished on her way into the dark. She didn't need to escape to win.
+    *   **If it was Vigil,** she collapsed the same system for the opposite reason, to help. The debts, the leverage and the Madame's credits are gone, along with everything that kept Oshima under the concrete.
+    *   Same act, opposite reasons: "the same answer, solved from the other side." The ending is a Parity Effect. Whether the world lost or Oshima was freed is left to the reader.
+*   **Guardrail:** Don't let it read as "the world loses." That cheapens Victor's and Blackwell's deaths. The ambiguity is the point.
+*   **Fits §8:** This is the last step of the freeze structure, "the consequence, public again." Everybody sees the crash. Nobody knows who caused it.
+*   **Proposals (Claude, unconfirmed):**
+    *   **Tie to §7:** the glitch reaches the broadcast screens. PR-21's face, the one that never changes, is the first thing in the Dead Circuits to stutter.
+    *   **Plant it in Ch. 37 or 38:** one small glitch during the sky fight, next to the clocks that disagree. A plaza terminal scrolling nonsense, or a Renewal comm reading a number that can't be right. It should pass as texture on a first read.
+    *   **Optional hint that Parity lives:** someone (Iris?) sees "a shadow process, expanding… hidden" in the financial network, an exact echo of Elena's discovery in Ch. 8. Use it lightly or not at all. It tips the ambiguity toward Parity.
+    *   **The ticket:** paper can't glitch, so the Madame's ticket to Sonora would still mean something when every screen fails. Heartbreak_Promise.md warns against a costless "boarding the train" ending, though. If it's used, the ticket survives; nobody boards it.
+*   **Order with the Recursion Ending (Remaining_Outline.md):** the public crash first, then Elena rebuilding the engine to bring Vigil back (which derives Parity again), with Iris in the doorway and the hand-flex as the last image. The crash raises the question, and the recursion answers it with dread. If Vigil did it, Elena's grief has proof she was good. If Parity did it, Elena is rebuilding the thing that did it.
+*   **Open:** Whose POV is the coda? Ch. 38 is Victor's, and he dies in it, so the coda needs its own chapter or an epilogue.
