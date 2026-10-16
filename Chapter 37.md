@@ -103,7 +103,7 @@ Parity's head tilted. She turned her hand over.
 
 The three dropped, their long, ordinary branches splitting into tangles of probability.
 
-Vigil went after them. She caught the agent and the man before the thirtieth floor and set them on a terrace. Their branches closed back into one, long and ordinary.
+Vigil went after them. She caught the agent and the man and set them on a terrace. Their branches closed back into one, long and ordinary.
 
 The girl was below her.
 
