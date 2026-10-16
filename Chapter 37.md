@@ -61,7 +61,7 @@ Time snapped back into gear.
 
 The sound of the collapse reached them all at once. The tower dropped.
 
-It sank three stories into the earth, and the plaza buckled toward it. Down its face, the windows burst outward floor by floor, from the street to the clouds, and the glass came down across the stones in sheets. Cold air roared up out of the lift shafts. Then the tower stopped, leaning a few degrees off true, and held.
+It sank three stories into the earth, and the plaza buckled toward it. Down its face, the windows burst outward floor by floor, from the street to the clouds, and the glass came down across the ground in sheets. Cold air roared up out of the lift shafts. Then the steel caught below, and the tower leaned against the sky.
 
 Harper hit the ground on her knees, coughing in the sudden draft, while Rin gasped for breath in the freezing morning light.
 
