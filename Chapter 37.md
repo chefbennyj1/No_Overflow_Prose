@@ -43,7 +43,7 @@ Far below, the atrium's marble floor had split and tipped. The whole of the atri
 
 The horizon pulled at her back.
 
-In the dilated frame, the four of them weighed nothing. The weight was in the pull. With every meter she climbed, the singularity tugged at the edges of her form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below. Admin registered each one as it went, pieces of Vigil's own neural density stripped away into the gravity well.
+To Vigil the four of them weighed nothing. The weight was in the pull. With every meter she climbed, the singularity tugged at the edges of her form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below. Admin registered each one as it went, pieces of Vigil's own neural density stripped away into the gravity well.
 
 Then the pull doubled.
 
