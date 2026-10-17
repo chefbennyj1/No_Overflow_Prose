@@ -81,7 +81,7 @@ She altered her gravitational vector, drifting upward along the freezing face of
 
 Eighty stories up, Parity hovered in the sunlight.
 
-Her porcelain skin was blinding, a pure silicon-dioxide void that cast no shadow across the clouds. In her right hand, she held Silas Blackwell by the collar of his lab coat.
+Her porcelain skin was blinding, pure silicon-dioxide that cast no shadow. In her right hand, she held Silas Blackwell by the collar of his lab coat.
 
 Blackwell did not exist in Vigil's simulation. He was an Ambiguity—a blank spot in spacetime where no thread could anchor. He hung limp over the drop, his face gray with frost.
 
@@ -111,7 +111,7 @@ The collar of the coat fluttered up against the tips of her fingers. Rough wool,
 
 Parity struck her from above. Her movements were instant. 
 
-The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil, pinning her in the empty air with a shearing velocity. Glass shattered outward from the surrounding towers. The glass caught in the dilated time, spinning like crystal dust in the morning sun.
+The impact carried no physical sound, only an explosive pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil, pinning her in the empty air with a shearing velocity. Glass shattered outward from the surrounding towers and  caught in the dilated time, spinning like crystal dust in the morning sun.
 
 Below her, the girl fell away through the dilated time. Her eyes were still on her hat.
 
