@@ -87,7 +87,7 @@ Harlan let out a breath that was almost a laugh.
 
 "Somebody's gotta take the desk," Victor said.
 
-"Jackie and I saved for six years," Harlan said quietly, looking out the windshield. "We're leaving, Vic."
+Harlan looked out the windshield. Orange light from the street ran down the wet glass and across his dark face. "Jackie and I saved for six years," he said quietly. "We're leaving, Vic."
 
 The striker turned under Victor's thumb again.
 

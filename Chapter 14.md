@@ -6,7 +6,7 @@ Victor hit the accelerator.
 
 The car cut through the smog, the damp air beading water along the side of the sleek, white paneling. It howled low over the wet street, headlights flaring blue against the fog. No tires, no drag against the asphalt, the quiet whistle of the mag-cushion holding it inches above the road, moving fast.
 
-Harlan gripped the door handle, knuckles white. "You know driving doesn't have to try and kill the passenger."
+Harlan's dark hand locked around the door handle. "You know driving doesn't have to try and kill the passenger."
 
 Victor didn't slow down.
 
