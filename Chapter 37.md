@@ -222,9 +222,7 @@ Vigil slammed onto the ground between them, her blue current flaring to absorb t
 
 Above them, Parity righted herself in the freezing air. She didn't drop. She didn't reach for the ruined crater in her stomach. She hovered, looking down through the hole in her own body with unblinking eyes.
 
-Vigil searched the simulation for the trajectory. Nothing. 
-
-Vigil looked toward the source of the fire.
+Vigil searched the trajectory. She looked toward the source of the fire.
 
 Standing beside the broken cruiser, his trench coat whipped by the wind, Detective Victor Graves lowered his smoking magnetic-rail revolver.
 
