@@ -21,13 +21,11 @@ Pieces of the building were falling into it. The sub-levels hung in broken chunk
 
 Beneath the falling ceiling, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
 
-"Terminations near unavoidable," Admin calculated, transmitting across the internal bridge. "The mass of the concrete permits no divergence."
+"Terminations near unavoidable," Admin calculated, transmitting across the internal bridge. 
 
-"No," Echo answered across the link. "Their world lines will not end here."
+"Parity will know we carry them out of here," Echo answered.
 
-"She wants us to carry them," Admin said.
-
-"Then she already knows we will," Echo answered.
+"Yes, she will."
 
 Vigil moved.
 
