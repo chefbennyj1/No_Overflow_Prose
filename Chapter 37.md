@@ -119,7 +119,7 @@ Below her, the girl fell away through the dilated time. Her eyes were still on h
 
 "Impact probability..." Admin reported. The numbers ran down the bridge in red figures. "Impact... Probability of preservation is..."
 
-"No!" Echo cried out. Her voice broke across the link, thin and ragged. "Reach for her!"
+"Reach for her!" Echo cried out. Her voice broke across the link, thin and ragged. 
 
 Vigil increased her downward velocity. 
 
@@ -201,8 +201,6 @@ In an instant, Vigil saw every branch belonging to the four of them collapse. A 
 Vigil dove, pushing her velocity past her limits, a barrier of distance she couldn't overcome.
 
 Parity reached the stones first. She slammed Blackwell down into the frost beside Elena. Something gave way in his chest against the stone, and the doctor curled on his side, gasping in the cold.
-
-"Elena..." he groaned.
 
 Parity did not look down at him. Her other hand reached out for Rin's face.
 
