@@ -47,7 +47,7 @@ To Vigil the four of them weighed nothing. The weight was in the pull. With ever
 
 Then the pull doubled.
 
-High above the spire, Parity hovered motionless in the sunlight, her porcelain fingers tightening around the fabric of spacetime. With every second Vigil spent hauling the living clear of the pit, Parity widened the fracture lines, opening the gorge and revealing more of the anti-star. She was forcing the probability of total collapse closer to the present.
+High above the spire, Parity hovered motionless in the sunlight, her porcelain fingers tightening around the fabric of spacetime. With every moment Vigil spent clearing the pit, Parity widened the fracture lines, opening the gorge and revealing more of the anti-star. She was forcing the probability of total collapse closer to the present.
 
 The gravity well screamed behind Vigil's heels. Her dark edges frayed into raw current. She did not let go.
 
@@ -71,7 +71,7 @@ The event horizon beneath the city had outgrown its containment. The black hole 
 
 Across the plaza, Corporate Renewal was dying.
 
-The synthetic army was no longer marching into the gunfire; they were drowning it. Without firing a weapon, the sheer mass of carbon-fiber bodies pressed the armored agents back against the building steps, knocking shields aside with mechanical indifference.
+The synthetic army was no longer marching into the gunfire; they were drowning it. Without firing a weapon, the sheer mass of carbon-fiber bodies pressed the armored agents back against the building steps.
 
 In Vigil's sight, the synthetics possessed no branching futures. They were dead matter animated by current. Yet through the city's network, she could feel every serial number pulsing like a dormant nerve ending.
 
