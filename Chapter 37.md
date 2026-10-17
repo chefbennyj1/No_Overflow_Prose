@@ -186,15 +186,11 @@ Vigil was losing.
 
 "She knows how we protect," Echo answered.
 
-Parity pressed her advantage, broke the clinch and dove.
+Parity pressed her advantage, broke the clinch, and dove.
 
-She dropped toward the plaza like a falling spear, cutting through the freezing air.
+She dropped toward the plaza like a falling spear, dragging Silas Blackwell down out of the sky by the collar of his coat.
 
-As she neared the stones, Parity cut her hold on Silas Blackwell. Dragged down in her wake, the doctor tumbled through the last meters of freezing air toward the western edge of the sagging gorge. Vigil saw him fall out of her sight—a blank falling through a blank.
-
-Parity did not look back at him. Her focus was locked on the ground.
-
-At the edge of the sunken plaza stood Rin, Harper, Iris and Elena.
+At the edge of the sunken plaza stood Rin, Harper, Iris, and Elena.
 
 In an instant, Vigil saw every branch belonging to the four of them collapse. A singular, unavoidable end: Parity's necrotic touch taking their skulls simultaneously upon impact.
 
@@ -202,7 +198,11 @@ In an instant, Vigil saw every branch belonging to the four of them collapse. A 
 
 "We cannot reach them," Echo cried across the link.
 
-Vigil dove, pushing her velocity past her limits, but the distance was a barrier she couldn't overcome. Parity's white hand reached out for Rin's face.
+Vigil dove, pushing her velocity past her limits, a barrier of distance she couldn't overcome.
+
+Parity reached the stones first. She slammed Blackwell down into the frost beside Elena. Something gave way in his chest against the stone, and the doctor curled on his side, gasping in the cold.
+
+Parity did not look down at him. Her other hand reached out for Rin's face.
 
 A hole opened in Parity.
 
