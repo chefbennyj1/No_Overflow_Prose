@@ -135,7 +135,7 @@ The snow fell softly in the stillness.
 
 Vigil dropped to her knees beside the girl's body. 
 
-Across the bridge, Admin began reallocating bandwidth to the threat profile above. "Hostile target—"
+Across the bridge, Admin began calculating the threat profile above. "Hostile target—"
 
 "Stop calculating!" Echo screamed across the internal bridge. 
 
