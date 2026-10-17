@@ -25,8 +25,6 @@ Beneath the falling ceiling, Harper was locked against Rin, her lips shaping a s
 
 "Parity will know we carry them out of here," Echo answered.
 
-"Yes, she will."
-
 Vigil moved.
 
 She gathered them. Harper was still curved over Rin's back, shielding her. Rin's glassy eyes were fixed on the space above the pit where Vigil had been. Vigil slid her arms beneath them both and locked them against her chest.
@@ -41,7 +39,7 @@ She climbed forty stories of frozen glass.
 
 Around her, the physical world slowed as if moving through a thick viscous fluid. In a shaft of morning sun breaking through the atrium, brass shell casings from a Renewal volley hung in the air, caught in the light. Vigil passed them without slowing.
 
-Far below, the atrium's marble floor had split and tipped. The whole of the atrium's bottom slid toward the dark.
+Far below, the atrium's marble floor had split and tipped. The whole of the atrium's bottom slid toward the cavity that was once the sublevels.
 
 The horizon pulled at her back.
 
