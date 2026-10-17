@@ -204,6 +204,8 @@ At the edge of the sunken plaza stood Rin, Harper, Iris, and Elena.
 
 In an instant, Vigil saw every branch belonging to the four of them collapse. A singular, unavoidable end: Parity's necrotic touch taking their skulls simultaneously upon impact.
 
+A fifth branch ran toward them from the broken cruiser: a cop in a ballistic vest, his tie flying loose, frost on the dark skin of his forehead. His thread bent toward the same end as theirs.
+
 "They will not survive the strike," Admin projected.
 
 "We cannot reach them," Echo cried across the link.
