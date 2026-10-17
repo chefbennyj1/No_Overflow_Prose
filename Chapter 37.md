@@ -143,7 +143,7 @@ Her voice had changed. The warmth was gone from it, stripped down to a raw, cold
 
 "Violence, then," Admin stated.
 
-"Yes," Echo said, her voice drop to a novel stern focus. "Violence, then."
+"Yes," Echo said, her voice  a novel, seething focus. "Violence, then."
 
 Vigil turned her narrow gaze up high to Parity's position in the sky. 
 For the first time since they were compiled, Admin did not offer an alternative. "Calculating vector."
