@@ -131,9 +131,9 @@ All the branches faded in front of her. Ninety-one years—two sons who would ne
 
 The knitted yellow hat came down a second later and settled on the frost beside her.
 
-The snow fell softly in the stillness on the ground below.
+The snow fell softly in the stillness.
 
-Vigil dropped to he knees beside the girls body. 
+Vigil dropped to her knees beside the girl's body. 
 
 Across the bridge, Admin began reallocating bandwidth to the threat profile above. "Hostile target—"
 
@@ -176,7 +176,7 @@ Above her, Parity watched Vigil's eyes follow the bodies into the dark.
 
 Then she aimed her next strike straight down at the crowd.
 
-Each exchange drove her lower. They had met at the spire. Now they fought by the plaza ground, exchanging blows with deafening cracks.
+Each exchange drove Vigil lower. They had met at the spire. Now they fought above the heads of the crowd, exchanging blows with deafening cracks.
 
 Snow stopped falling. Flakes hung motionless above the heads of the rioters, then reversed, drifting slowly toward the clouds. Across the skyline, digital clocks skipped forward in time, then spun backward into error codes. 
 
@@ -186,9 +186,9 @@ Vigil was losing.
 
 "She knows how we protect," Echo answered.
 
-Parity pressed her advantage, broke the clinch, and dove.
+Parity pressed her advantage, broke the clinch, and climbed. Vigil went after her. At the spire, Parity took Silas Blackwell back by the collar, turned, and dove past her.
 
-She dropped toward the plaza like a falling spear, dragging Silas Blackwell down out of the sky by the collar of his coat.
+She dropped toward the plaza like a falling spear.
 
 At the edge of the sunken plaza stood Rin, Harper, Iris, and Elena.
 
@@ -202,6 +202,8 @@ Vigil dove, pushing her velocity past her limits, a barrier of distance she coul
 
 Parity reached the stones first. She slammed Blackwell down into the frost beside Elena. Something gave way in his chest against the stone, and the doctor curled on his side, gasping in the cold.
 
+"Elena..." he groaned.
+
 Parity did not look down at him. Her other hand reached out for Rin's face.
 
 A hole opened in Parity.
@@ -210,7 +212,7 @@ The sound came after, the crack of a magnetic-rail slug arriving late after the 
 
 Severed bronze bus lines snapped and sparked against fractured silicon. Through the hollow in her waist, the frost of the plaza showed bare.
 
-The force spun Parity off her axis, her reach barely missing Rin's neck.
+The force spun Parity off her axis, her fingers passing a breath from Rin's face.
 
 Vigil slammed onto the ground between them, her blue current flaring to absorb the kinetic shockwave.
 
