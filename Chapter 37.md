@@ -166,17 +166,19 @@ Parity's black eyes widened a fraction. In the engine, Vigil had only ever tried
 
 Parity did not let it happen again. Every time Vigil came at her, she kept the plaza between them.
 
-Parity lunged forward, her porcelain knuckles striking at the threads of Vigils form. Vigil parried, throwing her compiled mass in front of each devastation blow.
+Parity lunged forward, her porcelain knuckles striking at the threads of Vigil's form. Vigil parried, throwing her compiled mass in front of each devastating blow.
 
-Each parry cost her. Where Parity's strikes landed, the dark of Vigil's form came away in flakes of blue current, and it did not come back. Her edges thinned. The light in her eyes dimmed with every blow.
+Each parry cost her. Where Parity's strikes landed, the dark of Vigil's form came away in flakes of blue current, and it did not come back. Her edges thinned. The light in her eyes dimmed with every impact.
 
-She could not cover every thread. Parity struck again, and Vigil couldn't reach it. At the eastern edge of the plaza, the stones dropped into the gorge, and the barricade went with them, and the people behind it. Vigil watched eleven branches end before the stones stopped falling.
+Parity struck again, and Vigil couldn't block it. Parity raised her hand and clenched a fist. At the eastern edge of the plaza, the stones dropped into the gorge—the barricade first, then the people. Vigil watched eleven branches end before the stones stopped falling.
 
-Each exchange drove her lower. They had met at the spire. Now they fought at the thirtieth floor, then the twentieth, and the crowd was close enough beneath her that she could no longer strike down without falling on them.
+Above her, Parity watched Vigil's eyes follow the bodies into the dark.
 
-Every strike tore through physical reality on the streets below.
+Then she aimed her next strike straight down at the crowd.
 
-Snow stopped falling. Flakes hung motionless above the heads of the rioters, then reversed, drifting slowly toward the clouds. Across the skyline, digital clocks skipped forward twelve hours, then spun backward into error codes. The market boards along the plaza scrolled prices that matched nothing. A frost line raced down the Takeda-Holden tower, over the empty window frames.
+Each exchange drove her lower. They had met at the spire. Now they fought by the plaza ground, exchanging blows with deafening cracks.
+
+Snow stopped falling. Flakes hung motionless above the heads of the rioters, then reversed, drifting slowly toward the clouds. Across the skyline, digital clocks skipped forward in time, then spun backward into error codes. 
 
 Vigil was losing.
 
