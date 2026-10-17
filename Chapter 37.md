@@ -158,7 +158,7 @@ Vigil struck her hard. The impact was silent at first, driving Parity back into 
 
 Then the shockwave hit.
 
-It cracked across the city. In every direction, parked mag-cars ripped off their cushions and slammed sideways into the buildings. On the plaza below, every spent brass casing rose off the frost and hung there, ringing at a pitch that shattered the visors of the nearest Renewal helmets.
+It cracked across the city. In every direction, parked mag-cars ripped off their cushions and slammed sideways into the buildings. On the plaza below, the blast rang hard along the ground and shattered the visors of the nearest Renewal helmets.
 
 A hairline crack split the porcelain of Parity's chest, leaking a thin hiss of bronze light.
 
