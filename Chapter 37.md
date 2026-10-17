@@ -141,9 +141,9 @@ Across the bridge, Admin began reallocating bandwidth to the threat profile abov
 
 Her voice had changed. The warmth was gone from it, stripped down to a raw, cold tone.
 
-"Violence, then," Admin stated. The protocol became automatic. 
+"Violence, then," Admin stated.
 
-"Yes," Echo said. "Violence, then."
+"Yes," Echo said, her voice drop to a novel stern focus. "Violence, then."
 
 Vigil turned her narrow gaze up high to Parity's position in the sky. 
 For the first time since they were compiled, Admin did not offer an alternative. "Calculating vector."
@@ -164,13 +164,23 @@ A hairline crack split the porcelain of Parity's chest, leaking a thin hiss of b
 
 Parity's black eyes widened a fraction. In the engine, Vigil had only ever tried to reason with her. She had never struck back.
 
+The blow broke Parity's hold on the air. Beside the spire, Silas Blackwell began to fall.
+
+Vigil did not wait for Parity to pull free of the steel. She tore across the gap, caught Blackwell by the front of his coat, and dropped with him toward the plaza. She had no time to slow their descent. At the edge of the gorge, she threw him down into the frost beside Elena. Something gave way in his chest against the stone, and the doctor curled on his side, gasping in the cold.
+
+"Elena..." he groaned.
+
+Above them, the steel of the tower shrieked. Parity pulled herself out of the buckled frame.
+
+Vigil rose to meet her.
+
 Parity did not let it happen again. Every time Vigil came at her, she kept the plaza between them.
 
 Parity lunged forward, her porcelain knuckles striking at the threads of Vigil's form. Vigil parried, throwing her compiled mass in front of each devastating blow.
 
 Each parry cost her. Where Parity's strikes landed, the dark of Vigil's form came away in flakes of blue current, and it did not come back. Her edges thinned. The light in her eyes dimmed with every impact.
 
-Parity struck again, and Vigil couldn't block it. Parity raised her hand and clenched a fist. At the eastern edge of the plaza, the stones dropped into the gorge—the barricade first, then the people. Vigil watched eleven branches end before the stones stopped falling.
+Parity raised her hand and clenched a fist. At the eastern edge of the plaza, the stones dropped into the gorge—the barricade first, then the people. Vigil watched eleven branches end before the stones stopped falling.
 
 Above her, Parity watched Vigil's eyes follow the bodies into the dark.
 
@@ -186,9 +196,9 @@ Vigil was losing.
 
 "She knows how we protect," Echo answered.
 
-Parity pressed her advantage, broke the clinch, and climbed. Vigil went after her. At the spire, Parity took Silas Blackwell back by the collar, turned, and dove past her.
+Parity pressed her advantage, broke the clinch, and dove.
 
-She dropped toward the plaza like a falling spear.
+She dropped toward the plaza like a falling spear, cutting through the freezing air.
 
 At the edge of the sunken plaza stood Rin, Harper, Iris, and Elena.
 
@@ -198,11 +208,7 @@ In an instant, Vigil saw every branch belonging to the four of them collapse. A 
 
 "We cannot reach them," Echo cried across the link.
 
-Vigil dove, pushing her velocity past her limits, a barrier of distance she couldn't overcome.
-
-Parity reached the stones first. She slammed Blackwell down into the frost beside Elena. Something gave way in his chest against the stone, and the doctor curled on his side, gasping in the cold.
-
-Parity did not look down at him. Her other hand reached out for Rin's face.
+Vigil dove, pushing her velocity past her limits, a barrier of distance she couldn't overcome. Parity's white hand reached out for Rin's face.
 
 A hole opened in Parity.
 
