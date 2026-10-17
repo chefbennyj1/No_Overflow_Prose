@@ -133,7 +133,9 @@ The knitted yellow hat came down a second later and settled on the frost beside 
 
 The snow fell softly in the stillness on the ground below.
 
-Across the bridge, Admin began reallocating bandwidth to the threat profile above. "Hostile target descending at—"
+Vigil dropped to he knees beside the girls body. 
+
+Across the bridge, Admin began reallocating bandwidth to the threat profile above. "Hostile target—"
 
 "Stop calculating!" Echo screamed across the internal bridge. 
 
@@ -141,21 +143,22 @@ Her voice had changed. The warmth was gone from it, stripped down to a raw, cold
 
 "Violence, then," Admin stated. The protocol became automatic. 
 
-"Hit her," Echo said.
+"Yes," Echo said. "Violence, then."
 
+Vigil turned her narrow gaze up high to Parity's position in the sky. 
 For the first time since they were compiled, Admin did not offer an alternative. "Calculating vector."
 
-Vigil did not parry. She inverted the gravity above her and drove upward.
+She inverted the gravity above her and drove upward.
 
-The air between the upper floors compressed into a white cone of superheated vapor. Vigil's dark hand closed into a fist, the silver and blue along her forearm locking into a single blinding line of mass.
+The air compressed into a white cone of superheated vapor as she closed the distance. The silver and blue along her forearm locking into a single blinding line, Vigil's dark hand closed into a fist.
 
 Parity saw her coming too late. She raised her arm to block.
 
-Vigil struck her and drove her back into the face of the Takeda-Holden tower.
+Vigil struck her hard. The impact was silent at first, driving Parity back into the face of the Takeda-Holden tower as a ripple of gravitational lensing tore outward from her body. The tower's reinforced steel bowed inward around Parity's spine, the empty window frames buckling around her before the sound even arrived.
 
-The impact didn't make a sound. It tore a hole in the local gravity.
+Then the shockwave hit.
 
-In every direction, parked mag-cars ripped off their cushions and slammed sideways into the buildings. On the plaza below, every spent brass casing rose off the frost and hung there, ringing at a pitch that shattered the visors of the nearest Renewal helmets. The tower's reinforced structural steel bowed inward around Parity's spine, the empty window frames buckling around her.
+It cracked across the city. In every direction, parked mag-cars ripped off their cushions and slammed sideways into the buildings. On the plaza below, every spent brass casing rose off the frost and hung there, ringing at a pitch that shattered the visors of the nearest Renewal helmets.
 
 A hairline crack split the porcelain of Parity's chest, leaking a thin hiss of bronze light.
 
@@ -163,7 +166,7 @@ Parity's black eyes widened a fraction. In the engine, Vigil had only ever tried
 
 Parity did not let it happen again. Every time Vigil came at her, she kept the plaza between them.
 
-Parity lunged forward, her porcelain knuckles striking at the threads anchoring the city below. Vigil parried with her own body, throwing her compiled mass in front of each terminating thread.
+Parity lunged forward, her porcelain knuckles striking at the threads of Vigils form. Vigil parried, throwing her compiled mass in front of each devastation blow.
 
 Each parry cost her. Where Parity's strikes landed, the dark of Vigil's form came away in flakes of blue current, and it did not come back. Her edges thinned. The light in her eyes dimmed with every blow.
 
