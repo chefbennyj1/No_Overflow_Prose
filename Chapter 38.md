@@ -46,7 +46,7 @@ Harlan was already running for the gorge.
 
 Victor's eyes burned in the glare. He held the back of the Madame's head in his sights for another moment.
 
-Then he wrenched the barrel off her, tracked the white blur above Erin Adler, and fired.
+His finger eased the tension off the trigger. He let out a breath that fogged in front of him, then drew a sharp, freezing lungful as he wrenched the barrel off the Madame, tracked the white blur above Erin Adler, and fired.
 
 The revolver kicked hard in his hand. Smoke came off the rails in a thin gray line and bent away on the wind.
 
