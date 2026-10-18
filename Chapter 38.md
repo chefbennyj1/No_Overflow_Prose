@@ -18,7 +18,7 @@ A second later, the shockwave hit the plaza.
 
 The blast ripped the Madame's cruiser off its magnetic cushion and flipped it onto its roof. Harlan was thrown clear across the frost. Three tons of the cruiser's black steel came down on the Minder who was holding him, crushing him into the plaza floor under the crumpled frame. 
 
-Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan, and took a deep breath when he saw Harlan slowly steady himself to his feet, coughing in the snow.
+Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan, and took a deep breath when he saw him slowly steady himself to his feet, coughing in the snow.
 
 Victor looked to the front of the plaza. The Madame was still on her feet. 
 
@@ -36,11 +36,11 @@ Overhead, the two entities tore at each other above the crowd. The east edge of 
 
 He kept the sight on her.
 
-Above the plaza, the white thing broke away from the dark one and dove.
+Above the plaza, the white figure broke away from the dark one and dove.
 
 It dropped like a spear, cutting straight down toward the edge of the gorge. At the bottom of its path, Erin Adler was on her knees on the frost.
 
-The dark one was behind it, too far back to reach her.
+The dark entity was behind it, too far back to reach her.
 
 Harlan was already running for the gorge.
 
