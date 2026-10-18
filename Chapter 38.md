@@ -151,7 +151,7 @@ Her fingers closed around the Madame's throat.
 
 The sound was small. A twig under a boot.
 
-The Madame's head went over to one side, farther than a head could go. The long filter dropped out of her fingers. The porcelain hand opened, and the Madame folded down into the snow and lay still. Her glasses had come off. They lay on the frost beside her face, one lens cracked, and the snow began to settle on them.
+The Madame's head went over to one side, farther than a head could go. The long filter dropped out of her fingers. The porcelain hand opened, and the Madame folded down into the snow and lay still. 
 
 Victor couldn't move.
 
