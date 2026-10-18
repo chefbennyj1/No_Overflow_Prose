@@ -1,7 +1,7 @@
 ---
 music: creeping tension.mp3
 ---
-A sound tore across the plaza from above, two voices at once, like iron wrenching apart.
+Victor heard a sound tear across the plaza from above, two voices at once, like iron wrenching apart.
 
 A girl in a ragged coat and a yellow knitted hat fell straight out of the sky. Thirty yards past the cruiser, she hit the plaza floor.
 
@@ -32,7 +32,7 @@ The rails woke against his palm, a charge crawling up into his wrist. He settled
 
 His finger took up the slack on the trigger.
 
-Overhead, the two of them tore at each other above the crowd. The east edge of the plaza broke away into the gorge with people still standing on it. The snow stopped coming down. It started going up.
+Overhead, the two entities tore at each other above the crowd. The east edge of the plaza broke away into the gorge with people still standing on it. The snow stopped coming down. It started going up.
 
 He kept the sight on her.
 
@@ -44,15 +44,15 @@ The dark one was behind it, too far back to reach her.
 
 Harlan was already running for the gorge.
 
-Victor's eyes burned in the glare. Through the water in them, he held the back of the Madame's head in his sights for one more fraction of a second.
+Victor's eyes burned in the glare. He held the back of the Madame's head in his sights for one more fraction of a second.
 
 Then he wrenched the barrel off her, tracked the white blur above Erin Adler's face, and fired.
 
 The revolver kicked hard in his hand. Smoke came off the rails in a thin gray line and bent away on the wind.
 
-Across the plaza, the white thing hung in the air with a hole through its gut.
+Across the plaza, the white entity hung in the air with a hole through its gut.
 
-Victor could see the frost through it. The stones beyond, a spent casing, the dark edge of the gorge. Nothing ran out of the wound. The edges of it were white all the way in.
+Victor could see the frost through it. The plaza beyond, the dark edge of the gorge. Nothing ran out of the wound. The edges of it were white.
 
 It turned its head and looked at him.
 
@@ -71,19 +71,17 @@ Through the hole in her gut, he could see Erin Adler on her knees on the frost.
 
 The black eyes locked on his face.
 
-"I see every life in this city whole," she said.
+"I see every life," she spoke. 
 
-One voice, flat and calm. Nothing in the porcelain face moved. The sound resonated up through the stones under his boots, the crumpled door of the cruiser, and the steel of the revolver in his hand.
+One voice, flat and calm. Nothing in the porcelain face moved. The sound resonated up through the steel in the collapsing building, under his boots, and the steel of the revolver in his hand.
 
-"Every one of them, from first breath to last. The probability of a second blind spot was zero." Her head tilted a fraction. "Yet here you stand. You, I see only here."
+"Every one of them, from first breath to last. The probability of a second Ambiguity is zero." Her head tilted a fraction. "Yet here you stand. You, I see only here."
 
-Victor's eyes ran. He let them. *A second blind spot?*
+Victor's eyes ran. *An Ambiguity?* Victor had heard that before.
 
 "Tell me..." The voice vibrated against his palm through the grip of the gun. "Are you a good man?"
 
-Victor had heard it before.
-
-Wet tile. An alarm going off in the dark. A machine with his gun in its hand, asking him that in two voices.
+The morning with Erin Adler. Wet tile. An alarm going off in the dark. A machine with his gun in its hand, asking him that in two voices.
 
 Same words. Same pause in the middle. One voice now instead of two.
 
@@ -103,7 +101,7 @@ The hand stopped.
 
 It hung there, a breath from his skin. Her black eyes were still on his face, but they had stopped looking at him.
 
-"Don't waste your hands on the help."
+"So, this is Takeda-Holden's big secret, Is it?"
 
 The voice came from right behind her, low and almost reverent.
 
