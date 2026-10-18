@@ -105,9 +105,9 @@ It hung there, a breath from his skin. The black eyes were still on his face, bu
 
 "Not that one."
 
-The voice came from behind it, low and gritty. Victor knew it.
+The voice came from behind it, low and gritty. Victor recognized it.
 
-The white thing lowered its hand. It turned slowly, the whole body turning with the head, until its back was to him.
+The entity lowered its hand. It turned slowly, the whole body turning with the head, until its back was to him.
 
 The Madame was walking across the plaza.
 
