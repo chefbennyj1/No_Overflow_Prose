@@ -1,9 +1,9 @@
 ---
 music: creeping tension.mp3
 ---
-Victor heard a sound tear across the plaza from above, two layered voices, like hardened steel wrenching apart.
+Victor heard a sound rip across the plaza from above, two layered voices, like hardened steel wrenching apart.
 
-A girl in a ragged coat and a yellow knitted hat fell straight out of the sky. Thirty yards past the cruiser, she hit the plaza floor.
+A girl in a ragged coat and a yellow knitted hat fell out of the sky. Thirty yards past the cruiser, she hit the plaza floor.
 
 "No!" Harlan's voice was choked. "What is that thing?" 
 Across from Victor, the Minder still had a gun pressed into Harlan's ribs, his eyes turned up toward the spire.
