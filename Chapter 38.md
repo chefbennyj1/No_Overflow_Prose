@@ -91,17 +91,9 @@ Whatever they were, they were the same thing.
 
 "No," Victor said.
 
-The black eyes stayed on him. Nothing in the face moved.
-
-"Then you will run."
-
-His thumb found the striker of the lighter in his pocket. He rolled it once.
+The black eyes stayed on him. Nothing in the face moved. His thumb found the striker of the lighter in his pocket. He rolled it once.
 
 He didn't run.
-
-It waited. Victor had sat across a table from a lot of people who were waiting for him to do what they had already decided he would do. He knew the look they got when he didn't. This one didn't have a face for it. It went on waiting anyway.
-
-Then it stopped waiting.
 
 Its hand came up toward his throat. The cold came off the fingers before they reached him. Frost climbed over his collar and stiffened it against his neck.
 
