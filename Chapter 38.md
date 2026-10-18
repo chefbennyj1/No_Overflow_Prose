@@ -40,21 +40,19 @@ It dropped like a spear, cutting straight down toward the edge of the gorge, and
 
 The dark entity was behind it, too far back to reach her.
 
-Harlan was already running for the gorge.
-
 Victor's eyes burned in the glare. He held the back of the Madame's head in his sights for another moment.
 
 His finger eased the tension off the trigger. He let out a breath that fogged in front of him, then drew a sharp, freezing lungful as he wrenched the barrel off the Madame, tracked the white blur above Erin Adler, and fired.
 
 The revolver kicked hard in his hand. Smoke came off the rails in a thin gray line and bent away on the wind.
 
-Above the gorge, the white entity hung in the air with a hole through its gut.
+Above the gorge, the white entity hung in the air with a hole through its gut. He had put a hole in it. 
 
 Victor could see the frost through it. The plaza beyond, the dark edge of the gorge. Nothing ran out of the wound. The edges of it were white.
 
 It turned its head and looked at him.
 
-His eyes watered at once. The white of it burned, and the plaza swam. He blinked hard and made himself look. He had put a hole in it. 
+His eyes watered at once. The white of the entity burned into his eyes. He blinked hard and made himself look. 
 
 It glided toward him a foot above the ground, its black eyes locked squarely on Victor's albinotic ones.
 
@@ -62,10 +60,15 @@ It didn't look at the people scrambling in its path. One by one, it killed them 
 
 A Renewal guard raised his rifle; the entity flicked two fingers to the side, and the man's helmet and skull caved inward with a wet crunch before he hit the stone. A rioter stumbled in front of it, and a wave of its hand flash-froze the man mid-scream—when its shoulder brushed past him, his chest shattered across the plaza like dropped porcelain. Another man was lifted off his feet and twisted in the air until his spine snapped, then dropped aside like trash.
 
+"Vic!" Harlan called out from behind the wrecked cruiser. "What are you doing?"
 
-Victor didn't move.Where it passed, the snow stopped falling and hung in the air behind it.
+Victor kept his eyes locked on the white figure. "Harlan, stay back!"
 
-The sun was at his back. His shadow ran long across the frost in front of him, and the white thing stopped at the end of it, close enough to touch. Its own shadow ran out behind it over the snow, longer than his and blacker. The sun came through the hole in its gut and lay in the middle of that shadow, a white spot on the frost.
+Where it passed, the snow stopped falling and hung in the air behind it.
+
+Victor didn't move.
+
+The sun was at his back. His shadow ran long across the frost in front of him, and the white figure stopped at the end of it, close enough to touch. Its own shadow ran along the snow behind it. The sun came through the hole in its gut and lay in the middle of that shadow, a white spot on the frost.
 
 Up close, it had a woman's face. Her skin was porcelain, with lines of bronze circuitry that seared across her body. The wind pulled at Victor's coat, but it didn't move a strand of the straight black hair hanging down her back. Her eyes were black all the way across.
 
@@ -165,35 +168,33 @@ Behind the body, her army stood in its rows. Nobody owned them now.
 
 She didn't look down at the snow. She turned back to Victor.
 
-Behind her, every synthetic on the plaza lit at once.
+A gun barked three times from beside the wrecked cruiser.
 
-The serials came up blue under their eyes, hundreds of them, from the Renewal steps to the lip of the gorge. Then their eyes. The light came off them in one tearing flare, the same light that had taken the interview room, and Victor turned his face from it out of old habit.
+"Get away from him!" Harlan shouted, his service pistol kicking in both hands.
 
-That was how he saw the dark one.
+The entity didn't even turn her head. She knew Harlan's whole life—she had already seen every bullet before his finger found the trigger. Without taking her black eyes off Victor, she raised her left hand to the side and closed her porcelain fist in midair.
 
-It stood where it had landed, in front of Erin Adler, a shape cut out of the morning. Silver ran across it in fine lines. It wasn't looking at the white one. It was looking at the army.
+Three cracks snapped against her palm. She opened her fingers, and three flattened brass-and-lead slugs dropped onto the frost, steaming in the snow.
 
-The army turned.
+Slowly, her head turned toward Harlan.
 
-Along the tower steps, every one of them put its back to the Renewal guns and faced the middle of the plaza. Then they walked.
+Harlan's slide locked back on an empty chamber, his tie blowing loose across his vest. He didn't step back.
 
-The army went over the place where the Madame lay. He heard it. He didn't look.
+She took a step toward him.
 
-They came past him on both sides, close enough to drag at his coat. Plastic sheeting slid across his boots. None of them touched him. The ranks split around the place where he stood and closed again in front of him, and then they were on her.
-
-They hit her from every side at once.
-
-She didn't look at them. Bodies broke against her and came apart in the air, carbon fiber and blue coolant raining over the frost, and she kept her black eyes on Victor. She came forward through them.
-
-Her hand came up again, open, reaching for his face. The cold came off it before she touched him. Frost climbed the sleeve of his coat.
+*No.* Harlan had a wife packing boxes. He had a ticket out of Oshima.
 
 Victor raised the revolver. The rails woke against his palm.
 
-He fired into her face.
+"Hey!" Victor barked.
 
-The crack went flat across the stones. Half her face came away. Underneath, it was white too, sheared crystal and torn bronze wire, and one black eye sitting in a socket of shattered glass. She was still looking at him.
+He fired straight into her face.
 
-Her hand kept coming.
+The crack went flat across the stones. She hadn't seen it coming. Half her porcelain face came away in a spray of white crystal and torn bronze wire, spinning her head back toward him. One black eye sat in a socket of shattered glass, locking back onto Victor's face.
+
+She forgot Harlan. She came straight at Victor.
+
+Her hand came up, open, the cold rolling off her fingers before she touched him.
 
 She laid her palm flat on his chest.
 
