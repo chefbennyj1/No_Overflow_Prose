@@ -5,7 +5,9 @@ A sound tore across the plaza from above, two voices at once, like iron wrenchin
 
 A girl in a ragged coat and a yellow knitted hat fell straight out of the sky. Thirty yards past the cruiser, she hit the plaza floor.
 
-Beside the open door, Victor's hand tightened on the revolver at his thigh. Across from him, the Minder still had a gun pressed into Harlan's ribs, his eyes turned up toward the spire.
+"No!" Harlan's voice was choked. "What is that thing?".  Across from Victor, the Minder still had a gun pressed into Harlan's ribs, his eyes turned up toward the spire.
+
+Beside the open door, Victor's hand tightened on the revolver at his thigh. 
 
 Something dark dropped out of the glare and landed on its knees beside the dead girl. Then it shot straight back up toward the spire.
 
