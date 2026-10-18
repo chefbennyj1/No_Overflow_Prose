@@ -16,7 +16,7 @@ High up on the face of the tower, the steel caved inward around the white entity
 
 Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan, and took a deep breath when he saw him slowly steady himself to his feet, coughing in the snow.
 
-Victor looked to the front of the plaza. The Madame was still on her feet. 
+At the front of the plaza, the Madame was still on her feet. 
 
 In the cruiser, she had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
 
@@ -24,9 +24,9 @@ Nobody stood between Victor and her back. Nobody had a gun on Harlan anymore.
 
 Victor got to his feet and raised the revolver.
 
-The rails woke against his palm, a charge crawling up into his wrist. He settled the front sight square on the back of the Madame's head, right above the collar of her white silk. Everything his father had been—every visit to that green door, an old man hollowed out as a Minder and left to rot in front of a cracked window—sat at the end of the barrel.
+The rails woke against his palm, a charge crawling up into his wrist. He settled the front sight square on the back of the Madame's head, right above the collar of her white silk. Everything his father had been—every visit, an old man hollowed out as a Minder and left to rot in front of a cracked window—sat at the end of the barrel.
 
-His finger took up the slack on the trigger.
+His finger pressed against the slack on the trigger.
 
 Overhead, the two entities tore at each other above the crowd. The east edge of the plaza broke away into the gorge with people still standing on it. The snow stopped coming down. It started going up.
 
