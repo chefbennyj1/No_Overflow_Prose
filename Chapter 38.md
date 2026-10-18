@@ -1,19 +1,19 @@
 ---
 music: creeping tension.mp3
 ---
-Thirty yards past the cruiser, the kid hit the plaza floor.
+A sound tore across the plaza from above, two voices at once, like iron wrenching apart.
 
-A girl in a ragged coat and a yellow knitted hat fell straight out of the sky onto the frost. 
+A girl in a ragged coat and a yellow knitted hat fell straight out of the sky. Thirty yards past the cruiser, she hit the plaza floor.
 
 Beside the open door, Victor's hand tightened on the revolver at his thigh. Across from him, the Minder still had a gun pressed into Harlan's ribs, his eyes turned up toward the spire.
 
-Something dark dropped out of the glare and landed on its knees beside the dead girl. A sound tore out of it—two voices at once, like iron wrenching apart—and then it shot straight back up into the sky.
+Something dark dropped out of the glare and landed on its knees beside the dead girl. Then it shot straight back up toward the spire.
 
 High up on the face of the tower, the steel caved inward around the white thing in dead silence.
 
 A second later, the shockwave hit the plaza.
 
-The blast ripped the Madame's cruiser off its magnetic cushion and flipped it onto its roof. Harlan was thrown clear across the frost. Three tons of the cruisers shiny black steel came down on the who was  Minder holding him, crushing him into the plaza floor under the crumpled frame. 
+The blast ripped the Madame's cruiser off its magnetic cushion and flipped it onto its roof. Harlan was thrown clear across the frost. Three tons of the cruiser's shiny black steel came down on the Minder who was holding him, crushing him into the plaza floor under the crumpled frame. 
 
 Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan, and took a deep breath when he saw Harlan slowly steady himself to his feet, coughing in the snow.
 
@@ -25,21 +25,27 @@ Victor looked from the white lab coat to the front of the plaza.
 
 The Madame was still on her feet. Her head came down from the sky, her wire-rimmed glasses fixing on the doctor at the edge of the drop.
 
-In the cruiser, she had told him she came for the what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
+In the cruiser, she had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
 
 Nobody stood between Victor and her back. Nobody had a gun on Harlan anymore.
 
-Victor raised the revolver.
+Victor got to his feet and raised the revolver.
 
 The rails woke against his palm, a charge crawling up into his wrist. He settled the front sight square on the back of the Madame's head, right above the collar of her white silk. Everything his father had been—every visit to that green door, an old man hollowed out as a Minder and left to rot in front of a cracked window—sat at the end of the barrel.
 
 His finger took up the slack on the trigger.
+
+Overhead, the two of them tore at each other above the crowd. The east edge of the plaza broke away into the gorge with people still standing on it. The snow stopped coming down. It started going up.
+
+He kept the sight on her.
 
 Above the plaza, the white thing broke away from the dark one and dove.
 
 It dropped like a spear, cutting straight down toward the edge of the gorge. At the bottom of its path, Erin Adler was on her knees on the frost.
 
 The dark one was behind it, too far back to reach her.
+
+Harlan was already running for the gorge.
 
 Victor's eyes burned in the glare. Through the water in them, he held the back of the Madame's head in his sights for one more fraction of a second.
 
@@ -75,7 +81,7 @@ One voice, flat and calm. Nothing in the porcelain face moved. The sound resonat
 
 "Every one of them, from first breath to last. The probability of a second blind spot was zero." Its head tilted a fraction. "Yet here you stand. You, I see only here."
 
-Victor's eyes ran. He let them. *A second blind spot?* It's words were making no sense to him. 
+Victor's eyes ran. He let them. *A second blind spot?*
 
 "Tell me..." The voice vibrated against his palm through the grip of the gun. "Are you a good man?"
 
