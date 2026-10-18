@@ -1,7 +1,7 @@
 ---
 music: creeping tension.mp3
 ---
-Victor heard a sound tear across the plaza from above, two voices at once, like iron wrenching apart.
+Victor heard a sound tear across the plaza from above, two layered voices, like hardened steel wrenching apart.
 
 A girl in a ragged coat and a yellow knitted hat fell straight out of the sky. Thirty yards past the cruiser, she hit the plaza floor.
 
@@ -10,11 +10,9 @@ Across from Victor, the Minder still had a gun pressed into Harlan's ribs, his e
 
 Beside the open door, Victor's hand tightened on the revolver at his thigh. 
 
-Something dark dropped out of the glare and landed on its knees beside the dead girl. Then it shot straight back up toward the spire.
+Something dark dropped out of the sky and landed on its knees beside the dead girl. Then it shot straight back up toward the spire.
 
-High up on the face of the tower, the steel caved inward around the white entity.
-
-A second later, the shockwave hit the plaza.
+High up on the face of the tower, the steel caved inward around the white entity. The shockwave slammed into the plaza, ripping the Madame's cruiser off its magnetic cushion and flipping it onto its roof.
 
 The blast ripped the Madame's cruiser off its magnetic cushion and flipped it onto its roof. Harlan was thrown clear across the frost. Three tons of the cruiser's black steel came down on the Minder who was holding him, crushing him into the plaza floor under the crumpled frame. 
 
