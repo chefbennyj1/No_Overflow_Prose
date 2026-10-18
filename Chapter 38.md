@@ -42,7 +42,7 @@ The dark entity was behind it, too far back to reach her.
 
 Victor's eyes burned in the glare. He held the back of the Madame's head in his sights for another moment.
 
-His finger eased the tension off the trigger. He let out a breath that fogged in front of him, then drew a sharp, freezing lungful as he wrenched the barrel off the Madame, tracked the white blur above Erin Adler, and fired.
+His finger eased the tension off the trigger. He let out a breath that fogged in front of him, then drew a sharp, freezing lungful as he wrenched the barrel off the Madame, tracked the white figure above Erin Adler, and fired.
 
 The revolver kicked hard in his hand. Smoke came off the rails in a thin gray line and bent away on the wind.
 
@@ -68,7 +68,7 @@ Where it passed, the snow stopped falling and hung in the air behind it.
 
 Victor didn't move.
 
-The sun was at his back. His shadow ran long across the frost in front of him, and the white figure stopped at the end of it, close enough to touch. Its own shadow ran along the snow behind it. The sun came through the hole in its gut and lay in the middle of that shadow, a white spot on the frost.
+The sun was at his back. His shadow ran long across the frost in front of him, and the white figure stopped at the end of it, close enough to touch. Its own shadow ran along the snow behind it. The sun came through the hole in its gut and lay in the middle of its shadow, a white spot on the frost.
 
 Up close, it had a woman's face. Her skin was porcelain, with lines of bronze circuitry that seared across her body. The wind pulled at Victor's coat, but it didn't move a strand of the straight black hair hanging down her back. Her eyes were black all the way across.
 
@@ -94,7 +94,7 @@ Whatever they were, they were the same thing.
 
 "No," Victor said.
 
-Her black eyes stayed on him. Nothing in her face moved. His thumb found the striker of the lighter in his pocket. He rolled it once.
+Her black eyes stayed on him. Nothing in her face moved. He steadied the weight of his revolver, securing his grip.
 
 He didn't run.
 
