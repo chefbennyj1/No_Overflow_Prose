@@ -28,19 +28,23 @@ The rails woke against his palm, a charge crawling up into his wrist. He settled
 
 His finger pressed against the slack on the trigger.
 
-Overhead, the two entities tore at each other above the crowd. The east edge of the plaza broke away into the gorge with people still standing on it. The snow stopped coming down. It started going up.
+Overhead, the two entities tore at each other above the crowd. The east edge of the plaza broke away into the gorge with people still standing on it. The snow stopped falling. Ice crystals suspended in the air, caught in the morning sun sparkling blue, violet, and green.
 
-He kept the sight on her.
+Victor paused. It was beautiful.
+
+He focused the sight back on the Madame. He couldn't have found a more perfect moment to collect the Madame's debt—to make her pay. 
+
+The flakes of snow began to rise, drifting backward toward the sun.
 
 Above the plaza, the white figure broke away from the dark one and dove.
 
-It dropped like a spear, cutting straight down toward the edge of the gorge. At the bottom of its path, Erin Adler was on her knees on the frost.
+It dropped like a spear, cutting straight down toward the edge of the gorge, and slammed into the plaza floor directly in front of Erin Adler. A torrent of fallen snow plumed beneath its feet, then slowed—locking mid-air in the disruption around it as Erin knelt on the frost.
 
 The dark entity was behind it, too far back to reach her.
 
 Harlan was already running for the gorge.
 
-Victor's eyes burned in the glare. He held the back of the Madame's head in his sights for one more fraction of a second.
+Victor's eyes burned in the glare. He held the back of the Madame's head in his sights for another moment.
 
 Then he wrenched the barrel off her, tracked the white blur above Erin Adler's face, and fired.
 
