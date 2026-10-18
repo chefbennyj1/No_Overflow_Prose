@@ -101,51 +101,53 @@ Victor didn't look away.
 
 The hand stopped.
 
-It hung there, a breath from his skin. The black eyes were still on his face, but they had stopped looking at him. They had gone somewhere past him, the way a man's eyes go when he hears his name called from another room.
+It hung there, a breath from his skin. The black eyes were still on his face, but they had stopped looking at him.
 
-"Not that one."
+"Don't waste your hands on the help."
 
-The voice came from behind it, low and gritty. Victor recognized it.
+The voice came from right behind it, low and almost reverent.
 
-The entity lowered its hand. It turned slowly, the whole body turning with the head, until its back was to him.
+The entity lowered its hand. It turned slowly, the whole body turning with the head, until its back was to Victor.
 
-The Madame was walking across the plaza.
+The Madame was already standing there, three paces off in the frost, the long filter lowered from her mouth. Snow had settled on the shoulders of her white silk. Behind her, her army had stopped where it stood against the Renewal line on the tower steps. Hundreds of serials glowed at the same height. Not one of them moved.
 
-She came alone, stepping around the bodies on the frost, the long filter in her fingers. Snow had settled on the shoulders of her white silk. Behind her, the army had stopped where it stood, pressed up against the Renewal line on the tower steps. Hundreds of serials glowed at the same height. Not one of them moved.
+Victor stood with the revolver at his side. He had felt the cold of its fingers on his throat. He had been dead. Now it had turned its back on him, and the Madame hadn't even looked at him.
 
-Victor stood with the revolver at his side. He had felt the cold of its fingers on his throat. He had been dead. Now it had turned its back on him, and he was still breathing.
+She looked up into the white face through her wire-rimmed glasses, her head tilted in a slight bow, her eyes bright and hungry behind the lenses.
 
-She stopped a few steps short of it and looked it up and down over the top of her wire-rimmed glasses.
-
-"That one belongs to me," she said. "Arthur Graves's boy. I'm keeping him."
-
-She drew on the cigarette. Her hand was steady.
-
-"I know what you are. They grew you in a box under that tower and told you to sit still." She let the smoke out. "The Company dropped you. I intend to pick you up."
+"Takeda-Holden kept *you* in a box under that tower?" she said softly, shaking her head as if it were a crime. "Men like Blackwell never know what they're holding until it breaks their fingers."
 
 The white thing said nothing.
 
-"That army is mine." She tipped the filter toward the ranks behind her. "The police in this city are mine. Half of Oshima pays me rent." A smile pulled at the deep lines around her mouth. "You take the other half. There's nothing down here the two of us couldn't own."
+The Madame's voice dropped into a warm, velvet purr—the one Victor had heard her use when she was about to buy a man's soul and make him thank her for it.
 
-It went to her.
+"You don't belong in their basement," she said. "And you shouldn't have to dirty yourself with the insects down here. That army is mine." She gestured with an open palm toward the ranks behind her. "The police in this city are mine. Every street, every port, every terminal in Oshima answers to me—and I can lay all of it at your feet." A sycophantic smile pulled at the deep lines around her mouth. "Let me clear the ground for you. Tell me what you want, and it's yours."
 
-It drifted slowly over the frost, and the snow stopped falling where it passed. The Madame's chin came up. Her eyes went once to the hole in its gut and came back to its face. The filter shook in her fingers, and she stilled it.
+It drifted closer to her over the frost, and the snow stopped falling between them. Her eyes went once to the hole in its gut and came back to its face. The filter shook in her fingers, and she stilled it.
 
-It stopped close to her. Its long shadow fell over her and covered her to the feet.
+Its long shadow fell over her and covered her to the feet.
 
-"There," the Madame said softly. "You see? We understand each other."
+"There," the Madame whispered, breathless. "You see? I can be very useful to you."
 
-She reached up and laid her hand on its cheek.
+She reached up, as if touching an altar, and laid her hand on its cheek.
 
 Frost came up white over her diamond rings. It climbed her knuckles to the wrist. She left her hand where it was.
 
-The white thing tilted its head into her palm.
+The white thing tilted its head into her palm, leaning into the touch.
 
-"I see you whole," it said. "Every way you end."
+"Useful to me," it said.
 
-The Madame's smile held.
+The sound came up through the stones softer this time, almost mimicking the warm cadence of the Madame's own voice.
 
-"In all of them, you come to me." Its hand rose to her throat, almost gently. "Everyone comes to me, Madame. Eventually."
+The Madame's breath caught. Her smile widened, triumphant, the hunger in her eyes sharpening behind the wire-rimmed lenses. She thought she had it. Victor could see it in the set of her shoulders—she was already measuring the leash.
+
+"Tell me what you want," it said through the frost, "and it's yours."
+
+"Yes," the Madame whispered.
+
+Its hand rose to her throat, delicate as a lover's, porcelain fingers brushing the collar of her white silk.
+
+"I see you whole, Madame," it said softly. "Every way you end. And in all of them, you give me everything I want."
 
 Its fingers closed.
 
@@ -161,7 +163,7 @@ His thumb had stopped on the striker of the lighter.
 
 Behind the body, her army stood in its rows. Nobody owned them now.
 
-The white thing turned back to him.
+The white thing didn't look down at the snow. It turned back to Victor.
 
 Behind it, every synthetic on the plaza lit at once.
 
