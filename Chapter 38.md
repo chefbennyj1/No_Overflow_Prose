@@ -56,7 +56,7 @@ It turned its head and looked at him.
 
 His eyes watered at once. The white of it burned, and the plaza swam. He blinked hard and made himself look. He had put a hole in it. 
 
-It glided toward him a foot above the ground, its black eyes locked squarely on Victor's burning albinotic  ones.
+It glided toward him a foot above the ground, its black eyes locked squarely on Victor's albinotic ones.
 
 It didn't look at the people scrambling in its path. One by one, it killed them without turning its head.
 
