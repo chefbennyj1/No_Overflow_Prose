@@ -10,17 +10,17 @@ Across from Victor, the Minder still had a gun pressed into Harlan's ribs, his e
 
 Beside the open door, Victor's hand tightened on the revolver at his thigh. 
 
-Something dark dropped out of the sky. Like a shadow of a woman. It landed on its knees beside the dead girl. It's eyes glowed burning hot. Something triggered inside Victor's memory. He recognized the sheen. The shadow turned it's gaze upward, and shot straight up toward the spire.
+Something dark dropped out of the sky. Like a shadow of a woman. It landed on its knees beside the dead girl. Its eyes glowed burning hot. Something triggered inside Victor's memory. He recognized the sheen. The shadow turned its gaze upward, and shot straight up toward the spire.
 
 High up on the face of the tower, the steel caved inward around the white entity. The shockwave slammed into the plaza, ripping the Madame's cruiser off its magnetic cushion and flipping it onto its roof. Harlan was thrown clear across the fallen snow. Three tons of the cruiser's black steel came down on the Minder who was holding him, crushing him into the plaza floor under the crumpled frame. 
 
 Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan, and took a deep breath when he saw him slowly steady himself to his feet, coughing in the snow.
 
-At the front of the plaza, the Madame was still on her feet. 
+Beyond the wrecked cruiser, the Madame was still on her feet. 
 
 In the cruiser, she had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
 
-There was nothing between Victor and and the Madame's back. Nobody had a gun on Harlan anymore.
+There was nothing between Victor and the Madame's back. Nobody had a gun on Harlan anymore.
 
 Victor got to his feet and raised the revolver.
 
@@ -50,7 +50,7 @@ His finger eased the tension off the trigger. He let out a breath that fogged in
 
 The revolver kicked hard in his hand. Smoke came off the rails in a thin gray line and bent away on the wind.
 
-Across the plaza, the white entity hung in the air with a hole through its gut.
+Above the gorge, the white entity hung in the air with a hole through its gut.
 
 Victor could see the frost through it. The plaza beyond, the dark edge of the gorge. Nothing ran out of the wound. The edges of it were white.
 
@@ -58,12 +58,11 @@ It turned its head and looked at him.
 
 His eyes watered at once. The white of it burned, and the plaza swam. He blinked hard and made himself look. He had put a hole in it. He was going to look at it.
 
-
-It glided across the plaza slowly, a feet above the ground, and the people in its path threw themselves flat. A Renewal agent let go of his rifle and crawled. Where it passed, the snow stopped falling and hung in the air behind it.
+It glided toward him slowly, a foot above the ground, and the people in its path threw themselves flat. A Renewal agent let go of his rifle and crawled. Where it passed, the snow stopped falling and hung in the air behind it.
 
 Victor didn't move.
 
-The sun was at his back. His shadow ran long across the frost in front of him, and the white thing stopped at the end of it, close enough to touch. Its own shadow ran out behind it across the plaza, longer than his and blacker. The sun came through the hole in its gut and lay in the middle of that shadow, a white spot on the frost.
+The sun was at his back. His shadow ran long across the frost in front of him, and the white thing stopped at the end of it, close enough to touch. Its own shadow ran out behind it over the snow, longer than his and blacker. The sun came through the hole in its gut and lay in the middle of that shadow, a white spot on the frost.
 
 Up close, it had a woman's face. Her skin was porcelain, with lines of bronze circuitry that seared across her body. The wind pulled at Victor's coat, but it didn't move a strand of the straight black hair hanging down her back. Her eyes were black all the way across.
 
@@ -101,13 +100,13 @@ The hand stopped.
 
 It hung there, a breath from his skin. Her black eyes were still on his face, but they had stopped looking at him.
 
-"So, this is Takeda-Holden's big secret, Is it?"
+"So, this is Takeda-Holden's big secret, is it?"
 
 The voice came from right behind her, low and almost reverent.
 
 She lowered her hand and turned slowly, the whole body turning with the head, until her back was to Victor.
 
-The Madame was already standing there, three paces off in the frost, the long filter lowered from her mouth. Snow had settled on the shoulders of her white silk. Behind her, her army had stopped where it stood against the Renewal line on the tower steps. Hundreds of serials glowed at the same height. Not one of them moved.
+The Madame was already standing there in the frost, the long filter lowered from her mouth. Snow had settled on the shoulders of her white silk. Behind her, her army had stopped where it stood against the Renewal line on the tower steps. Hundreds of serials glowed at the same height. Not one of them moved.
 
 Victor stood with the revolver at his side. He had felt the cold of those fingers on his throat. He had been dead. Now she had turned her back on him, and the Madame hadn't even looked at him.
 
