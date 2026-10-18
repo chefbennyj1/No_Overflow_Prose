@@ -1,7 +1,53 @@
 ---
 music: creeping tension.mp3
 ---
-The revolver was hot in Victor's hand. Smoke came off the rails in a thin gray line and bent away on the wind.
+Thirty yards past the cruiser, the kid hit the plaza floor.
+
+A girl in a ragged coat and a yellow knitted hat fell straight out of the sky onto the frost. 
+
+Beside the open door, Victor's hand tightened on the revolver at his thigh. Across from him, the Minder still had a gun pressed into Harlan's ribs, his eyes turned up toward the spire.
+
+Something dark dropped out of the glare and landed on its knees beside the dead girl. A sound tore out of it—two voices at once, like iron wrenching apart—and then it shot straight back up into the sky.
+
+High up on the face of the tower, the steel caved inward around the white thing in dead silence.
+
+A second later, the shockwave hit the plaza.
+
+The blast ripped the Madame's cruiser off its magnetic cushion and flipped it onto its roof. Harlan was thrown clear across the frost. The Minder holding him didn't make it. Three tons of armored steel came down across his back, crushing him into the stones under the crumpled frame.
+
+Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. Harlan was twenty feet away, coughing in the snow, alive.
+
+Down by the gorge, the dark shape dropped out of the sky a second time, threw a man in a white lab coat down into the frost beside Erin Adler, and rose back into the fight.
+
+*Blackwell.*
+
+At the front of the plaza, the Madame had stayed on her feet. While her synthetic army drowned the Renewal line on the steps, she had been watching the sky. The lab she had come to rob was gone, swallowed by the gorge, and the things tearing the clouds apart couldn't be collared with a gun.
+
+Then she saw Blackwell lying at the edge of the drop.
+
+She couldn't own the machine. She could own the man who built it.
+
+The Madame turned from the steps and started walking across the frost toward the doctor.
+
+Nobody stood between Victor and her back. Nobody had a gun on Harlan anymore.
+
+Victor raised the revolver.
+
+The rails woke against his palm, a charge crawling up into his wrist. He settled the front sight square on the back of the Madame's head, right above the collar of her white silk. Everything his father had been—every visit to that green door, an old man hollowed out as a Minder and left to rot in front of a cracked window—sat at the end of the barrel.
+
+His finger took up the slack on the trigger.
+
+Above the plaza, the white thing broke away from the dark one and dove.
+
+It dropped like a spear, cutting straight down toward the edge of the gorge. At the bottom of its path, Erin Adler was on her knees on the frost.
+
+The dark one was behind it, too far back to reach her.
+
+Victor's eyes burned in the glare. Through the water in them, he held the back of the Madame's head in his sights for one more fraction of a second.
+
+Then he wrenched the barrel off her, tracked the white blur above Erin Adler's face, and fired.
+
+The revolver kicked hard in his hand. Smoke came off the rails in a thin gray line and bent away on the wind.
 
 Across the plaza, the white thing hung in the air with a hole through its gut.
 
@@ -11,14 +57,6 @@ It turned its head and looked at him.
 
 His eyes filled at once. The white of it burned, and the plaza swam. He blinked hard and made himself look. He had put a hole in it. He was going to look at it.
 
-He had seen the kid fall.
-
-A girl in a yellow knitted hat, out of the sky and onto the frost past the cruiser. 
-
-After that, he'd had the Madame's back in his sights. White silk at the front of the plaza, one hand raised over her army. Everything his father had been, close enough to hit.
-
-Then the white thing had dropped toward Erin Adler, and Victor turned the gun.
-
 It came down out of the air.
 
 It crossed the plaza slowly, a few feet above the ground, and the people in its path threw themselves flat. A Renewal agent let go of his rifle and crawled. Where it passed, the snow stopped falling and hung in the air behind it.
@@ -27,7 +65,7 @@ Victor didn't move.
 
 The sun was at his back. His shadow ran long across the frost in front of him, and the white thing stopped at the end of it, close enough to touch. Its own shadow ran out behind it across the plaza, longer than his and blacker. The sun came through the hole in its gut and lay in the middle of that shadow, a white spot on the frost.
 
-Up close, it had a woman's face. The skin was porcelain, with lines of  bronze circuitry that seared across its body. The wind pulled at Victor's coat, but it didn't move a strand of its straight  black hair hanging down its back. . The eyes were black all the way across.
+Up close, it had a woman's face. The skin was porcelain, with lines of bronze circuitry that seared across its body. The wind pulled at Victor's coat, but it didn't move a strand of its straight black hair hanging down its back. The eyes were black all the way across.
 
 Through the hole in its gut, he could see Erin Adler on her knees on the frost.
 
