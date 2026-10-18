@@ -16,9 +16,7 @@ High up on the face of the tower, the steel caved inward around the white entity
 
 Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan, and took a deep breath when he saw him slowly steady himself to his feet, coughing in the snow.
 
-Beyond the wrecked cruiser, the Madame was still on her feet. 
-
-In the cruiser, she had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
+Beyond the wrecked cruiser, the Madame was still on her feet.  She had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
 
 There was nothing between Victor and the Madame's back. Nobody had a gun on Harlan anymore.
 
@@ -56,11 +54,16 @@ Victor could see the frost through it. The plaza beyond, the dark edge of the go
 
 It turned its head and looked at him.
 
-His eyes watered at once. The white of it burned, and the plaza swam. He blinked hard and made himself look. He had put a hole in it. He was going to look at it.
+His eyes watered at once. The white of it burned, and the plaza swam. He blinked hard and made himself look. He had put a hole in it. 
 
-It glided toward him slowly, a foot above the ground, and the people in its path threw themselves flat. A Renewal agent let go of his rifle and crawled. Where it passed, the snow stopped falling and hung in the air behind it.
+It glided toward him a foot above the ground, its black eyes locked squarely on Victor's burning albinotic  ones.
 
-Victor didn't move.
+It didn't look at the people scrambling in its path. One by one, it killed them without turning its head.
+
+A Renewal guard raised his rifle; the entity flicked two fingers to the side, and the man's helmet and skull caved inward with a wet crunch before he hit the stone. A rioter stumbled in front of it, and a wave of its hand flash-froze the man mid-scream—when its shoulder brushed past him, his chest shattered across the plaza like dropped porcelain. Another man was lifted off his feet and twisted in the air until his spine snapped, then dropped aside like trash.
+
+
+Victor didn't move.Where it passed, the snow stopped falling and hung in the air behind it.
 
 The sun was at his back. His shadow ran long across the frost in front of him, and the white thing stopped at the end of it, close enough to touch. Its own shadow ran out behind it over the snow, longer than his and blacker. The sun came through the hole in its gut and lay in the middle of that shadow, a white spot on the frost.
 

@@ -198,29 +198,31 @@ Vigil was losing.
 
 Parity pressed her advantage, broke the clinch, and dove.
 
-She dropped toward the plaza like a falling spear, cutting through the freezing air.
+She dropped toward the edge of the gorge like a falling spear, cutting straight through the freezing air.
 
-At the edge of the sunken plaza stood Rin, Harper, Iris, and Elena.
+At the rim of the sunken plaza, Rin was on her knees on the frost beside Harper, Iris, and Elena.
 
-In an instant, Vigil saw every branch belonging to the four of them collapse. A singular, unavoidable end: Parity's necrotic touch taking their skulls simultaneously upon impact.
+In an instant, Vigil saw every branch belonging to the four of them collapse. A singular, unavoidable end: Parity's necrotic touch taking them simultaneously.
 
 A fifth branch ran toward them from the broken cruiser: a cop in a ballistic vest, his tie flying loose, frost on the dark skin of his forehead. His thread bent toward the same end as theirs.
 
-"They will not survive the strike," Admin projected.
+"They will not survive," Admin projected.
 
 "We cannot reach them," Echo cried across the link.
 
-Vigil dove, pushing her velocity past her limits, a barrier of distance she couldn't overcome. Parity's white hand reached out for Rin's face.
+Vigil dove, pushing her velocity past her limits, a barrier of distance she couldn't overcome.
+
+Below her, Parity slammed into the plaza floor directly in front of Rin. A plume of fallen snow blasted up from her feet, then slowed—locking motionless in the temporal distortion around her as her white hand reached out for Rin's face.
 
 A hole opened in Parity.
 
-The sound came after, the crack of a magnetic-rail slug arriving late after the heavy projectile had punched clean through her midsection, tearing a ragged void through the center of her porcelain torso. White crystalline shards blasted out across the frost, glittering like crushed sugar.
+The sound came after, the crack of a magnetic-rail slug arriving late after the heavy projectile had punched clean through her midsection, tearing a ragged void through the center of her porcelain torso. White crystalline shards blasted out into the suspended snow, glittering like crushed sugar.
 
 Severed bronze bus lines snapped and sparked against fractured silicon. Through the hollow in her waist, the frost of the plaza showed bare.
 
-The force spun Parity off her axis, her fingers passing a breath from Rin's face.
+The force spun Parity off her axis and lifted her off the stone, her fingers passing a breath from Rin's face.
 
-Vigil slammed onto the ground between them, her blue current flaring to absorb the kinetic shockwave.
+Vigil slammed onto the ground between them, her blue current flaring to absorb the shockwave.
 
 Above them, Parity righted herself in the freezing air. She didn't drop. She didn't reach for the ruined crater in her stomach. She hovered, looking down through the hole in her own body with unblinking eyes.
 
