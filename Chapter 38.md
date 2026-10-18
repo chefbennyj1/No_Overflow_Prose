@@ -10,11 +10,9 @@ Across from Victor, the Minder still had a gun pressed into Harlan's ribs, his e
 
 Beside the open door, Victor's hand tightened on the revolver at his thigh. 
 
-Something dark dropped out of the sky and landed on its knees beside the dead girl. Then it shot straight back up toward the spire.
+Something dark dropped out of the sky. Like a shadow of a woman. It landed on its knees beside the dead girl. It's eyes glowed burning hot. Something triggered inside Victor's memory. He recognized the sheen. The shadow turned it's gaze upward, and shot straight up toward the spire.
 
-High up on the face of the tower, the steel caved inward around the white entity. The shockwave slammed into the plaza, ripping the Madame's cruiser off its magnetic cushion and flipping it onto its roof.
-
-The blast ripped the Madame's cruiser off its magnetic cushion and flipped it onto its roof. Harlan was thrown clear across the frost. Three tons of the cruiser's black steel came down on the Minder who was holding him, crushing him into the plaza floor under the crumpled frame. 
+High up on the face of the tower, the steel caved inward around the white entity. The shockwave slammed into the plaza, ripping the Madame's cruiser off its magnetic cushion and flipping it onto its roof. Harlan was thrown clear across the fallen snow. Three tons of the cruiser's black steel came down on the Minder who was holding him, crushing him into the plaza floor under the crumpled frame. 
 
 Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan, and took a deep breath when he saw him slowly steady himself to his feet, coughing in the snow.
 
