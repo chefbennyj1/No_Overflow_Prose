@@ -5,27 +5,22 @@ A sound tore across the plaza from above, two voices at once, like iron wrenchin
 
 A girl in a ragged coat and a yellow knitted hat fell straight out of the sky. Thirty yards past the cruiser, she hit the plaza floor.
 
-"No!" Harlan's voice was choked. "What is that thing?".  Across from Victor, the Minder still had a gun pressed into Harlan's ribs, his eyes turned up toward the spire.
+"No!" Harlan's voice was choked. "What is that thing?" 
+Across from Victor, the Minder still had a gun pressed into Harlan's ribs, his eyes turned up toward the spire.
 
 Beside the open door, Victor's hand tightened on the revolver at his thigh. 
 
 Something dark dropped out of the glare and landed on its knees beside the dead girl. Then it shot straight back up toward the spire.
 
-High up on the face of the tower, the steel caved inward around the white thing in dead silence.
+High up on the face of the tower, the steel caved inward around the white entity.
 
 A second later, the shockwave hit the plaza.
 
-The blast ripped the Madame's cruiser off its magnetic cushion and flipped it onto its roof. Harlan was thrown clear across the frost. Three tons of the cruiser's shiny black steel came down on the Minder who was holding him, crushing him into the plaza floor under the crumpled frame. 
+The blast ripped the Madame's cruiser off its magnetic cushion and flipped it onto its roof. Harlan was thrown clear across the frost. Three tons of the cruiser's black steel came down on the Minder who was holding him, crushing him into the plaza floor under the crumpled frame. 
 
 Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan, and took a deep breath when he saw Harlan slowly steady himself to his feet, coughing in the snow.
 
-Down by the gorge, the dark shape dropped out of the sky a second time, threw a man in a white lab coat down into the frost beside Erin Adler, and rose back into the fight.
-
-*Blackwell.*
-
-Victor looked from the white lab coat to the front of the plaza.
-
-The Madame was still on her feet. Her head came down from the sky, her wire-rimmed glasses fixing on the doctor at the edge of the drop.
+Victor looked to the front of the plaza. The Madame was still on her feet. 
 
 In the cruiser, she had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
 
@@ -61,11 +56,10 @@ Victor could see the frost through it. The stones beyond, a spent casing, the da
 
 It turned its head and looked at him.
 
-His eyes filled at once. The white of it burned, and the plaza swam. He blinked hard and made himself look. He had put a hole in it. He was going to look at it.
+His eyes watered at once. The white of it burned, and the plaza swam. He blinked hard and made himself look. He had put a hole in it. He was going to look at it.
 
-It came down out of the air.
 
-It crossed the plaza slowly, a few feet above the ground, and the people in its path threw themselves flat. A Renewal agent let go of his rifle and crawled. Where it passed, the snow stopped falling and hung in the air behind it.
+It glided across the plaza slowly, a feet above the ground, and the people in its path threw themselves flat. A Renewal agent let go of his rifle and crawled. Where it passed, the snow stopped falling and hung in the air behind it.
 
 Victor didn't move.
 
@@ -107,6 +101,76 @@ He didn't run.
 
 It waited. Victor had sat across a table from a lot of people who were waiting for him to do what they had already decided he would do. He knew the look they got when he didn't. This one didn't have a face for it. It went on waiting anyway.
 
+Then it stopped waiting.
+
+Its hand came up toward his throat. The cold came off the fingers before they reached him. Frost climbed over his collar and stiffened it against his neck.
+
+Victor didn't look away.
+
+The hand stopped.
+
+It hung there, a breath from his skin. The black eyes were still on his face, but they had stopped looking at him. They had gone somewhere past him, the way a man's eyes go when he hears his name called from another room.
+
+"Not that one."
+
+The voice came from behind it, low and gritty. Victor knew it.
+
+The white thing lowered its hand. It turned slowly, the whole body turning with the head, until its back was to him.
+
+The Madame was walking across the plaza.
+
+She came alone, stepping around the bodies on the frost, the long filter in her fingers. Snow had settled on the shoulders of her white silk. Behind her, the army had stopped where it stood, pressed up against the Renewal line on the tower steps. Hundreds of serials glowed at the same height. Not one of them moved.
+
+Victor stood with the revolver at his side. He had felt the cold of its fingers on his throat. He had been dead. Now it had turned its back on him, and he was still breathing.
+
+She stopped a few steps short of it and looked it up and down over the top of her wire-rimmed glasses.
+
+"That one belongs to me," she said. "Arthur Graves's boy. I'm keeping him."
+
+She drew on the cigarette. Her hand was steady.
+
+"I know what you are. They grew you in a box under that tower and told you to sit still." She let the smoke out. "The Company dropped you. I intend to pick you up."
+
+The white thing said nothing.
+
+"That army is mine." She tipped the filter toward the ranks behind her. "The police in this city are mine. Half of Oshima pays me rent." A smile pulled at the deep lines around her mouth. "You take the other half. There's nothing down here the two of us couldn't own."
+
+It went to her.
+
+It drifted slowly over the frost, and the snow stopped falling where it passed. The Madame's chin came up. Her eyes went once to the hole in its gut and came back to its face. The filter shook in her fingers, and she stilled it.
+
+It stopped close to her. Its long shadow fell over her and covered her to the feet.
+
+"There," the Madame said softly. "You see? We understand each other."
+
+She reached up and laid her hand on its cheek.
+
+Frost came up white over her diamond rings. It climbed her knuckles to the wrist. She left her hand where it was.
+
+The white thing tilted its head into her palm.
+
+"I see you whole," it said. "Every way you end."
+
+The Madame's smile held.
+
+"In all of them, you come to me." Its hand rose to her throat, almost gently. "Everyone comes to me, Madame. Eventually."
+
+Its fingers closed.
+
+The sound was small. A twig under a boot.
+
+The Madame's head went over to one side, farther than a head could go. The long filter dropped out of her fingers. The white thing opened its hand, and she folded down into the snow and lay still. Her glasses had come off. They lay on the frost beside her face, one lens cracked, and the snow began to settle on them.
+
+Victor couldn't move.
+
+He had chased her his whole career. He had wanted her dead for longer than that. He had pictured it a thousand ways, and none of them looked like this. One hand. Less than a second.
+
+His thumb had stopped on the striker of the lighter.
+
+Behind the body, her army stood in its rows. Nobody owned them now.
+
+The white thing turned back to him.
+
 Behind it, every synthetic on the plaza lit at once.
 
 The serials came up blue under their eyes, hundreds of them, from the Renewal steps to the lip of the gorge. Then their eyes. The light came off them in one tearing flare, the same light that had taken the interview room, and Victor turned his face from it out of old habit.
@@ -117,25 +181,9 @@ It stood where it had landed, in front of Erin Adler, a shape cut out of the mor
 
 The army turned.
 
-They had been pressing the Renewal line back against the tower steps. Every one of them stopped. Together they turned their backs on the guns and faced the middle of the plaza.
+Along the tower steps, every one of them put its back to the Renewal guns and faced the middle of the plaza. Then they walked.
 
-At the front of the plaza, the Madame raised her hand.
-
-Nothing happened.
-
-She raised it higher. The bodies on either side of her began to walk, and none of them looked at her.
-
-Victor looked.
-
-For the first time since he had known her name, her face moved. The mouth came open. The long filter tipped in her fingers, and the cigarette dropped out of it onto the frost.
-
-She found him across the plaza. She looked at him over the top of her wire-rimmed glasses.
-
-*You should see how it ends.*
-
-Victor turned his eyes back to the white thing.
-
-The army went over the place where she had stood. He heard it. He didn't look.
+The army went over the place where she lay. He heard it. He didn't look.
 
 They came past him on both sides, close enough to drag at his coat. Plastic sheeting slid across his boots. None of them touched him. The ranks split around the place where he stood and closed again in front of him, and then they were on the white thing.
 
@@ -143,7 +191,7 @@ They hit it from every side at once.
 
 It didn't look at them. Bodies broke against it and came apart in the air, carbon fiber and blue coolant raining over the frost, and it kept its black eyes on Victor. It came forward through them.
 
-Its hand came up, open, reaching for his face. The cold came off it before it touched him. Frost climbed the sleeve of his coat.
+Its hand came up again, open, reaching for his face. The cold came off it before it touched him. Frost climbed the sleeve of his coat.
 
 Victor raised the revolver. The rails woke against his palm.
 
