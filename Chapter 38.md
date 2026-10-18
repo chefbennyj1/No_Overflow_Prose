@@ -13,21 +13,19 @@ High up on the face of the tower, the steel caved inward around the white thing 
 
 A second later, the shockwave hit the plaza.
 
-The blast ripped the Madame's cruiser off its magnetic cushion and flipped it onto its roof. Harlan was thrown clear across the frost. The Minder holding him didn't make it. Three tons of armored steel came down across his back, crushing him into the stones under the crumpled frame.
+The blast ripped the Madame's cruiser off its magnetic cushion and flipped it onto its roof. Harlan was thrown clear across the frost. Three tons of the cruisers shiny black steel came down on the who was  Minder holding him, crushing him into the plaza floor under the crumpled frame. 
 
-Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. Harlan was twenty feet away, coughing in the snow, alive.
+Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan, and took a deep breath when he saw Harlan slowly steady himself to his feet, coughing in the snow.
 
 Down by the gorge, the dark shape dropped out of the sky a second time, threw a man in a white lab coat down into the frost beside Erin Adler, and rose back into the fight.
 
 *Blackwell.*
 
-At the front of the plaza, the Madame had stayed on her feet. While her synthetic army drowned the Renewal line on the steps, she had been watching the sky. The lab she had come to rob was gone, swallowed by the gorge, and the things tearing the clouds apart couldn't be collared with a gun.
+Victor looked from the white lab coat to the front of the plaza.
 
-Then she saw Blackwell lying at the edge of the drop.
+The Madame was still on her feet. Her head came down from the sky, her wire-rimmed glasses fixing on the doctor at the edge of the drop.
 
-She couldn't own the machine. She could own the man who built it.
-
-The Madame turned from the steps and started walking across the frost toward the doctor.
+In the cruiser, she had told him she came for the what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
 
 Nobody stood between Victor and her back. Nobody had a gun on Harlan anymore.
 
