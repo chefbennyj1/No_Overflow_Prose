@@ -113,13 +113,13 @@ Victor stood with the revolver at his side. He had felt the cold of those finger
 
 The Madame looked up into the white face through her wire-rimmed glasses, her head tilted in a slight bow, her eyes bright and hungry behind the lenses.
 
-"Takeda-Holden kept *you* in a box under that tower?" the Madame said softly, shaking her head as if it were a crime. "Men like Blackwell never know what they're holding until it breaks their fingers."
+"Takeda-Holden kept *you* in a box under that tower?" the Madame said softly, shaking her head as if it were a crime. "Such a shame they did that to you... And now, all this happening."
 
 The white figure said nothing.
 
-The Madame's voice dropped into a warm, velvet purr—the one Victor had heard her use when she was about to buy a man's soul and make him thank her for it.
+The Madame's voice dropped, warm, and velvety—the one Victor had heard her use when she was about to buy a man's soul and make him thank her for it.
 
-"You don't belong in their basement," she said. "And you shouldn't have to dirty yourself with the insects down here. That army is mine." She gestured with an open palm toward the ranks behind her. "The police in this city are mine. Every street, every port, every terminal in Oshima answers to me—and I can lay all of it at your feet." A sycophantic smile pulled at the deep lines around her mouth. "Let me clear the ground for you. Tell me what you want, and it's yours."
+"You don't belong in their basement," she said. "And you shouldn't have to dirty yourself with the insects down here. That army is mine." She gestured with an open palm toward the ranks behind her. "The police in this city are mine. Every street, every port, every terminal in Oshima answers to me—and I can lay all of it at your feet." A sycophantic smile pulled at the deep lines around her mouth. "Tell me what you want, and it's yours."
 
 She drifted closer to the Madame over the frost, and the snow stopped falling between them. The Madame's eyes went once to the hole in her gut and came back to the porcelain face. The filter shook in the old woman's fingers, and she stilled it.
 
@@ -129,11 +129,11 @@ The long black shadow fell over the Madame and covered her to the feet.
 
 She reached up, as if touching an altar, and laid her hand on the porcelain cheek.
 
-Frost came up white over her diamond rings. It climbed her knuckles to the wrist. She left her hand where it was.
+Frost came up white over her diamond rings. It climbed her knuckles to the wrist. 
 
 The white face tilted into her palm, leaning into the touch.
 
-"Useful to me," she said.
+"Useful to me," the entity said.
 
 The sound came up through the stones softer this time, almost mimicking the warm cadence of the Madame's own voice.
 
@@ -143,11 +143,11 @@ The Madame's breath caught. Her smile widened, triumphant, the hunger in her eye
 
 "Yes," the Madame whispered.
 
-A white hand rose to her throat, delicate as a lover's, porcelain fingers brushing the collar of her silk.
+The entity slowly raised her white hand. Her porcelain fingers delicately brushing the collar of the Madame's silk.
 
 "I see you whole, Madame," she said softly. "Every way you end. And in all of them, you give me everything I want."
 
-Her fingers closed.
+Her fingers closed around the Madame's throat.
 
 The sound was small. A twig under a boot.
 
