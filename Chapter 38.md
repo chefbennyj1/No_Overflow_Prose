@@ -20,7 +20,7 @@ At the front of the plaza, the Madame was still on her feet.
 
 In the cruiser, she had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
 
-Nobody stood between Victor and her back. Nobody had a gun on Harlan anymore.
+There was nothing between Victor and and the Madame's back. Nobody had a gun on Harlan anymore.
 
 Victor got to his feet and raised the revolver.
 
