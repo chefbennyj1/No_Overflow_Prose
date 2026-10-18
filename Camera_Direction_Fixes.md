@@ -139,7 +139,7 @@ Line numbers are as of 4 Oct 2026 and will drift as chapters change. Search for 
 
 **New, still open (found 4 Oct during the pass):**
 - [ ] 26:4 "The glowing monitors… cast long shadows across his face." Same POV slip as 4:65.
-- [ ] 34:251 "It absorbed the light entirely." Parity is porcelain white with no shadow. Swallowing light is Vigil's black (Ch. 5), so this crosses the two designs.
+- [ ] 34:251 "It absorbed the light entirely." Parity is porcelain white. Swallowing light is Vigil's black (Ch. 5), so this crosses the two designs.
 - [ ] 34:223/229 "pristine" and "the freezing air of New Veridia" each appear twice within a few lines (rule 4).
 - [ ] 34:223/225 "entirely separate," "perfectly still": absolute modifiers (rule 2).
 - [ ] 34:247 "It didn't drift… It didn't react… It maintained…" is a three-beat run (rule 15).

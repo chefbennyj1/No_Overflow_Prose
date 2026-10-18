@@ -13,7 +13,7 @@ His eyes filled at once. The white of it burned, and the plaza swam. He blinked 
 
 He had seen the kid fall.
 
-A girl in a yellow knitted hat, out of the sky and onto the frost past the cruiser. The hat had come down after her.
+A girl in a yellow knitted hat, out of the sky and onto the frost past the cruiser. 
 
 After that, he'd had the Madame's back in his sights. White silk at the front of the plaza, one hand raised over her army. Everything his father had been, close enough to hit.
 
@@ -21,25 +21,27 @@ Then the white thing had dropped toward Erin Adler, and Victor turned the gun.
 
 It came down out of the air.
 
-It crossed the plaza slowly, a few feet above the stones, and the people in its path threw themselves flat. A Renewal agent let go of his rifle and crawled. Where it passed, the snow stopped falling and hung in the air behind it.
+It crossed the plaza slowly, a few feet above the ground, and the people in its path threw themselves flat. A Renewal agent let go of his rifle and crawled. Where it passed, the snow stopped falling and hung in the air behind it.
 
 Victor didn't move.
 
-The sun was at his back. His shadow ran long across the frost in front of him, and the white thing stopped at the end of it, close enough to touch. It had no shadow of its own. His lay under it on the stones.
+The sun was at his back. His shadow ran long across the frost in front of him, and the white thing stopped at the end of it, close enough to touch. Its own shadow ran out behind it across the plaza, longer than his and blacker. The sun came through the hole in its gut and lay in the middle of that shadow, a white spot on the frost.
 
-Up close, it had a woman's face. The skin was porcelain, with fine bronze lines under it at one cheek. Black hair hung straight down its back. The wind pulled at Victor's coat and didn't move a strand of it. The eyes were black all the way across.
+Up close, it had a woman's face. The skin was porcelain, with lines of  bronze circuitry that seared across its body. The wind pulled at Victor's coat, but it didn't move a strand of its straight  black hair hanging down its back. . The eyes were black all the way across.
 
 Through the hole in its gut, he could see Erin Adler on her knees on the frost.
 
-"I see them whole," it said.
+The black eyes locked on his face.
 
-One voice, flat and calm. It came from the mouth and from the stones under his boots at the same time.
+"I see every life in this city whole," it said.
 
-"Every one of them. The ones on this plaza. The ones under it." Its head tilted. "You, I see only here."
+One voice, flat and calm. Nothing in the porcelain face moved. The sound resonated up through the stones under his boots, the crumpled door of the cruiser, and the steel of the revolver in his hand.
 
-Victor's eyes ran. He let them.
+"Every one of them, from first breath to last. The probability of a second blind spot was zero." Its head tilted a fraction. "Yet here you stand. You, I see only here."
 
-"Tell me..." it said. "Are you a good man?"
+Victor's eyes ran. He let them. *A second blind spot?* It's words were making no sense to him. 
+
+"Tell me..." The voice vibrated against his palm through the grip of the gun. "Are you a good man?"
 
 Victor had heard it before.
 

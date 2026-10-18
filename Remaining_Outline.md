@@ -46,7 +46,7 @@ Parity removes the only two unreadable variables in her universe: Blackwell and 
 ### Staging & Props
 - **The Wall:** He literally becomes the wall he promised Rin he would be. Set the scene in a stairwell (bringing it full circle to where his partnership with Harlan started in Ch. 2).
 - **The Revolver:** His relic magnetic-rail revolver is useless against her. Whether he draws it or doesn't bother defines who he has become in the end.
-- **His Eyes:** Victor is sensitive to bright light. Parity is blindingly white and casts no shadow. Standing in front of her is physically unbearable for him, but he stands there anyway.
+- **His Eyes:** Victor is sensitive to bright light. Parity is blindingly white and throws a long black shadow. Standing in front of her is physically unbearable for him, but he stands there anyway.
 
 ### Afterward
 Harlan has spent the entire book saying "we need to leave." This is the one time he doesn't argue. Rin watches the man who caged her die for her, carrying a weight she can never settle into the ending.

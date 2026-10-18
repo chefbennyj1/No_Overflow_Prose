@@ -63,9 +63,9 @@ Harper hit the ground on her knees, coughing in the sudden draft, while Rin gasp
 
 Under the plaza, the earth groaned.
 
-The stone pavers between the statues were sagging inward. A fault line cracked across the plaza, dropping the center towards the roaring singularity.
+The stone pavers between the statues were sagging inward. A fault line cracked through the stone, dropping the center towards the roaring singularity.
 
-Vigil looked across the plaza. It was the vision Parity had forced into her core: *A landscape swallowed by a deep gorge of earth.*
+Vigil looked out over the ruin. It was the vision Parity had forced into her core: *A landscape swallowed by a deep gorge of earth.*
 
 The event horizon beneath the city had outgrown its containment. The black hole was drawing the bedrock down into its throat.
 
@@ -81,7 +81,7 @@ She altered her gravitational vector, drifting upward along the freezing face of
 
 Eighty stories up, Parity hovered in the sunlight.
 
-Her porcelain skin was blinding, pure silicon-dioxide that cast no shadow. In her right hand, she held Silas Blackwell by the collar of his lab coat.
+Her porcelain skin was blinding, pure silicon-dioxide. The low sun threw her shadow out across the city, long past the shape of anything human. In her right hand, she held Silas Blackwell by the collar of his lab coat.
 
 Blackwell did not exist in Vigil's simulation. He was an Ambiguity—a blank spot in spacetime where no thread could anchor. He hung limp over the drop, his face gray with frost.
 
