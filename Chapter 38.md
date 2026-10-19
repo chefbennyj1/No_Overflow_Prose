@@ -20,7 +20,7 @@ Victor hit the ground on his shoulder. He pushed himself up on one knee, his rev
 
 "Still here, Vic!" 
 
-Above him, the two entities were creating havoc across the sky. He survey the plaza. All around him people were recovering from blast. Across the plaza Victor recognized one immediately, it was Erin Adler. 
+Above him, the two entities were creating havoc across the sky. He surveyed the plaza. All around him people were recovering from blast. Across the plaza Victor recognized one immediately, it was Erin Adler. 
 
 *This is what she meant. The Company was not in control*
 
@@ -174,7 +174,9 @@ A gun fired from beside the wrecked cruiser.
 
 "Get away from him!" Harlan's commanding shout echoed across the snow. His service pistol kicked in both hands, as he steadily emptied the magazine toward the porcelain figure.
 
-The entity didn't even turn her head. Without taking her black eyes off Victor, she raised her left hand to the side catching the bullets midair in her porcelain fist.
+The entity didn't even turn her head. Without taking her eyes off Victor, she raised her left hand and caught the bullets in her porcelain fist.
+
+They snapped against her palm. She opened her fingers, and the flattened slugs dropped onto the frost, steaming in the snow.
 
 they snapped against her palm. She opened her fingers, and the flattened bullets dropped onto the frost, steaming in the snow.
 
