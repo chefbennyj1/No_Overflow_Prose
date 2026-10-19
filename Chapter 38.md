@@ -200,7 +200,7 @@ The cold went in through his coat, and then it was inside him. His heart pushed 
 
 Then the dark one hit her.
 
-Victor didn't see it come. The white hand was on him, and then it was gone, and she went backward across the plaza with the dark one locked around her. The army poured after them, and all of it was moving toward the gorge.
+Victor didn't see it come. The white hand was on him, and then it was gone, and she went backward across the plaza with the dark one locked around her. 
 
 His legs went. The stones came up and hit his shoulder.
 
@@ -212,4 +212,4 @@ Harlan was running toward him across the frost, his tie flying loose. He was ali
 Over Harlan's shoulder, the sun had come up clear of the towers. It was in Victor's eyes, for the first time the light didn't hurt.
 
 He looked toward the Madame's body lifeless in the snow. 
-A smile crossed his lips, a final breath left his lungs over Harlan's cradling arms. 
+A smile crossed his lips, then a final breath left his lungs over Harlan's cradling arms. 
