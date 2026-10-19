@@ -15,7 +15,10 @@ Something dark dropped out of the sky—like the shadow of a woman—and landed 
 
 High up on the face of the tower, the steel caved inward around the white entity. The shockwave slammed into the plaza, ripping the Madame's cruiser off its magnetic cushion and flipping it onto its roof. Harlan was thrown clear across the fallen snow. Three tons of the cruiser's black steel came down on the Minder who was holding him, crushing him into the plaza floor under the crumpled frame. 
 
-Victor hit the ground on his shoulder. He pushed himself up on one knee, his revolver still in his hand. He looked toward Harlan, and saw him steady himself to his feet, coughing in the snow. He let out a breath into the cold air.
+Victor hit the ground on his shoulder. He pushed himself up on one knee, his revolver still in his hand. He looked toward Harlan and saw him steady himself to his feet, coughing in the snow. 
+"Harlan! You okay?" He let out a breath into the cold air.
+
+"Still here, Vic!" 
 
 Above him, the two entities were creating havoc across the sky. He survey the plaza. All around him people were recovering from blast. Across the plaza Victor recognized one immediately, it was Erin Adler. 
 
@@ -85,9 +88,9 @@ The black eyes locked on his face.
 
 One voice, flat and calm. Nothing in the porcelain face moved. The sound resonated through the groaning frame of the tower, the stones under his boots, and the steel of the revolver in his hand.
 
-"Every one of them, from first breath to last. The probability of a second Ambiguity is zero." Her head tilted a fraction. "Yet here you stand. You, I see only here."
+"Every one of them, from first breath to last. The probability of a second obscurity is zero." Her head tilted a fraction. "Yet here you stand. You, I see only here."
 
-Victor's eyes ran. *An Ambiguity?*
+Victor's eyes ran. *An obscurity?*
 
 "Tell me..." The voice vibrated against his palm through the grip of the gun. "Are you a good man?"
 
@@ -175,9 +178,9 @@ A gun barked three times from beside the wrecked cruiser.
 
 "Get away from him!" Harlan shouted, his service pistol kicking in both hands.
 
-The entity didn't even turn her head. Harlan wasn't a blind spot—she had seen every bullet before his finger found the trigger. Without taking her black eyes off Victor, she raised her left hand to the side and closed her porcelain fist in midair.
+The entity didn't even turn her head. Without taking her black eyes off Victor, she raised her left hand to the side and closed her porcelain fist in midair.
 
-Three cracks snapped against her palm. She opened her fingers, and three flattened brass-and-lead slugs dropped onto the frost, steaming in the snow.
+Three cracks snapped against her palm. She opened her fingers, and three flattened bullets dropped onto the frost, steaming in the snow.
 
 Slowly, her head turned toward Harlan.
 
@@ -189,7 +192,7 @@ She took a step toward him.
 
 Victor raised the revolver. The rails woke against his palm.
 
-"Hey!" Victor barked.
+"Hey!" Victor yelled.
 
 He fired straight into her face.
 
@@ -219,6 +222,6 @@ Over Harlan's shoulder, the sun had come up clear of the towers. It was in Victo
 
 For the first time, the light didn't hurt.
 
-Harlan's hands grabbed him and pulled him close.
+Harlan's hands grabbed him and pulled him close. 
 
 A smile crossed his lips, and a final breath left his lungs across Harlan's arms.

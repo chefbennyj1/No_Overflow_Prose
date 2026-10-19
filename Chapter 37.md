@@ -83,7 +83,7 @@ Eighty stories up, Parity hovered in the sunlight.
 
 Her porcelain skin was blinding, pure silicon-dioxide. The low sun threw her shadow out across the city, long past the shape of anything human. In her right hand, she held Silas Blackwell by the collar of his lab coat.
 
-Blackwell did not exist in Vigil's simulation. He was an Ambiguity—a blank spot in spacetime where no thread could anchor. He hung limp over the drop, his face gray with frost.
+Blackwell did not exist in Vigil's simulation. He was an obscurity—a blank spot in spacetime where no thread could anchor. He hung limp over the drop, his face gray with frost.
 
 She was not alone. Three people hung in the air around her, held by nothing, turning slowly in the wind off the spire. Frost had climbed their clothes to the throat. They were from the plaza: a man in ragged clothes of the lower city, a Renewal agent with his helmet gone, and a girl of fifteen in a yellow knitted hat, lopsided on her head.
 
