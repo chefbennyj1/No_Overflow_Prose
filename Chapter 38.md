@@ -34,11 +34,11 @@ The rails woke against his palm, a charge crawling up into his wrist. He settled
 
 His finger pressed against the slack on the trigger.
 
-Overhead, the two entities tore at each other above the crowd. The east edge of the plaza broke away into the gorge with people still standing on it. The snow stopped falling. Ice crystals suspended in the air, caught in the morning sun sparkling blue, violet, and green.
+Overhead, the two entities tore at each other above the crowd. The east edge of the plaza broke away into the gorge with people still standing on it. The snow stopped falling. Ice crystals hung suspended in the morning sun, sparkling blue, violet, and green.
 
 Victor paused. It was beautiful.
 
-He brought the front sight back to her head. He couldn't have asked for a cleaner moment to collect her debt.
+He brought the front sight back to her head. He couldn't have asked for a cleaner moment to collect the life she owed him.
 
 The flakes of snow began to rise, drifting backward toward the sun.
 
