@@ -102,19 +102,19 @@ Her hand came up toward his throat. The cold came off her fingers before they re
 
 Victor didn't look away.
 
-The hand stopped.
-
-It hung there, a breath from his skin. Her black eyes were still on his face, but they had stopped looking at him.
+The hand stopped—hanging there, a next to his skin. Her face hovered close to Victor's, but the focus changed, her black eyes shifted upward.
 
 "So, this is Takeda-Holden's big secret, is it?"
 
-The voice came from right behind her, low and almost reverent.
+The voice came from right behind her, low and reverent.
 
-She lowered her hand and turned slowly, the whole body turning with the head, until her back was to Victor.
+She lowered her hand and pivoted slowly, head and shoulders locked together in a single rigid turn until her back was to him.
 
-The Madame was already standing there in the frost, the long filter lowered from her mouth. Snow had settled on the shoulders of her white silk. Behind her, her army had stopped where it stood against the Renewal line on the tower steps. Hundreds of serials glowed at the same height. Not one of them moved.
+Victor hit one knee, taking in a ragged breath. Harlan started forward to help him, but Victor threw up a palm and shook his head, stopping him in mid-step.
 
-Victor stood with the revolver at his side. He had felt the cold of those fingers on his throat. He had been dead. Now she had turned her back on him, and the Madame hadn't even looked at him.
+The Madame was already standing close in the frost, the long filter lowered from her mouth. Snow had settled on the shoulders of her white silk. Behind her, her army had stopped dead against the Renewal line on the tower steps. Hundreds of serials glowed at the exact same height. Not one of them moved.
+
+Victor knelt with the revolver at his side. He had felt the cold of those fingers on his throat. He had been dead. Now she had turned her back on him, and the Madame had her attention.
 
 The Madame looked up into the white face through her wire-rimmed glasses, her head tilted in a slight bow, her eyes bright and hungry behind the lenses.
 
