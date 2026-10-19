@@ -64,9 +64,7 @@ His eyes watered at once. The glare of it burned through the tears, and he blink
 
 It glided toward him a foot above the ground, its black eyes locked squarely on Victor's albinotic ones.
 
-It didn't look at the people scrambling in its path. One by one, it killed them without turning its head.
-
-A Renewal guard raised his rifle; the entity flicked two fingers to the side, and the man's helmet and skull caved inward with a wet crunch before he hit the stone. A rioter stumbled in front of it, and a wave of its hand flash-froze the man mid-scream—when its shoulder brushed past him, his chest shattered across the plaza like dropped porcelain. Another man was lifted off his feet and twisted in the air until his spine snapped, then dropped aside like trash.
+A man scrambling across the frost stumbled into its path. Without turning its head, the man was lifted off his feet and twisted in the air, then dropped lifeless in the snow.
 
 "Vic!" Harlan called out from behind the wrecked cruiser. "What are you doing?"
 
@@ -178,8 +176,6 @@ The entity didn't even turn her head. Without taking her eyes off Victor, she ra
 
 They snapped against her palm. She opened her fingers, and the flattened slugs dropped onto the frost, steaming in the snow.
 
-they snapped against her palm. She opened her fingers, and the flattened bullets dropped onto the frost, steaming in the snow.
-
 Slowly, her head turned toward Harlan.
 
 Harlan's slide locked back on an empty chamber, his tie blowing loose across his vest. 
@@ -190,15 +186,15 @@ She took a step toward him.
 
 Victor raised the revolver. The rails woke against his palm.
 
-"Hey! That's far enough canner!" Victor yelled.
+"Hey! That's far enough, canner!" Victor yelled.
 
 He fired straight into her face.
 
-The crack tore through the open air. She hadn't seen it coming. Half her porcelain face sprayed away in white crystals and bronze light. Spinning her head back toward him, one black eye sat in a socket of shattered glass, locking back onto Victor's face.
+The crack tore through the open air. She hadn't seen it coming. Half her porcelain face sprayed away in white crystals and bronze light, wrenching her head back around. One black eye sat in a socket of shattered glass, locking onto Victor's face.
 
 She raised her hand, open, the cold rolling off her fingers before she touched him.
 
-She laid her palm flat on Victors chest.
+She laid her palm flat on Victor's chest.
 
 The cold went in through his coat, and then it was inside him. His heart pushed once against it.
 
