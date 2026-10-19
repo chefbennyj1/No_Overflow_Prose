@@ -102,7 +102,7 @@ Her hand came up toward his throat. The cold came off her fingers before they re
 
 Victor didn't look away.
 
-The hand stopped—hanging there, a next to his skin. Her face hovered close to Victor's, but the focus changed, her black eyes shifted upward.
+The hand stopped—hanging there, next to his skin. Her face hovered close to Victor's, but the focus changed, her black eyes shifted upward.
 
 "So, this is Takeda-Holden's big secret, is it?"
 
@@ -110,13 +110,13 @@ The voice came from right behind her, low and reverent.
 
 She lowered her hand and pivoted slowly, head and shoulders locked together in a single rigid turn until her back was to him.
 
-Victor hit one knee, taking in a ragged breath. Harlan started forward to help him, but Victor threw up a palm and shook his head, stopping him in mid-step.
+Victor dropped to a knee, taking in a ragged breath. Harlan started forward to help him, but Victor threw up a palm and shook his head, stopping him in mid-step.
 
 The Madame was already standing close in the frost, the long filter lowered from her mouth. Snow had settled on the shoulders of her white silk. Behind her, her army had stopped dead against the Renewal line on the tower steps. Hundreds of serials glowed at the exact same height. Not one of them moved.
 
 Victor knelt with the revolver at his side. He had felt the cold of those fingers on his throat. He had been dead. Now she had turned her back on him, and the Madame had her attention.
 
-The Madame looked up into the white face through her wire-rimmed glasses, her head tilted in a slight bow, her eyes bright and hungry behind the lenses.
+The Madame looked up into the white face through her wire-rimmed glasses, her head in a slight bow, her eyes daring and hungry behind the lenses.
 
 "Takeda-Holden kept *you* in a box under that tower?" the Madame said softly, shaking her head as if it were a crime. "Such a shame they did that to you... And now, all this happening."
 
@@ -126,11 +126,11 @@ The Madame's voice dropped, warm, and velvety—the one Victor had heard her use
 
 "You don't belong in their basement," she said. "And you shouldn't have to dirty yourself with the insects down here. That army is mine." She gestured with an open palm toward the ranks behind her. "The police in this city are mine. Every street, every port, every terminal in Oshima answers to me—and I can lay all of it at your feet." A sycophantic smile pulled at the deep lines around her mouth. "Tell me what you want, and it's yours."
 
-She drifted closer to the Madame over the frost, and the snow stopped falling between them. The Madame's eyes went once to the hole in her gut and came back to the porcelain face. The filter shook in the old woman's fingers, and she stilled it.
+The ceramic woman drifted closer to the Madame over the frost, and the snow stopped falling between them. The Madame's eyes went once to the hole in her gut and came back to the porcelain face. The filter shook in the old woman's fingers, and she stilled it.
 
 The long black shadow fell over the Madame and covered her to the feet.
 
-"There," the Madame whispered, breathless. "You see? I can be very useful to you."
+"There," the Madame whispered, breathless. "You see? I can be very we can be very useful to each other."
 
 She reached up, as if touching an altar, and laid her hand on the porcelain cheek.
 
@@ -138,7 +138,7 @@ Frost came up white over her diamond rings. It climbed her knuckles to the wrist
 
 The white face tilted into her palm, leaning into the touch.
 
-"Useful to me," the entity said.
+"Useful..." the entity said.
 
 The sound came up through the stones softer this time, almost mimicking the warm cadence of the Madame's own voice.
 
@@ -161,8 +161,6 @@ The Madame's head went over to one side, farther than a head could go. The long 
 Victor couldn't move.
 
 He had chased her his whole career. He had wanted her dead for longer than that. He had pictured it a thousand ways, and none of them looked like this. One hand. Less than a second.
-
-His thumb had stopped on the striker of the lighter.
 
 Behind the body, her army stood in its rows. Nobody owned them now.
 
@@ -190,7 +188,7 @@ Victor raised the revolver. The rails woke against his palm.
 
 He fired straight into her face.
 
-The crack went flat across the stones. She hadn't seen it coming. Half her porcelain face came away in a spray of white crystal and torn bronze wire, spinning her head back toward him. One black eye sat in a socket of shattered glass, locking back onto Victor's face.
+The crack went flat across the stones. She hadn't seen it coming. Half her porcelain face came away in a spray of white crystal and torn bronze light, spinning her head back toward him. One black eye sat in a socket of shattered glass, locking back onto Victor's face.
 
 She forgot Harlan. She came straight at Victor.
 
@@ -207,8 +205,6 @@ Victor didn't see it come. The white hand was on him, and then it was gone, and 
 His legs went. The stones came up and hit his shoulder.
 
 He lay on his side on the frost. His breath went out white and came back smaller.
-
-Down the plaza, at the edge of the gorge, a man in a lab coat was getting up on one elbow. The two of them went past him toward the drop, and the army went with them.
 
 Someone was shouting his name.
 
