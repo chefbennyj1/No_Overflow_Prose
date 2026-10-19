@@ -73,7 +73,7 @@ Victor didn't slow his ascent. His black coat whipped at his ankles with each qu
 
 "We gotta get to Null before Corporate Renewal," Victor said, his gaze fixed on the landing above. "If Takeda-Holden finds them first, months of work will have been for nothing." Victor turned back, looking at Harlan on the landing below him. "And we want those mafia bastards."
 
-Victor reached the steel fire-door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—an augmented revolver resembling a relic snatched from another century. The gun's retrofitted magnetic rails vibrated with a low charge, and a red indicator light blinked, signifying its readiness to fire. 
+Victor reached the steel fire-door of the fifteenth-floor landing. The security lock was fried, a scorched mess of exposed wires. He didn't wait. Shoving the fire door open, he swept his weapon into the sterile hallway—an augmented revolver resembling a relic snatched from another century. The gun's retrofitted magnetic rails vibrated with a low charge, and a red indicator light blinked, signifying its readiness to fire. The rails woke against his palm, a charge crawling up into his wrist. 
 
 Victor stepped onto the landing in silence. At the opposite end of the hall, an executive suite door stood ajar, blue light bleeding through the gap. Behind him, the jammed elevator doors tried to close against a steel wrench. *Clunk-ding.* Victor noted the noise, his attention drawn quickly to the opened door. Through the opening, in the suite, he could see a section of the office's picture window; the glowing blue wireframe projections.
 
