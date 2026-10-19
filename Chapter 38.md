@@ -124,7 +124,7 @@ The Madame was already standing close in the frost, the long filter lowered from
 
 The cold of her fingers was still on his throat. A second ago he had been dead; now she wasn't even looking at him.
 
-The Madame looked up into the white face through her wire-rimmed glasses, her head in a slight bow, her eyes daring and hungry behind the lenses.
+The Madame looked up into the white face, her head in a slight bow, her eyes daring and hungry.
 
 "Takeda-Holden kept *you* in a box under that tower?" the Madame said softly, shaking her head as if it were a crime. "Such a shame they did that to you... And now, all this happening."
 
@@ -174,7 +174,7 @@ The entity didn't look down at the snow. She turned back to Victor.
 
 A gun fired from beside the wrecked cruiser.
 
-"Get away from him!" Harlan commanding shout echoed across snow, his service pistol kicking in both hands. He steadily emptied the magazine toward the porcelain figure.
+"Get away from him!" Harlan's commanding shout echoed across snow. His service pistol kicked in both hands, as he steadily emptied the magazine toward the porcelain figure.
 
 The entity didn't even turn her head. Without taking her black eyes off Victor, she raised her left hand to the side catching the bullets midair in her porcelain fist.
 
@@ -198,7 +198,7 @@ The crack went flat across the air. She hadn't seen it coming. Half her porcelai
 
 She forgot Harlan. She came straight at Victor.
 
-Her hand came up, open, the cold rolling off her fingers before she touched him.
+She raised her hand, open, the cold rolling off her fingers before she touched him.
 
 She laid her palm flat on his chest.
 
