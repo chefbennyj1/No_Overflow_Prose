@@ -37,7 +37,7 @@ The flakes of snow began to rise, drifting backward toward the sun.
 
 Above the plaza, the white figure broke away from the dark one and dove.
 
-It dropped like a spear, cutting straight down toward the edge of the gorge, and slammed into the plaza floor directly in front of Erin Adler. A torrent of fallen snow plumed beneath its feet, then slowed—locking mid-air in the disruption around it as Erin knelt on the frost.
+It dropped like a spear, cutting straight down toward the edge of the gorge, and slammed into the plaza floor directly in front of Erin Adler and the group she was with. A torrent of fallen snow plumed beneath its feet, then slowed—locking mid-air in the disruption around it as Erin knelt on the frost.
 
 The dark entity was behind it, too far back to reach her.
 
