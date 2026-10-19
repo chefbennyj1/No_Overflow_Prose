@@ -210,5 +210,5 @@ Someone was shouting his name.
 
 Harlan was running toward him across the frost, his tie flying loose. He was alive. 
 Over Harlan's shoulder, the sun had come up clear of the towers. It was in Victor's eyes, for the first time the light didn't hurt.
-Harlan's hands grab him and pulled him close.
+Harlan's hands grabbed him and pulled him close.
 A smile crossed his lips, and a final breath left his lungs across Harlan's arms. 
