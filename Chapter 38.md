@@ -5,7 +5,8 @@ Victor heard a sound rip across the plaza from above, two layered voices, like h
 
 A girl in a ragged coat and a yellow knitted hat fell out of the sky. Thirty yards past the cruiser, she hit the plaza floor.
 
-"No!" Harlan's voice was choked. "What is that thing?" 
+"No!" Harlan's voice was choked. "What is that thing?"
+
 Across from Victor, the Minder still had a gun pressed into Harlan's ribs, his eyes turned up toward the spire.
 
 Beside the open door, Victor's hand tightened on the revolver at his thigh. 
@@ -16,7 +17,7 @@ High up on the face of the tower, the steel caved inward around the white entity
 
 Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan, and took a deep breath when he saw him slowly steady himself to his feet, coughing in the snow.
 
-Beyond the wrecked cruiser, the Madame was still on her feet.  She had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
+Beyond the wrecked cruiser, the Madame was still on her feet. She had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
 
 There was nothing between Victor and the Madame's back. Nobody had a gun on Harlan anymore.
 
@@ -82,7 +83,7 @@ One voice, flat and calm. Nothing in the porcelain face moved. The sound resonat
 
 "Every one of them, from first breath to last. The probability of a second Ambiguity is zero." Her head tilted a fraction. "Yet here you stand. You, I see only here."
 
-Victor's eyes ran. *An Ambiguity?* Victor had heard that before.
+Victor's eyes ran. *An Ambiguity?*
 
 "Tell me..." The voice vibrated against his palm through the grip of the gun. "Are you a good man?"
 
@@ -208,7 +209,12 @@ He lay on his side on the frost. His breath went out white and came back smaller
 
 Someone was shouting his name.
 
-Harlan was running toward him across the frost, his tie flying loose. He was alive. 
-Over Harlan's shoulder, the sun had come up clear of the towers. It was in Victor's eyes, for the first time the light didn't hurt.
+Harlan was running toward him across the frost, his tie flying loose. He was alive.
+
+Over Harlan's shoulder, the sun had come up clear of the towers. It was in Victor's eyes.
+
+For the first time, the light didn't hurt.
+
 Harlan's hands grabbed him and pulled him close.
-A smile crossed his lips, and a final breath left his lungs across Harlan's arms. 
+
+A smile crossed his lips, and a final breath left his lungs across Harlan's arms.
