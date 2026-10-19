@@ -134,23 +134,21 @@ The Madame's voice dropped, warm, and velvety—the one Victor had heard her use
 
 "You don't belong in their basement," she said. "And you shouldn't have to dirty yourself with the insects down here. That army is mine." She gestured with an open palm toward the ranks behind her. "The police in this city are mine. Every street, every port, every terminal in Oshima answers to me—and I can lay all of it at your feet." A sycophantic smile pulled at the deep lines around her mouth. "Tell me what you want, and it's yours."
 
-The ceramic woman drifted closer to the Madame, the snow stopped falling between them. The Madame's eyes went once to the hole in her gut and came back to the porcelain face. The filter shook in the old woman's fingers.
+The ceramic woman drifted closer to the Madame, the snow stopped falling between them. The Madame's eyes went once to the hole in her gut and came back to the porcelain face. The filter shook in the old woman's fingers as the long black shadow fell over her.
 
-The long black shadow fell over the Madame and covered her to the feet.
+"There," the Madame whispered, breathless. "You see? You can be very useful to me—" She stopped. "We can be very useful to each other."
 
-"There," the Madame whispered, breathless. "You see? You can be very useful to—" She stopped. "We can be very useful to each other."
+She reached up, as if touching an altar, and laid her hand on the porcelain body.
 
-She reached up, as if touching an altar, and laid her hand on the porcelain cheek.
+Frost climbed over her diamond rings, from her knuckles to her wrist. 
 
-Frost came up white over her diamond rings. It climbed her knuckles to the wrist. 
-
-The white face tilted into her palm, leaning into the touch.
+The white face tilted, leaning into the touch.
 
 "Useful..." the entity said.
 
 The sound came up through the stones softer this time, almost mimicking the warm cadence of the Madame's own voice.
 
-The Madame's breath caught. Her smile widened, triumphant, the hunger in her eyes sharpening behind the wire-rimmed lenses. Victor could see it in the set of her shoulders—she was already measuring the leash.
+The Madame's smile widened, triumphant, a spark in her eyes sharpening. Victor could see it in the set of her shoulders—she was already measuring the leash.
 
 "Tell me what you want," the voice said through the frost, "and it's yours."
 
