@@ -15,11 +15,11 @@ Something dark dropped out of the sky—like the shadow of a woman—and landed 
 
 High up on the face of the tower, the steel caved inward around the white entity. The shockwave slammed into the plaza, ripping the Madame's cruiser off its magnetic cushion and flipping it onto its roof. Harlan was thrown clear across the fallen snow. Three tons of the cruiser's black steel came down on the Minder who was holding him, crushing him into the plaza floor under the crumpled frame. 
 
-Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan and let out a breath as his partner steadied himself to his feet, coughing in the snow.
+Victor hit the ground on his shoulder. He pushed himself up on one knee, his revolver still in his hand. He looked toward Harlan, and saw him steady himself to his feet, coughing in the snow. He let out a breath into the cold air.
 
-Down by the gorge, the dark entity dropped out of the sky a second time, threw a man in a white lab coat down onto the frost, and rose back into the fight.
+Above him, the two entities were creating havoc across the sky. He survey the plaza. All around him people were recovering from blast. Across the plaza Victor recognized one immediately, it was Erin Adler. 
 
-A knot of people pulled the doctor back from the edge. Victor knew one of them at a glance—Erin Adler.
+*This is what she meant. The Company was not in control*
 
 Beyond the wrecked cruiser, the Madame was still on her feet. She had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
 
