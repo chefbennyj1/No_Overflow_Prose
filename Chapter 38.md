@@ -164,25 +164,25 @@ The sound was small. A twig under a boot.
 
 The Madame's head went over to one side, farther than a head could go. The long filter dropped out of her fingers. The porcelain hand opened, and the Madame folded down into the snow and lay still. 
 
-Victor couldn't move.
+Victor remained motionless.
 
 He had chased her his whole career. He had wanted her dead for longer than that. He had pictured it a thousand ways, and none of them looked like this. One hand. Less than a second.
 
 Behind the body, her army stood in its rows. Nobody owned them now.
 
-She didn't look down at the snow. She turned back to Victor.
+The entity didn't look down at the snow. She turned back to Victor.
 
 A gun fired from beside the wrecked cruiser.
 
-"Get away from him!" Harlan shouted, his service pistol kicking in both hands, as he emptied the magazine.
+"Get away from him!" Harlan commanding shout echoed across snow, his service pistol kicking in both hands. He steadily emptied the magazine toward the porcelain figure.
 
 The entity didn't even turn her head. Without taking her black eyes off Victor, she raised her left hand to the side catching the bullets midair in her porcelain fist.
 
-Three cracks snapped against her palm. She opened her fingers, and three flattened bullets dropped onto the frost, steaming in the snow.
+they snapped against her palm. She opened her fingers, and the flattened bullets dropped onto the frost, steaming in the snow.
 
 Slowly, her head turned toward Harlan.
 
-Harlan's slide locked back on an empty chamber, his tie blowing loose across his vest. He didn't step back.
+Harlan's slide locked back on an empty chamber, his tie blowing loose across his vest. 
 
 She took a step toward him.
 
@@ -190,11 +190,11 @@ She took a step toward him.
 
 Victor raised the revolver. The rails woke against his palm.
 
-"Hey!" Victor yelled.
+"Hey! Far enough canner!" Victor yelled.
 
 He fired straight into her face.
 
-The crack went flat across the stones. She hadn't seen it coming. Half her porcelain face came away in a spray of white crystal and torn bronze light, spinning her head back toward him. One black eye sat in a socket of shattered glass, locking back onto Victor's face.
+The crack went flat across the air. She hadn't seen it coming. Half her porcelain face came away in a spray of white crystal and torn bronze light, spinning her head back toward him. One black eye sat in a socket of shattered glass, locking back onto Victor's face.
 
 She forgot Harlan. She came straight at Victor.
 
