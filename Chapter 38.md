@@ -134,7 +134,7 @@ The Madame's voice dropped, warm, and velvety—the one Victor had heard her use
 
 "You don't belong in their basement," she said. "And you shouldn't have to dirty yourself with the insects down here. That army is mine." She gestured with an open palm toward the ranks behind her. "The police in this city are mine. Every street, every port, every terminal in Oshima answers to me—and I can lay all of it at your feet." A sycophantic smile pulled at the deep lines around her mouth. "Tell me what you want, and it's yours."
 
-The ceramic woman drifted closer to the Madame over the frost, and the snow stopped falling between them. The Madame's eyes went once to the hole in her gut and came back to the porcelain face. The filter shook in the old woman's fingers, and she stilled it.
+The ceramic woman drifted closer to the Madame, the snow stopped falling between them. The Madame's eyes went once to the hole in her gut and came back to the porcelain face. The filter shook in the old woman's fingers.
 
 The long black shadow fell over the Madame and covered her to the feet.
 
@@ -150,7 +150,7 @@ The white face tilted into her palm, leaning into the touch.
 
 The sound came up through the stones softer this time, almost mimicking the warm cadence of the Madame's own voice.
 
-The Madame's breath caught. Her smile widened, triumphant, the hunger in her eyes sharpening behind the wire-rimmed lenses. She thought she had it. Victor could see it in the set of her shoulders—she was already measuring the leash.
+The Madame's breath caught. Her smile widened, triumphant, the hunger in her eyes sharpening behind the wire-rimmed lenses. Victor could see it in the set of her shoulders—she was already measuring the leash.
 
 "Tell me what you want," the voice said through the frost, "and it's yours."
 
@@ -174,11 +174,11 @@ Behind the body, her army stood in its rows. Nobody owned them now.
 
 She didn't look down at the snow. She turned back to Victor.
 
-A gun barked three times from beside the wrecked cruiser.
+A gun fired from beside the wrecked cruiser.
 
-"Get away from him!" Harlan shouted, his service pistol kicking in both hands.
+"Get away from him!" Harlan shouted, his service pistol kicking in both hands, as he emptied the magazine.
 
-The entity didn't even turn her head. Without taking her black eyes off Victor, she raised her left hand to the side and closed her porcelain fist in midair.
+The entity didn't even turn her head. Without taking her black eyes off Victor, she raised her left hand to the side catching the bullets midair in her porcelain fist.
 
 Three cracks snapped against her palm. She opened her fingers, and three flattened bullets dropped onto the frost, steaming in the snow.
 
