@@ -204,11 +204,11 @@ She laid her palm flat on his chest.
 
 The cold went in through his coat, and then it was inside him. His heart pushed once against it.
 
-Then the dark one hit her.
+Then the dark entity hit her.
 
-Victor didn't see it come. The white hand was on him, and then it was gone, and she went backward across the plaza with the dark one locked around her. 
+Victor didn't see it come. The white hand was on him, and then it was gone, and she went backward across the plaza with the dark figure locked around her. 
 
-His legs went. The stones came up and hit his shoulder.
+His legs went. His shoulder hit the plaza floor.
 
 He lay on his side on the frost. His breath went out white and came back smaller.
 
