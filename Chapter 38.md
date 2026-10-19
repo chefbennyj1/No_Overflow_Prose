@@ -20,7 +20,7 @@ Victor hit the ground on his shoulder. He pushed himself up on one knee, his rev
 
 "Still here, Vic!" 
 
-Above him, the two entities were creating havoc across the sky. He surveyed the plaza. All around him people were recovering from blast. Across the plaza Victor recognized one immediately, it was Erin Adler. 
+Above them, the two entities were creating havoc across the sky. He surveyed the plaza. All around him people were recovering from the blast. Across the plaza Victor recognized one immediately, it was Erin Adler. 
 
 *This is what she meant. The Company was not in control*
 
@@ -36,7 +36,7 @@ His finger pressed against the slack on the trigger.
 
 Overhead, the two entities tore at each other above the crowd. The east edge of the plaza broke away into the gorge with people still standing on it. The snow stopped falling. Ice crystals hung suspended in the morning sun, sparkling blue, violet, and green.
 
-Victor paused. It was beautiful.
+Victor paused. It was almost beautiful.
 
 He brought the front sight back to her head. He couldn't have asked for a cleaner moment to collect the life she owed him.
 
@@ -44,7 +44,7 @@ The flakes of snow began to rise, drifting backward toward the sun.
 
 Above the plaza, the white figure broke away from the dark one and dove.
 
-It dropped like a spear, cutting straight down toward the edge of the gorge, and slammed into the plaza floor directly in front of Erin Adler. A torrent of fallen snow plumed beneath its feet, then slowed—locking mid-air in the disruption around it as Erin knelt on the frost.
+It dropped like a spear, cutting straight down toward the edge of the gorge, and slammed into the plaza floor directly in front of Erin Adler. A torrent of fallen snow plumed beneath its feet, then slowed—locking mid-air in the disruption around it as Erin knelt on the snow. 
 
 The dark entity was behind it, too far back to reach her.
 
@@ -60,7 +60,7 @@ Victor could see the frost through it. The plaza beyond, the dark edge of the go
 
 It turned its head and looked at him.
 
-His eyes watered at once. The glare of it burned through the tears, and he blinked hard, forcing himself to look.
+His eyes watered at once. The reflection of the morning sun glared of it, burning through the tears in his eyes. He blinked hard, forcing himself to look.
 
 It glided toward him a foot above the ground, its black eyes locked squarely on Victor's albinotic ones.
 
