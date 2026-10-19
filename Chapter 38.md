@@ -11,15 +11,15 @@ Across from Victor, the Minder still had a gun pressed into Harlan's ribs, his e
 
 Beside the open door, Victor's hand tightened on the revolver at his thigh. 
 
-Something dark dropped out of the sky. Like a shadow of a woman. It landed on its knees beside the dead girl. Its eyes glowed burning hot. Something triggered inside Victor's memory. He recognized the sheen. The shadow turned its gaze upward, and shot straight up toward the spire.
+Something dark dropped out of the sky—like the shadow of a woman—and landed on its knees beside the dead girl. Its eyes burned blue-white. Victor knew that sheen. The shadow turned its gaze upward and shot straight for the spire.
 
 High up on the face of the tower, the steel caved inward around the white entity. The shockwave slammed into the plaza, ripping the Madame's cruiser off its magnetic cushion and flipping it onto its roof. Harlan was thrown clear across the fallen snow. Three tons of the cruiser's black steel came down on the Minder who was holding him, crushing him into the plaza floor under the crumpled frame. 
 
-Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan, and took a deep breath when he saw him slowly steady himself to his feet, coughing in the snow.
+Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan and let out a breath as his partner steadied himself to his feet, coughing in the snow.
 
 Down by the gorge, the dark entity dropped out of the sky a second time, threw a man in a white lab coat down onto the frost, and rose back into the fight.
 
-Victor's eyes followed it. A group of people were picking themselves up at the edge of the drop. One of them he immediately recognized, Erin Adler.
+A knot of people pulled the doctor back from the edge. Victor knew one of them at a glance—Erin Adler.
 
 Beyond the wrecked cruiser, the Madame was still on her feet. She had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
 
@@ -27,7 +27,7 @@ There was nothing between Victor and the Madame's back. Nobody had a gun on Harl
 
 Victor got to his feet and raised the revolver.
 
-The rails woke against his palm, a charge crawling up into his wrist. He settled the front sight square on the back of the Madame's head, right above the collar of her white silk. Everything his father had been—every visit, an old man hollowed out as a Minder and left to rot in front of a cracked window—sat at the end of the barrel.
+The rails woke against his palm, a charge crawling up into his wrist. He settled the front sight square on the back of the Madame's head, right above the collar of her white silk. Everything his father had been—every visit, an old man hollowed out as a Minder and left to rot—sat at the end of the barrel.
 
 His finger pressed against the slack on the trigger.
 
@@ -35,7 +35,7 @@ Overhead, the two entities tore at each other above the crowd. The east edge of 
 
 Victor paused. It was beautiful.
 
-He focused the sight back on the Madame. He couldn't have found a more perfect moment to collect the Madame's debt—to make her pay. 
+He brought the front sight back to her head. He couldn't have asked for a cleaner moment to collect her debt.
 
 The flakes of snow began to rise, drifting backward toward the sun.
 
@@ -51,13 +51,13 @@ His finger eased the tension off the trigger. He let out a breath that fogged in
 
 The revolver kicked hard in his hand. Smoke came off the rails in a thin gray line and bent away on the wind.
 
-Above the gorge, the white entity hung in the air with a hole through its gut. He had put a hole in it. 
+Above the gorge, the white entity hung in the air with a hole through its gut.
 
 Victor could see the frost through it. The plaza beyond, the dark edge of the gorge. Nothing ran out of the wound. The edges of it were white.
 
 It turned its head and looked at him.
 
-His eyes watered at once. The white of the entity burned into his eyes. He blinked hard and made himself look. 
+His eyes watered at once. The glare of it burned through the tears, and he blinked hard, forcing himself to look.
 
 It glided toward him a foot above the ground, its black eyes locked squarely on Victor's albinotic ones.
 
@@ -83,7 +83,7 @@ The black eyes locked on his face.
 
 "I see every life," she spoke. 
 
-One voice, flat and calm. Nothing in the porcelain face moved. The sound resonated up through the steel in the collapsing building, under his boots, and the steel of the revolver in his hand.
+One voice, flat and calm. Nothing in the porcelain face moved. The sound resonated through the groaning frame of the tower, the stones under his boots, and the steel of the revolver in his hand.
 
 "Every one of them, from first breath to last. The probability of a second Ambiguity is zero." Her head tilted a fraction. "Yet here you stand. You, I see only here."
 
@@ -99,7 +99,7 @@ Whatever they were, they were the same thing.
 
 "No," Victor said.
 
-Her black eyes stayed on him. Nothing in her face moved. He steadied the weight of his revolver, securing his grip.
+Her black eyes stayed on him. Nothing in her face moved. He tightened his grip on the revolver.
 
 He didn't run.
 
@@ -107,7 +107,7 @@ Her hand came up toward his throat. The cold came off her fingers before they re
 
 Victor didn't look away.
 
-The hand stopped—hanging there, next to his skin. Her face hovered close to Victor's, but the focus changed, her black eyes shifted upward.
+The hand stopped a breath from his skin. Her face hovered close to his, then her focus shifted—her black eyes looking past him.
 
 "So, this is Takeda-Holden's big secret, is it?"
 
@@ -119,7 +119,7 @@ Victor dropped to a knee, taking in a ragged breath. Harlan started forward to h
 
 The Madame was already standing close in the frost, the long filter lowered from her mouth. Snow had settled on the shoulders of her white silk. Behind her, her army had stopped dead against the Renewal line on the tower steps. Hundreds of serials glowed at the exact same height. Not one of them moved.
 
-Victor knelt with the revolver at his side. He had felt the cold of those fingers on his throat. He had been dead. Now she had turned her back on him, and the Madame had her attention.
+The cold of her fingers was still on his throat. A second ago he had been dead; now she wasn't even looking at him.
 
 The Madame looked up into the white face through her wire-rimmed glasses, her head in a slight bow, her eyes daring and hungry behind the lenses.
 
@@ -153,7 +153,7 @@ The Madame's breath caught. Her smile widened, triumphant, the hunger in her eye
 
 "Yes," the Madame whispered.
 
-The entity slowly raised her white hand. Her porcelain fingers delicately brushing the collar of the Madame's silk.
+The entity slowly raised her white hand, porcelain fingers brushing the collar of the Madame's silk.
 
 "I see you whole, Madame," she said softly. "Every way you end. And in all of them, you give me everything I want."
 
@@ -175,7 +175,7 @@ A gun barked three times from beside the wrecked cruiser.
 
 "Get away from him!" Harlan shouted, his service pistol kicking in both hands.
 
-The entity didn't even turn her head. She knew Harlan's whole life—she had already seen every bullet before his finger found the trigger. Without taking her black eyes off Victor, she raised her left hand to the side and closed her porcelain fist in midair.
+The entity didn't even turn her head. Harlan wasn't a blind spot—she had seen every bullet before his finger found the trigger. Without taking her black eyes off Victor, she raised her left hand to the side and closed her porcelain fist in midair.
 
 Three cracks snapped against her palm. She opened her fingers, and three flattened brass-and-lead slugs dropped onto the frost, steaming in the snow.
 
