@@ -110,7 +110,7 @@ Her hand came up toward his throat. The cold came off her fingers before they re
 
 Victor didn't look away.
 
-The hand stopped a breath from his skin. Her face hovered close to his, then her focus shifted—her black eyes looking past him.
+The hand stopped above his skin. Her face hovered close to his, then her focus shifted—her black eyes looking past him.
 
 "So, this is Takeda-Holden's big secret, is it?"
 
@@ -138,7 +138,7 @@ The ceramic woman drifted closer to the Madame, the snow stopped falling between
 
 "There," the Madame whispered, breathless. "You see? You can be very useful to me—" She stopped. "We can be very useful to each other."
 
-She reached up, as if touching an altar, and laid her hand on the porcelain body.
+She reached up, as if touching an altar, and laid her hand on the entities porcelain face.
 
 Frost climbed over her diamond rings, from her knuckles to her wrist. 
 
@@ -150,11 +150,9 @@ The sound came up through the stones softer this time, almost mimicking the warm
 
 The Madame's smile widened, triumphant, a spark in her eyes sharpening. Victor could see it in the set of her shoulders—she was already measuring the leash.
 
-"Tell me what you want," the voice said through the frost, "and it's yours."
+The entity slowly raised her white hand, porcelain fingers brushing the collar of the Madame's silk.
 
 "Yes," the Madame whispered.
-
-The entity slowly raised her white hand, porcelain fingers brushing the collar of the Madame's silk.
 
 "I see you whole, Madame," she said softly. "Every way you end. And in all of them, you give me everything I want."
 
@@ -174,7 +172,7 @@ The entity didn't look down at the snow. She turned back to Victor.
 
 A gun fired from beside the wrecked cruiser.
 
-"Get away from him!" Harlan's commanding shout echoed across snow. His service pistol kicked in both hands, as he steadily emptied the magazine toward the porcelain figure.
+"Get away from him!" Harlan's commanding shout echoed across the snow. His service pistol kicked in both hands, as he steadily emptied the magazine toward the porcelain figure.
 
 The entity didn't even turn her head. Without taking her black eyes off Victor, she raised her left hand to the side catching the bullets midair in her porcelain fist.
 
@@ -186,7 +184,7 @@ Harlan's slide locked back on an empty chamber, his tie blowing loose across his
 
 She took a step toward him.
 
-*No.* Harlan had a wife packing boxes. He had a ticket out of Oshima.
+*No.* Harlan had a wife packing boxes. He had a way out of Oshima.
 
 Victor raised the revolver. The rails woke against his palm.
 
@@ -194,7 +192,7 @@ Victor raised the revolver. The rails woke against his palm.
 
 He fired straight into her face.
 
-The crack tore through the open air. She hadn't seen it coming. Half her porcelain face sprayed away in white crystals and bronze light, spinning her head back toward him. One black eye sat in a socket of shattered glass, locking back onto Victor's face.
+The crack tore through the open air. She hadn't seen it coming. Half her porcelain face sprayed away in white crystals and bronze light. Spinning her head back toward him, one black eye sat in a socket of shattered glass, locking back onto Victor's face.
 
 She raised her hand, open, the cold rolling off her fingers before she touched him.
 
@@ -206,7 +204,7 @@ Then the dark entity hit her.
 
 Victor didn't see it come. The white hand was on him, and then it was gone, and she went backward across the plaza with the dark figure locked around her. 
 
-His legs went. His shoulder hit the plaza floor.
+His legs gave out. His shoulder hit the plaza floor.
 
 He lay on his side on the frost. His breath went out long and came back shorter.
 
