@@ -17,6 +17,10 @@ High up on the face of the tower, the steel caved inward around the white entity
 
 Victor hit the ground on his shoulder and came up on one knee, his revolver still in his hand. He looked toward Harlan, and took a deep breath when he saw him slowly steady himself to his feet, coughing in the snow.
 
+Down by the gorge, the dark entity dropped out of the sky a second time, threw a man in a white lab coat down onto the frost, and rose back into the fight.
+
+Victor's eyes followed it. A group of people were picking themselves up at the edge of the drop. One of them he immediately recognized, Erin Adler.
+
 Beyond the wrecked cruiser, the Madame was still on her feet. She had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
 
 There was nothing between Victor and the Madame's back. Nobody had a gun on Harlan anymore.
@@ -37,7 +41,7 @@ The flakes of snow began to rise, drifting backward toward the sun.
 
 Above the plaza, the white figure broke away from the dark one and dove.
 
-It dropped like a spear, cutting straight down toward the edge of the gorge, and slammed into the plaza floor directly in front of Erin Adler and the group she was with. A torrent of fallen snow plumed beneath its feet, then slowed—locking mid-air in the disruption around it as Erin knelt on the frost.
+It dropped like a spear, cutting straight down toward the edge of the gorge, and slammed into the plaza floor directly in front of Erin Adler. A torrent of fallen snow plumed beneath its feet, then slowed—locking mid-air in the disruption around it as Erin knelt on the frost.
 
 The dark entity was behind it, too far back to reach her.
 
