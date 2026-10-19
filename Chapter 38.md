@@ -190,7 +190,7 @@ She took a step toward him.
 
 Victor raised the revolver. The rails woke against his palm.
 
-"Hey! Far enough canner!" Victor yelled.
+"Hey! That's far enough canner!" Victor yelled.
 
 He fired straight into her face.
 
