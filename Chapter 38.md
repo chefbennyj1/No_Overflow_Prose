@@ -208,12 +208,8 @@ He lay on his side on the frost. His breath went out white and came back smaller
 
 Someone was shouting his name.
 
-Harlan was running toward him across the frost, his tie flying loose. Going the wrong way. He was supposed to be leaving.
+Harlan was running toward him across the frost, his tie flying loose. He was alive. 
+Over Harlan's shoulder, the sun had come up clear of the towers. It was in Victor's eyes, for the first time the light didn't hurt.
 
-Victor wanted to tell him to go home. His mouth wouldn't make it.
-
-Over Harlan's shoulder, the sun had come up clear of the towers. It was in Victor's eyes.
-
-It didn't hurt.
-
-He kept them open.
+He looked toward the Madame's body lifeless in the snow. 
+A smile crossed his lips, a final breath left his lungs over Harlan's cradling arms. 
