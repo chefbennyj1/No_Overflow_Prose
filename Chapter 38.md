@@ -64,7 +64,7 @@ His eyes watered at once. The reflection of the morning sun glared of it, burnin
 
 It glided toward him a foot above the ground, its black eyes locked squarely on Victor's albinotic ones.
 
-A man scrambling across the frost stumbled into its path. Without turning its head, the man was lifted off his feet and twisted in the air, then dropped lifeless in the snow.
+A man scrambling across the frost stumbled into its path. Without turning its head, a man in the plaza was lifted off his feet, twisted in the air, and dropped lifeless in the snow.
 
 "Vic!" Harlan called out from behind the wrecked cruiser. "What are you doing?"
 
