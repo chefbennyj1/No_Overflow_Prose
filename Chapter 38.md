@@ -130,7 +130,7 @@ The ceramic woman drifted closer to the Madame over the frost, and the snow stop
 
 The long black shadow fell over the Madame and covered her to the feet.
 
-"There," the Madame whispered, breathless. "You see? I can be very we can be very useful to each other."
+"There," the Madame whispered, breathless. "You see? You can be very useful to—" She stopped. "We can be very useful to each other."
 
 She reached up, as if touching an altar, and laid her hand on the porcelain cheek.
 
