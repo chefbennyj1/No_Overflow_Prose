@@ -86,7 +86,7 @@ The black eyes locked on his face.
 
 "I see every life," she spoke. 
 
-One voice, flat and calm. Nothing in the porcelain face moved. The sound resonated through the groaning frame of the tower, the stones under his boots, and the steel of the revolver in his hand.
+One voice, flat and calm. Nothing in the porcelain face moved. The sound resonated through the groaning frame of the tower and the steel of the revolver in his hand.
 
 "Every one of them, from first breath to last. The probability of a second obscurity is zero." Her head tilted a fraction. "Yet here you stand. You, I see only here."
 
@@ -194,13 +194,11 @@ Victor raised the revolver. The rails woke against his palm.
 
 He fired straight into her face.
 
-The crack went flat across the air. She hadn't seen it coming. Half her porcelain face came away in a spray of white crystal and torn bronze light, spinning her head back toward him. One black eye sat in a socket of shattered glass, locking back onto Victor's face.
-
-She forgot Harlan. She came straight at Victor.
+The crack tore through the open air. She hadn't seen it coming. Half her porcelain face sprayed away in white crystals and bronze light, spinning her head back toward him. One black eye sat in a socket of shattered glass, locking back onto Victor's face.
 
 She raised her hand, open, the cold rolling off her fingers before she touched him.
 
-She laid her palm flat on his chest.
+She laid her palm flat on Victors chest.
 
 The cold went in through his coat, and then it was inside him. His heart pushed once against it.
 
@@ -210,7 +208,7 @@ Victor didn't see it come. The white hand was on him, and then it was gone, and 
 
 His legs went. His shoulder hit the plaza floor.
 
-He lay on his side on the frost. His breath went out white and came back smaller.
+He lay on his side on the frost. His breath went out long and came back shorter.
 
 Someone was shouting his name.
 
