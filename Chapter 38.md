@@ -210,6 +210,4 @@ Someone was shouting his name.
 
 Harlan was running toward him across the frost, his tie flying loose. He was alive. 
 Over Harlan's shoulder, the sun had come up clear of the towers. It was in Victor's eyes, for the first time the light didn't hurt.
-
-He looked toward the Madame's body lifeless in the snow. 
-A smile crossed his lips, then a final breath left his lungs over Harlan's cradling arms. 
+A smile crossed his lips; a final breath left his lungs in Harlan's arms. 
