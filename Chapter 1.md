@@ -62,7 +62,7 @@ Below Blackwell, the engine responded. Dense fog pooling at the base of the pill
 
 The mechanical drone of the reactor shifted into a rhythmic pulse, a vibration creeping through the concrete and into their bones. 
 
-Blackwell’s smile widened. The rhythm of the engine resonated through the bedrock, though the rail and into his palms. He tightened his grip on the rail, and watched the data stream, fascinated by the magnitude of the activation. He was unaffected by the reverberating force of his creation. 
+Blackwell’s smile widened. He watched the data stream. The rhythm of the engine resonated through the bedrock, though the rail and into his palms. He tightened his grip and took in his creation. The magnitude of the activation was fascinating. 
 
 The Board watched from their remote offices, certain distance would keep them safe. They didn’t understand, if containment failed, the rupture would swallow them as easily as the lab. 
 
