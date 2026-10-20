@@ -62,11 +62,12 @@ Below Blackwell, the engine responded. Dense fog pooling at the base of the pill
 
 The mechanical drone of the reactor shifted into a rhythmic pulse, a vibration creeping through the concrete and into their bones. 
 
-Blackwell’s smile widened. He watched the data stream. The rhythm of the engine resonated through the bedrock, though the rail and into his palms. He tightened his grip and took in his creation. The magnitude of the activation was fascinating. 
+Blackwell’s smile widened. He watched the data stream. The rhythm—the heartbeat of the engine resonated through the bedrock, though the rail and into his palms. He tightened his grip and took in his creation. The magnitude of the activation was fascinating. 
 
 The Board watched from their remote offices, certain distance would keep them safe. They didn’t understand, if containment failed, the rupture would swallow them as easily as the lab. 
 
-Behind him, the technicians exchanged nervous glances and stepped back from the railing. The machine unsettled them. Blackwell remained unbothered. 
+Behind him, the technicians exchanged nervous glances and stepped back from the railing. The machine unsettled them. 
+Blackwell leaned in. 
 
 Elena stepped up to the railing, studying a datapad in her hand, her tense posture relaxing a fraction. "The initialization sequence is holding steady," she said, a rare note of satisfaction bleeding into her voice. She stepped closer to him, so only he could hear, "The containment calculations were flawless, Silas. You calculated activation. Congratulations."
 
