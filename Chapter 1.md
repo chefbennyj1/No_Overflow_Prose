@@ -7,7 +7,7 @@ Silas Blackwell took a drag from his cigarette, the ember flaring against the bl
 
 He didn’t own any of it. He couldn’t buy a square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The rain had cleared the air, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the company's alloy railing. There were no stacked billboards up here; the corporate elite didn't need to be sold. The walkways were empty this early—New Veridia was a sleeping monster, ready to awake.
+The rain had cleared the air, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the company's alloy railing. No stacked billboards cluttered the view at this altitude; nobody had to sell anything to the corporate elite. The walkways were empty this early—New Veridia was a sleeping monster, ready to awake.
 
 He didn't need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
@@ -35,7 +35,7 @@ When the doors parted, the air inside the lab moved with a low vibration. It was
 
 Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. They worked diligently checking the data on their screens. Blackwell approached the reinforced railing that encircled the center of the pit. The metal was cold. He gripped the rail.
 
-Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock. Farther than anyone in this room had been allowed to see. Blackwell had stood at this rail on a hundred nights in the empty lab, and every time, he felt the cold breath of the engine rising from the pit. 
+Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock. Farther down than anyone in this room had been allowed to see. Blackwell had stood at this rail on a hundred nights in the empty lab, and every time, he felt the cold breath of the engine rising from the pit. 
 What ascended through the facility's foundation, and protruded into this observation chamber was a cluster of white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
 
 Recirculated cooling gas rolled across the engine pit, hiding the floor beneath. It curled round the pillars and poured over the edges of the floor, stabilizing the dormant core. The great engine was powered down, silent and waiting.
