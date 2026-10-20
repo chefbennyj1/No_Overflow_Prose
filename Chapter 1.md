@@ -118,7 +118,7 @@ A monotone voice echoed from the display grid above. "Satisfactory, Blackwell," 
 
 Blackwell scoffed. "Humph."
 
-Elena shot an apprehensive glance toward the panels. "What the Doctor means is, we are glad that today has been a success."
+Elena glance toward the panels. "What the Doctor means is, we are glad that today has been a success."
 
 "Progress will be monitored," another executive replied. The connection severed.
 
@@ -129,9 +129,15 @@ Blackwell turned, giving her his undivided attention for the first time.  She wa
 
 Elena shook her head. He watched her decide to believe him. "You know, it wouldn't hurt you to talk to the Board." She turned, glancing back over the console floor behind them. "You are the lead."
 
-The cigarette was still unlit between his lips. He wanted a drag. Blackwell returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Elena and the technicians monitored the event horizon, Blackwell observed the real experiment begin. 
+The cigarette was still unlit between his lips. He wanted a drag. 
 
-Listed in the logs, record of a shadow process, quietly expanding in the core. Blackwell caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus to a second synthetic on the far side of the room. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
+Blackwell returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Elena and the technicians monitored the event horizon, Blackwell observed the real experiment begin. 
+
+Listed in the logs, record of a shadow process, quietly expanding in the core. 
+
+His teeth closed on the filter of the unlit cigarette. *There it was.*
+
+Blackwell caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus to a second synthetic on the far side of the room. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
 
 "I don't like the Board," Blackwell said, keeping his gaze fixed on the engine.
 
