@@ -31,9 +31,9 @@ The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden ha
 
 Blackwell turned and walked past Elena, stepping through the sliding glass doors into the corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles of polished concrete soared above and plunged below them. 
 
-The building's tinted black glass refracted the rising sun, its rays shifting down forty floors below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent. He watched her form the corner of his eye. Her lips moved without a sound, her thumb tapped the edge of her datapad. Five years as his second-in-command, and she still treated the Board with too much reverence. He had picked her for her brilliance—though today, her nerves would make her useful. 
+The building's tinted black glass refracted the rising sun, its rays shifting down forty floors below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent. He watched her from the corner of his eye. Her lips moved without a sound, her thumb tapped the edge of her datapad. Five years as his second-in-command, and she still treated the Board with too much reverence. He had picked her for her brilliance—though today, her nerves would make her useful. 
 
-The lift dropped dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab. When the doors parted, the air inside the lab moved with a low vibration. It was the city's reactor, channeling into the floor beneath their feet.
+The lift dropped dozens of floors, past the bottom of the main atrium and into the Mnemosyne Lab. When the doors parted, the air inside the lab moved with a low vibration. It was the city's reactor, channeling into the floor beneath their feet.
 
 Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. They worked diligently checking the data on their screens. Blackwell approached the reinforced railing that encircled the center of the pit. The metal was cold. He gripped the rail.
 
@@ -80,7 +80,7 @@ Elena stepped up to the railing, studying a datapad in her hand, her tense postu
 
 "Of course they were," Blackwell said, the unlit cigarette bobbing between his lips.
 
-On the executive display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval. Predatory interest. The Takeda-Holden Corporation was watching their investment come to life. Beside him, Elena squared her shoulders and stiffened under the executive gaze. 
+On the executive display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval. Predatory interest. The Takeda-Holden Corporation was watching their investment come to life. 
 
 "Doctor Blackwell, Ma'am." 
 
