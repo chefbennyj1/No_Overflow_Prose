@@ -13,9 +13,9 @@ He didn't need to turn around to know he was no longer alone. The faint hiss of 
 
 Blackwell's voice was calm, carrying over the wind. "Are we ready, Miss Marlowe?" 
 
-Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat stood out against the polished concrete of the atrium pillars behind her. A gust of wind whipped the terrace, pushing her natural, shoulder-length hair across the dark skin of her face.
+Elena Marlowe stood in the terrace entrance, framed by the glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat fell to her ankles, a gust of wind whipped the terrace, pushing her shoulder-length hair across the dark skin of her face.
 
-"Yes, Doctor Blackwell," she replied. Her golden eyes darted constantly, tracking the weather calculations on the door's blue holographics.
+"Yes, Doctor Blackwell," she replied. 
 
 *Nervous*, Blackwell thought, *and she should be*. 
 
@@ -23,7 +23,9 @@ Elena Marlowe stood in the terrace entrance, framed by the cool glow of the holo
 
 Raising his cigarette to his lips one last time, the doctor inhaled until the end burned close to the filter. He held the smoke in his lungs for another long second, then exhaled and dropped the butt over the edge of the railing.
 
-The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a necessary filter. It formed an opaque floor of vapor, swallowing the corroded foundations of the lower city. The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima, they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
+The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a necessary filter. It formed an opaque floor between him and the corroded foundations of the lower city. 
+
+The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima, they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
 Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles soared above and plunged below them. The building's tinted black glass refracted the rising sun, its rays shifting down forty floors below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
 
@@ -63,7 +65,7 @@ Below Blackwell, the engine responded. Dense fog pooling at the base of the pill
 
 The mechanical drone of the reactor shifted into a rhythmic pulse, a vibration creeping through the concrete and into their bones. 
 
-Blackwell’s smile widened. He watched the data stream, read every line as it fell. He was looking for one. The rhythm—the heartbeat of the engine—resonated through the bedrock, through the rail and into his palms. He tightened his grip and took in the magnitude of his creation. The magnitude of the activation was fascinating. 
+Blackwell’s smile widened. He watched the data stream, read every line as it fell. He was looking for one. The rhythm—the heartbeat of the engine—resonated through the bedrock, through the rail and into his palms. He tightened his grip and took in the magnitude of his creation.  
 
 The Board watched from their remote offices, certain distance would keep them safe. They didn’t understand, if containment failed, the rupture would swallow them as easily as the lab. 
 
