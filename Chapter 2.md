@@ -55,9 +55,13 @@ The blue holographic data on the glass was a scaled projection of the exact same
 
 Rin moved away from the desk. She stepped back until the wireframe on the glass lined up with the skyline behind it. The projection perfectly eclipsed a building in the distance. Whatever Blackwell was monitoring, it was in that tower, and it had been tearing at the city's power grid for the better part of a month.
 
-Before she could dig deeper, the authorization download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive. Down the hall, the elevator jammed against the wrench once more, chiming as the doors recoiled. Rin froze with the drive in her palm, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. 
+Before she could dig deeper, the authorization download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive—her own drive. Down the hall, the elevator jammed against the wrench once more, chiming as the doors recoiled. 
 
-She connected the red drive to the terminal. Her fingers instinctively hooked the loose strand of hair back behind her ear before she hammered the key to start the copy.
+Rin stood with the drive in her palm, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. The Madame of the Filament was paying her scraps for janitor codes, and the Company was bleeding the lower city's power grid.
+
+*Always keep an ace for yourself.*
+
+She jammed the red drive to the terminal, hooked the loose strand of hair back behind her ear, and hammered the key to start the copy.
 
 ***
 
