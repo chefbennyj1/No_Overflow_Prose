@@ -27,7 +27,9 @@ The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a n
 
 The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima, they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
-Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles of polished concrete soared above and plunged below them. The building's tinted black glass refracted the rising sun, its rays shifting down forty floors below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
+Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles of polished concrete soared above and plunged below them. 
+
+The building's tinted black glass refracted the rising sun, its rays shifting down forty floors below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
 
 When the doors parted, the air inside the lab moved with a low vibration. It was the city's reactor, channeling into the floor beneath their feet.
 
