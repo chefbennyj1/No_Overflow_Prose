@@ -49,13 +49,13 @@ A humorless breath fogged the glass. "What I'm building will pioneer a new era."
 
 "Doctor Blackwell. Silas." Elena's voice interrupted, a note of warning creeping into her tone. "The board dialed in."
 
-Above the primary consoles, a wall sized display flickered to life. The encrypted feed partitioned the screen into a grid of digital monitors. Each square displayed nothing but the featureless silhouette of a corporate executive.
+Above the primary consoles, a wall sized display flickered to life. The encrypted feed partitioned the screen into a grid of digital monitors. Each square displayed the featureless silhouette of a corporate executive.
 
 "Perfect," Blackwell said, his lip curling. "Right on schedule."
 
 "The Takeda-Holden Corporation expects success today, Blackwell," a voice echoed from the grid.
 
-Blackwell didn't bother to look back at the screen or at Elena, keeping his gaze fixed on the dormant core below. "Very well, Miss Marlowe," he murmured. "Give them a show."
+Blackwell didn't bother to look back at the screen or at Elena, keeping his gaze fixed on the dormant core. "Very well, Miss Marlowe," he murmured. "Give them a show."
 
 Elena didn't blink. She remained where she was, her posture shifting from subordinate to commander as she leaned into the microphone of the control room.  There was a quick succession of two tones over the speaker system. Technicians in white coats looked up from their consoles.
 
@@ -63,11 +63,11 @@ Elena didn't blink. She remained where she was, her posture shifting from subord
 
 The room erupted into a synchronized motion.
 
-Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog in a spectral light.
+Below Blackwell, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog.
 
 The mechanical drone of the reactor shifted into a rhythmic pulse, a vibration creeping through the concrete and into their bones. 
 
-Blackwell’s smile widened. He watched the data stream, read every line as it fell. He was looking for one. The rhythm—the heartbeat of the engine—resonated through the bedrock, through the rail and into his palms. He tightened his grip and took in the magnitude of his creation.  
+Blackwell’s smile widened. He watched the data streams, read every line as it fell. He was looking for one. The rhythm—the heartbeat of the engine—resonated through the bedrock, through the rail and into his palms. He tightened his grip and took in the magnitude of his creation.  
 
 The Board watched from their remote offices, certain distance would keep them safe. They didn’t understand, if containment failed, the rupture would swallow them as easily as the lab. 
 
