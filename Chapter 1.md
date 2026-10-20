@@ -1,9 +1,9 @@
 ---
-music: Parity.mp3
+music: Into_The_Engine.mp3
 ---
 The Mnemosyne Engine was built to tear a hole through the known universe and fill it with the mass of an anti-star.
 
-Silas Blackwell took a drag from his cigarette, the ember flaring against the blues and ivory color of the early morning sky. A mop of white hair blew untamed in the morning wind, a contradiction to the sharp, reverent lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He stood behind a pair of circular dark glasses, breathing a thin stream of smoke from his lips. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
+Silas Blackwell took a drag from his cigarette, the ember flaring against the blues and ivory color of the early morning sky. A mop of white hair blew untamed in the morning wind, a contradiction to the sharp lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He stood behind a pair of circular dark glasses, breathing a thin stream of smoke from his lips. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
 He didn’t own any of it. He couldn’t buy a square foot of the platinum composite he was standing on. The tower belonged to the "Company," Takeda-Holden Corporation—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
@@ -13,11 +13,11 @@ He didn't need to turn around to know he was no longer alone. The faint hiss of 
 
 Blackwell's voice was calm, carrying over the wind. "Are we ready, Miss Marlowe?" 
 
-Elena Marlowe stood in the terrace entrance, framed by the glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat fell to her ankles, a gust of wind whipped the terrace, pushing her shoulder-length hair across the dark skin of her face.
+Elena Marlowe stood in the terrace entrance, framed by the glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat fell to her ankles. A gust of wind whipped the terrace, pushing her shoulder-length hair across the dark skin of her face.
 
 "Yes, Doctor Blackwell," she replied. 
 
-*Nervous*, Blackwell thought, *and she should be*. 
+Elena didn't sound like herself. *Nervous*, Blackwell thought, *and she should be*. 
 
 "The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But, you've got the three hundred and twenty terawatts," she said.
 
@@ -27,7 +27,7 @@ The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a n
 
 The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima, they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
-Blackwell turned and walked past Elena, stepping through the sliding glass doors into the Takeda-Holden corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles of polished concrete soared above and plunged below them. 
+Blackwell turned and walked past Elena, stepping through the sliding glass doors into the corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles of polished concrete soared above and plunged below them. 
 
 The building's tinted black glass refracted the rising sun, its rays shifting down forty floors below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent, dropping dozens of floors down, past the bottom of the main atrium and into the Mnemosyne Lab.
 
