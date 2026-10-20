@@ -1,0 +1,667 @@
+Delivered-To: chefbennyj@gmail.com
+Received: by 2002:a05:6638:af58:b0:619:e017:d9eb with SMTP id k24csp6254311jag;
+        Tue, 20 Oct 2026 13:44:40 -0700 (PDT)
+X-Received: by 2002:a05:6214:766:b0:917:8783:341 with SMTP id 6a1803df08f44-91bdf3e1e3bmr213580576d6.45.1792529080616;
+        Tue, 20 Oct 2026 13:44:40 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1792529080; cv=none;
+        d=google.com; s=arc-20260327;
+        b=hRRxojwoBlazK421pxi+XOF1Nj5IJgEor0cgtpk8+5+oecVLj8gRQuWZBzsth3qPTx
+         WM6x8YgqlfGm+/O2PCsWkLAfarXIGXiUwNWYToiMNlithxZE8xpaQeh87fELiKsRF2Yd
+         TPwWjMD5Nn06rHp2ZfbtrQeh7KAVNr+BZ3/btz1BbnntGF5jyyYmROtxSvyyEJXHtHCF
+         /ffQb6JdWBJnqjYssh5DbVKzx2NCkZFh1Jw5T2JiSdp3UMS9p3sdTEihYHYf21GNDoNF
+         zU+hg5HqG0XKLH3QO1uptKfD1576V2v2ebM4ax+5jZg23eBnJdaUrb93vTI35g6I6mVn
+         qF4g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20260327;
+        h=feedback-id:mime-version:date:message-id:subject:reply-to:to:from
+         :dkim-signature:dkim-signature;
+        bh=auHv/1v0nN1pBqNhD5HVTZVOql4BrfrGtHQFDX6jPV4=;
+        fh=N9mZzAGuiZxOwQh6sz++DGW6VveWtG1+MFTqcyvuoWg=;
+        b=WDgn90ifL0E5Kc3CJh8IG3g4Hf+C8Q/nE9KVM+S8E0Aw4Isel+ZkXVS8kOVvvxUhvR
+         O1oNtcDUguvtKOJcMA4/zfAnMV7iPN1Plxf/6FMay1A6Fp982uipx/tPKY1yHcpFyhCV
+         P70A2y5Io/QNC8MAZiLlhq4uDd4oAkfyKPoUeb4ahjwImGmGVJtn5Np2xoF5dE8PPVcP
+         i+4dem4JRlM4TjebKZEGQhvIw6aNjMdh5xCKLdgNJmK2WUL3hI3traMx/Wjn+IQ2BRgy
+         hj+oP2Q5B9GDnnRA/kKo3yo39+hLTBeFd+IiBSOoLvQNqZkJ8K0Th0E8BjYxKikpCmP6
+         kuaQ==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@geniusmemoirwriting.com header.s=resend header.b=LZN0QomQ;
+       dkim=pass header.i=@amazonses.com header.s=n3kzslanjhdj36g2753vor472zw45rsk header.b=mZ5w0AmM;
+       spf=pass (google.com: domain of 010301a15b0f1d36-cd53954b-f308-474f-b586-8365d1248cb1-000000@send.geniusmemoirwriting.com designates 23.249.215.50 as permitted sender) smtp.mailfrom=010301a15b0f1d36-cd53954b-f308-474f-b586-8365d1248cb1-000000@send.geniusmemoirwriting.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=geniusmemoirwriting.com
+Return-Path: <010301a15b0f1d36-cd53954b-f308-474f-b586-8365d1248cb1-000000@send.geniusmemoirwriting.com>
+Received: from d215-50.smtp-out.sa-east-1.amazonses.com (d215-50.smtp-out.sa-east-1.amazonses.com. [23.249.215.50])
+        by mx.google.com with ESMTPS id 6a1803df08f44-91c1125b654si9697206d6.541.2026.10.20.13.44.40
+        for <chefbennyj@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Tue, 20 Oct 2026 13:44:40 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 010301a15b0f1d36-cd53954b-f308-474f-b586-8365d1248cb1-000000@send.geniusmemoirwriting.com designates 23.249.215.50 as permitted sender) client-ip=23.249.215.50;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@geniusmemoirwriting.com header.s=resend header.b=LZN0QomQ;
+       dkim=pass header.i=@amazonses.com header.s=n3kzslanjhdj36g2753vor472zw45rsk header.b=mZ5w0AmM;
+       spf=pass (google.com: domain of 010301a15b0f1d36-cd53954b-f308-474f-b586-8365d1248cb1-000000@send.geniusmemoirwriting.com designates 23.249.215.50 as permitted sender) smtp.mailfrom=010301a15b0f1d36-cd53954b-f308-474f-b586-8365d1248cb1-000000@send.geniusmemoirwriting.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=geniusmemoirwriting.com
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; s=resend;
+	d=geniusmemoirwriting.com; t=1792529079;
+	h=From:To:Reply-To:Subject:Message-ID:Date:MIME-Version:Content-Type;
+	bh=auHv/1v0nN1pBqNhD5HVTZVOql4BrfrGtHQFDX6jPV4=;
+	b=LZN0QomQNOsE/A7VHsXCv/+bkaZPeMF92s6VQyV60yCcqJz9tcwgD5meJ4HfpaAG
+	Hf4T7uw/u+5mT74RpdgL5m8c0AsYF375PSMzjEtca9PKIhbAmGVxFUUfcFlKRzt8bG3
+	JIaKQhx8Cmx6LH1GRX+SPhSmwdG3GAizTe0oOfUQ=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=n3kzslanjhdj36g2753vor472zw45rsk; d=amazonses.com; t=1792529079;
+	h=From:To:Reply-To:Subject:Message-ID:Date:MIME-Version:Content-Type:Feedback-ID;
+	bh=auHv/1v0nN1pBqNhD5HVTZVOql4BrfrGtHQFDX6jPV4=;
+	b=mZ5w0AmMD33w55NZi3SMgO6dAFeqM6ob4xCOqm06q34TPOv2pZW7Zzhomzmo/u0E
+	g5+im2py7ZAA3Rzrid78ijWwTYakJpIPQthdh+nw+UBPxrp0yUkVU4ZyovpvZCE8wVR
+	N007UAnhfHNKZ52R2XdMFlRyM71dcayb3hSfhFrc=
+From: Wendy Dale <wendy@geniusmemoirwriting.com>
+To: chefbennyj@gmail.com
+Reply-To: wendy@geniusmemoirwriting.com
+Subject: What Alex found in your book
+Message-ID: <010301a15b0f1d36-cd53954b-f308-474f-b586-8365d1248cb1-000000@sa-east-1.amazonses.com>
+Date: Tue, 20 Oct 2026 20:44:39 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--_NmP-943a13f846f06884-Part_1"
+Feedback-ID: :1.sa-east-1.voX0XZknQgG7ODJgyeqxdW8PanTxhXEGhkkQJ8oMWiYoguvdnVd8l/LEV09Db0S7Yi01CsrJVPw9jgT7NQCGQ3EyXXaH/u0a2HKoLWW12KvP+Gx5oXfyRJ4da6hAfKh8z6TCiaJ1DsQoTwp2mhaFWu+3w6I3gudYuONlKVjOZtg=:1.sa-east-1.Smh5cSYrI16d1tos/h2PJqG6H1l6Es9ICyMZvD+O/gw=:AmazonSES
+X-SES-Outgoing: 2026.10.20-23.249.215.50
+
+----_NmP-943a13f846f06884-Part_1
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Here are the results of your subjective writing check.
+
+What Is Your Subjective Writing Score?
+Alex read all of the scenes in your =
+chapter. This is your score across all of those pages.
+21.0 percent
+Subjective writing: 438 words
+Total text: 2,088 words
+438 divided by 2,088 =3D 21.0 percent
+
+What Does Your Score Mean?
+0 to 30 percent. You need to add a lot more subjective writing to your book=
+. Your reader is looking for an emotional experience and subjective writing=
+ is the key to that experience.
+
+Your Scene, Highlighted
+Everything highlighted is your subjective writing: anything a video camera =
+would not pick up.
+
+Silas Blackwell took a drag from his cigarette, the =
+ember flaring against the blues and ivory color of the early morning sky. =
+His white hair blew wildly in the morning wind, a contradiction to the =
+sharp lines of his dark vest and tie. Over it all, he wore a lab coat that =
+whipped around his legs in the cold air. He stood behind a pair of circular=
+ dark glasses, breathing a thin stream of smoke from his lips. From the =
+wind-swept terrace of the Mnemosyne Lab, he watched his world.
+[He didn=E2=80=99t own any of it. He couldn=E2=80=99t buy a square foot of =
+the platinum composite he was standing on. The tower belonged to the =
+"Company," Takeda-Holden Corporation=E2=80=94a monument of corporate wealth=
+. But as the Head of Synthetic Integration, Blackwell knew this building =
+belonged to him in ways the Company would never comprehend.]
+The rain had cleared the air, leaving a settled mist beneath the =
+high-altitude pedestrian tiers. He took another haul of his cigarette, the =
+grey smoke skimming along the company's alloy railing. No stacked =
+billboards cluttered the view at this altitude; [nobody had to sell =
+anything to the corporate elite.] The walkways were empty this =
+early=E2=80=94New [Veridia was a sleeping monster, ready to awake.]
+[He didn't need to turn around to know he was no longer alone.] The faint =
+hiss of the glass doors sliding open behind him confirmed it.
+Blackwell's voice was calm, carrying over the wind. "Are we ready, Miss =
+Marlowe?"
+Elena Marlowe stood in the terrace entrance, framed by the glow =
+of the holographic environmental data embedded in the glass of the door she=
+ had opened. Her lab coat fell to her ankles. A gust of wind whipped the =
+terrace, pushing her shoulder-length hair across the dark skin of her face.
+"Yes, Doctor Blackwell," she replied.
+[Elena didn't sound like herself. =
+*Nervous*, Blackwell thought, *and she should be*.]
+"The Mnemosyne Engine is connected. Those city workers over at Main Fusion =
+didn't like the request. But, you've got the three hundred and twenty =
+terawatts," she said.
+Raising his cigarette to his lips one last time, the =
+doctor inhaled until the end burned close to the filter. He held the smoke =
+in his lungs for another long second, then exhaled and dropped the butt =
+over the edge of the railing.
+The spent cigarette vanished into the fog. =
+[To Blackwell, the cloud cover was a necessary filter. It formed an opaque =
+floor between him and the corroded foundations of the lower city.]
+[The Dead Circuits. Crushed remains of Oshima city. Decades ago, =
+Takeda-Holden hadn't bothered to demolish Oshima, they poured the concrete =
+for New Veridia directly on top of it. He knew what lived down there in the=
+ dark, buried beneath his feet: a tangle of failing systems, and the =
+millions scurrying through the forgotten city. Noise beneath the sleeping =
+monster.]
+Blackwell turned and walked past Elena, stepping through the =
+sliding glass doors into the corporate atrium. The multi-tiered annex was =
+an expanse of sleek architecture. Sharp angles of polished concrete soared =
+above and plunged below them.
+The building's tinted black glass refracted =
+the rising sun, its rays shifting down forty floors below them. Blackwell =
+walked towards the executive lift. Elena followed, her posture rigid as the=
+ steel elevator doors sealed them in. The high-speed descent was silent, =
+dropping dozens of floors down, past the bottom of the main atrium and into=
+ the Mnemosyne Lab.
+When the doors parted, the air inside the lab moved =
+with a low vibration. [It was the city's reactor, channeling into the floor=
+ beneath their feet.]
+Past the primary control consoles, the floor was =
+manned by a mix of human technicians and the lab's impassive synthetics. =
+They worked diligently checking the data on their screens. Blackwell =
+approached the reinforced railing that encircled the center of the pit. The=
+ metal was cold. He gripped the rail.
+Below him sat the Mnemosyne =
+Engine=E2=80=94or at least, the very top of it. [The staggering bulk of the=
+ machine was buried deep under the foundation and bedrock. Farther down =
+than anyone in this room had been allowed to see. Blackwell had stood at =
+this rail on a hundred nights in the empty lab, and every time, he felt the=
+ cold breath of the engine rising from the pit.]
+What ascended through the =
+facility's foundation, and protruded into this observation chamber was a =
+cluster of white pillars of varying heights. They thrust sharply from the =
+floor, terminating in angled points. A vertical display panel ran up one =
+side of each pillar. Currently, every single screen was empty and black.
+Recirculated cooling gas rolled across the engine pit, hiding the floor =
+beneath. It curled round the pillars and poured over the edges of the floor=
+, [stabilizing the dormant core.] The great engine was powered down, silent=
+ [and waiting.]
+"Main Fusion's supply is a drop in the bucket for what =
+we're asking it to unearth, Miss Marlowe," Blackwell said, his voice =
+dropping into a gravelly rasp. He pulled a fresh cigarette from his coat =
+pocket and slid it between his lips, though he didn't light it.
+He braced himself against the railing and leaned forward, his reflection =
+distorted in the safety glass. "The board wants better data compression. A =
+smarter artificial intelligence to predict their margins."
+A humorless breath fogged the glass. "What I'm building will pioneer a new =
+era." He paused, listening to the quiet tick of the holographic monitors. =
+"My singularity."
+"Doctor Blackwell. Silas." Elena's voice interrupted, a =
+note of warning creeping into her tone. "The board dialed in."
+Above the primary consoles, a wall sized display flickered to life. The =
+encrypted feed partitioned the screen into a grid of digital monitors. Each=
+ square displayed the featureless silhouette of a corporate executive.
+"Perfect," Blackwell said, his lip curling. "Right on schedule."
+"The Takeda-Holden Corporation expects success today, Blackwell," a voice =
+echoed from the grid.
+Blackwell didn't bother to look back at the screen or=
+ at Elena, keeping his gaze fixed on the dormant core. "Very well, Miss =
+Marlowe," he murmured. "Give them a show."
+Elena didn't blink. She remained=
+ where she was, her posture shifting from subordinate to commander as she =
+leaned into the microphone of the control room. There was a quick =
+succession of two tones over the speaker system. Technicians in white coats=
+ looked up from their consoles.
+"All stations, ready for initialization." =
+Elena's voice reverberated in a crackle over the laboratory loudspeaker, =
+almost robotic. "Initiate sequence."
+The room erupted into a synchronized =
+motion.
+Below Blackwell, the engine responded. Dense fog pooling at the =
+base of the pillars surged upward, flooding the pit as the cooling valves =
+released a torrent of thick gas. Then, one by one, the black screens on the=
+ sides of the pillars displayed the boot sequence. They flickered at first,=
+ before stabilizing into flows of crisp white and blue text logs, falling =
+down each pillar screen, illuminating the swirling fog.
+The mechanical drone of the reactor shifted into a rhythmic pulse, a =
+vibration creeping through the concrete and into their bones.
+Blackwell=E2=80=99s smile widened. He watched the data streams, read every =
+line as it fell. [He was looking for one.] The rhythm=E2=80=94the heartbeat=
+ of the engine=E2=80=94resonated through the bedrock, through the rail and =
+into his palms. He tightened his grip [and took in the magnitude of his =
+creation.]
+[The Board watched from their remote offices, certain distance =
+would keep them safe. They didn=E2=80=99t understand, if containment failed=
+, the rupture would swallow them as easily as the lab.]
+Behind him, the technicians exchanged nervous glances and stepped back from=
+ the railing. [The machine unsettled them.]
+Blackwell leaned in.
+Elena stepped up to the railing, studying a datapad in her hand, her tense =
+posture relaxing a fraction. "The initialization sequence is holding steady=
+," she said, a rare note of satisfaction bleeding into her voice. She =
+stepped closer to him, so only he could hear, "The containment calculations=
+ were flawless, Silas. You calculated activation. Congratulations."
+"Of course they were," Blackwell said, the unlit cigarette bobbing between =
+his lips.
+On the executive display above the floor, the grid of silhouettes=
+ leaned forward. A metallic murmur of approval. [Predatory interest.] The =
+Takeda-Holden Corporation was watching their investment come to life. =
+Beside him, Elena squared her shoulders and stiffened under the executive =
+gaze.
+"Doctor Blackwell, Ma'am."
+The hushed voice interrupted the moment. =
+Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking =
+up from the glowing datapad in her hands. [She didn't belong with the rest =
+of the room.] Her hair was unkempt, [defying the lab's strict dress code,] =
+and gold hoops swung from her ears. She compulsively shoved her =
+black-rimmed glasses up the bridge of her nose=E2=80=94her focus snapping =
+back to the glow of her screen.
+"Ma'am, local space-time=E2=80=94" Iris =
+stammered in a frantic whisper, her eyes locked on her screen. "We have a =
+change in the event horizon. A mass displacement anomaly. And=E2=80=94well =
+actually, the mass-displacement is causing a=E2=80=94a localized =
+gravitational shear." Her pressured speech fired rapidly, blurred together =
+in a breathless recitation of awkward tones, "=E2=80=94and=E2=80=94well, =
+you know=E2=80=94that could theoretically pull the primary containment of =
+the horizon's gravity field out of phase=E2=80=94and if we don't =
+recalculate, then the=E2=80=94"
+She trailed off, finally looking up from =
+her screen.
+Elena was staring at her, eyes piercing. "Negative," she said, =
+her voice dropping into a scolding hiss through gritted teeth.
+She cast a quick glance up at the Board's display, and then to =
+Blackwell=E2=80=94an [expression of fleeting dread that the subordinate =
+could ruin the demonstration=E2=80=94before] her piercing eyes snapped back=
+ to Iris.
+Blackwell side-eyed the exchange. [The girl's numbers were good. =
+He didn't need to see her screen to know it.]
+Stepping into Iris's personal=
+ space, she didn't look at the data. "That is a predicted resonance. Go =
+recalculate the gravity phase changes."
+Iris flinched, pulling the tablet =
+tight against her chest. "Yes, ma'am. Of course. Predicted resonance."
+[Elena had told his lie for him. She didn't even know she had.]
+"I need the tracking data!" Elena demanded, pivoting away.
+At the adjacent console, a synthetic stood at attention. The designation =
+*L-One-Two* (Laboratory 12) printed cleanly beneath its left eye. Its =
+photoreceptive irises spun, emitting a liquid crystal luminescence as they =
+processed the influx. The construct shifted its gaze toward Blackwell, the =
+motion disturbing the shining fiber-optics rooted in its scalp. As the =
+lenses locked onto his face, their rotation slowed [into a semblance of =
+admiration.]
+"Horizon stability confirmed," the machine reported.
+[Blackwell admired the synthetic. It existed solely for the objective, =
+unburdened by human distractions. It was Elena's finest work. Of course, he=
+ knew her design was nothing compared to the singularity he had awakened.]
+"Fusion Control says the thermal limits are safe, Doctor," the synthetic =
+stated, its voice flat.
+"Fusion Control doesn't understand the optics of my=
+ quantum singularity," Blackwell retorted.
+A monotone voice echoed from the=
+ display grid above. "Satisfactory, Blackwell," a shadowed silhouette =
+stated. "The Company commends your success."
+Blackwell scoffed. "Humph."
+Elena shot an apprehensive glance toward the panels. "What the Doctor means=
+ is, we are glad that today has been a success."
+"Progress will be =
+monitored," another executive replied. The connection severed.
+"Mass Displacement Anomaly? That wasn't in the preliminary notes, Silas." =
+Elena's true expression bled through as she looked at Blackwell, peering =
+past his dark glasses.
+Blackwell turned, giving her his undivided attention=
+ for the first time. [She was looking for his eyes behind the dark lens of =
+his glasses.] He let her.
+"It's predicted resonance," he said, the corner =
+of his mouth rising.
+Elena shook her head. [He watched her decide to =
+believe him.] "You know, it wouldn't hurt you to talk to the Board." She =
+turned, glancing back over the console floor behind them. "You are the lead=
+."
+The cigarette was still unlit between his lips. [He wanted a drag.] =
+Blackwell returned to the pillar readouts. [A displacement anomaly was a =
+perfect distraction. While Elena and the technicians monitored the event =
+horizon, Blackwell observed the real experiment begin.]
+Listed in the logs, record of a shadow process, quietly expanding in the =
+core. Blackwell caught the gaze of a nearby synthetic and gave a subtle nod=
+. Its eyes flared, snapping its focus to a second synthetic on the far side=
+ of the room. Together they scrubbed the shadow process from the logs, =
+silent, practiced, done before Elena could turn around.
+"I don't like the Board," Blackwell said, keeping his gaze fixed on the =
+engine.
+"Funding, Silas," she urged. "Remember the funding."
+"I don't like the Board," he repeated.
+Elena exhaled, rubbing her temples. =
+"And everybody knows it."
+
+The link to Alex's answer:
+https://memoirhelpers.netlify.app/book-check.html?audit=3D62732b85-a9a3-421=
+a-9a8c-e9eda84a4075
+
+We=E2=80=99ll be in touch soon with a version of these=
+ Memoir Helpers for fiction.
+
+Wendy Dale
+Memoir Writing for =
+Geniuses
+----_NmP-943a13f846f06884-Part_1
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html><body style=3D"margin:0;padding:0;background:#EDEEE9;"=
+><div style=3D"max-width:640px;margin:0 auto;padding:32px 22px =
+40px;background:#EDEEE9;font-family:Georgia,'Times New Roman',=
+serif;color:#1A1D18;"><div style=3D"font-family:Menlo,Consolas,=
+monospace;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:=
+#1A1D18;margin:0 0 18px;">Memoir Writing for Geniuses</div><p =
+style=3D"margin:0 0 18px;font-size:18px;line-height:1.=
+6;color:#1A1D18;">Here are the results of your subjective writing check.=
+</p><div style=3D"margin:26px 0;padding:6px 20px 22px;background:#E4EFED;bo=
+rder-left:3px solid #2A8C8C;"><h2 style=3D"margin:30px 0 =
+12px;font-size:23px;line-height:1.25;color:#1A1D18;font-weight:600;">What =
+Is Your Subjective Writing Score?</h2>
+<p style=3D"margin:0 0 =
+18px;font-size:18px;line-height:1.6;color:#1A1D18;">Alex read all of the =
+scenes in your chapter. This is your score across all of those pages.</p>
+<p style=3D"margin:4px 0 10px;font-size:34px;line-height:1.=
+2;font-weight:600;color:#1A1D18;">21.0 percent</p>
+<p style=3D"margin:0 0 =
+18px;font-size:17px;line-height:1.7;color:#1A1D18;">Subjective writing: 438=
+ words<br>Total text: 2,088 words<br>438 divided by 2,088 =3D 21.0 =
+percent</p>
+<h2 style=3D"margin:30px 0 12px;font-size:23px;line-height:1.=
+25;color:#1A1D18;font-weight:600;">What Does Your Score Mean?</h2>
+<p style=3D"margin:0 0 18px;font-size:18px;line-height:1.=
+6;color:#1A1D18;"><strong>0 to 30 percent.</strong> You need to add a lot =
+more subjective writing to your book. Your reader is looking for an =
+emotional experience and subjective writing is the key to that experience.=
+</p>
+<h2 style=3D"margin:30px 0 12px;font-size:23px;line-height:1.=
+25;color:#1A1D18;font-weight:600;">Your Scene, Highlighted</h2>
+<p style=3D"margin:0 0 18px;font-size:18px;line-height:1.=
+6;color:#1A1D18;">Everything highlighted is your subjective writing: =
+anything a video camera would not pick up.</p>
+<div style=3D"margin:8px 0 =
+18px;padding:16px 18px;background:#FFFFFF;border:1px solid #D8DAD2;"><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">Silas Blackwell took a drag from his cigarette, the ember=
+ flaring against the blues and ivory color of the early morning sky. His =
+white hair blew wildly in the morning wind, a contradiction to the sharp =
+lines of his dark vest and tie. Over it all, he wore a lab coat that =
+whipped around his legs in the cold air. He stood behind a pair of circular=
+ dark glasses, breathing a thin stream of smoke from his lips. From the =
+wind-swept terrace of the Mnemosyne Lab, he watched his world.</p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;"><span style=3D"background:#FFE36E;color:#1A1D18;">He =
+didn=E2=80=99t own any of it. He couldn=E2=80=99t buy a square foot of the =
+platinum composite he was standing on. The tower belonged to the =
+&quot;Company,&quot; Takeda-Holden Corporation=E2=80=94a monument of =
+corporate wealth. But as the Head of Synthetic Integration, Blackwell knew =
+this building belonged to him in ways the Company would never comprehend.=
+</span></p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">The rain had cleared the air, leaving a settled mist =
+beneath the high-altitude pedestrian tiers. He took another haul of his =
+cigarette, the grey smoke skimming along the company's alloy railing. No =
+stacked billboards cluttered the view at this altitude; <span =
+style=3D"background:#FFE36E;color:#1A1D18;">nobody had to sell anything to =
+the corporate elite.</span> The walkways were empty this early=E2=80=94New =
+<span style=3D"background:#FFE36E;color:#1A1D18;">Veridia was a sleeping =
+monster, ready to awake.</span></p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;"><span =
+style=3D"background:#FFE36E;color:#1A1D18;">He didn't need to turn around =
+to know he was no longer alone.</span> The faint hiss of the glass doors =
+sliding open behind him confirmed it.</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">Blackwell's voice was =
+calm, carrying over the wind. &quot;Are we ready, Miss Marlowe?&quot;</p><p=
+ style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">Elena Marlowe stood in the terrace entrance, framed by =
+the glow of the holographic environmental data embedded in the glass of the=
+ door she had opened. Her lab coat fell to her ankles. A gust of wind =
+whipped the terrace, pushing her shoulder-length hair across the dark skin =
+of her face.</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;Yes, Doctor Blackwell,&quot; she replied.</p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;"><span style=3D"background:#FFE36E;color:#1A1D18;">Elena =
+didn't sound like herself. *Nervous*, Blackwell thought, *and she should =
+be*.</span></p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;The Mnemosyne Engine is connected. Those city =
+workers over at Main Fusion didn't like the request. But, you've got the =
+three hundred and twenty terawatts,&quot; she said.</p><p style=3D"margin:0=
+ 0 14px;font-size:17px;line-height:1.7;color:#1A1D18;">Raising his =
+cigarette to his lips one last time, the doctor inhaled until the end =
+burned close to the filter. He held the smoke in his lungs for another long=
+ second, then exhaled and dropped the butt over the edge of the railing.=
+</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">The spent cigarette vanished into the fog. <span =
+style=3D"background:#FFE36E;color:#1A1D18;">To Blackwell, the cloud cover =
+was a necessary filter. It formed an opaque floor between him and the =
+corroded foundations of the lower city.</span></p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;"><span =
+style=3D"background:#FFE36E;color:#1A1D18;">The Dead Circuits. Crushed =
+remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to =
+demolish Oshima, they poured the concrete for New Veridia directly on top =
+of it. He knew what lived down there in the dark, buried beneath his feet: =
+a tangle of failing systems, and the millions scurrying through the =
+forgotten city. Noise beneath the sleeping monster.</span></p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">Blackwell turned and walked past Elena, stepping through =
+the sliding glass doors into the corporate atrium. The multi-tiered annex =
+was an expanse of sleek architecture. Sharp angles of polished concrete =
+soared above and plunged below them.</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">The building's tinted =
+black glass refracted the rising sun, its rays shifting down forty floors =
+below them. Blackwell walked towards the executive lift. Elena followed, =
+her posture rigid as the steel elevator doors sealed them in. The =
+high-speed descent was silent, dropping dozens of floors down, past the =
+bottom of the main atrium and into the Mnemosyne Lab.</p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">When the doors parted, the air inside the lab moved with =
+a low vibration. <span style=3D"background:#FFE36E;color:#1A1D18;">It was =
+the city's reactor, channeling into the floor beneath their feet.=
+</span></p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">Past the primary control consoles, the floor was manned =
+by a mix of human technicians and the lab's impassive synthetics. They =
+worked diligently checking the data on their screens. Blackwell approached =
+the reinforced railing that encircled the center of the pit. The metal was =
+cold. He gripped the rail.</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">Below him sat the =
+Mnemosyne Engine=E2=80=94or at least, the very top of it. <span =
+style=3D"background:#FFE36E;color:#1A1D18;">The staggering bulk of the =
+machine was buried deep under the foundation and bedrock. Farther down than=
+ anyone in this room had been allowed to see. Blackwell had stood at this =
+rail on a hundred nights in the empty lab, and every time, he felt the cold=
+ breath of the engine rising from the pit.</span></p><p style=3D"margin:0 0=
+ 14px;font-size:17px;line-height:1.7;color:#1A1D18;">What ascended through =
+the facility's foundation, and protruded into this observation chamber was =
+a cluster of white pillars of varying heights. They thrust sharply from the=
+ floor, terminating in angled points. A vertical display panel ran up one =
+side of each pillar. Currently, every single screen was empty and black.=
+</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">Recirculated cooling gas rolled across the engine pit, =
+hiding the floor beneath. It curled round the pillars and poured over the =
+edges of the floor, <span style=3D"background:#FFE36E;color:#1A1D18;">stabi=
+lizing the dormant core.</span> The great engine was powered down, silent =
+<span style=3D"background:#FFE36E;color:#1A1D18;">and waiting.</span></p><p=
+ style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;Main Fusion's supply is a drop in the bucket for =
+what we're asking it to unearth, Miss Marlowe,&quot; Blackwell said, his =
+voice dropping into a gravelly rasp. He pulled a fresh cigarette from his =
+coat pocket and slid it between his lips, though he didn't light it.</p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.7;color:#1A1D18;">He =
+braced himself against the railing and leaned forward, his reflection =
+distorted in the safety glass. &quot;The board wants better data =
+compression. A smarter artificial intelligence to predict their margins.=
+&quot;</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">A humorless breath fogged the glass. &quot;What I'm =
+building will pioneer a new era.&quot; He paused, listening to the quiet =
+tick of the holographic monitors. &quot;My singularity.&quot;</p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;Doctor Blackwell. Silas.&quot; Elena's voice =
+interrupted, a note of warning creeping into her tone. &quot;The board =
+dialed in.&quot;</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:=
+1.7;color:#1A1D18;">Above the primary consoles, a wall sized display =
+flickered to life. The encrypted feed partitioned the screen into a grid of=
+ digital monitors. Each square displayed the featureless silhouette of a =
+corporate executive.</p><p style=3D"margin:0 0 14px;font-size:17px;line-hei=
+ght:1.7;color:#1A1D18;">&quot;Perfect,&quot; Blackwell said, his lip =
+curling. &quot;Right on schedule.&quot;</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">&quot;The Takeda-Holden=
+ Corporation expects success today, Blackwell,&quot; a voice echoed from =
+the grid.</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">Blackwell didn't bother to look back at the screen or at =
+Elena, keeping his gaze fixed on the dormant core. &quot;Very well, Miss =
+Marlowe,&quot; he murmured. &quot;Give them a show.&quot;</p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">Elena didn't blink. She remained where she was, her =
+posture shifting from subordinate to commander as she leaned into the =
+microphone of the control room. There was a quick succession of two tones =
+over the speaker system. Technicians in white coats looked up from their =
+consoles.</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;All stations, ready for initialization.&quot; =
+Elena's voice reverberated in a crackle over the laboratory loudspeaker, =
+almost robotic. &quot;Initiate sequence.&quot;</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">The room erupted into a=
+ synchronized motion.</p><p style=3D"margin:0 0 14px;font-size:17px;line-he=
+ight:1.7;color:#1A1D18;">Below Blackwell, the engine responded. Dense fog =
+pooling at the base of the pillars surged upward, flooding the pit as the =
+cooling valves released a torrent of thick gas. Then, one by one, the black=
+ screens on the sides of the pillars displayed the boot sequence. They =
+flickered at first, before stabilizing into flows of crisp white and blue =
+text logs, falling down each pillar screen, illuminating the swirling fog.=
+</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">The mechanical drone of the reactor shifted into a =
+rhythmic pulse, a vibration creeping through the concrete and into their =
+bones.</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">Blackwell=E2=80=99s smile widened. He watched the data =
+streams, read every line as it fell. <span style=3D"background:#FFE36E;colo=
+r:#1A1D18;">He was looking for one.</span> The rhythm=E2=80=94the heartbeat=
+ of the engine=E2=80=94resonated through the bedrock, through the rail and =
+into his palms. He tightened his grip <span style=3D"background:#FFE36E;col=
+or:#1A1D18;">and took in the magnitude of his creation.</span></p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;"><span style=3D"background:#FFE36E;color:#1A1D18;">The =
+Board watched from their remote offices, certain distance would keep them =
+safe. They didn=E2=80=99t understand, if containment failed, the rupture =
+would swallow them as easily as the lab.</span></p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">Behind him, the =
+technicians exchanged nervous glances and stepped back from the railing. =
+<span style=3D"background:#FFE36E;color:#1A1D18;">The machine unsettled =
+them.</span></p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">Blackwell leaned in.</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">Elena stepped up to the=
+ railing, studying a datapad in her hand, her tense posture relaxing a =
+fraction. &quot;The initialization sequence is holding steady,&quot; she =
+said, a rare note of satisfaction bleeding into her voice. She stepped =
+closer to him, so only he could hear, &quot;The containment calculations =
+were flawless, Silas. You calculated activation. Congratulations.=
+&quot;</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;Of course they were,&quot; Blackwell said, the =
+unlit cigarette bobbing between his lips.</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">On the executive =
+display above the floor, the grid of silhouettes leaned forward. A metallic=
+ murmur of approval. <span style=3D"background:#FFE36E;color:#1A1D18;">Pred=
+atory interest.</span> The Takeda-Holden Corporation was watching their =
+investment come to life. Beside him, Elena squared her shoulders and =
+stiffened under the executive gaze.</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">&quot;Doctor Blackwell,=
+ Ma'am.&quot;</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">The hushed voice interrupted the moment. Iris Ito, a =
+Horizon Boundary Analyst, hurried up behind them, not looking up from the =
+glowing datapad in her hands. <span style=3D"background:#FFE36E;color:#1A1D=
+18;">She didn't belong with the rest of the room.</span> Her hair was =
+unkempt, <span style=3D"background:#FFE36E;color:#1A1D18;">defying the =
+lab's strict dress code,</span> and gold hoops swung from her ears. She =
+compulsively shoved her black-rimmed glasses up the bridge of her =
+nose=E2=80=94her focus snapping back to the glow of her screen.</p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;Ma'am, local space-time=E2=80=94&quot; Iris =
+stammered in a frantic whisper, her eyes locked on her screen. &quot;We =
+have a change in the event horizon. A mass displacement anomaly. =
+And=E2=80=94well actually, the mass-displacement is causing a=E2=80=94a =
+localized gravitational shear.&quot; Her pressured speech fired rapidly, =
+blurred together in a breathless recitation of awkward tones, =
+&quot;=E2=80=94and=E2=80=94well, you know=E2=80=94that could theoretically =
+pull the primary containment of the horizon's gravity field out of =
+phase=E2=80=94and if we don't recalculate, then the=E2=80=94&quot;</p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.7;color:#1A1D18;">She=
+ trailed off, finally looking up from her screen.</p><p style=3D"margin:0 0=
+ 14px;font-size:17px;line-height:1.7;color:#1A1D18;">Elena was staring at =
+her, eyes piercing. &quot;Negative,&quot; she said, her voice dropping into=
+ a scolding hiss through gritted teeth.</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">She cast a quick glance=
+ up at the Board's display, and then to Blackwell=E2=80=94an <span =
+style=3D"background:#FFE36E;color:#1A1D18;">expression of fleeting dread =
+that the subordinate could ruin the demonstration=E2=80=94before</span> her=
+ piercing eyes snapped back to Iris.</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">Blackwell side-eyed the=
+ exchange. <span style=3D"background:#FFE36E;color:#1A1D18;">The girl's =
+numbers were good. He didn't need to see her screen to know it.=
+</span></p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">Stepping into Iris's personal space, she didn't look at =
+the data. &quot;That is a predicted resonance. Go recalculate the gravity =
+phase changes.&quot;</p><p style=3D"margin:0 0 14px;font-size:17px;line-hei=
+ght:1.7;color:#1A1D18;">Iris flinched, pulling the tablet tight against her=
+ chest. &quot;Yes, ma'am. Of course. Predicted resonance.&quot;</p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;"><span style=3D"background:#FFE36E;color:#1A1D18;">Elena =
+had told his lie for him. She didn't even know she had.</span></p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;I need the tracking data!&quot; Elena demanded, =
+pivoting away.</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">At the adjacent console, a synthetic stood at attention. =
+The designation *L-One-Two* (Laboratory 12) printed cleanly beneath its =
+left eye. Its photoreceptive irises spun, emitting a liquid crystal =
+luminescence as they processed the influx. The construct shifted its gaze =
+toward Blackwell, the motion disturbing the shining fiber-optics rooted in =
+its scalp. As the lenses locked onto his face, their rotation slowed <span =
+style=3D"background:#FFE36E;color:#1A1D18;">into a semblance of admiration.=
+</span></p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;Horizon stability confirmed,&quot; the machine =
+reported.</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;"><span style=3D"background:#FFE36E;color:#1A1D18;">Blackwe=
+ll admired the synthetic. It existed solely for the objective, unburdened =
+by human distractions. It was Elena's finest work. Of course, he knew her =
+design was nothing compared to the singularity he had awakened.=
+</span></p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;Fusion Control says the thermal limits are safe, =
+Doctor,&quot; the synthetic stated, its voice flat.</p><p style=3D"margin:0=
+ 0 14px;font-size:17px;line-height:1.7;color:#1A1D18;">&quot;Fusion Control=
+ doesn't understand the optics of my quantum singularity,&quot; Blackwell =
+retorted.</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">A monotone voice echoed from the display grid above. =
+&quot;Satisfactory, Blackwell,&quot; a shadowed silhouette stated. =
+&quot;The Company commends your success.&quot;</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">Blackwell scoffed. =
+&quot;Humph.&quot;</p><p style=3D"margin:0 0 14px;font-size:17px;line-heigh=
+t:1.7;color:#1A1D18;">Elena shot an apprehensive glance toward the panels. =
+&quot;What the Doctor means is, we are glad that today has been a success.=
+&quot;</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;Progress will be monitored,&quot; another executive=
+ replied. The connection severed.</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">&quot;Mass Displacement=
+ Anomaly? That wasn't in the preliminary notes, Silas.&quot; Elena's true =
+expression bled through as she looked at Blackwell, peering past his dark =
+glasses.</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">Blackwell turned, giving her his undivided attention for =
+the first time. <span style=3D"background:#FFE36E;color:#1A1D18;">She was =
+looking for his eyes behind the dark lens of his glasses.</span> He let her=
+.</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;It's predicted resonance,&quot; he said, the corner=
+ of his mouth rising.</p><p style=3D"margin:0 0 14px;font-size:17px;line-he=
+ight:1.7;color:#1A1D18;">Elena shook her head. <span =
+style=3D"background:#FFE36E;color:#1A1D18;">He watched her decide to =
+believe him.</span> &quot;You know, it wouldn't hurt you to talk to the =
+Board.&quot; She turned, glancing back over the console floor behind them. =
+&quot;You are the lead.&quot;</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">The cigarette was still=
+ unlit between his lips. <span style=3D"background:#FFE36E;color:#1A1D18;">=
+He wanted a drag.</span> Blackwell returned to the pillar readouts. <span =
+style=3D"background:#FFE36E;color:#1A1D18;">A displacement anomaly was a =
+perfect distraction. While Elena and the technicians monitored the event =
+horizon, Blackwell observed the real experiment begin.</span></p><p =
+style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">Listed in the logs, record of a shadow process, quietly =
+expanding in the core. Blackwell caught the gaze of a nearby synthetic and =
+gave a subtle nod. Its eyes flared, snapping its focus to a second =
+synthetic on the far side of the room. Together they scrubbed the shadow =
+process from the logs, silent, practiced, done before Elena could turn =
+around.</p><p style=3D"margin:0 0 14px;font-size:17px;line-height:1.=
+7;color:#1A1D18;">&quot;I don't like the Board,&quot; Blackwell said, =
+keeping his gaze fixed on the engine.</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">&quot;Funding, Silas,=
+&quot; she urged. &quot;Remember the funding.&quot;</p><p style=3D"margin:0=
+ 0 14px;font-size:17px;line-height:1.7;color:#1A1D18;">&quot;I don't like =
+the Board,&quot; he repeated.</p><p style=3D"margin:0 0 =
+14px;font-size:17px;line-height:1.7;color:#1A1D18;">Elena exhaled, rubbing =
+her temples. &quot;And everybody knows it.&quot;</p></div></div><p =
+style=3D"margin:0 0 18px;font-size:18px;line-height:1.6;color:#1A1D18;">The=
+ link to Alex's answer:<br><a href=3D"https://memoirhelpers.netlify.=
+app/book-check.html?audit=3D62732b85-a9a3-421a-9a8c-e9eda84a4075" =
+style=3D"color:#1F6F6F;">https://memoirhelpers.netlify.app/book-check.html?=
+audit=3D62732b85-a9a3-421a-9a8c-e9eda84a4075</a></p><p style=3D"margin:0 0 =
+18px;font-size:18px;line-height:1.6;color:#1A1D18;">We=E2=80=99ll be in =
+touch soon with a version of these Memoir Helpers for fiction.</p><p =
+style=3D"margin:0 0 18px;font-size:18px;line-height:1.=
+6;color:#1A1D18;">Wendy Dale<br>Memoir Writing for Geniuses</p></div></body=
+></html>
+----_NmP-943a13f846f06884-Part_1--
