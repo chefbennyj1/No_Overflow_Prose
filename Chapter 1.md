@@ -37,8 +37,9 @@ The lift dropped dozens of floors, past the bottom of the main atrium and into t
 
 Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. They worked diligently checking the data on their screens. Blackwell approached the reinforced railing that encircled the center of the pit. The metal was cold. He gripped the rail.
 
-Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock. Farther down than anyone in this room had been allowed to see. Blackwell had stood at this rail on a hundred nights in the empty lab, and every time, he felt the cold breath of the engine rising from the pit. 
-What ascended through the facility's foundation, and protruded into this observation chamber was a cluster of white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
+Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock, farther down than anyone in this room had been allowed to see. Blackwell had stood at this rail on a hundred nights in the empty lab, and every time, he felt the cold breath of the engine rising from the pit. 
+
+What ascended through the facility's foundation and protruded into this observation chamber was a cluster of white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. To the technicians at their consoles, the pillars and the black screens running up each one were a high-end server array. To Blackwell, they were the crown of a cage, built to hold an anti-star.
 
 Recirculated cooling gas rolled across the engine pit, hiding the floor beneath. It curled round the pillars and poured over the edges of the floor, stabilizing the dormant core. The great engine was powered down, silent and waiting.
 
