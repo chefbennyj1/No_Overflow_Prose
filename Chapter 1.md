@@ -31,7 +31,9 @@ The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden ha
 
 Blackwell turned and walked past Elena, stepping through the sliding glass doors into the corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles of polished concrete soared above and plunged below them. 
 
-The building's tinted black glass refracted the rising sun, its rays shifting down forty floors below them. Blackwell walked towards the executive lift. Elena followed, her posture rigid as the steel elevator doors sealed them in. The high-speed descent was silent. He watched her from the corner of his eye. Her lips moved without a sound, her thumb tapped the edge of her datapad. Five years as his second-in-command, and she still treated the Board with too much reverence. He had picked her for her brilliance—though today, her nerves would make her useful. 
+The building's tinted black glass refracted the rising sun, its rays shifting down forty floors. Blackwell walked towards the executive lift. Elena followed as the steel elevator doors sealed them in. 
+
+The high-speed descent was silent. He watched her from the corner of his eye. Her lips moved without a sound. Her thumb tapped the edge of her datapad. Five years as his second-in-command, and she still treated the Board with too much reverence. He had picked her for her brilliance—though today, her nerves would make her useful. 
 
 The lift dropped dozens of floors, past the bottom of the main atrium and into the Mnemosyne Lab. When the doors parted, the air inside the lab moved with a low vibration. It was the city's reactor, channeling into the floor beneath their feet.
 
