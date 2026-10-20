@@ -31,7 +31,7 @@ When the doors parted, the air inside the lab moved with a low vibration. It was
 
 Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. They worked diligently checking the data on their screens. Blackwell approached the reinforced railing that encircled the center of the pit. The metal was cold. He gripped the rail.
 
-Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock. Farther than anyone in this room had been allow to see. Blackwell had stood at this rail on a hundred nights with the empty lab, and every time, he felt the cold breath of the engine rising from the pit. 
+Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock. Farther than anyone in this room had been allowed to see. Blackwell had stood at this rail on a hundred nights in the empty lab, and every time, he felt the cold breath of the engine rising from the pit. 
 What ascended through the facility's foundation, and protruded into this observation chamber was a cluster of white pillars of varying heights. They thrust sharply from the floor, terminating in angled points. A vertical display panel ran up one side of each pillar. Currently, every single screen was empty and black.
 
 Opaque gas rolled across the engine pit, hiding the white paneled floor beneath. It circled the edges of the pillars before pouring over the edges of the floor like a waterfall, and recirculating. The air at the center of the array was chilling, a necessary extreme to keep the dormant core stabilized. The great engine was powered down, silent and waiting.
@@ -62,7 +62,7 @@ Below Blackwell, the engine responded. Dense fog pooling at the base of the pill
 
 The mechanical drone of the reactor shifted into a rhythmic pulse, a vibration creeping through the concrete and into their bones. 
 
-Blackwell’s smile widened. He watched the data stream. The rhythm—the heartbeat of the engine resonated through the bedrock, though the rail and into his palms. He tightened his grip and took in his creation. The magnitude of the activation was fascinating. 
+Blackwell’s smile widened. He watched the data stream, read every line as it fell. He was looking for one. The rhythm—the heartbeat of the engine resonated through the bedrock, though the rail and into his palms. He tightened his grip and took in his creation. The magnitude of the activation was fascinating. 
 
 The Board watched from their remote offices, certain distance would keep them safe. They didn’t understand, if containment failed, the rupture would swallow them as easily as the lab. 
 
@@ -87,11 +87,13 @@ Elena was staring at her, eyes piercing. "Negative," she said, her voice droppin
 
 She cast a quick glance up at the Board's display, and then to Blackwell—an expression of fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
 
-Blackwell side-eyed the exchange, waiting to see how Elena would discipline the irritating disruption. 
+Blackwell side-eyed the exchange. The girl's numbers were good. He didn't need to see her screen to know it.
 
 Stepping into Iris's personal space, she didn't look at the data. "That is a predicted resonance. Go recalculate the gravity phase changes."
 
 Iris flinched, pulling the tablet tight against her chest. "Yes, ma'am. Of course. Predicted resonance."
+
+Elena had told his lie for him. She didn't even know she had.
 
 "I need the tracking data!" Elena demanded, pivoting away.
 
@@ -115,11 +117,12 @@ Elena shot an apprehensive glance toward the panels. "What the Doctor means is, 
 
 "Mass Displacement Anomaly? That wasn't in the preliminary notes, Silas." Elena's true expression bled through as she looked at Blackwell, peering past his dark glasses.
 
-Blackwell turned, giving her his undivided attention for the first time. "It's predicted resonance," he said, the corner of his mouth rising.
+Blackwell turned, giving her his undivided attention for the first time.  She was looking for his eyes behind the dark lens of his glasses. He let her. 
+"It's predicted resonance," he said, the corner of his mouth rising.
 
-Elena shook her head. Seeing Blackwell relaxed, she dropped the subject. "You know, it wouldn't hurt you to talk to the Board." She turned, glancing back over the console floor behind them. "You are the lead."
+Elena shook her head. He watched her decide to believe him. "You know, it wouldn't hurt you to talk to the Board." She turned, glancing back over the console floor behind them. "You are the lead."
 
-Blackwell returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Elena and the technicians monitored the event horizon, Blackwell observed the real experiment begin. 
+The cigarette was still unlit between his lips. He wanted a drag. Blackwell returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Elena and the technicians monitored the event horizon, Blackwell observed the real experiment begin. 
 
 Listed in the logs, record of a shadow process, quietly expanding in the core. Blackwell caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus to a second synthetic on the far side of the room. Together they scrubbed the shadow process from the logs, silent, practiced, done before Elena could turn around.
 
