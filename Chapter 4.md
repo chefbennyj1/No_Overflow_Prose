@@ -8,11 +8,13 @@ The smoke disrupted the hard-light matrix. The flickering light of the corrupted
 
 The young manager on the display shifted uncomfortably. Digital artifacts crawled at his edges. "They accessed—" The young man's eyes went somewhere off-frame. "Everything, Doctor."
 
-Blackwell took a slow, deliberate drag from his cigarette. The end flared bright red, reflecting briefly in the black glass of his lenses. His voice remained quiet. The sudden shift in his posture was imposing. "The Renewal's incompetence has jeopardized my work."
+Blackwell took a deliberately slow drag from his cigarette. The end flared, reflecting in the black glass of his lenses. His voice remained quiet. He leaned forward into the light of the projection, and the young man on the other side of it leaned back. "The Renewal's incompetence has jeopardized my work."
 
 "The Corporation is treating this breach as a critical priority," the manager replied quickly, his tone practiced but tight with underlying panic. "Sweeps are active in the Dead Circuits as we speak. Redacted logs from your terminal have been forwarded to Oshima PD to aid in the hunt."
 
-Blackwell didn't care about the police. He didn't care about the Corporate Renewal agents kicking down doors. He cared about the fragile architecture of his creation. 
+Let Renewal kick down every door in the Circuits. Let some street rat keep the schematics. Nobody was going to open an anti-star out of scrap.
+
+But his logs were sitting on a police server now, and somebody else had done the redacting.
 
 Blackwell exhaled another cloud of smoke that drifted toward the ceiling. "We shall see what is truly compromised by this idiocracy."
 
