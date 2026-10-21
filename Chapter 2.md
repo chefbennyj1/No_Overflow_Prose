@@ -61,7 +61,7 @@ Rin moved away from the desk. She stepped back until the wireframe on the glass 
 
 Before she could dig deeper, the authorization download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive—her own drive. Down the hall, the elevator jammed against the wrench once more, chiming as the doors recoiled. 
 
-Rin stood with the drive in her palm, scanning the indecipherable symbols and diagrams. The Madame of the Filament was paying her scraps for janitor codes, and the Company was bleeding the lower city's power grid.
+Rin stood with the drive in her palm, scanning the indecipherable symbols and diagrams. The Company was bleeding the lower city's grid dry for whatever was in this file, and the Madame was only paying her for janitor codes.
 
 *Always keep an ace for yourself.*
 
