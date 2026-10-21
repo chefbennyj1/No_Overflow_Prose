@@ -157,7 +157,7 @@ The lead agent didn't speak. He stepped directly into Victor's personal space, t
 
 Victor was still holding his revolver. The entire squad shifted towards him in response. A silent, lethal threat.
 
-Victor made a point of slowly dropping his gun into his holster and raising his hands, so as not to instigate them. He winced, blinking through the blinding light. "Oh, look," he said, masking a spike of adrenaline. "The cavalry finally showed up. Just in time, as always."
+Victor made a point of slowly dropping his gun into his holster and raising his hands, so as not to instigate them. He winced, blinking through the blinding light. "Oh, look," he said. "The cavalry finally showed up. Just in time, as always."
 
 He didn't argue further. He stepped aside, letting the silent, black-armored squad push past them to secure the executive suite.
 
