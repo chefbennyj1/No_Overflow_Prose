@@ -19,7 +19,11 @@ A sudden flash of blue light reflected off the hallway walls. Rin jerked backwar
 
 She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. She held the SBC against the lock's near-field communication display. Its green crystal screen flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
 
-The magnetic lock disengaged with a hollow snap. She ran her fingers the length of the letters engraved on the smooth plaque attached to the center of the door, *Dr. Silas L. Blackwell, Ph.D Sc.D*.
+The magnetic lock disengaged with a hollow snap. She ran her fingers along the letters engraved on the plaque at the center of the door: *Dr. Silas L. Blackwell, Ph.D., Sc.D.*
+
+A lot of fancy letters after a name. Down in the Circuits, people were lucky to have a door.
+
+*Who the hell is this guy?* All that brass, and he hadn't bothered to show up for work in weeks.
 
 Tucking the jagged sidelock of her black hime-cut bob behind her ear, she slipped through the doorway, stepping into the muted silence of an executive suite. Water dripped from her oversized leather jacket onto the floor around her loosely tied combat boots. She navigated the darkness, making her way towards a polished desk in the far corner. 
 
@@ -87,13 +91,15 @@ Harlan burst through the stairwell door a second later, his weapon raised. "Jesu
 
 ***
 
-Inside the office, a low tone from the workstation terminal signaled the completed data transfer. 
+Inside the office, a low tone from the workstation terminal signaled the completed data transfer.
 
-Rin perked up, the sound of muffled voices from the hallway cutting through the muted silence of the office. Keeping her eyes on the door, she reached down, feeling for the red thumb drive. She pulled it from the console, her fingers closing tightly around the warm metal.
+Voices in the hall. Low, and getting closer. Rin pulled the red drive from the console, her fingers closing tight around the warm metal, and pocketed it.
 
-She pocketed the drive, her gaze shifting back to the window, then again to the ajar executive doors. 
+Renewal didn't talk in hallways. Cops did.
 
-Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte color with a faded yellow band painted around it. She held it in her palm. It had taken seven people to drag a hulking Renewal agent to the ground long enough for the canister to snap loose from its belt—a bloody memory she tried to forget. Rin ran her thumb over the rusted safety pin, staring at the small explosive as she calculated what she was about to do.
+Her eyes went to the window. Fifteen floors of glass and rain. Then the door. The elevator was at the end of that hall, wedged open and waiting, and whoever was talking out there was standing between her and it.
+
+Her fingers curled around a cylinder in the pocket of her leather jacket. She pulled it free into the blue light of the office. It was a high-yield CS gas canister, matte black with a faded yellow band painted around it. She held it in her palm. It had taken seven people to drag a Renewal agent to the ground long enough to tear it off his belt. She didn't let herself think about what it cost. Rin ran her thumb over the rusted safety pin.
 
 With her free hand, she pulled a low-profile rebreather mask from her collar. It was specialized, far more advanced than the stained surgical masks worn by the crowds in the Dead Circuits below. She pulled the thick straps over her dark hair, the rubber sealing tightly around her nose and mouth with a faint hiss of pressurized air. 
 
