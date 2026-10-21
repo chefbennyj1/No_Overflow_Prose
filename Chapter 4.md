@@ -6,11 +6,11 @@ The smoke disrupted the hard-light matrix. The flickering light of the corrupted
 
 "My office?" Blackwell's voice was dead flat. "What exactly did they access?"
 
-The young manager on the display shifted uncomfortably. Digital artifacts crawled at his edges. "They accessed—" The young man's eyes went somewhere off-frame. "Everything, Doctor."
+The young officer on the display shifted uncomfortably. Digital artifacts crawled at his edges. "They accessed—" The young man's eyes went somewhere off-frame. "Everything, Doctor."
 
 Blackwell took a deliberately slow drag from his cigarette. The end flared, reflecting in the black glass of his lenses. His voice remained quiet. He leaned forward into the light of the projection, and the young man on the other side of it leaned back. "The Renewal's incompetence has jeopardized my work."
 
-"The Corporation is treating this breach as a critical priority," the manager replied quickly, his tone practiced but tight with underlying panic. "Sweeps are active in the Dead Circuits as we speak. Redacted logs from your terminal have been forwarded to Oshima PD to aid in the hunt."
+"The Corporation is treating this breach as a critical priority," the officer replied quickly, his tone practiced but tight with underlying panic. "Sweeps are active in the Dead Circuits as we speak. Redacted logs from your terminal have been forwarded to Oshima PD to aid in the hunt."
 
 Let Renewal kick down every door in the Circuits. Let some street rat keep the schematics. Nobody was going to open an anti-star out of scrap.
 
@@ -18,11 +18,11 @@ But his logs were sitting on a police server now, and somebody else had done the
 
 Blackwell exhaled another cloud of smoke that drifted toward the ceiling. "We shall see what is truly compromised by this idiocracy."
 
-He tapped a key on his console. The manager’s avatar collapsed into a single, bright point of light before vanishing, plunging the room back into darkness.
+He tapped a key on his console. The officer’s avatar collapsed into a single, bright point of light before vanishing, plunging the room back into darkness.
 
 Doctor Blackwell emerged from his private office and stepped directly out into the lab. 
 
-It had been six weeks since the engine was brought online, and the toll was obvious. He surveyed the floor with quiet contempt.  Technicians slept in shifts, and the dress code had gone sometime around the fourth week. The synthetics were the only things in the room the engine hadn't changed.
+He surveyed the floor. Four weeks since the engine was brought online, and they had forgotten their respect for the lab and his science. Technicians slept in shifts, and the dress code had gone. The synthetics were the only things in the room the engine hadn't changed.
 
 Standing before a glowing interface was Elena Marlowe. The cool light of the monitors shone against her white lab coat. She was typing furiously, her face set in intense frustration, devoid of the commanding composure she normally maintained.
 
