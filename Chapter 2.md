@@ -17,7 +17,7 @@ The cool air conditioning filled her lungs, and the sharp scent of chemical clea
 
 A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, as the sweeping retinal scanner beam searched for its missing data. 
 
-She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. She held the SBC against the lock's near-field communication display. Its green crystal screen flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
+She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. It was an ugly half-cracked board—soldered together from Circuits scrap and wrapped in electrical tape—and it had never met a lock it couldn't break. She held the SBC against the lock's near-field communication display. Its green crystal screen flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
 
 The magnetic lock disengaged with a hollow snap. She ran her fingers along the letters engraved on the plaque at the center of the door: *Dr. Silas L. Blackwell, Ph.D., Sc.D.*
 
