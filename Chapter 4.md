@@ -46,7 +46,7 @@ Blackwell watched her analyze the data. She cleared her throat, then continued, 
 
 Iris's eyes went wide as she stared past her monitors, watching the screens spill data down the pillars in the pit. "The algorithm is processing so fast, the synthetics on the floor can't even parse the telemetry anymore."
 
-Blackwell smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss." He exhaled. "While we were out for lunch, that machine lived through civilizations' worth of generations."
+Blackwell smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss." He exhaled. "While we were out for lunch, that machine lived through civilizations worth of generations."
 
 "I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic drone of the servers. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
 
