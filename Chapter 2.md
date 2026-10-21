@@ -61,13 +61,13 @@ Rin stood with the drive in her palm, scanning the indecipherable symbols and di
 
 *Always keep an ace for yourself.*
 
-She jammed the red drive to the terminal, hooked the loose strand of hair back behind her ear, and hammered the key to start the copy.
+She jammed the red drive into the terminal, hooked the loose strand of hair back behind her ear, and hammered the key to start the copy.
 
 ***
 
 The fluorescent lights of the maintenance stairwell flickered, casting active shadows against the concrete. 
 
-"Fifteen floors up with no elevator, Victor?" Harlan gasped, loosening the tie of his grey suit. He leaned against the metal railing to catch his breath. "You sure it's Null this time?"
+"Fifteen floors, no elevator, Victor?" Harlan gasped, loosening the tie of his grey suit. He leaned against the metal railing to catch his breath. "You sure it's Null this time?"
 
 Victor didn't slow his ascent. His black coat whipped at his ankles with each quick step. He kept climbing. At the landing he turned and wiped the mess of white hair from his eyeline. He dismissed the familiar sting of the fluorescent lighting searing into his Albinotic eyes. 
 
@@ -123,13 +123,13 @@ Before Victor could blink through the pain and adjust his aim, she was moving. S
 
 Victor surged to his feet, shaking off the burning in his eyes, but she was too fast. He watched through the clearing smoke as she reached the end of the hall, sliding seamlessly into the elevator car. She kicked the heavy wrench from the floor track with her boot, freeing the doors from their open state. 
 
-Victor reached the elevator a second later, his stare centered through the final sliver of the closing doors. 
+Victor reached the elevator a second later, his stare centered through the final sliver of the closing doors.
 
-Victor and the girl's eyes met for the first time through the closing gap.
+Above the rebreather, she was a kid—twenty years old max, hair plastered to her temples. Her eyes were sharp. There was no panic in them. She took his measure through the two-inch gap in the steel while he choked on the smoke.
 
-He set his gaze on her, unyielding. Locked onto her. He ignored the tearing pain of the smoke—this was no longer only about the Filament.
+Twice now. She had gotten past him twice.
 
-The doors sealed shut. Null was gone. 
+The doors sealed shut. Null was gone.
 
 Victor and Harlan stumbled backward, breaking through the fire door and collapsing into the stairwell, heaving desperate breaths of cleaner air. There was no way to get to the bottom floor in time to catch the elevator as it arrived.
 
