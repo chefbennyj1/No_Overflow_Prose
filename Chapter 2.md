@@ -15,9 +15,9 @@ The corridor was otherwise silent. Rin had done her research; she had found the 
 
 The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
 
-A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, as the sweeping retinal scanner beam searched for its missing data. 
+A sudden flash of blue light reflected off the hallway walls. Rin jerked backward as the sweeping retinal scanner beam searched for its missing data. 
 
-She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. It was an ugly half-cracked board—soldered together from Circuits scrap and wrapped in electrical tape—and it had never met a lock it couldn't break. She held the SBC against the lock's near-field communication display. Its green crystal screen flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
+She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled her single-board computer from her jacket. It was an ugly half-cracked board—soldered together from Circuits scrap and wrapped in electrical tape—and it had never met a lock it couldn't break. She held the SBC against the lock's near-field communication display. Its green crystal screen flickered to life, scrolling rapidly, stopping on a hash of pixelated letters and numbers.
 
 The magnetic lock disengaged with a hollow snap. She ran her fingers along the letters engraved on the plaque at the center of the door: *Dr. Silas L. Blackwell, Ph.D., Sc.D.*
 
@@ -61,7 +61,7 @@ Rin moved away from the desk. She stepped back until the wireframe on the glass 
 
 Before she could dig deeper, the authorization download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive—her own drive. Down the hall, the elevator jammed against the wrench once more, chiming as the doors recoiled. 
 
-Rin stood with the drive in her palm, scanning the indecipherable symbols and diagrams, contemplating the repercussions of taking more than she had originally come for. The Madame of the Filament was paying her scraps for janitor codes, and the Company was bleeding the lower city's power grid.
+Rin stood with the drive in her palm, scanning the indecipherable symbols and diagrams. The Madame of the Filament was paying her scraps for janitor codes, and the Company was bleeding the lower city's power grid.
 
 *Always keep an ace for yourself.*
 
