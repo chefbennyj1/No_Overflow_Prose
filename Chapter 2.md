@@ -3,7 +3,7 @@ music: infiltration.mp3
 ---
   Rain lashed against the grit of the Dead Circuits. The lower city was a broken memory of what used to be, buried in the shadows of the "Towers", the daunting arcologies of the city. The brutalist structures of the upper grid disappeared into the thick fog, their windowless foundations looming overhead. 
   
-  The atmosphere was bitter, and concentrated with exhaust. Despite the rain, the morning sun struggled to pierce the smog—sudden, random columns of tarnished light that moved across the wet streets. Under the convective sun-shower, droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, no longer sterile, and stained from filtering the air. Only the synthetics walked barefaced. The freezing rain beaded off their vinyl skin, while the luminescent serial codes stamped beneath their eyes cut through the fog.
+  The atmosphere was bitter, and concentrated with exhaust. Despite the rain, the morning sun struggled to pierce the smog—random columns of light that moved across the wet streets. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, stained from filtering the air. Only the synthetics walked barefaced. The rain beaded off their vinyl skin, while the lit serial codes stamped beneath their eyes cut through the fog.
 
    Battered Takeda-Holden surveillance cameras clung to the steel poles of the intersections, their casings dented from thrown rocks, lenses tracking the crowds.
 
