@@ -5,9 +5,9 @@ music: infiltration.mp3
   
   The atmosphere was bitter, and concentrated with exhaust. Despite the rain, the morning sun struggled to pierce the smog—random columns of light that moved across the wet streets. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, stained from filtering the air. Only the synthetics walked barefaced. The rain beaded off their vinyl skin, while the lit serial codes stamped beneath their eyes cut through the fog.
 
-   Battered Takeda-Holden surveillance cameras clung to the steel poles of the intersections, their casings dented from thrown rocks, lenses tracking the crowds.
+   Battered Takeda-Holden surveillance cameras clung to the steel poles of the intersections, their casings dented from thrown rocks, tracking the crowds.
 
-  Rising from the center of the old blocks was a Company office building. A temporary, security barricade had been erected on the ground floor to protect the building's lower half from the possibility of uneasy gatherings. The monolith structure was a pristine slab of mirrored, tinted glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
+Rising from the center of the old blocks was a Company office building. A temporary, security barricade had been erected on the ground floor to protect the building's lower half. The monolith structure was a pristine slab of mirrored glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
   
   Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, Rin stood in the company hallway, pulling wires from an office's magnetic lock.
   
