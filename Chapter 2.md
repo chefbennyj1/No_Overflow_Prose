@@ -15,7 +15,7 @@ The corridor was otherwise silent. Rin had done her research; she had found the 
 
 The cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose. At the far end of the hall, the polished doors of the elevator stood jammed open, propped by a heavy steel wrench, wedged into the floor track to keep the car from being called away.
 
-A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, dodging the hidden retinal scanner. Her eyes widened as the sweeping laser beam searched for its missing data. 
+A sudden flash of blue light reflected off the hallway walls. Rin jerked backward, as the sweeping retinal scanner beam searched for its missing data. 
 
 She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled a crude, wire-wrapped single-board computer from her jacket. She held the SBC against the lock's near-field communication display. Its green crystal screen flickered to life, scrolling rapidly, stopping on a hash of pixelated letters, and numbers.
 
