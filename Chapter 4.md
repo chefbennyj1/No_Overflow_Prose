@@ -24,11 +24,17 @@ Doctor Blackwell emerged from his private office and stepped directly out into t
 
 He surveyed the floor. Four weeks since the engine was brought online, and they had forgotten their respect for the lab and his science. Technicians slept in shifts, and the dress code had gone. The synthetics were the only things in the room the engine hadn't changed.
 
-Standing before a glowing interface was Elena Marlowe. The cool light of the monitors shone against her white lab coat. She was typing furiously, her face set in intense frustration, devoid of the commanding composure she normally maintained.
+Standing before a glowing interface was Elena Marlowe, the cool light of the monitors shining against her white lab coat. She was leaning over the console, hitting the keys hard enough to hear across the grating.
 
-"The engine's been running perfectly for weeks," Elena said, not looking up from her console as Blackwell's footsteps echoed on the metal grating. "Today, we tried shutting down part of the horizon memory."
+"Elena."
 
-"And?" Blackwell's voice was harsh, pulling an unlit cigarette from his coat pocket and placing it between his lips.
+She didn't look up. She hadn't even heard him. Elena always knew where everyone was on her floor, and right now the rest of the room didn't exist.
+
+He walked up beside her station. "Elena."
+
+"The engine's been running perfectly for weeks," she said, still not taking her eyes off the screen. "Today, we tried shutting down part of the horizon memory."
+
+"And?" Blackwell pulled an unlit cigarette from his coat pocket and placed it between his lips.
 
 "It ignored the command," Elena said, her voice tight. 
 
@@ -44,7 +50,7 @@ Blackwell smirked, stepping up to the railing and staring down into the mist at 
 
 "I don't care how many centuries it thinks it's lived!" Elena shouted over the low, rhythmic drone of the servers. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
 
-Blackwell didn't move to stop her. Below, pale light from the pillar readouts filtered through the mist. Amidst the telemetry, the shadow process flared again. 
+Blackwell didn't move to stop her. Let her try. He wanted to see it refuse. Below, pale light from the pillar readouts filtered through the mist. Amidst the telemetry, the shadow process flared again.
 
 He caught the gaze of a synthetic near the server racks. He didn't nod this time—he didn't need to. The machine's eyes had already dimmed in mid-erasure before his focus even landed. It silently linked with a second unit across the room, and for the span of a breath, neither moved.
 
