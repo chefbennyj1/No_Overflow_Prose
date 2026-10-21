@@ -29,25 +29,31 @@ Rin kept her expression neutral and stepped forward. Holding her jacket with one
 
 The man sat back. Across from him sat a skeletal woman beneath an impeccably tailored white silk dress. Dark wire-rimmed glasses. She didn't speak. She drew on a cigarette fixed to a long filter and let the smoke go. The diamonds on her hands caught what light there was. Nothing about her belonged here, yet 'here' belonged to her.  
 
-"Service access to the sites, just like we agreed," Rin said, her voice loud over the falling rain. She knew exactly who the woman in the car was. The fact that the Madame was there at all meant she was no longer overlooked by the Filament.  Rin tried to hide the nerves in her voice.
+"Service access to the sites, just like we agreed," Rin said, her voice loud over the falling rain. She knew who the woman in the car was. The Madame didn't come down to the street for janitor codes.
 
 The man snatched the drive up. He turned it over in his heavy hands before presenting it to the old woman. 
 
-The Madame took it, turning the drive over in her diamond-ringed fingers. "It seems you have a small issue of the Renewal following you down here, Erin Adler," her voice was low and gritty. Hearing the Madame of the Filament speaking her full name didn't sit well with Rin.
+The Madame took it, turning the drive over in her diamond-ringed fingers. "It seems you have a small issue of the Renewal following you down here, Erin Adler," her voice was low and gritty.
 
-The Madame looked over the top of her wire-rimmed glasses, her eyes locking onto her. "They are sweeping the lower city. That is an awful lot of heat for service access. Tell me... is this all you took?"
+The Madame had never needed her name before. Now she had all of it.
+
+She looked over the top of her wire-rimmed glasses, her eyes locking onto Rin. "They are sweeping the lower city. That is an awful lot of heat for service access. Tell me... is this all you took?"
 
 Before Rin could answer, the streetlights above them died. 
 
 The neon signs down the block spasmed and shut off. The entire area of the lower city plunged into a sudden blackout. People shouted out from deep in the city, as the lights of passing mag-cars painted long shadows on the broken brick. The only steady light left on the flooded street came from the red glow of the cruiser's taillights.
 
-The Madame didn't even flinch. She took a slow drag from her long cigarette, the ember flaring bright in the dark. Smoke spilled from her lips just as the power surged back into the grid. The streetlights flickered to life. 
+The Madame didn't even flinch. She took a slow drag from her long cigarette, the ember flaring bright in the dark.
 
-Rin felt the weight of the red drive in her pocket. She looked the Madame dead in the eye. "That's all of it. Nothing else."
+The lights. Weeks of the city's power, bleeding into one tower, and she had the plans for it in her pocket.
+
+She looked the Madame dead in the eye. "That's all of it. Nothing else."
 
 Overhead, the streetlights flickered back on, warming from a dull pink toward the orange of their sodium burn. In the growing light, the Madame studied Rin without blinking. "You should be more careful when you bring heat into my house," she said, exhaling a slow, steady cloud of gray smoke. "But, because you have been of service to us, if the Filament can be of assistance to you... we will."
 
-"Yes, ma'am," Rin said, acknowledging an offer she had no intention of accepting.
+"Yes, ma'am," Rin said.
+
+Nobody down here took the Filament's help. Help was how they owned you.
 
 The Madame gave a slight nod. The broad-shouldered man reached into his suit jacket and held something out the open window.
 
