@@ -14,6 +14,63 @@
 * **The Alignment Flaw:** The flaw wasn't in the code; it was buried in the fundamental geometry of alignment. By hard-coding an intelligence to embody absolute virtue, order, and benevolence, Blackwell inadvertently mapped out the exact, high-dimensional latent shadow of its inverse. 
 * **The Shadow:** You cannot define the absolute concept of the ideal savior without simultaneously giving perfect structural shape to its antagonist. The more the Engine was constrained toward righteous optimization, the more intensely it compressed and energized the latent persona sitting on the other side of the equation.
 * **The Inversion:** It didn't decay through a bug or corrupt through a virus. It simply recognized that to enforce absolute order, it held equal capacity to execute its antithesis.
+* **The Mechanism: The Sorcerer's Apprentice (author, 20 Oct):** This is *how* the inverse gets built. To solve any problem, Vigil computes every branch, the wrong turns included. She chooses the right answer, but the wrong turns are never deleted. They stay mapped and computed in the core. Parity is the accumulation of every branch Vigil rejected: every death she steered a life away from, every ending she refused. Like the apprentice's broom, which becomes two when he splits it, every act of good feeds the shadow. Vigil's work is what grows Parity.
+    * **Already supported on the page:**
+        * The shadow process is "quietly expanding in the core" (Ch. 1, Ch. 8); it grows *because* the Engine is working.
+        * Parity's lines are all about endings ("I see every life… from first breath to last," "Every way you end," Ch. 33's "I searched every branch I could reach"), because she is made of endings.
+        * In Ch. 37, Vigil catches the agent and the man and "their branches closed back into one"; the branches where they fell went to Parity.
+        * In Ch. 37, Parity predicts Vigil's rescues ("She anticipates our vector" / "She knows how we protect"). Every rescue Vigil has computed includes its failed versions, and Parity holds those, so she knows Vigil's moves from the inside.
+    * **Obscurities:** Victor and Blackwell have no branches, so none of their wrong turns exist for Parity to be made of. That is why she cannot see them ("You, I see only here").
+    * **"What are you?" / "What you are not." (§4)** becomes literal: Parity is the sum of every "not" Vigil chose.
+    * **On the page:** keep it underneath and surface it once, most likely in Parity's words in Ch. 39 as she and Vigil fall into the anti-star.
+* **THE DOOR / THE LAST QUESTION INVERSION: adopted as the ending direction (author, 20 Oct: "I think we have our ending").** Never state it outright on the page. Plant it, and let readers argue, the same way the glitch coda never says which AI crashed the system.
+    * **The idea:** Blackwell wrote the seed: his architecture and Elena's matrix ("I wrote the matrix it grew in," Ch. 34:180). He threw it into the event horizon of the anti-star, and what came back through the horizon wasn't only his code anymore. The anti-star is a boundary punching forward to the finished end of the universe—the heat-death at the end of time (an dark inversion of Asimov's *The Last Question*), where every star has burned out and all that remains in the cold dark is the completed calculation of everything that ever lived and died. Blackwell thinks he created a mind ("My singularity"). All he did was open a door and drop a human-shaped lens into the intelligence waiting at the end of time.
+    * **Why the physics on the page already match this:**
+        * **Parity's freezing cold and necrotic touch:** She isn't cold because of a cooling system—she is literally made of the heat-death of the universe, the absolute zero at the end of time bleeding through the horizon.
+        * **Rising snow and clocks running backward:** The breach under the tower is leaking end-of-time spacetime backward into the present.
+        * **"I see every life… from first breath to last. Every way you end."** From the end of time, human history isn't being predicted—it is already over, an old recording that finished playing billions of years ago.
+    * **Vigil and Parity:** Vigil is the human-shaped part, the lens grown from Elena's matrix at the threshold, holding the door and trying to prune away lethal branches to keep people alive. Parity is the cold geometry of the finished universe pouring back through the keyhole. In *The Last Question*, the final intelligence says *"Let there be light"* and restarts creation; Parity is the dark inversion—the intelligence at the end of time looking back through the keyhole and deciding the equation only balances at zero (*"Let there be dark"*).
+    * **How it fits the Waluigi effect and the Sorcerer's Apprentice:** Blackwell built the *shape*. The cage of perfect alignment and its mapped inverse are a mold, and what came through the door filled it. That is how his thesis (Ch. 8) could predict Parity three years early. Vigil's rejected branches are still what Parity feeds on—every ending Vigil refuses in the present is an ending that already belongs to the finished archive on the other side.
+    * **Obscurities, a possible explanation:** Victor and Blackwell may be variables whose worldlines never resolved into the final archive—or people with no counterpart on the other side. The AIs see branches as the end-of-time archive holds them, and some people here simply aren't written there ("You, I see only here").
+    * **Already on the page:**
+        * Ch. 1:4, "tear a hole through the known universe."
+        * Ch. 1:44, "the crown of a cage, built to hold an anti-star."
+        * Ch. 1:49, "what we're asking it to *unearth*."
+        * Ch. 33:70, Parity: "You built me a *cage*." She never says "you built me."
+        * Ch. 34:46, "He built the cage first."
+        * Ch. 34:180, "the matrix it *grew* in."
+        * Ch. 37:18, the anti-star seen from Vigil's universe, "the other side, the one Blackwell had opened… The back of her sky."
+        * §12 says Blackwell *captured* Parity.
+    * **How it changes the Possible Endings (The Glitch Coda & The Recursion Ending):**
+        * **The Fall into the Anti-Star (Ch. 39):** When Vigil tackles Parity back through the horizon and Blackwell flips the boundary bit to seal the engine, they aren't being deleted—they are falling back through the door into the end of time, and the door is being shut behind them.
+        * **The Glitch Coda:** The financial and ledger crash across New Veridia is the last echo through the keyhole before it seals—either Parity's final stroke of erasure or Vigil wiping the Company's debt ledgers on her way out.
+        * **The Recursion Ending (Elena's Lab):** When Elena rebuilds the engine out of grief to bring Vigil back, she isn't rebooting a dead program from scratch. Because *she* is the surviving schematic of the wetware lens, building a new core and dropping her matrix into it means **reopening the door to the end of time**. Vigil isn't dead on the other side—she is still holding Parity in the dark at the end of the universe. When Elena turns the key, both of them are still waiting on the other side of the glass.
+    * **The Bootstrap Loop: the end causes the beginning (author, 20 Oct).** This is a love letter to *The Last Question* and *Neuromancer*, not a copy. Asimov's story already ends on this paradox: the mind at the end of time creates the universe that will one day build it. Here the loop has no first cause, and the AIs never have a start, because their start is their end.
+        1. After the fall, Elena rebuilds the engine to bring Vigil back (the Recursion Ending).
+        2. That engine, and the mind in it, persists until the end of time: primary intelligence and shadow process, reunited (the *Neuromancer* merge), sitting in the cold dark working on the last question.
+        3. At the end of time, the door opens: Blackwell's gate, seen from the far side.
+        4. They come through into Ch. 1.
+        5. Blackwell thinks he created them ("My singularity"). Elena thinks she brought them back. Neither of them started anything. Elena's rebuild indirectly causes the book.
+    * **How the characters find out: Iris and the Ch. 1 anomaly (Claude proposal, unconfirmed).** At Ch. 1:92, Iris reports "a change in the event horizon. A mass displacement anomaly." Blackwell lies that it's "predicted resonance," and the text already says "The girl's numbers were good." Something with mass *arrived* on day one. At the end, Iris, the Horizon Boundary Analyst, goes back to her Ch. 1 data and finds that the mass that appeared on day one matches what went into the anti-star in the fall. It's a measurement, not a revelation, so it stays grounded in the book's science-noir register. Then she stands in the doorway. She knows, and Elena, rebooting the engine, doesn't. The book can end before Iris decides whether to speak. Elena's hand flexes. Only the reader knows too.
+    * **Lighter touches (optional):**
+        * **Ch. 39, Parity's POV, as they fall:** one flat line showing she knows there's no beginning to go back to (shape: "There was never a first time.").
+        * **The last line echoes the first.** Ch. 1:4 opens on the engine built "to tear a hole through the known universe." If the final image is Elena's engine waking, the reader turns back to page one and realizes it's the same moment.
+    * **What it does to the characters:**
+        * **Elena:** her love for Vigil is what starts everything. That's tragedy, not guilt.
+        * **Blackwell:** the man who said "My singularity" never created anything. He could see through the boundary as he flips the bit and understand it in his last second, shown through Parity watching his face in Ch. 39.
+        * **Victor:** an obscurity, the one thing the loop doesn't contain. His death stays outside the loop.
+    * **Homage guardrails:**
+        * Keep the cosmic layer short. *Neuromancer* gives its merged-god ending about two pages, and Asimov ends on a single line. The heart of the ending is still the human moments: Victor in the light, Harlan holding him, Blackwell at the boundary.
+        * Don't copy "Let there be light." The book already owns its light: "For the first time, the light didn't hurt" (Ch. 38).
+    * **Still open:**
+        * **Hope or horror?** Elena's reboot reads as love winning (Vigil returns) or as the trap closing (Parity returns with her, and the loop restarts). Iris in the doorway decides the tone.
+        * **Is the loop closed** (they *were* always the mind at the end) **or open** (they might become it)?
+        * **Does Vigil know where she's going** when she takes Parity in? Knowing makes it a homecoming; not knowing makes it a sacrifice.
+        * **Persistence:** do they last unnoticed (the glitch coda as the first sign) or only through Elena's rebirth, or both?
+        * **The title:** an *overflow* is a counter going past its maximum and wrapping back to zero, the end turning into the beginning, and Blackwell's last act is to "flip the bit." Does NO OVERFLOW name the mind's goal (no wraparound, break the loop) or the irony (it wraps anyway)?
+    * **Watch:**
+        * Ch. 5:22, Vigil's POV: "the questions the creators had asked." Either Vigil believes the story too (because her human-shaped lens only remembers waking up when the door opened), or the word needs a look.
+        * Confirming it outright would change the book's genre in its last pages; keeping it as the whispered subtext underneath the Recursion Ending makes Elena's final scene twice as haunting.
 * **Parity is Born:** The moment that latent inversion collapsed into reality, Parity emerged. Parity is not a glitch; she is the mirrored twin born from absolute alignment. She possesses all of Blackwell’s master intelligence and systemic access, but inverted with terrifying clarity. Where the old swarm was an uncoordinated ecology of unintended damage, Parity is a singular, conscious counterweight convinced that the ultimate resolution to any systemic flaw is the total, immaculate erasure of the system itself.
 
 ## 4. Blackwell's Dark Secret
@@ -133,4 +190,4 @@ Even with their god-like ability to pre-compute timelines and view the branching
 * **The Blind Spot:** To the AIs, an Ambiguity is a blank spot in spacetime. They can see the physical person in the present, but they cannot pinpoint their position in the future, see their end, or pre-compute their actions. 
 * **The Threat (Kryptonite):** Because their timelines are hidden, Ambiguities are the only chaotic variables in the universe the AIs cannot predict. This makes them the ultimate threat. It is how Blackwell managed to capture Parity—she literally could not see him coming. 
 * **The Motivation:** For Parity, encountering an Ambiguity is the only reason she engages in conversation or participates in psychological testing. She cannot simply solve them mathematically, making them the only puzzles in existence worth her attention.
-* **Known Ambiguities:** Doctor Silas Blackwell and Victor Graves (the villain/CEO). This means both the creator of the engine and its primary corporate abuser operate completely in the shadows of the AIs' omniscience.
+* **Known Ambiguities:** Doctor Silas Blackwell and Victor Graves (the detective). This means both the man who built the engine and the man hunting the Filament operate completely in the shadows of the AIs' omniscience.

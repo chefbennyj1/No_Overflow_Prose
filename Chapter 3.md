@@ -19,11 +19,8 @@ The storm had begun a downpour. Rin stopped where the street opened out, her han
 
 He nonchalantly watched the car, though his gaze kept shifting to the street and back. The Minder hauled on his cigarette as the headlights of a passing mag-car caught the bulge of the gun under his coat. She didn't need to look for the second one. He was across the road in the doorway of a gutted storefront, his grimacing face already watching her from under his umbrella. He gave a slow nod, signaling her to proceed, before stepping back against the shadows. 
 
-Rain beat down, flooding the street in front of her. The rear passenger window of the black cruiser glided open, venting gray smoke into the atmosphere.
-
-Lifting her leather jacket above her head to shield her from the downpour, Rin crossed.
-
-A man leaned forward from the plush darkness, his broad shoulders blocking most of the passenger cabin. His suit was sharp, hair cut short, a wrinkled face held one brown eye, the other blue. "I see you made it out alive," he said, tapping an unlit cigarette against the package he drew it from. 
+Rain beat down, flooding the street in front of her. Lifting her leather jacket above her head to shield her from the downpour, Rin crossed.
+The rear passenger window of the black cruiser glided open, venting gray smoke into the atmosphere. A man leaned forward from the plush darkness, his broad shoulders blocking most of the passenger cabin. His suit was sharp, hair cut short, a wrinkled face held one brown eye, the other blue. "I see you made it out alive," he said, tapping an unlit cigarette against the package he drew it from. 
 
 Rin kept her expression neutral and stepped forward. Holding her jacket with one hand over her head, she reached into the back pocket of her jeans and pulled out a generic black thumb drive. She tossed it through the open window. It landed on the plush seat. 
 
