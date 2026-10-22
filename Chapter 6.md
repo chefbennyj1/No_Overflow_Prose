@@ -55,7 +55,9 @@ Empty.
 
 The slow, trenching crunch of combat boots advanced down the hallway. Peering around the corner, Rin spotted her thumb drive. Camouflaged in the dirty red pattern of the carpet, it sat exactly where she had hit the floor. 
 
-*Corporate-grade plating.* Adrenaline flooded her body. *They won't stop.* If Renewal got the drive, they'd have everything they were looking for, and they'd know who took it.
+*Corporate-grade plating.* Adrenaline flooded her body. *They won't stop.* 
+
+If Renewal got the drive, they'd have everything they were looking for, and they'd know who took it.
 
 Rin grit her teeth, threw her hand back around the corner into the line of fire, and snatched the drive off the carpet. A hail of bullets ripped into the floor.
 
