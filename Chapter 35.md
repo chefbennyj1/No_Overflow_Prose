@@ -65,8 +65,6 @@ Across from him, the Minder still held the revolver. Polished loafers. Eyes on n
 
 This was what his father had been.
 
-Victor's thumb found the striker of the lighter in his pocket. He rolled it once. He didn't light it.
-
 "Give the detective his gun," the Madame said.
 
 The Minder held the revolver out, grip first.

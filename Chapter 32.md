@@ -79,8 +79,6 @@ Victor looked back at the corner. The cruiser across the street hadn't moved.
 
 "End of the month." Harlan waited. "It's a small place, Vic. You can see the water from the school. Nobody there's ever heard of the Filament. The Company doesn't sink their teeth in that far east."
 
-Victor's thumb found the striker of his lighter in his pocket. He rolled it once. Twice. He didn't light it.
-
 "Who's taking your desk?"
 
 Harlan let out a breath that was almost a laugh.
@@ -88,8 +86,6 @@ Harlan let out a breath that was almost a laugh.
 "Somebody's gotta take the desk," Victor said.
 
 Harlan looked out the windshield. Orange light from the street ran down the wet glass and across his dark face. "Jackie and I saved for six years," he said quietly. "We're leaving, Vic."
-
-The striker turned under Victor's thumb again.
 
 "After this," Victor said.
 

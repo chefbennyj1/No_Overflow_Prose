@@ -11,7 +11,7 @@
 ## Voice
 - Victor's chapters (32, 35) use short declarative sentences, memory in italics, and no speeches.
 - He's albino and light-sensitive. Parity's white hurts to look at, and he looks anyway.
-- His lighter tic: he rolls the striker and never lights it.
+- Victor smokes (author, 22 Oct). The old "rolls the striker and never lights it" tic was cut from Ch. 32 and 35.
 - His revolver: the magnetic rails "wake" against his palm, a red indicator, a scorch mark.
 - He doesn't know Parity's name. To him she's "the white thing" or "it."
 

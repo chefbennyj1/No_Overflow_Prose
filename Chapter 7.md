@@ -1,4 +1,7 @@
-Victor walked down the faded seafoam colored hallway of Oshima Civic Care. The blue and yellow checkered linoleum under foot. The fluorescent lights overhead dying with an electrical buzz. He stopped at the front desk, dragging the chained stylus across the visitor log. He looked up at the nurse behind the desk. "Victor Graves, for Arthur Graves". 
+---
+music: ambient_back_1.mp3
+---
+Victor walked down the faded seafoam hallway of Oshima Civic Care, the blue and yellow checkered linoleum worn dull underfoot. Overhead, the dying fluorescents sputtered with an electrical buzz—the harsh glare stinging his pale eyes the way it did every visit. He stopped at the front desk, dragging the chained stylus across the visitor log. He looked up at the nurse behind the desk. "Victor Graves, for Arthur Graves."
 
 The nurse turned her screen toward him before he finished signing. The balance had a second number under it now. 
 
@@ -15,6 +18,8 @@ Arthur’s head snapped toward him, his expression twisting into sudden, fierce 
 Victor held his hands up, instantly retreating. He pulled a plastic chair across from him and sat down directly in front of the glass. "Alright, Pop. I'll watch the window." 
 
 Across the gap between the tenements, a rattly old subway mag-train crawled along a rusted lower-city track. Victor watched the dirty passenger cars shudder past one by one, until the red marker on the rear vanished into the dark mouth of a broken subway tunnel.
+
+Victor watched two more trains go by. Arthur's eyes never left the glass. He was still keeping watch for her. Nobody had ever told him he could stop.
 
 He stood up and walked back out into the hall. 
 
@@ -33,11 +38,13 @@ Victor tightened his jaw. "They hollowed him out as a Minder... —left him to w
 The precinct was loud. Exhausted beat cops in wet bomber jackets pushed past desks, shaking off the freezing rain. They were trailed by precinct synthetics, the blue `PD` serials glowing faintly beneath their eyes. Up front, a crowd shouted over the intake counter—desperate people demanding answers for the Renewal sweeps in lower grids.
 Victor rolled his thumb along the striker of his lighter, sparking a flame against the end of his cigarette. He exhaled, adding to the low-hanging smoke of the busy bullpen. 
 
+Every job they'd pinned on Null, she'd been in and out before anyone knew the door was open. Yesterday she'd stayed long enough for two cops to climb fifteen floors.
+
 "It doesn't fit." His words barely cut through the noise.
 
 Harlan leaned forward, resting his elbows on the metal desk. "I told you to buy your jacket off the rack, not the bin," he said with a slight smirk.
 
-Victor leaned back in his chair, ignoring the joke. He crossed his arms, letting the smoke spiral. "Null's M.O." he reached forward and crushed the half-smoked cigarette into the overflowing ashtray. 
+Victor leaned back in his chair, ignoring the joke. He crossed his arms, letting the smoke spiral. "Null's M.O." He reached forward and crushed the half-smoked cigarette into the overflowing ashtray. 
 
 Leaning his chin against his hand, Victor stared at the cluttered desk. "Null usually doesn't stick around." 
 
@@ -45,13 +52,13 @@ Harlan’s smirk vanished. "Null 'stuck around'," he paused, his expression hard
 
 Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a digital folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Silas Blackwell." 
 
-A sudden commotion erupted in the room as officers dragged a group of struggling demonstrators across the floor. Victor kept his focus on the papers. 
+A sudden commotion erupted in the room as officers dragged a group of struggling demonstrators across the floor. Victor kept his focus on the screen. 
 
 "It’s heavily redacted," Victor said, his eyes scanning the thick black lines. "Except for this: *Mnemosyne*." He waited to see if he had Harlan’s attention. His partner remained silent. "The log has a second name in the metadata," Victor continued. "Doctor Elena Marlowe."
 
 Harlan raised an eyebrow. "Marlowe? The cybernetics prodigy?" 
 
-Victor knew the name. He knew her contributions had revolutionized the current generation of synthetics before suddenly vanishing from the headlines. She was the reason the city was crawling with them—the reason you couldn't walk down a street without some unblinking canner looking you over.
+Victor knew the name. A few years back it had been on every screen in the city. She was the reason the place was crawling with synthetics—the reason you couldn't walk down a street without some unblinking canner looking you over.
 
 "Vic, she hasn't been seen public-side in five years," Harlan said.
 
