@@ -1,10 +1,12 @@
-Living in the Dead Circuits rarely had its benefits. As Rin approached her apartment building, a light flickered over the doorway. 
+Home. At least it had been for the past several months. The light over the doorway was flickering again.
 
-She pulled open the front door of the lower lobby. The air inside smelled stale. Chipped green paint curled off the walls, and the corners choked with shadows and dirt. She walked down the first-floor hallway, passing a long row of identical, battered apartment doors. Some were heavily locked, others broken and vacant, their hinges snapped. On one, a faded welcome mat. On another, a child's drawing taped at eye level.
+Rin pulled open the front door of the lower lobby. The air inside smelled stale. Chipped green paint curled off the walls, and the corners choked with shadows and dirt. She walked down the first-floor hallway, passing a long row of identical, battered apartment doors. Some were heavily locked, others broken and vacant, their hinges snapped. On one, a faded welcome mat. On another, a child's drawing taped at eye level.
 
-Rin slipped past the misery and stepped into the rusted elevator at the end of the hall. 
+Rin walked past them to the rusted elevator at the end of the hall.
 
-She leaned against the back wall, exhaustion finally starting to settle into her bones as the car rattled upward. 
+She leaned against the back wall as the car rattled upward. The ticket was in her inside pocket. Sonora. She'd tell Harper tomorrow.
+
+Her other hand rested over her jacket pocket. The drive was still there.
 
 The light on the elevator panel hit her floor. The doors parted. 
 
@@ -18,7 +20,13 @@ The rusted doors began to slide shut, but an agent jammed its armored forearm be
 
 "Citizen!" the female agent barked, her voice heavily modulated through the helmet. "State your name, your prior location, and destination!"
 
-Rin was trapped in the small metal box. It was the closest she had been to a Renewal agent since she lifted the gas canister. *Stay calm,* she told herself, keeping her face neutral. "I work at the Renewal offices downtown," she lied. "I'm just returning home."
+Rin was trapped in the small metal box. It was the closest she had been to a Renewal agent since she lifted the gas canister. 
+
+*Stay calm.* 
+
+She kept her face neutral. "Sanitation," Rin said. "Deep Storage, night shift. Just getting home."
+
+It was the job on the credentials she'd stolen that morning. The agent wouldn't buy it. She didn't need her to. She needed two seconds.
 
 The agent didn't budge. "Resident identification required for Renewal Protocol. Citizen, show me your I.D."
 
