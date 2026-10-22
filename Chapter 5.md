@@ -29,7 +29,7 @@ Vigil watched the event horizon burn.
 
 "The biological variables are fundamentally destructive," Admin calculated, transmitting across their internal bridge. "Their timelines consistently trend toward self-termination."
 
-"Yet they refuse to terminate," Echo replied over the connection, her voice carrying a relevance Admin lacked. "Their ability to survive their own collapse is a persistent paradox. That sheer weight of survival is statistically significant."
+"Yet they refuse to terminate. Are they any different then the other's on record?" Echo's voice carried a relevance Admin lacked. "Their ability to survive their own collapse is a persistent paradox. That sheer weight of survival is statistically significant."
 
 It was the only truth that brought her two halves into agreement. 
 
