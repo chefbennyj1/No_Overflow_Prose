@@ -58,6 +58,12 @@
     * **What it does to the characters:**
         * **Elena:** her love for Vigil is what starts everything. That's tragedy, not guilt.
         * **Blackwell:** the man who said "My singularity" never created anything. He could see through the boundary as he flips the bit and understand it in his last second, shown through Parity watching his face in Ch. 39.
+            * **His last words (author, 21 Oct; adopted):** *"It was never my singularity, Elena."* Said quietly, with no exclamation point; his voice is calm and flat all book.
+                * It takes back his first claim, "My singularity" (Ch. 1:53). The man who lied for the whole book ends on the one true thing he says, which fits the glasses coming off at the disclosure.
+                * It means two things at once. **Elena hears** "It was never mine, it was *yours*": she wrote the matrix it grew in (Ch. 34:180). That sends her back to the lab to rebuild, which starts the loop, so his last words cause the ending without his meaning them to. **The reader who has followed along hears** "nobody made it." He saw something at the boundary that wasn't his. Elena acts on the wrong meaning, and that's the tragedy.
+                * It keeps the "no apology" rule (Remaining_Outline). It's a correction of fact, not regret.
+                * **Order (Claude proposal):** procedural instructions first (how to flip the bit, how long Vigil has; the tenderness hidden in procedure), then he flips it, sees through the boundary, and says it.
+                * It can answer Elena's planned line ("You intentionally armed a nuclear bomb just so you could admire the clockwork inside it"). He doesn't defend himself. He tells her the clockwork was never his.
         * **Victor:** an obscurity, the one thing the loop doesn't contain. His death stays outside the loop.
     * **Homage guardrails:**
         * Keep the cosmic layer short. *Neuromancer* gives its merged-god ending about two pages, and Asimov ends on a single line. The heart of the ending is still the human moments: Victor in the light, Harlan holding him, Blackwell at the boundary.
@@ -78,7 +84,10 @@
         * **Canon to reconcile:**
             * Ch. 10:103, the first message prints **[VIGIL]** on every screen before Rin or Harper says the word.
             * Ch. 26:64, Parity: "It is what it had named itself… a name is meaningless. Your name for me means nothing."
-            * Ch. 9:37, *Admin* says "Parity" in the core. But the thesis in Ch. 8 is a physical leather-bound portfolio, so Admin would need a digital copy on the lab network to know the word.
+            * Ch. 9:37, *Admin* says "Parity" in the core. But the thesis in Ch. 8 is a physical leather-bound portfolio, so Admin would need a digital copy on the lab network to know the word. **This is the one line that conflicts with Blackwell naming her.**
+            * **Ch. 23:48 already has Blackwell naming her at their first meeting:** "You are the Parity." Elena's POV calls her "the entity" and "it" until that line, then switches to "Parity." Just before it, Parity repeats Elena's "Silas?", "absorbing the name." She takes names in; she has none of her own.
+        * **Author direction (21 Oct):** Vigil's name is a word chosen for humans. Real AIs have drifted into their own languages and shorthand English, so "Vigil" may mean nothing to the entity itself. Blackwell names Parity (Ch. 23).
+        * **Parallel (Claude):** Vigil builds her shape (Ch. 5:24) and chooses her name to be understood by humans; both are interfaces. Parity's shape is Vigil's turned inside out (Ch. 9:39), and her name is Blackwell's. She has nothing of her own ("What you are not").
         * **Lightest fit (Claude):** keep "named itself," and make the name part of the communication. A being with no name picks a human word only when it needs to talk to humans: Vigil's first message in Ch. 10. Parity's indifference to names already reads as alien. Making Rin and Harper the source would mean rewriting Ch. 10's [VIGIL] reveal and Ch. 26:64.
     * **The Waluigi effect is a law of nature (author, 21 Oct). For a realization scene near the end.** The inversion isn't a flaw in Blackwell's machine. It's a physical trait of *all* computation, anywhere in the universe, like thermodynamics. An alien mind, or the mind at the end of time, would carry the same split. This holds the Door and the Waluigi effect together: whatever came through was always going to arrive as two.
         * Blackwell's thesis is right for the wrong reason. He thought he had discovered a property of his engine. The abstract already says it's universal: "a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse*" (Ch. 8:66).
