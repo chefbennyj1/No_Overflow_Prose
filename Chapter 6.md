@@ -18,7 +18,7 @@ The rusted doors began to slide shut, but an agent jammed its armored forearm be
 
 "Citizen!" the female agent barked, her voice heavily modulated through the helmet. "State your name, your prior location, and destination!"
 
-Rin was trapped in the small metal box. It was the closest she had ever been to a Renewal agent. *Stay calm,* she told herself, keeping her face neutral. "I work at the Renewal offices downtown," she lied. "I'm just returning home."
+Rin was trapped in the small metal box. It was the closest she had been to a Renewal agent since she lifted the gas canister. *Stay calm,* she told herself, keeping her face neutral. "I work at the Renewal offices downtown," she lied. "I'm just returning home."
 
 The agent didn't budge. "Resident identification required for Renewal Protocol. Citizen, show me your I.D."
 
