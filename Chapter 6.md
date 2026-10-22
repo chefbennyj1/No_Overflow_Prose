@@ -1,6 +1,6 @@
 Home. At least it had been for the past several months. The light over the doorway was flickering again.
 
-Rin pulled open the front door of the lower lobby. The air inside smelled stale. Chipped green paint curled off the walls, and the corners choked with shadows and dirt. She walked down the first-floor hallway, passing a long row of identical, battered apartment doors. Some were heavily locked, others broken and vacant, their hinges snapped. On one, a faded welcome mat. On another, a child's drawing taped at eye level.
+Rin pulled open the front door of the lower lobby. The air inside smelled stale. Chipped green paint curled off the walls, and the corners filled with dirt. She walked down the first-floor hallway, passing a long row of identical, battered apartment doors. Some were heavily locked, others broken and vacant. 
 
 Rin walked past them to the rusted elevator at the end of the hall.
 
