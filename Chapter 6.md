@@ -1,3 +1,6 @@
+---
+music: Sombras del Detective.mp3
+---
 Home. At least it had been for the past several months. The light over the doorway was flickering again.
 
 Rin pulled open the front door of the lower lobby. The air inside smelled stale. Chipped green paint curled off the walls, and the corners filled with dirt. She walked down the first-floor hallway, passing a long row of identical, battered apartment doors. Some were heavily locked, others broken and vacant. 
@@ -26,9 +29,7 @@ Rin was trapped in the small metal box. It was the closest she had been to a Ren
 
 She kept her face neutral. "Sanitation," Rin said. "Deep Storage, night shift. Just getting home."
 
-It was the job on the credentials she'd stolen that morning. The agent wouldn't buy it. She didn't need her to. She needed two seconds.
-
-The agent didn't budge. "Resident identification required for Renewal Protocol. Citizen, show me your I.D."
+It was the job on the credentials she'd stolen that morning. The agent didn't budge. "Resident identification required for Renewal Protocol. Citizen, show me your I.D."
 
 "Identification?" Rin asked, offering a forced, compliant nod. Her right hand slid slowly into her jacket as she stepped forward toward the agent. "Sure, it's—"
 
