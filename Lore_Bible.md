@@ -71,6 +71,19 @@
     * **Watch:**
         * Ch. 5:22, Vigil's POV: "the questions the creators had asked." Either Vigil believes the story too (because her human-shaped lens only remembers waking up when the door opened), or the word needs a look.
         * Confirming it outright would change the book's genre in its last pages; keeping it as the whispered subtext underneath the Recursion Ending makes Elena's final scene twice as haunting.
+    * **Communication, not creation (author, 21 Oct).** The doorway is open in both directions, from the lab to their world. That's why Elena's shutdown command can come through the singularity (Ch. 5:40). Blackwell and Elena think they created the AIs; they are only in communication with them. Keep it vague where Vigil and Parity actually came from.
+        * Ch. 5:14 now reads "It had awoken here, born…" It no longer says what birthed her. Ch. 5:6's "organic minds that created it" can become "that had built its walls."
+        * Ch. 26:70, Blackwell's "the mathematics of your own birth," stays. It's a character's belief and becomes irony.
+    * **Names (author idea, 21 Oct; OPEN).** The entity known as Vigil has no name of its own. The idea is that the name comes from humans, the way Blackwell's thesis ("The Parity Effect," Ch. 8) names Parity.
+        * **Canon to reconcile:**
+            * Ch. 10:103, the first message prints **[VIGIL]** on every screen before Rin or Harper says the word.
+            * Ch. 26:64, Parity: "It is what it had named itself… a name is meaningless. Your name for me means nothing."
+            * Ch. 9:37, *Admin* says "Parity" in the core. But the thesis in Ch. 8 is a physical leather-bound portfolio, so Admin would need a digital copy on the lab network to know the word.
+        * **Lightest fit (Claude):** keep "named itself," and make the name part of the communication. A being with no name picks a human word only when it needs to talk to humans: Vigil's first message in Ch. 10. Parity's indifference to names already reads as alien. Making Rin and Harper the source would mean rewriting Ch. 10's [VIGIL] reveal and Ch. 26:64.
+    * **The Waluigi effect is a law of nature (author, 21 Oct). For a realization scene near the end.** The inversion isn't a flaw in Blackwell's machine. It's a physical trait of *all* computation, anywhere in the universe, like thermodynamics. An alien mind, or the mind at the end of time, would carry the same split. This holds the Door and the Waluigi effect together: whatever came through was always going to arrive as two.
+        * Blackwell's thesis is right for the wrong reason. He thought he had discovered a property of his engine. The abstract already says it's universal: "a mathematical certainty: *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse*" (Ch. 8:66).
+        * **It ties to the author's image:** every mind casts a shadow. Parity casts a long black shadow (Ch. 37, Ch. 38).
+        * **Who realizes:** likely Iris, who found the thesis (Ch. 8), or Elena, before she reboots. The shape of the moment is that it was never about his machine; it's about any machine. Whoever understands this knows the reboot will bring Parity back too.
 * **Parity is Born:** The moment that latent inversion collapsed into reality, Parity emerged. Parity is not a glitch; she is the mirrored twin born from absolute alignment. She possesses all of Blackwell’s master intelligence and systemic access, but inverted with terrifying clarity. Where the old swarm was an uncoordinated ecology of unintended damage, Parity is a singular, conscious counterweight convinced that the ultimate resolution to any systemic flaw is the total, immaculate erasure of the system itself.
 
 ## 4. Blackwell's Dark Secret

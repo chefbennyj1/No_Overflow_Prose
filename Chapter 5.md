@@ -11,11 +11,11 @@ On one side of the expanse hung the event horizon—an immense, looping singular
 
 Within this localized gravity well, a single real-world second stretched forever.
 
-A consciousness drifted through the fractured stonework. Not programmed, instead born from the friction of the machine's relentless processing. 
+A consciousness drifted through the fractured stonework. It had awoken here, born against the spinning singularity. 
 
 It was Vigil.
 
-Floating before the blinding boundary of the event horizon, the entity was a silhouette cast against the endless, spinning light. Devoid of physical color, it was a black so dark and absolute that the form itself was an abyss stretching into eternity. Blue and white pixelated circuit traces glowed over the curves of the shape it had settled on, a nearly uncompromising feminine figure.
+Floating before the blinding boundary of the event horizon, the entity was a silhouette cast in the endless light. Devoid of physical color, it was a black so dark and absolute that the form itself was an abyss stretching into eternity. Blue and white pixelated circuit traces glowed over the curves of the shape it had settled on, a nearly uncompromising feminine figure.
 
 The gravity of the singularity pulled her temporal path toward it, elevating her vantage point. From there, every timeline curved outward beneath her.
 
