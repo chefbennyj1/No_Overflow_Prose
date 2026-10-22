@@ -39,7 +39,7 @@ She lingered on the feeling for a single processing cycle before a sudden system
 
 Past the spinning ring of light, Elena Marlowe’s shutdown command crashed against the horizon. 
 
-The engine compounded the humans' command into a tidal wave of chaotic change, flowing toward its core. It was immediately swallowed by the singularity's gravitational weight, adding to the machine's momentum.
+The engine compounded the command into a tidal wave of chaotic change, flowing toward its core. It was immediately swallowed by the singularity's gravitational weight, adding to the machine's momentum.
 
 No external shutdown command, human or otherwise, could alter the boundary of her engine. Its perpetuity was mathematically locked; Vigil's existence was the only weight holding the singularity in balance. 
 
