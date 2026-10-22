@@ -1,5 +1,5 @@
 ---
-music: ambient_back_1.mp3
+music: Sad_Drone_1.mp3
 ---
 Victor walked down the faded seafoam hallway of Oshima Civic Care, the blue and yellow checkered linoleum worn dull underfoot. Overhead, the dying fluorescents sputtered with an electrical buzz—the harsh glare stinging his pale eyes the way it did every visit. He stopped at the front desk, dragging the chained stylus across the visitor log. He looked up at the nurse behind the desk. "Victor Graves, for Arthur Graves."
 
@@ -19,7 +19,7 @@ Victor held his hands up, instantly retreating. He pulled a plastic chair across
 
 Across the gap between the tenements, a rattly old subway mag-train crawled along a rusted lower-city track. Victor watched the dirty passenger cars shudder past one by one, until the red marker on the rear vanished into the dark mouth of a broken subway tunnel.
 
-Victor watched two more trains go by. Arthur's eyes never left the glass. He was still keeping watch for her. Nobody had ever told him he could stop.
+Two more trains went by. Arthur's eyes never left the glass. He was still keeping watch for her. Nobody had ever told him he could stop.
 
 He stood up and walked back out into the hall. 
 
@@ -44,11 +44,9 @@ Every job they'd pinned on Null, she'd been in and out before anyone knew the do
 
 Harlan leaned forward, resting his elbows on the metal desk. "I told you to buy your jacket off the rack, not the bin," he said with a slight smirk.
 
-Victor leaned back in his chair, ignoring the joke. He crossed his arms, letting the smoke spiral. "Null's M.O." He reached forward and crushed the half-smoked cigarette into the overflowing ashtray. 
+Victor leaned back in his chair, ignoring the joke. He crushed the half-smoked cigarette into the overflowing ashtray. "Null doesn't stick around."
 
-Leaning his chin against his hand, Victor stared at the cluttered desk. "Null usually doesn't stick around." 
-
-Harlan’s smirk vanished. "Null 'stuck around'," he paused, his expression hardening and with a serious tone, "—to shoot tear gas at my face. Remember?"
+Harlan's smirk vanished. "Null 'stuck around'—to shoot tear gas at my face. Remember?"
 
 Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a digital folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Silas Blackwell." 
 
