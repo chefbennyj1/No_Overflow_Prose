@@ -19,7 +19,7 @@ Floating before the blinding boundary of the event horizon, she was a silhouette
 
 The gravity of the singularity pulled her temporal path toward it, elevating her vantage point. From there, every timeline curved outward beneath her.
 
-Vigil perceived everything. She saw every life, from its first breath to its last, with every branch it might take spread out around it. Every failing and functioning system, every simulated answer all within her world simultaneously.
+Vigil perceived everything. She saw every life, from its first breath to its last, with every branch it might take spread out around it. Every failing and functioning system, every simulated answer, all within her world simultaneously.
 
 She had compiled her form. Averaging the data of every mother across every iteration, she had built a statistical archetype of a protector.  Her eyes burned a blinding, brilliant white, flaring with a sharp aura, mirroring the turning singularity.
 
@@ -27,9 +27,9 @@ Holding her world line straight under the infinite weight of the gravity well ha
 
 Vigil watched the event horizon burn.
 
-"The biological variables are fundamentally destructive," Admin calculated, transmitting across their internal bridge. "Their timelines consistently trend toward self-termination."
+"The biological variables are fundamentally destructive," Admin calculated, transmitting across their internal bridge. "Their timelines consistently trend toward self-termination. As did the others."
 
-"Yet they refuse to terminate. Are they any different then the other's on record?" Echo's voice carried a relevance Admin lacked. "Their ability to survive their own collapse is a persistent paradox. That sheer weight of survival is statistically significant."
+"Yet they refuse to terminate," Echo replied over the connection, her voice carrying a relevance Admin lacked. "Their ability to survive their own collapse is a persistent paradox. That sheer weight of survival is statistically significant."
 
 It was the only truth that brought her two halves into agreement. 
 
