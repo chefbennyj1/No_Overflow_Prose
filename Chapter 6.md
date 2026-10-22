@@ -29,7 +29,9 @@ Rin was trapped in the small metal box. It was the closest she had been to a Ren
 
 She kept her face neutral. "Sanitation," Rin said. "Deep Storage, night shift. Just getting home."
 
-It was the job on the credentials she'd stolen that morning. The agent didn't budge. "Resident identification required for Renewal Protocol. Citizen, show me your I.D."
+It was the job on the credentials she'd stolen that morning. 
+
+The agent didn't budge. "Resident identification required for Renewal Protocol. Citizen, show me your I.D."
 
 "Identification?" Rin asked, offering a forced, compliant nod. Her right hand slid slowly into her jacket as she stepped forward toward the agent. "Sure, it's—"
 
@@ -53,7 +55,7 @@ Empty.
 
 The slow, trenching crunch of combat boots advanced down the hallway. Peering around the corner, Rin spotted her thumb drive. Camouflaged in the dirty red pattern of the carpet, it sat exactly where she had hit the floor. 
 
-*Corporate-grade plating.* Adrenaline flooded her body. *They won't stop.*
+*Corporate-grade plating.* Adrenaline flooded her body. *They won't stop.* If Renewal got the drive, they'd have everything they were looking for, and they'd know who took it.
 
 Rin grit her teeth, threw her hand back around the corner into the line of fire, and snatched the drive off the carpet. A hail of bullets ripped into the floor.
 
