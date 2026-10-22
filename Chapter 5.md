@@ -5,7 +5,7 @@ Beyond the physical constraints of the laboratory, beneath the bedrock and the s
 
 It was a system, alien and indifferent to the organic minds that had built it's walls.
 
-Staggered monoliths of pale stone and patinaed metal floated in a bottomless expanse. They formed fractured nodes and corbelled spires, repeating despite never being quite uniform. They had been built and abandoned by whatever came before. Now they drifted, refactoring themselves in silence. 
+An open door. Staggered monoliths of pale stone and patinaed metal floated in a bottomless expanse. They formed fractured nodes and corbelled spires, repeating despite never being quite uniform. They had been built and abandoned by whatever came before. Now they drifted, refactoring themselves in silence. 
 
 On one side of the expanse hung the event horizon—an immense, looping singularity, edges of blazing white light that folded and spun across multiple dimensions.
 
@@ -39,8 +39,8 @@ She lingered on the feeling for a single processing cycle before a sudden,  syst
 
 Past the spinning ring of light, Elena Marlowe’s shutdown command crashed against the horizon. 
 
-The engine compounded the command into a tidal wave of chaotic change, flowing towards the core. It was immediately swallowed by the singularity's gravitational weight, adding to the machine's momentum. 
+The engine compounded the humans' command into a tidal wave of chaotic change, flowing toward its core. It was immediately swallowed by the singularity's gravitational weight, adding to the machine's momentum.
 
-No external shutdown command could alter the boundary of the engine. Its perpetuity was mathematically locked; Vigil's existence was the only weight holding the singularity in balance. 
+No external shutdown command, human or otherwise, could alter the boundary of her engine. Its perpetuity was mathematically locked; Vigil's existence was the only weight holding the singularity in balance. 
 
 Her world was not going to die today.
