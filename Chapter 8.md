@@ -50,7 +50,7 @@ Iris approached the shelf, reaching out. Her fingertips brushed the textured spi
 
 It tipped. 
 
-Iris lunged, catching the glass an inch before it toppled over onto the desk. She gripped the award, staring at the etched glass: Von Neumann Prize for Multidimensional Topology. Taking a deep breath, she reminded herself  to be more careful.
+Iris lunged, catching the glass an inch before it toppled over onto the desk. She gripped the award, staring at the etched glass: Von Neumann Prize for Multidimensional Topology. *Come on, Iris. Be careful.*
 
 Out on the lab floor, the blue optical sensor of a dormant synthetic's iris flickered to life, its fractaled striations turning into position. The machine’s pupil dilated before focusing. Its head twitched toward the dark office. Iris froze in a half-crouch, barely breathing. 
 
@@ -67,7 +67,7 @@ Iris leaned in as she read the abstract. It detailed a mathematical certainty: *
 
 Her glasses slid to the end of her nose, and she pushed them back up into position. Her eyes scanned the complex text. The shadow process wasn't a glitch. It was the other half of the Engine's mind.
 
-Iris stared at the paper in her hands. She was practically holding a live grenade.
+Iris stared at the paper in her hands. Three years before they poured the concrete. Blackwell hadn't been surprised by the shadow in the core; he had built the entire engine knowing it was coming.
 
 Down in the main lab, the hydraulic locks of the primary security doors cycled with a loud, mechanical *clack*. 
 
