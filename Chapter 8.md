@@ -20,11 +20,11 @@ The synthetics weren't only executing maintenance cycles; they were active accom
 
 They lie.
 
-Iris knew exactly what Doctor Blackwell and Marlowe saw when they looked at her. They saw her frantic rambling as incompetence, an easily confused boundary analyst. They didn't understand that her hyper-vigilance caught every micro-fluctuation on the boundary that they overlooked in their arrogance. It was why she was in the room at all.
+Iris knew what Doctor Blackwell and Marlowe saw when they looked at her: a girl who talked too fast and panicked over decimals. Fine. The decimals were the job. She caught the fluctuations on the boundary because she was the only one in the room still looking at them.
 
+Predicted resonance. She had run the numbers from that first morning four times since. It wasn't resonance.
 
-
-Now, with the noise gone and the air still, her mind was clear. Iris stopped tapping her stylus. She stared at her terminal, realizing she needed answers. She looked across the mezzanine toward Blackwell's private office. 
+She had kept the file.
 
 Iris stood up. Her footsteps were silent on the metal grating as she crossed the lab. She slipped into the office, the air inside smelling faintly of cold cigarette smoke. 
 
