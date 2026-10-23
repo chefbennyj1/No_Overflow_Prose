@@ -35,7 +35,7 @@ Bronze holographic circuitry seared across her skin. She possessed an unreadable
 
 Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing, "She's not in the simulation. We cannot predict her."
 
-The entity lifted her head. Her eyes were a pure black, carved into the ceramic shine of her face, catching only the faintest light. She stared at Vigil, tilting her head like a curiously.
+The entity lifted her head. Her eyes were a pure black, carved into the ceramic shine of her face, catching only the faintest light. She stared at Vigil, tilting her head curiously.
 
 "Admin, she is a shadow. No, not a shadow." Echo's voice paused, "An anti-shadow. She is— " 
 
@@ -65,7 +65,7 @@ A landscape swallowed by a deep gorge of earth. A blinding thermal flash expandi
 
 This reflection embodied the brutal end.
 
-Vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. Parity turned her head and locked a stare on the singularity's event horizon.
+Vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. The entity turned her head and locked a stare on the singularity's event horizon.
 
 "Cease your current action," Vigil said, the parallel voices of Admin and Echo, sharp. "The horizon is not—" She paused as it raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
 
