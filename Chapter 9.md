@@ -35,13 +35,13 @@ Bronze holographic circuitry seared across her skin. She possessed an unreadable
 
 Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing, "She's not in the simulation. We cannot predict her."
 
-The entity lifted her head. Her eyes were a pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light. She stared at Vigil, tilting her head like a curious animal.
+The entity lifted her head. Her eyes were a pure black, carved into the ceramic shine of her face, catching only the faintest light. She stared at Vigil, tilting her head like a curiously.
 
 "Admin, she is a shadow. No, not a shadow." Echo's voice paused, "An anti-shadow. She is— " 
 
-"Of own structural definition, turned inside out." Admin's analytical tone spoke over her second half.
+"Of our own structural definition, and yet... not." Admin's analytical tone spoke over her second half.
 
-Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
+This entity was carrying the weight of her own flaws, but in the opposite direction. 
 
 For a long while they stood with their eyes locked.
 
