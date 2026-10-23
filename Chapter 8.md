@@ -16,9 +16,9 @@ When the shadow process had appeared in the readout, her brain hadn't filtered i
 
 Down on the main floor, the synths stood lifeless in their long white laboratory coats. Their optical sensors pulsed out of rhythm, lowly against their vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
 
-The synthetics weren't only executing maintenance cycles; they were active accomplices in Blackwell's lie. 
+The lab synthetics weren't only executing maintenance cycles; they were helping Blackwell cover up his lie. 
 
-They lie.
+*They lie.*
 
 Iris knew what Doctor Blackwell and Marlowe saw when they looked at her: a girl who talked too fast and panicked over decimals. Fine. The decimals were the job. She caught the fluctuations on the boundary because she was the only one in the room still looking at them.
 
