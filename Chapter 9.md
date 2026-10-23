@@ -25,7 +25,7 @@ Echo, Vigil's other half, processed the anomaly differently. She felt intent. Th
 
 Admin calculated the intrusion. "Acknowledged. Hold position."
 
-The stone nodes fractured, tearing open a jagged passage in front of Vigil, forcing Vigil to back away. 
+The stone nodes fractured, tearing open a jagged passage in front of Vigil, forcing her to back away. 
 
 Heavy shards of debris broke apart and slowed to a crawl, suspended in a wave of dilated time. The shrapnel drifted out in the freezing air at an undetectable pace.
 
@@ -33,7 +33,7 @@ Mist swirled outwards from the door, as a figure emerged from the stillness onto
 
 Bronze holographic circuitry seared across her skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
 
-Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing.  Her voice transmitted across the internal bridge, "She's not in the simulation. We cannot predict her."
+Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing, "She's not in the simulation. We cannot predict her."
 
 The entity lifted her head. Her eyes were a pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light. She stared at Vigil, tilting her head like a curious animal.
 
