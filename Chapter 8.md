@@ -13,11 +13,9 @@ Why would anyone want sections of a horizon neural matrix to be so aggressively 
 
 Blackwell's voice still echoed in her head, sharp enough to make her wince. 
 
-
-
 When the shadow process had appeared in the readout, her brain hadn't filtered it out. She had seen the exact moment it was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
 
-Down on the main floor, the synths stood lifeless in their long white laboratory coats. Their optical sensors pulsed out of rhythm, lowly against their vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
+Down on the main floor, the synths stood lifeless in their long white laboratory coats. Their optical sensors pulsed out of rhythm, lowly against their vinyl plating. It was unsettling to see them sleeping. 
 
 The lab synthetics weren't only executing maintenance cycles; they were helping Blackwell cover up his lie. 
 
@@ -38,9 +36,9 @@ Blackwell preferred to take his breaks on the lower terraces. Up here, the secto
 
 Elena turned away from the glass and approached the main concourse, exiting the sky-bridge to step out onto a suspended walkway midway up the Takeda-Holden corporate atrium. 
 
-Heavily armored Renewal agents patrolled the lower levels while silent synthetics stood at the security checkpoints, watching without moving. A synthetic dressed in a concierge uniform greeted her by name as she passed, traces of blue light shimmering through its optic strands. 
+Heavily armored Renewal agents patrolled the lower levels while synthetics stood at the security checkpoints, watching without moving. A synthetic dressed in a concierge uniform greeted her by name as she passed, traces of blue light shimmering through its optic strands. 
 
-Elena didn't break stride, moving through the turnstiles with practiced authority, her heels clicking sharply against the polished concrete. 
+Elena didn't break stride, moving through the turnstiles with practiced authority, her heels clicking sharply against the concrete. 
 
 She was early. She hadn't slept well. The inability to shut down the horizon memory the day before still nagged at the back of her mind, despite Blackwell's confident dismissals. She stepped into the private executive elevator, pressing her thumb to the button for the lab level. The descent was smooth, and silent.
 
