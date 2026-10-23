@@ -1,3 +1,6 @@
+---
+music: Midnight_at_the_Terminal.mp3
+---
 Rin pressed her back against the rusted iron door, breathing hard. Rain hammered the alley around her, washing the grime of the lower sectors down the corrugated steel in streaks. She checked the stairwell. Empty. For now.
 
 She turned and hammered her fist against the heavy metal door.
@@ -32,13 +35,13 @@ Rin's eyes tracked the motion until she caught herself staring and looked away.
 
 "I wouldn't be here if I had another choice."
 
-Harper watched her while a gray cylinder of ash lengthened on the cigarette between her knuckles. She sighed, turning away to a cramped kitchenette built into the wall. She poured thick, black coffee from a battered French press into two ceramic mugs and shoved one into Rin's hands without looking at her.
+Harper watched her, the ash lengthening on her cigarette. She sighed, turned to the counter, and filled two mugs from the pot. She shoved one into Rin's hands without looking at her.
 
-The heat of the ceramic instantly bled into Rin's rain-soaked skin, grounding her.
+The heat of the ceramic bled into Rin's rain-soaked skin. She took a sip. Scorched and bitter, the way Harper always made it.
 
 "Fine," Harper said, leaning against the counter. "Leaving's one thing, but I'm not gonna let you bleed out in the rain. Show me what you've gotten yourself into."
 
-Rin took a sip from the mug in her hand, while reaching into her back pocket and pulling out the red metal thumb drive with the other. She held it out.
+Rin reached into her back pocket with her free hand, pulling out the red metal thumb drive. She held it out.
 
 Harper took it, her fingers brushing Rin's palm. She crossed to her primary workstation — an oversized, air-gapped rig built from stolen corporate hardware, liquid-cooled by a radiator loud enough to rattle the shelf above it. She dropped into her chair, pulled the keyboard onto her lap, and slotted the drive into a modified port.
 
@@ -86,7 +89,9 @@ Harper laughed, a sharp, bitter sound. "They don't know it was you. Something hu
 
 She paused. "It won't take long before they find you." Her eyes sharpened. "And anyone you're with. Aw, hell."
 
-An alert flashed across her screen, Harper turned back to it, her face washed in the terminal light. "What in the hell?"
+Rin looked at the door. The deadbolt, the chain. Harper had told her to lose this address.
+
+An alert flashed across her screen. Harper turned back to it, her face washed in the terminal light. "What in the hell?"
 
 She frowned, pulling up another command terminal. "The system just queried us back."
 
@@ -151,12 +156,17 @@ Rin gripped the SBC, staring blankly at Harper.
 
 Harper stood up, grabbing a duffel bag from the floor. "You know what? It doesn't matter. If this thing can reach us through an air-gapped rig, it knows exactly where we are. We need to leave. Now."
 
-Rin didn't move. "Run where, Harper? They're tearing up the Circuits. If Takeda-Holden built a singularity, nowhere in Oshima is safe." 
+Rin looked at her jacket on the arm of the sofa. One ticket, still in the pocket. Sonora was a long way from Oshima.
+
+Termination.
+
+It wasn't far enough.
+
+Rin didn't move. "Run where, Harper? They're tearing up the Circuits. If Takeda-Holden built a singularity, nowhere is safe." 
 
 Harper stopped, looking terrified, the duffel bag hanging in her hand. 
 
-"—this thing asked for our help," Rin said, her voice hardening. 
-"There are instructions here. " She held up the SBC.
+"—this thing asked for our help," Rin said, her voice hardening. "There are instructions here." She held up the SBC.
 
 Harper stared at her. "Takeda-Holden, Rin? It's suicide."
 
