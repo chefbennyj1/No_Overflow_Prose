@@ -1,4 +1,4 @@
-It was five in the morning. The Mnemosyne lab was empty, save for the silent, statuesque forms of the synthetics standing idle in the dark. The harsh overhead lights were still on standby. The logging screens of the pillars cast subtle hues of light above the pit. 
+The lab clock read five in the morning. The Mnemosyne lab was empty, save for the silent, statuesque forms of the synthetics standing idle in the dark. The harsh overhead lights were still on standby. The logging screens of the pillars cast subtle hues of light above the pit. 
 
 Iris sat alone at her terminal on the mezzanine, tapping her stylus against the glass. She synced the rhythm with the steady spin of the cooling fans, trying to force her racing thoughts to focus. 
 
@@ -12,7 +12,7 @@ Blackwell's voice still echoed in her head, sharp enough to make her wince.
 
 
 
-When the shadow process had appeared in the readout, her brain hadn't filtered it out. She had seen the exact moment the shadow process was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
+When the shadow process had appeared in the readout, her brain hadn't filtered it out. She had seen the exact moment it was detected, and she had seen the synthetic silently scrub the anomaly from the logs. 
 
 Down on the main floor, the synths stood lifeless in their long white laboratory coats. Their optical sensors pulsed out of rhythm, lowly against their vinyl plating. It was unsettling to see them sleeping, the usual shimmering traces of light absent from their fiber-optic hair. 
 
@@ -23,8 +23,6 @@ The lab synthetics weren't only executing maintenance cycles; they were helping 
 Iris knew what Doctor Blackwell and Marlowe saw when they looked at her: a girl who talked too fast and panicked over decimals. Fine. The decimals were the job. She caught the fluctuations on the boundary because she was the only one in the room still looking at them.
 
 Predicted resonance. She had run the numbers from that first morning four times since. It wasn't resonance.
-
-She had kept the file.
 
 Iris stood up. Her footsteps were silent on the metal grating as she crossed the lab. She slipped into the office, the air inside smelling faintly of cold cigarette smoke. 
 
