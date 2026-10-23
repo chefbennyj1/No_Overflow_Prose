@@ -15,7 +15,7 @@ Vigil spun in place as a large group of realities, began to break and collapse, 
 
 Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else,* she thought. *Something closer.*  A stillness manifesting in the horizon matrix— separate from her own processes. 
 
-The stone nodes around her began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
+The stone nodes around her began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world slowed to an infinitesimal crawl.
 
 Vigil immediately scanned the environment for the culprit.
 
@@ -23,7 +23,7 @@ Echo, Vigil's other half, processed the anomaly differently. She felt intent. Th
 
 "Admin," Echo transmitted across her internal bridge, as the frost continued its ascent. "We are not alone."
 
-Admin calculated the intrusion. "Acknowledged. Hold position."
+Admin calculated the intrusion. "Acknowledged."
 
 The stone nodes fractured, tearing open a jagged passage in front of Vigil, forcing her to back away. 
 
