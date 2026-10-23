@@ -15,11 +15,11 @@ Vigil spun in place as a large group of realities, began to break and collapse, 
 
 Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else,* she thought. *Something closer.*  A stillness manifesting in the horizon matrix— separate from her own processes. 
 
-The stone nodes around her began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world slowed to an infinitesimal crawl.
+The stone nodes around her began to slow in the silence. A hardened, brittle cold crept over them, until the refactoring of her world slowed to a crawl.
 
 Vigil immediately scanned the environment for the culprit.
 
-Echo, Vigil's other half, processed the anomaly differently. She felt intent. The void at the bottom of the engine held a shape.
+Echo, Vigil's other half, processed the irregularity differently. She felt intent. The void at the bottom of the engine held a shape.
 
 "Admin," Echo transmitted across her internal bridge, as the frost continued its ascent. "We are not alone."
 
@@ -53,7 +53,7 @@ In a silent motion, she inched forward.
 
 Vigil recoiled the same distance. "State your intention," her doubled voice stern.
 
-Before Vigil could calculate the next interaction, the entity's position shifted. She was suddenly in her space, her face close to her own. The blank stare of her empty eyes pierced into Vigil's.
+Before Vigil could calculate the next interaction, the entity's position shifted. The entity's porcelain face was suddenly in her space, their faces intimately close. The blank stare of her empty eyes pierced into Vigil's.
 
 "Admin—" Echo's panicked voice cut short across the internal bridge.
 
