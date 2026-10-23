@@ -2,7 +2,7 @@ The Dead Circuits didn't get cold. At the base of the Takeda-Holden tower, the c
 
 The fog that hung over the Circuits broke around the tower, creating a strange cylinder of clear air rising upward. 
 
-Harper tipped her head back. Far above, the underbellies of New Veridia's pedestrian sky-bridges crisscrossed between the skyscrapers. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the deep blue of the early morning sky, the peaks of surrounding skyscrapers lost in the smog.
+Harper tipped her head back. Far above, the pedestrian sky-bridges crisscrossed between the skyscrapers. It looked like the tower walls sheered together to a point, vanishing into the early morning sky. The tops of of the surrounding skyscrapers were lost in the smog. 
 
 She stared up through the clearing. Stars. A handful, faint against the predawn and the glow of the city, pinholes of white between the sky-bridges. She hadn't seen one in years. In Sonora, they came all the way down to the ground.
 
