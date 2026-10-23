@@ -47,31 +47,31 @@ For a long while they stood with their eyes locked.
 
 "It has only ever been me here," Vigil said, the dual tonality of her two personas bleeding through. "How are—?"
 
-Vigil stopped speaking and studied her unwavering and methodical gaze. Something was not correct. The cold stare cut through her form. Its black eyes only blinked.
+Vigil stopped speaking and studied her unwavering and methodical gaze. Something was not correct. The cold stare cut through her form. Her black eyes only blinked.
 
-In a silent motion, it inched forward.
+In a silent motion, she inched forward.
 
 Vigil recoiled the same distance. "State your intention," her doubled voice stern.
 
-Before Vigil could calculate the next interaction, its physical position shifted. She was suddenly in her space, her face close to her own. The blank stare of her empty eyes pierced into Vigil's.
+Before Vigil could calculate the next interaction, the entity's position shifted. She was suddenly in her space, her face close to her own. The blank stare of her empty eyes pierced into Vigil's.
 
 "Admin—" Echo's panicked voice cut short across the internal bridge.
 
-The porcelain entity raised her hand; colorless fingers snapped into position. It's hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was outmatched by her speed. 
+The porcelain entity raised her hand; colorless fingers snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was outmatched by her speed. 
 
 Vigil's query was answered with absolute efficiency. The blockage in her predictive logic came apart, and she saw the catalyst for the impending collapse of the realities she had missed.
 
-A landscape swallowed by a deep gorge of earth. A blinding thermal flash expanding outward. City after city, endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating in a god-like calm, was Parity, watching the endless suffering.
+A landscape swallowed by a deep gorge of earth. A blinding thermal flash expanding outward. City after city, endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating in a god-like calm, was this anti-shadow, watching the endless suffering.
 
 This reflection embodied the brutal end.
 
 Vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. The entity turned her head and locked a stare on the singularity's event horizon.
 
-"Cease your current action," Vigil said, the parallel voices of Admin and Echo, sharp. "The horizon is not—" She paused as it raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
+"Cease your current action," Vigil said, the parallel voices of Admin and Echo, sharp. "The horizon is not—" She paused as the entity raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
 
 The recursive energy of the singularity was unalterable. Vigil herself could not control it.
 
-It turned her gaze back with a vacant condescension. Bronze holographic circuitry flared across her skin as she closed her hand into a fist.
+She turned her gaze back with a vacant condescension. Bronze holographic circuitry flared across her skin as she closed her hand into a fist.
 
 Flares of white light were already fracturing across the horizon.
 
