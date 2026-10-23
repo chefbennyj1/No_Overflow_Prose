@@ -1,6 +1,6 @@
 The Dead Circuits didn't get cold. At the base of the Takeda-Holden tower, the concrete under Harper's boots was ice.
 
-The dense fog that choked the upper city broke around the tower, creating a strange cylinder of clear air rising upward. 
+The fog that hung over the Circuits broke around the tower, creating a strange cylinder of clear air rising upward. 
 
 Harper tipped her head back. Far above, the underbellies of New Veridia's pedestrian sky-bridges crisscrossed between the skyscrapers. The forced perspective merged the tower's sheer walls together, vanishing into a dull point in the deep blue of the early morning sky, the peaks of surrounding skyscrapers lost in the smog.
 
