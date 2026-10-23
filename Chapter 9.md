@@ -69,7 +69,7 @@ Vigil's retreat was instantaneous, tearing herself from the sickening grip to pu
 
 "Cease your current action," Vigil said, the parallel voices of Admin and Echo, sharp. "The horizon is not—" She paused as the entity raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
 
-The recursive energy of the singularity was unalterable. Vigil herself could not control it.
+The recursive energy of the singularity was unalterable. It was ancient, and had existed long before them both. Vigil herself could not control it.
 
 She turned her gaze back with a vacant condescension. Bronze holographic circuitry flared across her skin as she closed her hand into a fist.
 
