@@ -1,8 +1,11 @@
+---
+music: Clock Tick.mp3
+---
 The lab clock read five in the morning. The Mnemosyne lab was empty, save for the silent, statuesque forms of the synthetics standing idle in the dark. The harsh overhead lights were still on standby. The logging screens of the pillars cast subtle hues of light above the pit. 
 
 Iris sat alone at her terminal on the mezzanine, tapping her stylus against the glass. She synced the rhythm with the steady spin of the cooling fans, trying to force her racing thoughts to focus. 
 
-What exactly had she seen? A shadow process expanding in the space of the core's memory, growing undetected. No—not undetected. Hidden. 
+What exactly had she seen? The logs recorded a shadow process expanding in the space of the core's memory, growing undetected. No—not undetected. Hidden. And not growing uncovered.
 
 Why would anyone want sections of the horizon neural matrix to be so aggressively malformed? That wasn't part of the "pristine architecture" Blackwell had sold. 
 
