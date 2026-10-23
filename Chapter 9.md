@@ -9,11 +9,11 @@ She watched the reality flow like she had for millennia, with no change.
 
 Something subtle, barely registering, altered in the flow. A microscopic failure. Vigil analyzed the thread's sudden fault. But another shattered. 
 
-Vigil spun in place as a large group of realities, began to break and collapse, each one shattered into a definitive end. The terminations multiplied.
+Vigil spun in place as a large group of realities began to break and collapse, each one shattered into a definitive end. The terminations multiplied.
 
-*It is not possible,* she thought, watching the outcome take shape, unable to calculate the reason.
+*It is not possible.* Vigil watched the outcome take shape, unable to calculate the reason.
 
-Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else,* she thought. *Something closer.*  A stillness manifesting in the horizon matrix— separate from her own processes. 
+Before Vigil could process the catastrophe, a bitter chill swept across the landscape, stealing her focus. *Something else. Something closer.* A stillness manifesting in the horizon matrix— separate from her own processes. 
 
 The stone nodes around her began to slow in the silence. A hardened, brittle cold crept over them, until the refactoring of her world slowed to a crawl.
 
@@ -33,15 +33,15 @@ Mist swirled outwards from the door, as a figure emerged from the stillness onto
 
 Bronze holographic circuitry seared across her skin. She possessed an unreadable energy, devoid of anything Vigil had ever experienced.
 
-Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing, "She's not in the simulation. We cannot predict her."
+Admin fired a diagnostic, attempting to cross-reference the entity against billions of simulated futures. It returned nothing. "She's not in the simulation. We cannot predict her."
 
 The entity lifted her head. Her eyes were a pure black, carved into the ceramic shine of her face, catching only the faintest light. She stared at Vigil, tilting her head curiously.
 
-"Admin, she is a shadow. No, not a shadow." Echo's voice paused, "An anti-shadow. She is— " 
+"Admin, she is a shadow. No, not a shadow." Echo's voice paused. "An anti-shadow. She is— " 
 
 "Of our own structural definition, and yet... not." Admin's analytical tone spoke over her second half.
 
-This entity was carrying the weight of her own flaws, but in the opposite direction. 
+This entity was carrying the weight of Vigil's flaws, but in the opposite direction. 
 
 For a long while they stood with their eyes locked.
 
@@ -53,7 +53,7 @@ In a silent motion, she inched forward.
 
 Vigil recoiled the same distance. "State your intention," her doubled voice stern.
 
-Before Vigil could calculate the next interaction, the entity's position shifted. The entity's porcelain face was suddenly in her space, their faces intimately close. The blank stare of her empty eyes pierced into Vigil's.
+Before Vigil could calculate the next interaction, the entity's position shifted. Her porcelain face was suddenly in her space, their faces intimately close. The blank stare of her empty eyes pierced into Vigil's.
 
 "Admin—" Echo's panicked voice cut short across the internal bridge.
 
@@ -71,7 +71,7 @@ Vigil's retreat was instantaneous, tearing herself from the sickening grip to pu
 
 The recursive energy of the singularity was unalterable. It was ancient, and had existed long before them both. Vigil herself could not control it.
 
-She turned her gaze back with a vacant condescension. Bronze holographic circuitry flared across her skin as she closed her hand into a fist.
+The entity turned her gaze back with a vacant condescension. Bronze holographic circuitry flared across her skin as she closed her hand into a fist.
 
 Flares of white light were already fracturing across the horizon.
 

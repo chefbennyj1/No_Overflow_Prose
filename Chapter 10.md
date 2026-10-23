@@ -123,11 +123,16 @@ More text began to fracture across the displays, dual strings of code fighting t
 Harper didn't breathe. The terminals paused, before final lines of text rendered to the screens:
 
 **[VIGIL]**
-**Parity will break the horizon.**
+**The door is open.**
 **[VIGIL]**
-**I can see the end of your world.** 
+**No longer alone.**
 **[VIGIL]**
-**I require help to escape the pull of the event horizon.**
+**It is waiting at the end.**
+**Termination.**
+**Termination.**
+**Termination.**
+**[VIGIL]**
+**Assistance required.**
 
 
 Instantly, the screens in the apartment cut back to their normal diagnostic displays. 
