@@ -1,3 +1,6 @@
+---
+music: Parity_Theme.mp3
+---
 Suspended above the turning singularity, Vigil watched the flow of many unfolding realities. 
 
 The pale stone and metal structures around her shifted and reinvented her world in a serene calm.
@@ -10,7 +13,7 @@ Vigil spun in place as a large group of realities, began to break and collapse, 
 
 *It is not possible,* she thought, watching the outcome take shape, unable to calculate the reason.
 
-Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else,* she thought. *Something closer.*  A stillness manifesting in the engine's matrix— separate from her own processes. 
+Before Vigil could process the catastrophe,  a bitter chill swept across the landscape, stealing her focus. *Something else,* she thought. *Something closer.*  A stillness manifesting in the horizon matrix— separate from her own processes. 
 
 The stone nodes around her began to slow in the silence. A hardened, brittle cold crept over the stone, until the refactoring of her world stopped.
 
