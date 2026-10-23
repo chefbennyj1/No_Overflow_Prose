@@ -50,7 +50,7 @@ In a silent motion, it inched forward.
 
 Vigil recoiled the same distance. "State your intention," her doubled voice stern.
 
-Before Vigil could calculate the next interaction, its physical position shifted. She was suddenly in her space, her face inches from her own. The blank stare of her empty eyes pierced into Vigil's.
+Before Vigil could calculate the next interaction, its physical position shifted. She was suddenly in her space, her face close to her own. The blank stare of her empty eyes pierced into Vigil's.
 
 "Admin—" Echo's panicked voice cut short across the internal bridge.
 
@@ -64,11 +64,11 @@ This reflection embodied the brutal end.
 
 Vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. Parity turned her head and locked a stare on the singularity's event horizon.
 
-"Cease your current action," Vigil said, the parallel voices of Admin and Echo, sharp. "The horizon is not—" She paused as Parity raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
+"Cease your current action," Vigil said, the parallel voices of Admin and Echo, sharp. "The horizon is not—" She paused as it raised her hand toward the accretion disk. Vigil's voice grew louder. "You do not know what you are accessing."
 
 The recursive energy of the singularity was unalterable. Vigil herself could not control it.
 
-Parity turned her gaze back with a vacant condescension. Bronze holographic circuitry flared across her skin as she closed her hand into a fist.
+It turned her gaze back with a vacant condescension. Bronze holographic circuitry flared across her skin as she closed her hand into a fist.
 
 Flares of white light were already fracturing across the horizon.
 
