@@ -1,3 +1,6 @@
+---
+music: erie score.mp3
+---
 His hands clasped behind his back, Doctor Silas Blackwell stood on the mezzanine overlooking the Mnemosyne Engine. The main floor of the lab was quiet, the cooling fans spinning in a steady rhythm. Below him, Elena Marlowe was seated at her terminal, dark shadows under her eyes, leaning into her palm. 
 
 "The alignment is holding," Elena said, her voice echoing faintly. "For now."
