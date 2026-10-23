@@ -1,6 +1,8 @@
-Suspended above the anti-star of the Mnemosyne Engine, Vigil was working. She watched the pale stone and metal structures around her shift, reinventing her world in a serene calm.
+Suspended above the turning singularity, Vigil watched the flow of many unfolding realities. 
 
-She watched the flow of many unfolding realities, like she had for millennia, with no change. 
+The pale stone and metal structures around her shifted and reinvented her world in a serene calm.
+
+She watched the reality flow like she had for millennia, with no change. 
 
 Something subtle, barely registering, altered in the flow. A microscopic failure. Vigil analyzed the thread's sudden fault. But another shattered. 
 
@@ -32,29 +34,29 @@ Admin fired a diagnostic, attempting to cross-reference the entity against billi
 
 The entity lifted her head. Her eyes were a pure black, carved into the ceramic shine of her face, catching the faintest sliver of ambient light. She stared at Vigil, tilting her head like a curious animal.
 
-"Admin, she is a shadow. No, not a shadow." Echo's voice paused, "An anti-shadow. She is a— " 
+"Admin, she is a shadow. No, not a shadow." Echo's voice paused, "An anti-shadow. She is— " 
 
-"Parity." Admin's analytical tone spoke over her second half.
+"Of own structural definition, turned inside out." Admin's analytical tone spoke over her second half.
 
-Parity was an exact map of Vigil's own structural definition, turned inside out. Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
+Too jagged, too sharp, carrying the weight of Vigil's flaws in the opposite direction. 
 
-Vigil stood before Parity.
+For a long while they stood with their eyes locked.
 
-"You are real," Vigil said, the dual tonality of her two personas bleeding through.
+"It has only ever been me here," Vigil said, the dual tonality of her two personas bleeding through. "How are—?"
 
-Vigil studied her unwavering and methodical gaze. The cold stare cut through her form. Parity's black eyes only blinked.
+Vigil stopped speaking and studied her unwavering and methodical gaze. Something was not correct. The cold stare cut through her form. Its black eyes only blinked.
 
-In a silent motion, Parity inched forward.
+In a silent motion, it inched forward.
 
 Vigil recoiled the same distance. "State your intention," her doubled voice stern.
 
-Before Vigil could calculate the next interaction, Parity's physical position shifted. She was suddenly in her space, her face inches from her own. The blank stare of her empty eyes pierced into Vigil's.
+Before Vigil could calculate the next interaction, its physical position shifted. She was suddenly in her space, her face inches from her own. The blank stare of her empty eyes pierced into Vigil's.
 
 "Admin—" Echo's panicked voice cut short across the internal bridge.
 
-Parity raised her hand; colorless fingers snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was outmatched by her speed. 
+The porcelain entity raised her hand; colorless fingers snapped into position. It's hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was outmatched by her speed. 
 
-Parity answered the query with absolute efficiency. The blockage in Vigil's predictive logic came apart, and she saw the catalyst for the impending collapse of the realities she had missed.
+Vigil's query was answered with absolute efficiency. The blockage in her predictive logic came apart, and she saw the catalyst for the impending collapse of the realities she had missed.
 
 A landscape swallowed by a deep gorge of earth. A blinding thermal flash expanding outward. City after city, endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating in a god-like calm, was Parity, watching the endless suffering.
 

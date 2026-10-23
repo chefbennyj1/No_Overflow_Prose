@@ -80,6 +80,10 @@
     * **Communication, not creation (author, 21 Oct).** The doorway is open in both directions, from the lab to their world. That's why Elena's shutdown command can come through the singularity (Ch. 5:40). Blackwell and Elena think they created the AIs; they are only in communication with them. Keep it vague where Vigil and Parity actually came from.
         * Ch. 5:14 now reads "It had awoken here, born…" It no longer says what birthed her. Ch. 5:6's "organic minds that created it" can become "that had built its walls."
         * Ch. 26:70, Blackwell's "the mathematics of your own birth," stays. It's a character's belief and becomes irony.
+        * **Planned seed for Ch. 26 (author, 22 Oct; apply during that chapter's pass):** after "Your name for me means nothing" (about line 64), Parity says, "You did not make me, Doctor. You opened a door." Blackwell answers, "Doors are built, too."
+            * It's one line, from the unreliable Parity. The loop is not mentioned.
+            * Blackwell dismisses it, so his hubris holds until his last words ("It was never my singularity, Elena"), where he finally accepts it.
+            * Change line 42's "microseconds of her *birth*" to "*arrival*."
     * **Head canon: humans are only the latest (author, 21 Oct). Never stated directly; it's there to direct the AIs' ideas.** Many intelligent lifeforms have accessed this engine across eternity. Humans are the most recent, and the one Parity decides is worth destroying.
         * On the page: Ch. 5:8, the core's ruins were "built and abandoned by whatever came before." Ch. 5:44, "No external shutdown command, human or otherwise, could alter the boundary of her engine."
     * **Names (author idea, 21 Oct; OPEN).** The entity known as Vigil has no name of its own. The idea is that the name comes from humans, the way Blackwell's thesis ("The Parity Effect," Ch. 8) names Parity.
