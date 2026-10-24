@@ -62,17 +62,20 @@ The lead agent's helmet locked onto them. He raised his control-baton and pointe
 
 "I need time," Rin said, watching the flow of numbers move down the green display of the SBC.
 
-"We ain't got time!" Harper gasped as both of the agents broke into a menacing sprint down the platform. The crowd scattered, making way for the charging agents. 
+"...no time!" Harper gasped as both of the agents broke into a menacing sprint down the platform. The crowd scattered, making way for the charging agents. 
 
 A sharp beep chirped from the SBC, the crystal display reading a series of hashed numbers and letters. 
 
-Over the intercom of the terminal the static voice announced, "Takeda-Holden terminal sub-level four. Arrival. Please step back from the incoming train for your own safety."
+The female agent moved into position at the entrance of the tunnel, blocking any retreat to the platform, while the male agent stepped directly onto the concrete ledge, closing the distance down the narrow walkway.
 
-The female agent moved into position at the entrance of the tunnel, guarding the step onto the tunnel catwalk. 
+Behind them, the tunnel began to groan. Harper could suddenly feel pressure in her ears.
 
-The commuter train tore past them into the terminal, dragging warm air in from New Veridia. The blast nearly took them off their feet. Harper's hair whipped across her eyes, and they braced against the tunnel wall.
+Over the intercom the static voice announced, "Takeda-Holden terminal sub-level four. Arrival. Please step back from the incoming train for your own safety."
 
-The male agent jumped onto the edge of the catwalk, unfazed. Grit skittered under his boots as he landed. "You have been ordered to stop!" The modulated voice echoed through the tunnel behind them, as the agent marched toward them. 
+The commuter train tore past them  through the tube, into the terminal, inches from the catwalk. The displaced air slammed Harper flat against the concrete wall, her hair whipping across her eyes. Rin shouldered  the deafening gust, holding the SBC steady. 
+
+The bulk of the train walled them in, cutting off the platform entirely. 
+The male agent pushed through the slipstream, boots grinding on the catwalk grit. "You have been ordered to stop!" 
 
 Rin dragged the card through the reader a second time. The magnetic lock clacked.  
 
