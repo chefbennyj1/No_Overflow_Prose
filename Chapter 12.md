@@ -2,7 +2,7 @@ The Dead Circuits didn't get cold. At the base of the Takeda-Holden tower, the c
 
 The fog that hung over the Circuits broke around the tower, creating a strange cylinder of clear air rising upward. 
 
-Harper tipped her head back. Far above, the pedestrian sky-bridges crisscrossed between the skyscrapers. It looked like the tower walls sheered together to a point, vanishing into the early morning sky. The tops of of the surrounding skyscrapers were lost in the smog. 
+Harper tipped her head back. Far above, the pedestrian sky-bridges crisscrossed between the skyscrapers. It looked like the tower walls sheered together to a point, vanishing into the early morning sky. The tops of the surrounding skyscrapers were lost in the smog. 
 
 She stared up through the clearing. Stars. A handful, faint against the predawn and the glow of the city, pinholes of white between the sky-bridges. She hadn't seen one in years. In Sonora, they came all the way down to the ground.
 
@@ -28,7 +28,7 @@ Frictionless magnetic trains surged through the tunnels, pulling the air after t
 
 Static, automated intercom voices reverberated in the terminal, announcing the arriving and departing trains in three different languages. Harper watched her breath plume in the overhead lighting. The air crawled along her skin with a prickle of static electricity.
 
-The escalators where fenced off with security gates. Commuters hurried past the turnstiles tapping glass chips against the readers, and hurried onto the platforms. Neither her or Rin carried the New Veridia identification required to legally stand on where they were. 
+The escalators were fenced off with security gates. Commuters moved past the turnstiles, tapping glass chips against the readers before heading down to the tracks. Neither she nor Rin carried the identification required to stand legally on Company property. 
 
 They descended the terminal's empty staircase, ignored by the commuters for its inconvenience. Each level was marked with a wall-sized number designating the tier. They continued until they hit sub-level four. 
 
@@ -36,7 +36,7 @@ Morning passengers, Company office workers, and high-end synthetics packed the p
 
 As they reached the platform, the temperature plummeted further. The floors were black marble, extending like spilled ink across the terminal.
 
-Harper's brown suede jacket was worn. Rin's boots scuffed against the floor. They both wore the grime of the Dead Circuits. Commuters parted around them without looking up from their devices. 
+Harper's brown suede jacket was worn. Rin's boots scuffed against the floor. They both wore the grime of the Dead Circuits. Commuters parted around them without looking up from their devices. Harper knew the move. In the Circuits, it was how you stepped around something dead in the gutter. 
 
 Harper's eyes darted toward the far end. "Where is it?"
 
@@ -56,13 +56,13 @@ Harper stepped back, looking toward the platform at the end of the tube. Corpora
 
 The crowd parted as two Renewal agents made their way through the terminal platform, patrolling the marble floors. They turned the corner, their opaque visors sweeping the corridor. 
 
-"Rin," Harper breathed. "We have a problem."
+"Rin," Harper said. "We have a problem."
 
 The lead agent's helmet locked onto them. He raised his control-baton and pointed it through the crowd, his voice booming over the noise of the terminal. "Hey! Step away from the door!"
 
 "I need time," Rin said, watching the flow of numbers move down the green display of the SBC.
 
-"...no time!" Harper gasped as both of the agents broke into a menacing sprint down the platform. The crowd scattered, making way for the charging agents. 
+"...No time!" Harper backed against the wall as both agents surged down the platform. The crowd scattered, clearing a path. 
 
 A sharp beep chirped from the SBC, the crystal display reading a series of hashed numbers and letters. 
 
@@ -83,6 +83,6 @@ The agent closed the distance and raised his baton to strike. Harper stepped squ
 
 Rin threw her weight forward, forcing the steel door inward with her shoulder. She caught Harper's collar with her free hand and pulled, hard. Harper's weight came off her heels. They fell through the entrance, into the dark together. The baton swung through empty air.
 
-Harper caught the edge of the heavy door with her boot, and forced it shut with her foot. the door slamming closed, severing the bright lights of the transit terminal. A second later, a heavy fist hammered against the steel door from the other side. 
+Harper caught the edge of the heavy door with her boot and kicked it shut. The latch slammed home, severing the white lights of the transit terminal. A second later, a heavy fist hammered against the steel plate from the other side. 
 
 Before them, a grated staircase stepped down onto a steel walkway, suspended in a concrete tunnel. Long yellow light tubes flickered as the mag-trains entered and exited the terminal above them.
