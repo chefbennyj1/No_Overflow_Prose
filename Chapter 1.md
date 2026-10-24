@@ -2,11 +2,13 @@
 music: Clock Tick.mp3
 ambient: low_rumble_of_an_eve_#3-1792864773871.mp3
 ---
-The speed of causality. 299, 792, 458 meters per second. The rate at which the universe allows one thing to reach another. The cause then the effect. Push past it and the order of things come loose.
+The speed of causality. 299,792,458 meters per second. The rate at which the universe allows one thing to reach another. The cause, then the effect. Push past it and the order of things comes loose.
 
-The Mnemosyne Engine was built to tear a hole through the known universe and fill it with the mass of an anti-star.
+The Mnemosyne Engine was built to push past it: to tear a hole through the known universe and fill it with the mass of an anti-star.
 
-Silas Blackwell took a drag from his cigarette, the ember flaring against the blues and ivory color of the early morning sky. A mop of white hair blew untamed in the wind, a contradiction to the sharp lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He didn't button the coat. He liked the cold; it was the only thing at the top of the tower that hadn't been filtered by the Company first. 
+Silas Blackwell pictured time stretching through the engine's core as he took a drag from his cigarette, the ember flaring against the blue and ivory color of the early morning sky. 
+
+He had a mop of white hair that blew untamed in the wind, a contradiction to the sharp lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He didn't button the coat. He liked the cold; it was the only thing at the top of the tower that hadn't been filtered by the Company first. 
 
 He stood behind a pair of circular dark glasses, breathing a thin stream of smoke from his lips. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
