@@ -62,7 +62,7 @@ The lead agent's helmet locked onto them. He raised his control-baton and pointe
 
 "I need time," Rin said, watching the flow of numbers move down the green display of the SBC.
 
-"...No time!" Harper backed against the wall as both agents surged down the platform. The crowd scattered, clearing a path. 
+"No time!" Harper backed against the wall as both agents surged down the platform. The crowd scattered, clearing a path. 
 
 A sharp beep chirped from the SBC, the crystal display reading a series of hashed numbers and letters. 
 
