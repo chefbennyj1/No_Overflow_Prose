@@ -41,7 +41,7 @@ Harper and Rin both wore the grime of the Dead Circuits. Commuters parted around
 
 A man in a dark suit, and digital holographic glasses knocked Harper's should with his, pushing her off kilter. "Hey, asshole. Watch who you're knockin'," she said. 
 
-The man paused and turning his attention back to her, his face painted with an annoying sneer. He looked at her worn brown suede jacket, then Rin's scuffed boots before turning back and continuing through the terminal concourse.
+The man paused and turning his attention back to her, his face painted with an annoyed sneer. He looked at her worn brown suede jacket, then Rin's scuffed boots before turning back and continuing through the terminal concourse.
 
 Harper's eyes darted toward the far end. "Where is it?"
 
