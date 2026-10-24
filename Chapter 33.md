@@ -1,9 +1,10 @@
 ---
 music: Parity_Theme.mp3
+ambient: deadly_wind_blows._#2-1792862656793.mp3
 ---
 The wind hit him first. A freezing current whipping up under his lab coat, snapping the hem against his ankles. Before he could even open his eyes, the cold grip at his throat bit in hard enough to stop his breath.
 
-A blurry light. The fabric of his shirt dug into his skin, under his arms. His shoes hung over nothing—scraping against... nothing. 
+A blurry light. The fabric of his shirt dug into his skin, under his arms. His shoes hung over... nothing. 
 
 No memory of leaving the lab. Only the haunting feeling of a static charge against his neck, followed by the terrifying realization that the seams of his own coat were holding his entire weight.
 
