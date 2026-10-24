@@ -34,7 +34,7 @@ They descended the terminal's empty staircase, ignored by the commuters for its 
 
 Morning passengers, Company office workers, and high-end synthetics packed the platform. Some waited for trains, while others moved toward the tower's executive lifts, speeding up to the pedestrian sky-bridges far above them. 
 
-As they reached the platform, the temperature plummeted further. The floors were black marble, extending like spilled ink across the terminal.
+As they reached the platform, the temperature plummeted further. The floors were black marble. Brightly lit transit information inlays, embedded in the concourse floor, extended across the terminal.
 
 Harper's brown suede jacket was worn. Rin's boots scuffed against the floor. They both wore the grime of the Dead Circuits. Commuters parted around them without looking up from their devices. Harper knew the move. In the Circuits, it was how you stepped around something dead in the gutter. 
 
