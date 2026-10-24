@@ -2,7 +2,7 @@
 music: Clock Tick.mp3
 ambient: low_rumble_of_an_eve_#3-1792862539709.mp3
 ---
-The speed of causality. 299,792,458 meters per second. The speed limit of the universe. The rate one thing reaches another. Cause, then effect. Push past it and the order of things comes loose.
+The speed of causality. The maximum speed of the universe. 299,792,458 meters per second. The rate one thing reaches another. Cause, then effect. Push past it and the order of things comes loose.
 
 The Mnemosyne Engine was built to break it: to tear a hole through the known universe and fill it with the mass of an anti-star.
 
