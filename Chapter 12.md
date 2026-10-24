@@ -24,7 +24,7 @@ Harper smiled. The knot under her ribs stayed where it was. "Always a plan."
 
 The Takeda-Holden Transit Terminal's interchanges fell four tiers below them, surrounded by arches of polished white stone and chrome. 
 
-Frictionless magnetic trains surged through the tunnels, pulling the super-cooled air deep into New Veridia. Every arrival dragged a wash of the city's warm air across Harper's face, before the cold settled back. 
+Frictionless magnetic trains surged through the tunnels, pulling the air after them. Every arrival dragged a wash of the city's warm air across Harper's face before the cold settled back against her cheeks.
 
 Static, automated intercom voices reverberated in the terminal, announcing the arriving and departing trains in three different languages. Harper watched her breath plume in the overhead lighting. The air crawled along her skin with a prickle of static electricity.
 
