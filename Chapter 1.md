@@ -4,11 +4,11 @@ ambient: low_rumble_of_an_eve_#3-1792864773871.mp3
 ---
 The speed of causality. 299,792,458 meters per second. The rate at which the universe allows one thing to reach another. The cause, then the effect. Push past it and the order of things comes loose.
 
-The Mnemosyne Engine was built to push past it: to tear a hole through the known universe and fill it with the mass of an anti-star.
+The Mnemosyne Engine was built to break it: to tear a hole through the known universe and fill it with the mass of an anti-star.
 
-Silas Blackwell pictured time stretching through the engine's core as he took a drag from his cigarette, the ember flaring against the blue and ivory color of the early morning sky. 
+Silas Blackwell pictured time stretching through the engine's core as he took a drag from his cigarette, the ember flaring against the blue and ivory of the early morning sky. 
 
-He had a mop of white hair that blew untamed in the wind, a contradiction to the sharp lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He didn't button the coat. He liked the cold; it was the only thing at the top of the tower that hadn't been filtered by the Company first. 
+A mop of white hair on his head blew untamed in the wind, a contradiction to the sharp lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He didn't button the coat. He liked the cold; it was the only thing at the top of the tower that hadn't been filtered by the Company first. 
 
 He stood behind a pair of circular dark glasses, breathing a thin stream of smoke from his lips. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
@@ -26,15 +26,15 @@ Elena Marlowe stood in the terrace entrance, framed by the glow of the holograph
 
 Elena didn't sound like herself. *Nervous*, Blackwell thought, *and she should be*. 
 
-"The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But, you've got the three hundred and twenty terawatts," she said.
+"The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But you've got the three hundred and twenty terawatts," she said.
 
-Raising his cigarette to his lips one last time, the doctor inhaled until the end burned close to the filter. He held the smoke in his lungs for another long second, then exhaled and dropped the butt over the edge of the railing.
+Raising his cigarette to his lips one last time, the doctor inhaled until the end burned close to the filter. He held the smoke in his lungs, then exhaled and dropped the butt over the edge of the railing.
 
 The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a necessary filter. It formed an opaque floor between him and the corroded foundations of the lower city. 
 
-The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima, they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
+The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima; they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
-Blackwell turned and walked past Elena, stepping through the sliding glass doors into the corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles of polished concrete soared above and plunged below them; The Company had built it to make visitors feel small. It had never worked on him.
+Blackwell turned and walked past Elena, stepping through the sliding glass doors into the corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles of polished concrete soared above and plunged below them; the Company had built it to make visitors feel small. It had never worked on him.
 
 The building's tinted black glass refracted the rising sun, its rays shifting down forty floors. Blackwell walked towards the executive lift. Elena followed as the steel elevator doors sealed them in. 
 
@@ -67,9 +67,9 @@ Above the primary consoles, a wall sized display flickered to life. The encrypte
 
 Blackwell didn't bother to look back at the screen or at Elena, keeping his gaze fixed on the dormant core. "Very well, Miss Marlowe," he murmured. "Give them a show."
 
-Elena didn't blink. She remained where she was, her posture shifting from subordinate to commander as she leaned into the microphone of the control room.  There was a quick succession of two tones over the speaker system. Technicians in white coats looked up from their consoles.
+Elena didn't blink. She remained where she was, her posture shifting from subordinate to commander as she leaned into the microphone of the control room. There was a quick succession of two tones over the speaker system. Technicians in white coats looked up from their consoles.
 
-"All stations, ready for initialization." Elena's voice reverberated in a  crackle over the laboratory loudspeaker, almost robotic. "Initiate sequence."
+"All stations, ready for initialization." Elena's voice reverberated in a crackle over the laboratory loudspeaker, almost robotic. "Initiate sequence."
 
 The room erupted into a synchronized motion.
 
@@ -82,6 +82,7 @@ Blackwell’s smile widened. He watched the data streams, read every line as it 
 The Board watched from their remote offices, certain distance would keep them safe. They didn’t understand, if containment failed, the rupture would swallow them as easily as the lab. 
 
 Behind him, the technicians exchanged nervous glances and stepped back from the railing. The machine unsettled them. 
+
 Blackwell leaned in. 
 
 Elena stepped up to the railing, studying a datapad in her hand, her tense posture relaxing a fraction. "The initialization sequence is holding steady," she said, a rare note of satisfaction bleeding into her voice. She stepped closer to him, so only he could hear, "The containment calculations were flawless, Silas. You calculated activation. Congratulations."
@@ -126,13 +127,14 @@ A monotone voice echoed from the display grid above. "Satisfactory, Blackwell," 
 
 Blackwell scoffed. "Humph."
 
-Elena glance toward the panels. "What the Doctor means is, we are glad that today has been a success."
+Elena glanced toward the panels. "What the Doctor means is, we are glad that today has been a success."
 
 "Progress will be monitored," another executive replied. The connection severed.
 
 "Mass Displacement Anomaly? That wasn't in the preliminary notes, Silas." Elena's true expression bled through as she looked at Blackwell, peering past his dark glasses.
 
 Blackwell turned, giving her his undivided attention for the first time.  She was looking for his eyes behind the dark lens of his glasses. He let her. 
+
 "It's predicted resonance," he said, the corner of his mouth rising.
 
 Elena shook her head. He watched her decide to believe him. "You know, it wouldn't hurt you to talk to the Board." She turned, glancing back over the console floor behind them. "You are the lead."
