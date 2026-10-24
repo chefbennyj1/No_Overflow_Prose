@@ -75,14 +75,15 @@ Over the intercom the voice announced, "Takeda-Holden terminal sub-level four. A
 The commuter train tore past them through the tube, into the terminal, inches from the catwalk. The displaced air slammed Harper flat against the concrete wall, her hair whipping across her eyes. Rin shouldered  the deafening gust, holding the SBC steady. 
 
 The bulk of the train walled them in, cutting off the platform entirely. 
+
 The male agent pushed through the slipstream, boots grinding on the catwalk grit. "You have been ordered to stop!" 
 
 Rin dragged the card through the reader a second time. The magnetic lock clacked.  
 
 The agent closed the distance and raised his baton to strike. Harper stepped squarely in front of Rin, bracing herself to take the blow. 
 
-Rin threw her weight forward, forcing the steel door inward with her shoulder. She caught Harper's collar with her free hand and pulled, hard. Harper's weight came off her heels. They fell through the entrance, into the dark together. The baton swung through empty air.
+Rin threw her weight forward, forcing the steel door inward with her shoulder. She caught Harper's collar with her free hand and pulled, hard. They fell through the entrance, into the dark together. The baton swung through empty air.
 
-Harper caught the edge of the heavy door with her boot and kicked it shut. The latch slammed home, severing the white lights of the transit terminal. A second later, a heavy fist hammered against the steel plate from the other side. 
+Harper caught the edge of the heavy door with her boot and kicked it shut. The latch slammed home, severing the white lights of the transit terminal. A second later, a fist hammered against the steel plate from the other side. 
 
 Before them, a grated staircase stepped down onto a steel walkway, suspended in a concrete tunnel. Long yellow light tubes flickered as the mag-trains entered and exited the terminal above them.
