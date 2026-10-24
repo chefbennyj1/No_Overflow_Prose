@@ -35,11 +35,11 @@ They descended the terminal's empty staircase, ignored by the commuters for its 
 Morning passengers, Company office workers, and high-end synthetics packed the platform. Some waited for trains, while others moved toward the tower's executive lifts, speeding up to the pedestrian sky-bridges far above them. 
 
 As they reached the platform, the temperature plummeted further. The floors were black marble. Brightly lit transit information inlays, embedded in the concourse floor, extended across the terminal. 
-Even at this level, it was obvious to Harper that the people of New Veridia let the city make their decisions for them.
+Even at this level the people of New Veridia let the city make their decisions for them.
 
-Harper and Rin both wore the grime of the Dead Circuits. Commuters parted around them without looking up from their devices. They stepped around them, like you would garbage in a gutter.  
+Harper and Rin both wore the grime of the Dead Circuits. Commuters parted around them without looking up from their devices. The way you'd step around garbage in a gutter.  
 
-A man in a dark suit, and holographic glasses knocked Harper's shoulder with his, knocking her a half-step back. "Hey, asshole. Watch who you're knockin'," she said. 
+A man in a dark suit, and holographic glasses knocked Harper's shoulder with his, pushing her a half-step back. "Hey, asshole. Watch who you're knockin'," she said. 
 
 The man paused and turning his attention back to her, his face painted with an irritated sneer. He looked at her worn brown suede jacket, then Rin's scuffed boots before turning back and continuing through the terminal concourse.
 
