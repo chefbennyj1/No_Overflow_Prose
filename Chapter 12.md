@@ -12,7 +12,7 @@ Rin stood a few steps away, her collar turned up against the cold, one hand pres
 
 "We're never gettin' through that lobby," Harper said. She'd built her whole rig out of Company hardware. She knew what they spent on locks.
 
-"Don't need the lobby," Rin replied shaking her head. She pulled out her wire-wrapped SBC. The small green crystal display listed a basic string of text instructions Vigil had dropped onto the SBC. "Company buildings always have old storage in the sub-levels. From before the mergers. Sealed up and forgotten."
+"Don't need the lobby," Rin replied shaking her head. She pulled out her wire-wrapped SBC. The small green crystal display listed a basic string of text instructions Vigil had dropped onto it. "Company buildings always have old storage in the sub-levels. From before the mergers. Sealed up and forgotten."
 
 Harper leaned over to read the glowing green text. "Takeda-Holden transit terminal, sub-level four, door 4002. What's even down there?"
 
@@ -68,11 +68,11 @@ A sharp beep chirped from the SBC, the crystal display reading a series of hashe
 
 The female agent moved into position at the entrance of the tunnel, blocking any retreat to the platform, while the male agent stepped directly onto the concrete ledge, closing the distance down the narrow walkway.
 
-Behind them, the tunnel began to groan. Harper could suddenly feel pressure in her ears.
+Behind them, the tunnel began to groan. Pressure built in Harper's ears.
 
-Over the intercom the static voice announced, "Takeda-Holden terminal sub-level four. Arrival. Please step back from the incoming train for your own safety."
+Over the intercom the voice announced, "Takeda-Holden terminal sub-level four. Arrival. Please step back from the incoming train for your own safety."
 
-The commuter train tore past them  through the tube, into the terminal, inches from the catwalk. The displaced air slammed Harper flat against the concrete wall, her hair whipping across her eyes. Rin shouldered  the deafening gust, holding the SBC steady. 
+The commuter train tore past them through the tube, into the terminal, inches from the catwalk. The displaced air slammed Harper flat against the concrete wall, her hair whipping across her eyes. Rin shouldered  the deafening gust, holding the SBC steady. 
 
 The bulk of the train walled them in, cutting off the platform entirely. 
 The male agent pushed through the slipstream, boots grinding on the catwalk grit. "You have been ordered to stop!" 
