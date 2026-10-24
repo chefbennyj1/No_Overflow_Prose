@@ -2,7 +2,7 @@
 music: Clock Tick.mp3
 ambient: low_rumble_of_an_eve_#3-1792862539709.mp3
 ---
-The speed of causality. The maximum speed of the universe. 299,792,458 meters per second. The rate one thing reaches another. Cause, then effect. At least, in the three physical dimensions of existence. Push past it and the order of things comes loose.
+The speed of causality. The maximum speed of the universe. 299,792,458 meters per second. The rate one thing reaches another. Cause, then effect. Push past it and the order of things comes loose.
 
 The Mnemosyne Engine was built to break it: to tear a hole through the known universe and fill it with the mass of an anti-star.
 
@@ -30,11 +30,11 @@ Raising his cigarette to his lips one last time, the doctor inhaled until the en
 
 The spent cigarette vanished into the fog. To Blackwell, the cloud cover was a necessary filter. It formed an opaque floor between him and the corroded foundations of the lower city. 
 
-The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima; they poured the concrete for New Veridia directly on top of it. He knew what lived down there in the dark, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
+The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima; they poured the concrete for New Veridia directly on top of it. He knew what lived down there, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
-Blackwell turned and walked past Elena, stepping through the sliding glass doors into the corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles of polished concrete soared above and plunged below them; the Company had built it to make visitors feel small. It had never worked on him.
+Blackwell turned and walked past Elena, stepping through the sliding glass doors into the corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles of polished concrete soared above and plunged below them.
 
-The building's tinted black glass refracted the rising sun, its rays shifting down forty floors. Blackwell walked towards the executive lift. Elena followed as the steel elevator doors sealed them in. 
+The building's tinted black glass refracted the rising sun as Blackwell walked towards the executive lift. Elena followed as the steel elevator doors sealed them in. 
 
 The high-speed descent was silent. He watched her from the corner of his eye. Her lips moved without a sound. Her thumb tapped the edge of her datapad. Five years as his second-in-command, and she still treated the Board with too much reverence. He had picked her for her brilliance—though today, her nerves would make her useful. 
 
