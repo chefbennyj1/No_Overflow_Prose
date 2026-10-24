@@ -2,7 +2,7 @@ The Dead Circuits didn't get cold. At the base of the Takeda-Holden tower, the c
 
 The fog that hung over the Circuits broke around the tower, creating a strange cylinder of clear air rising upward. 
 
-Harper tipped her head back. Far above, the pedestrian sky-bridges crisscrossed between the skyscrapers. It looked like the tower walls sheered together to a point, vanishing into the early morning sky. The tops of the surrounding skyscrapers were lost in the smog. 
+Harper tipped her head back. Far above, the pedestrian sky-bridges crisscrossed between the skyscrapers. It looked like the tower walls narrowed to a point, vanishing into the early morning sky. The tops of the surrounding skyscrapers were lost in the smog. 
 
 She stared up through the clearing. Stars. A handful, faint against the predawn and the glow of the city, pinholes of white between the sky-bridges. She hadn't seen one in years. In Sonora, they came all the way down to the ground.
 
@@ -12,7 +12,7 @@ Rin stood a few steps away, her collar turned up against the cold, one hand pres
 
 "We're never gettin' through that lobby," Harper said. She'd built her whole rig out of Company hardware. She knew what they spent on locks.
 
-"—Don't need the lobby," Rin replied shaking her head. She pulled out her wire-wrapped SBC. The small green crystal display listed a basic string of text instructions Vigil had dropped onto the SBC. "Company buildings always have old storage in the sub-levels. From before the mergers. Sealed up and forgotten."
+"Don't need the lobby," Rin replied shaking her head. She pulled out her wire-wrapped SBC. The small green crystal display listed a basic string of text instructions Vigil had dropped onto the SBC. "Company buildings always have old storage in the sub-levels. From before the mergers. Sealed up and forgotten."
 
 Harper leaned over to read the glowing green text. "Takeda-Holden transit terminal, sub-level four, door 4002. What's even down there?"
 
