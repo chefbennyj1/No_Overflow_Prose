@@ -1,6 +1,6 @@
 ---
 music: Clock Tick.mp3
-ambient: low_rumble_of_an_eve_#3-1792864773871.mp3
+ambient: deadly_wind_blows._#4-1792863847447.mp3
 ---
 The speed of causality. 299,792,458 meters per second. The rate at which the universe allows one thing to reach another. The cause, then the effect. Push past it and the order of things comes loose.
 
@@ -8,13 +8,11 @@ The Mnemosyne Engine was built to break it: to tear a hole through the known uni
 
 Silas Blackwell pictured time stretching through the engine's core as he took a drag from his cigarette, the ember flaring against the blue and ivory of the early morning sky. 
 
-A mop of white hair on his head blew untamed in the wind, a contradiction to the sharp lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He didn't button the coat. He liked the cold; it was the only thing at the top of the tower that hadn't been filtered by the Company first. 
-
-He stood behind a pair of circular dark glasses, breathing a thin stream of smoke from his lips. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
+A mop of white hair on his head blew untamed in the wind, a contradiction to the sharp lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He stood behind a pair of circular dark glasses, breathing a thin stream of smoke from his lips. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
 Blackwell didn’t own any of it. He couldn’t buy a square foot of the platinum composite he was standing on. The tower belonged to the Takeda-Holden Corporation—the "Company"—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The rain had cleared the air, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the company's alloy railing. No stacked billboards cluttered the view at this altitude; nobody had to sell anything to the corporate elite. The walkways were empty this early—New Veridia was a sleeping monster, ready to awake.
+The rain had cleared the air, leaving a settled mist beneath the high-altitude pedestrian tiers. He took another haul of his cigarette, the grey smoke skimming along the alloy railing. No stacked billboards cluttered the view at this altitude; nobody had to sell anything to the corporate elite. The walkways were empty this early—New Veridia was a sleeping monster, ready to awake.
 
 He didn't need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
