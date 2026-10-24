@@ -12,7 +12,7 @@ Rin stood a few steps away, her collar turned up against the cold, one hand pres
 
 "We're never gettin' through that lobby," Harper said. She'd built her whole rig out of Company hardware. She knew what they spent on locks.
 
-"Don't need the lobby," Rin replied shaking her head. She pulled out her wire-wrapped SBC. The small green crystal display listed a basic string of text instructions downloaded back at the apartment. "Company buildings have old storage in the sub-levels. From before the mergers. Sealed up and forgotten."
+"Don't need the lobby," Rin replied shaking her head. She pulled out her wire-wrapped SBC. The small green crystal display listed a basic string of text instructions downloaded back at her place. "Company buildings have old storage in the sub-levels. From before the mergers. Sealed up and forgotten."
 
 Harper leaned over to read the glowing green text. "Takeda-Holden transit terminal, sub-level four, door 4002. What's even down there?"
 
