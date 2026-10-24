@@ -26,7 +26,7 @@ The Takeda-Holden Transit Terminal's interchanges fell four tiers below them, su
 
 Frictionless magnetic trains surged through the tunnels, pulling the super-cooled air deep into New Veridia. Every arrival dragged a wash of the city's warm air across Harper's face, before the cold settled back. 
 
-Static, automated intercom voices reverberated in the terminal, announcing the arriving and departing trains. Harper watched her breath plume in the sterile overhead lighting. The dry, unnatural air crawled along her skin with a prickle of static electricity.
+Static, automated intercom voices reverberated in the terminal, announcing the arriving and departing trains in three different languages. Harper watched her breath plume in the overhead lighting. The air crawled along her skin with a prickle of static electricity.
 
 Taking the escalators past the upper commuter hubs was out of the question. Neither of them carried the New Veridia identification required to legally stand on the platform. 
 
