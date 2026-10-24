@@ -28,7 +28,7 @@ Frictionless magnetic trains surged through the tunnels, pulling the super-coole
 
 Static, automated intercom voices reverberated in the terminal, announcing the arriving and departing trains in three different languages. Harper watched her breath plume in the overhead lighting. The air crawled along her skin with a prickle of static electricity.
 
-The escalators where ringed with security gates. Commuters hurried past the turnstiles tapping glass chips against the readers, and hurried onto the platforms. Neither her or Rin carried the New Veridia identification required to legally stand on where they were. 
+The escalators where fenced off with security gates. Commuters hurried past the turnstiles tapping glass chips against the readers, and hurried onto the platforms. Neither her or Rin carried the New Veridia identification required to legally stand on where they were. 
 
 They descended the terminal's empty staircase, ignored by the commuters for its inconvenience. Each level was marked with a wall-sized number designating the tier. They continued until they hit sub-level four. 
 
@@ -36,7 +36,7 @@ Morning passengers, Company office workers, and high-end synthetics packed the p
 
 As they reached the platform, the temperature plummeted further. The floors were black marble, extending like spilled ink across the terminal.
 
-Harper's brown suede jacket was worn. Rin's boots scuffed against the floor. They both wore the grime of the Dead Circuits. Commuters parted around them without looking up from their devices. Harper knew the move. In the Circuits, it was how you stepped around something in the gutter.
+Harper's brown suede jacket was worn. Rin's boots scuffed against the floor. They both wore the grime of the Dead Circuits. Commuters parted around them without looking up from their devices. 
 
 Harper's eyes darted toward the far end. "Where is it?"
 
