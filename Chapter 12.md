@@ -28,7 +28,7 @@ Frictionless magnetic trains surged through the tunnels, pulling the super-coole
 
 Static, automated intercom voices reverberated in the terminal, announcing the arriving and departing trains in three different languages. Harper watched her breath plume in the overhead lighting. The air crawled along her skin with a prickle of static electricity.
 
-Taking the escalators past the upper commuter hubs was out of the question. Neither of them carried the New Veridia identification required to legally stand on the platform. 
+The escalators where ringed with security gates. Commuters tapped glass chips against the turnstiles and hurried onto the platform. Neither of them carried the New Veridia identification required to legally stand on where they were. 
 
 They descended the terminal's empty staircase, ignored by the commuters for its inconvenience. Each level was marked with a wall-sized number designating the tier. They continued until they hit sub-level four. 
 
