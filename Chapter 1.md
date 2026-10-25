@@ -51,7 +51,6 @@ To Blackwell, they were the crown of a cage, built to hold an anti-star.
 Recirculated cooling gas rolled across the engine pit. It curled round the pillars and poured over the edges of the floor, stabilizing the dormant core. The great engine was powered down, silent and waiting.
 
 
-
 "Main Fusion's supply is a drop in the bucket for what we're asking it to unearth, Miss Marlowe," Blackwell said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
 
 He braced himself against the railing and leaned forward, his reflection distorted in the safety glass. "The board wants better data compression. A smarter artificial intelligence to predict their margins."
