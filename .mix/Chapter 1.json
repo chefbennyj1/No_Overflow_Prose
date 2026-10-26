@@ -4,13 +4,24 @@
     {
       "id": "fx1",
       "name": "Effects 1",
-      "volume": 0.29
+      "volume": 0.4
+    },
+    {
+      "id": "fx2",
+      "name": "Effects 2",
+      "volume": 0.44
+    },
+    {
+      "id": "fx3",
+      "name": "Effects 3",
+      "volume": 0.42
     }
   ],
   "clips": [
     {
       "id": "cmvocuhctgbiz",
       "track": "fx1",
+      "source": "sfx",
       "file": "DSGNRise-Psychological_cinema-Elevenlabs.mp3",
       "anchor": {
         "text": "the speed of causality. the maximum speed of the universe. 299.792.458 meters per second. the rate one thing reaches ano",
@@ -26,12 +37,13 @@
     {
       "id": "cmvocva1nqrx1",
       "track": "fx1",
+      "source": "sfx",
       "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
       "anchor": {
         "text": "the speed of causality. the maximum speed of the universe. 299.792.458 meters per second. the rate one thing reaches ano",
         "index": 0,
-        "offset": 17.37,
-        "at": 18.57
+        "offset": 15.245,
+        "at": 16.445
       },
       "gain": 1,
       "fadeIn": 0,
@@ -40,19 +52,141 @@
     },
     {
       "id": "cmvombx53un1z",
-      "track": "fx1",
+      "track": "fx2",
+      "source": "sfx",
       "file": "Humming,_whirring,_a_#1-1792980491157.mp3",
       "anchor": {
-        "text": "the lift dropped dozens of floors, past the bottom of the main atrium and into the newmoscene lab. when the doors parted",
-        "index": 18,
-        "offset": 10.27,
-        "at": 277.445
+        "text": "the high-speed descent was silent. he watched her from the corner of his eye. her lips moved without a sound. her thumb",
+        "index": 17,
+        "offset": 3.795,
+        "at": 253.195
       },
       "gain": 1,
       "fadeIn": 0,
       "fadeOut": 0,
       "seconds": 28.68
+    },
+    {
+      "id": "cmvomnnc7ih8j",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Humming,_whirring,_a_#1-1792980491157.mp3",
+      "anchor": {
+        "text": "he didn't need to turn around to know he was no longer alone. the faint hiss of the glass doors sliding open behind him",
+        "index": 6,
+        "offset": 0.045,
+        "at": 113.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 28.68
+    },
+    {
+      "id": "cmvomnzsf90bm",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "wind_gusts_#4-1792964257223.mp3",
+      "anchor": {
+        "text": "elena marlowe stood in the terrace entrance, framed by the glow of the holographic environmental data embedded in the gl",
+        "index": 8,
+        "offset": 7.945,
+        "at": 137.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 1,
+      "seconds": 11.6
+    },
+    {
+      "id": "cmvomr5qz1icx",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "DSGNRise-Psychological_cinema-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the building's tinted black glass refracted the rising sun as blackwell walked towards the executive lift. elena followe",
+        "index": 16,
+        "offset": 11.57,
+        "at": 248.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmvonwhrzjwdo",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "futuristic_connectio_#3-1792983172237.mp3",
+      "anchor": {
+        "text": "\"progress will be monitored,\" another executive replied. the connection severed.",
+        "index": 63,
+        "offset": 5.095,
+        "at": 839.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 2.08
+    },
+    {
+      "id": "cmvonzn4trady",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "futuristic_log_reado_#3-1792983319747.mp3",
+      "anchor": {
+        "text": "blackwell caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second s",
+        "index": 72,
+        "offset": 13.095,
+        "at": 928.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 2.08
     }
   ],
-  "regions": []
+  "regions": [
+    {
+      "id": "rmvonddtn5ifv",
+      "track": "ambient",
+      "file": "low_rumble_of_an_eve_#3-1792862539709.mp3",
+      "from": {
+        "text": "the speed of causality. the maximum speed of the universe. 299.792.458 meters per second. the rate one thing reaches ano",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "the lift dropped dozens of floors, past the bottom of the main atrium and into the newmoscene lab. when the doors parted",
+        "index": 18,
+        "offset": 7.875,
+        "at": 277.8
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmvonf3c8320a",
+      "track": "ambient",
+      "file": "low_rumble_of_an_eve_#3-1792862539709.mp3",
+      "from": {
+        "text": "the lift dropped dozens of floors, past the bottom of the main atrium and into the newmoscene lab. when the doors parted",
+        "index": 18,
+        "offset": 7.636,
+        "at": 277.561
+      },
+      "to": {
+        "text": "elena exhaled, rubbing her temples. \"and everybody knows it.\"",
+        "index": 76,
+        "offset": 7.175,
+        "at": 955.8
+      },
+      "gain": 1.04,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    }
+  ]
 }
