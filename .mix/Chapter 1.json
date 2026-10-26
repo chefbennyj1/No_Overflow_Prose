@@ -61,7 +61,7 @@
         "offset": 3.795,
         "at": 253.195
       },
-      "gain": 1,
+      "gain": 0.37,
       "fadeIn": 0,
       "fadeOut": 0,
       "seconds": 28.68
@@ -159,12 +159,12 @@
         "at": 0
       },
       "to": {
-        "text": "the lift dropped dozens of floors, past the bottom of the main atrium and into the newmoscene lab. when the doors parted",
+        "text": "the lift opened into the newmoscene lab. the air inside moved with a low vibration, the city's reactor channeling into t",
         "index": 18,
-        "offset": 7.875,
+        "offset": 7.7,
         "at": 277.8
       },
-      "gain": 1,
+      "gain": 1.46,
       "fadeIn": 2.5,
       "fadeOut": 2.5
     },
@@ -173,18 +173,98 @@
       "track": "ambient",
       "file": "low_rumble_of_an_eve_#3-1792862539709.mp3",
       "from": {
-        "text": "the lift dropped dozens of floors, past the bottom of the main atrium and into the newmoscene lab. when the doors parted",
+        "text": "the lift opened into the newmoscene lab. the air inside moved with a low vibration, the city's reactor channeling into t",
         "index": 18,
-        "offset": 7.636,
-        "at": 277.561
+        "offset": 0.086,
+        "at": 270.186
       },
       "to": {
         "text": "elena exhaled, rubbing her temples. \"and everybody knows it.\"",
-        "index": 76,
+        "index": 75,
         "offset": 7.175,
-        "at": 955.8
+        "at": 932.45
       },
-      "gain": 1.04,
+      "gain": 1.63,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmvpbicu62jca",
+      "track": "music",
+      "file": "Clock Tick.mp3",
+      "from": {
+        "text": "blackwell's voice was calm, carrying over the wind. \"are we ready, miss marlowe?\"",
+        "index": 7,
+        "offset": 5.75,
+        "at": 129.25
+      },
+      "to": {
+        "text": "the lift opened into the newmoscene lab. the air inside moved with a low vibration, the city's reactor channeling into t",
+        "index": 18,
+        "offset": 8.775,
+        "at": 278.875
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmvpbmumj09m5",
+      "track": "music",
+      "file": "The Madame.mp3",
+      "from": {
+        "text": "the lift opened into the newmoscene lab. the air inside moved with a low vibration, the city's reactor channeling into t",
+        "index": 18,
+        "offset": 0.267,
+        "at": 270.367
+      },
+      "to": {
+        "text": "\"all stations, ready for initialization.\" elena's voice reverberated in a crackle over the laboratory loudspeaker, almos",
+        "index": 32,
+        "offset": 0.875,
+        "at": 451.45
+      },
+      "gain": 0.41,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmvpbzmwdyxtz",
+      "track": "music",
+      "file": "Dark Orbit Bell.mp3",
+      "from": {
+        "text": "the speed of causality. the maximum speed of the universe. 299.792.458 meters per second. the rate one thing reaches ano",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "elena marlowe stood in the terrace entrance, framed by the glow of the holographic environmental data embedded in the gl",
+        "index": 8,
+        "offset": 1.325,
+        "at": 131.125
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmvpc091rx408",
+      "track": "music",
+      "file": "Parity.mp3",
+      "from": {
+        "text": "elena didn't blink. her posture shifted from subordinate to commander as she leaned into the control room microphone. tw",
+        "index": 31,
+        "offset": 12.567,
+        "at": 448.242
+      },
+      "to": {
+        "text": "elena exhaled, rubbing her temples. \"and everybody knows it.\"",
+        "index": 75,
+        "offset": 5.092,
+        "at": 930.367
+      },
+      "gain": 1,
       "fadeIn": 2.5,
       "fadeOut": 2.5
     }
