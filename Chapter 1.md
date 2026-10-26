@@ -12,7 +12,7 @@ A mop of white hair on his head blew untamed in the wind, a contradiction to the
 
 Blackwell didn’t own any of it. He couldn’t buy a square foot of the platinum composite he was standing on. The tower belonged to the Takeda-Holden Corporation—the "Company"—a monument of corporate wealth. But as the Head of Synthetic Integration, Blackwell knew this building belonged to him in ways the Company would never comprehend.
 
-The rain had cleared the air, leaving a settled mist beneath the high-altitude pedestrian tiers of New Veridia. He took another haul of his cigarette. He followed the smoke as it skimmed along the alloy railing, and looked out over the city. No stacked billboards cluttered the view at this altitude; nobody had to sell anything to the corporate elite. The walkways were empty this early—the upper city was a sleeping monster, ready to awake.
+The rain had cleared the air, leaving a settled mist beneath the high-altitude pedestrian tiers of New Veridia. He took another haul of his cigarette. He followed the smoke as it skimmed along the alloy railing, and he looked out over the city. No stacked billboards cluttered the view at this altitude; nobody had to sell anything to the corporate elite. The walkways were empty this early—the upper city was a sleeping monster, ready to awake.
 
 He didn't need to turn around to know he was no longer alone. The faint hiss of the glass doors sliding open behind him confirmed it.
 
