@@ -4,12 +4,7 @@
     {
       "id": "fx1",
       "name": "Effects 1",
-      "volume": 0.48
-    },
-    {
-      "id": "fx2",
-      "name": "Effects 2",
-      "volume": 1
+      "volume": 0.29
     }
   ],
   "clips": [
@@ -42,6 +37,22 @@
       "fadeIn": 0,
       "fadeOut": 0,
       "seconds": 6.6
+    },
+    {
+      "id": "cmvombx53un1z",
+      "track": "fx1",
+      "file": "Humming,_whirring,_a_#1-1792980491157.mp3",
+      "anchor": {
+        "text": "the lift dropped dozens of floors, past the bottom of the main atrium and into the newmoscene lab. when the doors parted",
+        "index": 18,
+        "offset": 10.27,
+        "at": 277.445
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 28.68
     }
-  ]
+  ],
+  "regions": []
 }
