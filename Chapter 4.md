@@ -27,7 +27,7 @@ Doctor Blackwell emerged from his private office and stepped directly out into t
 
 He surveyed the floor. Four weeks since the engine was brought online, and they had forgotten their respect for the lab and his science. Technicians slept in shifts, and the dress code had gone. The synthetics were the only things in the room the engine hadn't changed.
 
-Standing before a glowing interface was Elena Marlowe, the cool light of the monitors shining against her white lab coat. She was leaning over the console, hitting the keys hard enough to hear across the grating.
+Standing before a glowing interface was Elena Marlowe, the cool light of the monitors shining against her white lab coat. She was leaning over the console, hitting the screen hard enough to hear across the grating.
 
 "Elena."
 
@@ -47,7 +47,7 @@ Blackwell watched her analyze the data. She cleared her throat, then continued, 
 
 "Do not use theology to describe the computing," Blackwell snapped, turning his circular sunglasses toward the analyst. He already knew the shutdown command wasn't an error. Iris was getting too close. "It is not 'godly'," he said.
 
-Iris's eyes went wide as she stared past her monitors, watching the screens spill data down the pillars in the pit. "The algorithm is processing so fast, the synthetics on the floor can't even parse the telemetry anymore."
+Iris's eyes went wide as she stared past her monitors, watching the screens spill data down the pillars in the pit. "The algorithm is processing so fast, the synthetics on the floor can't even parse the information in the readouts."
 
 Blackwell smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss." He exhaled. "While we were out for lunch, that machine lived through civilizations worth of generations."
 
