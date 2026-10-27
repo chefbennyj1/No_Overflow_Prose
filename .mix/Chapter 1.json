@@ -104,10 +104,10 @@
       "source": "sfx",
       "file": "DSGNRise-Psychological_cinema-Elevenlabs.mp3",
       "anchor": {
-        "text": "the building's tinted black glass refracted the rising sun as blackwell walked towards the executive lift. elena followe",
-        "index": 16,
-        "offset": 11.57,
-        "at": 248.57
+        "text": "blackwell turned and walked past elena, stepping through the sliding glass doors into the corporate atrium. the multi-ti",
+        "index": 15,
+        "offset": 2.895,
+        "at": 223.62
       },
       "gain": 1,
       "fadeIn": 0,
@@ -149,100 +149,20 @@
   ],
   "regions": [
     {
-      "id": "rmvonddtn5ifv",
-      "track": "ambient",
-      "file": "low_rumble_of_an_eve_#3-1792862539709.mp3",
-      "from": {
-        "text": "the speed of causality. the maximum speed of the universe. 299.792.458 meters per second. the rate one thing reaches ano",
-        "index": 0,
-        "offset": -1.2,
-        "at": 0
-      },
-      "to": {
-        "text": "the lift opened into the newmoscene lab. the air inside moved with a low vibration, the city's reactor channeling into t",
-        "index": 18,
-        "offset": 7.7,
-        "at": 277.8
-      },
-      "gain": 1.46,
-      "fadeIn": 2.5,
-      "fadeOut": 2.5
-    },
-    {
-      "id": "rmvonf3c8320a",
-      "track": "ambient",
-      "file": "low_rumble_of_an_eve_#3-1792862539709.mp3",
-      "from": {
-        "text": "the lift opened into the newmoscene lab. the air inside moved with a low vibration, the city's reactor channeling into t",
-        "index": 18,
-        "offset": 0.086,
-        "at": 270.186
-      },
-      "to": {
-        "text": "elena exhaled, rubbing her temples. \"and everybody knows it.\"",
-        "index": 75,
-        "offset": 7.175,
-        "at": 932.45
-      },
-      "gain": 1.63,
-      "fadeIn": 2.5,
-      "fadeOut": 2.5
-    },
-    {
       "id": "rmvpbicu62jca",
       "track": "music",
       "file": "Clock Tick.mp3",
       "from": {
-        "text": "blackwell's voice was calm, carrying over the wind. \"are we ready, miss marlowe?\"",
-        "index": 7,
-        "offset": 5.75,
-        "at": 129.25
+        "text": "the dead circuits. crushed remains of oshima city. decades ago, tahkehh-da holden hadn't bothered to demolish oshima; th",
+        "index": 14,
+        "offset": 18.675,
+        "at": 216
       },
       "to": {
-        "text": "the lift opened into the newmoscene lab. the air inside moved with a low vibration, the city's reactor channeling into t",
-        "index": 18,
-        "offset": 8.775,
-        "at": 278.875
-      },
-      "gain": 1,
-      "fadeIn": 2.5,
-      "fadeOut": 2.5
-    },
-    {
-      "id": "rmvpbmumj09m5",
-      "track": "music",
-      "file": "The Madame.mp3",
-      "from": {
-        "text": "the lift opened into the newmoscene lab. the air inside moved with a low vibration, the city's reactor channeling into t",
-        "index": 18,
-        "offset": 0.267,
-        "at": 270.367
-      },
-      "to": {
-        "text": "\"all stations, ready for initialization.\" elena's voice reverberated in a crackle over the laboratory loudspeaker, almos",
+        "text": "elena didn't blink. she remained where she was, her posture shifting from subordinate to commander as she leaned into th",
         "index": 32,
-        "offset": 0.875,
-        "at": 451.45
-      },
-      "gain": 0.41,
-      "fadeIn": 2.5,
-      "fadeOut": 2.5
-    },
-    {
-      "id": "rmvpbzmwdyxtz",
-      "track": "music",
-      "file": "Dark Orbit Bell.mp3",
-      "from": {
-        "text": "the speed of causality. the maximum speed of the universe. 299.792.458 meters per second. the rate one thing reaches ano",
-        "index": 0,
-        "offset": -1.2,
-        "at": 0
-      },
-      "to": {
-        "text": "elena marlowe stood in the terrace entrance, framed by the glow of the holographic environmental data embedded in the gl",
-        "index": 8,
-        "offset": 1.325,
-        "at": 131.125
+        "offset": 17.225,
+        "at": 473.625
       },
       "gain": 1,
       "fadeIn": 2.5,
@@ -253,16 +173,136 @@
       "track": "music",
       "file": "Parity.mp3",
       "from": {
-        "text": "elena didn't blink. her posture shifted from subordinate to commander as she leaned into the control room microphone. tw",
-        "index": 31,
+        "text": "elena didn't blink. she remained where she was, her posture shifting from subordinate to commander as she leaned into th",
+        "index": 32,
         "offset": 12.567,
-        "at": 448.242
+        "at": 468.967
+      },
+      "to": {
+        "text": "blackwell returned to the pillar readouts. a displacement anomaly was a perfect distraction. while elena and the technic",
+        "index": 69,
+        "offset": 2.792,
+        "at": 890.317
+      },
+      "gain": 0.34,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmvpke6be6jr7",
+      "track": "music",
+      "file": "Blackwell.mp3",
+      "from": {
+        "text": "the speed of causality. the maximum speed of the universe. 299.792.458 meters per second. the rate one thing reaches ano",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "blackwell turned and walked past elena, stepping through the sliding glass doors into the corporate atrium. the multi-ti",
+        "index": 15,
+        "offset": 0.775,
+        "at": 221.5
+      },
+      "gain": 0.64,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmvpkhh3if6a9",
+      "track": "ambient",
+      "file": "deadly_wind_blows._#2-1792862656793.mp3",
+      "from": {
+        "text": "the speed of causality. the maximum speed of the universe. 299.792.458 meters per second. the rate one thing reaches ano",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "blackwell turned and walked past elena, stepping through the sliding glass doors into the corporate atrium. the multi-ti",
+        "index": 15,
+        "offset": 9.336,
+        "at": 230.061
+      },
+      "gain": 0.38,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmvpkr94um8xy",
+      "track": "ambient",
+      "file": "low_rumble_of_an_eve_#3-1792863799849.mp3",
+      "from": {
+        "text": "the dead circuits. crushed remains of oshima city. decades ago, tahkehh-da holden hadn't bothered to demolish oshima; th",
+        "index": 14,
+        "offset": 20.736,
+        "at": 218.061
+      },
+      "to": {
+        "text": "the room erupted into a synchronized motion.",
+        "index": 34,
+        "offset": 3.386,
+        "at": 489.436
+      },
+      "gain": 1.53,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmvpkxk8a4l31",
+      "track": "ambient",
+      "file": "sci-fi_lab_rumble,_a_#4-1792961531882.mp3",
+      "from": {
+        "text": "\"all stations, ready for initialization.\" elena's voice reverberated in a crackle over the laboratory loudspeaker, almos",
+        "index": 33,
+        "offset": 11.586,
+        "at": 485.686
       },
       "to": {
         "text": "elena exhaled, rubbing her temples. \"and everybody knows it.\"",
-        "index": 75,
-        "offset": 5.092,
-        "at": 930.367
+        "index": 76,
+        "offset": 7.175,
+        "at": 954.775
+      },
+      "gain": 0.53,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmvplcfkl2i8b",
+      "track": "music",
+      "file": "Uneasy Half-Step.mp3",
+      "from": {
+        "text": "the cigarette was still unlit between his lips. he wanted a drag.",
+        "index": 68,
+        "offset": 3.642,
+        "at": 885.867
+      },
+      "to": {
+        "text": "blackwell caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second s",
+        "index": 72,
+        "offset": 14.417,
+        "at": 928.367
+      },
+      "gain": 0.41,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmvpljfclszvl",
+      "track": "music",
+      "file": "The Engine.mp3",
+      "from": {
+        "text": "blackwell caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second s",
+        "index": 72,
+        "offset": 9.292,
+        "at": 923.242
+      },
+      "to": {
+        "text": "elena exhaled, rubbing her temples. \"and everybody knows it.\"",
+        "index": 76,
+        "offset": 7.175,
+        "at": 954.775
       },
       "gain": 1,
       "fadeIn": 2.5,

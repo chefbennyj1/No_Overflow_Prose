@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "fx1",
+      "name": "Effects 1",
+      "volume": 1
+    },
+    {
+      "id": "fx2",
+      "name": "Effects 2",
+      "volume": 1
+    }
+  ],
+  "clips": [],
+  "regions": [
+    {
+      "id": "rmvq3tl70da4j",
+      "track": "ambient",
+      "file": "far_off_thunder,_rai_#4-1792863590192.mp3",
+      "from": {
+        "text": "rin hauled her boots along the broken sidewalk, the collar of her leather jacket pulled up against the night air. the ni",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "the madame leaned forward slightly, her eyes dropping to the ticket in rin's hand. \"the sonora territories,\" she said, a",
+        "index": 29,
+        "offset": 3.075,
+        "at": 468.5
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    }
+  ]
+}

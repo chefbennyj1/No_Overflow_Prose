@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "fx1",
+      "name": "Effects 1",
+      "volume": 0.47
+    },
+    {
+      "id": "fx2",
+      "name": "Effects 2",
+      "volume": 1
+    }
+  ],
+  "clips": [
+    {
+      "id": "cmvq27wk91i42",
+      "track": "fx1",
+      "source": "ambient",
+      "file": "scifi_city_street,_c_#4-1792862339961.mp3",
+      "anchor": {
+        "text": "rain lashed against the grit of the dead circuits. the lower city was a broken memory of what used to be, buried in the",
+        "index": 0,
+        "offset": 2.486,
+        "at": 3.686
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.16
+    },
+    {
+      "id": "cmvq2lx41v9w7",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "futuristic_connectio_#3-1792983172237.mp3",
+      "anchor": {
+        "text": "a sudden flash of blue light reflected off the hallway walls. rin jerked backward as the sweeping retinal scanner beam s",
+        "index": 7,
+        "offset": 0.72,
+        "at": 138.445
+      },
+      "gain": 1.92,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 2.08
+    },
+    {
+      "id": "cmvq2muowmnw4",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "a_steel_elevator_doo_#2-1793068276060.mp3",
+      "anchor": {
+        "text": "the cool air conditioning filled her lungs, and the sharp scent of chemical cleaner sat high in her nose. at the far end",
+        "index": 6,
+        "offset": 9.945,
+        "at": 128.945
+      },
+      "gain": 1.66,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 5.8
+    },
+    {
+      "id": "cmvq2th7gj6tp",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Biometric_eye_scanne_#2-1793068672188.mp3",
+      "anchor": {
+        "text": "a sudden flash of blue light reflected off the hallway walls. rin jerked backward as the sweeping retinal scanner beam s",
+        "index": 7,
+        "offset": 3.22,
+        "at": 140.945
+      },
+      "gain": 2,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3.88
+    },
+    {
+      "id": "cmvq2yv86q3d4",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "wave_of_holographic__#4-1793068936012.mp3",
+      "anchor": {
+        "text": "as she crossed the center of the office, the window overlooking the lower city horizon flared to life as a surge of blue",
+        "index": 13,
+        "offset": 0.67,
+        "at": 231.57
+      },
+      "gain": 2,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3.88
+    },
+    {
+      "id": "cmvq3deuo3toi",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "sci_fi,_cocking_of_a_#3-1793069624752.mp3",
+      "anchor": {
+        "text": "victor reached the steel fire-door of the fifteenth-floor landing. the security lock was fried, a scorched mess of expos",
+        "index": 39,
+        "offset": 16.87,
+        "at": 571.57
+      },
+      "gain": 1.05,
+      "fadeIn": 0,
+      "fadeOut": 2,
+      "seconds": 7
+    }
+  ],
+  "regions": [
+    {
+      "id": "rmvq277x6nwim",
+      "track": "ambient",
+      "file": "far_off_thunder,_rai_#4-1792863590192.mp3",
+      "from": {
+        "text": "rain lashed against the grit of the dead circuits. the lower city was a broken memory of what used to be, buried in the",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "the corridor was otherwise silent. rin had done her research; she had found the perfect floor. for whatever reason, the",
+        "index": 5,
+        "offset": 5.111,
+        "at": 110.936
+      },
+      "gain": 1.13,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    }
+  ]
+}

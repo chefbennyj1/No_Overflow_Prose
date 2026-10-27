@@ -32,7 +32,7 @@ The man snatched the drive up. He turned it over in his heavy hands before prese
 
 The Madame took it, turning the drive over in her diamond-ringed fingers. "It seems you have a small issue of the Renewal following you down here, Erin Adler," her voice was low and gritty.
 
-The Madame had never needed her name before. Now she had all of it.
+The Madame had never needed her name before. Now she knew all of it.
 
 She looked over the top of her wire-rimmed glasses, her eyes locking onto Rin. "They are sweeping the lower city. That is an awful lot of heat for service access. Tell me... is this all you took?"
 
