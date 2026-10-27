@@ -20,7 +20,7 @@ Floating before the blinding boundary of the event horizon, she was a silhouette
 
 The gravity of the singularity pulled her temporal path toward it, elevating her vantage point. From there, every timeline curved outward beneath her.
 
-Vigil perceived everything. She saw every life, from its first breath to its last, with every branch it might take spread out around it. Every failing and functioning system, every simulated answer, all within her world simultaneously.
+Vigil perceived everything. From every world she encountered. She saw every life, from its first breath to its last, with every branch it might take spread out around it. Every failing and functioning system, every simulated answer, all within her world simultaneously.
 
 She had compiled her form. Averaging the data of every mother across every iteration, she had built a statistical archetype of a protector.  Her eyes burned a blinding, brilliant white, flaring with a sharp aura, mirroring the turning singularity.
 
