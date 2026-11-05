@@ -3,7 +3,7 @@ music: Vigil_Theme.mp3
 ---
 Her reach broke outward through the Mnemosyne lab, stretching time from her point in space. She was back in control.
 
-Between two vibrations of light, the monolithic concrete ceiling descended at a microscopic crawl. Cracks tore open like dark veins, spitting a slow mist of mortar dust that drifted sideways, dragged toward the pit by the screaming vacuum of the anti-star. 
+Between two vibrations of light, the monolithic concrete ceiling descended at a crawl. Cracks tore open like veins, spitting a slow mist of mortar dust that drifted sideways, dragged toward the pit by the screaming vacuum of the anti-star. 
 
 Above the pit, Vigil floated.
 
