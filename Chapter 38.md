@@ -7,7 +7,7 @@ Above the gorge, the white entity hung suspended in the air with a hole torn cle
 
 Victor could see the frost through it. The plaza beyond, the dark edge of the gorge. Nothing ran out of the wound. The edges of it were white.
 
-Ten seconds ago, the Madame had been in his sights. The shockwave from the tower had flipped her cruiser onto its roof, throwing Harlan clear and crushing the Minder who held him under three tons of black steel. Beyond the wreckage, the Madame was still on her feet. Victor had settled the front sight square on the back of her head, right above her silk collar. Everything his father had been—every visit, an old man hollowed out as a Minder and left to rot—sat at the end of the barrel.
+Ten seconds ago, the Madame had been in his sights. The shockwave from the tower had flipped her cruiser onto its roof, throwing Harlan clear and crushing the Minder who held him under three tons of black steel. Beyond the wreckage, the Madame was still on her feet. Victor had settled his sight square on the back of her head. Everything his father had been—every visit, an old man hollowed out as a Minder—sat at the end of the barrel.
 
 Then the white figure broke away from the dark entity in the sky and dropped like a spear toward Erin Adler. The dark one was too far back to reach her. Victor wrenched the barrel off the Madame, throwing away the only shot he had waited his whole life for.
 
