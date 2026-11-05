@@ -1,70 +1,19 @@
 ---
 music: creeping tension.mp3
 ---
-Victor heard a sound rip across the plaza from above—two layered voices, like hardened steel wrenching apart.
+The magnetic rails were scorching hot against Victor's palm. A thin trail of gray smoke peeled off the barrel and whipped away on the freezing wind.
 
-A girl in a ragged coat and a yellow knitted hat fell out of the sky, close enough that he heard her scream before she hit the plaza floor.
-
-Something ugly twisted in Victor's gut.
-
-"No!" Harlan's voice was choked. "What is that thing?"
-
-Across from Victor, the Minder still had his gun rammed into Harlan's ribs. Victor held his breath and eyed the man's trigger finger, waiting for the split-second the bastard looked away.
-
-The Minder looked up toward the spire.
-
-Victor's hand tightened on the revolver at his thigh.
-
-Something dark dropped out of the sky—like the shadow of a woman—and landed on its knees beside the dead girl. Its eyes burned blue-white. Victor knew that sheen. The shadow turned its gaze upward and shot straight for the spire.
-
-High up on the face of the tower, the steel caved inward around the white entity. The shockwave slammed into the plaza, ripping the Madame's cruiser off its magnetic cushion and flipping it onto its roof. Harlan was thrown clear across the fallen snow. Three tons of the cruiser's black steel came down on the Minder who was holding him, crushing him into the plaza floor under the crumpled frame. 
-
-Victor hit the ground on his shoulder. He pushed himself up on one knee, his revolver still in his hand. He looked toward Harlan and saw him steady himself to his feet, coughing in the snow. 
-"Harlan! You okay?" He let out a breath into the cold air.
-
-"Still here, Vic!" 
-
-Above them, the two entities were creating havoc across the sky. He surveyed the plaza. All around him people were recovering from the blast. Across the plaza Victor recognized one immediately, it was Erin Adler. 
-
-*This is what she meant. The Company was not in control*
-
-Beyond the wrecked cruiser, the Madame was still on her feet. She had told him she came for what was in the lab. The lab under the tower had caved into the gorge, and nobody was putting a leash on the things in the sky. 
-
-There was nothing between Victor and the Madame's back. Nobody had a gun on Harlan anymore.
-
-Victor got to his feet and raised the revolver.
-
-The rails woke against his palm, a charge crawling up into his wrist. He settled the front sight square on the back of the Madame's head, right above the collar of her white silk. Everything his father had been—every visit, an old man hollowed out as a Minder and left to rot—sat at the end of the barrel.
-
-His finger pressed against the slack on the trigger.
-
-Overhead, the two entities tore at each other above the crowd. The east edge of the plaza broke away into the gorge with people still standing on it. The snow stopped falling. Ice crystals hung suspended in the morning sun, sparkling blue, violet, and green.
-
-Victor paused. It was almost beautiful.
-
-He brought the front sight back to her head. He couldn't have asked for a cleaner moment to collect the life she owed him.
-
-The flakes of snow began to rise, drifting backward toward the sun.
-
-Above the plaza, the white figure broke away from the dark one and dove.
-
-It dropped like a spear, cutting straight down toward the edge of the gorge, and slammed into the plaza floor directly in front of Erin Adler. A torrent of fallen snow plumed beneath its feet, then slowed—locking mid-air in the disruption around it as Erin knelt on the snow. 
-
-The dark entity was behind it, too far back to reach her.
-
-Victor's eyes burned in the glare. He held the back of the Madame's head in his sights for another moment.
-
-His finger eased the tension off the trigger. He let out a breath that fogged in front of him, then drew a sharp, freezing lungful as he wrenched the barrel off the Madame, tracked the white figure above Erin Adler, and fired.
-
-The revolver kicked hard in his hand. Smoke came off the rails in a thin gray line and bent away on the wind.
-
-Above the gorge, the white entity hung in the air with a hole through its gut.
+Above the gorge, the white entity hung suspended in the air with a hole torn clean through its gut.
 
 Victor could see the frost through it. The plaza beyond, the dark edge of the gorge. Nothing ran out of the wound. The edges of it were white.
 
+Ten seconds ago, Victor had the Madame in his sights. The shockwave from the tower had flipped her cruiser onto its roof, throwing Harlan clear and crushing the Minder who held him under three tons of black steel. Beyond the wreckage, the Madame was still on her feet. Victor had thirty years of his father's ruined life lined up square on the back of her head. One pull of the trigger and he would have had his peace.
+
+Then the entity had dropped out of the sky toward Erin Adler. Victor had swung the barrel, throwing away the only shot he had waited his whole life for.
+
 It turned its head and looked at him.
 
-His eyes watered at once. The reflection of the morning sun glared of it, burning through the tears in his eyes. He blinked hard, forcing himself to look.
+His eyes watered at once. The reflection of the morning sun glared off it, burning through the tears in his eyes. He blinked hard, forcing himself to look.
 
 It glided toward him a foot above the ground, its black eyes locked squarely on Victor's albinotic ones.
 
