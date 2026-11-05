@@ -9,9 +9,9 @@ Something ugly twisted in Victor's gut.
 
 "No!" Harlan's voice was choked. "What is that thing?"
 
-Across from Victor, the Minder still had his gun rammed into Harlan's ribs. Victor eyed the man's trigger finger, waiting for the split-second the bastard looked away.
+Across from Victor, the Minder still had his gun rammed into Harlan's ribs. Victor held his breath and eyed the man's trigger finger, waiting for the split-second the bastard looked away.
 
-The Minder's visor tipped up toward the spire.
+The Minder looked up toward the spire.
 
 Victor's hand tightened on the revolver at his thigh.
 
