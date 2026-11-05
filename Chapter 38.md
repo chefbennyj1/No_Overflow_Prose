@@ -159,7 +159,7 @@ She laid her palm flat on Victor's chest.
 
 The cold went in through his coat, and then it was inside him. His heart pushed once against it.
 
-Then the dark entity hit her.
+Then the dark entity, with her glowing white eyes, hit her.
 
 Victor didn't see it come. The white hand was on him, and then it was gone, and she went backward across the plaza with the dark figure locked around her. 
 
