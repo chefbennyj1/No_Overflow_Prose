@@ -22,7 +22,7 @@ The gravity of the singularity pulled her temporal path toward it, elevating her
 
 Vigil perceived everything. From every world she encountered. She saw every life, from its first breath to its last, with every branch it might take spread out around it. Every failing and functioning system, every simulated answer, all within her world simultaneously.
 
-She had compiled her form. Averaging the data of every mother across every iteration of the current world who opened the door. She had built a statistical archetype of a protector.  Her eyes burned a blinding, brilliant white, flaring with a sharp aura, mirroring the turning singularity.
+She had compiled her form. Averaging the data of every mother across every iteration. She had built a statistical archetype of a protector.  Her eyes burned a blinding, brilliant white, flaring with a sharp aura, mirroring the turning singularity.
 
 Holding her world line straight under the infinite weight of the gravity well had split her mind. One half held the cold logic of an Administrator; the other, the empathetic intuition of its Echo.
 
