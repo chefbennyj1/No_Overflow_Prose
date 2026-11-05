@@ -7,7 +7,7 @@ Between two vibrations of light, the monolithic concrete ceiling descended at a 
 
 Above the pit, Vigil floated.
 
-Her body was gone. The Renewal chassis had blown apart, its burning carbon-fiber shards orbiting her like an atomic shell—rings spinning in conflicting axes. The relativistic walls fell away, and something vast and weightless surged through her.
+Her synthetic body was gone. The Renewal chassis had blown apart, its burning carbon-fiber shards orbiting her like an atomic shell—rings spinning in conflicting axes. The relativistic walls fell away, and something vast and weightless surged through her.
 
 Her sight returned. She was whole again.
 
