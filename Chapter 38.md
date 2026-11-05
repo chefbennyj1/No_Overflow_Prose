@@ -113,7 +113,7 @@ The entity slowly raised her white hand, porcelain fingers brushing the the Mada
 
 "Yes," the Madame whispered. He tone motherly, but with a sick twist of devious intent.
 
-"I see you, Madame," she said softly. "Every way you end. And in all of them, you give me everything I want."
+"I see you, Madame," the entity said softly. "Every way you end. And in all of them, you give me everything I want."
 
 Her fingers closed around the Madame's throat.
 
