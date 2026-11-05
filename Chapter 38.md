@@ -43,7 +43,7 @@ One voice, flat and calm. Her lips didn't part. The sound came through the stone
 
 Her head tilted a fraction.
 
-"Yet." The tone dropped, harsh and grinding, scraping through the groaning frame of the tower. "Here." The revolver rattled against his palm. "You." Nothing in her porcelain face moved as the sound tore wider, heavy with fury, and shook the snow off the wrecked cruiser. "Stand."
+"Yet." The tone dropped, harsh and grinding, scraping through the groaning frame of the tower. "Here." The revolver rattled against his palm. "You." Nothing in her porcelain face moved as the sound tore wider and shook the snow off the wrecked cruiser. "Stand."
 
 The word slammed up through the soles of his boots and locked his breath in his throat.
 
@@ -176,3 +176,7 @@ Harlan's hands grabbed him and pulled him close.
 Over Harlan's shoulder, the sun had come up clear of the towers. It was in Victor's eyes.
 
 For the first time, the light didn't hurt.
+
+He looked across the frost to the Madame's lifeless body in the snow.
+
+A smile crossed his lips, and a final breath left his lungs in Harlan's arms.
