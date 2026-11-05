@@ -7,7 +7,7 @@ Above the gorge, the white entity hung suspended in the air with a hole torn cle
 
 Victor could see the frost through it. The plaza beyond, the dark edge of the gorge. Nothing ran out of the wound. The edges of it were white.
 
-Ten seconds ago, the Madame had been in his sights. The shockwave from the tower had flipped her cruiser onto its roof, throwing Harlan clear and crushing the Minder who held him under a wreckage of black steel. Beyond the wreckage, the Madame was still on her feet. Victor had settled his sight square on the back of her head. Everything his father had been—every visit, an old man hollowed out as a Minder—sat at the end of the barrel.
+Ten seconds ago, the Madame had been in his sights. The shockwave from the tower had flipped her cruiser onto its roof, throwing Harlan clear and crushing the Minder who held him under a wreckage of black steel. Beyond the debris, the Madame was still on her feet. Victor had settled his sight square on the back of her head. Everything his father had been—every visit, an old man hollowed out as a Minder—sat at the end of the barrel.
 
 Then the white figure dropped like a spear. It came to a halt at the ground, looming over Erin Adler. *She would die.*  Victor wrenched the barrel off the Madame, throwing away the only shot he had waited his whole life for.
 
@@ -19,7 +19,7 @@ It glided toward him a foot above the ground, its black eyes locked squarely on 
 
 A man scrambling across the frost stumbled into its path. It didn't turn its head. The man was lifted off his feet, twisted in the air, and dropped lifeless in the snow.
 
-"Vic!" Harlan called out from behind the wrecked cruiser. "What are you doing?"
+"Victor!" Harlan called out from behind the wrecked cruiser. "What are you doing?"
 
 Victor kept his eyes locked on the white figure. "Harlan, stay back!"
 
@@ -109,7 +109,7 @@ The sound came up through the stones softer this time, almost mimicking the warm
 
 The Madame's smile widened, triumphant, a spark in her eyes sharpening. Victor could see it in the set of her shoulders—she was already measuring the leash.
 
-The entity slowly raised her white hand, porcelain fingers brushing the collar of the Madame's silk.
+The entity slowly raised her white hand, porcelain fingers brushing the the Madame's silk collar.
 
 "Yes," the Madame whispered.
 
