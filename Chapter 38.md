@@ -1,20 +1,19 @@
 ---
 music: creeping tension.mp3
 ---
-Victor heard a sound rip across the plaza from above, two layered voices, like hardened steel wrenching apart.
+Victor heard a sound rip across the plaza from above—two layered voices, like hardened steel wrenching apart.
 
-A girl in a ragged coat and a yellow knitted hat fell out of the sky. close enough to hear her screams. She hit the plaza floor.
+A girl in a ragged coat and a yellow knitted hat fell out of the sky, close enough that he heard her scream before she hit the plaza floor.
 
-Victor felt rage swelling deep in his soul.
+Something ugly twisted in Victor's gut.
 
 "No!" Harlan's voice was choked. "What is that thing?"
 
-Victor had about enough chaos to fill a life time. His heart pounded hard as he turned his attention to the Minder, who still had a gun pressed into Harlan's ribs. 
-With each anxious heartbeat he waited for the moment to free his friend from the Minders grip.
+Across from Victor, the Minder still had his gun rammed into Harlan's ribs. Victor eyed the man's trigger finger, waiting for the split-second the bastard looked away.
 
-The Minders eyes turned up toward the spire.
+The Minder's visor tipped up toward the spire.
 
-Victor's hand tightened on the revolver at his thigh. 
+Victor's hand tightened on the revolver at his thigh.
 
 Something dark dropped out of the sky—like the shadow of a woman—and landed on its knees beside the dead girl. Its eyes burned blue-white. Victor knew that sheen. The shadow turned its gaze upward and shot straight for the spire.
 
