@@ -9,7 +9,7 @@ Victor could see the frost through it. The plaza beyond, the dark edge of the go
 
 Ten seconds ago, the Madame had been in his sights. The shockwave from the tower had flipped her cruiser onto its roof, throwing Harlan clear and crushing the Minder who held him under three tons of black steel. Beyond the wreckage, the Madame was still on her feet. Victor had settled his sight square on the back of her head. Everything his father had been—every visit, an old man hollowed out as a Minder—sat at the end of the barrel.
 
-Then the white figure dropped like a spear. It came to a halt, looming over Erin Adler. *She would die.* Victor wrenched the barrel off the Madame, throwing away the only shot he had waited his whole life for.
+Then the white figure dropped like a spear. It came to a halt at the ground, looming over Erin Adler. *She would die.*  Victor wrenched the barrel off the Madame, throwing away the only shot he had waited his whole life for.
 
 The entity turned its head and looked at him.
 
