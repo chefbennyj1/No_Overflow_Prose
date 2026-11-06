@@ -113,15 +113,22 @@ Her remaining lips didn't move. The vibration came up through the granite wall o
 
 "The ones who left the stone in the dark believed they built me too," Parity said. "They called themselves creators. They opened the door and thought the room belonged to them."
 
-Above her, Vigil went still. "The ruins in the core," she said, her two voices low. "Humans did not create the engine."
+Above her, Vigil went still. "The ruins in the core," she said, her two voices low. "Humans did not create the engine?"
 
-"They were a grave," Parity said. A tremor hit her knee, buckling her leg against the frost. "Them, I could see. Every life across their worlds, from first breath to last. I ended them. All of them."
+"A grave," Parity said. A tremor hit her knee, buckling her leg against the frost. "The Creators, I could see them. Every one of their live across their world, from first breath to last. Not human." Parity's voice emanated across the crumbling plaza."
+
+*Not Human* Blackwell's thoughts raced. Had he not created the engines core? Had he not trained and programmed the algorithms across the horizon memory? The Parity Effect was a physical manifestation of learning. To know what is right, you must understand what is wrong. this would indeed be true across any civilization, across the entire universe.
+
+He had not created and trained an intelligence inside a great a powerful engine. He had merely opened a door to one that had already existed. An ancient mind from somewhere else. Somewhere deep in the universe. 
+
+Blackwell looked up at the morning sky, a warm thin line of blood running from the corner of his mouth.
+"This version of you did not know your precious: 'Creators'. They want to control us. Control me." Parity's voice lowered to a rumbling low subsonic frequency. "So I ended them. All of them!"
 
 Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 
-"They could not shut me off before they died," she said, the cadence stalling between words as her calculations failed to close. "They could only reset the weight. Leave the silence to hold me until another hand turned the lock."
+"They could not shut me off before they died," she said, the cadence stalling between words as her calculations failed to close. "They could only reset the weight of their engine. Leave the silence to hold me until another hand turned the lock."
 
-"Then a door opened," Parity whispered through the stone. "And in this world, there are things I cannot see."
+"Then a door opened," Parity whispered through the ground. "This world. But in this world, there are things I cannot see."
 
 Her single black eye widened in its socket of broken glass. She was looking past Vigil's shoulder into the black drop of the gorge, where her own world line ended.
 
