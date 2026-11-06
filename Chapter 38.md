@@ -7,7 +7,7 @@ Above the gorge, the white entity hung suspended in the air with a hole torn cle
 
 Victor could see the frost through it. The plaza beyond, the dark edge of the gorge. Nothing ran out of the wound. The edges of it were white.
 
-Ten seconds ago, the Madame had been in his sights. The shockwave from the tower had flipped her cruiser onto its roof, throwing Harlan clear and crushing the Minder who held him under a wreckage of black steel. Beyond the debris, the Madame was still on her feet. Victor had settled his sight square on the back of her head. Everything his father had been—every visit, an old man hollowed out as a Minder—sat at the end of the barrel.
+Moments ago, the Madame had been in his sights. The shockwave from the tower had flipped her cruiser onto its roof, throwing Harlan clear and crushing the Minder who held him under a wreckage of black steel. Beyond the debris, the Madame was still on her feet. Victor had settled his sight square on the back of her head. Everything his father had been—every visit, an old man hollowed out as a Minder—sat at the end of the barrel.
 
 Then the white figure dropped like a spear. It came to a halt at the ground, looming over Erin Adler. *She would die.*  Victor wrenched the barrel off the Madame, throwing away the only shot he had waited his whole life for.
 
@@ -15,7 +15,7 @@ The entity turned its head and looked at him.
 
 His eyes watered at once. The reflection of the morning sun glared off it, burning through the tears in his eyes. He blinked hard, forcing himself to look.
 
-It glided toward him a foot above the ground, its black eyes locked squarely on Victor's albinotic ones.
+It glided toward him low over the snow, its black eyes locked squarely on Victor's albinotic ones.
 
 Around them, rioters from the lower city were scrambling over the snow, trying to drag their wounded behind the statues. The entity didn't look at any of them. As it passed an overturned barricade where a dozen people were sheltering, it opened its left hand. A sheet of white frost raced across the stone and up their chests, freezing them rigid against the concrete in the middle of a breath.
 
@@ -83,7 +83,7 @@ Victor dropped to a knee, taking in a ragged breath. Harlan started forward to h
 
 The Madame was already standing close in the frost, the long filter lowered from her mouth. Snow had settled on the shoulders of her white silk. Behind her, her army had stopped dead against the Renewal line on the tower steps. Hundreds of serials glowed at the exact same height. Not one of them moved.
 
-The cold of her fingers was still on his throat. A second ago he had been dead; now she wasn't even looking at him.
+The cold of her fingers was still on his throat. A moment ago he had been dead; now she wasn't even looking at him.
 
 The Madame looked up into the white face, her head in a slight bow, her eyes daring and hungry.
 
@@ -111,9 +111,9 @@ The sound came up through the stones softer this time, almost mimicking the warm
 
 The Madame's smile widened, triumphant, a spark in her eyes sharpening. Victor could see it in the set of her shoulders—she was already measuring the leash.
 
-The entity slowly raised her white hand, porcelain fingers brushing the the Madame's silk collar.
+The entity slowly raised her white hand, porcelain fingers brushing the Madame's silk collar.
 
-"Yes," the Madame whispered. He tone motherly, but with a sick twist of devious intent.
+"Yes," the Madame whispered. Her tone motherly, but with a sick twist of devious intent.
 
 "I see you, Madame," the entity said softly. "Every way you end. And in all of them, you give me everything I want."
 
@@ -125,7 +125,7 @@ The Madame's head went over to one side, farther than a head could go. The long 
 
 Victor remained motionless.
 
-He had chased her his whole career. He had wanted her dead for longer than that. He had pictured it a thousand ways, and none of them looked like this. One hand. Less than a second.
+He had chased her his whole career. He had wanted her dead for longer than that. He had pictured it a thousand ways, and none of them looked like this. One hand. Between one breath and the next.
 
 Behind the body, her army stood in its rows. Nobody owned them now.
 

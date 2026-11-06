@@ -17,9 +17,7 @@ Behind his circular dark glasses, he took stock of the four people huddled at th
 Two of the faces he knew. Iris Ito knelt in the snow with both hands pressed against her cracked black-rimmed glasses. And Elena. She had finally woken up after weeks, and she was here, alive. The black carbon-fiber fingers of her prosthetic hand flexed and released, the small servos clicking in the cold.
 
 The other two were strangers. A tall woman in a leather jacket, with ratty blue hair. The other with jagged hair, in an orange prison suit.
-Blackwell rasped a painful breath in and stared out across the plaza.
-
-Across the stone, dozens of lower-city rioters lay frozen where they had tried to run, locked in ice beside the broken barricades and the bodies of Corporate Renewal. Beyond the carnage, near the overturned cruiser, the white-haired detective lay dead.
+Blackwell rasped a painful breath in and stared out across the plaza. Dozens of lower-city rioters lay frozen where they had tried to run, locked in ice beside the broken barricades and the bodies of Corporate Renewal. Beyond the carnage, the white-haired detective lay dead.
 
 Beside Blackwell, Elena looked down at the blood on the snow under his chin.
 

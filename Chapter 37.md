@@ -43,7 +43,7 @@ Far below, the atrium's marble floor had split and tipped. The whole of the atri
 
 The horizon pulled at her back.
 
-To Vigil the four of them weighed nothing. The weight was in the pull. With every meter she climbed, the singularity tugged at the edges of her form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below. Admin registered each one as it went, pieces of Vigil's own neural density stripped away into the gravity well.
+To Vigil the four of them weighed nothing. The weight was in the pull. With every floor she climbed, the singularity tugged at the edges of her form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below. Admin registered each one as it went, pieces of Vigil's own neural density stripped away into the gravity well.
 
 Then the pull doubled.
 
@@ -87,7 +87,7 @@ Blackwell did not exist in Vigil's simulation. He was an obscurity—a blank spo
 
 She was not alone. Three people hung in the air around her, held by nothing, turning slowly in the wind off the spire. Frost had climbed their clothes to the throat. They were from the plaza: a man in ragged clothes of the lower city, a Renewal agent with his helmet gone, and a girl of fifteen in a yellow knitted hat, lopsided on her head.
 
-Vigil read them. Three branches ran out from this second, long and ordinary. The agent would quit within the year. The man would grow old on a fishing boat off the Oshima seawall. The girl would live to be ninety-one.
+Vigil read them. Three branches ran out from this moment, long and ordinary. The agent would quit within the year. The man would grow old on a fishing boat off the Oshima seawall. The girl would live to be ninety-one.
 
 Parity turned her black eyes toward Vigil.
 
@@ -129,7 +129,7 @@ The girl hit the ground.
 
 All the branches faded in front of her. Ninety-one years—two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
 
-The knitted yellow hat came down a second later and settled on the frost beside her.
+The knitted yellow hat came down a moment later and settled on the frost beside her.
 
 The snow fell softly in the stillness.
 
@@ -188,7 +188,7 @@ Then she aimed her next strike straight down at the crowd.
 
 Below them, a knot of rioters in soot-stained coats was running for the street ramp. Vigil dove between Parity's hand and the crowd, throwing her dark form wide to take the blow.
 
-The shockwave tore through Vigil's spine, stripping ribbons of blue current from her back. Below her, the rioters kept running. She had bought them three seconds.
+The shockwave tore through Vigil's spine, stripping ribbons of blue current from her back. Below her, the rioters kept running. She had bought them a few moments.
 
 Parity tilted her head, watching Vigil recover. Then, without looking down, Parity swept two fingers sideways.
 
