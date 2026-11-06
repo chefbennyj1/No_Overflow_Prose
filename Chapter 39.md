@@ -12,24 +12,28 @@ His lungs had been failing him long before the fall. That was the secret he had 
 
 He spat into the snow again and wiped his mouth with the back of his torn sleeve. All of that math, and the only thing waiting at the bottom of his lies was a hole eating the center of the city.
 
-Behind his circular dark glasses, he took stock of the four people huddled at the rim where the Vigil had dropped him.
+Behind his circular dark glasses, he took stock of the four people huddled at the rim where Vigil had dropped him.
 
-Two of the faces he knew. Iris Ito knelt in the snow with both hands pressed against her cracked black-rimmed glasses—the analyst who had panicked over decimals on day one. And Elena. She had finally waken up after weeks, and she was here, alive. The black carbon-fiber fingers of her prosthetic hand flexed and released, the small servos clicking in the cold.
+Two of the faces he knew. Iris Ito knelt in the snow with both hands pressed against her cracked black-rimmed glasses. And Elena. She had finally woken up after weeks, and she was here, alive. The black carbon-fiber fingers of her prosthetic hand flexed and released, the small servos clicking in the cold.
 
-The other two were strangers. A tall woman in a leather jacket, and ratty blue hair. The other in orange prison trousers, a jagged sidelock of dark hair hanging past her jaw.
+The other two were strangers. A tall woman in a leather jacket, with ratty blue hair. The other with jagged hair, in an orange prison suit.
 Blackwell rasped a painful breath in and stared out across the plaza.
 
-Out there, beyond the wreckage of the tower plaza, the white-haired detective was dead in his partners arms.
+Out there, beyond the wreckage of the tower plaza, the detective lay dead.
 
 Beside Blackwell, Elena looked down at the blood on the snow under his chin.
 
 "Silas," she said, her voice tight.
 
-The girl in the prison trousers went rigid. Her head snapped away from the dead detective and locked onto Blackwell's face.
+The girl in the prison trousers went rigid. Still staring out toward the dead detective, she spoke the name to herself, low enough that it barely carried across the frost.
 
-"What?!" she choked out. "Silas Blackwell?!"
+"Silas Blackwell..."
 
-Blackwell barely had time to shift his weight before she lunged at him across the frost. The blue haired woman reached to stop her and missed. The girl came straight over the snow with her fist drawn back, her eyes wild.
+Slowly, her head turned. Her eyes locked onto his face, and a low growl came from her throat.
+
+"You."
+
+She rose and marched across the snow straight at him. The blue-haired woman reached to grab her and missed. Closing the distance in three hard strides, the girl drew her fist back, her eyes wild.
 
 "This is all your fault, you son of a bitch!" she screamed, driving the punch straight at his jaw. "You did this! All this death!"
 
@@ -39,7 +43,7 @@ An inch from his glasses, Elena's prosthetic hand shot across his chest and caug
 
 The girl strained against the grip, her chest heaving in the bitter air, until the woman in the leather jacket grabbed her by the shoulders and hauled her back a step. Elena lowered the girl's arm and let go.
 
-Before anyone at the rim could speak again, a shockwave tore across the plaza. Parity had locked her arms around Vigil, driving her backward from the dead detective in a low blur. They hit the ground where the plaza stone broke off into the gorge.
+Before anyone at the rim could speak again, a shockwave tore across the plaza. Vigil had locked her arms around Parity, driving her backward from the dead detective in a low blur. They hit the ground where the plaza stone broke off into the gorge.
 
 The impact jolted through the bedrock into his knees. Frost and granite sprayed outward, carving a shallow bowl into the lip of the drop.
 
@@ -47,13 +51,13 @@ At the bottom of the crater, Vigil had Parity pinned against the stone.
 
 Up close, Blackwell could see what the detective's revolver had done. A ragged hole went clean through Parity's midsection, and half of her porcelain face had been sheared away into pale crystal and torn bronze wire. Her one remaining black eye stared straight up out of a socket of broken glass.
 
-Above her, Vigil was coming apart. The dark of her silhouette had worn thin enough that the gray morning showed through her shoulders. Flakes of blue current peeled off her spine and vanished into the pull of the open engines singularity beneath them.
+Above her, Vigil was coming apart in the exact same places. Her own face had never been struck, yet half of her dark features had thinned to a ghosted outline, the white light of one eye guttering and dim. In the center of her torso—mirroring the crater in Parity's gut—the blue circuit traces had gone dead around a hollow ring of empty air, the gray morning showing straight through her chest as flakes of current peeled off her spine into the pull of the engine's singularity beneath them.
 
 The floor of the crater split. A fissure ran through the lip of the bowl into the gorge, where the light of the plaza bent downward into the rising black sphere of the anti-star. Grit slid over the edge into nothing. Under their weight, the stone bowl tipped toward the drop, a millimeter at a time.
 
 Around the plaza, hundreds of blue serials flared at once.
 
-The Madame's body left folded in the snow with her neck twisted at an angle. Along the tower steps, every synthetic lowered its arms, turned its back on the Renewal rifles, and walked toward the gorge. They closed in around the rim of the crater in tight, silent rows, stopping at the broken edge.
+The Madame's body lay folded in the snow with her neck twisted at an angle. Along the tower steps, every synthetic lowered its arms, turned its back on the Renewal rifles, and walked toward the gorge. They closed in around the rim of the crater in tight, silent rows, stopping at the broken edge.
 
 They were Elena's frames. Her neural matrices, her clean geometry. Blackwell watched her from the corner of his eye as she looked up into the ring of faces she had designed.
 
