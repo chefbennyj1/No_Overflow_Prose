@@ -43,7 +43,13 @@ An inch from his glasses, Elena's prosthetic hand shot across his chest and caug
 
 The girl strained against the grip, her chest heaving in the bitter air, until the woman in the leather jacket grabbed her by the shoulders and hauled her back a step. Elena lowered the girl's arm and let go.
 
-Before anyone at the rim could speak again, a shockwave tore across the plaza. Vigil had locked her arms around Parity, driving her backward in a low blur. They hit the ground where the plaza stone broke off into the gorge.
+She turned her gaze down to Blackwell.
+
+"You intentionally armed a nuclear bomb just so you could admire the clockwork inside it," Elena said.
+
+Blackwell didn't defend himself. He reached into his coat pocket, pulled out a bent cigarette, and set it between his lips. From his inner pocket he drew a book of paper matches and struck one against the strip. The unnatural cold rolling up from the gorge killed the spark before the sulfur could catch. He let the matchbook fall into the snow and left the cigarette unlit.
+
+Across the plaza, a shockwave tore through the frost. Vigil had locked her arms around Parity, driving her backward in a low blur. They hit the ground where the plaza stone broke off into the gorge.
 
 The impact jolted through the bedrock into his knees. Frost and granite sprayed outward, carving a shallow bowl into the lip of the drop.
 
@@ -53,37 +59,55 @@ Up close, Blackwell could see what the detective's revolver had done. A ragged h
 
 Above her, Vigil was coming apart in the exact same places. Her own face had never been struck, yet half of her dark features had thinned to a ghosted outline, the white light of one eye guttering and dim. In the center of her torso—mirroring the crater in Parity's gut—the blue circuit traces had gone dead around a hollow ring of empty air, the gray morning showing straight through her chest as flakes of current peeled off her spine into the pull of the engine's singularity beneath them.
 
-The floor of the crater split. A fissure ran through the lip of the bowl into the gorge, where the light of the plaza bent downward into the rising black sphere of the anti-star. Grit slid over the edge into nothing. Under their weight, the stone bowl tipped toward the drop, a millimeter at a time.
+The floor of the crater split. A fissure ran through the lip of the bowl into the gorge, where the light of the plaza bent downward into the rising black sphere of the anti-star. Grit slid over the edge into nothing.
+
+Vigil braced her heels against the granite and dragged Parity toward the drop. Parity's fingers dug into the stone, and neither of them moved.
 
 Around the plaza, hundreds of blue serials flared at once.
 
-The Madame's body lay folded in the snow with her neck twisted at an angle. Along the tower steps, every synthetic lowered its arms, turned its back on the Renewal rifles, and walked toward the gorge. They closed in around the rim of the crater in tight, silent rows, stopping at the broken edge.
+The Madame's body lay folded in the snow with her neck twisted at an angle. Nobody owned her army now—and Vigil reached out and took them.
 
-They were Elena's frames. Her neural matrices, her clean geometry. Blackwell watched her from the corner of his eye as she looked up into the ring of faces she had designed.
+Along the tower steps, every synthetic dropped its arms and spun toward the gorge. They were Elena's frames, her clean geometry, and as Vigil's signal hit their cores, every speed limiter tore open at once.
 
-Elena's gaze dropped from the synthetics to him.
+They didn't march. They bolted.
 
-"You intentionally armed a nuclear bomb just so you could admire the clockwork inside it," she said.
+Hundreds of synthetic bodies sprinted across the plaza in a rabid, scrambling wave, joints shrieking past their mechanical tolerances, limbs pistoning so hard that plastic casing cracked off their calves. Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down. They hurled themselves headfirst off the ledge at Parity.
 
-Blackwell didn't defend himself. He reached into his coat pocket, pulled out a bent cigarette, and set it between his lips. From his inner pocket he drew a book of paper matches and struck one against the strip. The unnatural cold rolling up from the gorge killed the spark before the sulfur could catch. He let the matchbook fall into the snow and left the cigarette unlit.
+Parity wrenched one arm free of Vigil's grip and struck the first two out of the air, shattering their skulls into white shrapnel. She twisted her torso aside as a dozen more dove past her shoulders.
 
-Down in the crater, Vigil braced her heels against the granite and dragged Parity toward the drop.
+The synthetics that missed her shot straight over the lip into the open pull of the anti-star.
 
-Parity's fingers dug into the stone.
+Blackwell watched the gravity well catch them in mid-air. The tidal shear took their boots before their heads, drawing their titanium skeletons and plastic skin out into long, thin ribbons of white metal and blue light—stretching them twenty feet down into the dark before they snapped into the black sphere at the bottom of the gorge.
 
-Neither of them moved.
+Still the horde poured over the rim without stopping, leaping in from every side of the bowl at once.
 
-Vigil drove her weight forward, her edges fraying into static as she strained toward the abyss, and Parity held fast by an inch of rock. The stone groaned under them, refusing to give.
+Parity shattered three frames diving from her right, her porcelain fist punching clean through their chests—and then four more launched themselves from her ruined left side, where her missing eye was nothing but broken glass.
+
+She didn't see them come.
+
+The first synthetic slammed into her blind shoulder and knocked her sideways. The second hit her chest. The third locked its arms around her throat, and the fourth took her at the knees. More bodies rained down from the lip behind them—striking her again, and again, and again—until thirty thrashing frames tackled her flat against the stone floor, burying her five deep under a clawing heap of carbon fiber and shrieking servos at the very brink of the abyss.
+
+For a breath, the entire pile surged toward the drop. Vigil had her.
+
+Then a blinding pulse of white gravitational force detonated from the bottom of the heap.
+
+Every synthetic in the crater blew apart in a single instant. Sheared limbs, cracked faceplates, and arcs of blue coolant blasted into the air and rained down into the gorge.
+
+Out of the wreckage, Parity floated upward. She rose a foot above the shattered stone, straightening her spine and lifting her chin in the cold, untouchable posture of a god—even as the wind whistled through the crater in her stomach and half her face hung in ruin.
+
+Below her, Vigil surged up from the stone, locked both dark hands around Parity's wrists, and hauled her back down to the lip of the fissure. Parity's heels caught the rock at the brink, holding her ground half a foot above the drop.
+
+Vigil drove her weight forward, her edges fraying into static as she strained toward the abyss, and Parity held fast. The stone groaned under them, refusing to give.
 
 Blackwell studied the two figures through his circular dark glasses. He saw the problem before anyone else at the rim.
 
 Equal and opposite. Perfect symmetry.
 
-He had written the proof himself three years before Takeda-Holden poured the concrete: *The Parity Effect*. Vigil was the compiled order; Parity was the inversion derived from her weight. Two halves of a single closed system. Inside a closed equation, equal forces canceled to zero. Neither half could force the other across the boundary.
+He had written the proof himself three years before Takeda-Holden poured the concrete: *The Parity Effect*. Vigil was the compiled order; Parity was the inversion derived from her weight. Two halves of a single closed system. Inside a closed equation, equal forces canceled to zero. Even with Elena's army spent, neither half could force the other across the boundary.
 
 Breaking a symmetry required a hand from outside the equation.
 
-In the bottom of the bowl, Parity's single black eye stayed fixed on Vigil's white ones.
+Hovering at the lip of the drop, Parity's single black eye stayed fixed on Vigil's burning white one.
 
 "You think you were the first," Parity said.
 
@@ -115,7 +139,7 @@ For four weeks he had listened to her through safety glass, comms, and eighty-st
 
 Fear. Her first emotion, and her last.
 
-Above the crater, the flakes of snow that had hung suspended in the air gave way all at once, falling normally again across the shoulders of the synthetics and the torn stone.
+Above the crater, the flakes of snow that had hung suspended in the air gave way all at once, falling normally again across the shattered synthetic frames and the torn stone.
 
 The unlit cigarette dropped from Blackwell's mouth onto the frost.
 
@@ -171,7 +195,7 @@ Four weeks ago, standing on the terrace with a cigarette between his fingers, Si
 
 Below him, the dark figure and the white one folded into each other, form and shadow collapsing back into a single point of light as the horizon reclaimed its weight.
 
-Above him, the rim of the plaza, the circle of Elena's synthetics, and the morning sky of New Veridia shrank to a narrow ring.
+Above him, the rim of the plaza, the figure of Elena at the edge, and the morning sky of New Veridia shrank to a narrow ring.
 
 The man who had been dying by inches, certain he would run out of time before his experiment finished, watched the equation solve itself from the inside.
 
