@@ -31,7 +31,7 @@ Slowly, her head turned. Her eyes locked onto his face, and a low growl came fro
 
 "You."
 
-She rose and marched across the snow straight at him. The blue-haired woman reached to grab her and missed. She closed the distance in three strides, the girl drew her fist back, her eyes wild.
+She rose and marched across the snow straight at him. The blue-haired woman reached to grab her and missed. She closed the distance in three strides, and drew her fist back, her eyes wild.
 
 "This is all your fault, you son of a bitch!" she screamed, driving the punch straight at his jaw. "You did this! All this death!"
 
