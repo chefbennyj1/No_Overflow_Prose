@@ -47,7 +47,7 @@ She turned her gaze down to Blackwell.
 
 Blackwell didn't defend himself. He reached into his coat pocket, pulled out a bent cigarette, and set it between his lips. From his inner pocket he drew a book of paper matches and struck one against the strip. The unnatural cold rolling up from the gorge killed the spark before the sulfur could catch. He let the matchbook fall into the snow and left the cigarette unlit.
 
-Across the plaza, a shockwave tore through the frost. Vigil had locked her arms around Parity, driving her backward in a low blur. They hit the ground where the plaza stone broke off into the gorge.
+Across the plaza, a shockwave tore through the frost. Vigil had locked her arms around Parity, driving her backward in a blur. They hit the ground where the plaza stone broke off into the gorge.
 
 The impact jolted through the bedrock into his knees. Frost and granite sprayed outward, carving a shallow bowl into the lip of the drop.
 
@@ -57,7 +57,7 @@ Up close, Blackwell could see what the detective's revolver had done. A ragged h
 
 Above her, Vigil was coming apart in the exact same places. Her own face had never been struck, yet half of her dark features had thinned to a ghosted outline, the white light of one eye guttering and dim. In the center of her torso—mirroring the crater in Parity's gut—the blue circuit traces had gone dead around a hollow ring of empty air, the gray morning showing straight through her chest as flakes of current peeled off her spine into the pull of the engine's singularity beneath them.
 
-The floor of the crater split. A fissure ran through the lip of the bowl into the gorge, where the light of the plaza bent downward into the rising black sphere of the anti-star. Grit slid over the edge into nothing.
+The floor of the crater split. A fissure ran through the lip of the bowl into the gorge, where the light of the plaza bent downward into the sheering black sphere of the anti-star. Grit slid over the edge into nothing.
 
 Vigil braced her heels against the granite and dragged Parity toward the drop. Parity's fingers dug into the stone, and neither of them moved.
 
@@ -75,7 +75,7 @@ Parity wrenched one arm free of Vigil's grip and struck the first two out of the
 
 The synthetics that missed her shot straight over the lip into the open pull of the anti-star.
 
-Blackwell watched the gravity well catch them in mid-air. The tidal shear took their boots before their heads, drawing their titanium skeletons and plastic skin out into long, thin ribbons of white metal and blue light—stretching them the length of the gorge wall before they snapped into the black sphere at the bottom of the pit.
+Blackwell watched the gravity well catch them in mid-air. The tidal shear took their heads, drawing their titanium skeletons and plastic skin out into long, thin ribbons of white metal and blue light—stretching them the length of the gorge wall before they snapped into the black sphere at the bottom of the pit.
 
 Still the horde poured over the rim without stopping, leaping in from every side of the bowl at once.
 
