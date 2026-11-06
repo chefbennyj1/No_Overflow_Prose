@@ -81,13 +81,13 @@ Still the horde poured over the rim without stopping, leaping in from every side
 
 Parity shattered three frames diving from her right, her porcelain fist punching clean through their chests—and then four more launched themselves from her ruined left side, where her missing eye was nothing but broken glass.
 
-She didn't see them come.
+She didn't see them coming.
 
-The first synthetic slammed into her blind shoulder and knocked her sideways. The second hit her chest. The third locked its arms around her throat, and the fourth took her at the knees. More bodies rained down from the lip behind them—striking her again, and again, and again—until thirty thrashing frames tackled her flat against the stone floor, burying her five deep under a clawing heap of carbon fiber and shrieking servos at the very brink of the abyss.
+The first synthetic slammed into her blind shoulder and knocked her sideways. The second hit her chest. The third locked its arms around her throat, and the fourth grabbed her knees. More bodies rained down from the lip behind them—striking her again, and again, and again—until thirty thrashing frames tackled her flat against the stone floor, burying her five deep under a clawing heap of carbon fiber and shrieking mechanics at the very brink of the abyss.
 
 For a breath, the entire pile surged toward the drop. Vigil had her.
 
-Then a blinding pulse of white gravitational force detonated from the bottom of the heap.
+Then a pulse of white gravitational force detonated from the bottom of the heap.
 
 Every synthetic in the crater blew apart in a single instant. Sheared limbs, cracked faceplates, and arcs of blue coolant blasted into the air and rained down into the gorge.
 
