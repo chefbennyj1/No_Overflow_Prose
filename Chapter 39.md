@@ -43,11 +43,11 @@ An inch from his glasses, Elena's prosthetic hand shot across his chest and caug
 
 The girl strained against the grip, her chest heaving in the bitter air, until the woman in the leather jacket grabbed her by the shoulders and hauled her back a step. Elena lowered the girl's arm and let go.
 
-Before anyone at the rim could speak again, a shockwave tore across the plaza. Vigil had locked her arms around Parity, driving her backward from the dead detective in a low blur. They hit the ground where the plaza stone broke off into the gorge.
+Before anyone at the rim could speak again, a shockwave tore across the plaza. Vigil had locked her arms around Parity, driving her backward in a low blur. They hit the ground where the plaza stone broke off into the gorge.
 
 The impact jolted through the bedrock into his knees. Frost and granite sprayed outward, carving a shallow bowl into the lip of the drop.
 
-At the bottom of the crater, Vigil had Parity pinned against the stone.
+At the bottom of the crater, Vigil had Parity pinned against the edge.
 
 Up close, Blackwell could see what the detective's revolver had done. A ragged hole went clean through Parity's midsection, and half of her porcelain face had been sheared away into pale crystal and torn bronze wire. Her one remaining black eye stared straight up out of a socket of broken glass.
 
