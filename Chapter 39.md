@@ -65,11 +65,19 @@ Around the plaza, hundreds of blue serials flared at once.
 
 The Madame's body lay folded in the snow with her neck twisted at an angle. Nobody owned her army now—and Vigil reached out and took them.
 
-Along the tower steps, every synthetic dropped its arms and spun toward the gorge. They were Elena's frames, her clean geometry, and as Vigil's signal hit their cores, every speed inhibitor tore open at once.
+Along the tower steps, every synthetic dropped its arms and spun toward the gorge. Vigil's signal hit their cores, as every speed inhibitor sizzled and split open at once.
 
 They bolted.
 
-A horde of synthetic bodies sprinted across the plaza in a rabid, scrambling wave, joints shrieking past their mechanical tolerances, limbs pistoning so hard that plastic casing cracked off their calves. Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down. They hurled themselves headfirst off the ledge at Parity.
+A horde of synthetic bodies spilled across the plaza in a rabid, scrambling wave, joints shrieking past their mechanical tolerances, limbs pistoning so hard that plastic casing cracked off their calves. 
+
+They ran wrong. Their heads pushed forward, chins pushed out past their knees, and their bodies followed in a clumsy forward fall that each stride caught a moment too late.
+
+Their arms flung out sideways, crashing into whatever was closest. Joints buckled, locked and buckled again. Bodies slamming together everywhere as the flood surged forward toward Parity.
+
+The frozen plaza ground took them down by the dozen, the ones behind them pouring over them, stamping them into the ground.
+
+Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down. They hurled themselves headfirst off the ledge at Parity.
 
 Parity wrenched one arm free of Vigil's grip and struck the first two out of the air, shattering their skulls into white shrapnel. She twisted her torso aside as a dozen more dove past her shoulders.
 
