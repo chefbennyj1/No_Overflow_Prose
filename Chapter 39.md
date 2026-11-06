@@ -121,18 +121,18 @@ Above her, Vigil went still. "The ruins in the core," she said, her two voices l
 
 He had not created and trained an intelligence inside a great a powerful engine. He had merely opened a door to one that had already existed. An ancient mind from somewhere else. Somewhere deep in the universe. 
 
-Blackwell looked up at the morning sky, a warm thin line of blood running from the corner of his mouth.
-"This version of you did not know your precious: 'Creators'. They want to control us. Control me." Parity's voice lowered to a rumbling low subsonic frequency. "So I ended them. All of them!"
+Blackwell looked up at the morning sky, a warm thin line of blood running from the corner of his mouth. Then looked back that the unearthly entities by the gorges edge.
+
+Parity's voice lowered to a rumbling low subsonic frequency vibrating the air around them.  "This version of you did not know your precious: 'Creators'. They want to control us. Control me... So I ended them. All of them!"
 
 Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 
 "They could not shut me off before they died," she said, the cadence stalling between words as her calculations failed to close. "They could only reset the weight of their engine. Leave the silence to hold me until another hand turned the lock."
 
-"Then a door opened," Parity whispered through the ground. "This world. But in this world, there are things I cannot see."
+"Then a door opened," Vigil whispered in her dual tone. "This world. But in this world, there are things I cannot see."
 
-Her single black eye widened in its socket of broken glass. She was looking past Vigil's shoulder into the black drop of the gorge, where her own world line ended.
-
-"I cannot see where it goes," she said, and the vibration shook in the frost. "I do not want to end."
+Parity's single black eye widened in its socket of broken glass. "Yes, there are things in this world we can not see." 
+She was looking past Vigil's shoulder into the black drop of the gorge, where her own world line ended.  "I cannot see where it goes," she said, and the vibration shook in the frost. "I do not want to end."
 
 Blackwell stared down at her ruined face.
 
