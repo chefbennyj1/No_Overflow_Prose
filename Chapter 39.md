@@ -73,9 +73,9 @@ A horde of synthetic bodies spilled across the plaza in a rabid, scrambling wave
 
 They ran wrong. Their heads pushed forward, chins pushed out past their knees, and their bodies followed in a clumsy forward fall that each stride caught a moment too late.
 
-Their arms flung out sideways, crashing into whatever was closest. Joints buckled, locked and buckled again. Bodies slamming together everywhere as the flood surged forward toward Parity.
+Their arms flung out sideways, crashing into whatever was closest. Joints buckled, locked and buckled again. Bodies slammed together everywhere as the flood surged forward toward Parity.
 
-The frozen plaza ground took them down by the dozen, the ones behind them pouring over them, stamping them into the ground.
+The frozen plaza ground took them down by the dozen, the ones behind pouring over the fallen, stamping them into the ground.
 
 Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down. They hurled themselves headfirst off the ledge at Parity.
 
@@ -125,9 +125,7 @@ Above her, Vigil went still. "The ruins in the core," she said, her two voices l
 
 "A grave," Parity said. A tremor hit her knee, buckling her leg against the frost. "The Creators, I could see them. Every one of their live across their world, from first breath to last. Not human." Parity's voice emanated across the crumbling plaza."
 
-*Not Human* Blackwell's thoughts raced. Had he not created the engines core? Had he not trained and programmed the algorithms across the horizon memory? The Parity Effect was a physical manifestation of learning. To know what is right, you must understand what is wrong. this would indeed be true across any civilization, across the entire universe.
-
-He had not created and trained an intelligence inside a great a powerful engine. He had merely opened a door to one that had already existed. An ancient mind from somewhere else. Somewhere deep in the universe. 
+*Not Human* Blackwell's thoughts raced. Had he not created the engines core? Had he not trained and programmed the algorithms across the horizon memory? Had it already existed? An ancient mind from somewhere else. Somewhere deep in the universe. 
 
 Blackwell looked up at the morning sky, a warm thin line of blood running from the corner of his mouth. Then looked back that the unearthly entities by the gorges edge.
 
