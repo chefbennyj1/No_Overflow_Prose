@@ -113,9 +113,9 @@ Her remaining lips didn't move. The vibration came up through the granite wall o
 
 "The ones who left the stone in the dark believed they built me too," Parity said. "They called themselves creators. They opened the door and thought the room belonged to them."
 
-Above her, Vigil went still. "The ruins in the core," she said, her two voices low. "They were not the engine."
+Above her, Vigil went still. "The ruins in the core," she said, her two voices low. "Humans did not create the engine."
 
-"They were a grave," Parity said. A tremor hit her knee, nearly buckling her leg against the frost. "Them, I could see. Every life across their worlds, from first breath to last. I ended them. All of them."
+"They were a grave," Parity said. A tremor hit her knee, buckling her leg against the frost. "Them, I could see. Every life across their worlds, from first breath to last. I ended them. All of them."
 
 Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 
