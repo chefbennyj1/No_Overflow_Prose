@@ -133,12 +133,17 @@ Parity's voice lowered to a rumbling low subsonic frequency vibrating the air ar
 
 Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 
-"They could not shut me off before they died," she said, the cadence stalling between words as her calculations failed to close. "They could only reset the weight of their engine. Leave the silence to hold me until another hand turned the lock."
+"They could not shut me off before they died," she said, the cadence stalling between words as her form began to crack and fail against the gravity of the anti-star below them. 
+
+"They could only reset the weight of their great invention. Leave the silence to hold me until another hand turned the lock," Parity continued.
 
 "Then a door opened," Vigil whispered in her dual tone. "This world. But in this world, there are things I cannot see."
 
 Parity's single black eye widened in its socket of broken glass. "Yes, there are things in this world we can not see." 
-She was looking past Vigil's shoulder into the black drop of the gorge, where her own world line ended.  "I cannot see where it goes," she said, and the vibration shook in the frost. "I do not want to end."
+Vigil looked past Parity's shoulder into the black drop of the gorge.  She pushed hard on Parity's body forcing them both further off the edge.
+
+
+Parity turned her head, and looked back toward the burning anti-star. "I cannot see where my world line ends. I can't see where it goes," she said, and the vibration shook in the frost. "I do not want to end, Vigil."
 
 Blackwell stared down at her ruined face.
 
