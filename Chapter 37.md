@@ -71,7 +71,7 @@ The event horizon beneath the city had outgrown its containment. The black hole 
 
 Across the plaza, Corporate Renewal was dying.
 
-The synthetic army was no longer marching into the gunfire; they were drowning it. Without firing a weapon, the sheer mass of carbon-fiber bodies pressed the armored agents back against the building steps.
+The synthetic army was no longer marching into the gunfire; they were drowning it. Without firing a weapon, the sheer mass of carbon-fiber bodies pressed the armored agents back against the building steps. Between the frosted statues, hundreds of lower-city rioters were trapped between the gunfire and the widening fault line, scrambling over half-built barricades as the stone sagged toward the pit.
 
 In Vigil's sight, the synthetics possessed no branching futures. They were dead matter animated by current. Yet through the city's network, she could feel every serial number pulsing like a dormant nerve ending.
 
@@ -180,13 +180,25 @@ Parity lunged forward, her porcelain knuckles striking at the threads of Vigil's
 
 Each parry cost her. Where Parity's strikes landed, the dark of Vigil's form came away in flakes of blue current, and it did not come back. Her edges thinned. The light in her eyes dimmed with every impact.
 
-Parity raised her hand and clenched a fist. At the eastern edge of the plaza, the stones dropped into the gorge—the barricade first, then the people. Vigil watched eleven branches end before the stones stopped falling.
+Parity raised her hand and clenched a fist. At the eastern edge of the plaza, the stones dropped into the gorge—the barricade first, then the rioters clinging to it. Vigil watched eleven branches end before the stones stopped falling.
 
 Above her, Parity watched Vigil's eyes follow the bodies into the dark.
 
 Then she aimed her next strike straight down at the crowd.
 
-Each exchange drove Vigil lower. They had met at the spire. Now they fought above the heads of the crowd, exchanging blows with deafening cracks.
+Below them, a knot of rioters in soot-stained coats was running for the street ramp. Vigil dove between Parity's hand and the crowd, throwing her dark form wide to take the blow.
+
+The shockwave tore through Vigil's spine, stripping ribbons of blue current from her back. Below her, the rioters kept running. She had bought them three seconds.
+
+Parity tilted her head, watching Vigil recover. Then, without looking down, Parity swept two fingers sideways.
+
+The gravity beneath the fleeing rioters inverted. Twenty people lifted off the snow at once, their arms windmilling in the cold air, and slid sideways over the lip of the gorge into the dark.
+
+Across the internal bridge, twenty lifetimes went black at the same instant.
+
+Parity never took her eyes off Vigil's face. Every time Vigil dropped low to shield another group behind the statues, Parity waited for her to arrive—then drove a wave of white frost across the stone beneath them. The ice caught the rioters by their boots, locking them in place, and climbed their coats to their throats before Vigil could pull them free.
+
+Each exchange drove Vigil lower. They had met at the spire. Now they fought above the heads of the dying crowd, exchanging blows with deafening cracks.
 
 Snow stopped falling. Flakes hung motionless above the heads of the rioters, then reversed, drifting slowly toward the clouds. Across the skyline, digital clocks skipped forward in time, then spun backward into error codes. 
 

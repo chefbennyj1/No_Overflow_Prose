@@ -17,13 +17,15 @@ His eyes watered at once. The reflection of the morning sun glared off it, burni
 
 It glided toward him a foot above the ground, its black eyes locked squarely on Victor's albinotic ones.
 
-A man scrambling across the frost stumbled into its path. It didn't turn its head. The man was lifted off his feet, twisted in the air, and dropped lifeless in the snow.
+Around them, rioters from the lower city were scrambling over the snow, trying to drag their wounded behind the statues. The entity didn't look at any of them. As it passed an overturned barricade where a dozen people were sheltering, it opened its left hand. A sheet of white frost raced across the stone and up their chests, freezing them rigid against the concrete in the middle of a breath.
+
+A man in a torn coat stumbled into its path. It didn't turn its head. The man was lifted off his feet, twisted in the air, and dropped lifeless in the snow.
 
 "Victor!" Harlan called out from behind the wrecked cruiser. "What are you doing?"
 
 Victor kept his eyes locked on the white figure. "Harlan, stay back!"
 
-Where it passed, the snow stopped falling and hung in the air behind it.
+Where it passed, the screaming died out, and the snow stopped falling and hung in the air behind it.
 
 Victor didn't move.
 

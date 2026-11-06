@@ -2,7 +2,7 @@
 music: Blackwell.mp3
 ambient: low_rumble_of_an_eve_#3-1792862539709.mp3
 ---
-Something had given way in his chest.
+A cold breeze ran across his palms. He twicthed his finger tipsSomething had given way in his chest.
 
 Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into him, had stripped the last of the scientist out of him. When Parity's hold broke, the freefall, the wind tearing at his coat and the street rushing up to meet him, he had known he was dead. What could have only been Vigil, the primary intelligence, tore across the gap, caught him out of the air, and hurled him down into the ground at the edge of the gorge. It was the only reason he was alive.
 
@@ -19,7 +19,7 @@ Two of the faces he knew. Iris Ito knelt in the snow with both hands pressed aga
 The other two were strangers. A tall woman in a leather jacket, with ratty blue hair. The other with jagged hair, in an orange prison suit.
 Blackwell rasped a painful breath in and stared out across the plaza.
 
-Out there, beyond the wreckage of the tower plaza, the detective lay dead.
+Across the stone, dozens of lower-city rioters lay frozen where they had tried to run, locked in ice beside the broken barricades and the bodies of Corporate Renewal. Beyond the carnage, near the overturned cruiser, the white-haired detective lay dead.
 
 Beside Blackwell, Elena looked down at the blood on the snow under his chin.
 
