@@ -14,13 +14,12 @@ He spat into the snow again and wiped his mouth with the back of his torn sleeve
 
 Behind his circular dark glasses, he took stock of the four people huddled at the rim where the dark entity had dropped him.
 
-Two of the faces he knew. A few paces down the edge, Iris Ito knelt in the snow with both hands pressed against her cracked black-rimmed glasses—the analyst who had panicked over decimals on day one, and who had crept into his office to pull the thesis from his shelf. Closer, right beside his boot, was Elena. Her white lab coat was streaked with ash, and the black carbon-fiber fingers of her prosthetic hand flexed and released, the small servos clicking in the cold.
+Two of the faces he knew. Iris Ito knelt in the snow with both hands pressed against her cracked black-rimmed glasses—the analyst who had panicked over decimals on day one. And Elena. She had finally waken up after weeks, and she was here, alive. The black carbon-fiber fingers of her prosthetic hand flexed and released, the small servos clicking in the cold.
 
-The other two were strangers from the lower city. One was a tall woman in a leather jacket, a pale scar running across her collarbone above a red tank top. The other was younger, kneeling on the frost in orange prison trousers, a jagged sidelock of dark hair hanging past her jaw as she stared out across the plaza.
+The other two were strangers. A tall woman in a leather jacket, and ratty blue hair. The other in orange prison trousers, a jagged sidelock of dark hair hanging past her jaw.
+Blackwell rasped a painful breath in and stared out across the plaza.
 
-Out there, beside the overturned hull of a black cruiser, the white-haired detective from the precinct feeds had collapsed into his partner's arms.
-
-Two blind spots in four million people, and now there was one.
+Out there, beyond the wreckage of the tower plaza, the white-haired detective was dead in his partners arms.
 
 Beside Blackwell, Elena looked down at the blood on the snow under his chin.
 
@@ -30,7 +29,7 @@ The girl in the prison trousers went rigid. Her head snapped away from the dead 
 
 "What?!" she choked out. "Silas Blackwell?!"
 
-Blackwell barely had time to shift his weight before she lunged at him across the frost. The scarred woman reached for her jacket and missed. The girl came straight over the snow with her fist drawn back, her eyes wild.
+Blackwell barely had time to shift his weight before she lunged at him across the frost. The blue haired woman reached to stop her and missed. The girl came straight over the snow with her fist drawn back, her eyes wild.
 
 "This is all your fault, you son of a bitch!" she screamed, driving the punch straight at his jaw. "You did this! All this death!"
 
