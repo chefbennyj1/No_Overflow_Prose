@@ -2,7 +2,7 @@
 music: Blackwell.mp3
 ambient: low_rumble_of_an_eve_#3-1792862539709.mp3
 ---
-A cold breeze ran across his palms. He twicthed his finger tipsSomething had given way in his chest.
+A cold breeze ran across his palms. He twitched his finger tips, and rolled to his side. His world sounded distant, and muffled. But, as the cool breeze hit his face, the vacuum of the world came rushing back with a crescendo of a deep sigh, and Silas Blackwell felt the life surge back into his body with a gasping breath.
 
 Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into him, had stripped the last of the scientist out of him. When Parity's hold broke, the freefall, the wind tearing at his coat and the street rushing up to meet him, he had known he was dead. What could have only been Vigil, the primary intelligence, tore across the gap, caught him out of the air, and hurled him down into the ground at the edge of the gorge. It was the only reason he was alive.
 
