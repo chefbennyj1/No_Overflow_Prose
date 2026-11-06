@@ -23,9 +23,9 @@ Beside Blackwell, Elena looked down at the blood on the snow under his chin.
 
 "Silas," she said, her voice tight.
 
-The girl in the prison trousers went rigid. Still staring out toward the dead detective, she spoke the name to herself, low enough that it barely carried across the wind.
+The girl in the prison trousers went rigid. Still staring out toward the dead detective, she spoke his name to herself, low enough that it barely carried across the wind.
 
-"Silas Blackwell..."
+"Silas." The girls hands gripped into a white knuckle fist. "Silas Blackwell..."
 
 Slowly, her head turned. Her eyes locked onto his face, and a low growl came from her throat.
 
@@ -151,7 +151,7 @@ Blackwell reached up with one hand, pulled off his circular dark glasses, and dr
 
 He turned his head toward Elena. A man who could not apologize gave procedure instead.
 
-"Step back from the edge," Blackwell said, his voice level. "When the mass clears the boundary, the shear will take the lip of the crater with it. Move them back ten meters."
+"Step back from the edge," Blackwell said, his voice level. "When the mass clears the boundary, the shear will take the lip of the crater with it. Move them back past the statues."
 
 Elena stared at him, her synthetic fingers still. "Silas—"
 
@@ -159,7 +159,7 @@ He didn't wait for her to finish. He planted a hand on the frost and pushed hims
 
 He climbed down into the bowl of stone.
 
-Ten feet below the plaza level, the pull of the anti-star dragged at the hem of his lab coat. Loose grit slid out from under his shoes and vanished into the gorge.
+Down below the lip of the plaza, the pull of the anti-star dragged at the hem of his lab coat. Loose grit slid out from under his shoes and vanished into the gorge.
 
 At the bottom of the crater, Vigil and Parity remained locked at the brink, trembling under the strain of a balanced equation. As Blackwell's shoes scraped the granite behind them, Vigil's white eyes shifted toward him. She didn't tell him to stop.
 
@@ -179,7 +179,7 @@ Blackwell braced his feet in the stone, leaned his weight into his broken chest,
 
 The outside variable tipped the scale.
 
-Parity's fingers tore loose from the granite. Her black eye snapped toward him at the instant of contact—registering the doctor half a second too late, as the three of them went over the edge together.
+Parity's fingers tore loose from the granite. Her black eye snapped toward him at the instant of contact—registering the doctor a moment too late, as the three of them went over the edge together.
 
 From the rim above, a single voice cut through the wind:
 
@@ -195,6 +195,6 @@ Below him, the dark figure and the white one folded into each other, form and sh
 
 Above him, the rim of the plaza, the figure of Elena at the edge, and the morning sky of New Veridia shrank to a narrow ring.
 
-The man who had been dying by inches, certain he would run out of time before his experiment finished, watched the equation solve itself from the inside.
+The man who had been dying breath by breath, certain he would run out of time before his experiment finished, watched the equation solve itself from the inside.
 
 Above his head, the ring of light narrowed to a point, and the door closed.
