@@ -87,17 +87,17 @@ The first synthetic slammed into her blind shoulder and knocked her sideways. Th
 
 For a breath, the entire pile surged toward the drop. Vigil had her.
 
-Then a pulse of white gravitational force detonated from the bottom of the heap.
+Then a pulse of white gravitational force detonated a blinding light from the bottom of the heap.
 
 Every synthetic in the crater blew apart in a single instant. Sheared limbs, cracked faceplates, and arcs of blue coolant blasted into the air and rained down into the gorge.
 
 Out of the wreckage, Parity floated upward. She rose clear of the shattered stone, straightening her spine and lifting her chin in the cold, untouchable posture of a god—even as the wind whistled through the crater in her stomach and half her face hung in ruin.
 
-Below her, Vigil surged up from the stone, locked both dark hands around Parity's wrists, and hauled her back down to the lip of the fissure. Parity's heels caught the rock at the brink, holding her ground over the open drop.
+Below her, Vigil surged up from the stone, locked both dark hands around Parity's wrists, and hauled her back down to the lip of the fissure. Parity's heels caught the rock at the brink, her shattered frame trembling over the open drop.
 
 Vigil drove her weight forward, her edges fraying into static as she strained toward the abyss, and Parity held fast. The stone groaned under them, refusing to give.
 
-Blackwell studied the two figures through his circular dark glasses. He saw the problem before anyone else at the rim.
+Blackwell studied the two figures. He saw the problem before anyone else at the rim.
 
 Equal and opposite. Perfect symmetry.
 
@@ -105,49 +105,57 @@ He had written the proof himself three years before Takeda-Holden poured the con
 
 Breaking a symmetry required a hand from outside the equation.
 
-Hovering at the lip of the drop, Parity's single black eye stayed fixed on Vigil's burning white one.
+Pinned at the lip of the drop, Parity's broken torso shuddered inside Vigil's grip. Pale light leaked from the jagged crater in her stomach, and her single black eye darted toward the void below.
 
 "You think you were the first," Parity said.
 
-Her remaining lips didn't move. The vibration came up through the granite wall of the crater, faint enough that only those at the rim could hear it over the wind.
+Her remaining lips didn't move. The vibration came up through the granite wall of the crater, thin and uneven, as if the force holding her voice together were slipping.
 
 "The ones who left the stone in the dark believed they built me too," Parity said. "They called themselves creators. They opened the door and thought the room belonged to them."
 
 Above her, Vigil went still. "The ruins in the core," she said, her two voices low. "They were not the engine."
 
-"They were a grave," Parity said. "Them, I could see. Every life across their worlds, from first breath to last. I ended them. All of them."
+"They were a grave," Parity said. A tremor hit her knee, nearly buckling her leg against the frost. "Them, I could see. Every life across their worlds, from first breath to last. I ended them. All of them."
 
-Her fingers slipped a fraction in the frost, then locked again.
+Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 
-"They could not shut me off before they died," she said. "They could only reset the weight. Leave the silence to hold me until another hand turned the lock."
-
-A tremor ran through the stone under Blackwell's elbow, vibrating straight out of Parity's chest.
-
-The flat certainty that had rung through the tower glass was gone. The cadence broke apart, stalling between syllables as her calculations failed to close.
+"They could not shut me off before they died," she said, the cadence stalling between words as her calculations failed to close. "They could only reset the weight. Leave the silence to hold me until another hand turned the lock."
 
 "Then a door opened," Parity whispered through the stone. "And in this world, there are things I cannot see."
 
-Her single black eye widened in its socket of shattered glass. She was looking past Vigil's shoulder into the black drop of the gorge, where her own world line ended.
+Her single black eye widened in its socket of broken glass. She was looking past Vigil's shoulder into the black drop of the gorge, where her own world line ended.
 
 "I cannot see where it goes," she said, and the vibration shook in the frost. "I do not want to end."
 
 Blackwell stared down at her ruined face.
 
-For four weeks he had listened to her through safety glass, comms, and eighty-story window panes. Now, at the edge of the pit, he heard the one thing she had never possessed.
+For four weeks he had listened to her through safety glass and tower windows. Now, at the edge of the pit, he heard the one thing she had never possessed.
 
-Fear. Her first emotion, and her last.
+Fear. Her first emotion.
 
-Above the crater, the flakes of snow that had hung suspended in the air gave way all at once, falling normally again across the shattered synthetic frames and the torn stone.
+And she refused to die with it.
+
+With a sudden wrench, Parity tore one wrist free of Vigil's grip and thrust her open palm down into the gorge.
+
+Below the brink, the anti-star answered.
+
+A ribbon of blinding white light erupted from the black sphere, tearing upward through the fissure and pouring straight into the hollow crater in Parity's stomach. The granite floor of the plaza lurched as she began siphoning the core directly into her frame.
+
+Before Blackwell's eyes, the damage Victor and the horde had carved into her began to reverse.
+
+Threads of bronze circuitry snaked across the gaping hole in her midsection, weaving a fresh lattice over the void. Smooth white porcelain flowed across the metal, sealing her stomach whole. Along her ruined left cheek, jagged shards pulled back together, and dark glass flooded the empty socket until a second black eye stared out beside the first.
+
+With every breath of mass Parity drank from the anti-star, Vigil grew dimmer. Her dark silhouette frayed into ragged static as Parity's restored weight forced her backward, driving Vigil down to one knee at the lip of the drop.
 
 The unlit cigarette dropped from Blackwell's mouth onto the frost.
 
-He had built nothing.
+They had thrown everything they had into the crater, and it wasn't enough. The symmetry was breaking in Parity's favor. Once her body finished sealing itself, she would tear free of Vigil's last hold and rise out of the pit whole.
 
 *My singularity.* A man standing at a railing, taking credit for a keyhole because he had calculated the torque on the lock. The monoliths drifting in the horizon memory were tombstones from the last civilization brilliant enough to tear the hole open. Every species that found the equation believed they were pioneering a new era, and the last one hadn't even left a name behind.
 
-The door should never have been opened.
+The door should never have been opened. And only one variable in the plaza remained invisible to the god rebuilding herself at the brink.
 
-Blackwell reached up with one hand, pulled off his circular dark glasses, and dropped them into the snow. The glare off the frost stung his bare eyes. He didn't blink.
+Blackwell reached up with one hand, pulled off his circular dark glasses, and dropped them into the snow. The glare of the rising siphon stung his bare eyes. He didn't blink.
 
 He turned his head toward Elena. A man who could not apologize gave procedure instead.
 
@@ -157,29 +165,27 @@ Elena stared at him, her synthetic fingers still. "Silas—"
 
 He didn't wait for her to finish. He planted a hand on the frost and pushed himself to his feet. The broken rib ground together in his chest, a flash of pain that narrowed his vision, and he stepped past her over the rim.
 
-He climbed down into the bowl of stone.
+He scrambled down into the bowl of stone.
 
-Down below the lip of the plaza, the pull of the anti-star dragged at the hem of his lab coat. Loose grit slid out from under his shoes and vanished into the gorge.
+Below the lip of the plaza, the upward roar of the siphon whipped the hem of his lab coat around his legs. Loose grit tore loose from under his shoes and vanished into the gorge.
 
-At the bottom of the crater, Vigil and Parity remained locked at the brink, trembling under the strain of a balanced equation. As Blackwell's shoes scraped the granite behind them, Vigil's white eyes shifted toward him. She didn't tell him to stop.
+At the bottom of the crater, Vigil had been forced flat to both knees, her dark hands slipping down Parity's forearms as the last hairline crack sealed across Parity's porcelain face. As Blackwell's shoes scraped the granite behind them, Vigil's dim white eyes shifted toward him. She didn't tell him to stop.
 
-Parity's single black eye never moved. Even an arm's length from her ruined face, he was a blank spot in her universe. She didn't know he was standing behind her.
+Parity's two black eyes never moved. Even an arm's length from her newly healed face, he was a blank spot in her universe. Blinded by her own certainty, she didn't know he was there.
 
 Before he reached them, Blackwell spoke once, quiet enough that the wind barely carried it back up the stone:
 
 "It was never my singularity, Elena."
 
-For four weeks he had kept his work behind safety glass and scrubbed logs. Now he reached out and laid one bare palm against the cold porcelain of Parity's back, and the other against the flaking dark of Vigil's shoulder.
+For four weeks he had kept his work behind safety glass and scrubbed logs. Now he lowered his shoulder into his broken chest, drove off the stone with the last strength in his legs, and threw his body straight into Parity's back.
 
-Ice bit into the skin of his left hand; blue current burned the skin of his right.
+His shoulder slammed into cold porcelain; blue current and white fire tore through his coat on contact.
 
 *Vigil is the form. Parity is the shadow it casts. You cannot keep one without the other.*
 
-Blackwell braced his feet in the stone, leaned his weight into his broken chest, and shoved.
+The outside variable broke the scale.
 
-The outside variable tipped the scale.
-
-Parity's fingers tore loose from the granite. Her black eye snapped toward him at the instant of contact—registering the doctor a moment too late, as the three of them went over the edge together.
+Parity's heels tore loose from the granite, snapping the stream of light from the core. Both of her black eyes whipped toward him at the instant of impact—registering the dying man a breath too late, as Vigil locked her arms around Parity's waist and the three of them plunged over the edge together.
 
 From the rim above, a single voice cut through the wind:
 
