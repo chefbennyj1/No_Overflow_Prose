@@ -39,7 +39,7 @@ An inch from his glasses, Elena's prosthetic hand shot across his chest and caug
 
 The girl strained against the grip, her chest heaving in the bitter air, until the woman in the leather jacket grabbed her by the shoulders and hauled her back a step. Elena lowered the girl's arm and let go.
 
-Before anyone at the rim could speak again, a shockwave tore across the plaza. The dark figure had locked her arms around the white one, driving her backward from the dead detective in a low blur. They hit the ground ten yards from Blackwell's boots, right where the plaza stone broke off into the gorge.
+Before anyone at the rim could speak again, a shockwave tore across the plaza. Parity had locked her arms around Vigil, driving her backward from the dead detective in a low blur. They hit the ground where the plaza stone broke off into the gorge.
 
 The impact jolted through the bedrock into his knees. Frost and granite sprayed outward, carving a shallow bowl into the lip of the drop.
 
