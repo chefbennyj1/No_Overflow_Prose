@@ -65,11 +65,11 @@ Around the plaza, hundreds of blue serials flared at once.
 
 The Madame's body lay folded in the snow with her neck twisted at an angle. Nobody owned her army now—and Vigil reached out and took them.
 
-Along the tower steps, every synthetic dropped its arms and spun toward the gorge. They were Elena's frames, her clean geometry, and as Vigil's signal hit their cores, every speed limiter tore open at once.
+Along the tower steps, every synthetic dropped its arms and spun toward the gorge. They were Elena's frames, her clean geometry, and as Vigil's signal hit their cores, every speed inhibitor tore open at once.
 
-They didn't march. They bolted.
+They bolted.
 
-Hundreds of synthetic bodies sprinted across the plaza in a rabid, scrambling wave, joints shrieking past their mechanical tolerances, limbs pistoning so hard that plastic casing cracked off their calves. Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down. They hurled themselves headfirst off the ledge at Parity.
+A horde of synthetic bodies sprinted across the plaza in a rabid, scrambling wave, joints shrieking past their mechanical tolerances, limbs pistoning so hard that plastic casing cracked off their calves. Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down. They hurled themselves headfirst off the ledge at Parity.
 
 Parity wrenched one arm free of Vigil's grip and struck the first two out of the air, shattering their skulls into white shrapnel. She twisted her torso aside as a dozen more dove past her shoulders.
 
