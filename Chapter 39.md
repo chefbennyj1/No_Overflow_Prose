@@ -142,7 +142,6 @@ Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 Parity's single black eye widened in its socket of broken glass. "Yes, there are things in this world we can not see." 
 Vigil looked past Parity's shoulder into the black drop of the gorge.  She pushed hard on Parity's body forcing them both further off the edge.
 
-
 Parity turned her head, and looked back toward the burning anti-star. "I cannot see where I end. I can not see where it goes," she said, and the vibration shook in the frost. "I do not want to end, Vigil."
 
 Blackwell stared down at her ruined face.
