@@ -4,15 +4,43 @@ ambient: low_rumble_of_an_eve_#3-1792862539709.mp3
 ---
 Something had given way in his chest.
 
-Silas Blackwell pushed himself up on one elbow at the rim of the gorge, and a broken rib shifted under his vest. Every breath he drew into his lungs cost him. He spat a thread of blood onto the frost and kept his head up.
+Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into his lapels had stripped the last of the scientist out of him. When Vigil struck the tower and Parity's hold broke, the sky had given out beneath his shoes. For three seconds of freefall, the wind tearing at his coat and the street rushing up to meet him, he had known he was dead—right until the dark compilation tore across the gap, caught him out of the air, and hurled him down into the stone at the edge of the gorge.
 
-Beside him, Elena knelt in the snow. The black carbon-fiber fingers of her prosthetic hand flexed and released, the small servos clicking in the cold. A few paces down the rim, Iris had both hands braced against her cracked glasses, staring out across the plaza beside Harper and the Adler girl.
+Silas Blackwell pushed himself up on one elbow on the frost, his hands still shaking against the stone, and a broken rib shifted under his vest. Every breath he drew into his lungs cost him. He coughed and spat a dark thread of blood onto the snow.
 
-Across the stone, near the overturned hull of the Madame's cruiser, the white-haired detective lay still in his partner's arms.
+His lungs had been failing him long before the fall. That was the secret he had kept locked in his medical files while he worked through the nights in the basement. Four weeks of scrubbed logs, altered telemetry, and quiet lies to everyone in the building. He had promised the Board predictive margins; he had promised Elena a stable containment field; he had promised himself he would live long enough to watch his machine pioneer a new era.
+
+He spat into the snow again and wiped his mouth with the back of his torn sleeve. All of that math, and the only thing waiting at the bottom of his lies was a hole eating the center of the city.
+
+Behind his circular dark glasses, he took stock of the four people huddled at the rim where the dark entity had dropped him.
+
+Two of the faces he knew. A few paces down the edge, Iris Ito knelt in the snow with both hands pressed against her cracked black-rimmed glasses—the analyst who had panicked over decimals on day one, and who had crept into his office to pull the thesis from his shelf. Closer, right beside his boot, was Elena. Her white lab coat was streaked with ash, and the black carbon-fiber fingers of her prosthetic hand flexed and released, the small servos clicking in the cold.
+
+The other two were strangers from the lower city. One was a tall woman in a leather jacket, a pale scar running across her collarbone above a red tank top. The other was younger, kneeling on the frost in orange prison trousers, a jagged sidelock of dark hair hanging past her jaw as she stared out across the plaza.
+
+Out there, beside the overturned hull of a black cruiser, the white-haired detective from the precinct feeds had collapsed into his partner's arms.
 
 Two blind spots in four million people, and now there was one.
 
-A shockwave tore across the plaza. The dark figure had locked her arms around the white one, driving her backward from the dead detective in a low blur. They hit the ground ten yards from Blackwell's boots, right where the plaza stone broke off into the gorge.
+Beside Blackwell, Elena looked down at the blood on the snow under his chin.
+
+"Silas," she said, her voice tight.
+
+The girl in the prison trousers went rigid. Her head snapped away from the dead detective and locked onto Blackwell's face.
+
+"What?!" she choked out. "Silas Blackwell?!"
+
+Blackwell barely had time to shift his weight before she lunged at him across the frost. The scarred woman reached for her jacket and missed. The girl came straight over the snow with her fist drawn back, her eyes wild.
+
+"This is all your fault, you son of a bitch!" she screamed, driving the punch straight at his jaw. "You did this! All this death!"
+
+Blackwell didn't flinch or raise an arm.
+
+An inch from his glasses, Elena's prosthetic hand shot across his chest and caught the girl's fist in mid-air. The titanium joints locked around her knuckles with a sharp snap, stopping the blow cold.
+
+The girl strained against the grip, her chest heaving in the bitter air, until the woman in the leather jacket grabbed her by the shoulders and hauled her back a step. Elena lowered the girl's arm and let go.
+
+Before anyone at the rim could speak again, a shockwave tore across the plaza. The dark figure had locked her arms around the white one, driving her backward from the dead detective in a low blur. They hit the ground ten yards from Blackwell's boots, right where the plaza stone broke off into the gorge.
 
 The impact jolted through the bedrock into his knees. Frost and granite sprayed outward, carving a shallow bowl into the lip of the drop.
 
@@ -30,7 +58,7 @@ The Madame lay folded in the snow with her neck twisted at an angle. Nobody owne
 
 They were Elena's frames. Her neural matrices, her clean geometry. Blackwell watched her from the corner of his eye as she looked up into the ring of faces she had designed.
 
-Elena's gaze dropped from the synthetics to him. Her prosthetic hand closed into a fist with a dry metallic snap.
+Elena's gaze dropped from the synthetics to him.
 
 "You intentionally armed a nuclear bomb just so you could admire the clockwork inside it," she said.
 
