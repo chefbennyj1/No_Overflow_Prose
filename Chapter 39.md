@@ -37,7 +37,7 @@ She rose and marched across the snow straight at him. The blue-haired woman reac
 
 Blackwell didn't flinch or raise an arm.
 
-An inch from his glasses, Elena's prosthetic hand shot across his chest and caught the girl's fist in mid-air. The titanium joints locked around her knuckles with a sharp snap, stopping the blow cold.
+A breath from his glasses, Elena's prosthetic hand shot across his chest and caught the girl's fist in mid-air. The titanium joints locked around her knuckles with a sharp snap, stopping the blow cold.
 
 The girl strained against the grip, her chest heaving in the bitter air, until the woman in the leather jacket grabbed her by the shoulders and hauled her back a step. Elena lowered the girl's arm and let go.
 
@@ -75,7 +75,7 @@ Parity wrenched one arm free of Vigil's grip and struck the first two out of the
 
 The synthetics that missed her shot straight over the lip into the open pull of the anti-star.
 
-Blackwell watched the gravity well catch them in mid-air. The tidal shear took their boots before their heads, drawing their titanium skeletons and plastic skin out into long, thin ribbons of white metal and blue light—stretching them twenty feet down into the dark before they snapped into the black sphere at the bottom of the gorge.
+Blackwell watched the gravity well catch them in mid-air. The tidal shear took their boots before their heads, drawing their titanium skeletons and plastic skin out into long, thin ribbons of white metal and blue light—stretching them the length of the gorge wall before they snapped into the black sphere at the bottom of the pit.
 
 Still the horde poured over the rim without stopping, leaping in from every side of the bowl at once.
 
@@ -91,9 +91,9 @@ Then a blinding pulse of white gravitational force detonated from the bottom of 
 
 Every synthetic in the crater blew apart in a single instant. Sheared limbs, cracked faceplates, and arcs of blue coolant blasted into the air and rained down into the gorge.
 
-Out of the wreckage, Parity floated upward. She rose a foot above the shattered stone, straightening her spine and lifting her chin in the cold, untouchable posture of a god—even as the wind whistled through the crater in her stomach and half her face hung in ruin.
+Out of the wreckage, Parity floated upward. She rose clear of the shattered stone, straightening her spine and lifting her chin in the cold, untouchable posture of a god—even as the wind whistled through the crater in her stomach and half her face hung in ruin.
 
-Below her, Vigil surged up from the stone, locked both dark hands around Parity's wrists, and hauled her back down to the lip of the fissure. Parity's heels caught the rock at the brink, holding her ground half a foot above the drop.
+Below her, Vigil surged up from the stone, locked both dark hands around Parity's wrists, and hauled her back down to the lip of the fissure. Parity's heels caught the rock at the brink, holding her ground over the open drop.
 
 Vigil drove her weight forward, her edges fraying into static as she strained toward the abyss, and Parity held fast. The stone groaned under them, refusing to give.
 
