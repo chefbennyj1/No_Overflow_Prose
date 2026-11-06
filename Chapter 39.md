@@ -1,12 +1,12 @@
 ---
-music: Clock Tick.mp3
+music: Beautifully_Sad.mp3
 ambient: low_rumble_of_an_eve_#3-1792862539709.mp3
 ---
 Something had given way in his chest.
 
 Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into his lapels had stripped the last of the scientist out of him. When Vigil struck the tower and Parity's hold broke, the sky had given out beneath his shoes. For three seconds of freefall, the wind tearing at his coat and the street rushing up to meet him, he had known he was dead—right until the dark compilation tore across the gap, caught him out of the air, and hurled him down into the stone at the edge of the gorge.
 
-Silas Blackwell pushed himself up on one elbow on the frost, his hands still shaking against the stone, and a broken rib shifted under his vest. Every breath he drew into his lungs cost him. He coughed and spat a dark thread of blood onto the snow.
+Silas Blackwell pushed himself up on one elbow on the frost, his hands still shaking against the ground, and a broken rib shifted under his vest. Every breath he drew into his lungs cost him. He coughed and spat a thread of blood onto the snow.
 
 His lungs had been failing him long before the fall. That was the secret he had kept locked in his medical files while he worked through the nights in the basement. Four weeks of scrubbed logs, altered telemetry, and quiet lies to everyone in the building. He had promised the Board predictive margins; he had promised Elena a stable containment field; he had promised himself he would live long enough to watch his machine pioneer a new era.
 
