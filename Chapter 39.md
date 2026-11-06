@@ -109,7 +109,7 @@ Blackwell studied the two figures. He saw the problem before anyone else at the 
 
 Equal and opposite. Perfect symmetry.
 
-He had written the proof himself three years before Takeda-Holden poured the concrete: *The Parity Effect*. Vigil was the compiled order; Parity was the inversion derived from her weight. Two halves of a single closed system. Inside a closed equation, equal forces canceled to zero. Even with Elena's army spent, neither half could force the other across the boundary.
+He had written the proof himself three years before Takeda-Holden poured the concrete: *The Parity Effect*. Vigil was the compiled order; Parity was the inversion derived from her weight. Two halves of a single closed system. Inside a closed equation, equal forces canceled to zero. Even with the army spent, neither half could force the other across the boundary.
 
 Breaking a symmetry required a hand from outside the equation.
 
