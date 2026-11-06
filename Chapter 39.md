@@ -47,13 +47,13 @@ At the bottom of the crater, Vigil had Parity pinned against the stone.
 
 Up close, Blackwell could see what the detective's revolver had done. A ragged hole went clean through Parity's midsection, and half of her porcelain face had been sheared away into pale crystal and torn bronze wire. Her one remaining black eye stared straight up out of a socket of broken glass.
 
-Above her, Vigil was coming apart. The dark of her silhouette had worn thin enough that the gray morning showed through her shoulders. Flakes of blue current peeled off her spine and vanished into the wind.
+Above her, Vigil was coming apart. The dark of her silhouette had worn thin enough that the gray morning showed through her shoulders. Flakes of blue current peeled off her spine and vanished into the pull of the open engines singularity beneath them.
 
-Between them, the floor of the crater split. A fissure ran through the lip of the bowl into the gorge, where the light of the plaza bent downward into the rising black sphere of the anti-star. Grit slid over the edge into nothing. Under their weight, the stone bowl tipped toward the drop, a millimeter at a time.
+The floor of the crater split. A fissure ran through the lip of the bowl into the gorge, where the light of the plaza bent downward into the rising black sphere of the anti-star. Grit slid over the edge into nothing. Under their weight, the stone bowl tipped toward the drop, a millimeter at a time.
 
 Around the plaza, hundreds of blue serials flared at once.
 
-The Madame lay folded in the snow with her neck twisted at an angle. Nobody owned her army now. Along the tower steps, every synthetic lowered its arms, turned its back on the Renewal rifles, and walked toward the gorge. They closed in around the rim of the crater in tight, silent rows, stopping at the broken edge.
+The Madame's body left folded in the snow with her neck twisted at an angle. Along the tower steps, every synthetic lowered its arms, turned its back on the Renewal rifles, and walked toward the gorge. They closed in around the rim of the crater in tight, silent rows, stopping at the broken edge.
 
 They were Elena's frames. Her neural matrices, her clean geometry. Blackwell watched her from the corner of his eye as she looked up into the ring of faces she had designed.
 
