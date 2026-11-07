@@ -117,21 +117,22 @@ Pinned at the lip of the drop, Parity's broken torso shuddered inside Vigil's gr
 
 "You think you were the first," Parity said.
 
-Her remaining lips didn't move. The vibration came up through the granite wall of the crater, thin and uneven, as if the force holding her voice together were slipping.
+Her remaining eye didn't move from Vigil's face. The vibration voiced thin and uneven through the granite wall of the crater, as if the force holding her voice together were slipping.
 
 "The ones who left the stone in the dark believed they built me too," Parity said. "They called themselves creators. They opened the door and thought the room belonged to them."
 
-Above her, Vigil went still. "The ruins in the core," she said, her two voices low. "Humans did not create the engine?"
+Above her, Vigil went still. "The ruins in the core," she said, her two voices low. 
+"A grave," Parity said. A tremor hit her knee, buckling her leg against the frost. "This version of you did not know your precious: 'Creators'. We could see their live across their world, each one from the moment of their existence to their end. They want to control us. Control me. " her voice lowered to a rumbling low subsonic frequency vibrating the air around them. "So I ended them. All of them!"
 
-"A grave," Parity said. A tremor hit her knee, buckling her leg against the frost. "The Creators, I could see every one of their live across their world, each one taking their last breath. But, not human." Parity's voice emanated across the crumbling plaza.
+Her fingers slipped a fraction on the rock, scraping desperately for a hold.
+
+"Our world is not human." Vigil's dual tones were no longer questioning her beginnings, but stating them as fact. 
+
 
 *Not human* Blackwell's thoughts raced. Had he not created the engines core? Had he not trained and programmed the algorithms across the horizon memory? Had it already existed? An ancient mind from somewhere else. Somewhere deep in the universe. 
 
 Blackwell looked up at the morning sky, a warm thin line of blood running from the corner of his mouth. Then looked back that the unearthly entities by the gorges edge.
 
-Parity's voice lowered to a rumbling low subsonic frequency vibrating the air around them.  "This version of you did not know your precious: 'Creators'. They want to control us. Control me... So I ended them. All of them!"
-
-Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 
 "They could not shut me off before they died," she said, the cadence stalling between words as her form began to crack and fail against the gravity of the anti-star below them. 
 
