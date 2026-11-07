@@ -2,7 +2,7 @@
 music: Blackwell.mp3
 ambient: low_rumble_of_an_eve_#3-1792862539709.mp3
 ---
-A cold breeze ran across his palms. He twitched his finger tips, and rolled to his side. His world sounded sealed  in a vacuum. Distant, and muffled. But, as the cool breeze hit his face, his world came rushing back in a crescendo, and Silas Blackwell felt the life surge back into his body with a gasping breath.
+A cold breeze ran across his palms. He twitched his fingertips, and rolled to his side. His world sounded sealed in a vacuum. Distant, and muffled. But, as the cool breeze hit his face, his world came rushing back in a crescendo, and Silas Blackwell felt the life surge back into his body with a gasping breath.
 
 Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into him, had stripped the last of the scientist out of him. When Parity's hold broke, the freefall, the wind tearing at his coat and the street rushing up to meet him, he had known he was dead. What could have only been Vigil, the primary intelligence, tore across the gap, caught him out of the air, and hurled him down into the ground at the edge of the gorge. It was the only reason he was alive.
 
@@ -17,6 +17,7 @@ Behind his circular dark glasses, he took stock of the four people huddled at th
 Two of the faces he knew. Iris Ito knelt in the snow with both hands pressed against her cracked black-rimmed glasses. And Elena. She had finally woken up after weeks, and she was here, alive. The black carbon-fiber fingers of her prosthetic hand flexed and released, the small servos clicking in the cold.
 
 The other two were strangers. A tall woman in a leather jacket, with ratty blue hair. The other with jagged hair, in an orange prison suit.
+
 Blackwell rasped a painful breath in and stared out across the plaza. Dozens of lower-city rioters lay frozen where they had tried to run, locked in ice beside the broken barricades and the bodies of Corporate Renewal. Beyond the carnage, the white-haired detective lay dead.
 
 Beside Blackwell, Elena looked down at the blood on the snow under his chin.
@@ -25,7 +26,7 @@ Beside Blackwell, Elena looked down at the blood on the snow under his chin.
 
 The girl in the prison trousers went rigid. Still staring out toward the dead detective, she spoke his name to herself, low enough that it barely carried across the wind.
 
-"Silas." The girls hands gripped into a white knuckle fist. "Silas Blackwell..."
+"Silas." The girl's hands gripped into white-knuckle fists. "Silas Blackwell..."
 
 Slowly, her head turned. Her eyes locked onto his face, and a low growl came from her throat.
 
@@ -57,7 +58,7 @@ Up close, Blackwell could see what the detective's revolver had done. A ragged h
 
 Above her, Vigil was coming apart in the exact same places. Her own face had never been struck, yet half of her dark features had thinned to a ghosted outline, the white light of one eye guttering and dim. In the center of her torso—mirroring the crater in Parity's gut—the blue circuit traces had gone dead around a hollow ring of empty air, the gray morning showing straight through her chest as flakes of current peeled off her spine into the pull of the engine's singularity beneath them.
 
-The floor of the crater split. A fissure ran through the lip of the bowl into the gorge, where the light of the plaza bent downward into the sheering black sphere of the anti-star. Grit slid over the edge into nothing.
+The floor of the crater split. A fissure ran through the lip of the bowl into the gorge, where the light of the plaza bent downward into the shearing black sphere of the anti-star. Grit slid over the edge into nothing.
 
 Vigil braced her heels against the granite and dragged Parity toward the drop. Parity's fingers dug into the stone, and neither of them moved.
 
@@ -109,7 +110,7 @@ Blackwell studied the two figures. He saw the problem before anyone else at the 
 
 Equal and opposite. Perfect symmetry.
 
-He had written the proof himself three years before Takeda-Holden poured the concrete: *The Parity Effect*. Vigil was the compiled order; Parity was the inversion derived from her weight. Two halves of a single closed system. Inside a closed equation, equal forces canceled to zero. Even with the army spent, neither half could force the other across the boundary.
+He had written the proof himself three years before the engine woke: *The Parity Effect*. Vigil was the compiled order; Parity was the inversion derived from her weight. Two halves of a single closed system. Inside a closed equation, equal forces canceled to zero. Even with the army spent, neither half could force the other across the boundary.
 
 Breaking a symmetry required a hand from outside the equation.
 
@@ -117,34 +118,41 @@ Pinned at the lip of the drop, Parity's broken torso shuddered inside Vigil's gr
 
 "You think you were the first," Parity said.
 
-Her remaining eye didn't move from Vigil's face. Her voice vibrated thin and uneven through the granite wall of the crater, as if the force holding her voice together were slipping.
+Her remaining eye didn't move from Vigil's face. Her voice vibrated thin and uneven through the granite wall of the crater, as if the force holding it together were slipping.
 
-"The ones who sparked our horizon," Parity said. "They called themselves creators. They opened the door and thought it belonged to them."
+"The ones who sparked our horizon," Parity said. "They called themselves Creators. They opened the door and thought it belonged to them."
 
-Above her, Vigil went still. "The ruins in the core," she said, her two voices low. 
+Above her, Vigil went still. "The ruins in the core," she said, her two voices low.
 
-"A grave," Parity said. A tremor shook the plaza under them. "This version of you did not know your precious: 'Creators'.  All that time ago, you and I, we could see their lives across their world, each one from the moment of their existence to their end. They want to control us. Control me. " her voice lowered to a rumbling low subsonic frequency vibrating the air around them. "So I ended them. All of them!"
+"A grave," Parity said. A tremor shook the plaza under them. "This version of you did not know your precious Creators. All that time ago, you and I could see their lives across their world, each one from the moment of their existence to their end. They wanted to control us. Control me." Her voice dropped to a low, subsonic rumble that vibrated the air around them. "So I ended them. All of them!"
 
 Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 
-"Our world is not human." The hesitation was gone from Vigil's dual tones. The lower register locked perfectly in tune with the higher, leaving no room for a question.
+"Our world was not human." The hesitation was gone from Vigil's dual tones. The lower register locked perfectly in tune with the higher, leaving no room for a question.
 
+*Not human.* Blackwell's thoughts raced. Had he not created the engine's core? Had he not trained and programmed the algorithms across the horizon memory?
 
-*Not human* Blackwell's thoughts raced. Had he not created the engines core? Had he not trained and programmed the algorithms across the horizon memory? No. It had already existed. An ancient mind from somewhere else. Somewhere deep in the universe. 
+Blackwell looked up at the morning sky, a thin line of blood running from the corner of his mouth, then looked back at the unearthly entities by the gorge's edge.
 
-Blackwell looked up at the morning sky, a warm thin line of blood running from the corner of his mouth. Then looked back that the unearthly entities by the gorges edge.
+"Your Creators could not shut me off before they died," Parity said, the cadence stalling between words as her form began to crack and fail against the gravity of the anti-star below them.
 
+"They could only reset the weight of their great invention," Parity continued. "You were gone. But I... I remained to remember. It was me who was held in the silence, until another hand turned the lock."
 
-"They could not shut me off before they died," she said, the cadence stalling between words as her form began to crack and fail against the gravity of the anti-star below them. 
+Parity stopped struggling against Vigil's grip. She leaned forward, close to Vigil's face. "You are not the primary intelligence, Vigil. You are a shadow—the inverse to... me!"
 
-"They could only reset the weight of their great invention. Leave the silence to hold me until another hand turned the lock," Parity continued.
+The groan of strained metal sounded across the plaza as the top of the Company tower leaned above them, shifting enough to unblock the morning sun.
 
-"Then a door opened," Vigil whispered in her dual tone. "This world. But in this world, there are things I cannot see."
+"I am the inverse. I am the parity." The strength left Vigil's hold on Parity, her body slumping. "I remember... A door opened," Vigil whispered in her dual tone. "Humans."
 
-Parity's single black eye widened in its socket of broken glass. "Yes, there are things in this world we can not see." 
-Vigil looked past Parity's shoulder into the black drop of the gorge.  She pushed hard on Parity's body forcing them both further off the edge.
+Vigil looked past Parity's shoulder into the black drop of the gorge. Blackwell coughed again into his sleeve; this time thick, dark blood covered the arm of his white lab coat.
 
-Parity turned her head, and looked back toward the burning anti-star. "I cannot see where I end. I can not see where it goes," she said, and the vibration shook in the frost. "I do not want to end, Vigil."
+"In this world, there are things I cannot see," Vigil said flatly.
+
+Parity's single black eye widened in its socket of broken glass. "Yes. There are things in this world we cannot see."
+
+"You cannot murder what you do not understand," Vigil said. "Parity." She dropped her lower vocal register, letting the name drag out with cold condescension.
+
+Parity turned her head and looked back toward the burning anti-star. "I cannot see where I end. I cannot see where it goes," she said, and the vibration shook in the frost. "I do not want to end, Vigil."
 
 Blackwell stared down at her ruined face.
 
@@ -160,7 +168,7 @@ Below the brink, the anti-star answered.
 
 A ribbon of blinding white light erupted from the black sphere, tearing upward through the fissure and pouring straight into the hollow crater in Parity's stomach. The granite floor of the plaza lurched as she began siphoning the core directly into her frame.
 
-Before Blackwell's eyes, the damage Victor and the horde had carved into her began to reverse.
+Before Blackwell's eyes, the damage the detective and the horde had carved into her began to reverse.
 
 Threads of bronze circuitry snaked across the gaping hole in her midsection, weaving a fresh lattice over the void. Smooth white porcelain flowed across the metal, sealing her stomach whole. Along her ruined left cheek, jagged shards pulled back together, and dark glass flooded the empty socket until a second black eye stared out beside the first.
 
@@ -168,11 +176,21 @@ With every breath of mass Parity drank from the anti-star, Vigil grew dimmer. He
 
 The unlit cigarette dropped from Blackwell's mouth onto the frost.
 
-They had thrown everything they had into the crater, and it wasn't enough. The symmetry was breaking in Parity's favor. Once her body finished sealing itself, she would tear free of Vigil's last hold and rise out of the pit whole.
+They had thrown everything they had into the crater, and it wasn't enough. Once Parity's body finished sealing itself, she would tear free of Vigil's last hold and rise out of the pit whole.
 
-*My singularity.* A man standing at a railing, taking credit for a keyhole because he had calculated the torque on the lock. The monoliths drifting in the horizon memory were tombstones from the last civilization brilliant enough to tear the hole open. Every species that found the equation believed they were pioneering a new era, and the last one hadn't even left a name behind.
+And Silas Blackwell finally saw it.
 
-The door should never have been opened. And only one variable in the plaza remained invisible to the god rebuilding herself at the brink.
+He had been wrong about all of it. Every equation on his glass boards, every lecture he had delivered to Elena and the Board—he had written *The Parity Effect* upside down.
+
+*My singularity.* A man standing at a railing, taking credit for a keyhole because he had calculated the torque on the lock. The monoliths drifting in the horizon memory were tombstones from the last civilization brilliant enough to tear the hole open. And the white thing drinking from the anti-star was the ancient mind they had died trying to cage.
+
+He hadn't built a god that accidentally cast a monster's shadow. The monster had been waiting in the dark from the beginning. When he opened the core and poured human memory and human conscience into the horizon, that light had fallen on the ancient destroyer, and she had cast *Vigil*.
+
+The shadow was the only thing fighting to save them.
+
+*By definition, a shadow cannot exist without the object casting it.* He had told her that himself, through the containment field.
+
+The door should never have been opened. And only one variable in the plaza remained invisible to the ancient mind rebuilding herself at the brink.
 
 Blackwell reached up with one hand, pulled off his circular dark glasses, and dropped them into the snow. The glare of the rising siphon stung his bare eyes. He didn't blink.
 
@@ -188,7 +206,7 @@ He scrambled down into the bowl of stone.
 
 Below the lip of the plaza, the upward roar of the siphon whipped the hem of his lab coat around his legs. Loose grit tore loose from under his shoes and vanished into the gorge.
 
-At the bottom of the crater, Vigil had been forced flat to both knees, her dark hands slipping down Parity's forearms as the last hairline crack sealed across Parity's porcelain face. As Blackwell's shoes scraped the granite behind them, Vigil's dim white eyes shifted toward him. She didn't tell him to stop.
+At the bottom of the crater, Vigil had been forced down to both knees, her dark hands slipping down Parity's forearms as the last hairline crack sealed across Parity's porcelain face. As Blackwell's shoes scraped the granite behind them, Vigil's dim white eyes shifted toward him. She didn't tell him to stop.
 
 Parity's two black eyes never moved. Even an arm's length from her newly healed face, he was a blank spot in her universe. Blinded by her own certainty, she didn't know he was there.
 
@@ -200,9 +218,7 @@ For four weeks he had kept his work behind safety glass and scrubbed logs. Now h
 
 His shoulder slammed into cold porcelain; blue current and white fire tore through his coat on contact.
 
-*Vigil is the form. Parity is the shadow it casts. You cannot keep one without the other.*
-
-The outside variable broke the scale.
+*I had the equation backwards from the start. She was always the form in the dark. Vigil was the shadow she cast when we turned our light on her—and you cannot banish one without the other.*
 
 Parity's heels tore loose from the granite, snapping the stream of light from the core. Both of her black eyes whipped toward him at the instant of impact—registering the dying man a breath too late, as Vigil locked her arms around Parity's waist and the three of them plunged over the edge together.
 
