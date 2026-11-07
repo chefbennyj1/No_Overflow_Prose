@@ -26,7 +26,7 @@ The girl in the prison orange couldn't take her eyes off him. Her lips moved wit
 
 "Detective Graves..."
 
-A convict grieving a policeman. Even in the ruin of the plaza, the sight was wrong.
+A convict grieving a policeman. Even in the ruin of the plaza, the sight was odd.
 
 Beside Blackwell, Elena looked down at the blood on the snow under his chin.
 
