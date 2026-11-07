@@ -16,15 +16,23 @@ Behind his circular dark glasses, he took stock of the four people huddled at th
 
 Two of the faces he knew. Iris Ito knelt in the snow with both hands pressed against her cracked black-rimmed glasses. And Elena. She had finally woken up after weeks, and she was here, alive. The black carbon-fiber fingers of her prosthetic hand flexed and released, the small servos clicking in the cold.
 
-The other two were strangers. A tall woman in a leather jacket, with ratty blue hair. The other with jagged hair, in an orange prison suit.
+The other two were strangers. A tall woman in a leather jacket with ratty blue hair, and a girl with jagged hair in an orange prison suit.
 
-Blackwell rasped a painful breath in and stared out across the plaza. Dozens of lower-city rioters lay frozen where they had tried to run, locked in ice beside the broken barricades and the bodies of Corporate Renewal. Beyond the carnage, the white-haired detective lay dead.
+The girl was the only one not watching the gorge. The blue-haired woman had a hand on her shoulder, and the girl didn't seem to feel it. She was staring the other way across the plaza.
+
+Blackwell rasped a painful breath in and followed her gaze across the stone. Dozens of lower-city rioters lay frozen where they had tried to run, locked in ice beside the broken barricades and the bodies of Corporate Renewal. Beyond the carnage, the white-haired detective lay dead in the snow.
+
+The girl in the prison orange couldn't take her eyes off him. Her lips moved with almost no sound, whispering the man's name into the wind.
+
+"Detective Graves..."
+
+A convict grieving a policeman. Even in the ruin of the plaza, the sight was wrong.
 
 Beside Blackwell, Elena looked down at the blood on the snow under his chin.
 
 "Silas," she said, her voice tight.
 
-The girl in the prison trousers went rigid. Still staring out toward the dead detective, she spoke his name to herself, low enough that it barely carried across the wind.
+The girl in the prison trousers went rigid. Her lips stopped moving. Still staring out toward the dead detective, she spoke the new name to herself, low enough that it barely carried across the frost.
 
 "Silas." The girl's hands gripped into white-knuckle fists. "Silas Blackwell..."
 
