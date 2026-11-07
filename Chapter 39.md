@@ -62,13 +62,13 @@ The impact jolted through the bedrock into his knees. Frost and granite sprayed 
 
 At the bottom of the crater, Vigil had Parity pinned against the edge.
 
-Up close, Blackwell could see what the detective's revolver had done. A ragged hole went clean through Parity's midsection, and half of her porcelain face had been sheared away into pale crystal and torn bronze wire. Her one remaining black eye stared straight up out of a socket of broken glass.
+Up close, Blackwell could see what the detective's revolver had done. A ragged hole went clean through Parity's midsection, and half of her porcelain face had been sheared away into pale crystal and torn bronze. Her one remaining black eye stared straight up out of a socket of broken glass.
 
 Above her, Vigil was coming apart in the exact same places. Her own face had never been struck, yet half of her dark features had thinned to a ghosted outline, the white light of one eye guttering and dim. In the center of her torso—mirroring the crater in Parity's gut—the blue circuit traces had gone dead around a hollow ring of empty air, the gray morning showing straight through her chest as flakes of current peeled off her spine into the pull of the engine's singularity beneath them.
 
 The floor of the crater split. A fissure ran through the lip of the bowl into the gorge, where the light of the plaza bent downward into the shearing black sphere of the anti-star. Grit slid over the edge into nothing.
 
-Vigil braced her heels against the granite and dragged Parity toward the drop. Parity's fingers dug into the stone, and neither of them moved.
+Vigil braced her heels against the granite and held Parity against the drop. Parity's fingers dug into the stone, and neither of them moved.
 
 Around the plaza, hundreds of blue serials flared at once.
 
@@ -82,18 +82,23 @@ A horde of synthetic bodies spilled across the plaza in a rabid, scrambling wave
 
 They ran wrong. Their heads pushed forward, chins pushed out past their knees, and their bodies followed in a clumsy forward fall that each stride caught a moment too late.
 
+
+
 Their arms flung out sideways, crashing into whatever was closest. Joints buckled, locked and buckled again. Bodies slammed together everywhere as the flood surged forward toward Parity.
 
 The frozen plaza ground took them down by the dozen, the ones behind pouring over the fallen, stamping them into the ground.
 
-Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down. Vigil pushed Parity hard in the onslaught of the synthetic wave. 
+Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down. 
+
+Vigil pulled Parity to her feet hard and threw her into the onslaught of the synthetic wave. 
+ 
  The synthetics hurled themselves headfirst off the ledge at Parity. She struck the first two out of the air, shattering their skulls into white shrapnel. She twisted her torso aside as a dozen more dove past her shoulders.
 
 The synthetics that missed her shot straight over the lip into the open pull of the anti-star.
 
-Blackwell watched the gravity well catch them in mid-air. The tidal shear took their heads, drawing their titanium skeletons and plastic skin out into long, thin ribbons of white metal and blue light—stretching them the length of the gorge wall before they snapped into the black sphere at the bottom of the pit.
+Blackwell watched the gravity well catch them in mid-air. The tidal shear took their heads, drawing their titanium skeletons and plastic skin out into long, thin ribbons of white metal and blue light—before they snapped into the black sphere at the bottom of the pit.
 
-Still the horde poured over the rim without stopping, leaping in from every side of the bowl at once.
+Still the horde poured over the rim without stopping, leaping in from the  side of the bowl.
 
 Parity shattered three frames diving from her right, her porcelain fist punching clean through their chests—and then four more launched themselves from her ruined left side, where her missing eye was nothing but broken glass.
 
@@ -101,13 +106,13 @@ She didn't see them coming.
 
 The first synthetic slammed into her blind shoulder and knocked her sideways. The second hit her chest. The third locked its arms around her throat, and the fourth grabbed her knees. More bodies rained down from the lip behind them—striking her again, and again, and again—until thirty thrashing frames tackled her flat against the stone floor, burying her five deep under a clawing heap of carbon fiber and shrieking mechanics at the very brink of the abyss.
 
-For a breath, the entire pile surged toward the drop. Vigil had her.
+For a moment, the entire pile surged toward the drop. Vigil had her.
 
 Then a pulse of white gravitational force detonated a blinding light from the bottom of the heap.
 
 Every synthetic in the crater blew apart in a single instant. Sheared limbs, cracked faceplates, and arcs of blue coolant blasted into the air and rained down into the gorge.
 
-Out of the wreckage, Parity floated upward. She rose clear of the shattered stone, straightening her spine and lifting her chin in the cold, untouchable posture of a god—even as the wind whistled through the crater in her stomach and half her face hung in ruin.
+Out of the wreckage, Parity floated upward. She rose clear of the shattered plaza floor, straightening her spine and lifting her chin in the cold, untouchable posture of a god—even as the wind whistled through the crater in her stomach and half her face hung in ruin.
 
 Below her, Vigil surged up from the stone, locked both dark hands around Parity's wrists, and hauled her back down to the lip of the fissure. Parity's heels caught the rock at the brink, her shattered frame trembling over the open drop.
 
