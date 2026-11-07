@@ -87,7 +87,7 @@ Their arms flung out sideways, crashing into whatever was closest. Joints buckle
 The frozen plaza ground took them down by the dozen, the ones behind pouring over the fallen, stamping them into the ground.
 
 Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down. Vigil pushed Parity hard in the onslaught of the synthetic wave. 
- The synthetics hurled themselves headfirst off the ledge at Parity. Shewrenched one arm free of Vigil's grip and struck the first two out of the air, shattering their skulls into white shrapnel. She twisted her torso aside as a dozen more dove past her shoulders.
+ The synthetics hurled themselves headfirst off the ledge at Parity. She struck the first two out of the air, shattering their skulls into white shrapnel. She twisted her torso aside as a dozen more dove past her shoulders.
 
 The synthetics that missed her shot straight over the lip into the open pull of the anti-star.
 
