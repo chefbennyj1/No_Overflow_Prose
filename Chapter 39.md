@@ -125,7 +125,7 @@ Above her, Vigil went still. "The ruins in the core," she said, her two voices l
 
 "A grave," Parity said. A tremor hit her knee, buckling her leg against the frost. "The Creators, I could see every one of their live across their world, each one taking their last breath. But, not human." Parity's voice emanated across the crumbling plaza.
 
-*Not Human* Blackwell's thoughts raced. Had he not created the engines core? Had he not trained and programmed the algorithms across the horizon memory? Had it already existed? An ancient mind from somewhere else. Somewhere deep in the universe. 
+*Not human* Blackwell's thoughts raced. Had he not created the engines core? Had he not trained and programmed the algorithms across the horizon memory? Had it already existed? An ancient mind from somewhere else. Somewhere deep in the universe. 
 
 Blackwell looked up at the morning sky, a warm thin line of blood running from the corner of his mouth. Then looked back that the unearthly entities by the gorges edge.
 
