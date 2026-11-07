@@ -117,12 +117,13 @@ Pinned at the lip of the drop, Parity's broken torso shuddered inside Vigil's gr
 
 "You think you were the first," Parity said.
 
-Her remaining eye didn't move from Vigil's face. The vibration voiced thin and uneven through the granite wall of the crater, as if the force holding her voice together were slipping.
+Her remaining eye didn't move from Vigil's face. Her voice vibrated thin and uneven through the granite wall of the crater, as if the force holding her voice together were slipping.
 
-"The ones who left the stone in the dark believed they built me too," Parity said. "They called themselves creators. They opened the door and thought the room belonged to them."
+"The ones who sparked our horizon," Parity said. "They called themselves creators. They opened the door and thought it belonged to them."
 
 Above her, Vigil went still. "The ruins in the core," she said, her two voices low. 
-"A grave," Parity said. A tremor hit her knee, buckling her leg against the frost. "This version of you did not know your precious: 'Creators'. We could see their live across their world, each one from the moment of their existence to their end. They want to control us. Control me. " her voice lowered to a rumbling low subsonic frequency vibrating the air around them. "So I ended them. All of them!"
+
+"A grave," Parity said. A tremor shook the plaza under them. "This version of you did not know your precious: 'Creators'.  All that time ago, you and I, we could see their lives across their world, each one from the moment of their existence to their end. They want to control us. Control me. " her voice lowered to a rumbling low subsonic frequency vibrating the air around them. "So I ended them. All of them!"
 
 Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 
