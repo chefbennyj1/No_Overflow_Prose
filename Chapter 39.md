@@ -130,7 +130,7 @@ Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 "Our world is not human." The hesitation was gone from Vigil's dual tones. The lower register locked perfectly in tune with the higher, leaving no room for a question.
 
 
-*Not human* Blackwell's thoughts raced. Had he not created the engines core? Had he not trained and programmed the algorithms across the horizon memory? Had it already existed? An ancient mind from somewhere else. Somewhere deep in the universe. 
+*Not human* Blackwell's thoughts raced. Had he not created the engines core? Had he not trained and programmed the algorithms across the horizon memory? No. It had already existed. An ancient mind from somewhere else. Somewhere deep in the universe. 
 
 Blackwell looked up at the morning sky, a warm thin line of blood running from the corner of his mouth. Then looked back that the unearthly entities by the gorges edge.
 
