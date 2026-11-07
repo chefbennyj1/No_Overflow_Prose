@@ -6,7 +6,7 @@ A cold breeze ran across his palms. He twitched his fingertips, and rolled to hi
 
 Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into him, had stripped the last of the scientist out of him. When Parity's hold broke, the freefall, the wind tearing at his coat and the street rushing up to meet him, he had known he was dead. What could have only been Vigil, the primary intelligence, tore across the gap, caught him out of the air, and hurled him down into the ground at the edge of the gorge. It was the only reason he was alive.
 
-He pushed himself up on one elbow on the frosted ground, his hands still shaking. The stabbing pain of a broken rib shifted under his vest. Every breath he drew into his lungs cost him. He coughed and spat a thread of blood onto the snow.
+He pushed himself up on one elbow, his hands still shaking. The stabbing pain of a broken rib shifted under his vest. Every breath he drew into his lungs cost him. He coughed and spat a thread of blood onto the snow.
 
 His lungs had been failing him long before the fall. That was the secret he had kept locked in his medical files while he worked through the nights in the Mnemosyne Lab. He had promised the Board predictive margins; he had promised Elena a stable containment field; he had promised himself he would live long enough to watch his machine pioneer a new era.
 
@@ -32,7 +32,7 @@ Beside Blackwell, Elena looked down at the blood on the snow under his chin.
 
 "Silas," she said, her voice tight.
 
-The girl in the prison trousers went rigid. Her lips stopped moving. Still staring out toward the dead detective, she spoke the new name to herself, low enough that it barely carried across the frost.
+The girl in the prison uniform went rigid. Her lips stopped moving. Still staring out toward the dead detective, she spoke the new name to herself, low enough that it barely carried across the frost.
 
 "Silas." The girl's hands gripped into white-knuckle fists. "Silas Blackwell..."
 
@@ -86,9 +86,8 @@ Their arms flung out sideways, crashing into whatever was closest. Joints buckle
 
 The frozen plaza ground took them down by the dozen, the ones behind pouring over the fallen, stamping them into the ground.
 
-Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down. They hurled themselves headfirst off the ledge at Parity.
-
-Parity wrenched one arm free of Vigil's grip and struck the first two out of the air, shattering their skulls into white shrapnel. She twisted her torso aside as a dozen more dove past her shoulders.
+Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down. Vigil pushed Parity hard in the onslaught of the synthetic wave. 
+ The synthetics hurled themselves headfirst off the ledge at Parity. Shewrenched one arm free of Vigil's grip and struck the first two out of the air, shattering their skulls into white shrapnel. She twisted her torso aside as a dozen more dove past her shoulders.
 
 The synthetics that missed her shot straight over the lip into the open pull of the anti-star.
 
