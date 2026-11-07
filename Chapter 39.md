@@ -127,7 +127,7 @@ Above her, Vigil went still. "The ruins in the core," she said, her two voices l
 
 Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 
-"Our world is not human." Vigil's dual tones were no longer questioning her beginnings, but stating them as fact. 
+"Our world is not human." The hesitation was gone from Vigil's dual tones. The lower register locked perfectly in tune with the higher, leaving no room for a question.
 
 
 *Not human* Blackwell's thoughts raced. Had he not created the engines core? Had he not trained and programmed the algorithms across the horizon memory? Had it already existed? An ancient mind from somewhere else. Somewhere deep in the universe. 
