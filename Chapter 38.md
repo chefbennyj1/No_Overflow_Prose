@@ -9,25 +9,25 @@ Victor could see the frost through it. The plaza beyond, the dark edge of the go
 
 Moments ago, the Madame had been in his sights. The shockwave from the tower had flipped her cruiser onto its roof, throwing Harlan clear and crushing the Minder who held him under a wreckage of black steel. Beyond the debris, the Madame was still on her feet. Victor had settled his sight square on the back of her head. Everything his father had been—every visit, an old man hollowed out as a Minder—sat at the end of the barrel.
 
-Then the white figure dropped like a spear. It came to a halt at the ground, looming over Erin Adler. *She would die.*  Victor wrenched the barrel off the Madame, throwing away the only shot he had waited his whole life for.
+Then the white figure dropped like a spear. It slammed down in front of Erin Adler. *She would die.* Victor wrenched the barrel off the Madame, throwing away the only shot he had waited his whole life for.
 
 The entity turned its head and looked at him.
 
 His eyes watered at once. The reflection of the morning sun glared off it, burning through the tears in his eyes. He blinked hard, forcing himself to look.
 
-It glided toward him low over the snow, its black eyes locked squarely on Victor's albinotic ones.
+It glided toward him low over the snow, its black eyes locked on Victor's albinotic ones.
 
 Around them, rioters from the lower city were scrambling over the snow, trying to drag their wounded behind the statues. The entity didn't look at any of them. As it passed an overturned barricade where a dozen people were sheltering, it opened its left hand. A sheet of white frost raced across the stone and up their chests, freezing them rigid against the concrete in the middle of a breath.
 
 A man in a torn coat stumbled into its path. It didn't turn its head. The man was lifted off his feet, twisted in the air, and dropped lifeless in the snow.
 
-"Victor!" Harlan called out from behind the wrecked cruiser. "What are you doing?"
-
-Victor kept his eyes locked on the white figure. "Harlan, stay back!"
-
 Where it passed, the screaming died out, and the snow stopped falling and hung in the air behind it.
 
-Victor didn't move.
+"Victor!" Harlan called out from behind the wrecked cruiser. "What are you doing?"
+
+Victor kept his eyes on the white figure. "Harlan, stay back!"
+
+He didn't move.
 
 The sun was at his back. His shadow ran long across the frost in front of him, and the white figure stopped at the end of it, close enough to touch. Its own shadow ran along the snow behind it. The sun came through the hole in its gut and lay in the middle of its shadow, a white spot on the frost.
 
@@ -35,9 +35,9 @@ Up close, it had a woman's face. Her skin was porcelain, with lines of bronze ci
 
 Through the hole in her gut, he could see Erin Adler on her knees on the frost.
 
-The black eyes locked on his face.
+The black eyes settled on his face.
 
-"I see every life," she spoke.
+"I see every life," she said.
 
 One voice, flat and calm. Her lips didn't part. The sound came through the stones of the plaza and the cold air around him.
 
@@ -67,7 +67,7 @@ Her black eyes stayed on him. Nothing in her face moved. He tightened his grip o
 
 He didn't run.
 
-Her hand came up toward his throat. The cold came off her fingers before they reached him. Frost climbed over his collar and stiffened it against his neck.
+Her hand came up toward his throat. The cold came off her fingers before they reached him. Frost climbed over his collar and stiffened it against his neck. The water in his eyes went to ice.
 
 Victor didn't look away.
 
@@ -79,7 +79,7 @@ The voice came from right behind her, low and reverent.
 
 She lowered her hand and pivoted slowly, head and shoulders locked together in a single rigid turn until her back was to him.
 
-Victor dropped to a knee, taking in a ragged breath. Harlan started forward to help him, but Victor threw up a palm and shook his head, stopping him in mid-step.
+Victor dropped to a knee. The ice cracked off his lashes as he dragged a breath in. Harlan started forward to help him, but Victor threw up a palm and shook his head, stopping him in mid-step.
 
 The Madame was already standing close in the frost, the long filter lowered from her mouth. Snow had settled on the shoulders of her white silk. Behind her, her army had stopped dead against the Renewal line on the tower steps. Hundreds of serials glowed at the exact same height. Not one of them moved.
 
@@ -91,7 +91,7 @@ The Madame looked up into the white face, her head in a slight bow, her eyes dar
 
 The white figure said nothing.
 
-The Madame's voice dropped, warm and velvety—the one Victor had heard her use when she was about to buy a man's soul and make him thank her for it.
+The Madame's voice dropped to velvet—the one Victor had heard her use when she was about to buy a man's soul and make him thank her for it.
 
 "You don't belong in their basement," she said. "And you shouldn't have to dirty yourself with the insects down here. That army is mine." She gestured with an open palm toward the ranks behind her. "The police in this city are mine. Every street, every port, every terminal in Oshima answers to me—and I can lay all of it at your feet." A sycophantic smile pulled at the deep lines around her mouth. "Tell me what you want, and it's yours."
 
@@ -109,11 +109,11 @@ The white face tilted, leaning into the touch.
 
 The sound came up through the stones softer this time, almost mimicking the warm cadence of the Madame's own voice.
 
-The Madame's smile widened, triumphant, a spark in her eyes sharpening. Victor could see it in the set of her shoulders—she was already measuring the leash.
+The Madame's smile widened. Victor could see it in the set of her shoulders—she was already measuring the leash.
 
 The entity slowly raised her white hand, porcelain fingers brushing the Madame's silk collar.
 
-"Yes," the Madame whispered. Her tone motherly, but with a sick twist of devious intent.
+"Yes," the Madame whispered, her tone motherly.
 
 "I see you, Madame," the entity said softly. "Every way you end. And in all of them, you give me everything I want."
 
@@ -129,11 +129,11 @@ He had chased her his whole career. He had wanted her dead for longer than that.
 
 Behind the body, her army stood in its rows. Nobody owned them now.
 
-The entity didn't look down at the snow. She turned back to Victor.
+The entity didn't look down at the snow. She turned back to Victor, and the cold found his throat again before she had taken a step.
 
 A gun fired from beside the wrecked cruiser.
 
-"Get away from him!" Harlan's commanding shout echoed across the snow. His service pistol kicked in both hands, as he steadily emptied the magazine toward the porcelain figure.
+"Get away from him!" Harlan shouted. His service pistol kicked in both hands as he emptied the magazine into the porcelain figure.
 
 The entity didn't even turn her head. Without taking her eyes off Victor, she raised her left hand and caught the bullets in her porcelain fist.
 
@@ -145,7 +145,7 @@ Harlan's slide locked back on an empty chamber, his tie blowing loose across his
 
 She took a step toward him.
 
-*No.* Harlan had a wife packing boxes. He had a way out of Oshima.
+*No.* Harlan had Jackie at home packing boxes. He had the kids. He had a way out of Oshima.
 
 Victor raised the revolver. The rails woke against his palm.
 
@@ -161,7 +161,7 @@ She laid her palm flat on Victor's chest.
 
 The cold went in through his coat, and then it was inside him. His heart pushed once against it.
 
-Then the dark entity, with her glowing white eyes, hit her.
+Then the dark one from the interview room hit her, blue-white eyes burning.
 
 Victor didn't see it come. The white hand was on him, and then it was gone, and she went backward across the plaza with the dark figure locked around her. 
 
@@ -169,11 +169,11 @@ His legs gave out. His shoulder hit the plaza floor.
 
 He lay on his side on the frost. His breath went out long and came back shorter.
 
-Someone was shouting his name.
+Someone was shouting. "Vic! Victor!"
 
-Harlan was running toward him across the frost, his tie flying loose. Harlan was alive.
+Harlan was running toward him across the frost. Harlan was alive.
 
-Harlan's hands grabbed him and pulled him close.
+Harlan's hands went over his coat for the wound. There wasn't one. There was nothing to press on. He grabbed Victor and pulled him close.
 
 Over Harlan's shoulder, the sun had come up clear of the towers. It was in Victor's eyes.
 
