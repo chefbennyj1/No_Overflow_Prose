@@ -4,7 +4,7 @@ ambient: low_rumble_of_an_eve_#3-1792862539709.mp3
 ---
 A cold breeze ran across his palms. He twitched his fingertips and rolled to his side. His world sounded sealed in a vacuum, distant and muffled. But as the breeze hit his face, the world came rushing back in a crescendo, and Silas Blackwell felt the life surge back into his body with a gasping breath.
 
-Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into him had stripped the last of the scientist out of him. When her hold broke—the freefall, the wind tearing at his coat, the ground surging up toward him—he had known he was dead. It could only have been Vigil, the primary intelligence, that tore across the gap, caught him out of the air, and hurled him down at the edge of the gorge. She was the only reason he was alive.
+Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into him had stripped the last of the scientist out of him. When her hold broke—the wind of the freefall tearing at his coat, the ground surging up toward him—he had known he was dead. It could only have been Vigil, the primary intelligence, that tore across the gap, caught him out of the air, and hurled him down at the edge of the gorge. She was the only reason he was alive.
 
 He pushed himself up on one elbow, his hands still shaking. The stabbing pain of a broken rib shifted under his vest. Every breath he drew into his lungs cost him. He coughed and spat a thread of blood onto the snow.
 
