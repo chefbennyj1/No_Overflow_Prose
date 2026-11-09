@@ -11,6 +11,12 @@ Moments ago, the Madame had been in his sights. The shockwave from the tower had
 
 Then the white figure dropped like a spear. It slammed down in front of Erin Adler. *She would die.* Victor wrenched the barrel off the Madame, throwing away the only shot he had waited his whole life for.
 
+The dark entity was down on the frost between the white figure and Erin Adler, pushing herself up on one arm. Hurt. Blue light bled from the edges of its chest.
+
+The white figure didn't look at her. Two porcelain fingers swept sideways, the way a woman clears crumbs from a table.
+
+The dark one left the ground. She went across the plaza like a thing thrown from a window, limbs loose, and over the lip of the gorge. The pull took her. Blue light streamed off her into the mouth of the anti-star, and then there was only the dark.
+
 The entity turned its head and looked at him.
 
 His eyes watered at once. The reflection of the morning sun glared off it, burning through the tears in his eyes. He blinked hard, forcing himself to look.
@@ -161,7 +167,7 @@ She laid her palm flat on Victor's chest.
 
 The cold went in through his coat, and then it was inside him. His heart pushed once against it.
 
-Then the dark one from the interview room hit her, blue-white eyes burning.
+Then the dark one hit her, blue-white eyes burning.
 
 Victor didn't see it come. The white hand was on him, and then it was gone, and she went backward across the plaza with the dark figure locked around her. 
 
