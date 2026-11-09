@@ -14,9 +14,9 @@ He spat into the snow again and wiped his mouth with the back of his torn sleeve
 
 Behind his circular dark glasses, he took stock of the four people huddled at the rim where Vigil had dropped him.
 
-Two of the faces he knew. Iris Ito knelt in the snow with both hands pressed against her cracked black-rimmed glasses. And Elena. She had finally woken up after weeks, and she was here, alive. The black carbon-fiber fingers of her prosthetic hand flexed and released, the small servos clicking in the cold.
+Two of the faces he knew. Iris Ito knelt in the snow with both hands pressed against her glasses. And Elena. She had finally woken up after weeks, and she was here, alive. The black carbon-fiber fingers of her prosthetic hand flexed and released, the small servos clicking in the cold.
 
-The other two were strangers. A tall woman in a leather jacket with ratty blue hair, and a girl with jagged hair in an orange prison suit.
+The other two were strangers. A tall woman in a leather jacket with ratty blue hair, and a girl in an orange prison suit.
 
 The girl was the only one not watching the gorge. The blue-haired woman had a hand on her shoulder, and the girl didn't seem to feel it. She was staring the other way across the plaza.
 
