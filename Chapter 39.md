@@ -8,7 +8,7 @@ Hanging eighty stories above New Veridia with Parity's freezing fingers twisted 
 
 He pushed himself up on one elbow, his hands still shaking. The stabbing pain of a broken rib shifted under his vest. Every breath he took into his lungs pained him. He coughed and spat a thread of blood onto the snow.
 
-His lungs had been failing him long before the fall. That was the secret he had kept, while he worked through the nights in the Mnemosyne Lab. He had promised the Board predictive margins; he had promised Elena a stable containment field; he had promised himself he would live long enough to watch his machine pioneer a new era.
+His lungs had been failing him long before the fall. The cancer was the personal secret he had kept from his colleagues, while he worked through the nights in the Mnemosyne Lab. He had promised the Board predictive margins; he had promised Elena a stable containment field; he had promised himself he would live long enough to watch his machine pioneer a new era.
 
 He spat into the snow again and wiped his mouth with the back of his torn sleeve. All of that math, and the only thing waiting at the bottom of his lies was a hole eating the center of the city.
 
