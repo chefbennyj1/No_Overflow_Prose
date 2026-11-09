@@ -11,15 +11,15 @@ Moments ago, the Madame had been in his sights. The shockwave from the tower had
 
 Then the white figure dropped like a spear. It slammed down in front of Erin Adler. *She would die.* Victor wrenched the barrel off the Madame, throwing away the only shot he had waited his whole life for.
 
-The dark entity was down on the frost between the white figure and Erin Adler, pushing herself up on one arm. Hurt. Blue light bled from the edges of its chest.
+The dark entity was down on the frost between the white figure and Erin Adler, pushing herself up on one arm. Hurt. Blue light bled from the edges of her chest.
 
-Two porcelain fingers swept sideways in a casual dismissive motion.
+Two porcelain fingers swept sideways in a casual, dismissive motion.
 
 The dark one left the ground, thrown across the plaza, limbs loose, and over the lip of the gorge. The pull took her. Blue light streamed off her into the mouth of the anti-star.
 
 The entity turned its head and looked at him.
 
-His eyes watered at once. The reflection of the morning sun glared off it, burning through the tears in his eyes. He blinked hard, forcing himself to look.
+His eyes watered at once. The reflection of the morning sun glared off it, burning through his tears. He blinked hard, forcing himself to look.
 
 It glided toward him low over the snow, its black eyes locked on Victor's albinotic ones.
 
@@ -73,7 +73,7 @@ Her black eyes stayed on him. Nothing in her face moved. He tightened his grip o
 
 He didn't run.
 
-Her hand came up toward his throat. Ambient cool air radiated off her fingers before they reached him. Frost climbed over his collar and stiffened it against his neck. The water in his eyes went to ice.
+Her hand came up toward his throat. Bitter cold radiated off her fingers before they reached him. Frost climbed over his collar and stiffened it against his neck. The water in his eyes went to ice.
 
 Victor didn't look away.
 
