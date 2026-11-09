@@ -20,7 +20,7 @@ The other two were strangers. A tall woman in a leather jacket with ratty blue h
 
 The girl was the only one not watching the gorge. The blue-haired woman had a hand on her shoulder, and the girl didn't seem to feel it. She was staring the other way across the plaza.
 
-Blackwell rasped a painful breath in and followed her gaze across the stone. Dozens of lower-city rioters lay frozen where they had tried to run, locked in ice beside the broken barricades and the bodies of Corporate Renewal. Beyond the carnage, the white-haired detective lay dead in the snow.
+Blackwell dragged in a painful breath and followed her gaze across the plaza. Nothing but death. Dozens of lower-city rioters lay where they had tried to run, ice glittering over their bodies. The dead of Corporate Renewal hung draped over the broken barricades and lay crumpled at their base. Beyond them, the white-haired detective lay dead.
 
 The girl in the prison orange couldn't take her eyes off him. Her lips moved with almost no sound, whispering the man's name into the wind.
 
