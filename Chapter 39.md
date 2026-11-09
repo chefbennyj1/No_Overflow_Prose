@@ -52,7 +52,7 @@ The girl strained against the grip, her chest heaving in the bitter air, until t
 
 She turned her gaze down to Blackwell.
 
-"You intentionally armed a nuclear bomb just so you could admire the clockwork inside it," Elena said.
+"You intentionally armed a nuclear bomb just so you could admire its destruction," Elena said.
 
 Blackwell didn't defend himself. He reached into his coat pocket, pulled out a bent cigarette, and set it between his lips. From his inner pocket he drew a book of paper matches and struck one against the strip. The unnatural cold rolling up from the gorge killed the spark before the sulfur could catch. He let the matchbook fall into the snow and left the cigarette unlit.
 
