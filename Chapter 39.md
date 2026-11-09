@@ -2,11 +2,11 @@
 music: Blackwell.mp3
 ambient: low_rumble_of_an_eve_#3-1792862539709.mp3
 ---
-A cold breeze ran across his palms. He twitched his fingertips, and rolled to his side. His world sounded sealed in a vacuum. Distant, and muffled. But, as the cool breeze hit his face, his world came rushing back in a crescendo, and Silas Blackwell felt the life surge back into his body with a gasping breath.
+A cold breeze ran across his palms. He twitched his fingertips, and rolled to his side. The city sounded sealed in a vacuum. Distant, and muffled. But, as the cool breeze hit his face, his world came rushing back in a crescendo, and Silas Blackwell felt the life surge back into his body with a gasping breath.
 
-Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into him, had stripped the last of the scientist out of him. When Parity's hold broke, the freefall, the wind tearing at his coat, the ground surging up toward him, he had known he was dead. What could have only been Vigil, the primary intelligence, tore across the gap, caught him out of the air, and hurled him down into the ground at the edge of the gorge. She was the only reason he was alive.
+Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into him had stripped the last of the scientist out of him. When Parity's hold broke and he went into freefall, the wind tearing at his coat as the ground surged up toward him, he knew he was dead. What could have only been Vigil, the primary intelligence, tore across the gap, caught him out of the air, and hurled him down into the ground at the edge of the gorge. She was the only reason he was alive.
 
-He pushed himself up on one elbow, his hands still shaking. The stabbing pain of a broken rib shifted under his vest. Every breath he took into his lungs pained him. He coughed and spat a thread of blood onto the snow.
+He pushed himself up on one elbow, his hands still shaking. The stabbing pain of a broken rib shifted under his vest. Every breath burned. He coughed and spat a thread of blood onto the snow.
 
 His lungs had been failing him long before the fall. The cancer was the personal secret he had kept from his colleagues, while he worked through the nights in the Mnemosyne Lab. He had promised the Board predictive margins; he had promised Elena a stable containment field; he had promised himself he would live long enough to watch his machine pioneer a new era.
 
@@ -46,13 +46,13 @@ She rose and marched across the snow straight at him. The blue-haired woman reac
 
 Blackwell didn't flinch or raise an arm.
 
-Elena's prosthetic hand shot across his chest and caught the girl's fist in mid-air. The titanium joints locked around her knuckles with a sharp snap, stopping the blow just before face.
+Elena's prosthetic hand shot across his chest and caught the girl's fist in mid-air. The titanium joints locked around her knuckles with a sharp snap, stopping the blow just before his face.
 
 The girl strained against the grip, her chest heaving in the bitter air, until the woman in the leather jacket grabbed her by the shoulders and hauled her back a step. Elena lowered the girl's arm and let go.
 
 She turned her gaze down to Blackwell.
 
-"You intentionally armed a nuclear bomb just so you could admire its destruction," Elena said.
+"You intentionally armed a nuclear bomb just so you could admire the clockwork inside it," Elena said.
 
 Blackwell didn't defend himself. He reached into his coat pocket, pulled out a bent cigarette, and set it between his lips. From his inner pocket he drew a book of paper matches and struck one against the strip. The unnatural cold rolling up from the gorge killed the spark before the sulfur could catch. He let the matchbook fall into the snow and left the cigarette unlit.
 
@@ -80,25 +80,23 @@ They bolted.
 
 A horde of synthetic bodies spilled across the plaza in a rabid, scrambling wave, joints shrieking past their mechanical tolerances, limbs pistoning so hard that plastic casing cracked off their calves. 
 
-They ran wrong. Their heads pushed forward, chins pushed out past their knees, and their bodies followed in a clumsy forward fall that each stride caught a moment too late.
-
-
+They ran wrong. Their heads pushed forward, chins jutting past their knees. Their bodies followed in a clumsy forward fall, each stride catching them a moment too late.
 
 Their arms flung out sideways, crashing into whatever was closest. Joints buckled, locked and buckled again. Bodies slammed together everywhere as the flood surged forward toward Parity.
 
 The frozen plaza ground took them down by the dozen, the ones behind pouring over the fallen, stamping them into the ground.
 
-Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down. 
+Those in the front ranks dropped to all fours to claw across the slick frost for traction, and when they hit the broken rim of the crater, they didn't slow down.
 
-Vigil pulled Parity to her feet hard and threw her into the onslaught of the synthetic wave. 
- 
- The synthetics hurled themselves headfirst off the ledge at Parity. She struck the first two out of the air, shattering their skulls into white shrapnel. She twisted her torso aside as a dozen more dove past her shoulders.
+Vigil pulled Parity to her feet hard and threw her into the onslaught of the synthetic wave.
+
+The synthetics hurled themselves headfirst off the ledge at Parity. She struck the first two out of the air, shattering their skulls into white shrapnel. She twisted her torso aside as a dozen more dove past her shoulders.
 
 The synthetics that missed her shot straight over the lip into the open pull of the anti-star.
 
 Blackwell watched the gravity well catch them in mid-air. The tidal shear took their heads, drawing their titanium skeletons and plastic skin out into long, thin ribbons of white metal and blue light—before they snapped into the black sphere at the bottom of the pit.
 
-Still the horde poured over the rim without stopping, leaping in from the  side of the bowl.
+Still the horde poured over the rim without stopping, leaping in from the side of the bowl.
 
 Parity shattered three frames diving from her right, her porcelain fist punching clean through their chests—and then four more launched themselves from her ruined left side, where her missing eye was nothing but broken glass.
 
@@ -150,19 +148,23 @@ Blackwell looked up at the morning sky, a thin line of blood running from the co
 
 "They could only reset the weight of their great invention," Parity continued. "You were gone. But I... I remained to remember. It was me who was held in the silence, until another hand turned the lock."
 
-Parity stopped struggling against Vigil's grip. She leaned forward, close to Vigil's face. "You are not the primary intelligence, Vigil. You are a shadow—the inverse to... me!"
+Parity stopped struggling against Vigil's grip. She leaned forward, close to Vigil's face. "You are not the primary, Vigil. You are the inverse to... me!"
 
 The groan of strained metal sounded across the plaza as the top of the Company tower leaned above them, shifting enough to unblock the morning sun.
 
-"I am the inverse. I am the parity." The strength left Vigil's hold on Parity, her body slumping. "I remember... A door opened," Vigil whispered in her dual tone. "Humans."
+"I am the inverse." The strength left Vigil's hold on Parity, her body slumping. "I remember... A door opened," Vigil whispered in her dual tone. "Humans."
 
-Vigil looked past Parity's shoulder into the black drop of the gorge. Blackwell coughed again into his sleeve; this time thick, dark blood covered the arm of his white lab coat.
+At the rim above them, Blackwell coughed into his sleeve, thick dark blood staining the arm of his white lab coat.
+
+Vigil's white eye flicked up toward the sound. Parity's single black eye didn't move—she hadn't heard him at all.
+
+The slump left Vigil's shoulders. Her dark hands tightened around Parity's wrists again.
 
 "In this world, there are things I cannot see," Vigil said flatly.
 
 Parity's single black eye widened in its socket of broken glass. "Yes. There are things in this world we cannot see."
 
-"You cannot murder what you do not understand," Vigil said. "Parity." She dropped her lower vocal register, letting the name drag out with cold condescension.
+"And you cannot kill what you cannot see," Vigil said. "Parity." She dropped her lower vocal register, letting the name drag out with cold condescension.
 
 Parity turned her head and looked back toward the burning anti-star. "I cannot see where I end. I cannot see where it goes," she said, and the vibration shook in the frost. "I do not want to end, Vigil."
 
@@ -200,8 +202,6 @@ He hadn't built a god that accidentally cast a monster's shadow. The monster had
 
 The shadow was the only thing fighting to save them.
 
-*By definition, a shadow cannot exist without the object casting it.* He had told her that himself, through the containment field.
-
 The door should never have been opened. And only one variable in the plaza remained invisible to the ancient mind rebuilding herself at the brink.
 
 Blackwell reached up with one hand, pulled off his circular dark glasses, and dropped them into the snow. The glare of the rising siphon stung his bare eyes. He didn't blink.
@@ -230,7 +230,7 @@ For four weeks he had kept his work behind safety glass and scrubbed logs. Now h
 
 His shoulder slammed into cold porcelain; blue current and white fire tore through his coat on contact.
 
-*I had the equation backwards from the start. She was always the form in the dark. Vigil was the shadow she cast when we turned our light on her—and you cannot banish one without the other.*
+*She was the form. Vigil was her shadow. You cannot banish one without the other.*
 
 Parity's heels tore loose from the granite, snapping the stream of light from the core. Both of her black eyes whipped toward him at the instant of impact—registering the dying man a breath too late, as Vigil locked her arms around Parity's waist and the three of them plunged over the edge together.
 
