@@ -13,7 +13,7 @@ Then the white figure dropped like a spear. It slammed down in front of Erin Adl
 
 The dark entity was down on the frost between the white figure and Erin Adler, pushing herself up on one arm. Hurt. Blue light bled from the edges of its chest.
 
-Two porcelain fingers swept sideways in a casual primitive motion.
+Two porcelain fingers swept sideways in a casual dismissive motion.
 
 The dark one left the ground, thrown across the plaza, limbs loose, and over the lip of the gorge. The pull took her. Blue light streamed off her into the mouth of the anti-star.
 
