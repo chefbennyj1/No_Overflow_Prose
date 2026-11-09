@@ -67,7 +67,7 @@ Her black eyes stayed on him. Nothing in her face moved. He tightened his grip o
 
 He didn't run.
 
-Her hand came up toward his throat. The cold came off her fingers before they reached him. Frost climbed over his collar and stiffened it against his neck. The water in his eyes went to ice.
+Her hand came up toward his throat. Ambient cool air radiated off her fingers before they reached him. Frost climbed over his collar and stiffened it against his neck. The water in his eyes went to ice.
 
 Victor didn't look away.
 
