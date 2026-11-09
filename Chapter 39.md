@@ -4,9 +4,9 @@ ambient: low_rumble_of_an_eve_#3-1792862539709.mp3
 ---
 A cold breeze ran across his palms. He twitched his fingertips, and rolled to his side. His world sounded sealed in a vacuum. Distant, and muffled. But, as the cool breeze hit his face, his world came rushing back in a crescendo, and Silas Blackwell felt the life surge back into his body with a gasping breath.
 
-Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into him, had stripped the last of the scientist out of him. When Parity's hold broke, the freefall, the wind tearing at his coat, the ground surging up toward him, he had known he was dead. What could have only been Vigil, the primary intelligence, tore across the gap, caught him out of the air, and hurled him down into the ground at the edge of the gorge. It was the only reason he was alive.
+Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into him, had stripped the last of the scientist out of him. When Parity's hold broke, the freefall, the wind tearing at his coat, the ground surging up toward him, he had known he was dead. What could have only been Vigil, the primary intelligence, tore across the gap, caught him out of the air, and hurled him down into the ground at the edge of the gorge. She was the only reason he was alive.
 
-He pushed himself up on one elbow, his hands still shaking. The stabbing pain of a broken rib shifted under his vest. Every breath he drew into his lungs cost him. He coughed and spat a thread of blood onto the snow.
+He pushed himself up on one elbow, his hands still shaking. The stabbing pain of a broken rib shifted under his vest. Every breath he drew into his lungs pained him. He coughed and spat a thread of blood onto the snow.
 
 His lungs had been failing him long before the fall. That was the secret he had kept locked in his medical files while he worked through the nights in the Mnemosyne Lab. He had promised the Board predictive margins; he had promised Elena a stable containment field; he had promised himself he would live long enough to watch his machine pioneer a new era.
 
