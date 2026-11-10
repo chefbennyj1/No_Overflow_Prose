@@ -30,7 +30,7 @@ Beside Blackwell, Elena looked down at the blood on the snow under his chin.
 
 "Silas," she said. She reached out and touched the side of his head.
 
-The girl in the prison uniform went rigid. Her lips stopped moving. Still staring out toward the dead detective, she repeated the name to herself, low enough that it barely carried across the frost.
+The girl in the prison uniform went rigid. Her lips stopped moving. Still staring out toward the dead detective, she repeated the name to herself, low enough that it was barely audible.
 
 "Silas." The girl's hands clenched into white-knuckled fists. "Silas Blackwell..."
 
@@ -46,7 +46,7 @@ Blackwell didn't flinch or raise an arm.
 
 Elena's prosthetic hand shot across his chest and caught the girl's fist in mid-air. The titanium joints locked around her knuckles with a sharp snap, stopping the blow before his face.
 
-The girl strained against the grip, her chest heaving in the bitter air, until the woman in the leather jacket grabbed her by the shoulders and hauled her back a step. Elena lowered the girl's arm and let go.
+The girl strained against the grip, her chest heaving in the bitter air, until the woman with the blue hair grabbed her by the shoulders and hauled her back a step. Elena lowered the girl's arm and let go.
 
 She turned her gaze down to Blackwell.
 
@@ -56,7 +56,7 @@ Blackwell didn't defend himself. He reached into his coat pocket, pulled out a b
 
 Across the plaza, a shockwave tore through the frost. Vigil had locked her arms around Parity, driving her backward in a blur. They hit the ground where the plaza stone broke off into the gorge.
 
-The impact jolted through the bedrock into his knees. Frost and granite sprayed outward, carving a shallow bowl into the lip of the drop.
+The impact jolted through the bedrock. Frost and granite sprayed outward, carving a shallow bowl into the lip of the drop.
 
 At the bottom of the crater, Vigil had Parity pinned against the edge, and neither of them moved.
 
