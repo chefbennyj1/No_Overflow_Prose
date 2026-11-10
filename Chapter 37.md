@@ -221,6 +221,6 @@ Above them, Parity righted herself in the freezing air. She didn't drop. She did
 
 Vigil traced the trajectory back to its source.
 
-Standing beside the broken cruiser, his trench coat whipped by the wind, Detective Victor Graves lowered his smoking magnetic-rail revolver.
+Standing steadfast in the frosted of the plaza, his trench coat whipped by the wind, Detective Victor Graves lowered his smoking magnetic-rail revolver.
 
 For the first time in her existence, Vigil did not know what happened next.
