@@ -43,7 +43,7 @@ Far below, the atrium's marble floor had split and tipped. The whole of the atri
 
 The horizon pulled at her back.
 
-To Vigil the four of them weighed nothing. The weight was in the pull. With every floor she climbed, the singularity tugged at the edges of her form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below. Admin registered each one as it went, pieces of Vigil's own neural density stripped away into the gravity well.
+To Vigil the four of them weighed nothing. The weight was in the pull. With every floor she climbed, the singularity tugged at the edges of her form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below. Admin registered each one as it went, pieces of Vigil stripped away into the gravity well.
 
 Then the pull doubled.
 
@@ -57,7 +57,7 @@ Time snapped back into gear.
 
 The sound of the collapse reached them all at once. The tower dropped.
 
-It sank three stories into the earth, and the plaza buckled toward it. Down its face, the windows burst outward floor by floor, from the street to the clouds, and the glass came down across the ground in sheets. Cold air roared up out of the lift shafts. Then the steel caught below, and the tower leaned against the sky.
+It sank three stories into the earth, and the plaza buckled toward it. Down its face, the windows burst outward floor by floor, from the street to the clouds. Glass came down across the ground in sheets. Cold air roared up out of the lift shafts. Then the steel caught below, and the tower leaned against the sky.
 
 Harper hit the ground on her knees, coughing in the sudden draft, while Rin gasped for breath in the freezing morning light.
 
