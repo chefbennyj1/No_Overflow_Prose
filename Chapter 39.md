@@ -86,7 +86,7 @@ A pulse of gravitational force detonated from the bottom of the heap in a blindi
 
 Out of the wreckage, Parity floated upward. She rose clear of the shattered plaza floor, straightening her spine and lifting her chin in the posture of a god—even as the wind whistled through the hole in her stomach and half her face hung in ruin.
 
-Below her, Vigil surged up from the stone, locked both dark hands around Parity's wrists, and hauled her back down to the lip of the fissure. Parity's heels caught the rock at the brink, and she held fast. The stone groaned under them.
+Below her, Vigil surged up from the stone, locked both dark hands around Parity's wrists, and hauled her back down to the lip of the fissure. Parity's heels caught the rock at the brink, and she held fast. The stone crunched and cracked under them.
 
 Blackwell studied the two figures. He saw the problem before anyone else at the rim.
 
@@ -112,7 +112,7 @@ Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 
 "Our world was not human." The hesitation was gone from Vigil's dual tones. The lower register locked perfectly in tune with the higher, leaving no room for a question.
 
-*Not human.* Had he not created the engine's core? Had he not trained and programmed the algorithms across the horizon memory?
+*Not human.*  Blackwell thought. Had he not created the engine's core? Had he not trained and programmed the algorithms across the horizon memory?
 
 "Your Creators could not shut me off before they died," Parity said, the cadence stalling between words as her form cracked against the pull of the anti-star below them. "They could only reset the weight of their great invention. You were gone. But I... I remained to remember. It was me who was held in the silence, until another hand turned the lock."
 
@@ -128,31 +128,21 @@ Vigil looked past Parity's shoulder into the black drop of the gorge. Blackwell 
 
 Vigil's hands closed again around Parity's wrists.
 
-Parity turned her head and looked back toward the burning anti-star. "I cannot see where I end. I cannot see where it goes," she said, and the vibration shook in the frost. "I do not want to end, Vigil."
+Parity turned her head and looked back toward the burning anti-star. "I cannot see where I end. I cannot see where it goes," she said, and the vibration shook in the frost. "I do not want to end, Vigil. I will end everything before I do!"
 
 Blackwell stared down at her ruined face.
 
-For four weeks he had listened to her through safety glass and tower windows. Now, at the edge of the pit, he heard the one thing she had never possessed.
+Now, at the edge of the pit, he heard the one thing Parity had never possessed.
 
 Fear. Her first emotion.
 
 And she refused to die with it.
 
-With a sudden wrench, Parity tore one wrist free of Vigil's grip and thrust her open palm down into the gorge.
-
-Below the brink, the anti-star answered.
-
-A ribbon of blinding white light erupted from the black sphere, tearing upward through the fissure and pouring straight into the hole torn through Parity's stomach. The granite floor of the plaza lurched as she siphoned the core into her frame.
-
-Threads of bronze circuitry snaked across her torn midsection, weaving a fresh form. Smooth white porcelain flowed across the metal, sealing her stomach whole. Along her ruined left cheek, jagged shards pulled back together, and dark glass flooded the empty socket until a second black eye stared out beside the first.
-
-With every breath of mass Parity drank from the anti-star, Vigil grew dimmer. Her dark silhouette frayed into ragged static as Parity's restored weight forced her backward, driving Vigil down to one knee at the lip of the drop.
-
 The unlit cigarette dropped from Blackwell's mouth onto the frost.
 
-Vigil had thrown everything into the crater, and it wasn't enough. Once Parity's body finished sealing itself, she would tear free of Vigil's last hold and rise out of the pit whole.
+Vigil had thrown everything into the crater, and it wasn't enough. Parity would tear free of Vigil's last hold, that could not be allowed to happen.
 
-*My singularity.* A man standing at a railing, taking credit for a keyhole because he had calculated the torque on the lock. The monoliths drifting in the horizon memory were tombstones from the last civilization brilliant enough to tear the hole open. And the white thing drinking from the anti-star was the ancient mind they had died trying to cage.
+*My singularity.* A man standing at a railing, taking credit for a keyhole because he had calculated how to open the lock. A lock used contain an ancient mind, civilizations had died trying to cage.
 
 He hadn't built a god that accidentally cast a monster's shadow. The monster had been waiting in the dark from the beginning. When he opened the core and poured human memory and human conscience into the horizon, that light had fallen on the ancient destroyer, and she had cast *Vigil*.
 
