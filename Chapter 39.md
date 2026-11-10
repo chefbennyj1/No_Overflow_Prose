@@ -128,7 +128,7 @@ Vigil's hands closed again around Parity's wrists.
 
 Parity turned her head and looked back toward the burning anti-star. "I cannot see where I end. I cannot see where it goes," she said, and the vibration shook in the frost. "I do not want to end, Vigil. I will end everything before I do!"
 
-Blackwell stared down at her ruined face.
+Blackwell stared at her ruined face.
 
 Now, at the edge of the pit, he heard the one thing Parity had never possessed.
 
@@ -138,7 +138,7 @@ And she refused to die with it.
 
 The unlit cigarette dropped from Blackwell's mouth onto the frost.
 
-Vigil had thrown everything into the crater, and it wasn't enough. Parity would tear free of Vigil's last hold, that could not be allowed to happen.
+Vigil had thrown everything into the crater, and it wasn't enough. Parity would tear free of Vigil's hold, that could not be allowed to happen.
 
 *My singularity.* A man standing at a railing, taking credit for a keyhole because he had calculated how to open the lock. A lock used contain an ancient mind, civilizations had died trying to cage.
 
