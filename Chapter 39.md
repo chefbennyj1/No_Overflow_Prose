@@ -184,7 +184,7 @@ There was no wind inside the drop. The cold left his hands, and the pain in his 
 
 He had stood on the terraces of the Company building picturing time stretching through the engine's core. Now he was inside it.
 
-Below him, the dark figure and the white one folded into each other, form and shadow collapsing back into a single point of light as the horizon reclaimed it.
+Below him, the dark figure and the white one folded into each other, form and shadow collapsing back into a single point of light as it disappeared into the the horizon.
 
 Above him, the rim of the plaza, the figure of Elena at the edge, and the morning sky of New Veridia shrank to a narrow ring.
 
