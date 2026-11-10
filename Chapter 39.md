@@ -92,7 +92,7 @@ Blackwell studied the two figures. He saw the problem before anyone else at the 
 
 Equal and opposite.
 
-He had written the proof himself years before the engine woke: *The Parity Effect*. Vigil was the compiled order; Parity was the inversion derived from her weight. Two halves of a single closed system. Inside a closed equation, equal forces canceled to zero. Even with the army spent, neither half could force the other across the boundary.
+*The Parity Effect*. Vigil was the compiled order; Parity was the inversion derived from her weight. Two halves of a single closed system. Inside a closed equation, equal forces canceled to zero. Neither half could force the other across the horizon boundary.
 
 Breaking a symmetry required a hand from outside the equation.
 
