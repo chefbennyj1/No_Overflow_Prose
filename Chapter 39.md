@@ -195,7 +195,7 @@ Then the boundary took him.
 
 There was no wind inside the drop. The cold left his hands, and the pain in his chest stopped. He drew a breath, and he felt nothing.
 
-Four weeks ago, standing on the terrace with a cigarette between his fingers, he had pictured time stretching through the engine's core. Now he was inside it.
+He had stood on the terraces of the Company building picturing time stretching through the engine's core. Now he was inside it.
 
 Below him, the dark figure and the white one folded into each other, form and shadow collapsing back into a single point of light as the horizon reclaimed it.
 
