@@ -59,9 +59,9 @@ The sound of the collapse reached them all at once. The tower dropped.
 
 It sank three stories into the earth, and the plaza buckled toward it. Down its face, the windows burst outward floor by floor, from the street to the clouds. Glass came down across the ground in sheets. Cold air roared up out of the lift shafts. Then the steel caught below, and the tower leaned against the sky.
 
-Harper hit the ground on her knees, coughing in the sudden draft, while Rin gasped for breath in the freezing morning light.
+Harper hit the ground on her knees, coughing in the sudden draft, while Rin gasped for breath.
 
-Rin looked up from the snow. Her eyes went to the space where the white synthetic frame should have been, and stopped on the dark figure hovering above the stone, traced in living blue light. She went still on her knees, her lips parted and her head tilted back in quiet awe—the blue-white light reflected in her wide eyes as if she were looking up at a god.
+Rin looked up from the snow. Her eyes went to the space where the white synthetic frame should have been, and stopped on the dark figure hovering above the stone, traced in living blue light. She went still on her knees, her lips parted and her head tilted back in quiet awe—the blue-white light reflected in her wide eyes.
 
 Under the plaza, the earth groaned.
 
