@@ -205,7 +205,7 @@ Vigil saw every branch belonging to the four of them collapse into one end: Pari
 
 Vigil dove, pushing her velocity past its limits. The distance would not close.
 
-Below her, Parity slammed into the plaza floor directly in front of Rin. A plume of fallen snow blasted up from her feet, then slowed—locking motionless in the temporal distortion around her as her white hand reached out for Rin's face.
+Below her, Parity slammed into the plaza floor directly in front of Rin. A plume of fallen snow blasted up from her feet, then slowed—locking motionless in the temporal distortion around her as her white hand reached out for Rin's throat.
 
 A hole opened in Parity.
 
