@@ -7,9 +7,7 @@ Rin pulled open the front door of the lower lobby. The air inside smelled stale.
 
 Rin walked past them to the rusted elevator at the end of the hall.
 
-She leaned against the back wall as the car rattled upward. The ticket was in her inside pocket. Sonora. She'd tell Harper tomorrow.
-
-Her other hand rested over her jacket pocket. The drive was still there.
+She leaned against the back wall as the car rattled upward. Her hand rested over her jacket pocket. The drive was still there.
 
 The light on the elevator panel hit her floor. The doors parted. 
 
