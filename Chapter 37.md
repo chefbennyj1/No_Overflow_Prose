@@ -191,7 +191,7 @@ Parity never took her eyes off Vigil's face, driving waves of white frost across
 
 Each exchange drove Vigil lower. They fought above the heads of the dying crowd, trading blows with deafening cracks.
 
-Snow stopped falling. Flakes hung motionless above the heads of the rioters, then reversed, drifting toward the clouds. Across the skyline, digital clocks skipped forward in time, then spun backward into error codes. 
+Snow stopped falling. Flakes hung motionless, then reversed, drifting toward the clouds. Across the skyline, digital clocks skipped forward in time, then spun backward into error codes. 
 
 Vigil was losing. Parity was not in the simulation, and she knew how Vigil protected.
 
