@@ -172,7 +172,7 @@ He lowered his shoulder, drove off the stone with the last strength in his legs,
 
 His shoulder slammed into cold porcelain; blue current and white fire tore through his coat on contact.
 
-Parity's heels tore loose from the granite, snapping the stream of light from the core. Both of her black eyes whipped toward him at the instant of impact—registering him a breath too late, as Vigil locked her arms around Parity's waist and the three of them plunged over the edge together.
+Parity's heels tore loose from the granite, snapping the stream of light from the core. Her black eye whipped toward him at the instant of impact—registering him a breath too late, as Vigil locked her arms around Parity's waist and the three of them plunged over the edge together.
 
 From the rim above, a single voice cut through the wind:
 
