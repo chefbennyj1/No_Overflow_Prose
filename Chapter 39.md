@@ -2,7 +2,7 @@
 music: Blackwell.mp3
 ambient: low_rumble_of_an_eve_#3-1792862539709.mp3
 ---
-A cold breeze ran across his palms. He twitched his fingertips and rolled to his side. His world sounded sealed in a vacuum, distant and muffled. But as the breeze hit his face, the world came rushing back in a crescendo, and Silas Blackwell felt the life surge back into his body with a gasping breath.
+A cold breeze ran across his palms. He twitched his fingertips and rolled to his side. The city sounded sealed in a vacuum, distant and muffled. But as the cold air hit his face, the world came rushing back in a crescendo, and Silas Blackwell felt the life surge back into his body with a gasping breath.
 
 Hanging eighty stories above New Veridia with Parity's freezing fingers twisted into him had stripped the last of the scientist out of him. When her hold broke—the wind of the freefall tearing at his coat, the ground surging up toward him—he had known he was dead. It could only have been Vigil, the primary intelligence, that tore across the gap, caught him out of the air, and hurled him down at the edge of the gorge. She was the only reason he was alive.
 
@@ -68,7 +68,7 @@ The floor of the crater split. A fissure ran through the lip of the bowl into th
 
 Around the plaza, hundreds of blue serials flared at once. The Madame's body lay folded in the snow with her neck twisted at an angle. Nobody owned her army now—and Vigil reached out and took them.
 
-Along the tower steps, every synthetic dropped its arms and spun toward the gorge. Vigil's signal hit their cores, and every speed inhibitor sizzled and split open.
+Along the tower steps, every synthetic dropped its arms and spun toward the gorge at once.
 
 They bolted.
 
@@ -76,9 +76,9 @@ A horde of synthetic bodies spilled across the plaza in a scrambling wave, joint
 
 Vigil hauled Parity to her feet and shoved her out into the middle of the bowl, straight into the path of the wave.
 
-The synthetics hurled themselves headfirst off the ledge at her. Parity slipped the first two. They shot past her shoulders over the lip into the pull of the anti-star. The gravity well drew them out into long ribbons of white metal and blue light before disappearing into the black sphere at the bottom of the pit.
+The synthetics hurled themselves headfirst off the ledge at her. Parity slipped the first two. They shot past her shoulders over the lip into the pull of the anti-star. The gravity well drew them out into long ribbons of white metal and blue light before they vanished into the black sphere at the bottom of the pit.
 
-The rest came from her left, where her missing eye was nothing but broken glass. She didn't see them. They slammed into her blind shoulder and knocked her sideways. Hit her chest. Locked their arms around her throat. Grabbed her knees. The wave of synthetics rained down from the lip, thrashing  and tackling her flat against the stone floor, burying her  under a clawing heap of carbon fiber and shrieking mechanics at the brink of the drop.
+The rest came from her left, where her missing eye was nothing but broken glass. She didn't see them. They slammed into her blind shoulder and knocked her sideways. Hit her chest. Locked their arms around her throat. Grabbed her knees. The wave of synthetics rained down from the lip, thrashing and tackling her flat against the stone floor, burying her under a clawing heap of carbon fiber and shrieking mechanics at the brink of the drop.
 
 Vigil threw her weight against the heap, and for a moment the entire pile slid toward the drop. Vigil had her.
 
@@ -178,13 +178,14 @@ At the bottom of the crater, Vigil had been forced down to both knees, her dark 
 
 Parity's two black eyes never moved. Even an arm's length from her newly healed face, he was a blank spot in her universe. Her eyes were on Vigil. She didn't know he was there.
 
-Before he reached them, Blackwell spoke once, quiet enough that the wind barely carried it back up the edge of crater:
+Before he reached them, Blackwell spoke once, quiet enough that the wind barely carried it back up the edge of the crater:
 
 "It was never my singularity, Elena."
 
 He lowered his shoulder, drove off the stone with the last strength in his legs, and threw his body straight into Parity's back.
 
 His shoulder slammed into cold porcelain; blue current and white fire tore through his coat on contact.
+
 Parity's heels tore loose from the granite, snapping the stream of light from the core. Both of her black eyes whipped toward him at the instant of impact—registering him a breath too late, as Vigil locked her arms around Parity's waist and the three of them plunged over the edge together.
 
 From the rim above, a single voice cut through the wind:
@@ -201,7 +202,6 @@ Below him, the dark figure and the white one folded into each other, form and sh
 
 Above him, the rim of the plaza, the figure of Elena at the edge, and the morning sky of New Veridia shrank to a narrow ring.
 
-
-He had been certain he would run out of time before his experiment finished, But here, he watched the equation solve itself from the inside.
+He had been certain he would run out of time before his experiment finished. Here, he watched the equation solve itself from the inside.
 
 Above his head, the ring of light narrowed to a point, and the door closed.
