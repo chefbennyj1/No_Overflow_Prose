@@ -92,9 +92,7 @@ Blackwell studied the two figures. He saw the problem before anyone else at the 
 
 Equal and opposite.
 
-*The Parity Effect*. Vigil was the compiled order; Parity was the inversion derived from her weight. Two halves of a single closed system. Inside a closed equation, equal forces canceled to zero. Neither half could force the other across the horizon boundary.
-
-Breaking a symmetry required a hand from outside the equation.
+*The Parity Effect*. Vigil was the compiled order; Parity was the inversion derived from her weight. Two halves of a single entity. Equal forces canceled to zero. Neither half could force the other across the horizon boundary.
 
 Pinned at the lip of the drop, Parity's broken torso shuddered inside Vigil's grip. Pale light leaked from the jagged hole in her stomach, and her single black eye darted toward the void below.
 
