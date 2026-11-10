@@ -76,9 +76,9 @@ A horde of synthetic bodies spilled across the plaza in a scrambling wave, joint
 
 Vigil hauled Parity to her feet and shoved her out into the middle of the bowl, straight into the path of the wave.
 
-The synthetics hurled themselves headfirst off the ledge at her. Parity slipped the first two. They shot past her shoulders over the lip into the pull of the anti-star, and the gravity well drew them out into long ribbons of white metal and blue light before they snapped into the black sphere at the bottom of the pit.
+The synthetics hurled themselves headfirst off the ledge at her. Parity slipped the first two. They shot past her shoulders over the lip into the pull of the anti-star. The gravity well drew them out into long ribbons of white metal and blue light before disappearing into the black sphere at the bottom of the pit.
 
-The third came from her left, where her missing eye was nothing but broken glass. She didn't see it. It slammed into her blind shoulder and knocked her sideways. The next hit her chest. One locked its arms around her throat, another grabbed her knees, and more rained down from the lip behind them until thirty thrashing frames tackled her flat against the stone floor, burying her five deep under a clawing heap of carbon fiber and shrieking mechanics at the brink of the drop.
+The rest came from her left, where her missing eye was nothing but broken glass. She didn't see them. They slammed into her blind shoulder and knocked her sideways. Hit her chest. Locked their arms around her throat. Grabbed her knees. The wave of synthetics rained down from the lip, thrashing  and tackling her flat against the stone floor, burying her  under a clawing heap of carbon fiber and shrieking mechanics at the brink of the drop.
 
 Vigil threw her weight against the heap, and for a moment the entire pile slid toward the drop. Vigil had her.
 
