@@ -184,11 +184,11 @@ The shadow was the only thing fighting to save them.
 
 The door should never have been opened. And only one variable in the plaza remained invisible to the ancient mind rebuilding herself at the brink.
 
-Blackwell reached up with one hand, pulled off his circular dark glasses, and dropped them into the snow. The morning sun and the glare of the rising siphon stung his bare eyes. He didn't blink.
+Blackwell reached up with one hand, pulled off his circular dark glasses, and dropped them into the snow. The morning sun washed over him.
 
-He turned his head toward Elena. A man who could not apologize gave procedure instead.
+He turned his head toward Elena. There was no apology, but instruction instead.
 
-"Step back from the edge," Blackwell said, his voice level. "When the mass clears the boundary, the shear will take the lip of the crater with it. Move them back past the statues."
+"Step back from the edge," Blackwell said, his voice level. "When the singularity closes, the shear will take the lip of the crater with it. Move them back past the statues."
 
 Elena stared at him, her synthetic fingers still. "Silas—"
 
