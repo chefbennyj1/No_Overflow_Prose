@@ -16,7 +16,7 @@ Behind his circular dark glasses, he took stock of the four people huddled at th
 
 Two of the faces he knew. Iris Ito knelt in the snow with both hands pressed against her glasses. And Elena. She had finally woken up after weeks, and she was here, alive. The black carbon-fiber fingers of her prosthetic hand flexed and released, the small servos clicking in the cold.
 
-The other two were strangers. A tall woman in a leather jacket with ratty blue hair, and a girl in an orange prison suit.
+The other two were strangers. A woman with ratty blue hair, and a girl in an orange prison suit.
 
 The girl was the only one not watching the gorge. The blue-haired woman had a hand on her shoulder, and the girl didn't seem to feel it. She was staring the other way.
 
@@ -50,7 +50,7 @@ The girl strained against the grip, her chest heaving in the bitter air, until t
 
 She turned her gaze down to Blackwell.
 
-"You intentionally armed a nuclear bomb just so you could admire the clockwork inside it," Elena said.
+"You intentionally armed a nuclear bomb just so you could look inside and see how it worked," Elena said.
 
 Blackwell didn't defend himself. He reached into his coat pocket, pulled out a bent cigarette, and set it between his lips. From his inner pocket he drew a book of paper matches and struck one against the strip. The unnatural cold rolling up from the gorge killed the spark before the sulfur could catch. He let the matchbook fall into the snow and left the cigarette unlit.
 
