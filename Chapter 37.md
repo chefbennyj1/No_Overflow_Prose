@@ -125,7 +125,7 @@ Vigil forced herself downward at an increased velocity.
 
 The girl hit the ground. 
 
-All the branches faded in front of her. Ninety-one years—two sons who would never be born, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
+All the branches faded in front of her. Ninety-one years—two sons, a crooked yellow hat she would knit for a granddaughter, an old woman's quiet death in a warm room overlooking the harbor—folded into the frost.
 
 The knitted yellow hat came down a moment later and settled on the frost beside her.
 
