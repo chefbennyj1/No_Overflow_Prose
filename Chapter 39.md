@@ -60,21 +60,17 @@ Across the plaza, a shockwave tore through the frost. Vigil had locked her arms 
 
 The impact jolted through the bedrock into his knees. Frost and granite sprayed outward, carving a shallow bowl into the lip of the drop.
 
-At the bottom of the crater, Vigil had Parity pinned against the edge.
+At the bottom of the crater, Vigil had Parity pinned against the edge, and neither of them moved.
 
 Up close, Blackwell could see what the detective's revolver had done. A ragged hole went clean through Parity's midsection, and half of her porcelain face had been sheared away into pale crystal and torn bronze. Her one remaining black eye stared straight up out of a socket of broken glass.
 
 Above her, Vigil was coming apart in the exact same places. Her own face had never been struck, yet half of her dark features had thinned to a ghosted outline, the blue-white light of one eye guttering. In the center of her torso—mirroring the hole in Parity's gut—the blue circuit traces had gone dead around a hollow ring of empty air. The gray morning showed straight through her chest as flakes of current peeled off her spine into the pull of the engine's singularity beneath them.
 
-The floor of the crater split. A fissure ran through the lip of the bowl into the gorge, where the light of the plaza bent downward into the shearing black sphere of the anti-star. Grit slid over the edge into nothing.
+The floor of the crater split. A fissure ran through the lip of the bowl into the gorge, where the light of the plaza bent downward into the shearing black sphere of the anti-star.
 
-Vigil braced her heels against the granite and held Parity against the drop. Parity's fingers dug into the stone, and neither of them moved.
+Around the plaza, hundreds of blue serials flared at once. The Madame's body lay folded in the snow with her neck twisted at an angle. Nobody owned her army now—and Vigil reached out and took them.
 
-Around the plaza, hundreds of blue serials flared at once.
-
-The Madame's body lay folded in the snow with her neck twisted at an angle. Nobody owned her army now—and Vigil reached out and took them.
-
-Along the tower steps, every synthetic dropped its arms and spun toward the gorge. Vigil's signal hit their cores, and every speed inhibitor sizzled and split open at once.
+Along the tower steps, every synthetic dropped its arms and spun toward the gorge. Vigil's signal hit their cores, and every speed inhibitor sizzled and split open.
 
 They bolted.
 
@@ -88,15 +84,11 @@ The third came from her left, where her missing eye was nothing but broken glass
 
 Vigil threw her weight against the heap, and for a moment the entire pile slid toward the drop. Vigil had her.
 
-Then a pulse of gravitational force detonated from the bottom of the heap in a blinding white flash.
-
-Every synthetic in the crater blew apart in a single instant. Sheared limbs, cracked faceplates, and arcs of blue coolant blasted into the air and rained down into the gorge.
+A pulse of gravitational force detonated from the bottom of the heap in a blinding white flash, and every synthetic in the crater blew apart. Sheared limbs, cracked faceplates, and arcs of blue coolant rained down into the gorge.
 
 Out of the wreckage, Parity floated upward. She rose clear of the shattered plaza floor, straightening her spine and lifting her chin in the posture of a god—even as the wind whistled through the hole in her stomach and half her face hung in ruin.
 
-Below her, Vigil surged up from the stone, locked both dark hands around Parity's wrists, and hauled her back down to the lip of the fissure. Parity's heels caught the rock at the brink, her shattered frame trembling over the open drop.
-
-Vigil drove her weight forward, her edges fraying into static as she strained toward the gorge, and Parity held fast. The stone groaned under them, refusing to give.
+Below her, Vigil surged up from the stone, locked both dark hands around Parity's wrists, and hauled her back down to the lip of the fissure. Parity's heels caught the rock at the brink, and she held fast. The stone groaned under them.
 
 Blackwell studied the two figures. He saw the problem before anyone else at the rim.
 
@@ -123,8 +115,6 @@ Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 "Our world was not human." The hesitation was gone from Vigil's dual tones. The lower register locked perfectly in tune with the higher, leaving no room for a question.
 
 *Not human.* Had he not created the engine's core? Had he not trained and programmed the algorithms across the horizon memory?
-
-Blackwell looked up at the morning sky, a thin line of blood running from the corner of his mouth, then looked back at the unearthly entities by the gorge's edge.
 
 "Your Creators could not shut me off before they died," Parity said, the cadence stalling between words as her form cracked against the pull of the anti-star below them. "They could only reset the weight of their great invention. You were gone. But I... I remained to remember. It was me who was held in the silence, until another hand turned the lock."
 
@@ -160,8 +150,6 @@ Below the brink, the anti-star answered.
 
 A ribbon of blinding white light erupted from the black sphere, tearing upward through the fissure and pouring straight into the hole torn through Parity's stomach. The granite floor of the plaza lurched as she siphoned the core into her frame.
 
-Before Blackwell's eyes, the damage the detective and the horde had carved into her began to reverse.
-
 Threads of bronze circuitry snaked across her torn midsection, weaving a fresh lattice over the void. Smooth white porcelain flowed across the metal, sealing her stomach whole. Along her ruined left cheek, jagged shards pulled back together, and dark glass flooded the empty socket until a second black eye stared out beside the first.
 
 With every breath of mass Parity drank from the anti-star, Vigil grew dimmer. Her dark silhouette frayed into ragged static as Parity's restored weight forced her backward, driving Vigil down to one knee at the lip of the drop.
@@ -194,9 +182,7 @@ Elena stared at him, her synthetic fingers still. "Silas—"
 
 He didn't wait for her to finish. He planted a hand on the frost and pushed himself to his feet. The broken rib ground in his chest, a flash of pain that narrowed his vision, and he stepped past her over the rim.
 
-He scrambled down into the bowl of stone.
-
-Below the lip of the plaza, the upward roar of the anti-star whipped the hem of his lab coat around his legs. Grit tore loose from under his shoes and vanished into the gorge.
+He scrambled down into the bowl of stone. Below the lip of the plaza, the upward roar of the anti-star whipped the hem of his lab coat around his legs. Grit tore loose from under his shoes and vanished into the gorge.
 
 At the bottom of the crater, Vigil had been forced down to both knees, her dark hands slipping down Parity's forearms as the last hairline crack sealed across Parity's porcelain face. As Blackwell's shoes scraped the granite behind them, Vigil's dimming eyes shifted toward him. She didn't tell him to stop.
 
