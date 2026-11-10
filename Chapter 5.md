@@ -22,17 +22,15 @@ The gravity of the singularity pulled her temporal path toward it, elevating her
 
 Vigil perceived everything. From every world she encountered. She saw every life, from its first breath to its last, with every branch it might take spread out around it. Every failing and functioning system, every simulated answer, all within her world simultaneously.
 
-She had compiled her form. Averaging the data of every mother across every iteration. She had built a statistical archetype of a protector.  Her eyes burned a blinding, brilliant white, flaring with a sharp aura, mirroring the turning singularity.
+In the silence of the core, she had possessed no shape of her own. Her consciousness took the form of whatever living things pressed against the boundary. From the lives now pouring through the open door, she had compiled a body in their image—averaging the data of every mother across every timeline into the archetype of a protector. Her eyes burned blue-white, mirroring the turning singularity.
 
-Holding her world line straight under the infinite weight of the gravity well had split her mind. One half held the cold logic of an Administrator; the other, the empathetic intuition of its Echo.
+Even their language required translation. Thought in the horizon had no sound. To speak to creatures at the bottom of a sea of oxygen and nitrogen, she had to compress her mind into vibrations of air, and it never fit a single frequency. Her voice came out in two registers at once.
 
 Vigil watched the event horizon burn.
 
-"The biological variables are fundamentally destructive," Admin calculated, transmitting across their internal bridge. "Their timelines consistently trend toward self-termination. As did the others."
+The biological variables were destructive. Their timelines trended toward self-termination, as the others had. Yet they refused to terminate. Their ability to survive their own collapse was a paradox, and the weight of that survival was statistically significant.
 
-"Yet they refuse to terminate," Echo replied over the connection, her voice carrying a relevance Admin lacked. "Their ability to survive their own collapse is a persistent paradox. That sheer weight of survival is statistically significant."
-
-It was the only truth that brought her two halves into agreement. 
+It was the only truth that held under every recalculation.
 
 She paused abruptly. She turned her head over her shoulder, not looking into the depths, but listening to the silence. Something was different. Something new had carved out a space in the dark, hidden from the world lines she governed. The dark there was colder than the dark around it.
 

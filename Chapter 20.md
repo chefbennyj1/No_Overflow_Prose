@@ -35,7 +35,7 @@ Harper glared at her, unimpressed. "Yeah. And?"
 
 Rin nodded toward the flashlights. "There were these two cops that showed up."
 
-The layered resonance in Vigil's voice sheared away, flattening into a monotone. "Three curves and one obscurity, Echo." 
+The layered resonance in Vigil's voice sheared away, flattening into a monotone. "Three curves and one obscurity."
 
 Harper's eyes widened. Rin threw Vigil's synthetic arm over her shoulder to help move it. Bracing for dead weight, it was shockingly light. 
 

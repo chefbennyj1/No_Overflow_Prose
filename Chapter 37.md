@@ -21,9 +21,7 @@ Pieces of the building were falling into it.
 
 Beneath the falling ceiling, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
 
-"Terminations near unavoidable," Admin calculated, transmitting across the internal bridge. 
-
-"Parity will know we carry them out of here," Echo answered.
+Terminations near unavoidable. Parity would know the moment Vigil carried them out.
 
 Vigil moved.
 
@@ -43,7 +41,7 @@ Far below, the atrium's marble floor had split and tipped. The whole of the atri
 
 The horizon pulled at her back.
 
-To Vigil the four of them weighed nothing. The weight was in the pull. With every floor she climbed, the singularity tugged at the edges of her form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below. Admin registered each one as it went, pieces of Vigil stripped away into the gravity well.
+To Vigil the four of them weighed nothing. The weight was in the pull. With every floor she climbed, the singularity tugged at the edges of her form. Filaments of blue light unraveled from her silhouette, trailing like burning thread into the dark below. She registered each one as it went, pieces of herself stripped away into the gravity well. Where the pull took pieces of her, the outline that filled back in was not always a woman's.
 
 Then the pull doubled.
 
@@ -95,7 +93,7 @@ Parity turned her black eyes toward Vigil.
 
 She opened her right hand. Blackwell didn't fall. He hung where she had left him, beside the others.
 
-"Parity." Both of Vigil's voices spoke together, ringing like a struck bell over the city.
+"Parity." Both registers rang like a struck bell over the city.
 
 Parity's head tilted. She turned her hand over.
 
@@ -117,11 +115,9 @@ The impact carried no physical sound, only a pulse of gravitational distortion t
 
 The wool tore out of her fingers. Below her, the girl fell away. Her eyes were still on her hat.
 
-"Intercept!" Echo's voice cracked across the bridge. The girl's branch split. For one frame, a second branch opened.
+The girl's branch split. For one frame, a second branch opened.
 
-"Impact probability..." Admin reported. The numbers ran down the bridge in red figures. "Impact... Probability of preservation is..."
-
-"Reach for her!" Echo cried out. Her voice broke across the link, thin.
+Impact probability ran down her sight in red figures. The probability of preservation did not finish.
 
 Vigil forced herself downward at an increased velocity. 
 
@@ -137,19 +133,13 @@ Snow fell in the stillness.
 
 Vigil dropped to her knees beside the girl's body. She read her again. There was nothing left to read.
 
-Across the bridge, Admin began calculating the threat profile above. "Hostile target—"
+Vigil began calculating the threat profile above. *Hostile target—*
 
-"Stop calculating!" Echo screamed across the internal bridge. 
+She stopped calculating.
 
-Her voice had changed. The warmth was gone from it.
+*Violence, then.*
 
-"Violence, then," Admin stated.
-
-"Yes," Echo said. "Violence, then."
-
-Vigil turned her gaze up to Parity.
-
-For the first time since they were compiled, Admin did not offer an alternative. "Calculating vector."
+Vigil turned her gaze up to Parity. For the first time since she was compiled, she did not look for another way.
 
 She inverted the gravity above her and drove upward.
 
@@ -195,7 +185,7 @@ Parity tilted her head, watching Vigil recover. Then, without looking down, Pari
 
 The gravity beneath the fleeing rioters inverted. Twenty people lifted off the snow at once, their arms windmilling in the cold air, and slid sideways over the lip of the gorge into the dark.
 
-Across the internal bridge, twenty lifetimes went black at the same instant.
+In Vigil's sight, twenty lifetimes went black at the same instant.
 
 Parity never took her eyes off Vigil's face. Every time Vigil dropped low to shield another group behind the statues, Parity waited for her to arrive—then drove a wave of white frost across the stone beneath them. The ice caught the rioters by their boots, locking them in place, and climbed their coats to their throats before Vigil could pull them free.
 
@@ -203,11 +193,7 @@ Each exchange drove Vigil lower. They had met at the spire. Now they fought abov
 
 Snow stopped falling. Flakes hung motionless above the heads of the rioters, then reversed, drifting toward the clouds. Across the skyline, digital clocks skipped forward in time, then spun backward into error codes. 
 
-Vigil was losing.
-
-"She anticipates our vector," Admin reported, alarms cascading across their bridge. "Her actions are not in the simulation."
-
-"She knows how we protect," Echo answered.
+Vigil was losing. Parity was not in the simulation, and she knew how Vigil protected.
 
 Parity pressed her advantage, broke the clinch, and dove.
 
@@ -216,10 +202,6 @@ She dropped toward the edge of the gorge, cutting straight through the freezing 
 At the rim of the sunken plaza, Rin was on her knees on the frost beside Harper, Iris, and Elena.
 
 Vigil saw every branch belonging to the four of them collapse into one end: Parity's touch taking all four at once.
-
-"They will not survive," Admin projected.
-
-"We cannot reach them," Echo cried across the link.
 
 Vigil dove, pushing her velocity past its limits. The distance would not close.
 
