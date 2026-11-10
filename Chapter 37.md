@@ -117,8 +117,6 @@ The wool tore out of her fingers. Below her, the girl fell away. Her eyes focuse
 
 The girl's branch split. For one frame, a second branch opened.
 
-Impact probability ran down her sight in red figures. The probability of preservation did not finish.
-
 Vigil forced herself downward at an increased velocity. 
 
 "No!" The sound wretched out of her into the open air.
