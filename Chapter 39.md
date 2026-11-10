@@ -188,7 +188,7 @@ Blackwell reached up with one hand, pulled off his circular dark glasses, and dr
 
 He turned his head toward Elena. There was no apology, but instruction instead.
 
-"Step back from the edge," Blackwell said, his voice level. "When the singularity closes, the shear will take the lip of the crater with it. Move them back past the statues."
+"Step back from the edge," Blackwell said, his voice level. "When the singularity closes, the shear will take the lip of the crater with it. Move back past the statues."
 
 Elena stared at him, her synthetic fingers still. "Silas—"
 
@@ -196,17 +196,17 @@ He didn't wait for her to finish. He planted a hand on the frost and pushed hims
 
 He scrambled down into the bowl of stone.
 
-Below the lip of the plaza, the upward roar of the siphon whipped the hem of his lab coat around his legs. Grit tore loose from under his shoes and vanished into the gorge.
+Below the lip of the plaza, the upward roar of the anti-star whipped the hem of his lab coat around his legs. Grit tore loose from under his shoes and vanished into the gorge.
 
 At the bottom of the crater, Vigil had been forced down to both knees, her dark hands slipping down Parity's forearms as the last hairline crack sealed across Parity's porcelain face. As Blackwell's shoes scraped the granite behind them, Vigil's dimming eyes shifted toward him. She didn't tell him to stop.
 
 Parity's two black eyes never moved. Even an arm's length from her newly healed face, he was a blank spot in her universe. Her eyes were on Vigil. She didn't know he was there.
 
-Before he reached them, Blackwell spoke once, quiet enough that the wind barely carried it back up the stone:
+Before he reached them, Blackwell spoke once, quiet enough that the wind barely carried it back up the edge of crater:
 
 "It was never my singularity, Elena."
 
-For four weeks he had kept his work behind safety glass and scrubbed logs. Now he lowered his shoulder, drove off the stone with the last strength in his legs, and threw his body straight into Parity's back.
+He lowered his shoulder, drove off the stone with the last strength in his legs, and threw his body straight into Parity's back.
 
 His shoulder slammed into cold porcelain; blue current and white fire tore through his coat on contact.
 
@@ -220,14 +220,17 @@ From the rim above, a single voice cut through the wind:
 
 Then the boundary took him.
 
+
+
 There was no wind inside the drop. The cold left his hands, and the pain in his chest stopped. He drew a breath, and it cost him nothing.
 
-Four weeks ago, standing on the terrace with a cigarette between his fingers, Silas Blackwell had pictured time stretching through the engine's core. Now he was inside it.
+Four weeks ago, standing on the terrace with a cigarette between his fingers, he had pictured time stretching through the engine's core. Now he was inside it.
 
-Below him, the dark figure and the white one folded into each other, form and shadow collapsing back into a single point of light as the horizon reclaimed its weight.
+Below him, the dark figure and the white one folded into each other, form and shadow collapsing back into a single point of light as the horizon reclaimed it.
 
 Above him, the rim of the plaza, the figure of Elena at the edge, and the morning sky of New Veridia shrank to a narrow ring.
 
-The man who had been dying breath by breath, certain he would run out of time before his experiment finished, watched the equation solve itself from the inside.
+
+He had been certain he would run out of time before his experiment finished, But here, he watched the equation solve itself from the inside.
 
 Above his head, the ring of light narrowed to a point, and the door closed.
