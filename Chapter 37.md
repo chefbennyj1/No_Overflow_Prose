@@ -101,11 +101,11 @@ Parity's head tilted. She turned her hand over.
 
 The three dropped, their long, ordinary branches splitting into tangles of probability.
 
-Vigil went after them. She caught the agent and the man and set them on a terrace. Their branches closed back into one, long and ordinary.
+Vigil went after them. She caught the agent and the man and threw them on a terrace. Their branches closed back into one, long and ordinary.
 
 The girl was below her.
 
-She was falling backward, her coat open in the draft, small against the shear of the glass. Her hat had come off. It turned in the air above her, slower than she fell, and one of her hands was reaching up for it.
+She was falling backward, her coat open in the draft, small against the shear of the glass. Her hat had come off. It turned in the air above her, slower than she fell, and one of her hands was reaching out.
 
 Vigil reached down through the rushing air.
 
