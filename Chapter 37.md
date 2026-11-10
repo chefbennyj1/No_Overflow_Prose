@@ -113,7 +113,7 @@ Parity struck her from above.
 
 The impact carried no physical sound, only a pulse of gravitational distortion that rippled across New Veridia. The downward shockwave hammered through Vigil and pinned her in the empty air. Glass shattered outward from the surrounding towers and caught in the dilated time, spinning like crystal dust in the morning sun.
 
-The wool tore out of her fingers. Below her, the girl fell away. Her eyes were still on her hat.
+The wool tore out of her fingers. Below her, the girl fell away. Her eyes focused on Vigil.
 
 The girl's branch split. For one frame, a second branch opened.
 
@@ -179,17 +179,17 @@ Then she aimed her next strike straight down at the crowd.
 
 Below them, a knot of rioters in soot-stained coats was running for the street ramp. Vigil dove between Parity's hand and the crowd, throwing her dark form wide to take the blow.
 
-The shockwave tore through Vigil's spine, stripping ribbons of blue current from her back. Below her, the rioters kept running. She had bought them a few moments.
+The shockwave tore through Vigil's spine, stripping ribbons of blue current from her back. Below her, the rioters kept running. 
 
-Parity tilted her head, watching Vigil recover. Then, without looking down, Parity swept two fingers sideways.
+Parity tilted her head, watching Vigil recover. Then, without looking down, Parity clenched a fist.
 
-The gravity beneath the fleeing rioters inverted. Twenty people lifted off the snow at once, their arms windmilling in the cold air, and slid sideways over the lip of the gorge into the dark.
+The gravity beneath the fleeing rioters inverted, lifting them off the snow, sending them windmilling in the cold air, sideways over the lip of the gorge and into the dark.
 
-In Vigil's sight, twenty lifetimes went black at the same instant.
+In Vigil's sight, all the lifetimes ended in an instant.
 
-Parity never took her eyes off Vigil's face. Every time Vigil dropped low to shield another group behind the statues, Parity waited for her to arrive—then drove a wave of white frost across the stone beneath them. The ice caught the rioters by their boots, locking them in place, and climbed their coats to their throats before Vigil could pull them free.
+Parity never took her eyes off Vigil's face, driving waves of white frost across the stone beneath them. The ice caught the rioters, locking them in place, and climbed their coats to their throats.
 
-Each exchange drove Vigil lower. They had met at the spire. Now they fought above the heads of the dying crowd, trading blows with deafening cracks.
+Each exchange drove Vigil lower. They fought above the heads of the dying crowd, trading blows with deafening cracks.
 
 Snow stopped falling. Flakes hung motionless above the heads of the rioters, then reversed, drifting toward the clouds. Across the skyline, digital clocks skipped forward in time, then spun backward into error codes. 
 
