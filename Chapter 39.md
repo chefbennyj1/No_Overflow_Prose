@@ -174,7 +174,7 @@ He didn't wait for her to finish. He planted a hand on the frost and pushed hims
 
 He scrambled down into the bowl of stone. Below the lip of the plaza, the upward roar of the anti-star whipped the hem of his lab coat around his legs. Grit tore loose from under his shoes and vanished into the gorge.
 
-At the bottom of the crater, Vigil had been forced down to both knees, her dark hands slipping down Parity's forearms as the last hairline crack sealed across Parity's porcelain face. As Blackwell's shoes scraped the granite behind them, Vigil's dimming eyes shifted toward him. She didn't tell him to stop.
+At the bottom of the crater, Vigil had been forced down to both knees, her dark hands slipping down Parity's forearms as the last hairline crack sealed across Parity's porcelain face. As Blackwell's shoes scraped the granite behind them, Vigil's dimming eyes shifted toward him. 
 
 Parity's two black eyes never moved. Even an arm's length from her newly healed face, he was a blank spot in her universe. Her eyes were on Vigil. She didn't know he was there.
 
@@ -185,9 +185,6 @@ Before he reached them, Blackwell spoke once, quiet enough that the wind barely 
 He lowered his shoulder, drove off the stone with the last strength in his legs, and threw his body straight into Parity's back.
 
 His shoulder slammed into cold porcelain; blue current and white fire tore through his coat on contact.
-
-*She was the form. Vigil was her shadow. You cannot banish one without the other.*
-
 Parity's heels tore loose from the granite, snapping the stream of light from the core. Both of her black eyes whipped toward him at the instant of impact—registering him a breath too late, as Vigil locked her arms around Parity's waist and the three of them plunged over the edge together.
 
 From the rim above, a single voice cut through the wind:
@@ -196,9 +193,7 @@ From the rim above, a single voice cut through the wind:
 
 Then the boundary took him.
 
-
-
-There was no wind inside the drop. The cold left his hands, and the pain in his chest stopped. He drew a breath, and it cost him nothing.
+There was no wind inside the drop. The cold left his hands, and the pain in his chest stopped. He drew a breath, and he felt nothing.
 
 Four weeks ago, standing on the terrace with a cigarette between his fingers, he had pictured time stretching through the engine's core. Now he was inside it.
 
