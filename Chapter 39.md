@@ -160,9 +160,9 @@ He didn't wait for her to finish. He planted a hand on the frost and pushed hims
 
 He scrambled down into the bowl of stone. Below the lip of the plaza, the upward roar of the anti-star whipped the hem of his lab coat around his legs. Grit tore loose from under his shoes and vanished into the gorge.
 
-At the bottom of the crater, Vigil had been forced down to both knees, her dark hands slipping down Parity's forearms as the last hairline crack sealed across Parity's porcelain face. As Blackwell's shoes scraped the granite behind them, Vigil's dimming eyes shifted toward him. 
+At the bottom of the crater, Vigil had been forced down to both knees, her dark hands slipping down Parity's forearms. As Blackwell's shoes scraped the granite behind them, Vigil's dimming eyes shifted toward him. 
 
-Parity's two black eyes never moved. Even an arm's length from her newly healed face, he was a blank spot in her universe. Her eyes were on Vigil. She didn't know he was there.
+Parity's two black eyes never moved. Even an arm's length from her, he was a blank spot in her universe. Her eyes were on Vigil. She didn't know he was there.
 
 Before he reached them, Blackwell spoke once, quiet enough that the wind barely carried it back up the edge of the crater:
 
