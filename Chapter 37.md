@@ -121,7 +121,7 @@ Impact probability ran down her sight in red figures. The probability of preserv
 
 Vigil forced herself downward at an increased velocity. 
 
-"No!" The sound wrenched out of her into the open air.
+"No!" The sound wretched out of her into the open air.
 
 The girl hit the ground. 
 
