@@ -123,7 +123,7 @@ The wool tore out of her fingers. Below her, the girl fell away. Her eyes were s
 
 "Reach for her!" Echo cried out. Her voice broke across the link, thin.
 
-Vigil increased her downward velocity. 
+Vigil forced herself downward at an increased velocity. 
 
 "No!" The sound wrenched out of her into the open air.
 
