@@ -146,9 +146,7 @@ He hadn't built a god that accidentally cast a monster's shadow. The monster had
 
 The shadow was the only thing fighting to save them.
 
-*By definition, a shadow cannot exist without the object casting it.* He had told her that himself, through the containment field.
-
-The door should never have been opened. And only one variable in the plaza remained invisible to the ancient mind rebuilding herself at the brink.
+The door should never have been opened. And only one variable in the plaza remained invisible to the ancient mind at the brink.
 
 Blackwell reached up with one hand, pulled off his circular dark glasses, and dropped them into the snow. The morning sun washed over him.
 
