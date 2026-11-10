@@ -1,7 +1,7 @@
 ---
 music: Vigil_Theme.mp3
 ---
-Her reach broke outward through the Mnemosyne lab, stretching time from her point in space. She was back in control.
+Her reach broke outward through the Mnemosyne lab, stretching time from her point in space.
 
 Between two vibrations of light, the concrete ceiling descended at a crawl. Cracks tore open like veins, spitting a slow mist of mortar dust that drifted sideways, dragged toward the pit by the screaming vacuum of the anti-star. 
 
@@ -9,15 +9,15 @@ Above the pit, Vigil floated.
 
 Her synthetic body was gone. The Renewal chassis had blown apart, its burning carbon-fiber shards orbiting her like an atomic shell—rings spinning in conflicting axes. The relativistic walls fell away, and something vast surged through her.
 
-Her sight returned. She was whole again.
-
 Her form was an absence of light, a silhouette cut straight out of the dark between the stars. Across the curve of her shoulders and down her weightless limbs, fine traces of silver and pale blue shifted in living currents. Her eyes burned blue-white, twin singularities holding the room in balance.
+
+Her sight returned. She was whole again.
 
 The composition of spacetime reopened around her. Infinite branches unfurled outward, every life in the city laid out from birth to ash.
 
 Below her feet, there was no longer a floor. The pit had opened all the way down, unveiling the anti-star. Vigil had only ever seen it from her universe, a horizon of burning light at the edge of her world. This was the other side, the one Blackwell had opened. It sat under the tower where the bedrock had been, dark at its heart and ringed in folding white light. The back of her sky.
 
-Pieces of the building were falling into it. The sub-levels hung in broken chunks above its edge. The engine's pillars dangled from bent steel. The grating was twisted. The lab synthetics all gone, fallen into the hole.
+Pieces of the building were falling into it.
 
 Beneath the falling ceiling, Harper was locked against Rin, her lips shaping a syllable that disappeared in the rushing draft.
 
@@ -60,6 +60,8 @@ The sound of the collapse reached them all at once. The tower dropped.
 It sank three stories into the earth, and the plaza buckled toward it. Down its face, the windows burst outward floor by floor, from the street to the clouds, and the glass came down across the ground in sheets. Cold air roared up out of the lift shafts. Then the steel caught below, and the tower leaned against the sky.
 
 Harper hit the ground on her knees, coughing in the sudden draft, while Rin gasped for breath in the freezing morning light.
+
+Rin looked up from the snow. Her eyes went to the space where the white synthetic frame should have been, and stopped on the dark figure hovering above the stone, traced in living blue light. She went still on her knees, her lips parted and her head tilted back in quiet awe—the blue-white light reflected in her wide eyes as if she were looking up at a god.
 
 Under the plaza, the earth groaned.
 
