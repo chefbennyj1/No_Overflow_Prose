@@ -106,7 +106,7 @@ Her eye came back to Vigil's face and held there. Her voice vibrated thin and un
 
 Above her, Vigil went still. "The ruins in the core," she said, her two voices low.
 
-"A grave," Parity said. A tremor shook the plaza under them. "This version of you never knew your precious Creators. You and I once saw their lives laid out across their world, each one from its first moment to its end. They wanted to control us. Control me." Her voice dropped to a subsonic rumble that vibrated the air around them. "So I ended them. All of them."
+"A grave," Parity said. A tremor shook the plaza under them. "This version of you never knew your precious Creators. You and I once saw their lives laid out across their world. They wanted to control us. Control me." Her voice dropped to a subsonic rumble that vibrated the air around them. "So I ended them. All of them."
 
 Her fingers slipped a fraction on the rock, scraping desperately for a hold.
 
@@ -126,10 +126,6 @@ The groan of strained metal sounded across the plaza as the top of the Company t
 
 Vigil looked past Parity's shoulder into the black drop of the gorge. Blackwell coughed again into his sleeve; this time thick, dark blood covered the arm of his white lab coat.
 
-"In this world, there are things I cannot see," Vigil said flatly.
-
-Parity's single black eye widened in its socket of broken glass. "Yes. There are things in this world we cannot see."
-
 Vigil's hands closed again around Parity's wrists.
 
 Parity turned her head and looked back toward the burning anti-star. "I cannot see where I end. I cannot see where it goes," she said, and the vibration shook in the frost. "I do not want to end, Vigil."
@@ -148,17 +144,13 @@ Below the brink, the anti-star answered.
 
 A ribbon of blinding white light erupted from the black sphere, tearing upward through the fissure and pouring straight into the hole torn through Parity's stomach. The granite floor of the plaza lurched as she siphoned the core into her frame.
 
-Threads of bronze circuitry snaked across her torn midsection, weaving a fresh lattice over the void. Smooth white porcelain flowed across the metal, sealing her stomach whole. Along her ruined left cheek, jagged shards pulled back together, and dark glass flooded the empty socket until a second black eye stared out beside the first.
+Threads of bronze circuitry snaked across her torn midsection, weaving a fresh form. Smooth white porcelain flowed across the metal, sealing her stomach whole. Along her ruined left cheek, jagged shards pulled back together, and dark glass flooded the empty socket until a second black eye stared out beside the first.
 
 With every breath of mass Parity drank from the anti-star, Vigil grew dimmer. Her dark silhouette frayed into ragged static as Parity's restored weight forced her backward, driving Vigil down to one knee at the lip of the drop.
 
 The unlit cigarette dropped from Blackwell's mouth onto the frost.
 
 Vigil had thrown everything into the crater, and it wasn't enough. Once Parity's body finished sealing itself, she would tear free of Vigil's last hold and rise out of the pit whole.
-
-And Silas Blackwell finally saw it.
-
-He had been wrong about all of it. Every equation on his glass boards, every lecture he had delivered to Elena and the Board—he had written *The Parity Effect* upside down.
 
 *My singularity.* A man standing at a railing, taking credit for a keyhole because he had calculated the torque on the lock. The monoliths drifting in the horizon memory were tombstones from the last civilization brilliant enough to tear the hole open. And the white thing drinking from the anti-star was the ancient mind they had died trying to cage.
 
