@@ -26,8 +26,6 @@ The girl in the prison orange couldn't take her welling eyes off him. Her lips m
 
 "Detective Graves..."
 
-A convict grieving a policeman. Even in the ruin of the plaza, the sight was strange.
-
 Beside Blackwell, Elena looked down at the blood on the snow under his chin.
 
 "Silas," she said. She reached out and touched the side of his head.
@@ -46,7 +44,7 @@ She rose and marched across the snow straight at him. The blue-haired woman reac
 
 Blackwell didn't flinch or raise an arm.
 
-Elena's prosthetic hand shot across his chest and caught the girl's fist in mid-air. The titanium joints locked around her knuckles with a sharp snap, stopping the blow a breath from his face.
+Elena's prosthetic hand shot across his chest and caught the girl's fist in mid-air. The titanium joints locked around her knuckles with a sharp snap, stopping the blow before his face.
 
 The girl strained against the grip, her chest heaving in the bitter air, until the woman in the leather jacket grabbed her by the shoulders and hauled her back a step. Elena lowered the girl's arm and let go.
 
