@@ -12,7 +12,7 @@ Rin lunged forward and grabbed the Elena by the shoulder of her coat, while Harp
 
 Behind their heels, the granite floor gave way.
 
-The entire lip of the crater—the torn synthetic limbs and Blackwell's dark glasses lying in the snow—sheared off the bedrock in a single slab. It did not fall. It folded inward, drawn down into a blinding pinhole of white light at the bottom of the gorge.
+The entire lip of the crater—the torn synthetic limbs and Blackwell's dark glasses lying in the snow—sheared off the bedrock in a single slab. It folded inward, drawn down into a blinding pinhole of white light at the bottom of the gorge.
 
 They threw themselves behind the stone pedestal of the nearest statue.
 
