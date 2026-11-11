@@ -18,21 +18,21 @@ They threw themselves behind the stone pedestal of the nearest statue.
 
 The pinhole snapped shut.
 
-For a breath, there was no sound at all.
+For a moment, there was no sound at all.
 
-Then the air of the city rushed back in to fill the empty space. The thunderclap slammed across the plaza, rattling Rin's teeth in her jaw and knocking all four of them flat against the frost. Snow and grit blasted over the top of the pedestal in a warm wave as the unnatural cold vanished from the street.
+Then the air of the city rushed back in to fill the empty space. The thunderclap slammed across the plaza, rattling Rin's teeth in her jaw. Snow and grit blasted over the top of the pedestal in a warm wave as the unnatural cold vanished from the street.
 
-The vibration that had lived under Rin's boots since the sublevels went dead.
+The vibration that Rin had felt under her boots since the sublevels went dead.
 
-Silence settled over the plaza.
+Calm settled over the plaza. A cool wind howled though the silence.
 
-Rin pushed herself up on her palms. Her ears were ringing. Beside her, Harper was already on one knee, one hand braced against the statue's base and the other gripping Rin's shoulder. Iris sat against the stone, shoving her broken glasses up the bridge of her nose with trembling fingers.
+Rin pushed herself up on her feet. Her ears were ringing. Beside her, Harper was already on one knee, one hand braced against the statue's base and the other gripping Rin's shoulder. Iris sat against the stone, shoving her broken glasses up the bridge of her nose with trembling fingers.
 
-Elena got to her feet first. She didn't brush the snow from her knees. She walked past the statue toward the place where the rim had been.
+Elena got to her feet. She didn't brush the snow from her knees. She walked past the statue toward the place where the rim had been.
 
 Rin stood, Harper's hand still on her arm, and followed her to the new edge.
 
-The plaza ended twenty paces closer to the statues now, sheared off in a fresh cliff of gray granite.
+The plaza sheared off in a fresh cliff of gray granite.
 
 Down in the gorge, the black sphere was gone.
 
@@ -42,19 +42,17 @@ Above the chasm, the eighty-story Takeda-Holden tower leaned at a permanent tilt
 
 Rin looked past the broken edge of the upper tier, out toward the lower city.
 
-The fault line had torn all the way through the retaining wall into the Dead Circuits. For blocks on either side of the gorge, the old tenements of Oshima had caved inward toward the fissure. Two sky-bridges hung by their cables over the drop, swaying in the smoke. Across the lower skyline, every Company billboard and transit screen had gone black. Columns of dark smoke rose from the district substations into the pale morning sun.
+The fault line had torn all the way through the retaining wall into the Dead Circuits. For blocks on either side of the gorge, the old tenements of Oshima had caved inward toward the fissure. Two sky-bridges hung by their cables over the drop, swaying in the smoke. Across the lower skyline, every Company billboard and transit screen had gone black. Columns of dark smoke rose from the district into the light morning sun.
 
 Behind them on the plaza, nothing moved.
 
-Hundreds of white synthetics stood frozen along the tower steps and among the broken barricades, their blue serials dark. Without the Madame or Vigil on the network, they were only plastic and carbon fiber waiting in the snow.
+Hundreds of lifeless synthetics stood frozen along the tower steps and among the broken barricades, their blue serials dark. 
 
-Rin's eyes went past them, to the overturned cruiser.
+Rin looked  past them, to the Madame's overturned cruiser. There her lifeless body lay in the frost where Parity had dropped her. A short distance away, the broad-shouldered detective was on his knees in the snow, holding Victor Graves against his chest with his head bowed.
 
-The Madame lay folded in the frost where the white entity had dropped her. A short distance away, the broad-shouldered detective was on his knees in the snow, holding Victor Graves against his chest with his head bowed.
+Rin tucked the jagged sidelock of her hair behind her ear, and wiped the swelling tear from her eye. She cleared her throat.
 
-Rin tucked the jagged sidelock of her hair behind her ear. Her throat felt tight.
-
-A gust of wind came up out of the chasm, carrying the smell of wet stone and smoke. Rin shivered in her thin orange prison suit, wrapping her arms around her ribs.
+A gust of wind came up out of the chasm. Rin shivered in her thin orange prison suit, wrapping her arms around her ribs.
 
 Beside her, the zipper of a jacket rasped in the quiet.
 
@@ -70,7 +68,7 @@ The gold foil stamped across the face caught the sun: *SONORA TERRITORIES*.
 
 One ticket.
 
-Four weeks ago, in the freezing rain outside a black sedan, the Madame had held that piece of paper out the window while Rin handed over the keys to Deep Storage. Everything around them—the crater at their feet and the white-haired detective lying dead in the snow—had been paid for with what was in her hand.
+The Madame had held that piece of paper out the window while Rin handed over the keys to Deep Storage. Everything around them—the crater at their feet and the white-haired detective lying dead in the snow—had been paid for with what was in her hand.
 
 Harper looked down at the ticket between Rin's fingers. Her hand rose toward her collarbone, stopped halfway, and dropped back to her side.
 
@@ -80,8 +78,8 @@ Rin looked once more across the plaza toward Victor Graves, then turned back to 
 
 She stepped to the sheared edge of the granite and opened her hand.
 
-The updraft rising out of the pit caught the ticket. It lifted once in the cold air, turned over in the sunlight, and drifted out over the gorge, falling into the rising steam until the dark swallowed it.
+The updraft rising out of the pit caught the ticket. It lifted once in the cold air, turned over in the sunlight, and drifted out over the gorge, falling into the rising steam until it was lost in the depths below them.
 
-Harper didn't reach for it. She stepped up beside Rin at the cliff's edge and took her hand, lacing her fingers tight through Rin's.
+Harper stepped up beside Rin at the cliff's edge and took her hand, lacing her fingers tight through Rin's.
 
 Together with Elena and Iris, they stood at the rim of the crater and watched the smoke rise over Oshima as the sun cleared the broken tower.
