@@ -6,9 +6,9 @@ music: infiltration.mp3
   The atmosphere was bitter, and concentrated with exhaust. Despite the rain, the morning sun struggled to pierce the smog—random columns of light that moved across the wet streets. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, stained from filtering the air. Only the synthetics walked barefaced. The rain beaded off their vinyl skin, while the lit serial codes stamped beneath their eyes cut through the fog.
 
 Battered Takeda-Holden surveillance cameras clung to the steel poles of the intersections, their casings dented from thrown rocks, tracking the crowds.
-Down on the street, the Corporate security only understood normal violence run on greed or ego. Where a thief weighed the payout against the sentence. 
+The Corporate security only understood normal violence run on greed or ego. Where a thief weighed the payout against the sentence. 
 
-That wasn't the atmosphere the Circuits had these days. It was a different violence, it was desperation violence. Crimes on the streets ran on emotion and a will to survive. A desperate person didn't calculate odds or plan, and that made them far more dangerous.
+That wasn't the feeling the Circuits had these days. It was a different violence. Desperation violence. Crimes on the streets ran on emotion and a will to survive. A desperate person didn't calculate odds or plan, and that made them far more dangerous.
 
 
 Rising from the center of the old blocks was a Company office building. A temporary, security barricade had been erected on the ground floor to protect the building's lower half. The monolith structure was a pristine slab of mirrored glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
