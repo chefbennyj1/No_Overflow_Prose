@@ -6,8 +6,6 @@ Below the broken plaza, the light changed.
 
 The white ring around the black sphere pulled inward, folding back on itself as the roar from the gorge dropped an octave. Loose stone along the crater wall stopped sliding down and lifted into the air.
 
-*When that thing closes, it's taking the edge with it.*
-
 Rin lunged forward and grabbed Elena by the shoulder of her coat, while Harper caught her other arm. Together they dragged her backward. Beside them, Iris scrambled to her feet, running with them toward the row of plaza statues.
 
 Behind their heels, the granite floor gave way.
@@ -46,11 +44,11 @@ Iris came up on Elena's other side, her broken glasses in her hand. She wasn't l
 
 "It needed something to go back in," she said. "I knew that in the ambulance. I didn't say it."
 
-Elena didn't answer. At her side, the black fingers of her prosthetic hand flexed and released, the small servos clicking in the quiet.
+Elena stood closest to the drop, the sleeve of her white coat still dark with Blackwell's blood. At her side, the black fingers of her prosthetic hand flexed and released, the small servos clicking in the quiet.
 
-"It's closed," Iris said. "Elena. It's closed."
+"Four weeks," Elena said. Her voice was flat, barely carrying over the hiss of the ruptured mains below. "We spent four weeks in that room trying to shut her down. And Silas..." She trailed off, her eyes fixed on the twisted girders where the lab had been. "Until the end, he told me she was only an equation balancing itself."
 
-The fingers flexed again.
+"It's closed," Iris said quietly. "Elena. It's closed."
 
 Behind them on the plaza, nothing moved.
 
@@ -62,7 +60,13 @@ Harper let go of Rin's arm and walked back to the nearest of them. It had the fa
 
 She stopped. Nobody said it with her.
 
-She took her thumb away and came back to Rin's side.
+She took her thumb away and looked back at Elena and Iris at the edge of the drop.
+
+"She didn't have to come back to this tower," Harper said, her Sonora drawl rough from the smoke. "She knew what was waitin' for her down here, and she walked into it anyway. Whatever you people built that machine to do, she chose us."
+
+Elena didn't answer. She looked down at her synthetic hand, the dark fingers closing once against her palm before she turned her gaze back to the pit.
+
+Harper came back to Rin's side.
 
 Past them, by the overturned cruiser, the Madame lay in the frost where Parity had dropped her. A short distance away, the broad-shouldered detective was on his knees in the snow, holding Victor Graves against his chest with his head bowed.
 
