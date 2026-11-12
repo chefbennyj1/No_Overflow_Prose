@@ -6,17 +6,14 @@ music: infiltration.mp3
   The atmosphere was bitter, and concentrated with exhaust. Despite the rain, the morning sun struggled to pierce the smog—random columns of light that moved across the wet streets. Droves of people moved like a slow, dark river beneath a canopy of black umbrellas. Every human face beneath them disappeared behind overused surgical masks, stained from filtering the air. Only the synthetics walked barefaced. The rain beaded off their vinyl skin, while the lit serial codes stamped beneath their eyes cut through the fog.
 
 Battered Takeda-Holden surveillance cameras clung to the steel poles of the intersections, their casings dented from thrown rocks, tracking the crowds.
-The Corporate security only understood normal violence run on greed or ego. Where a thief weighed the payout against the sentence. 
 
-That wasn't the feeling the Circuits had these days. It was a different violence. Desperation violence. Crimes on the streets ran on emotion and a will to survive. A desperate person didn't calculate odds or plan, and that made them far more dangerous.
+Corporate security only understood normal violence, the kind run on greed or ego. A thief weighed the payout against the sentence.
 
+Nobody in the Circuits was weighing anything these days. At the corner, directly beneath a camera, a man smashed a length of pipe through the front of a ration kiosk and let it clank to the ground. His mask hung at his chin. He didn't look up, and he didn't run. He filled his coat pockets while the umbrellas parted around him and closed again, and the camera tracked him the whole way back into the crowd.
 
 Rising from the center of the old blocks was a Company office building. A temporary, security barricade had been erected on the ground floor to protect the building's lower half. The monolith structure was a pristine slab of mirrored glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
   
 Fifteen floors up, isolated from the decay and past the fried security locks of the maintenance stairwell, Rin stood in the company hallway, pulling wires from an office's magnetic lock.
-
-
-
 
 The corridor was otherwise silent. Rin had done her research; she had found the perfect floor. For whatever reason, the executive suites on floor 15 had been unattended for weeks. 
 
