@@ -25,7 +25,7 @@ He stood up and walked back out into the hall.
 
 Harlan was waiting by the degraded wooden door, his eyes resting on the fake blue flowers. He didn't ask him how the visit went. He'd stood in the hallway before.
 
-"Jackie and the kids wanted to know how Arthur's doing," Harlan said.
+"Jackie and the girls wanted to know how Arthur's doing," Harlan said.
 
 "The same."
 

@@ -71,7 +71,7 @@ Harlan was quiet for a while. The rain ticked on the roof. Somewhere to the east
 
 Victor looked at him.
 
-"Transfer. One of the towns up the coast." Harlan looked down at his hands. "Jackie and I are taking the kids. We're getting out of Oshima."
+"Transfer. One of the towns up the coast." Harlan looked down at his hands. "Jackie and I are taking the girls. We're getting out of Oshima."
 
 Victor looked back at the corner. The cruiser across the street hadn't moved.
 

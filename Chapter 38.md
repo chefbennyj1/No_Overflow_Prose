@@ -151,7 +151,7 @@ Harlan's slide locked back on an empty chamber, his tie blowing loose across his
 
 She took a step toward him.
 
-*No.* Harlan had Jackie at home packing boxes. He had the kids. He had a way out of Oshima.
+*No.* Harlan had Jackie at home packing boxes. He had the girls. He had a way out of Oshima.
 
 Victor raised the revolver. The rails woke against his palm.
 
@@ -180,6 +180,10 @@ Someone was shouting. "Vic! Victor!"
 Harlan was running toward him across the frost. Harlan was alive.
 
 Harlan's hands went over his coat for the wound. There wasn't one. There was nothing to press on. He grabbed Victor and pulled him close.
+
+"Jesus, Victor..." Harlan's voice broke. "You're being reckless."
+
+"Jackie and your girls, Frank," Victor whispered.
 
 Over Harlan's shoulder, the sun had come up clear of the towers. It was in Victor's eyes.
 
