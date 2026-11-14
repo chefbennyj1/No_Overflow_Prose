@@ -1,16 +1,16 @@
-"Silas!"
+"Iakov!"
 
-Elena Marlowe was still on her knees at the rim, reaching down into the bowl where the three of them had gone over the edge.
+Imani Marlowe was still on her knees at the rim, reaching down into the bowl where the three of them had gone over the edge.
 
 Below the broken plaza, the light changed.
 
 The white ring around the black sphere pulled inward, folding back on itself as the roar from the gorge dropped an octave. Loose stone along the crater wall stopped sliding down and lifted into the air.
 
-Rin lunged forward and grabbed Elena by the shoulder of her coat, while Harper caught her other arm. Together they dragged her backward. Beside them, Iris scrambled to her feet, running with them toward the row of plaza statues.
+Rin lunged forward and grabbed Imani by the shoulder of her coat, while Harper caught her other arm. Together they dragged her backward. Beside them, Iris scrambled to her feet, running with them toward the row of plaza statues.
 
 Behind their heels, the granite floor gave way.
 
-The entire lip of the crater—the torn synthetic limbs and Blackwell's dark glasses lying in the snow—sheared off the bedrock in a single slab. It folded inward, drawn down into a blinding pinhole of white light at the bottom of the gorge.
+The entire lip of the crater—the torn synthetic limbs and Petrova's dark glasses lying in the snow—sheared off the bedrock in a single slab. It folded inward, drawn down into a blinding pinhole of white light at the bottom of the gorge.
 
 They threw themselves behind the stone pedestal of the nearest statue.
 
@@ -26,7 +26,7 @@ Calm settled over the plaza. A cool wind moved through the silence.
 
 Rin pushed herself up on her feet. Her ears were ringing. Beside her, Harper was already on one knee, one hand braced against the statue's base and the other gripping Rin's shoulder. Iris sat against the stone, shoving her broken glasses up the bridge of her nose with trembling fingers.
 
-Elena got to her feet. She didn't brush the snow from her knees. She walked past the statue toward the place where the rim had been.
+Imani got to her feet. She didn't brush the snow from her knees. She walked past the statue toward the place where the rim had been.
 
 Rin stood, Harper's hand still on her arm, and followed her to the new edge.
 
@@ -40,15 +40,15 @@ Above the chasm, the eighty-story Takeda-Holden tower leaned at a permanent tilt
 
 The fault line had torn all the way through the retaining wall into the Dead Circuits. For blocks on either side of the gorge, the old tenements of Oshima had caved inward toward the fissure. Two sky-bridges hung by their cables over the drop, swaying in the smoke. Across the lower skyline, every Company billboard and transit screen had gone black. Columns of dark smoke rose from the district into the light morning sun.
 
-Iris came up on Elena's other side, her broken glasses in her hand. She wasn't looking at the chasm.
+Iris came up on Imani's other side, her broken glasses in her hand. She wasn't looking at the chasm.
 
 "It needed something to go back in," she said. "I knew that in the ambulance. I didn't say it."
 
-Elena stood closest to the drop, the sleeve of her white coat still dark with Blackwell's blood. At her side, the black fingers of her prosthetic hand flexed and released, the small servos clicking in the quiet.
+Imani stood closest to the drop, the sleeve of her white coat still dark with Petrova's blood. At her side, the black fingers of her prosthetic hand flexed and released, the small servos clicking in the quiet.
 
-"Four weeks," Elena said. Her voice was flat, barely carrying over the hiss of the ruptured mains below. "We spent four weeks in that room trying to shut her down. And Silas..." She trailed off, her eyes fixed on the twisted girders where the lab had been. "Until the end, he told me she was only an equation balancing itself."
+"Four weeks," Imani said. Her voice was flat, barely carrying over the hiss of the ruptured mains below. "We spent four weeks in that room trying to shut her down. And Iakov..." She trailed off, her eyes fixed on the twisted girders where the lab had been. "Until the end, he told me she was only an equation balancing itself."
 
-"It's closed," Iris said quietly. "Elena. It's closed."
+"It's closed," Iris said quietly. "Imani. It's closed."
 
 Behind them on the plaza, nothing moved.
 
@@ -60,11 +60,11 @@ Harper let go of Rin's arm and walked back to the nearest of them. It had the fa
 
 She stopped. Nobody said it with her.
 
-She took her thumb away and looked back at Elena and Iris at the edge of the drop.
+She took her thumb away and looked back at Imani and Iris at the edge of the drop.
 
 "She didn't have to come back to this tower," Harper said, her Sonora drawl rough from the smoke. "She knew what was waitin' for her down here, and she walked into it anyway. Whatever you people built that machine to do, she chose us."
 
-Elena didn't answer. She looked down at her synthetic hand, the dark fingers closing once against her palm before she turned her gaze back to the pit.
+Imani didn't answer. She looked down at her synthetic hand, the dark fingers closing once against her palm before she turned her gaze back to the pit.
 
 Harper came back to Rin's side.
 
@@ -102,4 +102,4 @@ Harper stepped up beside Rin at the cliff's edge and took her hand, lacing her f
 
 The four of them stood at the rim of the crater and watched the smoke rise over Oshima as the sun cleared the broken tower.
 
-Beside them, Elena's fingers flexed once more, and were still.
+Beside them, Imani's fingers flexed once more, and were still.

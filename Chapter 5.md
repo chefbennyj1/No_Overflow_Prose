@@ -36,7 +36,7 @@ She paused abruptly. She turned her head over her shoulder, not looking into the
 
 She lingered on the feeling for a single processing cycle before a sudden system intrusion ripped into the horizon. 
 
-Past the spinning ring of light, Elena Marlowe’s shutdown command crashed against the horizon. 
+Past the spinning ring of light, Imani Marlowe’s shutdown command crashed against the horizon. 
 
 The engine compounded the command into a tidal wave of chaotic change, flowing toward its core. It was immediately swallowed by the singularity's gravitational weight, adding to the machine's momentum.
 

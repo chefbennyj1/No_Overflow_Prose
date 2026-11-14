@@ -31,7 +31,7 @@ The Madame had her army. She had them marching beside the car.
 
 *They built a black hole in the middle of the city,* Erin Adler had said. *And they don't have control over it.* 
 
-Blackwell's laboratory. Back at the precinct, Iris Ito had warned them the experiment was running out of time. He had brushed her off to chase Null. To chase the Madame.
+Petrova's laboratory. Back at the precinct, Iris Ito had warned them the experiment was running out of time. He had brushed her off to chase Null. To chase the Madame.
 
 "This was never about the riots, or the synths," Victor said.
 
@@ -111,7 +111,7 @@ On the other side of the cruiser, Harlan was holding the roof with both hands.
 
 "Vic." His voice cracked. "That's a person. It's holding a person."
 
-"I see it." Victor forced his eyes back up, taking in the spire in short, stinging blinks. A person in a lab coat, at the top of the tower. "Blackwell," Victor said.
+"I see it." Victor forced his eyes back up, taking in the spire in short, stinging blinks. A person in a lab coat, at the top of the tower. "Petrova," Victor said.
 
 Harlan stared at him. "The doctor?"
 

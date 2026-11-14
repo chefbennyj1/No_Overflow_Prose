@@ -5,7 +5,7 @@ Iris hurried the detectives past the turnstiles, her white lab coat billowing ov
 
 Iris couldn't stop analyzing the man in the trench coat. He was striking— the way his white hair and pale skin looked against the sunlight in the atrium. He lacked the clean cut style of New Veridia's elite, and he moved with a measured stride. 
 
-She risked a glance back toward the atrium. The suspended walkway was empty. Blackwell hadn't followed them, but he had figured out she knew the shadow process existed, and what it was.
+She risked a glance back toward the atrium. The suspended walkway was empty. Petrova hadn't followed them, but he had figured out she knew the shadow process existed, and what it was.
 
 "I am Detective Victor Graves, and this is my partner Officer Frank Harlan." His voice was low, his eyes tracking the security cameras overhead. "Who are you? And who was the suit on the walkway?" 
 
@@ -13,9 +13,9 @@ She risked a glance back toward the atrium. The suspended walkway was empty. Bla
 
 Her proud, rapid-fire explanation trailed off. Both men were staring at her with blank confusion. 
 
-Iris swallowed hard, forcing herself to get to the point. "That was Doctor Silas Blackwell."
+Iris swallowed hard, forcing herself to get to the point. "That was Doctor Iakov Petrova."
 
-"That was Blackwell?" Victor started back toward the atrium.
+"That was Petrova?" Victor started back toward the atrium.
 
 "I'm afraid you're too late, Detective," Iris called after him. Victor stopped and turned to face her.
 

@@ -10,9 +10,9 @@ Harlan's dark hand locked around the door handle. "You know driving doesn't have
 
 Victor didn't slow down.
 
-"So, you think this Blackwell is gonna talk to us?" Harlan asked, bracing against the dash as the car swung hard around a corner. 
+"So, you think this Petrova is gonna talk to us?" Harlan asked, bracing against the dash as the car swung hard around a corner. 
 
-Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "Blackwell. I need to know what he knows."
+Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "Petrova. I need to know what he knows."
  Victor banked onto the elevated approach feeding into the Towers. 
 
 The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Breaking through the oppressive smog layer of the lower city, the windshield was instantly washed in the blinding light of the morning sun—glaring off the glass skyscrapers. Beside the highway, the seamless streak of alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. 
@@ -47,7 +47,7 @@ One floor up, Iris stood on a suspended walkway in the forty-story atrium. Monol
 
 She leaned over the railing, watching the workers move through the tall tinted glass doors of the New Veridia entrance below. It helped her think. 
 
-She couldn't shake the feeling she was unwittingly part of something horrendous. She had been inside Blackwell's office. She had read his thesis on the 'Parity effect'. Something sinister was in the machine's core. Not programmed. *Grown*. 
+She couldn't shake the feeling she was unwittingly part of something horrendous. She had been inside Petrova's office. She had read his thesis on the 'Parity effect'. Something sinister was in the machine's core. Not programmed. *Grown*. 
 
 Then, the heavy glass doors of the main entrance opened. 
 
@@ -65,9 +65,9 @@ They were her only chance.
 
 Iris turned and walked quickly toward the executive elevator. As the doors began to close, a voice spoke after her, calmly from the walkway. 
 
-"I believe we need to have a conversation, Miss Ito." It was a distinct voice Iris knew all too well. Blackwell.
+"I believe we need to have a conversation, Miss Ito." It was a distinct voice Iris knew all too well. Petrova.
 
-Silas Blackwell stood on the walkway as the elevator doors closed.
+Iakov Petrova stood on the walkway as the elevator doors closed.
 
 ***
 
@@ -79,17 +79,17 @@ Harlan shot a sideways glance at Victor, nervously eyeing the armored Renewal ag
 
 Victor tapped his silver shield where it lay flat on the desk.
 
-"We're here to speak with Doctor Silas Blackwell," Victor said. His voice was hard, carrying none of the machine's programmed warmth. "We have reason to believe he has information relevant to an ongoing investigation."
+"We're here to speak with Doctor Iakov Petrova," Victor said. His voice was hard, carrying none of the machine's programmed warmth. "We have reason to believe he has information relevant to an ongoing investigation."
 
-The synthetic's expression didn't waver. "Doctor Blackwell? I'm sorry... there's no one by that name on the current employee registry."
+The synthetic's expression didn't waver. "Doctor Petrova? I'm sorry... there's no one by that name on the current employee registry."
 
-"Nice try, Logic-Gate. Your script is showing," Victor interrupted, leaning over the desk. "We have corporate terminal records. Blackwell's name—" Victor looked to the synthetic with a sly smile, "—all over them."
+"Nice try, Logic-Gate. Your script is showing," Victor interrupted, leaning over the desk. "We have corporate terminal recordI. Petrova's name—" Victor looked to the synthetic with a sly smile, "—all over them."
 
 "Jesus, Victor," Harlan nervously eyed the armed guards by the turnstiles. "Don't antagonize the synthetic."
 
-"I'm not playing games," Victor said. "Where's Blackwell? I know he's got a lab in this building, and an office downtown. Page him."
+"I'm not playing games," Victor said. "Where's Petrova? I know he's got a lab in this building, and an office downtown. Page him."
 
-The synthetic stared at him, processing. "Terminal logs? I see... there have been errors in our redaction department." Its eyes flashed. "Detective, there is a Doctor Blackwell on staff. However, Doctor Blackwell doesn't take personal meetings."
+The synthetic stared at him, processing. "Terminal logs? I see... there have been errors in our redaction department." Its eyes flashed. "Detective, there is a Doctor Petrova on staff. However, Doctor Petrova doesn't take personal meetings."
 
 "Save it, Canner."
 

@@ -1,5 +1,7 @@
 # NO OVERFLOW - Lore Bible
 
+> **Canon update (14 Nov 2026):** Doctor **Silas Blackwell** has been renamed to **Doctor Iakov Petrova** (`I. Petrova`) and **Elena Marlowe** has been renamed to **Imani Marlowe** across the entire manuscript (Chapters 1–40). Historical notes below still reference "Silas" / "Blackwell" and "Elena."
+
 ## 1. The History of Synthetic Intelligence (The Swarm Era)
 * **The Architect:** Elena Marlowe spent her early career drafting the core architecture, neural matrices, and artificial "minds" that animated the previous generation of synthetics/androids.
 * **The Swarms:** Before Blackwell's Engine, AI didn't rely on a single overarching consciousness. They deployed swarms—millions of micro-agents flooding the architecture across thousands of iterative runs. They collided and overlapped to form unintentional, sprawling digital ecologies.

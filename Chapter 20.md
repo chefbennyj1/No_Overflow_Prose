@@ -29,7 +29,7 @@ Rin crouched down among the plastic-draped synthetics, pulling Harper and Vigil 
 
 Harper gripped Rin's arm in the dark, her voice a tight whisper. "Rin, what is it?"
 
-Rin swallowed hard, staring at the approaching beams of light. "There's something I forgot to tell you about the night I hacked Blackwell's office."
+Rin swallowed hard, staring at the approaching beams of light. "There's something I forgot to tell you about the night I hacked Petrova's office."
 
 Harper glared at her, unimpressed. "Yeah. And?"
 

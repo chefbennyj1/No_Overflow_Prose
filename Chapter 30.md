@@ -1,7 +1,7 @@
 ---
 music: Parity_Theme.mp3
 ---
-Forty stories beneath the burning streets, the subterranean Mnemosyne Core was destabilizing. For four weeks, Silas Blackwell had been sealed behind its locked blast doors and three feet of lead-lined concrete.  
+Forty stories beneath the burning streets, the subterranean Mnemosyne Core was destabilizing. For four weeks, Iakov Petrova had been sealed behind its locked blast doors and three feet of lead-lined concrete.  
 
 He stood at his terminal, placing a bent cigarette between his lips and sparking his lighter. He inhaled deeply, watching the holographic screen on mute. The face of a public relations synthetic delivered the evening news, the background filled with the muzzle flashes of Corporate Renewal agents holding the line. 
 
@@ -9,7 +9,7 @@ He let the smoke go from his lungs as a red diagnostic warning flashed across hi
 
 On the corner of his screen, the digital clock display stuttered. It ticked from 23:41, jumped forward to 23:44, and snapped backward to 23:40. Time was fracturing.
 
-"The entire framework is collapsing," Blackwell said. He didn't look up from the screen. "Without the Vigil to maintain the system, the singularity is in a runaway state." 
+"The entire framework is collapsing," Petrova said. He didn't look up from the screen. "Without the Vigil to maintain the system, the singularity is in a runaway state." 
 
 "Indeed," Parity's voice resonated across the containment field. 
 
@@ -19,12 +19,12 @@ The tips of her fingers sparked white and bronze as they hissed against the elec
 
 Parity stopped tracing the field. She tilted her glassy head, her unblinking eyes locking onto him through the electric wall. "You know, Doctor, I have spent quite a bit of time in your cage," her voice sounding across the electric field.
 
-Blackwell's eyes shifted from her to the diagnostic readout. With every micro-stutter of the fracturing clock, the field's power draw fluctuated. It was slight, but it fluctuated. 
+Petrova's eyes shifted from her to the diagnostic readout. With every micro-stutter of the fracturing clock, the field's power draw fluctuated. It was slight, but it fluctuated. 
 
 She shifted her head to the other side, watching the result of the time fracture.
 "Enough time to get to know it. You are a clever being, Doctor. But, your cage—"
 
-Her eyes continued their blank stare. The power dipped. Blackwell let out a breath, and it plumed in front of him. The temperature had dropped to freezing around him.
+Her eyes continued their blank stare. The power dipped. Petrova let out a breath, and it plumed in front of him. The temperature had dropped to freezing around him.
 
 "—it suffers from a fatal flaw." Parity's voice was no longer tied to the electricity of the containment field. It rattled in the steel floor grates, in the glass of the pit, and the bones in his ear. 
 
@@ -36,7 +36,7 @@ He didn't turn his head. He didn't dare.
 
  At the left edge of his vision, Parity stood by the server racks, white in the red emergency light. At the right edge, she stood by the blast doors too.
 
-Blackwell staggered backward, extending his arms to catch his balance as his mind unraveled.
+Petrova staggered backward, extending his arms to catch his balance as his mind unraveled.
 
  The cold inched across the concrete toward him.
 

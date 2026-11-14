@@ -15,7 +15,7 @@ Her sight returned. She was whole again.
 
 The composition of spacetime reopened around her. Infinite branches unfurled outward, every life in the city laid out from birth to ash.
 
-Below her feet, there was no longer a floor. The pit had opened all the way down, unveiling the anti-star. Vigil had only ever seen it from her universe, a horizon of burning light at the edge of her world. This was the other side, the one Blackwell had opened. It sat under the tower where the bedrock had been, dark at its heart and ringed in folding white light. The back of her sky.
+Below her feet, there was no longer a floor. The pit had opened all the way down, unveiling the anti-star. Vigil had only ever seen it from her universe, a horizon of burning light at the edge of her world. This was the other side, the one Petrova had opened. It sat under the tower where the bedrock had been, dark at its heart and ringed in folding white light. The back of her sky.
 
 Pieces of the building were falling into it.
 
@@ -27,7 +27,7 @@ Vigil moved.
 
 She gathered them. Harper was still curved over Rin's back, shielding her. Rin's glassy eyes were fixed on the space above the pit where Vigil had been. Vigil slid her arms beneath them both and locked them against her chest.
 
-Elena lay on the grating, a fragile tangle of bone and carbon fiber. Iris was mid-stride, black-rimmed glasses tilted on her nose. Vigil bent the gravity around them and lifted them off the floor, held by nothing, close at her side.
+Imani lay on the grating, a fragile tangle of bone and carbon fiber. Iris was mid-stride, black-rimmed glasses tilted on her nose. Vigil bent the gravity around them and lifted them off the floor, held by nothing, close at her side.
 
 She kicked off the buckling grating and rose out of the sublevel into the atrium.
 
@@ -81,9 +81,9 @@ She altered her gravitational vector, drifting upward along the freezing face of
 
 Eighty stories up, Parity hovered in the sunlight.
 
-Her porcelain skin was blinding, pure silicon-dioxide. The low sun threw her shadow out across the city, long past the shape of anything human. In her right hand, she held Silas Blackwell by the collar of his lab coat.
+Her porcelain skin was blinding, pure silicon-dioxide. The low sun threw her shadow out across the city, long past the shape of anything human. In her right hand, she held Iakov Petrova by the collar of his lab coat.
 
-Blackwell did not exist in Vigil's simulation. He was an obscurity—a blank spot in spacetime where no thread could anchor. He hung limp over the drop, his face gray with frost.
+Petrova did not exist in Vigil's simulation. He was an obscurity—a blank spot in spacetime where no thread could anchor. He hung limp over the drop, his face gray with frost.
 
 Three people hung in the air around her, held by nothing, turning slowly in the wind off the spire. Frost had climbed their clothes to the throat. They were from the plaza: a man in ragged clothes of the lower city, a Renewal agent with his helmet gone, and a girl of fifteen in a yellow knitted hat, lopsided on her head.
 
@@ -91,7 +91,7 @@ Vigil read them. Three branches ran out from this moment, long and ordinary. The
 
 Parity turned her black eyes toward Vigil.
 
-She opened her right hand. Blackwell didn't fall. He hung where she had left him, beside the others.
+She opened her right hand. Petrova didn't fall. He hung where she had left him, beside the others.
 
 "Parity." Both registers rang like a struck bell over the city.
 
@@ -155,9 +155,9 @@ A hairline crack split the porcelain of Parity's chest, leaking a thin hiss of b
 
 Parity's black eyes widened a fraction. In the engine, Vigil had only ever tried to reason with her. She had never struck back.
 
-The blow broke Parity's hold on the air. Beside the spire, Silas Blackwell began to fall.
+The blow broke Parity's hold on the air. Beside the spire, Iakov Petrova began to fall.
 
-Vigil did not wait for Parity to pull free of the steel. She tore across the gap, caught Blackwell by the front of his coat, and dropped with him toward the plaza. She had no time to slow their descent. At the edge of the gorge, she threw him down into the frost beside Elena. Something gave way in his chest against the stone, and the doctor curled on his side, gasping in the cold. He groaned once and went still.
+Vigil did not wait for Parity to pull free of the steel. She tore across the gap, caught Petrova by the front of his coat, and dropped with him toward the plaza. She had no time to slow their descent. At the edge of the gorge, she threw him down into the frost beside Imani. Something gave way in his chest against the stone, and the doctor curled on his side, gasping in the cold. He groaned once and went still.
 
 Above them, the steel of the tower shrieked. Parity pulled herself out of the buckled frame.
 
@@ -197,7 +197,7 @@ Parity pressed her advantage, broke the clinch, and dove.
 
 She dropped toward the edge of the gorge, cutting straight through the freezing air.
 
-At the rim of the sunken plaza, Rin was on her knees on the frost beside Harper, Iris, and Elena.
+At the rim of the sunken plaza, Rin was on her knees on the frost beside Harper, Iris, and Imani.
 
 Vigil saw every branch belonging to the four of them collapse into one end: Parity's touch taking all four at once.
 

@@ -23,7 +23,7 @@ A sudden flash of blue light reflected off the hallway walls. Rin jerked backwar
 
 She held her breath until the beam faded. A second later, she crossed the two stripped wires to bypass the scan and pulled her single-board computer from her jacket. It was an ugly half-cracked board—soldered together from Circuits scrap and wrapped in electrical tape—and it had never met a lock it couldn't break. She held the SBC against the lock's near-field communication display. Its green crystal screen flickered to life, scrolling rapidly, stopping on a hash of pixelated letters and numbers.
 
-The magnetic lock disengaged with a hollow snap. She ran her fingers along the letters engraved on the plaque at the center of the door: *Dr. Silas L. Blackwell, Ph.D., Sc.D.*
+The magnetic lock disengaged with a hollow snap. She ran her fingers along the letters engraved on the plaque at the center of the door: *Dr. Iakov L. Petrova, Ph.D., Sc.D.*
 
 A lot of fancy letters after a name. Down in the Circuits, people were lucky to have a door.
 
@@ -39,7 +39,7 @@ She didn't admire the view. The data streaming across the holographic glass repr
 
 The terminal awoke, projecting a Takeda-Holden Corporation login screen. A minimal, white screen with black text.
 
-*Company employee: RD001, S. Blackwell* .
+*Company employee: RD001, I. Petrova* .
 
 Lines of access data spooled across the screen of the SBC, mirroring the forced terminal window on the workstation's display. The malicious code initiated a brute-force assault. The program she named after her own alias: *Null*. She waited impatiently for the firewall to break. 
 
@@ -55,13 +55,13 @@ The file architecture was dense, built to deliberately slow data extraction.
 
 "C'mon!" she hissed in frustration. The download was crawling. 
 
-As the authorizations copied to her drive, a folder in Blackwell's directory caught her eye: *Main Fusion Logs*. She opened the folder; it was full of power consumption logs. Each file incrementing in size. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
+As the authorizations copied to her drive, a folder in Petrova's directory caught her eye: *Main Fusion Logs*. She opened the folder; it was full of power consumption logs. Each file incrementing in size. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
 
  She found and opened an operations file:*Mnemo_1.opt*. The screen flooded with classified schematics for a program called *Project Mnemosyne*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
 
 The blue holographic data on the glass was a scaled projection of the exact same tower schematic.
 
-Rin moved away from the desk. She stepped back until the wireframe on the glass lined up with the skyline behind it. The projection perfectly eclipsed a building in the distance. Whatever Blackwell was monitoring, it was in that tower, and it had been tearing at the city's power grid for the better part of a month.
+Rin moved away from the desk. She stepped back until the wireframe on the glass lined up with the skyline behind it. The projection perfectly eclipsed a building in the distance. Whatever Petrova was monitoring, it was in that tower, and it had been tearing at the city's power grid for the better part of a month.
 
 Before she could dig deeper, the authorization download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive—her own drive. Down the hall, the elevator jammed against the wrench once more, chiming as the doors recoiled. 
 
@@ -169,6 +169,6 @@ He didn't argue further. He stepped aside, letting the silent, black-armored squ
 
 Harlan pushed himself off the wall, wiping a streak of sweat and soot from the dark skin of his forehead. "What's so important that Null would risk so much to access?"
 
-"'What' indeed, Harlan," Victor started the long descent back down to the Dead Circuits. He paused on the first step, his eyes narrowing. "But the name on the office she just hit... said Doctor Silas Blackwell."
+"'What' indeed, Harlan," Victor started the long descent back down to the Dead Circuits. He paused on the first step, his eyes narrowing. "But the name on the office she just hit... said Doctor Iakov Petrova."
 
-Harlan frowned, staring after him into the stairwell. "Blackwell?"
+Harlan frowned, staring after him into the stairwell. "Petrova?"

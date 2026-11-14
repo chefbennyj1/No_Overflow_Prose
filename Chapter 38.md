@@ -183,7 +183,7 @@ Harlan's hands went over his coat for the wound. There wasn't one. There was not
 
 "Jesus, Victor..." Harlan's voice broke. "You're being reckless."
 
-"Jackie and your girls, Frank," Victor whispered.
+"Frank," Victor whispered. He wanted to say more, there was so much more, but exhaustion was getting the better of him. He lifted his hand with what little of his energy he had, and patted Harlan's arm. He was a good man, perhaps it was okay he could speak.
 
 Over Harlan's shoulder, the sun had come up clear of the towers. It was in Victor's eyes.
 

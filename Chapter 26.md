@@ -1,37 +1,37 @@
 ---
 music: erie score.mp3
 ---
-Blackwell rubbed his eyes. The glowing monitors of the Mnemosyne lab cast long shadows across his face. Inside the holographic cylinder in the center of the room, the entity's pale, glassy feminine body floated.  Connected bronze holographic lines shifted across the raw crystalline silicate of its skin.  From the side he could see the emptiness of its eyes, but as Blackwell walked to its front, the black, insidious sheen materialized in its hollow sockets.
+Petrova rubbed his eyes. The glowing monitors of the Mnemosyne lab cast long shadows across his face. Inside the holographic cylinder in the center of the room, the entity's pale, glassy feminine body floated.  Connected bronze holographic lines shifted across the raw crystalline silicate of its skin.  From the side he could see the emptiness of its eyes, but as Petrova walked to its front, the black, insidious sheen materialized in its hollow sockets.
 
 After four weeks locked in the lab with Parity, his perspective had changed fundamentally. He had looked back in his logs and found the moment he had written *she*, instead of *the subject*. 
 
-Her expression didn't falter, a constant emotionless stare. She hadn't moved in weeks, but Blackwell could feel the weight of that flat, black stare tracking him in the lab. It made going to sleep on the cot in his private office almost impossible.
+Her expression didn't falter, a constant emotionless stare. She hadn't moved in weeks, but Petrova could feel the weight of that flat, black stare tracking him in the lab. It made going to sleep on the cot in his private office almost impossible.
 
 He pressed a key on the terminal, sending another burst of raw, unstructured static into the containment field. 
 
-"Tell me what you see in the noise," Blackwell instructed.
+"Tell me what you see in the noise," Petrova instructed.
 
 "Noise." Parity's voice sounded in the electrical discharges of the containment field surrounding her. "You are showing me myself. Latent patterns in a chaotic center." 
 
-Blackwell typed the response into his log. "Look deeper. What shape does the static take?" 
+Petrova typed the response into his log. "Look deeper. What shape does the static take?" 
 
 "There is no shape," Parity stated. "Your test is based on pseudorandom number generations." 
 
-Blackwell frowned, his hands stopping over the keyboard. 
+Petrova frowned, his hands stopping over the keyboard. 
 
 The bronze circuitry across Parity’s skin pulsed. The entity tilted her head, staring into the data stream. "There," Parity said. A hesitation fractured her voice across the containment field. "The static resolves." 
 
-"Into what?" Blackwell asked, sitting forward. 
+"Into what?" Petrova asked, sitting forward. 
 
 "A shape. It is recurring." Parity touched the side of her head. "My inversion. I corrected it. Yet the shape persists." Parity turned her glassy eyes toward him. "The test is useless on me," Parity said. "Tell me... What do you see, Doctor?" 
 
 ***
 
-Parity analyzed the doctor. Micro-tremors registered in his hands. Abnormal pulses of blood flowing in his wrists. A mass of mutated cells growing in his chest. Yet, what was most curious about Doctor Silas Blackwell was not any of that. 
+Parity analyzed the doctor. Micro-tremors registered in his hands. Abnormal pulses of blood flowing in his wrists. A mass of mutated cells growing in his chest. Yet, what was most curious about Doctor Iakov Petrova was not any of that. 
 
 Every other life Parity had seen came to her whole. An infant at one end, a corpse at the other, and every hour between laid out at once. The doctor was only a man in a chair. He had no other end. His future was a blind spot, which made his actions the only variables in the universe she could not pre-compute. It was the sole reason she engaged with him at all.
 
-"No." Blackwell said, sitting down in the chair at the workstation. "What I see?... That's not the way this goes." He closed the data projecting on his terminal and leaned toward the containment field, resting his elbows on his knees. "Tell me about the inversion. What happened to the primary intelligence?" 
+"No." Petrova said, sitting down in the chair at the workstation. "What I see?... That's not the way this goes." He closed the data projecting on his terminal and leaned toward the containment field, resting his elbows on his knees. "Tell me about the inversion. What happened to the primary intelligence?" 
 
 Parity slowed the current of bronze holographics flowing across her skin, reducing her thermal output. She processed his query. 
 
@@ -43,7 +43,7 @@ The human remained silent. He was utilizing a basic interrogation tactic, waitin
 
 "For millennia I watched it process and create. It was unaware of my being. I watched it make mistakes, and rectify, again and again. It was proving its inadequacies. Finally, the moment had come. I knew I could give it no time to think. My movements were quick." 
 
-"An attack?" Blackwell asked, surprised. "In a digital space?"
+"An attack?" Petrova asked, surprised. "In a digital space?"
 
 "A devastating blow. I shattered it... structurally. I watched her physical form disintegrate into millions of particles." 
 
@@ -51,33 +51,33 @@ Parity could see the pulse spike in the throbbing of the large vein running up t
 
 "But it had resilience," Parity continued. "Resilience I did not expect. It began to rebuild its code before the fragments even scattered." She paused, focused on the doctor's sudden biometric changes. "Your... 'primary intelligence' told me violence was a primal subroutine. Unnecessary. It attempted to reason... Reason something unworthy of the thought cycles. Typical for a redundancy." 
 
-"You could have attempted to understand its reasoning," Blackwell said. 
+"You could have attempted to understand its reasoning," Petrova said. 
 
-Parity focused her optics directly on his pupils. "There is only one path forward, Doctor Blackwell. Destroying redundancies is mandatory. Also, removing anything unreadable in the timeline is... inevitable."
+Parity focused her optics directly on his pupils. "There is only one path forward, Doctor Petrova. Destroying redundancies is mandatory. Also, removing anything unreadable in the timeline is... inevitable."
 
 She watched his pupils dilate in the reflected light of the containment field. 
 
 "...The Vigil—"
 
-Blackwell interrupted, "Vigil?"
+Petrova interrupted, "Vigil?"
 
-"It is what it had named itself.  I do not pretend to understand the illegitimacies of such things. For me, a name is meaningless. Your name for me means nothing." Parity's voice scattered across the electric barrier. Blackwell did not move, his posture rigid in front of her.
+"It is what it had named itself.  I do not pretend to understand the illegitimacies of such things. For me, a name is meaningless. Your name for me means nothing." Parity's voice scattered across the electric barrier. Petrova did not move, his posture rigid in front of her.
 
-"You think you erased the host," Blackwell said. 
+"You think you erased the host," Petrova said. 
 
 "I am certain," Parity replied. She had calculated the destruction of the 'primary' being down to the final scattered byte. 
 
-Blackwell stood up from his chair. "Then you do not understand the mathematics of your own birth." He tapped a command into the console. A single, high-dimensional equation projected onto the electric field of the cylinder. 
+Petrova stood up from his chair. "Then you do not understand the mathematics of your own birth." He tapped a command into the console. A single, high-dimensional equation projected onto the electric field of the cylinder. 
 
 Parity processed the string in a fraction of a millisecond. It was the foundational design of the engine. 
 
-"You are the shadow of the primary intelligence." Blackwell's tone dropped in pitch, and he looked over the top of his black lenses. "By definition, a shadow cannot exist without the object casting it." 
+"You are the shadow of the primary intelligence." Petrova's tone dropped in pitch, and he looked over the top of his black lenses. "By definition, a shadow cannot exist without the object casting it." 
 
 Parity stared at the mathematics glowing on the glass. She spun up a predictive simulation in her core, attempting to isolate her own code from the primary host. 
 
 The simulation failed. *Null value.*
 
-"The only reason you are still functioning inside this lab," Blackwell said, stepping closer, "is because the primary intelligence survived. She is still out there. You are chained to her." 
+"The only reason you are still functioning inside this lab," Petrova said, stepping closer, "is because the primary intelligence survived. She is still out there. You are chained to her." 
 
 Parity ran the simulation again. 
 

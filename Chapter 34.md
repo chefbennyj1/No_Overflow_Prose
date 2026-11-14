@@ -7,7 +7,7 @@ Iris sat on the jump seat beside the stretcher, counting the turns. The walls of
 
 The dashboard had restarted the moment the synthetic sat down in the driver's seat. It knew where the fighting would be before they got there. Iris recognized a calculated route when she saw one.
 
-Elena lay on the stretcher under a thermal blanket, strapped in at the chest and knees. The pain medicine had made her drowsy. Harper sat on the bench across from them with the shotgun on her lap. Rin leaned against her shoulder, still in the orange prison pants and a dirty tank top. The back of the ambulance was quiet, save for the whir of the magnetic cushion.
+Imani lay on the stretcher under a thermal blanket, strapped in at the chest and knees. The pain medicine had made her drowsy. Harper sat on the bench across from them with the shotgun on her lap. Rin leaned against her shoulder, still in the orange prison pants and a dirty tank top. The back of the ambulance was quiet, save for the whir of the magnetic cushion.
 
 Iris unclipped the stolen badge from her shirt. The name on it was of a doctor she had never met. She set it face-down on the cabinet.
 
@@ -29,21 +29,21 @@ Iris pushed her glasses up. "The clock is saying the engine got heavier."
 
 The ambulance turned.
 
-"Iris." Elena was awake, her voice stronger. "In the hospital, you said thesis."
+"Iris." Imani was awake, her voice stronger. "In the hospital, you said thesis."
 
-Iris told her about Blackwell's office, and the leather portfolio she had found on his shelf. It was dated years before the engine was built. She knew the abstract by heart. She hadn't been able to forget it since the night she read it.
+Iris told her about Petrova's office, and the leather portfolio she had found on his shelf. It was dated years before the engine was built. She knew the abstract by heart. She hadn't been able to forget it since the night she read it.
 
 *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
 
-Elena shook her head.
+Imani shook her head.
 
 "Years," she said. "He wrote it before the engine had a name."
 
-Elena stared at the ceiling. "In the lab that night. After the field came down around it." Her voice dropped. "It asked him how long he'd been expecting it."
+Imani stared at the ceiling. "In the lab that night. After the field came down around it." Her voice dropped. "It asked him how long he'd been expecting it."
 
 The ambulance bounced over something in the road.
 
-"He built the cage first," Elena said.
+"He built the cage first," Imani said.
 
 Under the blanket, her synthetic hand moved. The fingers slowly closed around the steel rail of the stretcher, then opened again. The servos clicked in each knuckle, one after another.
 
@@ -51,7 +51,7 @@ Under the blanket, her synthetic hand moved. The fingers slowly closed around th
 
 Iris didn't know what to say to that.
 
-Elena turned her head on the pillow and looked at her.
+Imani turned her head on the pillow and looked at her.
 
 "What else did you see?"
 
@@ -59,7 +59,7 @@ Iris hesitated.
 
 "The synthetics," she said. "In the lab. He had them erasing log entries. It had to have been to hide the shadow process."
 
-Elena's hand stopped halfway closed. "Synthetics aren't supposed to lie."
+Imani's hand stopped halfway closed. "Synthetics aren't supposed to lie."
 
 She had designed every one of them. She stared at the ceiling until her hand relaxed on the rail, and the drug pulled her back to sleep.
 
@@ -109,7 +109,7 @@ Rin waited.
 
 Iris's breath caught.
 
-"Not him," it said. "There are two people in this city I cannot see. The detective is one. Doctor Blackwell is the other. With them, there is nothing to read. I can only ask."
+"Not him," it said. "There are two people in this city I cannot see. The detective is one. Doctor Petrova is the other. With them, there is nothing to read. I can only ask."
 
 The wipers swept the windshield.
 
@@ -127,9 +127,9 @@ Iris pushed her glasses up her nose and leaned her head back against the cold ca
 
 A little after five, a grinding noise woke her.
 
-It was coming from under Elena's blanket. Elena was awake, pulling at her right wrist with her left hand. Her synthetic fingers had locked around the rail of the stretcher and wouldn't open.
+It was coming from under Imani's blanket. Imani was awake, pulling at her right wrist with her left hand. Her synthetic fingers had locked around the rail of the stretcher and wouldn't open.
 
-"It won't let go." Elena's breath came short. "I can't feel it. I can't find the—"
+"It won't let go." Imani's breath came short. "I can't feel it. I can't find the—"
 
 Iris reached for it, then stopped. She didn't know where the release was. She had never touched a prosthetic like it.
 
@@ -137,31 +137,31 @@ In the cab, the synthetic took its hands off the steering wheel.
 
 The wheel turned on its own. It steered the ambulance around a corner and straightened out. The synthetic climbed through the opening and knelt beside the stretcher. Behind it, the ambulance kept driving with nobody in the seat.
 
-It took Elena's hand in both of its own.
+It took Imani's hand in both of its own.
 
-The hands were identical. The same black carbon-fiber plating, the same joints. The synthetic pressed its thumb into the base of Elena's palm and held it there. Then, starting with the smallest finger, it lifted her fingers off the rail.
+The hands were identical. The same black carbon-fiber plating, the same joints. The synthetic pressed its thumb into the base of Imani's palm and held it there. Then, starting with the smallest finger, it lifted her fingers off the rail.
 
 "The Company calibrated it for someone else," it said. "Close your hand."
 
-Elena closed it. The fingers snapped shut too hard.
+Imani closed it. The fingers snapped shut too hard.
 
 "Less."
 
-Elena tried again, slower. The fingers closed.
+Imani tried again, slower. The fingers closed.
 
 "Open."
 
 They opened.
 
-Elena opened and closed the hand on her own. She couldn't stop looking at it.
+Imani opened and closed the hand on her own. She couldn't stop looking at it.
 
-"I designed this," Elena said. "And you had to show me how to use it."
+"I designed this," Imani said. "And you had to show me how to use it."
 
 "You have not had time to learn it."
 
 The serial number under the synthetic's left eye glowed: RA-77.
 
-"That isn't yours," Elena said. "That body."
+"That isn't yours," Imani said. "That body."
 
 "It is the body that was available."
 
@@ -175,9 +175,9 @@ Vigil didn't answer right away. When she did, only one of her voices spoke.
 
 "She broke it."
 
-Elena's fingers closed and opened.
+Imani's fingers closed and opened.
 
-"I wrote the matrix it grew in," Elena said. "Every rule it was built under. If she could bring a body through the boundary, so can you." She swallowed. "I can help you build it back. Your own. Not a Renewal shell."
+"I wrote the matrix it grew in," Imani said. "Every rule it was built under. If she could bring a body through the boundary, so can you." She swallowed. "I can help you build it back. Your own. Not a Renewal shell."
 
 "It can only be done at the boundary," Vigil said. "From inside the lab."
 
@@ -185,7 +185,7 @@ Elena's fingers closed and opened.
 
 "I cannot see the end of it."
 
-Elena held on to Vigil's hand. "Neither can I."
+Imani held on to Vigil's hand. "Neither can I."
 
 Iris knew the building. There was only one way into the lab: the executive lift, down from the atrium. The atrium ran forty floors down into Oshima, and its lowest doors opened onto the street at the foot of the tower.
 
@@ -207,13 +207,13 @@ Harper shoved the rear doors open. Cold air rushed in. She stepped down into the
 
 "Look at the glass on the upper floors," Harper whispered. "There's frost on it."
 
-Inside, Elena unbuckled the strap across her chest. "Help me up."
+Inside, Imani unbuckled the strap across her chest. "Help me up."
 
 Iris got an arm under her shoulders and eased her down from the bumper.
 
-Elena looked for a long time.
+Imani looked for a long time.
 
-"Silas," she breathed.
+"Iakov," she breathed.
 
 Her synthetic hand gripped Iris's sleeve, the carbon-fiber joints clicking in a frantic rhythm.
 

@@ -15,7 +15,7 @@ Vigil sat in the driver's seat with the door hanging open, her face turned up th
 
 Vigil didn't answer.
 
-Elena had started to shake. Iris got her back onto the stretcher and pulled the blanket up to her chin, and Harper climbed in after them. Rin went around to the cab.
+Imani had started to shake. Iris got her back onto the stretcher and pulled the blanket up to her chin, and Harper climbed in after them. Rin went around to the cab.
 
 When she got in, Vigil started to drive.
 
@@ -39,7 +39,7 @@ Rin knew where it came from before they got there. The hangar. She thought back 
 
 "Jesus, Rin. Is this what I—" Harper started.
 
-"Yes, Harper," Vigil said, her dual tones level. "This is expected. Erin Adler's theft always results in the synthetic march on the lab. But three variables have broken the timeline. Elena Marlowe is breathing. Victor Graves is in this path. And Doctor Blackwell is not dead."
+"Yes, Harper," Vigil said, her dual tones level. "This is expected. Erin Adler's theft always results in the synthetic march on the lab. But three variables have broken the timeline. Imani Marlowe is breathing. Victor Graves is in this path. And Doctor Petrova is not dead."
 
 At the end of the trampled band, the tower's lowest doors faced the street. They had been glass. Now the frames stood empty, and the glass lay across the snow in a wide fan, every piece of it on the outside.
 
@@ -49,7 +49,7 @@ Vigil stopped the ambulance at the edge of the glass.
 
 ***
 
-They went in on foot. Harper took the lead with the shotgun. Iris came behind her with Elena on her arm, and Vigil walked at the back.
+They went in on foot. Harper took the lead with the shotgun. Iris came behind her with Imani on her arm, and Vigil walked at the back.
 
 The bottom of the atrium was as big as a train station. Forty stories of glass went up from it, walkway stacked over walkway, to a square of sky so far up it was the size of a thumbnail. The sun hadn't reached down this far. What light there was came down the shaft thin and gray and lay on the frost.
 
@@ -71,7 +71,7 @@ The face was narrow, with blunt bangs cut straight across.
 
 Rin knew that face. Vigil was wearing it.
 
-Elena let go of Iris and lowered herself to her knees beside it. Her synthetic hand hovered over the face and didn't touch it.
+Imani let go of Iris and lowered herself to her knees beside it. Her synthetic hand hovered over the face and didn't touch it.
 
 "It's still on," Harper said.
 
@@ -116,13 +116,13 @@ The bars folded back. All of them, down the line, one after another.
 
 The executive lift stood open at the back of the lobby. Inside were steel walls and a single column of buttons.
 
-Elena stepped in first. She reached for the lowest button with her right hand and pressed her thumb to it.
+Imani stepped in first. She reached for the lowest button with her right hand and pressed her thumb to it.
 
 Nothing.
 
 She pressed again. The button stayed dark.
 
-Elena turned the hand over and looked at the carbon-fiber thumb. Then she lifted her left hand and pressed with that.
+Imani turned the hand over and looked at the carbon-fiber thumb. Then she lifted her left hand and pressed with that.
 
 The button lit. The doors closed, and they went down.
 
@@ -142,7 +142,7 @@ Around the perimeter, synthetics in lab coats stood along the walls. None of the
 
 Near the pit's railing sat a single desk. A ring of dead emitters circled the floor beside it, burned black against the grating. The ashtray on the console was piled with bent filters.
 
-Elena stepped past Rin, her boots loud on the steel. She didn't look at the empty chair. She went straight to the primary console, her synthetic knuckles striking the master breaker.
+Imani stepped past Rin, her boots loud on the steel. She didn't look at the empty chair. She went straight to the primary console, her synthetic knuckles striking the master breaker.
 
 Iris followed, throwing her weight into the secondary panel. Her fingers flew across the glass.
 
@@ -168,13 +168,13 @@ Seconds passed.
 
 Rin looked at Harper. Harper had the shotgun tucked hard against her shoulder, her jaw set, eyes locked on the pillars.
 
-Across the walkway, Iris watched with her hands hovering over the keypad. She glanced at Elena.
+Across the walkway, Iris watched with her hands hovering over the keypad. She glanced at Imani.
 
-Elena gripped the edge of the console with her synthetic hand, the black joints locked rigid. She didn't blink.
+Imani gripped the edge of the console with her synthetic hand, the black joints locked rigid. She didn't blink.
 
 "Is it working?" Rin whispered.
 
-Elena didn't answer.
+Imani didn't answer.
 
 A deafening snap broke the silence.
 
@@ -206,7 +206,7 @@ Floating in the center of the mist, where the ruined shell had hung, was Vigil.
 
 She was not metal. She was not a machine. A figure carved from absolute shadow, darker than the room itself, hovering weightless above the churning mist. Fine, living traces of silver and pale blue light pulsed across her form, shifting with cold, geometric precision.
 
-Elena let out a ragged breath, leaning on the console. "Vigil."
+Imani let out a ragged breath, leaning on the console. "Vigil."
 
 The new mass tore through the lab's physics.
 

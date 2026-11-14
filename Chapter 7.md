@@ -48,11 +48,11 @@ Victor leaned back in his chair, ignoring the joke. He crushed the half-smoked c
 
 Harlan's smirk vanished. "Null 'stuck around'—to shoot tear gas at my face. Remember?"
 
-Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a digital folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Silas Blackwell." 
+Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a digital folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Iakov Petrova." 
 
 A sudden commotion erupted in the room as officers dragged a group of struggling demonstrators across the floor. Victor kept his focus on the screen. 
 
-"It’s heavily redacted," Victor said, his eyes scanning the thick black lines. "Except for this: *Mnemosyne*." He waited to see if he had Harlan’s attention. His partner remained silent. "The log has a second name in the metadata," Victor continued. "Doctor Elena Marlowe."
+"It’s heavily redacted," Victor said, his eyes scanning the thick black lines. "Except for this: *Mnemosyne*." He waited to see if he had Harlan’s attention. His partner remained silent. "The log has a second name in the metadata," Victor continued. "Doctor Imani Marlowe."
 
 Harlan raised an eyebrow. "Marlowe? The cybernetics prodigy?" 
 
@@ -70,4 +70,4 @@ Victor slammed his fist against the desk, the sound cutting through the noise of
 
 The bullpen fell silent at the outburst. Victor ignored the stares, letting his temper cool as his focus narrowed. 
 
-"Time we paid Doctor Blackwell a visit."
+"Time we paid Doctor Petrova a visit."

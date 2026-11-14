@@ -29,7 +29,7 @@ Three overlapping "horizon" terms were collapsed, and the two names for the thin
 Recurring, involuntary gestures that signal a character's interior state without narrating it directly (required by the strict-POV rule). Established so far:
 - **Rin:** Tucks the jagged sidelock of her hime-cut behind her ear — a nervous tell, self-soothing/hiding.
 - **Iris:** Shoves her black-rimmed glasses up the bridge of her nose — a compulsive tic when overwhelmed or forced away from her screens.
-- **Blackwell:** The cigarette drag itself is the tell — deliberate, unhurried drags read as calculated menace/control.
+- **Petrova (formerly Blackwell):** The cigarette drag itself is the tell — deliberate, unhurried drags read as calculated menace/control.
 - **Harper:** A collarbone scar, visible above her tank top and left deliberately unhidden (established Ch. 8). *Tell:* she runs her fingers across it when a moment gets too close to something real — especially anything Rin-related. The gesture reads outwardly as intimate/self-soothing, which is the point: it looks like seduction or comfort to an observer, but it's a flinch dressed up as calm, not an invitation. *Origin:* deliberately left unstated for now — a thread to pay off later (possible corporate-collar removal, echoing the city's marked/owned synthetics and canners). *Escalation:* when something genuinely rattles her, she does *not* reach for it — hand stays flat on the desk instead. The break in her own pattern is the tell that something's really wrong.
   - Note: Harper still smokes (it's that kind of city), but the cigarette is scene texture, not her identity-tic — that role belongs to Blackwell, whose deliberate drags read as calculated control.
 

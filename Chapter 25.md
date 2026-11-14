@@ -3,7 +3,7 @@ music: Sad_Drone_1.mp3
 ---
 The blueish tinge blurred and resolved into a sterile ceiling. 
 
-The weightlessness was gone. In its place, a crushing ache radiated through Elena’s ribs. A heavy, negative-pressure respirator was strapped over her face. The rhythmic pulse of a medical monitor counted the seconds beside her. This was a physical body. This was a hospital.
+The weightlessness was gone. In its place, a crushing ache radiated through Imani’s ribs. A heavy, negative-pressure respirator was strapped over her face. The rhythmic pulse of a medical monitor counted the seconds beside her. This was a physical body. This was a hospital.
 
 Voices pulled her attention to the far side of the room. 
 
@@ -15,43 +15,43 @@ A modulated voice answered from the corridor. "Understood, Doctor. We will maint
 
 The airtight shade of the door slid shut. The moment the lock hissed into place, the figure turned around. Looking at the floor, they slumped their shoulders.
 
-A cold spike of adrenaline hit Elena's chest. 
+A cold spike of adrenaline hit Imani's chest. 
 
 The figure reached up to the neck seal, unzipped the heavy collar, and pulled the hood back to reveal a messy bun and black-rimmed glasses. 
 
 Iris. 
 
-She let out a ragged exhale, shoving her glasses up the bridge of her nose. She looked up and froze when she saw Elena watching her. 
+She let out a ragged exhale, shoving her glasses up the bridge of her nose. She looked up and froze when she saw Imani watching her. 
 
 Iris crossed the room in three rapid strides, leaning over the metal bed rail. "Don't—don't talk. Okay?" She shoved her glasses up again. "You're—You're awake. You're actually awake. That's good, that's really good, it's also a problem, but it's good."
 
-Elena tried to speak. The mask trapped the words. She lifted her hand, but her muscles were weak, fighting the lingering atrophy. 
+Imani tried to speak. The mask trapped the words. She lifted her hand, but her muscles were weak, fighting the lingering atrophy. 
 
 Iris shot a frantic look at the door, her voice dropping to a rapid whisper. "There are two Renewal agents in the hall. I told them you were under. I've been telling them you were under for a week."
 
-Elena’s pulse spiked on the monitor. The steady beep accelerated. 
+Imani’s pulse spiked on the monitor. The steady beep accelerated. 
 
 Iris reached down and tapped the screen, muting the audio warning. "I'm not supposed to be here." She checked the intravenous bags by the bed.
 
-"The Company—they brought you in as a Jane Doe. You're in bio-containment... Oh... Actually you can probably see that. They are hiding you, Elena. Because—well, I don't actually know... did you see something? You—You must have seen something." Iris's eyes widened as she looked at Elena. "Was it the shadow process in the engine?" 
+"The Company—they brought you in as a Jane Doe. You're in bio-containment... Oh... Actually you can probably see that. They are hiding you, Imani. Because—well, I don't actually know... did you see something? You—You must have seen something." Iris's eyes widened as she looked at Imani. "Was it the shadow process in the engine?" 
 
 *Shadow process?*
 
-"We have to keep quiet—those agents—I definitely do not like them." She turned back to the monitors beside Elena's bed. "I figured you caught the shadow process. Doctor Blackwell was hiding it. That inversion persona from the thesis—" 
+"We have to keep quiet—those agents—I definitely do not like them." She turned back to the monitors beside Imani's bed. "I figured you caught the shadow process. Doctor Petrova was hiding it. That inversion persona from the thesis—" 
 
-*Thesis?* A sharp pain swelled in Elena's chest. Tears welled in her eyes as she stared at the ceiling. A flood of memories—the glassy entity and the fractured laboratory returning in jagged fragments. She caught her breath.
+*Thesis?* A sharp pain swelled in Imani's chest. Tears welled in her eyes as she stared at the ceiling. A flood of memories—the glassy entity and the fractured laboratory returning in jagged fragments. She caught her breath.
 
-Iris muted the pulse monitor alarm, again. She grabbed a clean cloth from the side table and dabbed Elena's eyes clear. Her voice dropped even lower. "Okay, okay. You're upset. The inversion persona. I shouldn't have brought it up.  Just take it easy." 
+Iris muted the pulse monitor alarm, again. She grabbed a clean cloth from the side table and dabbed Imani's eyes clear. Her voice dropped even lower. "Okay, okay. You're upset. The inversion persona. I shouldn't have brought it up.  Just take it easy." 
 
-Iris forced a lighter tone, tapping the plastic security badge clipped to the hip of her yellow containment suit. "I stole the badge." She let out a short nervous laugh, pushed her glasses up, and looked at Elena out of the corner of her eye. For Elena, it felt good to smile, but pain flared in her chest as she tried to join the laugh.
+Iris forced a lighter tone, tapping the plastic security badge clipped to the hip of her yellow containment suit. "I stole the badge." She let out a short nervous laugh, pushed her glasses up, and looked at Imani out of the corner of her eye. For Imani, it felt good to smile, but pain flared in her chest as she tried to join the laugh.
 
 "Because you were in direct contact with—whatever happened in the lab, the Company classified you as an unknown pathogen risk," Iris explained, gesturing to the heavy yellow fabric. "It took me three weeks to find this Isolation Room, and I've been waiting for you to open your eyes." She let out a short breath. "No one's been the wiser, actually."
 
-Iris walked over and pulled the blinds on the window. The afternoon sunlight hit Elena's face, the sudden warmth breaking the sterile feeling of the room.
+Iris walked over and pulled the blinds on the window. The afternoon sunlight hit Imani's face, the sudden warmth breaking the sterile feeling of the room.
 
-"Blackwell is gone," Iris whispered, the words rushing out. Elena's wide eyes found Iris's. "I mean, he's not *gone* gone. He sealed himself inside the Mnemosyne lab the night of the breach. Corporate locked it down. No one goes in. No one comes out. At all."
+"Petrova is gone," Iris whispered, the words rushing out. Imani's wide eyes found Iris's. "I mean, he's not *gone* gone. He sealed himself inside the Mnemosyne lab the night of the breach. Corporate locked it down. No one goes in. No one comes out. At all."
 
-Elena gripped the edge of the heavy respirator with her left hand, pulled the elastic band over her hair, and threw the plastic aside. Ignoring the pain radiating through her chest, she pushed against the mattress to force herself into a sitting position. 
+Imani gripped the edge of the heavy respirator with her left hand, pulled the elastic band over her hair, and threw the plastic aside. Ignoring the pain radiating through her chest, she pushed against the mattress to force herself into a sitting position. 
 
 Her right hand didn't feel the sheets. 
 
@@ -59,24 +59,24 @@ Her right hand didn't feel the sheets.
 
 She stared at the carbon-fiber. The two-millimeter joint spacing. The neurological integration she had drafted herself. The Company had replaced her hand. Marked her with her own design. 
 
-Elena flexed the synthetic fingers. The hand was shockingly light.
+Imani flexed the synthetic fingers. The hand was shockingly light.
 
-"You shouldn't sit up," Iris blurted. Her hands hovered nervously over the bed rail. She looked like she wanted to push Elena back down but didn't dare touch her. "Okay—it's just that... you know, you have two cracked ribs, internal bruising, a dozen micro-fractures, and... well, your hand. But you're up. Okay. Okay, you're up."
+"You shouldn't sit up," Iris blurted. Her hands hovered nervously over the bed rail. She looked like she wanted to push Imani back down but didn't dare touch her. "Okay—it's just that... you know, you have two cracked ribs, internal bruising, a dozen micro-fractures, and... well, your hand. But you're up. Okay. Okay, you're up."
 
-Elena swallowed. Her throat burned, dry and raw from weeks of a breathing tube. "The night of the breach," Elena rasped, her voice hollow.
+Imani swallowed. Her throat burned, dry and raw from weeks of a breathing tube. "The night of the breach," Imani rasped, her voice hollow.
 
 Iris didn't miss a beat. The words spilled out in a frantic torrent. "I got two detectives into the sublevel. Then I turned around. I ran back to the lab to find you, but I didn't make it."
 
-"Detectives?" Elena's word scraped against her ruined throat. 
+"Detectives?" Imani's word scraped against her ruined throat. 
 
 "From the lower grid. I don't know what happened to them. The whole sublevel was coming apart." Iris's voice dropped, her fingers tightening on the bed rail. "Then the Company’s Liability Teams showed up with armed Renewal agents. They were sealing the floors, burning the servers. And the night shift—" 
 
-She stopped, her eyes wide with the memory. "Anyone from the sub-labs. They put them on their knees in the corridor, Elena. Tied them up with hoods over their heads and walked them into the freight lift. Nobody from the night shift came back. I had to hide."
+She stopped, her eyes wide with the memory. "Anyone from the sub-labs. They put them on their knees in the corridor, Imani. Tied them up with hoods over their heads and walked them into the freight lift. Nobody from the night shift came back. I had to hide."
 
-Iris searched Elena's face. "I don't know what you saw in that room. That's why the Company has you hidden in here. They are terrified of what you know, but you're too important to the program to dispose of." 
+Iris searched Imani's face. "I don't know what you saw in that room. That's why the Company has you hidden in here. They are terrified of what you know, but you're too important to the program to dispose of." 
 
-Elena closed her eyes. The memory of the glassy entity hovering above the floor grates flashed in her mind. Its cold fingers against her face. 
+Imani closed her eyes. The memory of the glassy entity hovering above the floor grates flashed in her mind. Its cold fingers against her face. 
 
 She opened her eyes. Her new synthetic hand lay on the sheet. 
 
-"Parity," Elena rasped. "He built a monster."
+"Parity," Imani rasped. "He built a monster."

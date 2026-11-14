@@ -7,7 +7,7 @@ The steady, tinny sound echoed faintly. It sounded miles away, barely audible.
 
 *Beep.* 
 
-If she listened hard enough, Elena Marlowe could isolate it from the emptiness that surrounded her. 
+If she listened hard enough, Imani Marlowe could isolate it from the emptiness that surrounded her. 
 
 *Beep.* 
 
@@ -15,11 +15,11 @@ Where was she standing? If she was standing at all. The space around her was—n
 
 The steady beeping sound suddenly accelerated, matching the frantic pulse she felt running through her veins.  Sweat broke across her brow.
 
-Elena felt her weight shift forward, then back. She lifted her hand to steady herself, but there was nothing to hold onto. Then she saw it. Her hand. Her wrist was a biting decay of shattered bone. 
+Imani felt her weight shift forward, then back. She lifted her hand to steady herself, but there was nothing to hold onto. Then she saw it. Her hand. Her wrist was a biting decay of shattered bone. 
 
 Tears welled in her eyes. But before she could look away, the darkness in front of her swelled. A single frame of reality dropped. 
 
-A face emerged from the black. Then the entirety of a porcelain-white figure, with deep, mirror-like eyes. The entity hovered over Elena.
+A face emerged from the black. Then the entirety of a porcelain-white figure, with deep, mirror-like eyes. The entity hovered over Imani.
 
 She tried to scream, but the air was gone from her lungs. 
 
@@ -39,6 +39,6 @@ The steady, tinny echo sounded miles away.
 
 *Beep.* 
 
-Elena listened hard.
+Imani listened hard.
 
 *Beep.* 

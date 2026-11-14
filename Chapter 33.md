@@ -54,7 +54,7 @@ From his pocket, his silver lighter slipped free.
 
 Turning once in the early light, it fell past the sky-bridges and the terrace rail, shrinking to a point until he lost it against the street. 
 
-Breaking over the eastern edge of the cloud layer, the sun struck the tower. The low, white light hit Blackwell full in the face. 
+Breaking over the eastern edge of the cloud layer, the sun struck the tower. The low, white light hit Petrova full in the face. 
 
 Stretching down across the fog, his shadow fell away from the tower's point. A thin black figure a mile long, arms loose at its sides, hanging from nothing. 
 
@@ -72,9 +72,9 @@ Raising him until his heels found the glass again, she handled him the exact way
 
 Far below on the terraces of New Veridia, a window caught the sunrise. Then another. From every rooftop in the city, and from every street inside the clearing, the apex of the tower would be visible. 
 
-A beacon. Blackwell finally understood what he was. Something held up at the highest point in the city so that someone would come to it. 
+A beacon. Petrova finally understood what he was. Something held up at the highest point in the city so that someone would come to it. 
 
-"You could go to her," Blackwell said.
+"You could go to her," Petrova said.
 
 "Why would I go anywhere?" Parity's eyes stayed on New Veridia. "Everyone comes to me, Doctor. Eventually."
 
