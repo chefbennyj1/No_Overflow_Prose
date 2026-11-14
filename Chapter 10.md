@@ -27,7 +27,7 @@ Harper's hand paused on the chain. She turned, pulling the cigarette from her li
 
 "Takeda-Holden Renewal Agents were in my building, Harper." Rin stripped off her soaked jacket, revealing a dark tank, a faded sleeve of ink, and fresh, dark bruising swelling along her ribs and shoulder. She threw the jacket over the arm of a beaten green sofa.
 
-Harper let the rest of the smoke go slow, her eyes dropping from Rin's face to the dark contusions coloring her skin. The heat of the room pressed in, a close warmth that had nowhere to go, the smell of burned wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in coils. 
+Harper let the rest of the smoke go slow, her eyes dropping from Rin's face to the dark contusions coloring her skin. The heat of the room pressed in, a close warmth, the smell of burned wire insulation and old tobacco. Jury-rigged server towers lined the peeling walls, bleeding heat into every corner. Cables snaked underfoot in coils. 
 
 "You always did pick the worst fights." Harper stepped closer, her fingers hovering inches from the fresh bruise on Rin's shoulder before she caught herself and pulled her hand back—the same hand drifting up to rest against the pale scar instead. "Never change, do you."
 
