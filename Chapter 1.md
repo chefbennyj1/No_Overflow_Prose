@@ -55,9 +55,9 @@ Recirculated cooling gas rolled across the engine pit. It curled round the pilla
 "Power from Main Fusion is drop of water in sea to what we ask it to unearth, Miss Marlowe," the doctor said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
 
 
-He braced himself against the railing and leaned forward, his reflection distorted in the safety glass. "The board wants better compression of data, smarter artificial intelligence predicting their margins."
+He braced himself against the railing and leaned forward, his reflection distorted in the safety glass. "The board wants better compression of data. Smarter artificial intelligence predicting their margins."
 
-A humorless breath fogged the glass. "What I'm building will pioneer a new era." He paused, listening to the quiet tick of the holographic monitors. "My singularity."
+A humorless breath fogged the glass. "What I'm building will pioneer new era." He paused, listening to the quiet tick of the holographic monitors. "My singularity."
 
 "Doctor Razumovsky. Yakov." Imani's voice interrupted, a note of warning creeping into her tone. "The board dialed in."
 
