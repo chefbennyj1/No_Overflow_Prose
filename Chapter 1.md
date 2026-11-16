@@ -10,7 +10,7 @@ Doctor Yakov Razumovsky pictured time stretching through the engine's core as he
 
 A mop of white hair on his head blew untamed in the wind, a contradiction to the sharp lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He stood behind a pair of circular dark glasses, breathing a thin stream of smoke from his lips. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
-Razumovsky didn’t own any of it. He couldn’t buy a square foot of the platinum composite he was standing on. The tower belonged to the Takeda-Holden Corporation—the "Company"—a monument of corporate wealth. But as the Head of Synthetic Integration, Razumovsky knew this building belonged to him in ways the Company would never comprehend.
+Razumovsky didn’t own any of it. He couldn’t buy a square foot of the platinum composite he was standing on. The tower belonged to the Takeda-Holden Corporation—the "Company"—a monument of corporate wealth. But as the Head of Synthetic Integration, the doctor knew this building belonged to him in ways the Company would never comprehend.
 
 The rain had cleared the air, leaving a settled mist beneath the high-altitude pedestrian tiers of New Veridia. He took another haul of his cigarette. He followed the smoke as it skimmed along the alloy railing, and he looked out over the city. No stacked billboards cluttered the view at this altitude; nobody had to sell anything to the corporate elite. The walkways were empty this early—the upper city was a sleeping monster, ready to awake.
 
@@ -18,7 +18,7 @@ He didn't need to turn around to know he was no longer alone. The faint hiss of 
 
 Razumovsky's voice was calm, carrying over the wind. "Are we ready, Miss Marlowe?" 
 
-The Russian sat thick on every word. He had never let the Company file it down.
+The Russian sat thick on every word. His English was precise, but the vowels were stretched and formal.
 
 Imani Marlowe stood in the terrace entrance, framed by the glow of the holographic environmental data embedded in the glass of the door she had opened. Her lab coat fell to her ankles. A gust of wind whipped the terrace, pushing her shoulder-length hair across the dark skin of her face.
 
