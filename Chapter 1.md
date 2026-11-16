@@ -151,7 +151,7 @@ His teeth closed on the filter of the unlit cigarette. *There it was.*
 
 Razumovsky caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus to a second synthetic on the far side of the room. Together they scrubbed the shadow process from the logs, silent, practiced, done before Imani could turn around.
 
-"I don't like the Board," Razumovsky said, keeping his gaze fixed on the engine.
+"I don't like the Board," the doctor said, keeping his gaze fixed on the engine.
 
 "Funding, Yakov," she urged. "Remember the funding."
 
