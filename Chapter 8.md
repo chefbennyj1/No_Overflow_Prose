@@ -55,7 +55,7 @@ Out on the lab floor, the blue optical sensor of a dormant synthetic's iris flic
 
 A long, agonizing second passed. The synthetic's sensor finally dimmed back to a dull standby glow. 
 
-She exhaled a long breath of relief. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data-pads scattered everywhere. 
+She exhaled a long breath of relief. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data tablets scattered everywhere. 
 
 Wedged between two books was a physical, leather-bound portfolio. The header didn't bear a corporate logo. It was a theoretical paper authored by Yakov Razumovsky, dated three years before the Engine was even built. 
 

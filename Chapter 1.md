@@ -38,7 +38,7 @@ Razumovsky turned and walked past Imani, stepping through the sliding glass door
 
 The building's tinted black glass refracted the rising sun as the doctor walked towards the executive lift. Imani followed as the steel elevator doors sealed them in. 
 
-The high-speed descent was silent. He watched her from the corner of his eye. Her lips moved without a sound. Her thumb tapped the edge of her datapad. Five years as his second-in-command, and she still treated the Board with too much reverence. He had picked her for her brilliance—though today, her nerves would make her useful. 
+The high-speed descent was silent. He watched her from the corner of his eye. Her lips moved without a sound. Her thumb tapped the edge of her data tablet. Five years as his second-in-command, and she still treated the Board with too much reverence. He had picked her for her brilliance—though today, her nerves would make her useful. 
 
 The lift dropped dozens of floors, past the bottom of the main atrium and into the Mnemosyne Lab. When the doors parted, the air inside the lab moved with a low vibration. It was the city's reactor, channeling into the floor beneath their feet.
 
@@ -87,7 +87,7 @@ Behind him, the technicians exchanged nervous glances and stepped back from the 
 
 Razumovsky leaned in. 
 
-Imani stepped up to the railing, studying a datapad in her hand, her tense posture relaxing a fraction. "The initialization sequence is holding steady," she said, a rare note of satisfaction bleeding into her voice. She stepped closer to him, so only he could hear, "The containment calculations were flawless, Yakov. You calculated activation. Congratulations."
+Imani stepped up to the railing, studying a data tablet in her hand, her tense posture relaxing a fraction. "The initialization sequence is holding steady," she said, a rare note of satisfaction bleeding into her voice. She stepped closer to him, so only he could hear, "The containment calculations were flawless, Yakov. You calculated activation. Congratulations."
 
 "Of course they were," the doctor said, the unlit cigarette bobbing between his lips.
 
@@ -95,13 +95,13 @@ On the executive display above the floor, the grid of silhouettes leaned forward
 
 "Doctor Razumovsky, Ma'am." 
 
-The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing datapad in her hands. She didn't belong with the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and gold hoops swung from her ears. She compulsively shoved her black-rimmed glasses up the bridge of her nose—her focus snapping back to the glow of her screen. 
+The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing data tablet in her hands. She didn't belong with the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and gold hoops swung from her ears. She compulsively shoved her black-rimmed glasses up the bridge of her nose—her focus snapping back to the glow of her screen. 
 
 "Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a change in the event horizon. A mass displacement anomaly. And—well actually, the mass-displacement is causing a—a localized gravitational shear." Her pressured speech fired rapidly, blurred together in a breathless recitation of awkward tones, "—and—well, you know—that could theoretically pull the primary containment of the horizon's gravity field out of phase—and if we don't recalculate, then the—" 
 
 She trailed off, finally looking up from her screen. 
 
-Imani was staring at her, eyes piercing. "Negative," she said, her voice dropping into a scolding hiss through gritted teeth.
+Imani was staring at her, eyes piercing. "Negative," she said, her voice scolding and through gritted teeth.
 
 She cast a quick glance up at the Board's display, and then to the doctor—an expression of fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
 

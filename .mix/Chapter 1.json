@@ -24,10 +24,10 @@
       "source": "sfx",
       "file": "DSGNRise-Psychological_cinema-Elevenlabs.mp3",
       "anchor": {
-        "text": "the speed of causality. the maximum speed of the universe. 299.792.458 meters per second. the rate one thing reaches ano",
+        "text": "the speed of causality. the maximum speed of the universe. two hundred ninety-nine million, seven hundred ninety-two tho",
         "index": 0,
-        "offset": -1.005,
-        "at": 0.195
+        "offset": -1.13,
+        "at": 0.07
       },
       "gain": 1,
       "fadeIn": 0,
@@ -40,10 +40,10 @@
       "source": "sfx",
       "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
       "anchor": {
-        "text": "the speed of causality. the maximum speed of the universe. 299.792.458 meters per second. the rate one thing reaches ano",
+        "text": "the speed of causality. the maximum speed of the universe. two hundred ninety-nine million, seven hundred ninety-two tho",
         "index": 0,
-        "offset": 15.245,
-        "at": 16.445
+        "offset": 14.995,
+        "at": 16.195
       },
       "gain": 1,
       "fadeIn": 0,
@@ -209,16 +209,16 @@
       "track": "music",
       "file": "Blackwell.mp3",
       "from": {
-        "text": "the speed of causality. the maximum speed of the universe. 299.792.458 meters per second. the rate one thing reaches ano",
+        "text": "the speed of causality. the maximum speed of the universe. two hundred ninety-nine million, seven hundred ninety-two tho",
         "index": 0,
-        "offset": -1.2,
-        "at": 0
+        "offset": -1.075,
+        "at": 0.125
       },
       "to": {
         "text": "razumovsky turned and walked past imani, stepping through the sliding glass doors into the corporate atrium. the multi-t",
         "index": 16,
-        "offset": 0.775,
-        "at": 230.9
+        "offset": 0.9,
+        "at": 232.325
       },
       "gain": 0.64,
       "fadeIn": 2.5,
@@ -229,16 +229,16 @@
       "track": "ambient",
       "file": "deadly_wind_blows._#2-1792862656793.mp3",
       "from": {
-        "text": "the speed of causality. the maximum speed of the universe. 299.792.458 meters per second. the rate one thing reaches ano",
+        "text": "the speed of causality. the maximum speed of the universe. two hundred ninety-nine million, seven hundred ninety-two tho",
         "index": 0,
-        "offset": -1.2,
-        "at": 0
+        "offset": -0.95,
+        "at": 0.25
       },
       "to": {
         "text": "razumovsky turned and walked past imani, stepping through the sliding glass doors into the corporate atrium. the multi-t",
         "index": 16,
-        "offset": 9.336,
-        "at": 239.461
+        "offset": 9.586,
+        "at": 241.011
       },
       "gain": 0.38,
       "fadeIn": 2.5,
