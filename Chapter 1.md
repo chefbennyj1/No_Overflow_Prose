@@ -28,7 +28,7 @@ Imani didn't sound like herself. *Nervous*, he thought, *and she should be*.
 
 "The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But you've got the three hundred and twenty terawatts," she said.
 
-Raising his cigarette to his lips one last time, the doctor inhaled until the end burned close to the filter. He held the smoke in his lungs, then exhaled and dropped the butt over the edge of the railing.
+Raising his cigarette to his lips one last time, the doctor inhaled until the end burned close to his finger tips. He held the smoke in his lungs, then exhaled and dropped the butt over the edge of the railing.
 
 The spent cigarette vanished into the fog. The cloud cover was a necessary filter for him. It formed an opaque floor between him and the corroded foundations of the lower city. 
 
