@@ -1,4 +1,7 @@
-Frank Harlan walked down the faded seafoam hallway of Oshima Civic Care. The blue and yellow checkered linoleum stuck to his shoes. Overhead, the fluorescents burned steady. In all the times he had walked this corridor behind Victor, he had never seen them hold.
+---
+music: Beautifully_Sad.mp3
+---
+Frank Harlan walked down the faded seafoam hallway of Oshima Civic Care. The blue and yellow checkered linoleum stuck to his shoes. Overhead, the fluorescents lit the hall steady. In all the times he had walked this corridor behind Victor, he had never seen them without a flicker.
 
 He stopped at the front desk and picked up the chained stylus. The last line in the visitor log was in Victor's hand, the letters slanted hard to the right. Harlan set the stylus under it.
 
