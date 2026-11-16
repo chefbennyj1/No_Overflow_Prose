@@ -63,11 +63,11 @@ A humorless breath fogged the glass. "What I'm building will pioneer new era." H
 
 Above the primary consoles, a wall sized display flickered to life. The encrypted feed partitioned the screen into a grid of digital monitors. Each square displayed the featureless silhouette of a corporate executive.
 
-"Perfect," the doctor said, his lip curling. "Right on schedule."
+"Perfect," the doctor said, his lip curling. "Exactly on schedule."
 
 "The Takeda-Holden Corporation expects success today, Razumovsky," a voice echoed from the grid.
 
-The doctor didn't bother to look back at the screen or at Imani, keeping his gaze fixed on the dormant core. "Very well, Miss Marlowe," he murmured. "Give them a show."
+The doctor didn't bother to look back at the screen or at Imani, keeping his gaze fixed on the dormant core. "Very well, Miss Marlowe," he murmured. "Give them their show."
 
 Imani didn't blink. She remained where she was, her posture shifting from subordinate to commander as she leaned into the microphone of the control room. There was a quick succession of two tones over the speaker system. Technicians in white coats looked up from their consoles.
 
@@ -123,7 +123,7 @@ The doctor admired the synthetic. It existed solely for the objective, unburdene
 
 "Fusion Control says the thermal limits are safe, Doctor," the synthetic stated, its voice flat. 
 
-"Fusion Control doesn't understand the optics of my quantum singularity," Razumovsky retorted.
+"Fusion Control does not understand the optics of my quantum singularity," Razumovsky retorted.
 
 A monotone voice echoed from the display grid above. "Satisfactory, Doctor Razumovsky," a shadowed silhouette stated. "The Company commends your success."
 
