@@ -12,13 +12,13 @@ The nurse looked past his shoulder, down the empty corridor.
 
 *She was looking for him, but Victor wasn't coming anymore.*
 
-She gave up, turned her screen toward him before he finished signing. Three numbers sat under the balance.
+She gave up looking for him, and turned her screen toward him before he finished signing. Three numbers sat under the balance.
 
 Harlan paid all three.
 
 "It comes due again on the first," the nurse said.
 
-"Then I'll see you on the first."
+"Then I'll see you'll hear form me on the first."
 
 He continued down the corridor to the green wooden door. The fake blue flowers sat in their cheap vase beside the frame, collecting dust. There were seven. He had counted them through every visit Victor ever made, and he had never seen the other side of the door.
 
