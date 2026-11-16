@@ -55,21 +55,19 @@ Harlan stood with his back against the door. He had held Victor on the frost, in
 
 "He sits in that chair." Arthur nodded at the plastic chair against the wall. "His visits are quick. He's here, then he's up and gone. He thinks I can't tell how long a minute is."
 
-"He's got a lot of work, Mr. Graves."
+"He's got a lot of work, Mr. Graves." Harlan let a grin slide across his lips.
 
-"He's got a father he can't look at." Arthur said it without heat. "That's all right. I gave him cause." He raised his eyes to Harlan. "He comin' today?"
+"He's got a father he can't look at." Arthur said, not missing a beat. "That's all right. I gave him cause." He raised his eyes to Harlan. "He comin' today?"
 
 "Not today."
 
 Arthur nodded. He leaned forward in the armchair, and his voice dropped. "Then you tell him somethin' for me. You tell him his father said—"
 
-His head snapped toward the window. His fingers dug back into the corduroy. When he looked at Harlan again, the focus had gone out of his eyes.
+His head snapped toward the window. His fingers dug back into the corduroy arm of his chair. When he looked at Harlan again, the focus had gone from his eyes.
 
 "You!" Arthur's lip curled. "You smell like a cop."
 
-Harlan waited for the rest of the sentence. It didn't come.
-
-"No, Arthur," he said. "Not today."
+Harlan took a deep breath.  "No, Arthur," he said. "Not today."
 
 "Then you should be watchin' the window. You wanna get us strung up?"
 
