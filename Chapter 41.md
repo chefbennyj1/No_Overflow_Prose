@@ -5,7 +5,10 @@ Frank Harlan walked down the faded seafoam hallway of Oshima Civic Care. The blu
 
 He stopped at the front desk and picked up the chained stylus. The last line in the visitor log was in Victor's hand, the letters slanted hard to the right. Harlan took a moment and looked at the print and thought about his friend before setting the stylus under it.
 
-The nurse behind the desk looked up at him, chewing a wad of gum with her mouth open. "Frank Harlan, for Arthur Graves."
+The nurse behind the desk looked up at him, chewing a wad of gum with her mouth open. 
+
+"Frank Harlan, for Arthur Graves." Harlan said.
+
 
 She looked past his shoulder, down the empty corridor.
 
@@ -13,7 +16,7 @@ She looked past his shoulder, down the empty corridor.
 
 "He's not coming," Harlan said.
 
-Her jaw stopped for a beat. Then she gave up looking and went right back to chewing as she turned her screen toward him before he finished signing. Three numbers sat under the balance.
+Her jaw stopped. Then she gave up looking and went right back to chewing as she turned her screen toward him before he finished signing. Three numbers sat under the balance.
 
 Harlan paid all three.
 
