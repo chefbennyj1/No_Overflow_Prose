@@ -170,15 +170,15 @@
       "file": "Clock Tick.mp3",
       "from": {
         "text": "the dead circuits. crushed remains of oshima city. decades ago, tahkehh-da holden hadn't bothered to demolish oshima; th",
-        "index": 14,
-        "offset": 18.675,
-        "at": 216
+        "index": 15,
+        "offset": 19.3,
+        "at": 227.325
       },
       "to": {
         "text": "imani didn't blink. she remained where she was, her posture shifting from subordinate to commander as she leaned into th",
         "index": 33,
-        "offset": 17.225,
-        "at": 485.875
+        "offset": 17.85,
+        "at": 487.775
       },
       "gain": 1,
       "fadeIn": 2.5,
@@ -217,8 +217,8 @@
       "to": {
         "text": "razumovsky turned and walked past imani, stepping through the sliding glass doors into the corporate atrium. the multi-t",
         "index": 16,
-        "offset": 0.9,
-        "at": 232.325
+        "offset": 14.525,
+        "at": 245.95
       },
       "gain": 0.64,
       "fadeIn": 2.5,
