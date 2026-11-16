@@ -73,17 +73,17 @@ Harlan took a deep breath.  "No, Arthur," he said. "Not today."
 
 "Alright, Arthur." Harlan pulled the plastic chair across the room and sat down in front of the glass. The seat was low for him, and his knees were high. "I'll watch the window."
 
-Across the gap between the tenements, the rusted track ran empty to the mouth of the subway tunnel. A column of smoke stood far in the skyline, behind the rooftops of the lower city, thin now, leaning with the wind. Below the window, the streetlights burned orange and didn't flicker.
+Across the gap between the tenements, the rusted track ran empty to the mouth of the subway tunnel. A column of smoke stood far in the skyline, behind the rooftops of the lower city, thin now, leaning with the wind. Below the window, the streetlights burned orange but didn't flicker.
 
 Harlan put his hands on his knees.
 
 Behind him, the armchair creaked. Arthur's breathing was loud in the small room, a dry pull and a long release.
 
-A mag-train came out from between the buildings. It crawled along the track at a walking pace, half its windows dark, and Harlan watched the passenger cars shudder past until the red marker on the rear went into the tunnel.
+A lower city subway-train came out from between the buildings. It crawled along the track at a walking pace, half its windows dark, and Harlan watched the passenger cars shudder past until the red marker on the rear went into the tunnel.
 
 "He buys his coats out of a bin," Harlan said. He kept his eyes on the track. "Every winter I tell him. Get one off the rack, Vic. One that fits. He looks at me like I asked him to burn money."
 
-Arthur laughed, one dry breath through his nose. "Nothin' wrong with a bin. A coat's a coat." The armchair creaked again. "Boy knows what a thing costs. He learned that one from me."
+Arthur and Harlan both laughed, Arthur with one dry breath through his nose. "Nothin' wrong with a bin. A coat's a coat." The armchair creaked again. "Boy knows what a thing costs. He learned that one from me."
 
 "Yes, sir," Harlan said. "He did."
 
@@ -93,11 +93,7 @@ By now Victor was always back out in the hall, collar up, already walking.
 
 Harlan stayed in the chair.
 
-A third train passed. Then a fourth, slower than the others.
-
-"They're running again, Arthur," he said. "The trains."
-
-Nothing came back.
+A third train passed slowly. Then a fourth.
 
 Harlan listened for the dry pull of the old man's breath. The room had gone quiet enough to hear a cart rolling somewhere down the corridor.
 
