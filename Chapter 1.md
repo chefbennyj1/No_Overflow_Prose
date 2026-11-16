@@ -6,7 +6,7 @@ The speed of causality. The maximum speed of the universe. 299,792,458 meters pe
 
 The Mnemosyne Engine was built to break it: to tear a hole through the known universe and fill it with the mass of an anti-star.
 
-Iakov Petrova pictured time stretching through the engine's core as he took a drag from his cigarette, the ember flaring against the blue and ivory of the early morning sky. 
+Doctor Iakov Petrova pictured time stretching through the engine's core as he took a drag from his cigarette, the ember flaring against the blue and ivory of the early morning sky. 
 
 A mop of white hair on his head blew untamed in the wind, a contradiction to the sharp lines of his dark vest and tie. Over it all, he wore a lab coat that whipped around his legs in the cold air. He stood behind a pair of circular dark glasses, breathing a thin stream of smoke from his lips. From the wind-swept terrace of the Mnemosyne Lab, he watched his world.
 
