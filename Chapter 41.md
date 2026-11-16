@@ -28,9 +28,14 @@ He continued down the corridor to the green wooden door. The fake blue flowers s
 
 Jackie had the boxes stacked by the front door at home. He had told her he had one stop to make.
 
-Harlan straightened his tie and pushed the door open.
+Harlan straightened his tie.
+
+"Hello Arthur." Harlan announced, knocking on the door while pushing it open.
 
 The room was smaller than the hallway had let him picture. An old man sat in a patched corduroy armchair, his white hair parted to the side, his eyes going from the cracked window to the doorway and back.
+
+
+
 
 "Close it," Arthur whispered. His fingers gripped the armrests. "You gotta keep an eye—" He pointed a trembling finger at the window. "There is an expectation here. The Madame don't just trust anyone, ya know."
 
