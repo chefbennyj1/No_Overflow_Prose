@@ -71,7 +71,7 @@ Harlan took a deep breath.  "No, Arthur," he said. "Not today."
 
 "Then you should be watchin' the window. You wanna get us strung up?"
 
-"Alright, Arthur." Harlan pulled the plastic chair across the room and sat down in front of the glass. The seat was low for him, and his knees rode high. "I'll watch the window."
+"Alright, Arthur." Harlan pulled the plastic chair across the room and sat down in front of the glass. The seat was low for him, and his knees were high. "I'll watch the window."
 
 Across the gap between the tenements, the rusted track ran empty to the mouth of the subway tunnel. A column of smoke stood behind the rooftops, thin now, leaning with the wind. Below the window, the streetlights burned orange and didn't flicker.
 
