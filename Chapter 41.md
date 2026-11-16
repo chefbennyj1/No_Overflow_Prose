@@ -10,9 +10,11 @@ He looked up at the nurse behind the desk. "Frank Harlan, for Arthur Graves."
 The nurse looked past his shoulder, down the empty corridor. 
 
 
-*She was looking for him, but Victor wasn't coming anymore.*
+*She was looking for him*
 
-She gave up looking for him, and turned her screen toward him before he finished signing. Three numbers sat under the balance.
+"He's not coming." Harlan said.
+
+She gave up looking, shrugged, and turned her screen toward him before he finished signing. Three numbers sat under the balance.
 
 Harlan paid all three.
 
