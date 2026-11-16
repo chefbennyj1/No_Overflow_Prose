@@ -36,7 +36,7 @@ The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden ha
 
 Razumovsky turned and walked past Imani, stepping through the sliding glass doors into the corporate atrium. The multi-tiered annex was an expanse of sleek architecture. Sharp angles of polished concrete soared above and plunged below them.
 
-The building's tinted black glass refracted the rising sun as Razumovsky walked towards the executive lift. Imani followed as the steel elevator doors sealed them in. 
+The building's tinted black glass refracted the rising sun as the doctor walked towards the executive lift. Imani followed as the steel elevator doors sealed them in. 
 
 The high-speed descent was silent. He watched her from the corner of his eye. Her lips moved without a sound. Her thumb tapped the edge of her datapad. Five years as his second-in-command, and she still treated the Board with too much reverence. He had picked her for her brilliance—though today, her nerves would make her useful. 
 
@@ -44,7 +44,7 @@ The lift dropped dozens of floors, past the bottom of the main atrium and into t
 
 Past the primary control consoles, the floor was manned by a mix of human technicians and the lab's impassive synthetics. Razumovsky approached the reinforced railing that encircled the center of the pit. The metal was cold. He gripped the rail.
 
-Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock, farther down than anyone in this room had been allowed to see. Razumovsky had stood at this rail on a hundred nights in the empty lab, and every time, he felt the cold breath of the engine rising from the pit. 
+Below him sat the Mnemosyne Engine—or at least, the very top of it. The staggering bulk of the machine was buried deep under the foundation and bedrock, farther down than anyone in this room had been allowed to see. The doctor had stood at this rail on a hundred nights in the empty lab, and every time, he felt the cold breath of the engine rising from the pit. 
 
 What ascended through the facility's foundation and protruded into this observation chamber was a cluster of white pillars of varying heights. They thrust sharply from the floor, terminating in angled points, with black screens running up each one. 
 
