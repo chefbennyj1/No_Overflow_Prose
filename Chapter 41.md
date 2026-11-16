@@ -13,7 +13,7 @@ She looked past his shoulder, down the empty corridor.
 
 "He's not coming," Harlan said.
 
-Her jaw stopped for a beat. Then she gave up looking, shrugged, and went right back to chewing as she turned her screen toward him before he finished signing. Three numbers sat under the balance.
+Her jaw stopped for a beat. Then she gave up looking and went right back to chewing as she turned her screen toward him before he finished signing. Three numbers sat under the balance.
 
 Harlan paid all three.
 
