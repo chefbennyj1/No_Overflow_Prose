@@ -49,11 +49,11 @@ The finger came down. Arthur's hand settled on the armrest and lay open there. H
 
 "Yes, sir. A long time."
 
-"Oh, you know my Victor, then." The tremble had gone out of his voice. "He's a good boy. " He paused. "Always doin' the right thing." Arthur looked down at his own hands. "Never learned that from me," he laughed to himself, his eyes fixed in a memory.
+"Oh, you know my Victor, then." The tremble had gone out of his voice. "He's a good boy. Always doin' the right thing." Arthur looked down at his own hands. "Never learned that from me," he laughed to himself, his eyes fixed in a memory.
 
-Harlan stood with his back against the door. He had held Victor on the frost and gone over his coat for a wound, and there had been nothing to press on. His hands had not known what to do. He put them in his pockets.
+Harlan stood with his back against the door. He had held Victor on the frost, in his last moments. Harlan didn't know what to do next. He put his hands in his pockets.
 
-"He sits in that chair." Arthur nodded at the plastic chair against the wall. "One minute. Then he's up and gone. He thinks I can't tell how long a minute is."
+"He sits in that chair." Arthur nodded at the plastic chair against the wall. "His visits are quick. He's here, then he's up and gone. He thinks I can't tell how long a minute is."
 
 "He's got a lot of work, Mr. Graves."
 
