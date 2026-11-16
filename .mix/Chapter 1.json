@@ -88,10 +88,10 @@
       "source": "sfx",
       "file": "wind_gusts_#4-1792964257223.mp3",
       "anchor": {
-        "text": "elena marlowe stood in the terrace entrance, framed by the glow of the holographic environmental data embedded in the gl",
-        "index": 8,
+        "text": "imani marlowe stood in the terrace entrance, framed by the glow of the holographic environmental data embedded in the gl",
+        "index": 9,
         "offset": 7.945,
-        "at": 137.57
+        "at": 147.62
       },
       "gain": 1,
       "fadeIn": 0,
@@ -104,10 +104,10 @@
       "source": "sfx",
       "file": "DSGNRise-Psychological_cinema-Elevenlabs.mp3",
       "anchor": {
-        "text": "blackwell turned and walked past elena, stepping through the sliding glass doors into the corporate atrium. the multi-ti",
-        "index": 15,
+        "text": "razumovsky turned and walked past imani, stepping through the sliding glass doors into the corporate atrium. the multi-t",
+        "index": 16,
         "offset": 2.895,
-        "at": 223.62
+        "at": 233.02
       },
       "gain": 1,
       "fadeIn": 0,
@@ -136,15 +136,31 @@
       "source": "sfx",
       "file": "futuristic_log_reado_#3-1792983319747.mp3",
       "anchor": {
-        "text": "blackwell caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second s",
-        "index": 72,
+        "text": "razumovsky caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second",
+        "index": 73,
         "offset": 13.095,
-        "at": 928.07
+        "at": 943.92
       },
       "gain": 1,
       "fadeIn": 0,
       "fadeOut": 0,
       "seconds": 2.08
+    },
+    {
+      "id": "cmwje7rr419ik",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the newmoscene engine was built to break it: to tear a hole through the known universe and fill it with the mass of an a",
+        "index": 1,
+        "offset": 8.22,
+        "at": 26.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
     }
   ],
   "regions": [
@@ -159,10 +175,10 @@
         "at": 216
       },
       "to": {
-        "text": "elena didn't blink. she remained where she was, her posture shifting from subordinate to commander as she leaned into th",
-        "index": 32,
+        "text": "imani didn't blink. she remained where she was, her posture shifting from subordinate to commander as she leaned into th",
+        "index": 33,
         "offset": 17.225,
-        "at": 473.625
+        "at": 485.875
       },
       "gain": 1,
       "fadeIn": 2.5,
@@ -173,16 +189,16 @@
       "track": "music",
       "file": "Parity.mp3",
       "from": {
-        "text": "elena didn't blink. she remained where she was, her posture shifting from subordinate to commander as she leaned into th",
-        "index": 32,
+        "text": "imani didn't blink. she remained where she was, her posture shifting from subordinate to commander as she leaned into th",
+        "index": 33,
         "offset": 12.567,
-        "at": 468.967
+        "at": 481.217
       },
       "to": {
-        "text": "blackwell returned to the pillar readouts. a displacement anomaly was a perfect distraction. while elena and the technic",
-        "index": 69,
+        "text": "razumovsky returned to the pillar readouts. a displacement anomaly was a perfect distraction. while imani and the techni",
+        "index": 70,
         "offset": 2.792,
-        "at": 890.317
+        "at": 906.717
       },
       "gain": 0.34,
       "fadeIn": 2.5,
@@ -199,10 +215,10 @@
         "at": 0
       },
       "to": {
-        "text": "blackwell turned and walked past elena, stepping through the sliding glass doors into the corporate atrium. the multi-ti",
-        "index": 15,
+        "text": "razumovsky turned and walked past imani, stepping through the sliding glass doors into the corporate atrium. the multi-t",
+        "index": 16,
         "offset": 0.775,
-        "at": 221.5
+        "at": 230.9
       },
       "gain": 0.64,
       "fadeIn": 2.5,
@@ -219,10 +235,10 @@
         "at": 0
       },
       "to": {
-        "text": "blackwell turned and walked past elena, stepping through the sliding glass doors into the corporate atrium. the multi-ti",
-        "index": 15,
+        "text": "razumovsky turned and walked past imani, stepping through the sliding glass doors into the corporate atrium. the multi-t",
+        "index": 16,
         "offset": 9.336,
-        "at": 230.061
+        "at": 239.461
       },
       "gain": 0.38,
       "fadeIn": 2.5,
@@ -253,16 +269,16 @@
       "track": "ambient",
       "file": "sci-fi_lab_rumble,_a_#4-1792961531882.mp3",
       "from": {
-        "text": "\"all stations, ready for initialization.\" elena's voice reverberated in a crackle over the laboratory loudspeaker, almos",
-        "index": 33,
+        "text": "\"all stations, ready for initialization.\" imani's voice reverberated in a crackle over the laboratory loudspeaker, almos",
+        "index": 34,
         "offset": 11.586,
-        "at": 485.686
+        "at": 498.161
       },
       "to": {
-        "text": "elena exhaled, rubbing her temples. \"and everybody knows it.\"",
-        "index": 76,
+        "text": "imani exhaled, rubbing her temples. \"and everybody knows it.\"",
+        "index": 77,
         "offset": 7.175,
-        "at": 954.775
+        "at": 972.3
       },
       "gain": 0.53,
       "fadeIn": 2.5,
@@ -279,10 +295,10 @@
         "at": 885.867
       },
       "to": {
-        "text": "blackwell caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second s",
-        "index": 72,
+        "text": "razumovsky caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second",
+        "index": 73,
         "offset": 14.417,
-        "at": 928.367
+        "at": 945.242
       },
       "gain": 0.41,
       "fadeIn": 2.5,
@@ -293,16 +309,16 @@
       "track": "music",
       "file": "The Engine.mp3",
       "from": {
-        "text": "blackwell caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second s",
-        "index": 72,
+        "text": "razumovsky caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second",
+        "index": 73,
         "offset": 9.292,
-        "at": 923.242
+        "at": 940.117
       },
       "to": {
-        "text": "elena exhaled, rubbing her temples. \"and everybody knows it.\"",
-        "index": 76,
+        "text": "imani exhaled, rubbing her temples. \"and everybody knows it.\"",
+        "index": 77,
         "offset": 7.175,
-        "at": 954.775
+        "at": 972.3
       },
       "gain": 1,
       "fadeIn": 2.5,

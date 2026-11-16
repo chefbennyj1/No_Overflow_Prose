@@ -24,7 +24,7 @@ Imani Marlowe stood in the terrace entrance, framed by the glow of the holograph
 
 "Yes, Doctor Razumovsky," she replied. 
 
-Imani didn't sound like herself. *Nervous*, the he thought, *and she should be*. 
+Imani didn't sound like herself. *Nervous*, he thought, *and she should be*. 
 
 "The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But you've got the three hundred and twenty terawatts," she said.
 

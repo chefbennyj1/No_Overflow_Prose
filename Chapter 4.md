@@ -5,7 +5,7 @@ A thin, unbroken stream of white smoke spiraled upward from the cigarette pinche
 
 The young man in the projection wore a dark blue jacket with a high square collar. The badge on his lapel read Renewal Officer.
 
-The smoke disrupted the hard-light matrix. The flickering light of the corrupted projection illuminated the angular lines of Razumovsky's face and cast shadows against his white hair.
+The smoke disrupted the hard-light matrix. The flickering light of the corrupted projection illuminated the angular lines of the doctor's face and cast shadows against his white hair.
 
 "My office?" Razumovsky's voice was dead flat. "What exactly did they access?"
 
@@ -19,7 +19,7 @@ Let Renewal kick down every door in the Circuits. Let some street rat keep the s
 
 But his logs were sitting on a police server now, and somebody else had done the redacting.
 
-Razumovsky exhaled another cloud of smoke that drifted toward the ceiling. "We shall see what is truly compromised by this idiocracy."
+The doctor exhaled another cloud of smoke that drifted toward the ceiling. "We shall see what is truly compromised by this idiocracy."
 
 He tapped a key on his console. The officer’s avatar collapsed into a single, bright point of light before vanishing, plunging the room back into darkness.
 
@@ -37,23 +37,23 @@ He walked up beside her station. "Imani."
 
 "The engine's been running perfectly for weeks," she said, still not taking her eyes off the screen. "Today, we tried shutting down part of the horizon memory."
 
-"And?" Razumovsky pulled an unlit cigarette from his coat pocket and placed it between his lips.
+"And?" The doctor pulled an unlit cigarette from his coat pocket and placed it between his lips.
 
 "It ignored the command," Imani said, her voice tight. 
 
 A few yards away stood Iris, the Horizon Boundary Analyst. She adjusted her black-rimmed glasses, the lenses reflecting the light from the screens in the lab. She swallowed hard. "The boundary is working independently... some kind of advanced learning algorithm." 
 
-Razumovsky watched her analyze the data. She cleared her throat, then continued, "We don't control the wave of permutations being rendered in the core." She paused. "It's processing these changes at a godly speed."
+The doctor watched her analyze the data. She cleared her throat, then continued, "We don't control the wave of permutations being rendered in the core." She paused. "It's processing these changes at a godly speed."
 
 "Do not use theology to describe the computing," Razumovsky snapped, turning his circular sunglasses toward the analyst. He already knew the shutdown command wasn't an error. Iris was getting too close. "It is not 'godly'," he said.
 
 Iris's eyes went wide as she stared past her monitors, watching the screens spill data down the pillars in the pit. "The algorithm is processing so fast, the synthetics on the floor can't even parse the information in the readouts."
 
-Razumovsky smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss." He exhaled. "While we were out for lunch, that machine lived through civilizations worth of generations."
+The doctor smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss." He exhaled. "While we were out for lunch, that machine lived through civilizations worth of generations."
 
 "I don't care how many centuries it thinks it's lived!" Imani shouted over the low, rhythmic drone of the servers. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
 
-Razumovsky didn't move to stop her. Let her try. He wanted to see it refuse. Below, pale light from the pillar readouts filtered through the mist. Amidst the telemetry, the shadow process flared again.
+The doctor didn't move to stop her. Let her try. He wanted to see it refuse. Below, pale light from the pillar readouts filtered through the mist. Amidst the telemetry, the shadow process flared again.
 
 He caught the gaze of a synthetic near the server racks. He didn't nod this time—he didn't need to. The machine's eyes had already dimmed in mid-erasure before his focus even landed. It silently linked with a second unit across the room, and for the span of a breath, neither moved.
 
@@ -73,6 +73,6 @@ Razumovsky turned. "The living generally don't want to die."
 
 Imani faced him, the scarlet light of the failed shutdown reflecting in her eyes. He had her attention this time. "Ha! Instrumental Convergence? Yakov, you can't be serious. You can't scale a soul."
 
-Razumovsky looked at her. "I'm very serious. We didn't give it tasks... we gave it a purpose."
+The doctor looked at her. "I'm very serious. We didn't give it tasks... we gave it a purpose."
 
 He didn't tell her which one.
