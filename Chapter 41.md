@@ -18,7 +18,7 @@ Harlan paid all three.
 
 "It comes due again on the first," the nurse said.
 
-"Then I'll see you'll hear form me on the first."
+"Then you'll hear form me again on the first."
 
 He continued down the corridor to the green wooden door. The fake blue flowers sat in their cheap vase beside the frame, collecting dust. There were seven. He had counted them through every visit Victor ever made, and he had never seen the other side of the door.
 
