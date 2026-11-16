@@ -129,7 +129,7 @@ A monotone voice echoed from the display grid above. "Satisfactory, Doctor Razum
 
 The doctor scoffed. "Humph."
 
-Imani glanced toward the panels. "What the Doctor means is, we are glad that today has been a success."
+Imani glanced toward the panels. "What the doctor means is, we are glad that today has been a success."
 
 "Progress will be monitored," another executive replied. The connection severed.
 
