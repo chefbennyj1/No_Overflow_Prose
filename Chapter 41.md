@@ -35,11 +35,9 @@ Harlan straightened his tie.
 The room was smaller than the hallway had let him picture. An old man sat in a patched corduroy armchair, his white hair parted to the side, his eyes going from the cracked window to the doorway and back.
 
 
-
-
 "Close it," Arthur whispered. His fingers gripped the armrests. "You gotta keep an eye—" He pointed a trembling finger at the window. "There is an expectation here. The Madame don't just trust anyone, ya know."
 
-Harlan had seen the Madame lying in the snow on the plaza, her head turned too far to one side. He closed the door.
+Harlan had seen the Madame lying in the snow on the plaza, her neck twisted to far. He closed the door.
 
 "Mr. Graves," he said. "My name's Frank. I'm a friend of Victor's."
 
@@ -51,7 +49,7 @@ The finger came down. Arthur's hand settled on the armrest and lay open there. H
 
 "Yes, sir. A long time."
 
-"Oh, you know my Victor, then." The tremble had gone out of his voice. "He's a good boy. Always doin' the right thing." Arthur looked down at his own hands. "Didn't learn that from me."
+"Oh, you know my Victor, then." The tremble had gone out of his voice. "He's a good boy. " He paused. "Always doin' the right thing." Arthur looked down at his own hands. "Never learned that from me," he laughed to himself, his eyes fixed in a memory.
 
 Harlan stood with his back against the door. He had held Victor on the frost and gone over his coat for a wound, and there had been nothing to press on. His hands had not known what to do. He put them in his pockets.
 
