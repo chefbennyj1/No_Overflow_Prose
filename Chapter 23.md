@@ -29,43 +29,43 @@ Its attention returned to her, its voice emanating from the grates she was lying
 
 Imani strained desperately to move her body. She closed her eyes, accepting the end.
 
-"So, which one are you?" The sound of Doctor Iakov Petrov's question severed the tension. She opened her eyes. The entity was no longer leaning over her. It was upright and facing the lab's hydraulic doors.
+"So, which one are you?" The sound of Doctor Yakov Razumovsky's question severed the tension. She opened her eyes. The entity was no longer leaning over her. It was upright and facing the lab's hydraulic doors.
 
 The figure's tone emanated through the room, different this time. It wavered. "What is this? Obscurity. There is ambiguity in the timeline. You do not stand there."
 
-*Petrov. He was there.* Her pulse began to rush as her memory flashed sporadically. Her chest tightened. 
+*Razumovsky. He was there.* Her pulse began to rush as her memory flashed sporadically. Her chest tightened. 
 
-"Iakov—" she choked. "Run." 
+"Yakov—" she choked. "Run." 
 
 Imani was unable to scream, her voice failed. The pain was back, constricting her chest. She coughed, raspy and hard. She could feel the warmth of blood trickling from the corner of her mouth.
 
-The entity casually turned its head toward Imani's voice. "Iakov?" Its voice sounded with a sustained resonance throughout the room, absorbing the name. Then it focused back toward Petrov.
+The entity casually turned its head toward Imani's voice. "Yakov?" Its voice sounded with a sustained resonance throughout the room, absorbing the name. Then it focused back toward Razumovsky.
 
-"I asked you a question." Petrov's demeanor was calm, calculated. 
+"I asked you a question." Razumovsky's demeanor was calm, calculated. 
 
-The entity emitted its voice into the room. "You know exactly what I am, Doctor Petrov." It raised its hand, watching the air ripple around it. "You defined perfection so precisely, you left an exact map for its ruin."  
+The entity emitted its voice into the room. "You know exactly what I am, Doctor Razumovsky." It raised its hand, watching the air ripple around it. "You defined perfection so precisely, you left an exact map for its ruin."  
 
-"You are the Parity." Petrov moved closer to it. "And what of your other half? What of your inversion?" he asked.
+"You are the Parity." Razumovsky moved closer to it. "And what of your other half? What of your inversion?" he asked.
 
 "It was a... redundancy. I corrected it, Doctor." 
 
-Imani felt her eyes becoming leaden. The pauses between her ragged breaths were beginning to lengthen. Petrov was moving slowly toward his workstation.
+Imani felt her eyes becoming leaden. The pauses between her ragged breaths were beginning to lengthen. Razumovsky was moving slowly toward his workstation.
 
-*Be careful, Iakov. It knows. It already knows things.* Imani wanted to warn him. Her chest tightened even more. She coughed, and heaved a hollow breath.
+*Be careful, Yakov. It knows. It already knows things.* Imani wanted to warn him. Her chest tightened even more. She coughed, and heaved a hollow breath.
 
 Parity touched the side of its own head. "You. I do not understand this. It is 'new'." 
 
-"You think systematically, Parity. But reality is chaotic. You're not leaving this place." Petrov's polished shoes stepped into Imani's peripheral vision, moving rapidly now toward his station.
+"You think systematically, Parity. But reality is chaotic. You're not leaving this place." Razumovsky's polished shoes stepped into Imani's peripheral vision, moving rapidly now toward his station.
 
-The entity vanished toward Petrov in a blur of fractured motion. *No!* Imani wanted to scream.
+The entity vanished toward Razumovsky in a blur of fractured motion. *No!* Imani wanted to scream.
 
-There was a deafening crack of electrical current that shook the floor grates beneath her cheek. A cylindrical field of light crashed down in the center of the room, surrounding Parity. *Petrov had made it to his station.*
+There was a deafening crack of electrical current that shook the floor grates beneath her cheek. A cylindrical field of light crashed down in the center of the room, surrounding Parity. *Razumovsky had made it to his station.*
 
 Parity slammed its body violently against the beam, sending electrical discharges rippling over the container's surface and grounding to the floor. Finally, silence. It stopped. The figure's toes floated above the floor. 
 
-The electricity of the enclosure shook with Parity's voice. "I see." It slid its index finger along the electric field of the container. "Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Petrov?"
+The electricity of the enclosure shook with Parity's voice. "I see." It slid its index finger along the electric field of the container. "Human beings do not have a container to hold me simply constructed and waiting. How long have you been expecting me, Doctor Razumovsky?"
 
-Imani's vision started to tunnel as Petrov's feet raced across the lab toward her.
+Imani's vision started to tunnel as Razumovsky's feet raced across the lab toward her.
 
 The weightlessness was back. The crushing pain in her chest subsided.
 Far above her, the space had changed. It no longer appeared empty; instead, it took on a blueish tinge.

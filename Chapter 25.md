@@ -37,7 +37,7 @@ Iris reached down and tapped the screen, muting the audio warning. "I'm not supp
 
 *Shadow process?*
 
-"We have to keep quiet—those agents—I definitely do not like them." She turned back to the monitors beside Imani's bed. "I figured you caught the shadow process. Doctor Petrov was hiding it. That inversion persona from the thesis—" 
+"We have to keep quiet—those agents—I definitely do not like them." She turned back to the monitors beside Imani's bed. "I figured you caught the shadow process. Doctor Razumovsky was hiding it. That inversion persona from the thesis—" 
 
 *Thesis?* A sharp pain swelled in Imani's chest. Tears welled in her eyes as she stared at the ceiling. A flood of memories—the glassy entity and the fractured laboratory returning in jagged fragments. She caught her breath.
 
@@ -49,7 +49,7 @@ Iris forced a lighter tone, tapping the plastic security badge clipped to the hi
 
 Iris walked over and pulled the blinds on the window. The afternoon sunlight hit Imani's face, the sudden warmth breaking the sterile feeling of the room.
 
-"Petrov is gone," Iris whispered, the words rushing out. Imani's wide eyes found Iris's. "I mean, he's not *gone* gone. He sealed himself inside the Mnemosyne lab the night of the breach. Corporate locked it down. No one goes in. No one comes out. At all."
+"Razumovsky is gone," Iris whispered, the words rushing out. Imani's wide eyes found Iris's. "I mean, he's not *gone* gone. He sealed himself inside the Mnemosyne lab the night of the breach. Corporate locked it down. No one goes in. No one comes out. At all."
 
 Imani gripped the edge of the heavy respirator with her left hand, pulled the elastic band over her hair, and threw the plastic aside. Ignoring the pain radiating through her chest, she pushed against the mattress to force herself into a sitting position. 
 

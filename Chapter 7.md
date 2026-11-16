@@ -48,7 +48,7 @@ Victor leaned back in his chair, ignoring the joke. He crushed the half-smoked c
 
 Harlan's smirk vanished. "Null 'stuck around'—to shoot tear gas at my face. Remember?"
 
-Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a digital folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Iakov Petrov." 
+Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a digital folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Yakov Razumovsky." 
 
 A sudden commotion erupted in the room as officers dragged a group of struggling demonstrators across the floor. Victor kept his focus on the screen. 
 
@@ -70,4 +70,4 @@ Victor slammed his fist against the desk, the sound cutting through the noise of
 
 The bullpen fell silent at the outburst. Victor ignored the stares, letting his temper cool as his focus narrowed. 
 
-"Time we paid Doctor Petrov a visit."
+"Time we paid Doctor Razumovsky a visit."

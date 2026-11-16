@@ -31,7 +31,7 @@ The ambulance turned.
 
 "Iris." Imani was awake, her voice stronger. "In the hospital, you said thesis."
 
-Iris told her about Petrov's office, and the leather portfolio she had found on his shelf. It was dated years before the engine was built. She knew the abstract by heart. She hadn't been able to forget it since the night she read it.
+Iris told her about Razumovsky's office, and the leather portfolio she had found on his shelf. It was dated years before the engine was built. She knew the abstract by heart. She hadn't been able to forget it since the night she read it.
 
 *Absolute alignment cannot exist without simultaneously mapping the framework of its inverse.*
 
@@ -109,7 +109,7 @@ Rin waited.
 
 Iris's breath caught.
 
-"Not him," it said. "There are two people in this city I cannot see. The detective is one. Doctor Petrov is the other. With them, there is nothing to read. I can only ask."
+"Not him," it said. "There are two people in this city I cannot see. The detective is one. Doctor Razumovsky is the other. With them, there is nothing to read. I can only ask."
 
 The wipers swept the windshield.
 
@@ -213,7 +213,7 @@ Iris got an arm under her shoulders and eased her down from the bumper.
 
 Imani looked for a long time.
 
-"Iakov," she breathed.
+"Yakov," she breathed.
 
 Her synthetic hand gripped Iris's sleeve, the carbon-fiber joints clicking in a frantic rhythm.
 
