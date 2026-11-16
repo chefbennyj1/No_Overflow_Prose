@@ -30,7 +30,7 @@ Imani didn't sound like herself. *Nervous*, the he thought, *and she should be*.
 
 Raising his cigarette to his lips one last time, the doctor inhaled until the end burned close to the filter. He held the smoke in his lungs, then exhaled and dropped the butt over the edge of the railing.
 
-The spent cigarette vanished into the fog. To Razumovsky, the cloud cover was a necessary filter. It formed an opaque floor between him and the corroded foundations of the lower city. 
+The spent cigarette vanished into the fog. The cloud cover was a necessary filter for him. It formed an opaque floor between him and the corroded foundations of the lower city. 
 
 The Dead Circuits. Crushed remains of Oshima city. Decades ago, Takeda-Holden hadn't bothered to demolish Oshima; they poured the concrete for New Veridia directly on top of it. He knew what lived down there, buried beneath his feet: a tangle of failing systems, and the millions scurrying through the forgotten city. Noise beneath the sleeping monster.
 
