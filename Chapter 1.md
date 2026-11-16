@@ -123,7 +123,7 @@ The doctor admired the synthetic. It existed solely for the objective, unburdene
 
 "Fusion Control says the thermal limits are safe, Doctor," the synthetic stated, its voice flat. 
 
-"Fusion Control does not understand the optics of my quantum singularity," Razumovsky retorted.
+"Fusion Control does not understand optics of my quantum singularity," Razumovsky retorted.
 
 A monotone voice echoed from the display grid above. "Satisfactory, Doctor Razumovsky," a shadowed silhouette stated. "The Company commends your success."
 
@@ -151,10 +151,10 @@ His teeth closed on the filter of the unlit cigarette. *There it was.*
 
 Razumovsky caught the gaze of a nearby synthetic and gave a subtle nod. Its eyes flared, snapping its focus to a second synthetic on the far side of the room. Together they scrubbed the shadow process from the logs, silent, practiced, done before Imani could turn around.
 
-"I don't like the Board," the doctor said, keeping his gaze fixed on the engine.
+"I do not like the Board," the doctor said, keeping his gaze fixed on the engine.
 
 "Funding, Yakov," she urged. "Remember the funding."
 
-"I don't like the Board," he repeated.
+"I do not like the Board," he repeated.
 
 Imani exhaled, rubbing her temples. "And everybody knows it."
