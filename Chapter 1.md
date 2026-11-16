@@ -119,15 +119,15 @@ At the adjacent console, a synthetic stood at attention. The designation *L-One-
 
 "Horizon stability confirmed," the machine reported.
 
-Razumovsky admired the synthetic. It existed solely for the objective, unburdened by human distractions. It was Imani's finest work. Of course, he knew her design was nothing compared to the singularity he had awakened.
+The doctor admired the synthetic. It existed solely for the objective, unburdened by human distractions. It was Imani's finest work. Of course, he knew her design was nothing compared to the singularity he had awakened.
 
 "Fusion Control says the thermal limits are safe, Doctor," the synthetic stated, its voice flat. 
 
 "Fusion Control doesn't understand the optics of my quantum singularity," Razumovsky retorted.
 
-A monotone voice echoed from the display grid above. "Satisfactory, Razumovsky," a shadowed silhouette stated. "The Company commends your success."
+A monotone voice echoed from the display grid above. "Satisfactory, Doctor Razumovsky," a shadowed silhouette stated. "The Company commends your success."
 
-Razumovsky scoffed. "Humph."
+The doctor scoffed. "Humph."
 
 Imani glanced toward the panels. "What the Doctor means is, we are glad that today has been a success."
 
@@ -135,7 +135,7 @@ Imani glanced toward the panels. "What the Doctor means is, we are glad that tod
 
 "Mass Displacement Anomaly? That wasn't in the preliminary notes, Yakov." Imani's true expression bled through as she looked at Razumovsky, peering past his dark glasses.
 
-Razumovsky turned, giving her his undivided attention for the first time.  She was looking for his eyes behind the dark lens of his glasses. He let her. 
+The doctor turned, giving her his undivided attention for the first time.  She was looking for his eyes behind the dark lens of his glasses. He let her. 
 
 "It's predicted resonance," he said, the corner of his mouth rising.
 
@@ -143,7 +143,7 @@ Imani shook her head. He watched her decide to believe him. "You know, it wouldn
 
 The cigarette was still unlit between his lips. He wanted a drag. 
 
-Razumovsky returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Imani and the technicians monitored the event horizon, Razumovsky observed the real experiment begin. 
+Razumovsky returned to the pillar readouts. A displacement anomaly was a perfect distraction. While Imani and the technicians monitored the event horizon, the doctor observed the real experiment begin. 
 
 Listed in the logs, record of a shadow process, quietly expanding in the core. 
 
