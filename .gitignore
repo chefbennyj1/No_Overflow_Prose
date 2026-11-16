@@ -1,3 +1,7 @@
 .audio/
 *.mp3
 *.wav
+
+# Recordings of the story read aloud, brought in from elsewhere (the audio
+# editor's Narration tab). A chapter each and large, like the rest of the audio.
+.narration/

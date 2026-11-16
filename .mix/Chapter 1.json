@@ -165,26 +165,6 @@
   ],
   "regions": [
     {
-      "id": "rmvpbicu62jca",
-      "track": "music",
-      "file": "Clock Tick.mp3",
-      "from": {
-        "text": "the dead circuits. crushed remains of oshima city. decades ago, tahkehh-da holden hadn't bothered to demolish oshima; th",
-        "index": 15,
-        "offset": 19.3,
-        "at": 227.325
-      },
-      "to": {
-        "text": "imani didn't blink. she remained where she was, her posture shifting from subordinate to commander as she leaned into th",
-        "index": 33,
-        "offset": 17.85,
-        "at": 487.775
-      },
-      "gain": 1,
-      "fadeIn": 2.5,
-      "fadeOut": 2.5
-    },
-    {
       "id": "rmvpc091rx408",
       "track": "music",
       "file": "Parity.mp3",
@@ -289,16 +269,16 @@
       "track": "music",
       "file": "Uneasy Half-Step.mp3",
       "from": {
-        "text": "the cigarette was still unlit between his lips. he wanted a drag.",
+        "text": "imani shook her head. he watched her decide to believe him. \"you know, it wouldn't hurt you to talk to the board.\" she t",
         "index": 68,
-        "offset": 3.642,
-        "at": 885.867
+        "offset": 11.662,
+        "at": 856.142
       },
       "to": {
         "text": "razumovsky caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second",
         "index": 73,
-        "offset": 14.417,
-        "at": 945.242
+        "offset": 18.917,
+        "at": 907.182
       },
       "gain": 0.41,
       "fadeIn": 2.5,
@@ -323,6 +303,32 @@
       "gain": 1,
       "fadeIn": 2.5,
       "fadeOut": 2.5
+    },
+    {
+      "id": "rmwjlnk54l65o",
+      "track": "music",
+      "file": "The Engine.mp3",
+      "from": {
+        "text": "the dead circuits. crushed remains of oshima city. decades ago, tahkehh-da holden hadn't bothered to demolish oshima; th",
+        "index": 15,
+        "offset": 22.792,
+        "at": 231.242
+      },
+      "to": {
+        "text": "\"all stations, ready for initialization.\" imani's voice reverberated in a crackle over the laboratory loudspeaker, almos",
+        "index": 34,
+        "offset": 7.692,
+        "at": 496.242
+      },
+      "gain": 0.58,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
     }
-  ]
+  ],
+  "recording": {
+    "files": [
+      "chapter_1 (2).wav"
+    ]
+  },
+  "narration": "recorded"
 }

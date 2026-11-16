@@ -9,7 +9,7 @@ Battered Takeda-Holden surveillance cameras clung to the steel poles of the inte
 
 Corporate security only understood normal violence, the kind run on greed or ego. A thief weighed the payout against the sentence.
 
-Nobody in the Circuits was weighing anything these days. At the corner, directly beneath a camera, a man smashed a length of pipe through the front of a ration kiosk and let it clank to the ground. His mask hung at his chin. He didn't look up, and he didn't run. He filled his coat pockets while the umbrellas parted around him and closed again, and the camera tracked him the whole way back into the crowd.
+Nobody in the Circuits was weighing anything these days. At the corner, directly beneath a camera, a man smashed a length of pipe through the front of a ration kiosk and let it clank to the ground. His mask hung at his chin. He didn't look up, and he didn't run. He filled his coat pockets while the umbrellas parted around him and closed again, and the camera tracked him back into the crowd.
 
 Rising from the center of the old blocks was a Company office building. A temporary, security barricade had been erected on the ground floor to protect the building's lower half. The monolith structure was a pristine slab of mirrored glass towering over the broken city. A holographic billboard clung to its facade, bleeding blue static into the smog. It advertised: *Takeda-Holden*.
   
