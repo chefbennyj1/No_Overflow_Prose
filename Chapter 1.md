@@ -103,7 +103,7 @@ She trailed off, finally looking up from her screen.
 
 Imani was staring at her, eyes piercing. "Negative," she said, her voice dropping into a scolding hiss through gritted teeth.
 
-She cast a quick glance up at the Board's display, and then to Razumovsky—an expression of fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
+She cast a quick glance up at the Board's display, and then to the doctor—an expression of fleeting dread that the subordinate could ruin the demonstration—before her piercing eyes snapped back to Iris.
 
 Razumovsky side-eyed the exchange. The girl's numbers were good. He didn't need to see her screen to know it.
 
