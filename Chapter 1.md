@@ -65,7 +65,7 @@ Above the primary consoles, a wall sized display flickered to life. The encrypte
 
 "Perfect," the doctor said, his lip curling. "Right on schedule."
 
-"The Takeda-Holden Corporation expects success today, Doctor Razumovsky," a voice echoed from the grid.
+"The Takeda-Holden Corporation expects success today, Razumovsky," a voice echoed from the grid.
 
 The doctor didn't bother to look back at the screen or at Imani, keeping his gaze fixed on the dormant core. "Very well, Miss Marlowe," he murmured. "Give them a show."
 
