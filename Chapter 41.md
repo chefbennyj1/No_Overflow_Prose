@@ -24,7 +24,7 @@ Harlan paid all three.
 
 "Then you'll hear from me again on the first."
 
-He continued down the corridor to the green wooden door. The fake blue flowers sat in their cheap vase beside the frame, collecting dust. There were seven. He had counted them through every visit Victor ever made, but he had never seen the other side of the door.
+He continued down the corridor to the green wooden door. The fake blue flowers sat in their cheap vase beside the frame, collecting dust. There were seven. He had counted them on every visit he had come with Victor, but he had never seen the other side of the door.
 
 Jackie had the boxes stacked by the front door at home. He had told her he had one stop to make.
 
