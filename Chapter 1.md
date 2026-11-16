@@ -53,7 +53,7 @@ To Razumovsky, they were the crown of a cage, built to hold an anti-star.
 Recirculated cooling gas rolled across the engine pit. It curled round the pillars and poured over the edges of the floor, stabilizing the dormant core. The great engine was powered down, silent and waiting.
 
 
-"Main Fusion's supply is a drop in the bucket for what we're asking it to unearth, Miss Marlowe," Razumovsky said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
+"Main Fusion's supply is a drop in the bucket for what we're asking it to unearth, Miss Marlowe," the doctor said, his voice dropping into a gravelly rasp. He pulled a fresh cigarette from his coat pocket and slid it between his lips, though he didn't light it. 
 
 He braced himself against the railing and leaned forward, his reflection distorted in the safety glass. "The board wants better data compression. A smarter artificial intelligence to predict their margins."
 
@@ -63,11 +63,11 @@ A humorless breath fogged the glass. "What I'm building will pioneer a new era."
 
 Above the primary consoles, a wall sized display flickered to life. The encrypted feed partitioned the screen into a grid of digital monitors. Each square displayed the featureless silhouette of a corporate executive.
 
-"Perfect," Razumovsky said, his lip curling. "Right on schedule."
+"Perfect," the doctor said, his lip curling. "Right on schedule."
 
-"The Takeda-Holden Corporation expects success today, Razumovsky," a voice echoed from the grid.
+"The Takeda-Holden Corporation expects success today, Doctor Razumovsky," a voice echoed from the grid.
 
-Razumovsky didn't bother to look back at the screen or at Imani, keeping his gaze fixed on the dormant core. "Very well, Miss Marlowe," he murmured. "Give them a show."
+The doctor didn't bother to look back at the screen or at Imani, keeping his gaze fixed on the dormant core. "Very well, Miss Marlowe," he murmured. "Give them a show."
 
 Imani didn't blink. She remained where she was, her posture shifting from subordinate to commander as she leaned into the microphone of the control room. There was a quick succession of two tones over the speaker system. Technicians in white coats looked up from their consoles.
 
@@ -75,11 +75,11 @@ Imani didn't blink. She remained where she was, her posture shifting from subord
 
 The room erupted into a synchronized motion.
 
-Below Razumovsky, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog.
+Below the doctor, the engine responded. Dense fog pooling at the base of the pillars surged upward, flooding the pit as the cooling valves released a torrent of thick gas. Then, one by one, the black screens on the sides of the pillars displayed the boot sequence. They flickered at first, before stabilizing into flows of crisp white and blue text logs, falling down each pillar screen, illuminating the swirling fog.
 
 The mechanical drone of the reactor shifted into a rhythmic pulse, a vibration creeping through the concrete and into their bones. 
 
-Razumovsky’s smile widened. He watched the data streams, read every line as it fell. The rhythm—the heartbeat of the engine—resonated through the bedrock, through the rail and into his palms. He tightened his grip and took in the magnitude of his creation.  
+The doctor’s smile widened. He watched the data streams, read every line as it fell. The rhythm—the heartbeat of the engine—resonated through the bedrock, through the rail and into his palms. He tightened his grip and took in the magnitude of his creation.  
 
 The Board watched from their remote offices, certain distance would keep them safe. They didn’t understand, if containment failed, the rupture would swallow them as easily as the lab. 
 
@@ -89,7 +89,7 @@ Razumovsky leaned in.
 
 Imani stepped up to the railing, studying a datapad in her hand, her tense posture relaxing a fraction. "The initialization sequence is holding steady," she said, a rare note of satisfaction bleeding into her voice. She stepped closer to him, so only he could hear, "The containment calculations were flawless, Yakov. You calculated activation. Congratulations."
 
-"Of course they were," Razumovsky said, the unlit cigarette bobbing between his lips.
+"Of course they were," the doctor said, the unlit cigarette bobbing between his lips.
 
 On the executive display above the floor, the grid of silhouettes leaned forward. A metallic murmur of approval. Predatory interest. The Takeda-Holden Corporation was watching their investment come to life. 
 
