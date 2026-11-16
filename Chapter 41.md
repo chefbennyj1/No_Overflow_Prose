@@ -3,11 +3,16 @@ music: Beautifully_Sad.mp3
 ---
 Frank Harlan walked down the faded seafoam hallway of Oshima Civic Care. The blue and yellow checkered linoleum stuck to his shoes. Overhead, the fluorescents lit the hall steady. In all the times he had walked this corridor behind Victor, he had never seen them without a flicker.
 
-He stopped at the front desk and picked up the chained stylus. The last line in the visitor log was in Victor's hand, the letters slanted hard to the right. Harlan set the stylus under it.
+He stopped at the front desk and picked up the chained stylus. The last line in the visitor log was in Victor's hand, the letters slanted hard to the right. Harlan took a moment and looked at the print and thought about his friend before setting the stylus under it.
 
 He looked up at the nurse behind the desk. "Frank Harlan, for Arthur Graves."
 
-The nurse looked past his shoulder, down the empty corridor. Then she turned her screen toward him before he finished signing. Three numbers sat under the balance.
+The nurse looked past his shoulder, down the empty corridor. 
+
+
+*She was looking for him, but he wasn't coming anymore.*
+
+Then she turned her screen toward him before he finished signing. Three numbers sat under the balance.
 
 Harlan paid all three.
 
