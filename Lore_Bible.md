@@ -1,6 +1,8 @@
 # NO OVERFLOW - Lore Bible
 
-> **Canon update (14 Nov 2026):** Doctor **Silas Blackwell** has been renamed to **Doctor Iakov Petrova** (`I. Petrova`) and **Elena Marlowe** has been renamed to **Imani Marlowe** across the entire manuscript (Chapters 1–40). Historical notes below still reference "Silas" / "Blackwell" and "Elena."
+> **Canon update (14 Nov 2026):** Doctor **Silas Blackwell** has been renamed to **Doctor Iakov Petrov** (`I. Petrov`) and **Elena Marlowe** has been renamed to **Imani Marlowe** across the entire manuscript (Chapters 1–40). Historical notes below still reference "Silas" / "Blackwell" and "Elena."
+>
+> **Canon update (15 Nov 2026):** The surname is **Petrov**, the masculine form ("Petrova" is the feminine and was corrected story-wide). Petrov is Russian and speaks with a thick Russian accent, named at his first line in Ch. 1.
 
 ## 1. The History of Synthetic Intelligence (The Swarm Era)
 * **The Architect:** Elena Marlowe spent her early career drafting the core architecture, neural matrices, and artificial "minds" that animated the previous generation of synthetics/androids.

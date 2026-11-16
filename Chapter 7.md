@@ -1,9 +1,9 @@
 ---
 music: Sad_Drone_1.mp3
 ---
-Victor walked down the faded seafoam hallway of Oshima Civic Care, the blue and yellow checkered linoleum worn dull underfoot. Overhead, the dying fluorescents sputtered with an electrical buzz—the harsh glare stinging his pale eyes the way it did every visit. He stopped at the front desk, dragging the chained stylus across the visitor log. He looked up at the nurse behind the desk. "Victor Graves, for Arthur Graves."
+Victor walked down the faded seafoam hallway of Oshima Civic Care, the blue and yellow checkered linoleum worn dull underfoot. Overhead, the dying fluorescents sputtered with an electrical buzz—the harsh glare stinging his pale eyes the way it did every visit. He stopped at the front desk, dragging the chained stylus across the visitor log. The nurse behind the desk looked up at him. "Victor Graves, for Arthur Graves."
 
-The nurse turned her screen toward him before he finished signing. The balance had a second number under it now. 
+She was working a wad of gum in the back of her mouth, her lips never closing. Every third chew, she rolled it across her tongue and snapped a wet pocket of air against her teeth. Victor's fingers tightened on the stylus. Without a word, she turned her screen toward him before he finished signing. The balance had a second number under it now. 
 
 He continued down the corridor until he reached a degraded wooden door painted green. An arrangement of fake blue flowers sat collecting dust in a cheap vase beside the frame. Victor adjusted the collar of his trench coat and pushed the door open. 
 
@@ -48,7 +48,7 @@ Victor leaned back in his chair, ignoring the joke. He crushed the half-smoked c
 
 Harlan's smirk vanished. "Null 'stuck around'—to shoot tear gas at my face. Remember?"
 
-Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a digital folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Iakov Petrova." 
+Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a digital folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Iakov Petrov." 
 
 A sudden commotion erupted in the room as officers dragged a group of struggling demonstrators across the floor. Victor kept his focus on the screen. 
 
@@ -70,4 +70,4 @@ Victor slammed his fist against the desk, the sound cutting through the noise of
 
 The bullpen fell silent at the outburst. Victor ignored the stares, letting his temper cool as his focus narrowed. 
 
-"Time we paid Doctor Petrova a visit."
+"Time we paid Doctor Petrov a visit."

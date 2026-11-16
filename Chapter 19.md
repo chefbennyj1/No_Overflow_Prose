@@ -3,7 +3,7 @@ music: Parity_Theme.mp3
 ---
 The dark of the lab's observation deck felt suffocating. Bronze holographic circuitry seared across the entity's weightless frame, illuminating the concrete under it. Its hollow eyes, kept their inhuman gaze locked on Imani. 
 
-Before Imani could move, the lab's overhead intercom crackled to life. Static cut through, followed by Iakov Petrova's voice. Stripped of its usual arrogance. Breathless, frantic, he was speaking into a microphone from somewhere deep in the stairwell. 
+Before Imani could move, the lab's overhead intercom crackled to life. Static cut through, followed by Iakov Petrov's voice. Stripped of its usual arrogance. Breathless, frantic, he was speaking into a microphone from somewhere deep in the stairwell. 
 
 "Imani! It wasn't supposed to break through the boundary! Don't let it see you move!" His voice echoed through the lab. " Run!"
 

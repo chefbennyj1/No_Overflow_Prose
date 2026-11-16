@@ -10,7 +10,7 @@ Rin lunged forward and grabbed Imani by the shoulder of her coat, while Harper c
 
 Behind their heels, the granite floor gave way.
 
-The entire lip of the crater—the torn synthetic limbs and Petrova's dark glasses lying in the snow—sheared off the bedrock in a single slab. It folded inward, drawn down into a blinding pinhole of white light at the bottom of the gorge.
+The entire lip of the crater—the torn synthetic limbs and Petrov's dark glasses lying in the snow—sheared off the bedrock in a single slab. It folded inward, drawn down into a blinding pinhole of white light at the bottom of the gorge.
 
 They threw themselves behind the stone pedestal of the nearest statue.
 
@@ -44,7 +44,7 @@ Iris came up on Imani's other side, her broken glasses in her hand. She wasn't l
 
 "It needed something to go back in," she said. "I knew that in the ambulance. I didn't say it."
 
-Imani stood closest to the drop, the sleeve of her white coat still dark with Petrova's blood. At her side, the black fingers of her prosthetic hand flexed and released, the small servos clicking in the quiet.
+Imani stood closest to the drop, the sleeve of her white coat still dark with Petrov's blood. At her side, the black fingers of her prosthetic hand flexed and released, the small servos clicking in the quiet.
 
 "Four weeks," Imani said. Her voice was flat, barely carrying over the hiss of the ruptured mains below. "We spent four weeks in that room trying to shut her down. And Iakov..." She trailed off, her eyes fixed on the twisted girders where the lab had been. "Until the end, he told me she was only an equation balancing itself."
 

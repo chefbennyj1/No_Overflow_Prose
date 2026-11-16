@@ -5,22 +5,21 @@ Frank Harlan walked down the faded seafoam hallway of Oshima Civic Care. The blu
 
 He stopped at the front desk and picked up the chained stylus. The last line in the visitor log was in Victor's hand, the letters slanted hard to the right. Harlan took a moment and looked at the print and thought about his friend before setting the stylus under it.
 
-He looked up at the nurse behind the desk. "Frank Harlan, for Arthur Graves."
+The nurse behind the desk looked up at him, chewing a wad of gum with her mouth open. "Frank Harlan, for Arthur Graves."
 
-The nurse looked past his shoulder, down the empty corridor. 
+She looked past his shoulder, down the empty corridor.
 
+*She was looking for him.*
 
-*She was looking for him*
+"He's not coming," Harlan said.
 
-"He's not coming." Harlan said.
-
-She gave up looking, shrugged, and turned her screen toward him before he finished signing. Three numbers sat under the balance.
+Her jaw stopped for a beat. Then she gave up looking, shrugged, and went right back to chewing as she turned her screen toward him before he finished signing. Three numbers sat under the balance.
 
 Harlan paid all three.
 
 "It comes due again on the first," the nurse said.
 
-"Then you'll hear form me again on the first."
+"Then you'll hear from me again on the first."
 
 He continued down the corridor to the green wooden door. The fake blue flowers sat in their cheap vase beside the frame, collecting dust. There were seven. He had counted them through every visit Victor ever made, but he had never seen the other side of the door.
 

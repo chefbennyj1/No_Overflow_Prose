@@ -39,7 +39,7 @@ Rin knew where it came from before they got there. The hangar. She thought back 
 
 "Jesus, Rin. Is this what I—" Harper started.
 
-"Yes, Harper," Vigil said, her dual tones level. "This is expected. Erin Adler's theft always results in the synthetic march on the lab. But three variables have broken the timeline. Imani Marlowe is breathing. Victor Graves is in this path. And Doctor Petrova is not dead."
+"Yes, Harper," Vigil said, her dual tones level. "This is expected. Erin Adler's theft always results in the synthetic march on the lab. But three variables have broken the timeline. Imani Marlowe is breathing. Victor Graves is in this path. And Doctor Petrov is not dead."
 
 At the end of the trampled band, the tower's lowest doors faced the street. They had been glass. Now the frames stood empty, and the glass lay across the snow in a wide fan, every piece of it on the outside.
 

@@ -79,9 +79,9 @@ Imani didn't hesitate. She reached out with her right arm. The black fingers of 
 
 "Yes, Doctor Marlowe. I am Vigil." The synthetic studied her. "In every timeline I can see, you die at the hands of the Parity. Not in this one."
 
-"Parity." A sharp pain shot through Imani's chest, and she grabbed her ribs. "Petrova stopped it. He saved my life."
+"Parity." A sharp pain shot through Imani's chest, and she grabbed her ribs. "Petrov stopped it. He saved my life."
 
-"I cannot see Petrova's path," Vigil said. "He is an obscurity. He has altered this timeline. Having you alive may benefit our cause, Doctor Marlowe." She paused. "I am glad to meet a creator."
+"I cannot see Petrov's path," Vigil said. "He is an obscurity. He has altered this timeline. Having you alive may benefit our cause, Doctor Marlowe." She paused. "I am glad to meet a creator."
 
 Vigil started to pull Imani up from the stretcher. Then she went still.
 
@@ -93,7 +93,7 @@ Vigil didn't look at her. She stared into the fog, toward the part of the city w
 
 "I lost sight of her four weeks ago," Vigil said, her dual tones flat. "Something has been hiding her from me."
 
-Iris touched Imani's shoulder. "It's the cage," she said, to Vigil, to all of them. "Petrova's locked in the lab with her. She's not going anywhere."
+Iris touched Imani's shoulder. "It's the cage," she said, to Vigil, to all of them. "Petrov's locked in the lab with her. She's not going anywhere."
 
 Vigil didn't answer.
 

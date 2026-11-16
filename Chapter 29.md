@@ -3,9 +3,9 @@ music: Terrifying_Sadness.mp3
 ---
 Victor walked down the faded seafoam colored hallway of Oshima Civic Care. The blue and yellow checkered linoleum stuck to his boots. The fluorescent lights overhead died with an electrical buzz, then flickered back to life. 
 
-He stopped at the front desk, dragging the chained stylus across the visitor log. He looked up at the nurse behind the desk. "Victor Graves, for Arthur Graves." 
+He stopped at the front desk, dragging the chained stylus across the visitor log. The nurse behind the desk looked up at him, her jaw working the same wet wad of gum. "Victor Graves, for Arthur Graves." 
 
-The nurse turned her screen toward him before he finished signing. The balance had a third number under it now. Victor stared at the screen. He let out a slow breath, dropped the stylus against the counter, and walked toward his father's room.
+She snapped the gum against her teeth and turned her screen toward him before he finished signing. The balance had a third number under it now. Victor stared at the screen. He let out a slow breath, dropped the stylus against the counter, and walked toward his father's room.
 
 Harlan walked beside him until they reached the green wooden door. He stopped in the hallway, and leaned back against the wall, beside the cheap vase holding the arrangement of fake blue flowers.
 
