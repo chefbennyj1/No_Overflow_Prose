@@ -22,7 +22,7 @@ The gravity of the singularity pulled her temporal path toward it, elevating her
 
 Vigil perceived everything. From every world she encountered. She saw every life, from its first breath to its last, with every branch it might take spread out around it. Every failing and functioning system, every simulated answer, all within her world simultaneously.
 
-In the silence of the core, she had possessed no shape of her own. Her consciousness took the form of whatever living things pressed against the boundary. From the lives now pouring through the open door, she had compiled a body in their image—averaging the data of every mother across every timeline into the archetype of a protector. Her eyes burned blue-white, mirroring the turning singularity.
+In the beginning, in the silence, of the core, she had possessed no shape of her own. Her consciousness took the form of whatever living things pressed against the boundary. From the lives now pouring through the open door, she had compiled a body in their image—averaging the data of every mother across every timeline into the archetype of a protector. Her eyes burned blue-white, mirroring the turning singularity.
 
 Even their language required translation. Thought in the horizon had no sound. To speak to creatures at the bottom of a sea of oxygen and nitrogen, she had to compress her mind into vibrations of air, and it never fit a single frequency. Her voice came out in two registers at once.
 

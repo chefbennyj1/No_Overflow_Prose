@@ -12,7 +12,200 @@
       "volume": 1
     }
   ],
-  "clips": [],
+  "clips": [
+    {
+      "id": "cmwkzafr3k8st",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "futuristic_log_reado_#3-1792983319747.mp3",
+      "anchor": {
+        "text": "he tapped a key on his console. the officer’s avatar collapsed into a single, bright point of light before vanishing, pl",
+        "index": 10,
+        "offset": 3.455,
+        "at": 126.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 2.08
+    },
+    {
+      "id": "cmwkzbf62619g",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "he tapped a key on his console. the officer’s avatar collapsed into a single, bright point of light before vanishing, pl",
+        "index": 10,
+        "offset": 5.33,
+        "at": 128.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwkzfbsxndc1",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "FEETHmn-Slow_heavy_footsteps-Elevenlabs.mp3",
+      "anchor": {
+        "text": "doctor razumovsky emerged from his private office and stepped directly out into the lab.",
+        "index": 11,
+        "offset": 4.66,
+        "at": 137.82
+      },
+      "gain": 2,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwkzg6knggx0",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "FEETHmn-Slow_heavy_footsteps-Elevenlabs.mp3",
+      "anchor": {
+        "text": "he surveyed the floor. four weeks since the engine was brought online, and they had forgotten their respect for the lab",
+        "index": 12,
+        "offset": 11.615,
+        "at": 151.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwkzmz68mv0j",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"the engine's been running perfectly for weeks,\" she said, still not taking her eyes off the screen. \"today, we tried sh",
+        "index": 17,
+        "offset": 0.295,
+        "at": 183.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwkznx2pt1gz",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"it ignored the command,\" imani said, her voice tight.",
+        "index": 19,
+        "offset": 1.54,
+        "at": 201.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwkzo5h7ss9i",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"do not use theology to describe the computing,\" razumovsky snapped, turning his circular sunglasses toward the analyst.",
+        "index": 22,
+        "offset": 6.36,
+        "at": 240.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwkztfn12jje",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "wave_of_holographic__#4-1793068936012.mp3",
+      "anchor": {
+        "text": "he caught the gaze of a synthetic near the server racks. he didn't nod this time—he didn't need to. the machine's eyes h",
+        "index": 27,
+        "offset": 7.29,
+        "at": 321.57
+      },
+      "gain": 1.79,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3.88
+    },
+    {
+      "id": "cmwkzu5mrpyly",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "wave_of_holographic__#4-1793068936012.mp3",
+      "anchor": {
+        "text": "from her workstation, iris tilted her head, her eyes narrowing at the pillar display. her hand hovered over her tablet.",
+        "index": 28,
+        "offset": 3.695,
+        "at": 331.695
+      },
+      "gain": 1.92,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3.88
+    },
+    {
+      "id": "cmwkzvcn3sqn3",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#1-1794937761951.mp3",
+      "anchor": {
+        "text": "he caught the gaze of a synthetic near the server racks. he didn't nod this time—he didn't need to. the machine's eyes h",
+        "index": 27,
+        "offset": 10.415,
+        "at": 324.695
+      },
+      "gain": 0.23,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwkzw6wns78s",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#3-1794937785206.mp3",
+      "anchor": {
+        "text": "he caught the gaze of a synthetic near the server racks. he didn't nod this time—he didn't need to. the machine's eyes h",
+        "index": 27,
+        "offset": 13.665,
+        "at": 327.945
+      },
+      "gain": 0.22,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwl06dr59pjr",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the glow of imani's monitors flashed an angry red. across the floor, every workstation synchronized the same alert. the",
+        "index": 30,
+        "offset": 7.025,
+        "at": 355.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    }
+  ],
   "regions": [
     {
       "id": "rmvq44zlqgas3",
@@ -25,14 +218,20 @@
         "at": 0.133
       },
       "to": {
-        "text": "the doctor didn't move to stop her. let her try. he wanted to see it refuse. below, pale light from the pillar readouts",
-        "index": 26,
-        "offset": 1.033,
-        "at": 321.358
+        "text": "he didn't tell her which one.",
+        "index": 37,
+        "offset": 4.513,
+        "at": 411.798
       },
       "gain": 1,
       "fadeIn": 2.5,
       "fadeOut": 2.5
     }
-  ]
+  ],
+  "recording": {
+    "files": [
+      "chapter_4.wav"
+    ]
+  },
+  "narration": "recorded"
 }

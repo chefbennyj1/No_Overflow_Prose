@@ -161,6 +161,54 @@
       "fadeIn": 0,
       "fadeOut": 0,
       "seconds": 6.6
+    },
+    {
+      "id": "cmwkzz4url892",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#3-1794937785206.mp3",
+      "anchor": {
+        "text": "razumovsky caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second",
+        "index": 73,
+        "offset": 9.955,
+        "at": 898.82
+      },
+      "gain": 0.57,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwkzzeva43co",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "wave_of_holographic__#4-1793068936012.mp3",
+      "anchor": {
+        "text": "razumovsky caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second",
+        "index": 73,
+        "offset": 6.705,
+        "at": 895.57
+      },
+      "gain": 1.93,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3.88
+    },
+    {
+      "id": "cmwkzzillhbt7",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "wave_of_holographic__#4-1793068936012.mp3",
+      "anchor": {
+        "text": "razumovsky caught the gaze of a nearby synthetic and gave a subtle nod. its eyes flared, snapping its focus to a second",
+        "index": 73,
+        "offset": 13.705,
+        "at": 902.57
+      },
+      "gain": 2,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3.88
     }
   ],
   "regions": [
