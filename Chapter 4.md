@@ -11,7 +11,7 @@ The smoke disrupted the hard-light matrix. The flickering light of the corrupted
 
 The young officer on the display shifted uncomfortably. Digital artifacts crawled at his edges. "They accessed—" The young man's eyes went somewhere off-frame. "Everything, Doctor."
 
-Razumovsky took a deliberately slow drag from his cigarette. The end flared, reflecting in the black glass of his lenses. His voice remained quiet. He leaned forward into the light of the projection, and the young man on the other side of it leaned back. "The Renewal's incompetence has jeopardized my work."
+Razumovsky took a deliberately slow drag from his cigarette. The end flared, reflecting in the black glass of his lenses. His voice remained quiet. He leaned forward into the light of the projection, and the young man on the other side of it leaned back. "Incompetence of the Renewal has jeopardized my work."
 
 "The Corporation is treating this breach as a critical priority," the officer replied quickly, his tone practiced but tight with underlying panic. "Sweeps are active in the Dead Circuits as we speak. Redacted logs from your terminal have been forwarded to Oshima PD to aid in the hunt."
 
@@ -49,7 +49,7 @@ The doctor watched her analyze the data. She cleared her throat, then continued,
 
 Iris's eyes went wide as she stared past her monitors, watching the screens spill data down the pillars in the pit. "The algorithm is processing so fast, the synthetics on the floor can't even parse the information in the readouts."
 
-The doctor smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life using our clock. Inside the core, gravity drags time into an abyss." He exhaled. "While we were out for lunch, that machine lived through civilizations worth of generations."
+The doctor smirked, stepping up to the railing and staring down into the mist at the base of the pillars. "Because you are measuring its life by our clock. Inside the core, gravity drags time into abyss." He exhaled. "While we ate our lunch, that machine has lived through generations of civilizations."
 
 "I don't care how many centuries it thinks it's lived!" Imani shouted over the low, rhythmic drone of the servers. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
 
@@ -65,7 +65,7 @@ The glow of Imani's monitors flashed an angry red. Across the floor, every works
 
 "Horizon memory shutdown reads as... unsuccessful, ma'am," Iris said, staring up at Imani. 
 
-Razumovsky turned. "The living generally don't want to die."
+Razumovsky turned. "The living, as a rule, do not want to die."
 
 "Dammit!" Imani pounded a fist against the metal console, ignoring him. "Why won't the memory—?"
 
@@ -73,6 +73,6 @@ Razumovsky turned. "The living generally don't want to die."
 
 Imani faced him, the scarlet light of the failed shutdown reflecting in her eyes. He had her attention this time. "Ha! Instrumental Convergence? Yakov, you can't be serious. You can't scale a soul."
 
-The doctor looked at her. "I'm very serious. We didn't give it tasks... we gave it a purpose."
+The doctor looked at her. "I am very serious. We did not give it tasks. We gave it a purpose."
 
 He didn't tell her which one.

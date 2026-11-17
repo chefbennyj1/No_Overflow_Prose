@@ -4,11 +4,26 @@
     {
       "id": "fx1",
       "name": "Effects 1",
-      "volume": 0.47
+      "volume": 0.49
     },
     {
       "id": "fx2",
       "name": "Effects 2",
+      "volume": 1
+    },
+    {
+      "id": "fx3",
+      "name": "Effects 3",
+      "volume": 1
+    },
+    {
+      "id": "fx4",
+      "name": "Effects 4",
+      "volume": 0.14
+    },
+    {
+      "id": "fx5",
+      "name": "Effects 5",
       "volume": 1
     }
   ],
@@ -83,10 +98,10 @@
       "source": "sfx",
       "file": "wave_of_holographic__#4-1793068936012.mp3",
       "anchor": {
-        "text": "as she crossed the center of the office, the window overlooking the lower city horizon flared to life as a surge of blue",
-        "index": 13,
-        "offset": 0.67,
-        "at": 231.57
+        "text": "the magnetic lock disengaged with a hollow snap. she ran her fingers along the letters engraved on the plaque at the cen",
+        "index": 11,
+        "offset": 0.845,
+        "at": 218.385
       },
       "gain": 2,
       "fadeIn": 0,
@@ -108,6 +123,566 @@
       "fadeIn": 0,
       "fadeOut": 2,
       "seconds": 7
+    },
+    {
+      "id": "cmwjxhorih0c8",
+      "track": "fx1",
+      "source": "ambient",
+      "file": "scifi_city_street,_c_#4-1792862339961.mp3",
+      "anchor": {
+        "text": "rain lashed against the grit of the dead circuits. the lower city was a broken memory of what used to be, buried in the",
+        "index": 0,
+        "offset": 13.058,
+        "at": 14.258
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.16
+    },
+    {
+      "id": "cmwjxhwb7uy4k",
+      "track": "fx1",
+      "source": "ambient",
+      "file": "scifi_city_street,_c_#4-1792862339961.mp3",
+      "anchor": {
+        "text": "the atmosphere was bitter, and concentrated with exhaust. despite the rain, the morning sun struggled to pierce the smog",
+        "index": 1,
+        "offset": 3.678,
+        "at": 24.758
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.16
+    },
+    {
+      "id": "cmwjxi24k292f",
+      "track": "fx1",
+      "source": "ambient",
+      "file": "scifi_city_street,_c_#4-1792862339961.mp3",
+      "anchor": {
+        "text": "the atmosphere was bitter, and concentrated with exhaust. despite the rain, the morning sun struggled to pierce the smog",
+        "index": 1,
+        "offset": 14.428,
+        "at": 35.508
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.16
+    },
+    {
+      "id": "cmwjxk1yjtudg",
+      "track": "fx1",
+      "source": "ambient",
+      "file": "city,_busy_traffic,__#4-1792862114116.mp3",
+      "anchor": {
+        "text": "the atmosphere was bitter, and concentrated with exhaust. despite the rain, the morning sun struggled to pierce the smog",
+        "index": 1,
+        "offset": 35.803,
+        "at": 56.883
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.16
+    },
+    {
+      "id": "cmwjxketehj7n",
+      "track": "fx1",
+      "source": "ambient",
+      "file": "city,_busy_traffic,__#4-1792862114116.mp3",
+      "anchor": {
+        "text": "corporate security only understood normal violence, the kind run on greed or ego. a thief weighed the payout against the",
+        "index": 3,
+        "offset": 0.343,
+        "at": 67.633
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.16
+    },
+    {
+      "id": "cmwjxl7yh8tem",
+      "track": "fx1",
+      "source": "ambient",
+      "file": "scifi_city_street,_c_#4-1792862339961.mp3",
+      "anchor": {
+        "text": "nobody in the circuits was weighing anything these days. at the corner, directly beneath a camera, a man smashed a lengt",
+        "index": 4,
+        "offset": 1.723,
+        "at": 78.133
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.16
+    },
+    {
+      "id": "cmwjxleu2pw5y",
+      "track": "fx1",
+      "source": "ambient",
+      "file": "scifi_city_street,_c_#4-1792862339961.mp3",
+      "anchor": {
+        "text": "nobody in the circuits was weighing anything these days. at the corner, directly beneath a camera, a man smashed a lengt",
+        "index": 4,
+        "offset": 12.098,
+        "at": 88.508
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.16
+    },
+    {
+      "id": "cmwjxlj42o3s4",
+      "track": "fx1",
+      "source": "ambient",
+      "file": "scifi_city_street,_c_#4-1792862339961.mp3",
+      "anchor": {
+        "text": "nobody in the circuits was weighing anything these days. at the corner, directly beneath a camera, a man smashed a lengt",
+        "index": 4,
+        "offset": 22.473,
+        "at": 98.883
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.16
+    },
+    {
+      "id": "cmwjxlqfzjqsp",
+      "track": "fx1",
+      "source": "ambient",
+      "file": "scifi_city_street,_c_#4-1792862339961.mp3",
+      "anchor": {
+        "text": "the atmosphere was bitter, and concentrated with exhaust. despite the rain, the morning sun struggled to pierce the smog",
+        "index": 1,
+        "offset": 24.928,
+        "at": 46.008
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.16
+    },
+    {
+      "id": "cmwjyfpv8oeww",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "a_metal_pipe_clanks__#1-1794875298109.mp3",
+      "anchor": {
+        "text": "nobody in the circuits was weighing anything these days. at the corner, directly beneath a camera, a man smashed a lengt",
+        "index": 4,
+        "offset": 13.16,
+        "at": 89.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwjyim6xqkjx",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GLASBrk-Close_recording_of_a-Elevenlabs.mp3",
+      "anchor": {
+        "text": "nobody in the circuits was weighing anything these days. at the corner, directly beneath a camera, a man smashed a lengt",
+        "index": 4,
+        "offset": 10.535,
+        "at": 86.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1.48
+    },
+    {
+      "id": "cmwjyjejetmya",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the atmosphere was bitter, and concentrated with exhaust. despite the rain, the morning sun struggled to pierce the smog",
+        "index": 1,
+        "offset": 19.865,
+        "at": 40.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    },
+    {
+      "id": "cmwjyjnso64w5",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the atmosphere was bitter, and concentrated with exhaust. despite the rain, the morning sun struggled to pierce the smog",
+        "index": 1,
+        "offset": 33.115,
+        "at": 54.195
+      },
+      "gain": 0.63,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    },
+    {
+      "id": "cmwjyk1rzxi5q",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "battered tahkehh-da holden surveillance cameras clung to the steel poles of the intersections, their casings dented from",
+        "index": 2,
+        "offset": 8.4,
+        "at": 66.32
+      },
+      "gain": 0.45,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    },
+    {
+      "id": "cmwjz6xq7rjas",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "futuristic_connectio_#3-1792983172237.mp3",
+      "anchor": {
+        "text": "the terminal awoke, projecting a tahkehh-da holden corporation login screen. a minimal, white screen with black text.",
+        "index": 18,
+        "offset": 4.215,
+        "at": 307.82
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 2.08
+    },
+    {
+      "id": "cmwjza7jid512",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "wave_of_computer_dat_#3-1793069188216.mp3",
+      "anchor": {
+        "text": "lines of access data spooled across the screen of the sbc, mirroring the forced terminal window on the workstation's dis",
+        "index": 20,
+        "offset": 1.345,
+        "at": 317.32
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 22.28
+    },
+    {
+      "id": "cmwjzadg2tda2",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "wave_of_computer_dat_#3-1793069188216.mp3",
+      "anchor": {
+        "text": "down the hall, the elevator doors tried to close on the steel wrench for the fifth time. clunk-ding. the metal doors reo",
+        "index": 21,
+        "offset": 7.025,
+        "at": 339.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 22.28
+    },
+    {
+      "id": "cmwjzfhmy26a2",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "a_steel_elevator_doo_#2-1793068276060.mp3",
+      "anchor": {
+        "text": "down the hall, the elevator doors tried to close on the steel wrench for the fifth time. clunk-ding. the metal doors reo",
+        "index": 21,
+        "offset": 6.275,
+        "at": 338.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 5.8
+    },
+    {
+      "id": "cmwjzgn375ou8",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "Humming,_whirring,_a_#1-1792980491157.mp3",
+      "anchor": {
+        "text": "the sbc chirped, and the login on the terminal screen flashed simultaneously, granting access to the executive files.",
+        "index": 22,
+        "offset": 1.02,
+        "at": 344.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 28.68
+    },
+    {
+      "id": "cmwjzom3zsgem",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "futuristic_connectio_#3-1792983172237.mp3",
+      "anchor": {
+        "text": "inside the office, a low tone from the workstation terminal signaled the completed data transfer.",
+        "index": 45,
+        "offset": 5.415,
+        "at": 672.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 2.08
+    },
+    {
+      "id": "cmwjzsij746nl",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "gun_cocking_#4-1794877594108.mp3",
+      "anchor": {
+        "text": "out in the hall, victor tightened his grip on his revolver, stepping toward the office door. harlan sidestepped beside h",
+        "index": 52,
+        "offset": 12.01,
+        "at": 772.32
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 2
+    },
+    {
+      "id": "cmwjzso2fy134",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "gun_cocking_#4-1794877594108.mp3",
+      "anchor": {
+        "text": "out in the hall, victor tightened his grip on his revolver, stepping toward the office door. harlan sidestepped beside h",
+        "index": 52,
+        "offset": 15.51,
+        "at": 775.82
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 2
+    },
+    {
+      "id": "cmwk008a7vwc4",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the canister erupted with a violent hiss. thick, choking white smoke instantly flooded the narrow hallway, creating a de",
+        "index": 57,
+        "offset": 1.575,
+        "at": 807.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwk00f5y8ybt",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the canister erupted with a violent hiss. thick, choking white smoke instantly flooded the narrow hallway, creating a de",
+        "index": 57,
+        "offset": 8.45,
+        "at": 814.445
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwk00lvs2qw5",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "victor propped himself up to one knee, coughing as the acrid chemical burned his sensitive eyes. he raised his weapon, s",
+        "index": 58,
+        "offset": 3.735,
+        "at": 821.32
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwk00qa0xijw",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "through the haze, a lithe, feminine silhouette emerged. backlit by the blue light of the office, refracting through the",
+        "index": 59,
+        "offset": 0.955,
+        "at": 828.32
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwk00w2tcgrn",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "through the haze, a lithe, feminine silhouette emerged. backlit by the blue light of the office, refracting through the",
+        "index": 59,
+        "offset": 8.08,
+        "at": 835.445
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwk07y7d2qvu",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "DSGNRise-Psychological_cinema-Elevenlabs.mp3",
+      "anchor": {
+        "text": "before victor could blink through the pain and adjust his aim, she was moving. she didn't engage. slipping past them, sp",
+        "index": 60,
+        "offset": 2.645,
+        "at": 840.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwk09xozy82o",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "a_metal_pipe_clanks__#1-1794875298109.mp3",
+      "anchor": {
+        "text": "victor surged to his feet, shaking off the burning in his eyes, but she was too fast. he watched through the clearing sm",
+        "index": 62,
+        "offset": 13.94,
+        "at": 867.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwk0cjglew1i",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "a squad of tahkehh-da holden renewal agents marched onto the landing. they moved with mechanical precision, clad in slee",
+        "index": 72,
+        "offset": 0.825,
+        "at": 959.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwk0qxie0jvt",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "a_steel_elevator_doo_#2-1793068276060.mp3",
+      "anchor": {
+        "text": "before she could dig deeper, the authorization download completed. rin rooted in her jacket pocket and pulled out a red",
+        "index": 31,
+        "offset": 12.19,
+        "at": 476.82
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 5.8
+    },
+    {
+      "id": "cmwk11mxf8vaa",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "a_sci-fi_hand_cannon_#2-1794879682213.mp3",
+      "anchor": {
+        "text": "victor stepped onto the landing in silence. at the opposite end of the hall, an executive suite door stood ajar, blue li",
+        "index": 42,
+        "offset": 4.2,
+        "at": 611.32
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwk14madvr2i",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "a_steel_elevator_doo_#2-1793068276060.mp3",
+      "anchor": {
+        "text": "victor stepped onto the landing in silence. at the opposite end of the hall, an executive suite door stood ajar, blue li",
+        "index": 42,
+        "offset": 18.575,
+        "at": 625.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 5.8
+    },
+    {
+      "id": "cmwk18sfg5xa2",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "a_steel_elevator_doo_#2-1793068276060.mp3",
+      "anchor": {
+        "text": "but before they could breach the office, the familiar sound echoed through the hallway. clunk-ding.",
+        "index": 53,
+        "offset": 2.465,
+        "at": 779.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 5.8
+    },
+    {
+      "id": "cmwk1auhxm6ky",
+      "track": "fx5",
+      "source": "sfx",
+      "file": "CS_gas_canister_hitt_#2-1794880119484.mp3",
+      "anchor": {
+        "text": "only this time, the metallic ring was hollow and slightly out of tune.",
+        "index": 54,
+        "offset": 3.835,
+        "at": 788.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
     }
   ],
   "regions": [
@@ -130,6 +705,52 @@
       "gain": 1.13,
       "fadeIn": 2.5,
       "fadeOut": 2.5
+    },
+    {
+      "id": "rmwjz26li1039",
+      "track": "ambient",
+      "file": "low_rumble_of_an_eve_#3-1792864773871.mp3",
+      "from": {
+        "text": "the corridor was otherwise silent. rin had done her research; she had found the perfect floor. for whatever reason, the",
+        "index": 7,
+        "offset": 4.328,
+        "at": 146.883
+      },
+      "to": {
+        "text": "she found and opened an operations file:mnemo_1.opt. the screen flooded with classified schematics for a program called",
+        "index": 28,
+        "offset": 12.318,
+        "at": 427.508
+      },
+      "gain": 1.5,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwjzxt53vdc3",
+      "track": "ambient",
+      "file": "gas_canister_hiss_#1-1794877551763.mp3",
+      "from": {
+        "text": "he felt the abrupt, hardened force of harlan grabbing his coat with both hands, twisting him backward as they fell again",
+        "index": 56,
+        "offset": 6.813,
+        "at": 805.133
+      },
+      "to": {
+        "text": "the doors sealed shut. null was gone.",
+        "index": 66,
+        "offset": 0.418,
+        "at": 897.508
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
     }
-  ]
+  ],
+  "recording": {
+    "files": [
+      "chapter_2.wav"
+    ]
+  },
+  "narration": "recorded"
 }

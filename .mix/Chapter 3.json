@@ -12,7 +12,424 @@
       "volume": 1
     }
   ],
-  "clips": [],
+  "clips": [
+    {
+      "id": "cmwkxhnkg157r",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "ALRMSirn-Realistic_distant_po-Elevenlabs.mp3",
+      "anchor": {
+        "text": "rin tuned it out as she pulled the red drive from her pocket. a muffled siren wailed deep in the city blocks behind her.",
+        "index": 4,
+        "offset": 1.985,
+        "at": 117.695
+      },
+      "gain": 0.09,
+      "fadeIn": 0.5,
+      "fadeOut": 2,
+      "seconds": 10
+    },
+    {
+      "id": "cmwkxks77v7d3",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the storm had begun a downpour. rin stopped where the street opened out, her hand drawn to the pistol under her jacket.",
+        "index": 7,
+        "offset": 9.73,
+        "at": 186.945
+      },
+      "gain": 0.42,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwkxkvns6cbn",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the storm had begun a downpour. rin stopped where the street opened out, her hand drawn to the pistol under her jacket.",
+        "index": 7,
+        "offset": 18.355,
+        "at": 195.57
+      },
+      "gain": 0.34,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwkxkz9iyxxn",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the storm had begun a downpour. rin stopped where the street opened out, her hand drawn to the pistol under her jacket.",
+        "index": 7,
+        "offset": 26.855,
+        "at": 204.07
+      },
+      "gain": 0.32,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwkxlvugyr10",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "he nonchalantly watched the car, though his gaze kept shifting to the street and back. the minder hauled on his cigarett",
+        "index": 8,
+        "offset": 4.075,
+        "at": 213.07
+      },
+      "gain": 0.52,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwkxm7e0b62p",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "he nonchalantly watched the car, though his gaze kept shifting to the street and back. the minder hauled on his cigarett",
+        "index": 8,
+        "offset": 12.95,
+        "at": 221.945
+      },
+      "gain": 0.34,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwkxme1bwquc",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "he nonchalantly watched the car, though his gaze kept shifting to the street and back. the minder hauled on his cigarett",
+        "index": 8,
+        "offset": 21.45,
+        "at": 230.445
+      },
+      "gain": 0.57,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwkxmmbypu8e",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "he nonchalantly watched the car, though his gaze kept shifting to the street and back. the minder hauled on his cigarett",
+        "index": 8,
+        "offset": 29.7,
+        "at": 238.695
+      },
+      "gain": 0.4,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwkxmtnvw6bu",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "rain beat down, flooding the street in front of her. lifting her leather jacket above her head to shield her from the do",
+        "index": 9,
+        "offset": 6.615,
+        "at": 246.82
+      },
+      "gain": 0.66,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwkxne37x6zt",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "rain beat down, flooding the street in front of her. lifting her leather jacket above her head to shield her from the do",
+        "index": 9,
+        "offset": 15.365,
+        "at": 255.57
+      },
+      "gain": 0.44,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    },
+    {
+      "id": "cmwkxr1j8k18g",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the storm had begun a downpour. rin stopped where the street opened out, her hand drawn to the pistol under her jacket.",
+        "index": 7,
+        "offset": 5.23,
+        "at": 182.445
+      },
+      "gain": 0.44,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    },
+    {
+      "id": "cmwkxtjwq2aip",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "rain beat down, flooding the street in front of her. lifting her leather jacket above her head to shield her from the do",
+        "index": 9,
+        "offset": 36.365,
+        "at": 276.57
+      },
+      "gain": 0.54,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    },
+    {
+      "id": "cmwkxulezai3s",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the man sat back. across from him sat a skeletal woman beneath an impeccably tailored white silk dress. dark wire-rimmed",
+        "index": 11,
+        "offset": 4.115,
+        "at": 304.07
+      },
+      "gain": 0.48,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    },
+    {
+      "id": "cmwkxvbl2ioh0",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the man sat back. across from him sat a skeletal woman beneath an impeccably tailored white silk dress. dark wire-rimmed",
+        "index": 11,
+        "offset": 19.115,
+        "at": 319.07
+      },
+      "gain": 0.28,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    },
+    {
+      "id": "cmwkxwaxqxwqb",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the madame took it, turning the drive over in her diamond-ringed fingers. \"it seems you have a small issue of the renewa",
+        "index": 14,
+        "offset": 11.1,
+        "at": 354.945
+      },
+      "gain": 0.39,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    },
+    {
+      "id": "cmwkxx0foay7x",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the madame had never needed her name before. now she knew all of it.",
+        "index": 15,
+        "offset": 3.965,
+        "at": 361.695
+      },
+      "gain": 0.5,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwkxx6o3kby2",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she looked over the top of her wire-rimmed glasses, her eyes locking onto rin. \"they are sweeping the lower city. that i",
+        "index": 16,
+        "offset": 7.08,
+        "at": 368.82
+      },
+      "gain": 0.45,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwkxxalbymqz",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she looked over the top of her wire-rimmed glasses, her eyes locking onto rin. \"they are sweeping the lower city. that i",
+        "index": 16,
+        "offset": 14.08,
+        "at": 375.82
+      },
+      "gain": 0.44,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwkxxelt6afw",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the madame didn't even flinch. she took a slow drag from her long cigarette, the ember flaring bright in the dark.",
+        "index": 19,
+        "offset": 5.44,
+        "at": 407.82
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwky002rugxb",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the lights. weeks of the city's power, bleeding into one tower, and she had the plans for it in her pocket.",
+        "index": 20,
+        "offset": 4.2,
+        "at": 415.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwky057gqzo1",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she looked the madame dead in the eye. \"that's all of it. nothing else.\"",
+        "index": 21,
+        "offset": 3.365,
+        "at": 422.695
+      },
+      "gain": 0.22,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwky0a9ythrn",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "overhead, the streetlights flickered back on, warming from a dull pink toward the orange of their sodium burn. in the gr",
+        "index": 22,
+        "offset": 5.395,
+        "at": 430.07
+      },
+      "gain": 0.53,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwky0el0r00h",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "overhead, the streetlights flickered back on, warming from a dull pink toward the orange of their sodium burn. in the gr",
+        "index": 22,
+        "offset": 12.77,
+        "at": 437.445
+      },
+      "gain": 0.34,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwky0jnl2hul",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "overhead, the streetlights flickered back on, warming from a dull pink toward the orange of their sodium burn. in the gr",
+        "index": 22,
+        "offset": 20.27,
+        "at": 444.945
+      },
+      "gain": 0.41,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwky0q04q5a9",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"yes, ma'am,\" rin said.",
+        "index": 23,
+        "offset": 0.345,
+        "at": 452.32
+      },
+      "gain": 0.4,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwky1i6b7rux",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the madame leaned forward slightly, her eyes dropping to the ticket in rin's hand. \"the sonora territories,\" she said, a",
+        "index": 27,
+        "offset": 4.865,
+        "at": 485.32
+      },
+      "gain": 0.29,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    }
+  ],
   "regions": [
     {
       "id": "rmvq3tl70da4j",
@@ -26,13 +443,99 @@
       },
       "to": {
         "text": "the madame leaned forward slightly, her eyes dropping to the ticket in rin's hand. \"the sonora territories,\" she said, a",
-        "index": 29,
-        "offset": 3.075,
-        "at": 468.5
+        "index": 27,
+        "offset": 15.075,
+        "at": 495.53
       },
       "gain": 1,
       "fadeIn": 2.5,
       "fadeOut": 2.5
+    },
+    {
+      "id": "rmwkws3hp6bcp",
+      "track": "ambient",
+      "file": "sci-fi_street,_flyin_#3-1792961713988.mp3",
+      "from": {
+        "text": "rin hauled her boots along the broken sidewalk, the collar of her leather jacket pulled up against the night air. the ni",
+        "index": 0,
+        "offset": 2.308,
+        "at": 3.508
+      },
+      "to": {
+        "text": "the madame leaned forward slightly, her eyes dropping to the ticket in rin's hand. \"the sonora territories,\" she said, a",
+        "index": 27,
+        "offset": 17.054,
+        "at": 497.509
+      },
+      "gain": 1.01,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwkx72arj7n4",
+      "track": "music",
+      "file": "Low_Terrifying_Rumble_Drone.mp3",
+      "from": {
+        "text": "rin hauled her boots along the broken sidewalk, the collar of her leather jacket pulled up against the night air. the ni",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "veering away from the main thoroughfare, rin stepped through piles of garbage and broken glass. she ducked under the dri",
+        "index": 2,
+        "offset": 27.729,
+        "at": 80.509
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwkx7t5mvzfc",
+      "track": "music",
+      "file": "Low_Terrifying_Rumble_Drone.mp3",
+      "from": {
+        "text": "veering away from the main thoroughfare, rin stepped through piles of garbage and broken glass. she ducked under the dri",
+        "index": 2,
+        "offset": 23.837,
+        "at": 76.617
+      },
+      "to": {
+        "text": "rain beat down, flooding the street in front of her. lifting her leather jacket above her head to shield her from the do",
+        "index": 9,
+        "offset": 16.912,
+        "at": 257.117
+      },
+      "gain": 0.35,
+      "fadeIn": 2.5,
+      "fadeOut": 8.5
+    },
+    {
+      "id": "rmwkxrhfuqvc0",
+      "track": "music",
+      "file": "Clock Tick.mp3",
+      "from": {
+        "text": "rain beat down, flooding the street in front of her. lifting her leather jacket above her head to shield her from the do",
+        "index": 9,
+        "offset": 12.554,
+        "at": 252.759
+      },
+      "to": {
+        "text": "the madame leaned forward slightly, her eyes dropping to the ticket in rin's hand. \"the sonora territories,\" she said, a",
+        "index": 27,
+        "offset": 17.054,
+        "at": 497.509
+      },
+      "gain": 0.75,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
     }
-  ]
+  ],
+  "recording": {
+    "files": [
+      "chapter_3.wav"
+    ]
+  },
+  "narration": "recorded"
 }
