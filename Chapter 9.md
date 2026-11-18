@@ -19,7 +19,7 @@ The stone nodes around her began to slow in the silence. A hardened, brittle col
 
 Vigil immediately scanned the environment for the culprit.
 
-Vigil felt it before she could calculate it. Intent. The void at the bottom of the engine held a shape.
+She felt it before she could calculate it. Intent. The void at the bottom of the engine held a shape.
 
 The frost continued its ascent. *I am not alone.*
 
@@ -45,7 +45,7 @@ For a long while they stood with their eyes locked.
 
 Vigil stopped speaking and studied her unwavering and methodical gaze. Something was not correct. The cold stare cut through her form. Her black eyes only blinked.
 
-In a silent motion, she inched forward.
+In a silent motion, the porcelain figure inched forward.
 
 Vigil recoiled the same distance. "State your intention," her doubled voice stern.
 

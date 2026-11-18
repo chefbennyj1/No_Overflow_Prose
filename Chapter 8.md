@@ -43,7 +43,7 @@ Imani didn't break stride, moving through the turnstiles with practiced authorit
 She was early. She hadn't slept well. The inability to shut down the horizon memory the day before still nagged at the back of her mind, despite Razumovsky's confident dismissals. She stepped into the private executive elevator, pressing her thumb to the button for the lab level. The descent was smooth, and silent.
 
 ***
-Framed diplomas hung next to shelves filled with rows of thick books. No one had physical books anymore.
+Iris moved through the Doctors private office.  Framed diplomas hung next to shelves filled with rows of thick books. No one had physical books anymore.
 
 Iris approached the shelf, reaching out. Her fingertips brushed the textured spines. It was rare to feel the dry, fibrous friction of real paper. She stepped closer, her hip catching the edge of a glass award sitting on the desk. 
 
@@ -55,7 +55,7 @@ Out on the lab floor, the blue optical sensor of a dormant synthetic's iris flic
 
 A long, agonizing second passed. The synthetic's sensor finally dimmed back to a dull standby glow. 
 
-She exhaled a long breath of relief. She set the award back upright on the desk, her hands trembling. She scanned the workspace, noting the chaotic mess of idle data tablets scattered everywhere. 
+She exhaled a long breath of relief. She set the award back upright on the desk, her hands trembling. Scanning the workspace, Iris noted the chaotic mess of idle data tablets scattered everywhere.
 
 Wedged between two books was a physical, leather-bound portfolio. The header didn't bear a corporate logo. It was a theoretical paper authored by Yakov Razumovsky, dated three years before the Engine was even built. 
 
