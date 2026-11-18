@@ -24,7 +24,7 @@
       "source": "sfx",
       "file": "DSGNRise-Psychological_cinema-Elevenlabs.mp3",
       "anchor": {
-        "text": "the speed of causality. the maximum speed of the universe. two hundred ninety-nine million, seven hundred ninety-two tho",
+        "text": "causality. nothing in the universe moves faster than cause and effect. push past it and the order of things comes loose.",
         "index": 0,
         "offset": -1.13,
         "at": 0.07
@@ -40,10 +40,10 @@
       "source": "sfx",
       "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
       "anchor": {
-        "text": "the speed of causality. the maximum speed of the universe. two hundred ninety-nine million, seven hundred ninety-two tho",
-        "index": 0,
-        "offset": 14.995,
-        "at": 16.195
+        "text": "the newmoscene engine was built to break it: to tear a hole through the known universe and fill it with the mass of an a",
+        "index": 1,
+        "offset": 6.7,
+        "at": 16.445
       },
       "gain": 1,
       "fadeIn": 0,
@@ -154,8 +154,8 @@
       "anchor": {
         "text": "the newmoscene engine was built to break it: to tear a hole through the known universe and fill it with the mass of an a",
         "index": 1,
-        "offset": 8.22,
-        "at": 26.945
+        "offset": 8.345,
+        "at": 18.09
       },
       "gain": 1,
       "fadeIn": 0,
@@ -237,16 +237,16 @@
       "track": "music",
       "file": "Blackwell.mp3",
       "from": {
-        "text": "the speed of causality. the maximum speed of the universe. two hundred ninety-nine million, seven hundred ninety-two tho",
+        "text": "causality. nothing in the universe moves faster than cause and effect. push past it and the order of things comes loose.",
         "index": 0,
-        "offset": -1.075,
-        "at": 0.125
+        "offset": -1.2,
+        "at": 0
       },
       "to": {
         "text": "razumovsky turned and walked past imani, stepping through the sliding glass doors into the corporate atrium. the multi-t",
         "index": 16,
-        "offset": 14.525,
-        "at": 245.95
+        "offset": 14.4,
+        "at": 237.65
       },
       "gain": 0.64,
       "fadeIn": 2.5,
@@ -257,16 +257,16 @@
       "track": "ambient",
       "file": "deadly_wind_blows._#2-1792862656793.mp3",
       "from": {
-        "text": "the speed of causality. the maximum speed of the universe. two hundred ninety-nine million, seven hundred ninety-two tho",
+        "text": "causality. nothing in the universe moves faster than cause and effect. push past it and the order of things comes loose.",
         "index": 0,
-        "offset": -0.95,
-        "at": 0.25
+        "offset": -1.2,
+        "at": 0
       },
       "to": {
         "text": "razumovsky turned and walked past imani, stepping through the sliding glass doors into the corporate atrium. the multi-t",
         "index": 16,
-        "offset": 9.586,
-        "at": 241.011
+        "offset": 9.336,
+        "at": 232.586
       },
       "gain": 0.38,
       "fadeIn": 2.5,
