@@ -25,7 +25,7 @@ Iris knew what Doctor Razumovsky and Marlowe saw when they looked at her: a girl
 
 Predicted resonance. She had run the numbers from that first morning four times since. It wasn't resonance.
 
-Iris stood up. Her footsteps were silent on the metal grating as she crossed the lab. She slipped into the office, the air inside smelling faintly of cold cigarette smoke. 
+Iris stood up. Her footsteps were silent on the metal grating as she crossed the lab. She slipped into Doctor Razumovsky's private office, the air inside smelling faintly of cold cigarette smoke.
 
 ***
 

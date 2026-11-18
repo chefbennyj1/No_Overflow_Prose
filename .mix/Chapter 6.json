@@ -1,0 +1,1778 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "fx1",
+      "name": "Effects 1",
+      "volume": 1
+    },
+    {
+      "id": "fx2",
+      "name": "Effects 2",
+      "volume": 1
+    },
+    {
+      "id": "fx3",
+      "name": "Effects 3",
+      "volume": 1
+    },
+    {
+      "id": "fx4",
+      "name": "Effects 4",
+      "volume": 1
+    },
+    {
+      "id": "fx5",
+      "name": "Effects 5",
+      "volume": 1
+    },
+    {
+      "id": "fx6",
+      "name": "Effects 6",
+      "volume": 1
+    },
+    {
+      "id": "fx7",
+      "name": "Effects 7",
+      "volume": 1
+    }
+  ],
+  "clips": [
+    {
+      "id": "cmwl7iu1eutfs",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the light on the elevator panel hit her floor. the doors parted.",
+        "index": 4,
+        "offset": 4.735,
+        "at": 49.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwl7jt7g1xyj",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "DSGNRise-Prompt_Cinematic_ten-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
+        "index": 21,
+        "offset": 9.2,
+        "at": 224.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 5.16
+    },
+    {
+      "id": "cmwl7spocpvdk",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "gun_cocking_#4-1794877594108.mp3",
+      "anchor": {
+        "text": "she dropped the act, ripping the pistol from her holster and driving the muzzle square into the center-mass of the agent",
+        "index": 16,
+        "offset": 2.55,
+        "at": 154.32
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 2
+    },
+    {
+      "id": "cmwl7tzyx2vb2",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "DSGNRise-Psychological_cinema-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she pulled the trigger point-blank. the blast inside the tiny metal elevator car was agonizingly loud. the violent recoi",
+        "index": 18,
+        "offset": 2.125,
+        "at": 162.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwl7vhrjetw8",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "WEAPMisc-Revolver_gun_shot-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she pulled the trigger point-blank. the blast inside the tiny metal elevator car was agonizingly loud. the violent recoi",
+        "index": 18,
+        "offset": 2.125,
+        "at": 162.695
+      },
+      "gain": 1.98,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwl858lfb6i7",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNMisc-High-pitched_ringing-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she pulled the trigger point-blank. the blast inside the tiny metal elevator car was agonizingly loud. the violent recoi",
+        "index": 18,
+        "offset": 3.375,
+        "at": 163.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1.26
+    },
+    {
+      "id": "cmwl8955spiih",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GUNAuto-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 1.675,
+        "at": 230.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwl8992xdok1",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "GUNRif-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 0.925,
+        "at": 229.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwl89l6h8l5k",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "GUNAuto-Rapid_automatic_mach-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 1.925,
+        "at": 230.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 0.887
+    },
+    {
+      "id": "cmwl8ep1vpvjq",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "WEAPArmr-Interior_of_a_tank_w-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 6.675,
+        "at": 235.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwl8es9awy1u",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "WEAPArmr-Interior_of_a_tank_w-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 8.55,
+        "at": 237.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwl8ewb5idjv",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "WEAPArmr-Interior_of_a_tank_w-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 6.425,
+        "at": 235.445
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwl8f67anu4g",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "WEAPArmr-Interior_of_a_tank_w-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 8.175,
+        "at": 237.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwl8fy37z8nz",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "WEAPArmr-Interior_of_a_tank_w-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 8.675,
+        "at": 237.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwl8g1hf84bz",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "WEAPArmr-Interior_of_a_tank_w-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 10.05,
+        "at": 239.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwl8g9golwlo",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "WEAPArmr-Interior_of_a_tank_w-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 10.8,
+        "at": 239.82
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwl8gs3hky3s",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GUNRif-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 10.8,
+        "at": 239.82
+      },
+      "gain": 0.5,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwl8hmfpgdet",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GUNAuto-Rapid_automatic_mach-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 2.3,
+        "at": 231.32
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 0.887
+    },
+    {
+      "id": "cmwl8iadf0hwt",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "HMNHart-heart_beating-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 6.55,
+        "at": 235.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7.08
+    },
+    {
+      "id": "cmwl8im1w5bwb",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GUNAuto-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 4.425,
+        "at": 233.445
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwl8itq0uvqj",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "GUNRif-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 4.05,
+        "at": 233.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwlb5eqtzcci",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
+        "index": 21,
+        "offset": 3.95,
+        "at": 218.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwlbmegt9nn3",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "DSGNRise-Prompt_Cinematic_ten-Elevenlabs.mp3",
+      "anchor": {
+        "text": "standing directly in front of the open door, waiting for the lift, were two tahkehh-da holden renewal agents in their bl",
+        "index": 6,
+        "offset": 4.76,
+        "at": 58.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 5.16
+    },
+    {
+      "id": "cmwlbw4f8wqfm",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "DSGNRise-Psychological_cinema-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"identification?\" rin asked, offering a forced, compliant nod. her right hand slid slowly into her jacket as she stepped",
+        "index": 15,
+        "offset": 8.58,
+        "at": 150.57
+      },
+      "gain": 1.77,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwlbyng1rgeg",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "DSGNRise-Prompt_Cinematic_ten-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she dropped the act, ripping the pistol from her holster and driving the muzzle square into the center-mass of the agent",
+        "index": 16,
+        "offset": 3.3,
+        "at": 155.07
+      },
+      "gain": 1.28,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 5.16
+    },
+    {
+      "id": "cmwlc4icingxy",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GUNAuto-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "rin grit her teeth, threw her hand back around the corner into the line of fire, and snatched the drive off the carpet.",
+        "index": 28,
+        "offset": 9.64,
+        "at": 313.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwlc4lqrlopu",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GUNAuto-Rapid_automatic_mach-Elevenlabs.mp3",
+      "anchor": {
+        "text": "clutching it tight, she kicked the steel door to the emergency stairwell open and pulled herself up. she abandoned the h",
+        "index": 29,
+        "offset": 0.3,
+        "at": 314.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 0.887
+    },
+    {
+      "id": "cmwlc4px69z6y",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GUNRif-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "rin grit her teeth, threw her hand back around the corner into the line of fire, and snatched the drive off the carpet.",
+        "index": 28,
+        "offset": 8.89,
+        "at": 312.32
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwlc4uwncc0k",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GUNAuto-Rapid_automatic_mach-Elevenlabs.mp3",
+      "anchor": {
+        "text": "rin grit her teeth, threw her hand back around the corner into the line of fire, and snatched the drive off the carpet.",
+        "index": 28,
+        "offset": 9.265,
+        "at": 312.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 0.887
+    },
+    {
+      "id": "cmwlc5tfu78wv",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "DSGNBram-Epic_heroic_deity_en-Elevenlabs.mp3",
+      "anchor": {
+        "text": "rin grit her teeth, threw her hand back around the corner into the line of fire, and snatched the drive off the carpet.",
+        "index": 28,
+        "offset": 1.265,
+        "at": 304.695
+      },
+      "gain": 0.31,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.48
+    },
+    {
+      "id": "cmwlc76n2hbiq",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "HMNMisc-High-pitched_ringing-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"radio it in,\" a muffled, modulated voice echoed down the stairwell behind her, barely audible over the ringing in her e",
+        "index": 30,
+        "offset": 6.65,
+        "at": 331.32
+      },
+      "gain": 0.76,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1.26
+    },
+    {
+      "id": "cmwlc7vbnoce0",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNMisc-High-pitched_ringing-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 6.55,
+        "at": 235.57
+      },
+      "gain": 0.55,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1.26
+    },
+    {
+      "id": "cmwlckh1lpiyo",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNMisc-High-pitched_ringing-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"radio it in,\" a muffled, modulated voice echoed down the stairwell behind her, barely audible over the ringing in her e",
+        "index": 30,
+        "offset": 7.4,
+        "at": 332.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1.26
+    },
+    {
+      "id": "cmwlckq21wc42",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNMisc-High-pitched_ringing-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 8.55,
+        "at": 237.57
+      },
+      "gain": 0.55,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1.26
+    },
+    {
+      "id": "cmwlcmooijgzl",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GUNRif-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"shit!\" rin gasped. her back pressed against the wall, she squeezed her wrist between her thumb and forefinger, drumming",
+        "index": 23,
+        "offset": 1.285,
+        "at": 264.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwlcms9yuzjd",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GUNAuto-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"shit!\" rin gasped. her back pressed against the wall, she squeezed her wrist between her thumb and forefinger, drumming",
+        "index": 23,
+        "offset": 3.91,
+        "at": 267.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwlcmvh3aozv",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "GUNRif-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"shit!\" rin gasped. her back pressed against the wall, she squeezed her wrist between her thumb and forefinger, drumming",
+        "index": 23,
+        "offset": 11.16,
+        "at": 274.445
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwlcn28gl6k0",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "GUNAuto-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"shit!\" rin gasped. her back pressed against the wall, she squeezed her wrist between her thumb and forefinger, drumming",
+        "index": 23,
+        "offset": 8.285,
+        "at": 271.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwlcn4oewlwl",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GUNRif-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the slow, trenching crunch of combat boots advanced down the hallway. peering around the corner, rin spotted her thumb d",
+        "index": 25,
+        "offset": 2.005,
+        "at": 280.445
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwlcn8ndentb",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "GUNRif-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the slow, trenching crunch of combat boots advanced down the hallway. peering around the corner, rin spotted her thumb d",
+        "index": 25,
+        "offset": 8.38,
+        "at": 286.82
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwlcndpaj7z7",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "GUNRif-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 30.675,
+        "at": 259.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwlcng7d8lw9",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GUNAuto-ak47_rifle_automatic-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 32.05,
+        "at": 261.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1
+    },
+    {
+      "id": "cmwldd937r9qc",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "a_steel_elevator_doo_#2-1793068276060.mp3",
+      "anchor": {
+        "text": "she leaned against the back wall as the car rattled upward. her hand rested over her jacket pocket. the drive was still",
+        "index": 3,
+        "offset": 7.38,
+        "at": 44.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 5.8
+    },
+    {
+      "id": "cmwlder7hdi6j",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "standing directly in front of the open door, waiting for the lift, were two tahkehh-da holden renewal agents in their bl",
+        "index": 6,
+        "offset": 13.26,
+        "at": 66.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwldfbfs53x6",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "rin slammed her hand against the elevator's 'close door' button, stepping backward into the car.",
+        "index": 7,
+        "offset": 1.715,
+        "at": 79.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwldfy38k4fq",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the rusted doors began to slide shut, but an agent jammed its armored forearm between them. the metal groaned to a stop,",
+        "index": 8,
+        "offset": 6.15,
+        "at": 90.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwldj66u85wc",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the rusted doors began to slide shut, but an agent jammed its armored forearm between them. the metal groaned to a stop,",
+        "index": 8,
+        "offset": 18.775,
+        "at": 103.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwldljt7otes",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the agent didn't budge. \"resident identification required for renewal protocol. citizen, show me your i.d.\"",
+        "index": 14,
+        "offset": 2.77,
+        "at": 136.445
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwldn66ezhn1",
+      "track": "fx5",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she pulled the trigger point-blank. the blast inside the tiny metal elevator car was agonizingly loud. the violent recoi",
+        "index": 18,
+        "offset": 1.875,
+        "at": 162.445
+      },
+      "gain": 1.5,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwldoulm2pw6",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNMisc-Sharp_deafening_tinn-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she pulled the trigger point-blank. the blast inside the tiny metal elevator car was agonizingly loud. the violent recoi",
+        "index": 18,
+        "offset": 3.5,
+        "at": 164.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwldqf1v265f",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "HMNMisc-High-pitched_ringing-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she pulled the trigger point-blank. the blast inside the tiny metal elevator car was agonizingly loud. the violent recoi",
+        "index": 18,
+        "offset": 5.625,
+        "at": 166.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 1.26
+    },
+    {
+      "id": "cmwldt9pb62d5",
+      "track": "fx5",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she pulled the trigger point-blank. the blast inside the tiny metal elevator car was agonizingly loud. the violent recoi",
+        "index": 18,
+        "offset": 18,
+        "at": 178.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwldu989ydh5",
+      "track": "fx5",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "rin didn't wait to grab the gun. she shoved past the staggered agent and stumbled into the hall. the agent planted her f",
+        "index": 19,
+        "offset": 0.675,
+        "at": 186.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwldudvwgkf7",
+      "track": "fx5",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "rin didn't wait to grab the gun. she shoved past the staggered agent and stumbled into the hall. the agent planted her f",
+        "index": 19,
+        "offset": 9.175,
+        "at": 195.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwldwiirj7yg",
+      "track": "fx5",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "rin turned in the hallway to face them, posturing with outstretched arms, feeling the walls with her fingertips. she ste",
+        "index": 20,
+        "offset": 7.845,
+        "at": 203.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwldyr79mm0w",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "WEAPArmr-Interior_of_a_tank_w-Elevenlabs.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 5.05,
+        "at": 234.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwleiyhuf1kr",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "standing directly in front of the open door, waiting for the lift, were two tahkehh-da holden renewal agents in their bl",
+        "index": 6,
+        "offset": 14.135,
+        "at": 67.445
+      },
+      "gain": 0.46,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlej55prs1p",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "standing directly in front of the open door, waiting for the lift, were two tahkehh-da holden renewal agents in their bl",
+        "index": 6,
+        "offset": 16.885,
+        "at": 70.195
+      },
+      "gain": 0.54,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlej7us6m07",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "standing directly in front of the open door, waiting for the lift, were two tahkehh-da holden renewal agents in their bl",
+        "index": 6,
+        "offset": 19.76,
+        "at": 73.07
+      },
+      "gain": 0.52,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlejdiqywe6",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "standing directly in front of the open door, waiting for the lift, were two tahkehh-da holden renewal agents in their bl",
+        "index": 6,
+        "offset": 22.76,
+        "at": 76.07
+      },
+      "gain": 0.5,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlek2tzsrno",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "rin slammed her hand against the elevator's 'close door' button, stepping backward into the car.",
+        "index": 7,
+        "offset": 0.34,
+        "at": 78.32
+      },
+      "gain": 0.44,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlek574pi4s",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the rusted doors began to slide shut, but an agent jammed its armored forearm between them. the metal groaned to a stop,",
+        "index": 8,
+        "offset": 15.525,
+        "at": 99.945
+      },
+      "gain": 0.48,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlekdguhdjk",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the rusted doors began to slide shut, but an agent jammed its armored forearm between them. the metal groaned to a stop,",
+        "index": 8,
+        "offset": 9.9,
+        "at": 94.32
+      },
+      "gain": 0.62,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlekh814h39",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the rusted doors began to slide shut, but an agent jammed its armored forearm between them. the metal groaned to a stop,",
+        "index": 8,
+        "offset": 12.525,
+        "at": 96.945
+      },
+      "gain": 0.48,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlekram8b0s",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the rusted doors began to slide shut, but an agent jammed its armored forearm between them. the metal groaned to a stop,",
+        "index": 8,
+        "offset": 18.4,
+        "at": 102.82
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwleku1928b5",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "\"citizen!\" the female agent barked, her voice heavily modulated through the helmet. \"state your name, your prior locatio",
+        "index": 9,
+        "offset": 1.39,
+        "at": 104.945
+      },
+      "gain": 0.43,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlekw5rmoxe",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "\"citizen!\" the female agent barked, her voice heavily modulated through the helmet. \"state your name, your prior locatio",
+        "index": 9,
+        "offset": 4.64,
+        "at": 108.195
+      },
+      "gain": 0.45,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwleky6iw0mo",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "\"citizen!\" the female agent barked, her voice heavily modulated through the helmet. \"state your name, your prior locatio",
+        "index": 9,
+        "offset": 7.765,
+        "at": 111.32
+      },
+      "gain": 0.45,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlel0gxizva",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "rin was trapped in the small metal box. it was the closest she had been to a renewal agent since she lifted the gas cani",
+        "index": 10,
+        "offset": 1.665,
+        "at": 114.445
+      },
+      "gain": 0.42,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlen1ys68fp",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "rin was trapped in the small metal box. it was the closest she had been to a renewal agent since she lifted the gas cani",
+        "index": 10,
+        "offset": 5.165,
+        "at": 117.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlen53ttgah",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "rin was trapped in the small metal box. it was the closest she had been to a renewal agent since she lifted the gas cani",
+        "index": 10,
+        "offset": 7.665,
+        "at": 120.445
+      },
+      "gain": 0.49,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlen7cd0e2q",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "she kept her face neutral. \"sanitation,\" rin said. \"deep storage, night shift. just getting home.\"",
+        "index": 12,
+        "offset": 0.69,
+        "at": 123.445
+      },
+      "gain": 0.4,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlenaoowe6m",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "she kept her face neutral. \"sanitation,\" rin said. \"deep storage, night shift. just getting home.\"",
+        "index": 12,
+        "offset": 3.815,
+        "at": 126.57
+      },
+      "gain": 0.44,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlerdbffxqt",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the agent didn't budge. \"resident identification required for renewal protocol. citizen, show me your i.d.\"",
+        "index": 14,
+        "offset": 3.645,
+        "at": 137.32
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlergphdipd",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Layered,_distorted_d_#3-1794962133635.mp3",
+      "anchor": {
+        "text": "the agent didn't budge. \"resident identification required for renewal protocol. citizen, show me your i.d.\"",
+        "index": 14,
+        "offset": 6.395,
+        "at": 140.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlerj3r8d8s",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "\"identification?\" rin asked, offering a forced, compliant nod. her right hand slid slowly into her jacket as she stepped",
+        "index": 15,
+        "offset": 0.955,
+        "at": 142.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlerlnxlhu0",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "\"identification?\" rin asked, offering a forced, compliant nod. her right hand slid slowly into her jacket as she stepped",
+        "index": 15,
+        "offset": 4.08,
+        "at": 146.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlet5zz2adt",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "rin didn't wait to grab the gun. she shoved past the staggered agent and stumbled into the hall. the agent planted her f",
+        "index": 19,
+        "offset": 7.175,
+        "at": 193.195
+      },
+      "gain": 0.54,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwleta5n2qh7",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "rin didn't wait to grab the gun. she shoved past the staggered agent and stumbled into the hall. the agent planted her f",
+        "index": 19,
+        "offset": 9.175,
+        "at": 195.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwletdu51zxm",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "rin turned in the hallway to face them, posturing with outstretched arms, feeling the walls with her fingertips. she ste",
+        "index": 20,
+        "offset": 1.595,
+        "at": 197.445
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwletga8p0wu",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "rin turned in the hallway to face them, posturing with outstretched arms, feeling the walls with her fingertips. she ste",
+        "index": 20,
+        "offset": 3.47,
+        "at": 199.32
+      },
+      "gain": 0.85,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwleuf1fx7io",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
+        "index": 21,
+        "offset": 2.45,
+        "at": 217.445
+      },
+      "gain": 0.49,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwleuiquws3y",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
+        "index": 21,
+        "offset": 3.575,
+        "at": 218.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwleupqddljm",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
+        "index": 21,
+        "offset": 5.95,
+        "at": 220.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwleuspotbrr",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
+        "index": 21,
+        "offset": 8.075,
+        "at": 223.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwleuw6tf64a",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
+        "index": 21,
+        "offset": 10.7,
+        "at": 225.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwleuzkwrhfi",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
+        "index": 21,
+        "offset": 12.825,
+        "at": 227.82
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlev2ounzid",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 1.3,
+        "at": 230.32
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlevyy2h9os",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 3.925,
+        "at": 232.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlew27ow99p",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 6.3,
+        "at": 235.32
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlew6imu1tb",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 9.05,
+        "at": 238.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlewybrd3al",
+      "track": "fx6",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "rin turned in the hallway to face them, posturing with outstretched arms, feeling the walls with her fingertips. she ste",
+        "index": 20,
+        "offset": 5.97,
+        "at": 201.82
+      },
+      "gain": 0.49,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlf2abm4g4q",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "DSGNBoom-Epic_cinematic_boom,-Elevenlabs.mp3",
+      "anchor": {
+        "text": "clutching it tight, she kicked the steel door to the emergency stairwell open and pulled herself up. she abandoned the h",
+        "index": 29,
+        "offset": 3.8,
+        "at": 317.57
+      },
+      "gain": 0.5,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 8
+    }
+  ],
+  "regions": [
+    {
+      "id": "rmwl3ojyz2h66",
+      "track": "ambient",
+      "file": "far_off_thunder,_rai_#2-1792861676393.mp3",
+      "from": {
+        "text": "home. at least it had been for the past several months. the light over the doorway was flickering again.",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "rin pulled open the front door of the lower lobby. the air inside smelled stale. chipped green paint curled off the wall",
+        "index": 1,
+        "offset": 11.06,
+        "at": 20.875
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 4.7
+    },
+    {
+      "id": "rmwl3pqdc871b",
+      "track": "ambient",
+      "file": "AMBSea-Natural_nighttime_ra-Elevenlabs.mp3",
+      "from": {
+        "text": "home. at least it had been for the past several months. the light over the doorway was flickering again.",
+        "index": 0,
+        "offset": -0.977,
+        "at": 0.223
+      },
+      "to": {
+        "text": "rin pulled open the front door of the lower lobby. the air inside smelled stale. chipped green paint curled off the wall",
+        "index": 1,
+        "offset": 8.908,
+        "at": 18.723
+      },
+      "gain": 0.43,
+      "fadeIn": 2.5,
+      "fadeOut": 4.3
+    },
+    {
+      "id": "rmwl3rqvs2df9",
+      "track": "ambient",
+      "file": "AMBDsgn-Dark_horror_atmosphe-Elevenlabs.mp3",
+      "from": {
+        "text": "rin pulled open the front door of the lower lobby. the air inside smelled stale. chipped green paint curled off the wall",
+        "index": 1,
+        "offset": 6.658,
+        "at": 16.473
+      },
+      "to": {
+        "text": "standing directly in front of the open door, waiting for the lift, were two tahkehh-da holden renewal agents in their bl",
+        "index": 6,
+        "offset": 8.147,
+        "at": 61.457
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwl3tt9o1to0",
+      "track": "music",
+      "file": "Clock Tick.mp3",
+      "from": {
+        "text": "home. at least it had been for the past several months. the light over the doorway was flickering again.",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "the light on the elevator panel hit her floor. the doors parted.",
+        "index": 4,
+        "offset": 4.872,
+        "at": 50.082
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwl6q2ystfry",
+      "track": "music",
+      "file": "Terrifying_Arrival.mp3",
+      "from": {
+        "text": "she pulled the trigger point-blank. the blast inside the tiny metal elevator car was agonizingly loud. the violent recoi",
+        "index": 18,
+        "offset": 0.047,
+        "at": 160.617
+      },
+      "to": {
+        "text": "clutching it tight, she kicked the steel door to the emergency stairwell open and pulled herself up. she abandoned the h",
+        "index": 29,
+        "offset": 5.312,
+        "at": 319.082
+      },
+      "gain": 0.24,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwl7kzi31rnq",
+      "track": "ambient",
+      "file": "DSGNBass-heartbeat_sound,_ten-Elevenlabs.mp3",
+      "from": {
+        "text": "rin started to step out, and froze.",
+        "index": 5,
+        "offset": 2.653,
+        "at": 53.098
+      },
+      "to": {
+        "text": "she dropped the act, ripping the pistol from her holster and driving the muzzle square into the center-mass of the agent",
+        "index": 16,
+        "offset": 1.953,
+        "at": 153.723
+      },
+      "gain": 1.64,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwl86rouobzq",
+      "track": "ambient",
+      "file": "AMBDsgn-Dark_horror_atmosphe-Elevenlabs.mp3",
+      "from": {
+        "text": "\"identification?\" rin asked, offering a forced, compliant nod. her right hand slid slowly into her jacket as she stepped",
+        "index": 15,
+        "offset": 8.858,
+        "at": 150.848
+      },
+      "to": {
+        "text": "rin hit the landing below, rubbing her throbbing ear before disappearing into the dark alleyway.",
+        "index": 31,
+        "offset": 8.402,
+        "at": 341.332
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwlbc4t1g0js",
+      "track": "music",
+      "file": "Derelict Hull Drift (1).mp3",
+      "from": {
+        "text": "the light on the elevator panel hit her floor. the doors parted.",
+        "index": 4,
+        "offset": 0.282,
+        "at": 45.492
+      },
+      "to": {
+        "text": "standing directly in front of the open door, waiting for the lift, were two tahkehh-da holden renewal agents in their bl",
+        "index": 6,
+        "offset": 9.182,
+        "at": 62.492
+      },
+      "gain": 0.55,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwlbotavwnov",
+      "track": "music",
+      "file": "Derelict Hull Drift (1).mp3",
+      "from": {
+        "text": "standing directly in front of the open door, waiting for the lift, were two tahkehh-da holden renewal agents in their bl",
+        "index": 6,
+        "offset": 12.932,
+        "at": 66.242
+      },
+      "to": {
+        "text": "the rusted doors began to slide shut, but an agent jammed its armored forearm between them. the metal groaned to a stop,",
+        "index": 8,
+        "offset": 6.947,
+        "at": 91.367
+      },
+      "gain": 0.49,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwlbrqeiopmk",
+      "track": "music",
+      "file": "Derelict Hull Drift (1).mp3",
+      "from": {
+        "text": "the rusted doors began to slide shut, but an agent jammed its armored forearm between them. the metal groaned to a stop,",
+        "index": 8,
+        "offset": 2.947,
+        "at": 87.367
+      },
+      "to": {
+        "text": "\"citizen!\" the female agent barked, her voice heavily modulated through the helmet. \"state your name, your prior locatio",
+        "index": 9,
+        "offset": 5.812,
+        "at": 109.367
+      },
+      "gain": 0.58,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwlbsfj83h3b",
+      "track": "music",
+      "file": "Derelict Hull Drift (1).mp3",
+      "from": {
+        "text": "\"citizen!\" the female agent barked, her voice heavily modulated through the helmet. \"state your name, your prior locatio",
+        "index": 9,
+        "offset": 0.187,
+        "at": 103.742
+      },
+      "to": {
+        "text": "she dropped the act, ripping the pistol from her holster and driving the muzzle square into the center-mass of the agent",
+        "index": 16,
+        "offset": 0.472,
+        "at": 152.242
+      },
+      "gain": 0.62,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwlcobwwwekw",
+      "track": "ambient",
+      "file": "DSGNBass-heartbeat_sound,_ten-Elevenlabs.mp3",
+      "from": {
+        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
+        "index": 21,
+        "offset": 2.478,
+        "at": 217.473
+      },
+      "to": {
+        "text": "clutching it tight, she kicked the steel door to the emergency stairwell open and pulled herself up. she abandoned the h",
+        "index": 29,
+        "offset": 4.812,
+        "at": 318.582
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    }
+  ],
+  "recording": {
+    "files": [
+      "chapter_6.wav"
+    ]
+  },
+  "narration": "recorded"
+}

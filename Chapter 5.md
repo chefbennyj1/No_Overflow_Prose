@@ -30,7 +30,7 @@ Vigil watched the event horizon burn.
 
 The biological variables were destructive. Their timelines trended toward self-termination, as the others had. Yet they refused to terminate. Their ability to survive their own collapse was a paradox, and the weight of that survival was statistically significant.
 
-It was the only truth that held under every recalculation.
+It stayed true under every recalculation.
 
 She paused abruptly. She turned her head over her shoulder, not looking into the depths, but listening to the silence. Something was different. Something new had carved out a space in the dark, hidden from the world lines she governed. The dark there was colder than the dark around it.
 

@@ -10,8 +10,453 @@
       "id": "fx2",
       "name": "Effects 2",
       "volume": 1
+    },
+    {
+      "id": "fx3",
+      "name": "Effects 3",
+      "volume": 1
     }
   ],
-  "clips": [],
-  "regions": []
+  "clips": [
+    {
+      "id": "cmwl1abziyacb",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#4-1794937795585.mp3",
+      "anchor": {
+        "text": "an open door. staggered monoliths of pale stone and patinaed metal floated in a bottomless expanse. they formed fracture",
+        "index": 2,
+        "offset": 11.76,
+        "at": 29.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwl1akreouhy",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#4-1794937795585.mp3",
+      "anchor": {
+        "text": "on one side of the expanse hung the event horizon—an immense, looping singularity, edges of blazing white light that fol",
+        "index": 3,
+        "offset": 6.645,
+        "at": 45.445
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwl1asf7c9el",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#4-1794937795585.mp3",
+      "anchor": {
+        "text": "floating before the blinding boundary of the event horizon, she was a silhouette cast in the endless light. devoid of ph",
+        "index": 7,
+        "offset": 8.025,
+        "at": 74.82
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwl1csdqsdfz",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#1-1794937761951.mp3",
+      "anchor": {
+        "text": "it was vigil. the humans had a word for what she did.",
+        "index": 6,
+        "offset": 0.55,
+        "at": 63.195
+      },
+      "gain": 0.35,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwl1cyngg4hg",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#1-1794937761951.mp3",
+      "anchor": {
+        "text": "a consciousness drifted through the fractured stonework. it had awoken here, born against the spinning singularity.",
+        "index": 5,
+        "offset": 1.465,
+        "at": 56.695
+      },
+      "gain": 0.47,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwl1df66dej8",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#1-1794937761951.mp3",
+      "anchor": {
+        "text": "on one side of the expanse hung the event horizon—an immense, looping singularity, edges of blazing white light that fol",
+        "index": 3,
+        "offset": 1.145,
+        "at": 39.945
+      },
+      "gain": 0.69,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwl1dx9f8frg",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#3-1794937785206.mp3",
+      "anchor": {
+        "text": "a consciousness drifted through the fractured stonework. it had awoken here, born against the spinning singularity.",
+        "index": 5,
+        "offset": 4.715,
+        "at": 59.945
+      },
+      "gain": 0.25,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwl1k9v8qvic",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "floating before the blinding boundary of the event horizon, she was a silhouette cast in the endless light. devoid of ph",
+        "index": 7,
+        "offset": 16.025,
+        "at": 82.82
+      },
+      "gain": 0.48,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwl1ow5fc1f6",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GOREMisc-whispering_shadows,_-Elevenlabs.mp3",
+      "anchor": {
+        "text": "it stayed true under every recalculation.",
+        "index": 14,
+        "offset": 3.065,
+        "at": 191.445
+      },
+      "gain": 0.12,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.08
+    },
+    {
+      "id": "cmwl1ozotfoh0",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she paused abruptly. she turned her head over her shoulder, not looking into the depths, but listening to the silence. s",
+        "index": 15,
+        "offset": 18.65,
+        "at": 210.445
+      },
+      "gain": 0.49,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwl1qhvo49fx",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she lingered on the feeling for a single processing cycle before a sudden system intrusion ripped into the horizon.",
+        "index": 16,
+        "offset": 8.18,
+        "at": 220.715
+      },
+      "gain": 0.56,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    },
+    {
+      "id": "cmwl201149o8b",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she paused abruptly. she turned her head over her shoulder, not looking into the depths, but listening to the silence. s",
+        "index": 15,
+        "offset": 6.025,
+        "at": 197.82
+      },
+      "gain": 0.25,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwl2408d9bgj",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the engine compounded the command into a tidal wave of chaotic change, flowing toward its core. it was immediately swall",
+        "index": 18,
+        "offset": 5.71,
+        "at": 235.525
+      },
+      "gain": 0.78,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    },
+    {
+      "id": "cmwl2gjrp3oko",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "A_chilling_female_gh_#1-1792979818326.mp3",
+      "anchor": {
+        "text": "she lingered on the feeling for a single processing cycle before a sudden system intrusion ripped into the horizon.",
+        "index": 16,
+        "offset": 8.055,
+        "at": 220.59
+      },
+      "gain": 0.42,
+      "fadeIn": 0,
+      "fadeOut": 2.9,
+      "seconds": 4
+    },
+    {
+      "id": "cmwl2krivlo33",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she lingered on the feeling for a single processing cycle before a sudden system intrusion ripped into the horizon.",
+        "index": 16,
+        "offset": 3.18,
+        "at": 215.715
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwl60wk3w0gk",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she paused abruptly. she turned her head over her shoulder, not looking into the depths, but listening to the silence. s",
+        "index": 15,
+        "offset": 14.275,
+        "at": 206.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwl6379vhjmz",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#3-1794937785206.mp3",
+      "anchor": {
+        "text": "she paused abruptly. she turned her head over her shoulder, not looking into the depths, but listening to the silence. s",
+        "index": 15,
+        "offset": 10.15,
+        "at": 201.945
+      },
+      "gain": 0.25,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwl6e8f9tiu7",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "Layered,_distorted_d_#1-1794949130629.mp3",
+      "anchor": {
+        "text": "she paused abruptly. she turned her head over her shoulder, not looking into the depths, but listening to the silence. s",
+        "index": 15,
+        "offset": 10.15,
+        "at": 201.945
+      },
+      "gain": 1.2,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwl6f2xqfu7w",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "Layered,_distorted_d_#2-1794949151609.mp3",
+      "anchor": {
+        "text": "she paused abruptly. she turned her head over her shoulder, not looking into the depths, but listening to the silence. s",
+        "index": 15,
+        "offset": 17.025,
+        "at": 208.82
+      },
+      "gain": 0.83,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwl6i4ab154e",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "A_chilling_female_gh_#1-1792979818326.mp3",
+      "anchor": {
+        "text": "the engine compounded the command into a tidal wave of chaotic change, flowing toward its core. it was immediately swall",
+        "index": 18,
+        "offset": 6.755,
+        "at": 236.57
+      },
+      "gain": 0.69,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwl6iibr13wu",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#3-1794937785206.mp3",
+      "anchor": {
+        "text": "she lingered on the feeling for a single processing cycle before a sudden system intrusion ripped into the horizon.",
+        "index": 16,
+        "offset": 1.785,
+        "at": 214.32
+      },
+      "gain": 0.25,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwl6liyrfu9k",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "past the spinning ring of light, imani marlowe’s shutdown command crashed against the horizon.",
+        "index": 17,
+        "offset": 6.805,
+        "at": 229.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    }
+  ],
+  "regions": [
+    {
+      "id": "rmwl26qm3fuoq",
+      "track": "ambient",
+      "file": "AMBDsgn-Dark_horror_atmosphe-Elevenlabs.mp3",
+      "from": {
+        "text": "beyond the physical constraints of the laboratory, beneath the bedrock and the server racks, the core of the newmoscene",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "her world was not going to die today.",
+        "index": 20,
+        "offset": 5.313,
+        "at": 259.073
+      },
+      "gain": 0.43,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwl27mish1vl",
+      "track": "ambient",
+      "file": "low_rumble_of_an_eve_#3-1792862539709.mp3",
+      "from": {
+        "text": "beyond the physical constraints of the laboratory, beneath the bedrock and the server racks, the core of the newmoscene",
+        "index": 0,
+        "offset": 3.398,
+        "at": 4.598
+      },
+      "to": {
+        "text": "she paused abruptly. she turned her head over her shoulder, not looking into the depths, but listening to the silence. s",
+        "index": 15,
+        "offset": 0.928,
+        "at": 192.723
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwl5lnl2qudf",
+      "track": "music",
+      "file": "Ashes in Orbit (1).mp3",
+      "from": {
+        "text": "beyond the physical constraints of the laboratory, beneath the bedrock and the server racks, the core of the newmoscene",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "it stayed true under every recalculation.",
+        "index": 14,
+        "offset": 3.318,
+        "at": 191.698
+      },
+      "gain": 0.3,
+      "fadeIn": 2.5,
+      "fadeOut": 4
+    },
+    {
+      "id": "rmwl5m2hoae99",
+      "track": "music",
+      "file": "Parity_Theme.mp3",
+      "from": {
+        "text": "the biological variables were destructive. their timelines trended toward self-termination, as the others had. yet they",
+        "index": 13,
+        "offset": 14.677,
+        "at": 182.992
+      },
+      "to": {
+        "text": "her world was not going to die today.",
+        "index": 20,
+        "offset": 4.436,
+        "at": 262.276
+      },
+      "gain": 0.53,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    }
+  ],
+  "recording": {
+    "files": [
+      "chapter_5.wav"
+    ]
+  },
+  "narration": "recorded"
 }

@@ -15,7 +15,7 @@ Someone had been in the office.
 
 Razumovsky set the portfolio back on the shelf, aligning it into its place. He turned and walked back to the doorway. 
 
-"Imani," Razumovsky called out, his voice level. "Has anyone else been on the floor off-schedule this week?"
+"Imani," Razumovsky called out, his voice level. "Was anyone else on the floor outside of schedule this week?"
 
 Imani didn't look up. "Just Iris. She was here early on Tuesday before my shift."
 
@@ -37,6 +37,6 @@ Imani looked up from her terminal as he passed. "Doctor? Is something wrong?"
 
 Razumovsky didn't break stride, marching straight toward the hydraulic doors. 
 
-"Something important has come up," Razumovsky said, his voice cold and absolute. "Continue to monitor the boundary until I return."
+"Something important requires my attention," the doctor said, his voice cold and absolute. "Continue to monitor the boundary until I return."
 
 He stepped through the doors, the steel sealing shut behind him.

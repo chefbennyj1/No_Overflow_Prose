@@ -683,6 +683,70 @@
       "fadeIn": 0,
       "fadeOut": 0,
       "seconds": 4
+    },
+    {
+      "id": "cmwledmvnrafk",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "their humanity was obscured by glossy, faceless helmets. a single, vertical slice of heated crimson cut down the center",
+        "index": 74,
+        "offset": 4.96,
+        "at": 981.945
+      },
+      "gain": 2,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwleeqzsamfi",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "their humanity was obscured by glossy, faceless helmets. a single, vertical slice of heated crimson cut down the center",
+        "index": 74,
+        "offset": 8.335,
+        "at": 985.32
+      },
+      "gain": 2,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwleezc0d6fi",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the lead agent didn't speak. he stepped directly into victor's personal space, towering over him. the red seam down the",
+        "index": 75,
+        "offset": 10.92,
+        "at": 1001.445
+      },
+      "gain": 2,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwlef4555sqn",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "Renewal Helmet 2.mp3",
+      "anchor": {
+        "text": "the lead agent didn't speak. he stepped directly into victor's personal space, towering over him. the red seam down the",
+        "index": 75,
+        "offset": 14.17,
+        "at": 1004.695
+      },
+      "gain": 2,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
     }
   ],
   "regions": [
@@ -743,6 +807,26 @@
         "at": 897.508
       },
       "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwleh1tq2hx4",
+      "track": "music",
+      "file": "infiltration.mp3",
+      "from": {
+        "text": "rain lashed against the grit of the dead circuits. the lower city was a broken memory of what used to be, buried in the",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "harlan frowned, staring after him into the stairwell. \"razumovsky?\"",
+        "index": 82,
+        "offset": 7.198,
+        "at": 1084.408
+      },
+      "gain": 0.43,
       "fadeIn": 2.5,
       "fadeOut": 2.5
     }
