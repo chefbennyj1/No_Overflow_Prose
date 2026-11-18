@@ -19,7 +19,7 @@ Victor held his hands up, instantly retreating. He pulled a plastic chair across
 
 Across the gap between the tenements, a rattly old subway mag-train crawled along a rusted lower-city track. Victor watched the dirty passenger cars shudder past one by one, until the red marker on the rear vanished into the dark mouth of a broken subway tunnel.
 
-Two more trains went by. Arthur's eyes never left the glass. He was still keeping watch for her. Nobody had ever told him he could stop.
+Two more trains went by. Arthur's eyes never left the glass. He was still keeping watch for the Filament. Nobody had ever told him he could stop.
 
 He stood up and walked back out into the hall. 
 

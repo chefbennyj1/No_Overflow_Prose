@@ -45,15 +45,15 @@ For a long while they stood with their eyes locked.
 
 Vigil stopped speaking and studied her unwavering and methodical gaze. Something was not correct. The cold stare cut through her form. Her black eyes only blinked.
 
-In a silent motion, the porcelain figure inched forward.
+In a silent motion, the white figure inched forward.
 
 Vigil recoiled the same distance. "State your intention," her doubled voice stern.
 
-Before Vigil could calculate the next interaction, the entity's position shifted. Her porcelain face was suddenly in her space, their faces intimately close. The blank stare of her empty eyes pierced into Vigil's.
+Before Vigil could calculate the next interaction, the entity's position shifted. Her porcelain face was suddenly in her space—intimately close. The blank stare of her empty eyes pierced into Vigil's.
 
 The porcelain entity raised her hand; colorless fingers snapped into position. Her hand wrapped along the side of Vigil's head, her thumb pressing directly between her eyes. Vigil was outmatched by her speed. 
 
-Vigil's query was answered with absolute efficiency. The blockage in her predictive logic came apart, and she saw the catalyst for the impending collapse of the realities she had missed.
+The ending of the timelines was answered with absolute efficiency. The blockage in her predictive logic came apart, and she saw the catalyst for the impending collapse of the realities she had missed.
 
 A landscape swallowed by a deep gorge of earth. A blinding thermal flash expanding outward. City after city, endless destruction, the termination of millions of biological signatures in a single breath. Above each vision, floating in a god-like calm, was this anti-shadow, watching the endless suffering.
 

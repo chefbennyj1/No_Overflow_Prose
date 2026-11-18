@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "fx1",
+      "name": "Effects 1",
+      "volume": 1
+    },
+    {
+      "id": "fx2",
+      "name": "Effects 2",
+      "volume": 1
+    }
+  ],
+  "clips": [],
+  "regions": [
+    {
+      "id": "rmwmj5s12t4vb",
+      "track": "music",
+      "file": "Sad_Drone_1.mp3",
+      "from": {
+        "text": "victor walked down the faded seafoam hallway of oshima civic care, the blue and yellow checkered linoleum worn dull unde",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "\"time we paid doctor razumovsky a visit.\"",
+        "index": 33,
+        "offset": 5.295,
+        "at": 376.06
+      },
+      "gain": 0.34,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    }
+  ],
+  "recording": {
+    "files": [
+      "chapter_7.wav"
+    ]
+  },
+  "narration": "recorded"
+}
