@@ -1,7 +1,9 @@
 ---
 music: Sad_Drone_1.mp3
 ---
-Victor walked down the faded seafoam hallway of Oshima Civic Care, the blue and yellow checkered linoleum worn dull underfoot. Overhead, the dying fluorescents sputtered with an electrical buzz—the harsh glare stinging his pale eyes the way it did every visit. He stopped at the front desk, dragging the chained stylus across the visitor log. The nurse behind the desk looked up at him. "Victor Graves, for Arthur Graves."
+Victor walked down the faded seafoam hallway of Oshima Civic Care, the blue and yellow checkered linoleum worn dull underfoot. Harlan walked beside him. It was good to have Harlan accompany him on these particular trips. 
+
+Overhead, the dying fluorescents sputtered with an electrical buzz—the harsh glare stinging his pale eyes the way it did every visit. He stopped at the front desk, dragging the chained stylus across the visitor log. The nurse behind the desk looked up at him. "Victor Graves, for Arthur Graves."
 
 She was working a wad of gum in the back of her mouth, her lips never closing. Every third chew, she rolled it across her tongue and snapped a wet pocket of air against her teeth. Victor's fingers tightened on the stylus. Without a word, she turned her screen toward him before he finished signing. The balance had a second number under it now. 
 
