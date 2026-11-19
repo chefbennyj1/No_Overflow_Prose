@@ -69,11 +69,11 @@ Her hand lifted off the keyboard. "Whoa." A wave of decrypted files spilled open
 
 Rin watched her lips moving silently as she read.
 
-"—a little more than janitor sign-ins, Rin." Something shifted in Harper's face. "It's transfer authority."
+—a little more than janitor sign-ins, Rin." Something shifted in Harper's face. 
 
-"Transfer of what?" Rin asked.
+"What is it?" Rin asked.
 
-"Doesn't say." Harper's eyes darted across the scrolling text. 
+"Hold on..." Harper's eyes darted across the scrolling text.
 
 "Well, it was a company tower," Rin said. "It matched a building right out—"
 
@@ -114,10 +114,13 @@ The cursor blinked at the end of the line.
 Rin felt a nervous laugh catch in her throat as new text rendered across the screens:
 
 **[VIGIL]**  
-**Rin. Oshima City Citizen ID: 8904-B.** 
+**Oshima City Citizen ID: 8904-B.** 
 **[VIGIL]** 
-**Harper. Oshima City Citizen ID: 4122-C.**
+**Oshima City Citizen ID: 4122-C.**
 
+Harper looked at Rin, "Those are our Oshima ID's Rin."
+
+More text began to fracture across the displays, dual strings of code fighting to render the exact same thought:
 More text began to fracture across the displays, dual strings of code fighting to render the exact same thought:
 
 **[VIGIL]** 

@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "fx1",
+      "name": "Effects 1",
+      "volume": 1
+    },
+    {
+      "id": "fx2",
+      "name": "Effects 2",
+      "volume": 1
+    }
+  ],
+  "clips": [],
+  "regions": [
+    {
+      "id": "rmwn14w93nu88",
+      "track": "ambient",
+      "file": "sci-fi_lab_rumble,_a_#4-1792961531882.mp3",
+      "from": {
+        "text": "the lab clock read five in the morning. the newmoscene lab was empty, save for the silent, statuesque forms of the synth",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "thirty floors above, imani marlowe walked alone across a high-altitude pedestrian sky-bridge, the morning sun breaking h",
+        "index": 13,
+        "offset": 1.74,
+        "at": 142.625
+      },
+      "gain": 0.5,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwn15fc88ehp",
+      "track": "ambient",
+      "file": "sci-fi_street,_flyin_#3-1792961713988.mp3",
+      "from": {
+        "text": "iris stood up. her footsteps were silent on the metal grating as she crossed the lab. she slipped into doctor razumovsky",
+        "index": 12,
+        "offset": 11.848,
+        "at": 138.848
+      },
+      "to": {
+        "text": "iris moved through the doctors private office. framed diplomas hung next to shelves filled with rows of thick books. no",
+        "index": 19,
+        "offset": 1.793,
+        "at": 236.473
+      },
+      "gain": 0.64,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwn15qudss4l",
+      "track": "ambient",
+      "file": "sci-fi_lab_rumble,_a_#4-1792961531882.mp3",
+      "from": {
+        "text": "she was early. she hadn't slept well. the inability to shut down the horizon memory the day before still nagged at the b",
+        "index": 18,
+        "offset": 20.723,
+        "at": 233.223
+      },
+      "to": {
+        "text": "imani shook her head and logged into her terminal, dismissing the strange behavior.",
+        "index": 40,
+        "offset": 7.665,
+        "at": 464.93
+      },
+      "gain": 0.39,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    }
+  ],
+  "recording": {
+    "files": [
+      "chapter_8.wav"
+    ]
+  },
+  "narration": "recorded"
+}

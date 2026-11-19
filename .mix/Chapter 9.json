@@ -1,0 +1,704 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "fx1",
+      "name": "Effects 1",
+      "volume": 1
+    },
+    {
+      "id": "fx2",
+      "name": "Effects 2",
+      "volume": 1
+    },
+    {
+      "id": "fx3",
+      "name": "Effects 3",
+      "volume": 1
+    },
+    {
+      "id": "fx4",
+      "name": "Effects 4",
+      "volume": 1
+    },
+    {
+      "id": "fx5",
+      "name": "Effects 5",
+      "volume": 1
+    }
+  ],
+  "clips": [
+    {
+      "id": "cmwn1kagsi3t2",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "DSGNRise-Psychological_cinema-Elevenlabs.mp3",
+      "anchor": {
+        "text": "suspended above the turning singularity, vigil watched the flow of many unfolding realities.",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 3
+    },
+    {
+      "id": "cmwn1m3liv6wk",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#4-1794937795585.mp3",
+      "anchor": {
+        "text": "something subtle, barely registering, altered in the flow. a microscopic failure. vigil analyzed the thread's sudden fau",
+        "index": 3,
+        "offset": 11.43,
+        "at": 29.82
+      },
+      "gain": 0.53,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwn1mmi0gubb",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#3-1794937785206.mp3",
+      "anchor": {
+        "text": "vigil spun in place as a large group of realities began to break and collapse, each one shattered into a definitive end.",
+        "index": 4,
+        "offset": 5.215,
+        "at": 35.195
+      },
+      "gain": 0.12,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwn1n1rqzzlo",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "something subtle, barely registering, altered in the flow. a microscopic failure. vigil analyzed the thread's sudden fau",
+        "index": 3,
+        "offset": 6.555,
+        "at": 24.945
+      },
+      "gain": 0.47,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn1ocyq9cun",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "something subtle, barely registering, altered in the flow. a microscopic failure. vigil analyzed the thread's sudden fau",
+        "index": 3,
+        "offset": 0.68,
+        "at": 19.07
+      },
+      "gain": 0.36,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn1ri47fqs0",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-whispering_shadows,_-Elevenlabs.mp3",
+      "anchor": {
+        "text": "before vigil could process the catastrophe, a bitter chill swept across the landscape, stealing her focus. something els",
+        "index": 6,
+        "offset": 3.715,
+        "at": 49.695
+      },
+      "gain": 0.08,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.08
+    },
+    {
+      "id": "cmwn1s0latjhl",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "A_chilling_female_gh_#1-1792979818326.mp3",
+      "anchor": {
+        "text": "before vigil could process the catastrophe, a bitter chill swept across the landscape, stealing her focus. something els",
+        "index": 6,
+        "offset": 3.59,
+        "at": 49.57
+      },
+      "gain": 0.2,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn1tepolzt5",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "before vigil could process the catastrophe, a bitter chill swept across the landscape, stealing her focus. something els",
+        "index": 6,
+        "offset": 0.09,
+        "at": 46.07
+      },
+      "gain": 0.15,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn1u0cnfarc",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the stone nodes around her began to slow in the silence. a hardened, brittle cold crept over them, until the refactoring",
+        "index": 7,
+        "offset": 2.24,
+        "at": 63.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn1u69dex9z",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the stone nodes around her began to slow in the silence. a hardened, brittle cold crept over them, until the refactoring",
+        "index": 7,
+        "offset": 8.99,
+        "at": 70.445
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn1ycfxemh2",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#4-1794937795585.mp3",
+      "anchor": {
+        "text": "she felt it before she could calculate it. intent. the void at the bottom of the engine held a shape.",
+        "index": 9,
+        "offset": 6.615,
+        "at": 82.32
+      },
+      "gain": 0.7,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwn1yv7lk0fx",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#1-1794937761951.mp3",
+      "anchor": {
+        "text": "mist swirled outwards from the door, as a figure emerged from the stillness onto the plane. a feminine statue, porcelain",
+        "index": 13,
+        "offset": 1.56,
+        "at": 106.195
+      },
+      "gain": 0.36,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwn21erf43u3",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#1-1794937761951.mp3",
+      "anchor": {
+        "text": "mist swirled outwards from the door, as a figure emerged from the stillness onto the plane. a feminine statue, porcelain",
+        "index": 13,
+        "offset": 1.935,
+        "at": 106.57
+      },
+      "gain": 0.59,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwn29y92xpjg",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "THUN-Hyper-realistic_thun-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the frost continued its ascent. i am not alone.",
+        "index": 10,
+        "offset": 2.24,
+        "at": 87.715
+      },
+      "gain": 0.37,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 7
+    },
+    {
+      "id": "cmwn2bm3o7mzb",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "Layered,_distorted_d_#2-1794949151609.mp3",
+      "anchor": {
+        "text": "mist swirled outwards from the door, as a figure emerged from the stillness onto the plane. a feminine statue, porcelain",
+        "index": 13,
+        "offset": 5.935,
+        "at": 110.57
+      },
+      "gain": 0.49,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn2cltn1wkg",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "Layered,_distorted_d_#3-1794962133635.mp3",
+      "anchor": {
+        "text": "bronze holographic circuitry seared across her skin. she possessed an unreadable energy, devoid of anything vigil had ev",
+        "index": 14,
+        "offset": 1.195,
+        "at": 127.195
+      },
+      "gain": 0.51,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn2dckz3gzk",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#1-1794937761951.mp3",
+      "anchor": {
+        "text": "bronze holographic circuitry seared across her skin. she possessed an unreadable energy, devoid of anything vigil had ev",
+        "index": 14,
+        "offset": 5.57,
+        "at": 131.57
+      },
+      "gain": 0.49,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwn2ef41y0sa",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "vigil fired a diagnostic, cross-referencing the entity against billions of simulated futures. it returned nothing. she w",
+        "index": 15,
+        "offset": 1.045,
+        "at": 140.72
+      },
+      "gain": 0.43,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn2epdjnqr1",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "Layered,_distorted_d_#3-1794962133635.mp3",
+      "anchor": {
+        "text": "vigil fired a diagnostic, cross-referencing the entity against billions of simulated futures. it returned nothing. she w",
+        "index": 15,
+        "offset": 4.045,
+        "at": 143.72
+      },
+      "gain": 0.24,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn2ft9e95va",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the entity lifted her head. her eyes were a pure black, carved into the ceramic shine of her face, catching only the fai",
+        "index": 16,
+        "offset": 1.58,
+        "at": 149.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn2hg0lhi8s",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
+      "anchor": {
+        "text": "in a silent motion, the white figure inched forward.",
+        "index": 22,
+        "offset": 2.285,
+        "at": 203.095
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.6
+    },
+    {
+      "id": "cmwn2ixtusc5m",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "DSGNStngr-Fast_cinematic_vacuu-Elevenlabs.mp3",
+      "anchor": {
+        "text": "vigil spun in place as a large group of realities began to break and collapse, each one shattered into a definitive end.",
+        "index": 4,
+        "offset": 4.465,
+        "at": 34.445
+      },
+      "gain": 0.32,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 2
+    },
+    {
+      "id": "cmwn2jruty8p8",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "DSGNRise-Prompt_Cinematic_ten-Elevenlabs.mp3",
+      "anchor": {
+        "text": "before vigil could process the catastrophe, a bitter chill swept across the landscape, stealing her focus. something els",
+        "index": 6,
+        "offset": 3.715,
+        "at": 49.695
+      },
+      "gain": 0.17,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 5.16
+    },
+    {
+      "id": "cmwn2k3mj7fb6",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "DSGNRise-Prompt_Cinematic_ten-Elevenlabs.mp3",
+      "anchor": {
+        "text": "something subtle, barely registering, altered in the flow. a microscopic failure. vigil analyzed the thread's sudden fau",
+        "index": 3,
+        "offset": 7.18,
+        "at": 25.57
+      },
+      "gain": 0.66,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 5.16
+    },
+    {
+      "id": "cmwn2kucaw1ci",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "DSGNBram-Epic_heroic_deity_en-Elevenlabs.mp3",
+      "anchor": {
+        "text": "something subtle, barely registering, altered in the flow. a microscopic failure. vigil analyzed the thread's sudden fau",
+        "index": 3,
+        "offset": 10.93,
+        "at": 29.32
+      },
+      "gain": 0.51,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.48
+    },
+    {
+      "id": "cmwn2lv5gc2z8",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "DSGNBram-Epic_heroic_deity_en-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she watched the reality flow like she had for millennia, with no change.",
+        "index": 2,
+        "offset": 4.41,
+        "at": 18.07
+      },
+      "gain": 0.28,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.48
+    },
+    {
+      "id": "cmwn2pbjb48qu",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "DSGNBram-Epic_heroic_deity_en-Elevenlabs.mp3",
+      "anchor": {
+        "text": "vigil spun in place as a large group of realities began to break and collapse, each one shattered into a definitive end.",
+        "index": 4,
+        "offset": 7.215,
+        "at": 37.195
+      },
+      "gain": 0.63,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.48
+    },
+    {
+      "id": "cmwn2ptn0zt16",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "DSGNBram-Epic_heroic_deity_en-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the frost continued its ascent. i am not alone.",
+        "index": 10,
+        "offset": 1.955,
+        "at": 87.43
+      },
+      "gain": 0.55,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.48
+    },
+    {
+      "id": "cmwn2r876dbqf",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "DSGNBram-Epic_heroic_deity_en-Elevenlabs.mp3",
+      "anchor": {
+        "text": "before vigil could process the catastrophe, a bitter chill swept across the landscape, stealing her focus. something els",
+        "index": 6,
+        "offset": 5.215,
+        "at": 51.195
+      },
+      "gain": 0.59,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.48
+    },
+    {
+      "id": "cmwn2ury1yb7v",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "DSGNBram-Epic_heroic_deity_en-Elevenlabs.mp3",
+      "anchor": {
+        "text": "before vigil could process the catastrophe, a bitter chill swept across the landscape, stealing her focus. something els",
+        "index": 6,
+        "offset": 14.84,
+        "at": 60.82
+      },
+      "gain": 0.53,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.48
+    },
+    {
+      "id": "cmwn2v190050y",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "DSGNBram-Epic_heroic_deity_en-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the stone nodes around her began to slow in the silence. a hardened, brittle cold crept over them, until the refactoring",
+        "index": 7,
+        "offset": 9.865,
+        "at": 71.32
+      },
+      "gain": 0.46,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.48
+    },
+    {
+      "id": "cmwn2v6l90knp",
+      "track": "fx4",
+      "source": "sfx",
+      "file": "DSGNBram-Epic_heroic_deity_en-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she felt it before she could calculate it. intent. the void at the bottom of the engine held a shape.",
+        "index": 9,
+        "offset": 3.365,
+        "at": 79.07
+      },
+      "gain": 0.53,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 10.48
+    },
+    {
+      "id": "cmwn3p7nmsxpz",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "she felt it before she could calculate it. intent. the void at the bottom of the engine held a shape.",
+        "index": 9,
+        "offset": 6.99,
+        "at": 82.695
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn3qfs3ne60",
+      "track": "fx3",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "mist swirled outwards from the door, as a figure emerged from the stillness onto the plane. a feminine statue, porcelain",
+        "index": 13,
+        "offset": 4.415,
+        "at": 113.07
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn4gozl464u",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "vigil's retreat was instantaneous, tearing herself from the sickening grip to put distance between them. the entity turn",
+        "index": 29,
+        "offset": 9.895,
+        "at": 287.82
+      },
+      "gain": 0.68,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn4gwequrp9",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#3-1794937785206.mp3",
+      "anchor": {
+        "text": "the entity turned her gaze back with a vacant condescension. bronze holographic circuitry flared across her skin as she",
+        "index": 32,
+        "offset": 1.125,
+        "at": 317.695
+      },
+      "gain": 0.4,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwn4h57kpc83",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"cease your current action,\" vigil said, both registers sharp. \"the horizon is not—\" she paused as the entity raised her",
+        "index": 30,
+        "offset": 8.605,
+        "at": 299.445
+      },
+      "gain": 0.58,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn4i65mqosi",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the entity turned her gaze back with a vacant condescension. bronze holographic circuitry flared across her skin as she",
+        "index": 32,
+        "offset": 3.625,
+        "at": 320.195
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwn4iqeoxjxt",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "flares of white light were already fracturing across the horizon.",
+        "index": 33,
+        "offset": 0.845,
+        "at": 326.945
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    }
+  ],
+  "regions": [
+    {
+      "id": "rmwn1iazw1oh6",
+      "track": "ambient",
+      "file": "AMBDsgn-Dark_horror_atmosphe-Elevenlabs.mp3",
+      "from": {
+        "text": "suspended above the turning singularity, vigil watched the flow of many unfolding realities.",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "flares of white light were already fracturing across the horizon.",
+        "index": 33,
+        "offset": 6.493,
+        "at": 332.593
+      },
+      "gain": 1.66,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwn24qh6zoxj",
+      "track": "music",
+      "file": "Parity_Theme.mp3",
+      "from": {
+        "text": "the stone nodes fractured, tearing open a jagged passage in front of vigil, forcing her to back away.",
+        "index": 11,
+        "offset": 1.752,
+        "at": 91.137
+      },
+      "to": {
+        "text": "flares of white light were already fracturing across the horizon.",
+        "index": 33,
+        "offset": 6.493,
+        "at": 332.593
+      },
+      "gain": 0.55,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    }
+  ],
+  "recording": {
+    "files": [
+      "chapter_9.wav"
+    ]
+  },
+  "narration": "recorded"
+}

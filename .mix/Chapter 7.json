@@ -25,12 +25,32 @@
         "at": 0
       },
       "to": {
-        "text": "\"time we paid doctor razumovsky a visit.\"",
-        "index": 33,
-        "offset": 5.295,
-        "at": 390.17
+        "text": "the precinct was loud. exhausted beat cops in wet bomber jackets pushed past desks, shaking off the freezing rain. they",
+        "index": 17,
+        "offset": 1.695,
+        "at": 203.07
       },
       "gain": 0.34,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwn0qbv5ctr6",
+      "track": "music",
+      "file": "Clock Tick.mp3",
+      "from": {
+        "text": "victor tightened his jaw. \"they hollowed him out as a minder... —left him to waste away in that room.\"",
+        "index": 16,
+        "offset": 3.612,
+        "at": 197.742
+      },
+      "to": {
+        "text": "\"time we paid doctor razumovsky a visit.\"",
+        "index": 36,
+        "offset": 5.285,
+        "at": 396.355
+      },
+      "gain": 1,
       "fadeIn": 2.5,
       "fadeOut": 2.5
     }

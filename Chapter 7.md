@@ -1,29 +1,29 @@
 ---
 music: Sad_Drone_1.mp3
 ---
-Victor walked down the faded seafoam hallway of Oshima Civic Care, the blue and yellow checkered linoleum worn dull underfoot. Harlan walked beside him. It was good to have Harlan accompany him on these particular trips. 
+Victor walked down the faded seafoam hallway of Oshima Civic Care, the blue and yellow checkered linoleum worn dull underfoot. Harlan walked beside him. It was good to have Harlan accompany him on these particular trips.
 
 Overhead, the dying fluorescents sputtered with an electrical buzz—the harsh glare stinging his pale eyes the way it did every visit. He stopped at the front desk, dragging the chained stylus across the visitor log. The nurse behind the desk looked up at him. "Victor Graves, for Arthur Graves."
 
-She was working a wad of gum in the back of her mouth, her lips never closing. Every third chew, she rolled it across her tongue and snapped a wet pocket of air against her teeth. Victor's fingers tightened on the stylus. Without a word, she turned her screen toward him before he finished signing. The balance had a second number under it now. 
+She was working a wad of gum in the back of her mouth, her lips never closing. Every third chew, she rolled it across her tongue and snapped a wet pocket of air against her teeth. Victor's fingers tightened on the stylus. Without a word, she turned her screen toward him before he finished signing. The balance had a second number under it now.
 
-He continued down the corridor until he reached a degraded wooden door painted green. An arrangement of fake blue flowers sat collecting dust in a cheap vase beside the frame. Victor adjusted the collar of his trench coat and pushed the door open. 
+He continued down the corridor until he reached a degraded wooden door painted green. An arrangement of fake blue flowers sat collecting dust in a cheap vase beside the frame. Victor adjusted the collar of his trench coat and pushed the door open.
 
 The old man sitting in the faded, patched corduroy armchair didn't look at him. His white hair was parted perfectly to the side, while his clouded eyes darted between the cracked window and the doorway.
 
-"Close it," Arthur whispered, his voice dry and trembling. He gripped the armrests of his chair. "You gotta keep an eye —" He pointed his wrinkled, tremoring finger toward the window. "There is an expectation here, Victor.  The Madame don't just trust anyone ya know." 
+"Close it," Arthur whispered, his voice dry and trembling. He gripped the armrests of his chair. "You gotta keep an eye —" He pointed his wrinkled, tremoring finger toward the window. "There is an expectation here, Victor. The Madame don't just trust anyone ya know."
 
-Victor sighed, stepping further into the room. "Dad, you're not working anymore." 
+Victor sighed, stepping further into the room. "Dad, you're not working anymore."
 
-Arthur’s head snapped toward him, his expression twisting into sudden, fierce anger. "You don't know what you're sayin'! You want to get us both gutted? Watch the damned window!" 
+Arthur’s head snapped toward him, his expression twisting into sudden, fierce anger. "You don't know what you're sayin'! You want to get us both gutted? Watch the damned window!"
 
-Victor held his hands up, instantly retreating. He pulled a plastic chair across from him and sat down directly in front of the glass. "Alright, Pop. I'll watch the window." 
+Victor held his hands up, instantly retreating. He pulled a plastic chair across from him and sat down directly in front of the glass. "Alright, Pop. I'll watch the window."
 
 Across the gap between the tenements, a rattly old subway mag-train crawled along a rusted lower-city track. Victor watched the dirty passenger cars shudder past one by one, until the red marker on the rear vanished into the dark mouth of a broken subway tunnel.
 
-Two more trains went by. Arthur's eyes never left the glass. He was still keeping watch for the Filament. Nobody had ever told him he could stop.
+Two more trains went by. Arthur's eyes never left the glass. He was still keeping watch for the Filament. Keeping watch for the Madame. Nobody had ever told him he could stop.
 
-He stood up and walked back out into the hall. 
+Victor stood up and walked back out into the hall.
 
 Harlan was waiting by the degraded wooden door, his eyes resting on the fake blue flowers. He didn't ask him how the visit went. He'd stood in the hallway before.
 
@@ -35,10 +35,11 @@ They started back down the peeling seafoam corridor. Harlan kept his voice low. 
 
 Victor tightened his jaw. "They hollowed him out as a Minder... —left him to waste away in that room."
 
-***
+<break time="2s" /> 
 
 The precinct was loud. Exhausted beat cops in wet bomber jackets pushed past desks, shaking off the freezing rain. They were trailed by precinct synthetics, the blue `PD` serials glowing faintly beneath their eyes. Up front, a crowd shouted over the intake counter—desperate people demanding answers for the Renewal sweeps in lower grids.
-Victor rolled his thumb along the striker of his lighter, sparking a flame against the end of his cigarette. He exhaled, adding to the low-hanging smoke of the busy bullpen. 
+
+Victor rolled his thumb along the striker of his lighter, sparking a flame against the end of his cigarette. He exhaled, adding to the low-hanging smoke of the busy bullpen.
 
 Every job they'd pinned on Null, she'd been in and out before anyone knew the door was open. Yesterday she'd stayed long enough for two cops to climb fifteen floors.
 
@@ -50,13 +51,13 @@ Victor leaned back in his chair, ignoring the joke. He crushed the half-smoked c
 
 Harlan's smirk vanished. "Null 'stuck around'—to shoot tear gas at my face. Remember?"
 
-Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a digital folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Yakov Razumovsky." 
+Victor shook his head at the complaint. "Null tripped a silent alarm because she was digging too deep." He pulled a digital folder onto the desk. "I got the terminal logs from the office Null hacked. Doctor Yakov Razumovsky."
 
-A sudden commotion erupted in the room as officers dragged a group of struggling demonstrators across the floor. Victor kept his focus on the screen. 
+A sudden commotion erupted in the room as officers dragged a group of struggling demonstrators across the floor. Victor kept his focus on the screen.
 
-"It’s heavily redacted," Victor said, his eyes scanning the thick black lines. "Except for this: *Mnemosyne*." He waited to see if he had Harlan’s attention. His partner remained silent. "The log has a second name in the metadata," Victor continued. "Doctor Imani Marlowe."
+"It’s heavily redacted," Victor said, his eyes scanning the thick black lines. "Except for this: Mnemosyne." He waited to see if he had Harlan’s attention. His partner remained silent. "The log has a second name in the metadata," Victor continued. "Doctor Imani Marlowe."
 
-Harlan raised an eyebrow. "Marlowe? The cybernetics prodigy?" 
+Harlan raised an eyebrow. "Marlowe? The cybernetics prodigy?"
 
 Victor knew the name. A few years back it had been on every screen in the city. She was the reason the place was crawling with synthetics—the reason you couldn't walk down a street without some unblinking canner looking you over.
 
@@ -64,12 +65,12 @@ Victor knew the name. A few years back it had been on every screen in the city. 
 
 "Because the Company buried her down there to build... whatever this thing is," Victor replied.
 
-Harlan shifted in his seat, his posture relaxing. "Well, there's our answer. Takeda-Holden private data... That's a Renewal Agent's job. Let them deal with the headache." 
+Harlan shifted in his seat, his posture relaxing. "Well, there's our answer. Takeda-Holden private data... That's a Renewal Agent's job. Let them deal with the headache."
 
 A second later, Harlan tensed.
 
-Victor slammed his fist against the desk, the sound cutting through the noise of the room. "No. Null is mine. This is how we get the Filament. Whatever this *Mnemo—thing* is, Null stole the keys."
+Victor slammed his fist against the desk, the sound cutting through the noise of the room. "No. Null is mine. This is how we get the Filament. Whatever this Mnemo—thing is, Null stole the keys."
 
-The bullpen fell silent at the outburst. Victor ignored the stares, letting his temper cool as his focus narrowed. 
+The bullpen fell silent at the outburst. Victor ignored the stares, letting his temper cool as his focus narrowed.
 
 "Time we paid Doctor Razumovsky a visit."
