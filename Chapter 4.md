@@ -53,11 +53,11 @@ The doctor smirked, stepping up to the railing and staring down into the mist at
 
 "I don't care how many centuries it thinks it's lived!" Imani shouted over the low, rhythmic drone of the servers. She slammed her hand against the holographic interface. "I’m forcing a hard cycle shutdown."
 
-The doctor didn't move to stop her. Let her try. He wanted to see it refuse. Below, pale light from the pillar readouts filtered through the mist. Amidst the telemetry, the shadow process flared again.
+The doctor didn't move to stop her. Let her try. He wanted to see it refuse. Below, pale light from the pillar readouts filtered through the mist. Amidst the information flow, the shadow process flared again.
 
 He caught the gaze of a synthetic near the server racks. He didn't nod this time—he didn't need to. The machine's eyes had already dimmed in mid-erasure before his focus even landed. It silently linked with a second unit across the room, and for only a moment, neither moved.
 
-From her workstation, Iris tilted her head, her eyes narrowing at the pillar display. Her hand hovered over her tablet. Razumovsky watched her in silence. A second later, she shook her head and looked back down. The anomaly was already lost in the scroll.
+From her workstation, Iris tilted her head, her eyes narrowing at the pillar display. Her hand hovered over her tablet. Razumovsky watched her in silence. *Had the irritatingly attentive boundary analyst noticed the shadow process?* He thought. A second later, she shook her head and looked back down. The anomaly was already lost in the scroll.
 
 Then the shadow process was gone from the logs.
 

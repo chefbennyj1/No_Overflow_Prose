@@ -19,7 +19,7 @@ Down on the main floor, the synths stood lifeless in their long white laboratory
 
 The lab synthetics weren't only executing maintenance cycles; they were helping Razumovsky cover up his lie. 
 
-*They lie.*
+*They lie,* she thought.
 
 Iris knew what Doctor Razumovsky and Marlowe saw when they looked at her: a girl who talked too fast and panicked over decimals. Fine. The decimals were the job. She caught the fluctuations on the boundary because she was the only one in the room still looking at them.
 
