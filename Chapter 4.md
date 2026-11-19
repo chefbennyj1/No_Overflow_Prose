@@ -15,7 +15,7 @@ Razumovsky took a deliberately slow drag from his cigarette. The end flared, ref
 
 "The Corporation is treating this breach as a critical priority," the officer replied quickly, his tone practiced but tight with underlying panic. "Sweeps are active in the Dead Circuits as we speak. Redacted logs from your terminal have been forwarded to Oshima PD to aid in the hunt."
 
-Let Renewal kick down every door in the Circuits. Let some street rat keep the schematics. Nobody was going to open an anti-star out of scrap.
+Let Renewal kick down every door in the Circuits. Let some street rat keep the schematics. Nobody was going to open an anti-star out of scrap, Razumovsky thought.
 
 But his logs were sitting on a police server now, and somebody else had done the redacting.
 
