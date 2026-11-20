@@ -13,6 +13,7 @@ Victor didn't slow down.
 "So, you think this Razumovsky is gonna talk to us?" Harlan asked, bracing against the dash as the car swung hard around a corner. 
 
 Victor's eyes stayed on the road, the Dead Circuits already thinning into New Veridia's sharp, angular skyline. "Razumovsky. I need to know what he knows."
+
  Victor banked onto the elevated approach feeding into the Towers. 
 
 The rusted scaffolding of the lower grid gave way to clean alloy and glass as the car climbed into New Veridia. Breaking through the oppressive smog layer of the lower city, the windshield was instantly washed in the blinding light of the morning sun—glaring off the glass skyscrapers. Beside the highway, the seamless streak of alloy and tinted glass of a commuter mag-rail train blurred past them, moving at an excessive speed. Inside the train cars, the lights flickered. 
@@ -65,7 +66,7 @@ They were her only chance.
 
 Iris turned and walked quickly toward the executive elevator. As the doors began to close, a voice spoke after her, calmly from the walkway. 
 
-"I believe we need to have a conversation, Miss Ito." It was a distinct voice Iris knew all too well. Razumovsky.
+"I believe we must have conversation, Miss Ito." Iris knew that accent. It took its time with every word, the way a man does when the door is already locked. Razumovsky.
 
 Yakov Razumovsky stood on the walkway as the elevator doors closed.
 

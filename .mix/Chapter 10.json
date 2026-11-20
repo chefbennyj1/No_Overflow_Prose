@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "fx1",
+      "name": "Effects 1",
+      "volume": 1
+    },
+    {
+      "id": "fx2",
+      "name": "Effects 2",
+      "volume": 1
+    }
+  ],
+  "clips": [],
+  "regions": [
+    {
+      "id": "rmwn60j4yojih",
+      "track": "ambient",
+      "file": "AMBSea-Natural_nighttime_ra-Elevenlabs.mp3",
+      "from": {
+        "text": "rin pressed her back against the rusted iron door, breathing hard. rain hammered the alley around her, washing the grime",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "\"don't call me that. it's rin.\" she pushed past her into the apartment without waiting for an invitation. \"—i need you t",
+        "index": 8,
+        "offset": 8.74,
+        "at": 89.375
+      },
+      "gain": 0.69,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwn621h86s25",
+      "track": "music",
+      "file": "Midnight_at_the_Terminal.mp3",
+      "from": {
+        "text": "rin pressed her back against the rusted iron door, breathing hard. rain hammered the alley around her, washing the grime",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "\"what is it?\" rin asked.",
+        "index": 35,
+        "offset": 0.72,
+        "at": 359.375
+      },
+      "gain": 0.46,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwn64y5r11cn",
+      "track": "ambient",
+      "file": "sci-fi_lab_rumble,_a_#4-1792961531882.mp3",
+      "from": {
+        "text": "harper exhaled the rest of the smoke slowly, her eyes dropping from rin's face to the dark contusions coloring her skin.",
+        "index": 13,
+        "offset": 16.983,
+        "at": 150.088
+      },
+      "to": {
+        "text": "[vigil] the door is open. [vigil] no longer alone. [vigil] it is waiting at the end. termination. termination. terminati",
+        "index": 61,
+        "offset": 3.658,
+        "at": 555.098
+      },
+      "gain": 0.3,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwn672tmsvm3",
+      "track": "music",
+      "file": "Uneasy Half-Step.mp3",
+      "from": {
+        "text": "\"well, it was a company tower,\" rin said. \"it matched a building right out—\"",
+        "index": 37,
+        "offset": 5.577,
+        "at": 369.992
+      },
+      "to": {
+        "text": "[vigil] the door is open. [vigil] no longer alone. [vigil] it is waiting at the end. termination. termination. terminati",
+        "index": 61,
+        "offset": 3.552,
+        "at": 554.992
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    }
+  ],
+  "recording": {
+    "files": [
+      "chapter_10.wav"
+    ]
+  },
+  "narration": "recorded"
+}

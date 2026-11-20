@@ -41,6 +41,7 @@ The two figures were backlit by the spotlight as they walked forward. Their stan
 His partner clicked a tactical flashlight in Rin's face. "Holy shit! Sully. Look at this. Ain't this the bitch the Madame showed us a picture of last week?"
 
 Sully stepped out from the cruiser's glare. "I'll be damned. Brask, you and me just made our monthly payouts." He closed the distance, crowding her. "Someone's been lookin' for you." 
+
 He took a drag of his cigarette, his voice stern and rough. He turned his attention to the synthetic. "Why've you got this girl?"
 
 Vigil maintained her silence. Rin felt the synthetic's grip shift deliberately against her wrists. Vigil wasn't frozen; she was stalling.

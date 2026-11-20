@@ -57,13 +57,13 @@ The file architecture was dense, built to deliberately slow data extraction.
 
 As the authorizations copied to her drive, a folder in Razumovsky's directory caught her eye: *Main Fusion Logs*. She opened the folder; it was full of power consumption logs. Each file incrementing in size. The numbers revealed a catastrophic, sustained hemorrhage of the city's fusion reactor that had been running continuously for weeks.
 
- She found and opened an operations file:*Mnemo_1.opt*. The screen flooded with classified schematics for a program called *Project Mnemosyne*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
+ She found and opened an operations file: *Mnemo_1.opt*. The screen flooded with classified schematics for a program called *Project Mnemosyne*. At the center of the complex data was a wireframe of a laboratory tower. Rin stopped, her eyes darting from the small screen to the window behind her. 
 
 The blue holographic data on the glass was a scaled projection of the exact same tower schematic.
 
 Rin moved away from the desk. She stepped back until the wireframe on the glass lined up with the skyline behind it. The projection perfectly eclipsed a building in the distance. Whatever Razumovsky was monitoring, it was in that tower, and it had been tearing at the city's power grid for the better part of a month.
 
-Before she could dig deeper, the authorization download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive—her own drive. Down the hall, the elevator jammed against the wrench once more, chiming as the doors recoiled. 
+Before she could dig deeper, the authorization download completed. Rin rooted in her jacket pocket and pulled out a red thumb drive—her own drive. 
 
 Rin stood with the drive in her palm, scanning the indecipherable symbols and diagrams. The Company was bleeding the lower city's grid dry for whatever was in this file, and the Madame was only paying her for janitor codes.
 

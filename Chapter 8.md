@@ -43,7 +43,7 @@ Imani didn't break stride, moving through the turnstiles with practiced authorit
 She was early. She hadn't slept well. The inability to shut down the horizon memory the day before still nagged at the back of her mind, despite Razumovsky's confident dismissals. She stepped into the private executive elevator, pressing her thumb to the button for the lab level. The descent was smooth, and silent.
 
 ***
-Iris moved through the Doctors private office.  Framed diplomas hung next to shelves filled with rows of thick books. No one had physical books anymore.
+Iris moved through the doctor's private office.  Framed diplomas hung next to shelves filled with rows of thick books. No one had physical books anymore.
 
 Iris approached the shelf, reaching out. Her fingertips brushed the textured spines. It was rare to feel the dry, fibrous friction of real paper. She stepped closer, her hip catching the edge of a glass award sitting on the desk. 
 

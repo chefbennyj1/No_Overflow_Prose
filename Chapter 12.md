@@ -35,6 +35,7 @@ They descended the terminal's empty staircase, ignored by the commuters for its 
 Morning passengers, Company office workers, and high-end synthetics packed the platform. Some waited for trains, while others moved toward the tower's executive lifts, speeding up to the pedestrian sky-bridges far above them. 
 
 As they reached the platform, the temperature plummeted further. The floors were black marble. Brightly lit transit information inlays, embedded in the concourse floor, extended across the terminal. 
+
 Even at this level the people of New Veridia let the city make their decisions for them.
 
 Harper and Rin both wore the grime of the Dead Circuits. Commuters parted around them without looking up from their devices. The way you'd step around garbage in a gutter.  

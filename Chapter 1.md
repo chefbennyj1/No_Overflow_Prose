@@ -28,7 +28,7 @@ Imani didn't sound like herself. *Nervous*, he thought, *and she should be*.
 
 "The Mnemosyne Engine is connected. Those city workers over at Main Fusion didn't like the request. But you've got the three hundred and twenty terawatts," she said.
 
-Raising his cigarette to his lips one last time, the doctor inhaled until the end burned close to his finger tips. He held the smoke in his lungs, then exhaled and dropped the butt over the edge of the railing.
+Raising his cigarette to his lips one last time, the doctor inhaled until the end burned close to his fingertips. He held the smoke in his lungs, then exhaled and dropped the butt over the edge of the railing.
 
 The spent cigarette vanished into the fog. The cloud cover was a necessary filter for him. It formed an opaque floor between him and the corroded foundations of the lower city. 
 
@@ -97,7 +97,7 @@ On the executive display above the floor, the grid of silhouettes leaned forward
 
 The hushed voice interrupted the moment. Iris Ito, a Horizon Boundary Analyst, hurried up behind them, not looking up from the glowing data tablet in her hands. She didn't belong with the rest of the room. Her hair was unkempt, defying the lab's strict dress code, and gold hoops swung from her ears. She compulsively shoved her black-rimmed glasses up the bridge of her nose—her focus snapping back to the glow of her screen. 
 
-"Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a change in the event horizon. A mass displacement anomaly. And—well actually, the mass-displacement is causing a—a localized gravitational shear." Her pressured speech fired rapidly, blurred together in a breathless recitation of awkward tones, "—and—well, you know—that could theoretically pull the primary containment of the horizon's gravity field out of phase—and if we don't recalculate, then the—" 
+"Ma'am, local space-time—" Iris stammered in a frantic whisper, her eyes locked on her screen. "We have a change in the event horizon. A mass displacement anomaly. And—well actually, the mass-displacement is causing a—a localized gravitational shear." Her pressured speech fired rapidly and blurred together in a breathless recitation of awkward tones. "—and—well, you know—that could theoretically pull the primary containment of the horizon's gravity field out of phase—and if we don't recalculate, then the—" 
 
 She trailed off, finally looking up from her screen. 
 

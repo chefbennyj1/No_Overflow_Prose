@@ -19,7 +19,7 @@ Let Renewal kick down every door in the Circuits. Let some street rat keep the s
 
 But his logs were sitting on a police server now, and somebody else had done the redacting.
 
-The doctor exhaled another cloud of smoke that drifted toward the ceiling. "We shall see what is truly compromised by this idiocracy."
+The doctor exhaled another cloud of smoke that drifted toward the ceiling. "We shall see what is truly compromised by this idiocy."
 
 He tapped a key on his console. The officer’s avatar collapsed into a single, bright point of light before vanishing, plunging the room back into darkness.
 
@@ -37,7 +37,7 @@ He walked up beside her station. "Imani."
 
 "The engine's been running perfectly for weeks," she said, still not taking her eyes off the screen. "Today, we tried shutting down part of the horizon memory."
 
-"And?" The doctor pulled an unlit cigarette from his coat pocket and placed it between his lips.
+"And?" The doctor turned an unlit cigarette between his fingers.
 
 "It ignored the command," Imani said, her voice tight. 
 

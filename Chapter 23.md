@@ -8,7 +8,9 @@ Imani's disorientation had begun to subside. She felt the headache, but was brea
 *How am I here?* The words sat with her. 
 
 Voices echoed again, clearer this time. But still in pieces.
+
 "Doctor, no name yet?" the broken voice of a woman echoed.
+
 "Jane Doe—blood pressure and heart rate stable," said another.
 
 But she was starting to be able to think. *I can hear them.* 
@@ -68,6 +70,7 @@ The electricity of the enclosure shook with Parity's voice. "I see." It slid its
 Imani's vision started to tunnel as Razumovsky's feet raced across the lab toward her.
 
 The weightlessness was back. The crushing pain in her chest subsided.
+
 Far above her, the space had changed. It no longer appeared empty; instead, it took on a blueish tinge.
 
 *This is not 'Nothing'. This is 'Something'.* 

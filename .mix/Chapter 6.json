@@ -62,8 +62,8 @@
       "anchor": {
         "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
         "index": 21,
-        "offset": 9.2,
-        "at": 224.195
+        "offset": 7.95,
+        "at": 224.955
       },
       "gain": 1,
       "fadeIn": 0,
@@ -302,8 +302,8 @@
       "anchor": {
         "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
         "index": 22,
-        "offset": 10.8,
-        "at": 239.82
+        "offset": 10.05,
+        "at": 241.085
       },
       "gain": 0.5,
       "fadeIn": 0,
@@ -373,22 +373,6 @@
       "fadeIn": 0,
       "fadeOut": 0,
       "seconds": 1
-    },
-    {
-      "id": "cmwlb5eqtzcci",
-      "track": "fx2",
-      "source": "sfx",
-      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
-      "anchor": {
-        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
-        "index": 21,
-        "offset": 3.95,
-        "at": 218.945
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 6.6
     },
     {
       "id": "cmwlbmegt9nn3",
@@ -574,8 +558,8 @@
       "anchor": {
         "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
         "index": 22,
-        "offset": 8.55,
-        "at": 237.57
+        "offset": 8.175,
+        "at": 239.21
       },
       "gain": 0.55,
       "fadeIn": 0,
@@ -791,38 +775,6 @@
       "seconds": 6.6
     },
     {
-      "id": "cmwldljt7otes",
-      "track": "fx1",
-      "source": "sfx",
-      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
-      "anchor": {
-        "text": "the agent didn't budge. \"resident identification required for renewal protocol. citizen, show me your i.d.\"",
-        "index": 14,
-        "offset": 2.77,
-        "at": 136.445
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 6.6
-    },
-    {
-      "id": "cmwldn66ezhn1",
-      "track": "fx5",
-      "source": "sfx",
-      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
-      "anchor": {
-        "text": "she pulled the trigger point-blank. the blast inside the tiny metal elevator car was agonizingly loud. the violent recoi",
-        "index": 18,
-        "offset": 1.875,
-        "at": 162.445
-      },
-      "gain": 1.5,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 6.6
-    },
-    {
       "id": "cmwldoulm2pw6",
       "track": "fx1",
       "source": "sfx",
@@ -853,70 +805,6 @@
       "fadeIn": 0,
       "fadeOut": 0,
       "seconds": 1.26
-    },
-    {
-      "id": "cmwldt9pb62d5",
-      "track": "fx5",
-      "source": "sfx",
-      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
-      "anchor": {
-        "text": "she pulled the trigger point-blank. the blast inside the tiny metal elevator car was agonizingly loud. the violent recoi",
-        "index": 18,
-        "offset": 18,
-        "at": 178.57
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 6.6
-    },
-    {
-      "id": "cmwldu989ydh5",
-      "track": "fx5",
-      "source": "sfx",
-      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
-      "anchor": {
-        "text": "rin didn't wait to grab the gun. she shoved past the staggered agent and stumbled into the hall. the agent planted her f",
-        "index": 19,
-        "offset": 0.675,
-        "at": 186.695
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 6.6
-    },
-    {
-      "id": "cmwldudvwgkf7",
-      "track": "fx5",
-      "source": "sfx",
-      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
-      "anchor": {
-        "text": "rin didn't wait to grab the gun. she shoved past the staggered agent and stumbled into the hall. the agent planted her f",
-        "index": 19,
-        "offset": 9.175,
-        "at": 195.195
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 6.6
-    },
-    {
-      "id": "cmwldwiirj7yg",
-      "track": "fx5",
-      "source": "sfx",
-      "file": "FEETCrea-Massive_heavy_footst-Elevenlabs.mp3",
-      "anchor": {
-        "text": "rin turned in the hallway to face them, posturing with outstretched arms, feeling the walls with her fingertips. she ste",
-        "index": 20,
-        "offset": 7.845,
-        "at": 203.695
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 6.6
     },
     {
       "id": "cmwldyr79mm0w",
@@ -1207,70 +1095,6 @@
       "seconds": 4
     },
     {
-      "id": "cmwlerdbffxqt",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "the agent didn't budge. \"resident identification required for renewal protocol. citizen, show me your i.d.\"",
-        "index": 14,
-        "offset": 3.645,
-        "at": 137.32
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwlergphdipd",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Layered,_distorted_d_#3-1794962133635.mp3",
-      "anchor": {
-        "text": "the agent didn't budge. \"resident identification required for renewal protocol. citizen, show me your i.d.\"",
-        "index": 14,
-        "offset": 6.395,
-        "at": 140.07
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwlerj3r8d8s",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "\"identification?\" rin asked, offering a forced, compliant nod. her right hand slid slowly into her jacket as she stepped",
-        "index": 15,
-        "offset": 0.955,
-        "at": 142.945
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwlerlnxlhu0",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "\"identification?\" rin asked, offering a forced, compliant nod. her right hand slid slowly into her jacket as she stepped",
-        "index": 15,
-        "offset": 4.08,
-        "at": 146.07
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
       "id": "cmwlet5zz2adt",
       "track": "fx6",
       "source": "sfx",
@@ -1330,166 +1154,6 @@
         "at": 199.32
       },
       "gain": 0.85,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwleuf1fx7io",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
-        "index": 21,
-        "offset": 2.45,
-        "at": 217.445
-      },
-      "gain": 0.49,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwleuiquws3y",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
-        "index": 21,
-        "offset": 3.575,
-        "at": 218.57
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwleupqddljm",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
-        "index": 21,
-        "offset": 5.95,
-        "at": 220.945
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwleuspotbrr",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
-        "index": 21,
-        "offset": 8.075,
-        "at": 223.07
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwleuw6tf64a",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
-        "index": 21,
-        "offset": 10.7,
-        "at": 225.695
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwleuzkwrhfi",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
-        "index": 21,
-        "offset": 12.825,
-        "at": 227.82
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwlev2ounzid",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
-        "index": 22,
-        "offset": 1.3,
-        "at": 230.32
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwlevyy2h9os",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
-        "index": 22,
-        "offset": 3.925,
-        "at": 232.945
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwlew27ow99p",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
-        "index": 22,
-        "offset": 6.3,
-        "at": 235.32
-      },
-      "gain": 1,
-      "fadeIn": 0,
-      "fadeOut": 0,
-      "seconds": 4
-    },
-    {
-      "id": "cmwlew6imu1tb",
-      "track": "fx6",
-      "source": "sfx",
-      "file": "Renewal Helmet 2.mp3",
-      "anchor": {
-        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
-        "index": 22,
-        "offset": 9.05,
-        "at": 238.07
-      },
-      "gain": 1,
       "fadeIn": 0,
       "fadeOut": 0,
       "seconds": 4
@@ -1609,26 +1273,6 @@
       "fadeOut": 2.5
     },
     {
-      "id": "rmwl6q2ystfry",
-      "track": "music",
-      "file": "Terrifying_Arrival.mp3",
-      "from": {
-        "text": "she pulled the trigger point-blank. the blast inside the tiny metal elevator car was agonizingly loud. the violent recoi",
-        "index": 18,
-        "offset": 0.047,
-        "at": 160.617
-      },
-      "to": {
-        "text": "clutching it tight, she kicked the steel door to the emergency stairwell open and pulled herself up. she abandoned the h",
-        "index": 29,
-        "offset": 5.312,
-        "at": 319.082
-      },
-      "gain": 0.24,
-      "fadeIn": 2.5,
-      "fadeOut": 2.5
-    },
-    {
       "id": "rmwl7kzi31rnq",
       "track": "ambient",
       "file": "DSGNBass-heartbeat_sound,_ten-Elevenlabs.mp3",
@@ -1736,13 +1380,13 @@
         "text": "\"citizen!\" the female agent barked, her voice heavily modulated through the helmet. \"state your name, your prior locatio",
         "index": 9,
         "offset": 0.187,
-        "at": 103.742
+        "at": 103.772
       },
       "to": {
         "text": "she dropped the act, ripping the pistol from her holster and driving the muzzle square into the center-mass of the agent",
         "index": 16,
-        "offset": 0.472,
-        "at": 152.242
+        "offset": 2.472,
+        "at": 154.537
       },
       "gain": 0.62,
       "fadeIn": 2.5,
@@ -1763,6 +1407,66 @@
         "index": 29,
         "offset": 4.812,
         "at": 318.582
+      },
+      "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwn6b8ly6ml3",
+      "track": "music",
+      "file": "Renewal Apartment.mp3",
+      "from": {
+        "text": "she pulled the trigger point-blank. the blast inside the tiny metal elevator car was agonizingly loud. the violent recoi",
+        "index": 18,
+        "offset": 0.062,
+        "at": 162.397
+      },
+      "to": {
+        "text": "the face of the agent's black mask snapped toward rin, the red seam of her helmet flaring. she stood up slowly as her pa",
+        "index": 21,
+        "offset": 9.517,
+        "at": 226.522
+      },
+      "gain": 0.44,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwn6hi4ohsq2",
+      "track": "music",
+      "file": "Renewal Apartment.mp3",
+      "from": {
+        "text": "orange muzzle flashes erupted as they opened fire. the deafening gunfire was reduced to a muffled, rhythmic thumping ben",
+        "index": 22,
+        "offset": 1.832,
+        "at": 232.867
+      },
+      "to": {
+        "text": "corporate-grade plating. adrenaline flooded her body. they won't stop.",
+        "index": 26,
+        "offset": 2.584,
+        "at": 298.524
+      },
+      "gain": 0.61,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwn6oj49m7hh",
+      "track": "music",
+      "file": "Renewal Apartment.mp3",
+      "from": {
+        "text": "if renewal got the drive, they'd have everything they were looking for, and they'd know who took it.",
+        "index": 27,
+        "offset": 4.132,
+        "at": 304.742
+      },
+      "to": {
+        "text": "rin hit the landing below, rubbing her throbbing ear before disappearing into the dark alleyway.",
+        "index": 31,
+        "offset": 8.529,
+        "at": 345.149
       },
       "gain": 1,
       "fadeIn": 2.5,

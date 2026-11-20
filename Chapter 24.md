@@ -100,6 +100,7 @@ The glare punched straight through Victor's eyelids. It took the table, the girl
 Victor strained to look up through his fingers. In the blinding glare, the girl's silhouette snapped a leg high. The sharp crack of a boot connecting with metal. Harlan cursed, as his service weapon hit the tile, skittering away into the white-out. 
 
 By the table, steel chairs scraped hard against the floor and fell over in the scuffle.
+
 "Harlan? Grab her!" Victor could hear the sound of the synthetic changing position again. There was no response from his partner. The chains drawing tight against the ring on the table.  Then the violent crack of the metal ring breaking into pieces.
 
 Victor reached out from the wet tile, grasping into the brightness. His hand closed on a wrist. Warm, a pulse going hard under his fingers, the sleeve of a jumpsuit a size too big bunching into his fist. He had her. He couldn't see but, he had her, and he held on with everything he had left in him.

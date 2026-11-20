@@ -53,6 +53,7 @@ He didn't turn his head. `RA` canner in a PD jacket. A girl. She was out there w
 "Vic." Harlan had seen his face. "No."
 
 Victor pulled the strap tight and shut his locker. He tossed his long black coat over his shoulders, and holstered his revolver under his arm.
+
 "Yes, Harlan."
 
 ***
@@ -98,6 +99,7 @@ At the far end of the block, a pair of headlights emerged from the fog. The crui
 Sullivan and Brask got out of their car.
 
 The Minder didn't shake their hands. He held something out.
+
 "Dirty cops." Harlan said, watching Sullivan take it and put it inside his jacket. Brask looked at the black glass of the rear window the whole time as though he were waiting for it to open.
 
 It didn't open.

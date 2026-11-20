@@ -22,6 +22,7 @@ Parity stopped tracing the field. She tilted her glassy head, her unblinking eye
 Razumovsky's eyes shifted from her to the diagnostic readout. With every micro-stutter of the fracturing clock, the field's power draw fluctuated. It was slight, but it fluctuated. 
 
 She shifted her head to the other side, watching the result of the time fracture.
+
 "Enough time to get to know it. You are a clever being, Doctor. But, your cage—"
 
 Her eyes continued their blank stare. The power dipped. Razumovsky let out a breath, and it plumed in front of him. The temperature had dropped to freezing around him.
