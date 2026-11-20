@@ -66,7 +66,7 @@ They were her only chance.
 
 Iris turned and walked quickly toward the executive elevator. As the doors began to close, a voice spoke after her, calmly from the walkway. 
 
-"I believe we must have conversation, Miss Ito." Iris knew that accent. It took its time with every word, the way a man does when the door is already locked. Razumovsky.
+"I believe we must have conversation, Miss Ito." Iris knew that accent. It took its time with every word. Razumovsky.
 
 Yakov Razumovsky stood on the walkway as the elevator doors closed.
 
@@ -100,7 +100,7 @@ The synthetic's eyes flared an icy blue as it tapped into the internal comms. "H
 
 "That won't be necessary, 33. Override authorization: Employee code 4 5 0 3." 
 
-The voice cut the synthetic off mid-sentence. A young woman was stepping toward them from the executive elevator. Her hair was unkempt, defying the corporate dress code, and she nervously shoved black-rimmed glasses up the bridge of her nose. He noticed her casting a cowering side-eye toward the upper atrium. 
+The voice cut the synthetic off mid-sentence. A young woman was stepping toward them from the executive elevator. Her hair was unkempt, and she nervously shoved black-rimmed glasses up the bridge of her nose. Victor noticed her casting a cowering side-eye toward the upper atrium.
 
 Above him, standing motionless amongst the passersby on the suspended walkway, was a man in black circular sunglasses. He was watching them over the rail. The two made eye contact before the man turned and walked out of sight.
 
