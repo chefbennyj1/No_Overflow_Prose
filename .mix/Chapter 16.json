@@ -1,0 +1,333 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "fx1",
+      "name": "Effects 1",
+      "volume": 1
+    },
+    {
+      "id": "fx2",
+      "name": "Effects 2",
+      "volume": 1
+    }
+  ],
+  "clips": [
+    {
+      "id": "cmwomg8b21w78",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "something's there. waiting in the dark.",
+        "index": 7,
+        "offset": 2.395,
+        "at": 77.57
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwomgtjr2z1x",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "a rigid silhouette stood against the shadows. imani couldn't see a face. a waning crescent of red light from the exit si",
+        "index": 8,
+        "offset": 7.74,
+        "at": 87.07
+      },
+      "gain": 0.55,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwomgz72epxu",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#1-1794937761951.mp3",
+      "anchor": {
+        "text": "a rigid silhouette stood against the shadows. imani couldn't see a face. a waning crescent of red light from the exit si",
+        "index": 8,
+        "offset": 2.99,
+        "at": 82.32
+      },
+      "gain": 1,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwomixrm5kki",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "A_chilling_female_gh_#1-1792979818326.mp3",
+      "anchor": {
+        "text": "a rigid silhouette stood against the shadows. imani couldn't see a face. a waning crescent of red light from the exit si",
+        "index": 8,
+        "offset": 0.49,
+        "at": 79.82
+      },
+      "gain": 0.24,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwomk8opkjv4",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#1-1794937761951.mp3",
+      "anchor": {
+        "text": "a rigid silhouette stood against the shadows. imani couldn't see a face. a waning crescent of red light from the exit si",
+        "index": 8,
+        "offset": 12.74,
+        "at": 92.07
+      },
+      "gain": 0.61,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    },
+    {
+      "id": "cmwomm0r3ditr",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "imani drew half a breath. it froze in a white mist before her face. the warmth vanished from the lab. she exhaled the re",
+        "index": 10,
+        "offset": 2.355,
+        "at": 99.07
+      },
+      "gain": 0.53,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwommusrconm",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "it didn't walk. it floated, feet together, toes pointed down, suspended a hair's width off the floor. as the figure drif",
+        "index": 11,
+        "offset": 1.56,
+        "at": 108.695
+      },
+      "gain": 0.41,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwomr588reie",
+      "track": "fx2",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"the compression is gone.\" the entity raised its hand in front of its face. turning its hand, it inspected the contour o",
+        "index": 14,
+        "offset": 17.05,
+        "at": 174.195
+      },
+      "gain": 0.47,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwoms52g711k",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"the compression is gone.\" the entity raised its hand in front of its face. turning its hand, it inspected the contour o",
+        "index": 14,
+        "offset": 1.175,
+        "at": 158.32
+      },
+      "gain": 0.55,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwomssxrjj9s",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "\"the compression is gone.\" the entity raised its hand in front of its face. turning its hand, it inspected the contour o",
+        "index": 14,
+        "offset": 10.55,
+        "at": 167.695
+      },
+      "gain": 0.55,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwon3xgnfdv8",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-whispering_shadows,_-Elevenlabs.mp3",
+      "anchor": {
+        "text": "the observation deck fell into darkness as the overhead floodlights died. emergency lights clicked to life, casting an a",
+        "index": 5,
+        "offset": 19.075,
+        "at": 60.445
+      },
+      "gain": 0.12,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 6.08
+    },
+    {
+      "id": "cmwon6wxuaact",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "GOREMisc-Distorted_demonic_wh-Elevenlabs.mp3",
+      "anchor": {
+        "text": "it didn't walk. it floated, feet together, toes pointed down, suspended a hair's width off the floor. as the figure drif",
+        "index": 11,
+        "offset": 19.06,
+        "at": 126.195
+      },
+      "gain": 0.58,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4
+    },
+    {
+      "id": "cmwon77t35pa7",
+      "track": "fx1",
+      "source": "sfx",
+      "file": "Distorted_demonic_wh_#3-1794937785206.mp3",
+      "anchor": {
+        "text": "it stopped at the edge of imani's workstation, hovering in a calm rise and fall.",
+        "index": 12,
+        "offset": 4.175,
+        "at": 141.195
+      },
+      "gain": 0.2,
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "seconds": 4.16
+    }
+  ],
+  "regions": [
+    {
+      "id": "rmwomecyypn2i",
+      "track": "music",
+      "file": "Parity_Theme.mp3",
+      "from": {
+        "text": "the observation deck fell into darkness as the overhead floodlights died. emergency lights clicked to life, casting an a",
+        "index": 5,
+        "offset": 23.255,
+        "at": 64.625
+      },
+      "to": {
+        "text": "the porcelain head of the machine tilted, the sudden movement fracturing into three distinct, lingering trails of motion",
+        "index": 17,
+        "offset": 14.763,
+        "at": 214.903
+      },
+      "gain": 0.32,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwomhk49ovls",
+      "track": "ambient",
+      "file": "DSGNBass-heartbeat_sound,_ten-Elevenlabs.mp3",
+      "from": {
+        "text": "[vigil: doctor imani marlowe. run.]",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "the porcelain head of the machine tilted, the sudden movement fracturing into three distinct, lingering trails of motion",
+        "index": 17,
+        "offset": 14.763,
+        "at": 214.903
+      },
+      "gain": 1.52,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwomv2y2frt8",
+      "track": "music",
+      "file": "Terrifying_Arrival.mp3",
+      "from": {
+        "text": "[vigil: doctor imani marlowe. run.]",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "she stepped back slowly. the interface, error strings reflected across her face in bands of light.",
+        "index": 3,
+        "offset": 5.555,
+        "at": 29.5
+      },
+      "gain": 0.48,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwomwavw80by",
+      "track": "music",
+      "file": "Terrifying_Arrival.mp3",
+      "from": {
+        "text": "imani stared at the single word. run. the newmoscene engine didn't operate on panic. for it to suddenly understand dange",
+        "index": 2,
+        "offset": 13.552,
+        "at": 21.617
+      },
+      "to": {
+        "text": "the observation deck fell into darkness as the overhead floodlights died. emergency lights clicked to life, casting an a",
+        "index": 5,
+        "offset": 8.622,
+        "at": 49.992
+      },
+      "gain": 0.56,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwon17p6kvyv",
+      "track": "music",
+      "file": "Terrifying_Arrival.mp3",
+      "from": {
+        "text": "there was a dull, hollow thud that reverberated up through the concrete under her feet. somewhere deep within the sub-le",
+        "index": 4,
+        "offset": 9.262,
+        "at": 39.867
+      },
+      "to": {
+        "text": "stillness. a skittering static charged across her skin. she turned toward the reinforced security doors at the back of t",
+        "index": 6,
+        "offset": 4.255,
+        "at": 69.125
+      },
+      "gain": 0.45,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    }
+  ],
+  "recording": {
+    "files": [
+      "chapter_16.wav"
+    ]
+  },
+  "narration": "recorded"
+}
