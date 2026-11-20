@@ -73,6 +73,26 @@
       "gain": 0.39,
       "fadeIn": 2.5,
       "fadeOut": 2.5
+    },
+    {
+      "id": "rmwohnrg5lw8i",
+      "track": "music",
+      "file": "Clock Tick.mp3",
+      "from": {
+        "text": "the lab clock read five in the morning. the newmoscene lab was empty, save for the silent, statuesque forms of the synth",
+        "index": 0,
+        "offset": -1.2,
+        "at": 0
+      },
+      "to": {
+        "text": "imani shook her head and logged into her terminal, dismissing the strange behavior.",
+        "index": 40,
+        "offset": 7.665,
+        "at": 464.93
+      },
+      "gain": 0.37,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
     }
   ],
   "recording": {

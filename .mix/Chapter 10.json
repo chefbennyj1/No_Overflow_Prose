@@ -65,10 +65,10 @@
         "at": 150.088
       },
       "to": {
-        "text": "[vigil] the door is open. [vigil] no longer alone. [vigil] it is waiting at the end. termination. termination. terminati",
-        "index": 61,
-        "offset": 3.658,
-        "at": 555.098
+        "text": "rin reached out and pulled her soaked leather jacket off the arm of the green sofa. \"so is waiting to die.\"",
+        "index": 77,
+        "offset": 9.836,
+        "at": 671.891
       },
       "gain": 0.3,
       "fadeIn": 2.5,
@@ -82,15 +82,55 @@
         "text": "\"well, it was a company tower,\" rin said. \"it matched a building right out—\"",
         "index": 37,
         "offset": 5.577,
-        "at": 369.992
+        "at": 369.572
       },
       "to": {
-        "text": "[vigil] the door is open. [vigil] no longer alone. [vigil] it is waiting at the end. termination. termination. terminati",
-        "index": 61,
-        "offset": 3.552,
-        "at": 554.992
+        "text": "she turned her chair to face rin, staring in silence before she spoke again. \"a singularity.\" harper took a slow long si",
+        "index": 40,
+        "offset": 8.962,
+        "at": 399.697
       },
       "gain": 1,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwoilrfxxy9m",
+      "track": "music",
+      "file": "Sad_Drone_1.mp3",
+      "from": {
+        "text": "instantly, the screens in the apartment cut back to their normal diagnostic displays.",
+        "index": 62,
+        "offset": 3.276,
+        "at": 564.391
+      },
+      "to": {
+        "text": "rin reached out and pulled her soaked leather jacket off the arm of the green sofa. \"so is waiting to die.\"",
+        "index": 77,
+        "offset": 9.836,
+        "at": 671.891
+      },
+      "gain": 0.56,
+      "fadeIn": 2.5,
+      "fadeOut": 2.5
+    },
+    {
+      "id": "rmwoimid3mv38",
+      "track": "music",
+      "file": "Uneasy Half-Step.mp3",
+      "from": {
+        "text": "she turned her chair to face rin, staring in silence before she spoke again. \"a singularity.\" harper took a slow long si",
+        "index": 40,
+        "offset": 12.007,
+        "at": 402.742
+      },
+      "to": {
+        "text": "harper exhaled a long, shaky breath, pushing her chair back from the rig. \"erin, 'tha hell you just bring into my house?",
+        "index": 63,
+        "offset": 4.332,
+        "at": 570.867
+      },
+      "gain": 0.31,
       "fadeIn": 2.5,
       "fadeOut": 2.5
     }
